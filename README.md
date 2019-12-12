@@ -16,6 +16,9 @@ Fetch OCR docs from DocumentCloud
 ```
  $ python -m tools.fetchdocs [-v]
 ```
+## Exploring the data
+
+See [Getting started with the data](https://github.com/NUKnightLab/Documenters.org/blob/master/EXPLORATIONS.md#getting-started-with-the-data) in the Explorations doc.
 
 ## From the project one-sheet
 
