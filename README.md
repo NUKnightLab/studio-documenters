@@ -33,10 +33,10 @@ How can text analysis/machine learning be used to augment capacity in smaller ne
 
 ### Milestones
 
- * Weeks 1-2: Meet with City Bureau, learn about meetings and documents; work with journalists and activists to begin developing questions about what’s in the documents; initial experiments with writing programs to analyze documents.
- * Weeks 3-5: Go deeper on software-based document analysis; generalize interviews with specialists into one or more personas who need a way to make use of information discovered by the software. Generate ideas for an effective interface for those people to make use of information.
- * Weeks 6-8: Further iteration on analysis software; further iteration on user interface for analysis
- * Weeks 9-10: Write up the project; work with City Bureau to transfer knowledge for ongoing development.
+ * [Weeks 1-2](https://github.com/NUKnightLab/Documenters.org/milestone/1): Meet with City Bureau, learn about meetings and documents; work with journalists and activists to begin developing questions about what’s in the documents; initial experiments with writing programs to analyze documents.
+ * [Weeks 3-5](https://github.com/NUKnightLab/Documenters.org/milestone/2): Go deeper on software-based document analysis; generalize interviews with specialists into one or more personas who need a way to make use of information discovered by the software. Generate ideas for an effective interface for those people to make use of information.
+ * [Weeks 6-8](https://github.com/NUKnightLab/Documenters.org/milestone/3): Further iteration on analysis software; further iteration on user interface for analysis
+ * [Weeks 9-10](https://github.com/NUKnightLab/Documenters.org/milestone/4): Write up the project; work with City Bureau to transfer knowledge for ongoing development.
 
 ### Links, Readings
 
