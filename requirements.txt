@@ -1,2 +1,4 @@
 requests==2.22.0
 tinydb==3.15.1
+jupyterlab==1.2.4
+Pillow==6.2.1
