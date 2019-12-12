@@ -1,0 +1,88 @@
+Board Meeting - Transfer Request
+Department
+4897 - Stroger Hospital
+4240 - Cermak Health Services
+4241 - Health Services JTDC
+4898 - Oak Forest Health Center
+4897 - Stroger Hospital
+4240 - Cermak Health Services
+4241 - Health Services JTDC
+4890 - Bureau of Health
+4891 - Provident Hospital
+4894 - CORE Center
+4897 - Stroger Hospital
+4891 - Provident Hospital
+4893 - ACHN
+4899 - Special Purpose Appropriations
+
+Total Transfer From:
+
+$
+
+Budget Account - Description
+501165 - Planned Salary Adjustment
+501165 - Planned Salary Adjustment
+501165 - Planned Salary Adjustment
+501165 - Planned Salary Adjustment
+501296 - Sal/Wag of Per Diem Employees
+501296 - Sal/Wag of Per Diem Employees
+501296 - Sal/Wag of Per Diem Employees
+501296 - Sal/Wag of Per Diem Employees
+501296 - Sal/Wag of Per Diem Employees
+501296 - Sal/Wag of Per Diem Employees
+501421 - Sal/Wag of Employee Per Contract
+501421 - Sal/Wag of Employee Per Contract
+501421 - Sal/Wag of Employee Per Contract
+580010 - Reserve For Claim
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+19,000,000
+
+Transfer Amount
+4,183,107.00
+71,321.00
+1,250.00
+3,395.00
+4,358,270.00
+1,134,323.00
+273,328.00
+87,256.00
+663,407.00
+139,230.00
+3,617,891.00
+203,513.00
+20,770.00
+4,242,939.00
+
+1
+
+Department
+4896 - Managed Care
+
+Total Transfer To:
+
+$
+
+19,000,000
+
+Budget Account - Description
+521155 - Managed Care Claims
+
+Transfer Amount
+$ 19,000,000.00
+
+ 

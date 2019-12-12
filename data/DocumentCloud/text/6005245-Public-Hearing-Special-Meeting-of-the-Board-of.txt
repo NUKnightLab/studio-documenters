@@ -1,0 +1,6057 @@
+DRAFT
+
+IMPACT 2020
+
+ 
+
+STRATEGIC PLAN
+2017?2019
+
+COOK COUNTY-HEALTH
+HOSPITALS SYSTEM
+
+D RAFT
+
+ABOUT THE
+
+COOK COUNTY HEALTH & HOSPITALS SYSTEM
+The Cook County Health & Hospitals System (CCHHS)
+is one of the largest public health care systems in
+the United States, providing a range of health care
+services regardless of a patient’s ability to pay.
+CCHHS serves approximately 300,000 unique patients
+annually through more than 1 million outpatient visits
+and more than 20,000 inpatient hospital admissions.
+The System operates:
+
+The System’s hospitals and ambulatory network are Joint
+Commission accredited. Stroger Hospital also holds
+certifications in stroke, burn, perinatal and oncology
+care. CCHHS’ Primary Care Medical Home model is
+also Joint Commission accredited.
+The Cook County Department of Public Health (CCDPH)
+serves 2.5 million residents in 124 municipalities
+and serves the public health needs of its jurisdiction
+through effective and efficient disease prevention and
+health promotion programs. CCDPH’s approach to
+protecting and promoting health brings residents,
+partners and resources together to address issues
+facing the communities it serves. The department
+is responsible for the prevention of the spread of
+nearly 70 reportable communicable diseases and the
+enforcement of Cook County and Illinois public health
+laws, rules and regulations.
+
+  John H. Stroger, Jr. Hospital of Cook County, a 450bed tertiary, acute care hospital;
+  Provident Hospital of Cook County, an 85-bed
+community acute care hospital on the south side;
+  A network of 15 community health centers, which
+offers primary and specialty care, along with limited
+diagnostic services;
+  Four Regional Outpatient Centers (ROCs) providing
+primary and specialty care as well as outpatient
+
+In fall 2012, CCHHS launched the CountyCare Health Plan
+as a demonstration project through a Centers for Medicare
+and Medicaid Services (CMS) 1115 Waiver granted to the
+state of Illinois Medicaid agency to early-enroll eligible
+low-income Cook County adults (ACA adults) into a
+Medicaid managed care program. Many of CountyCare’s
+150,000+ members are long-standing CCHHS patients
+who previously received care in keeping with CCHHS’
+mission to care for all regardless of their ability to pay.
+
+diagnostic and therapeutic services: Oak Forest
+Health Center, Sengstacke Health Center at
+Provident Hospital, Fantus Health Center and
+the Specialty Care Center on the central campus
+and the Ruth M. Rothstein CORE Center, a
+comprehensive care center for patients with HIV
+and other infectious diseases. The CORE Center is
+the largest provider of HIV care in the Midwest and
+one of the largest in the nation;
+
+CountyCare is a Managed Care Organization operated
+by CCHHS. Through CCHHS, CountyCare receives a
+capitated per-member per-month payment and pays
+for services rendered to members within the network.
+CountyCare‘s provider network includes all CCHHS
+facilities, every Federally Qualified Health Center in
+Cook County, community mental health centers and
+drug treatment centers, and more than 30 hospitals.
+
+  Cook County Department of Public Health
+(CCDPH), a state and nationally certified public
+health department serving suburban Cook County;
+  Cermak Health Services, which provides health
+care services to 50,000+ detainees at the Cook
+County Jail and residents of the Juvenile Temporary
+Detention Center every year; and
+
+CountyCare also covers approved home- and communitybased services, vision and dental services, and allows
+members to fill prescriptions at local pharmacies or use
+CCHHS pharmacy services, including a mail-order system.
+
+  CountyCare, one of the largest Medicaid managed
+care plans in Cook County.
+
+2
+
+ D RAFT
+
+TABLE OF CONTENTS
+Letter from the CEO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+About Impact 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Focus Area 1: Deliver High Quality Care. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Focus Area 2: Grow to Serve and Compete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Focus Area 3: Foster Fiscal Stewardship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Focus Area 4: Invest in Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Focus Area 5: Leverage Valuable Assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Focus Area 6: Impact Social Determinants of Health. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Focus Area 7: Advocate for Patients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Appendices. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 42
+Glossary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Organizational Chart. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Utilization Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Community Town Hall Summary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Employee Survey and Town Hall Meetings Summary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Timeline. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Analysis of Vision 2015. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+CCHHS Board Presentations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Three Year Financial Forecast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+
+Note to the reader: Impact 2020 provides strategic concepts and initiatives to guide CCHHS through the next three years
+recognizing that the System is operating in an extremely dynamic local, state and federal environment that may result in adjustments
+and reprioritizations to ensure success for the organization. The organization of the plan should not be seen as a prioritization of
+initiatives and objectives; rather, it is intended to describe how CCHHS will adapt and respond to the new health care landscape.
+Once adopted, progress toward attainment of the objectives in Impact 2020 will be monitored by the CCHHS Board of Directors.
+Tactics, measurements and milestones will be incorporated into the budget approval process over the next three years.
+Please see the glossary for definitions of select health care terms used in this report. Underlined terms are hyperlinked in the
+electronic PDF.
+For more information, please visit www.cookcountyhhs.org.
+
+3
+
+ D RAFT
+
+LETTER FROM
+
+THE CEO
+
+Public health systems are important community assets
+
+the years further exemplify our local, national and even
+
+that play a critical role in the larger health care delivery
+
+international impact.
+
+system and the overall health of the communities they
+
+In the 1890s, we were talking about new procedures
+
+serve. Cook County’s system is a shining example of
+
+related to germ theory. A century later, we pioneered
+
+public health at its best. The core mission of the Cook
+
+daily antiseptic bathing of Intensive Care Unit (ICU)
+
+County Health & Hospitals System (CCHHS) is to
+
+patients. Today, nearly one-third of the hospitals in the
+
+care for those most vulnerable – a mission that is
+
+United States use our approach for infection control in
+
+as important today as it was when the System first
+
+their ICUs.
+
+opened its ‘doors’ in 1835.
+
+Working with the U.S. Centers for Disease Control and
+
+Among the first patients we served were a German
+
+Prevention (CDC), we pioneered the use of rapid HIV
+
+girl with an abscessed hand and a Danish immigrant
+
+testing wherein results are available for the patient during
+
+afflicted with cholera. Our early experiences led to
+
+the same visit. Our findings, coupled with confirmatory
+
+breakthroughs that would advance medicine across the
+
+studies elsewhere, led to major changes in the CDC’s
+
+globe, benefitting generations to come. The first blood
+
+national recommendations on HIV testing.
+
+bank in the United States was established at Cook
+County Hospital in 1937 by Dr. Bernard Fantus. The
+
+CCHHS is in its 14th year as a National Cancer Institute
+
+first comprehensive trauma center in the nation was
+
+research program site that brings clinical trials and
+
+developed at Cook County Hospital in 1966 and
+
+studies to diverse communities across the county. Since
+
+today, 50 years later, it is the busiest in Illinois and
+
+our first grant in 2002, more than 1,100 patients have
+
+one of the most respected in the world.
+
+participated in clinical trials ultimately designed to
+improve patient outcomes and reduce well-known cancer
+
+While patient care has always been our primary mission,
+
+disparities along racial, ethnic and socioeconomic lines.
+
+our contributions to medical research and education over
+
+4
+
+ D RAFT
+Known internationally for exceptional medical training,
+
+The strategic decisions we make today will further the
+
+CCHHS is where nurses, medical students, residents and
+
+promise of our 180-year-old mission. Impact 2020 is
+
+fellows want to train. We are home to the only toxicology
+
+a living document that reflects our goals in a rapidly
+
+fellowship in Chicago and Stroger Hospital has the only
+
+changing health care environment. It reflects our
+
+dedicated trauma training program in the city. In 2014,
+
+commitment to work with our patients and communities
+
+we partnered with the United States Navy to embed their
+
+to develop strategies and partnerships that can have a
+
+doctors, nurses and corpsmen in our trauma unit working
+
+real impact on reducing health disparities. It reflects the
+
+alongside our experts to better prepare them for future
+
+need to take careful inventory of the services we can
+
+deployments – only the second time the Navy has turned
+
+provide at an exceptional level and balance those with
+
+to a civilian hospital for such training.
+
+the needs of our patients and communities. It reflects
+our intention to stay on top of emerging diseases and
+
+We also train resident physicians in dozens of other
+
+trends such as Hepatitis C, Zika, gun violence and the
+
+specialties who go on to work in health systems
+
+growing opioid epidemic. It reflects a commitment to our
+
+across the country. But I am most proud that
+
+employees who are the backbone of the organization.
+
+our graduates are more likely to work in settings
+
+It reflects a commitment to training and research that
+
+serving vulnerable populations than their peers
+
+benefits our patient population first and foremost.
+
+who train at other institutions.
+
+It reflects the input of hundreds of doctors, nurses,
+
+While research and training are essential elements of
+
+employees and community stakeholders. But most
+
+our System, our core mission remains the delivery of
+
+importantly, it reflects our pledge that the care we deliver
+
+high-quality, safe health care. Our two hospitals provide
+
+to our patients must meet the highest of standards.
+
+a broad spectrum of acute care, from delivering babies
+
+Impact 2020 presents an ambitious vision for the future
+
+to the most sophisticated cancer care. Our outpatient
+
+of the Cook County Health & Hospitals System. It defines
+
+services have grown to include more than 1 million
+
+strategic opportunities that establish a platform for the
+
+annual visits reflecting advancements in medicine that
+
+System’s continued success and respects our unwavering
+
+mitigate unnecessary hospitalization. Our correctional
+
+commitment to the communities and patients we serve.
+
+health team delivers top-notch, compassionate care to
+
+On behalf of our Board of Directors and our 6,700
+
+a very complex patient population and our public health
+
+employees, we are proud to serve the residents of Cook
+
+department continues to promote disease prevention
+
+County and excited about the impact this plan promises.
+
+strategies to keep our communities healthy.
+A lot has changed since CCHHS cared for its first patients
+
+Sincerely,
+
+more than 180 years ago: advancements in medicine,
+
+John Jay Shannon, MD
+
+the population of Cook County, the diseases we treat,
+emerging threats, clinical standards of care, technology,
+therapies, training – but our mission has not.
+
+5
+
+ D RAFT
+
+ABOUT
+
+IMPACT 2020
+The 2017-2019 strategic planning process began in early 2016 with an analysis of Vision 2015, the
+five-year strategic plan that was adopted by the Cook County Health & Hospitals System (CCHHS)
+Board of Directors in 2010. CCHHS has made significant progress in the last five years toward the
+achievement of the goals detailed in Vision 2015. These achievements can be found in the Appendix.
+The following mission and vision statements were adopted in Vision 2015 and continue to reflect
+CCHHS’ philosophy today.
+
+MISSION
+To deliver integrated health services with dignity and respect
+regardless of a patient’s ability to pay; foster partnerships with
+other health providers and communities to enhance the health of
+the public; and advocate for policies which promote and protect the
+physical, mental and social well-being of the people of Cook County.
+
+VISION
+In support of its public health mission, CCHHS will be recognized
+locally, regionally and nationally – and by patients and employees – as
+progressively evolving model for an accessible, integrated, patient-centered
+and fiscally-responsible health care system focused on assuring highquality care and improving the health of the residents of Cook County.
+
+6
+
+ D RAFT
+
+PRINCIPLES
+At the outset of Impact 2020, the System offered the following goal for its three-year strategic plan based on CCHHS’
+vision and developed five principles that would guide the creation and execution of the plan: to build a high-quality
+safe, reliable, patient-centered, integrated health system that maximizes resources to ensure the greatest benefit for the
+patients and communities we serve.
+These five principles, outlined below, challenge CCHHS to step out of its historical role to transform into a modern,
+integrated health system leveraging all of its component parts to lead in the provision of high-quality health care
+and the elimination of health disparities throughout Cook County.
+Improve health equity
+Health equity is achieved when every person has the opportunity to attain his or her full health potential
+and no one is disadvantaged from achieving this potential because of social position or other socially
+determined circumstances.1
+Provide high quality, safe, reliable care
+The quality of patient care is determined by the quality of infrastructure, training, competence of personnel
+and efficiency of operational systems.2 The fundamental requirement is the adoption of a system that is
+‘patient centered’ and the implementation of highly reliable processes.
+Maximize financial sustainability and demonstrate value
+Transformation requires significant focus on financial management to ensure that limited resources are expended
+in accord with the strategic priorities. Ensuring and measuring the value of CCHHS programs and services
+against appropriate industry standards will be critical for CCHHS to thrive in a competitive environment.
+Develop the workforce
+CCHHS’ 6,700+ employees are its biggest asset. Building employees’ skills through education and
+development opportunities focused on improving efficiency and quality of care, as well as staff
+and patient satisfaction will serve as the basis for all of its work.
+Lead in medical education, clinical investigation and research relevant to vulnerable populations
+Cook County has a rich history of medical training and top-notch clinical research, particularly for
+vulnerable populations. This legacy is an important component to maintain the System’s
+workforce pipeline and develop effective innovations in care.
+These five principles reflect the System’s unique market position as a public safety net system with a rich history of
+providing quality patient care to vulnerable populations as well as significant contributions to medical training and
+clinical investigation. Impact 2020 recognizes that CCHHS must work closely with the larger community, including but
+not limited to health care, social services, government and community groups to develop solutions to address the social
+determinants that disproportionately impact the populations CCHHS serves.
+
+1
+2
+
+”Health Equity.” Chronic Disease Prevention and Health Promotion. The Centers for Disease Control and Prevention, 10 Feb. 2015.
+Rao GN, ed. How Can We Improve Patient Care? Community Eye Health. 2002;15(41):1-3.
+
+7
+
+ D RAFT
+
+INTRODUCTION
+Staying true to its historic mission to ‘serve all without
+
+investments in its community-based services to improve
+
+regard for their ability to pay’ remains Cook County Health
+
+the delivery of outpatient primary and specialty care
+
+& Hospitals System’s (CCHHS) highest strategic priority.
+
+throughout Cook County.
+
+CCHHS continues to make investments in
+community-based care, including:
+
+Continuing to deliver on its 180-yearold mission in the new health care
+environment requires CCHHS to think,
+act and deliver care in a new way.
+
+   Recognizing that its aging facilities are the front
+door to the System for many patients, CCHHS
+made a commitment in 2016 to renovate, rebuild or
+relocate each of its community health centers in the
+coming years.
+
+CCHHS has been on a transformative journey over the
+
+  Creating a women and children’s center on the
+
+past several years that has provided the foundation
+
+fourth floor of Stroger Hospital intended to provide
+
+– financially and structurally – to both deliver on that
+
+comprehensive inpatient and outpatient care and
+
+promise and to become a provider of choice. The
+
+recently announced plans for significant family-
+
+health care market is moving at a pace never before
+
+focused service expansions in upgraded facilities
+
+seen, particularly in the Chicago market where mergers
+
+to serve the Cicero, Logan Square and Palatine
+
+and acquisitions lagged behind activity experienced
+
+catchment areas. In addition to increased primary
+
+across the national landscape. In recent years, dozens
+
+care services, CCHHS intends to offer expanded
+
+of once independent and even safety-net hospitals
+
+specialty care, dental and behavioral health services
+
+merged or created strategic partnerships with local or
+
+at more sites.
+
+national systems and the number of Federally Qualified
+
+  Working closely with the Cook County Bureau
+
+Health Centers (FQHCs) increased and they too entered
+
+of Asset Management, embarked on plans to
+
+into strategic alignments. These consolidations and
+
+construct a $118M health center on the System’s
+
+alignments have saved some institutions that were on the
+
+central campus. This health center, when complete
+
+brink of closure and better positioned others for growth
+
+in 2018, will provide state-of-the-art outpatient
+
+as health care reform took hold.
+
+care and administrative space allowing for the
+
+The new funding model under the Affordable Care Act
+
+demolition of the outdated Fantus clinic and the
+
+(ACA) and the Illinois Medicaid managed care strategy
+
+Hektoen building and the decommissioning of the
+
+requires the provider team to manage the health of its
+
+current administration building.
+
+members and to maximize the health of those members
+
+  Planning the construction of new Regional
+
+for a fixed amount of dollars. The model places an
+
+Outpatient Centers (ROCs) in the Provident
+
+increased focus on primary care and care coordination
+
+community and in the south suburbs are also
+
+to manage a patient’s illness before it leads to a more
+
+well underway. New ROCs will enable CCHHS
+
+complex condition requiring expensive emergency
+
+to provide enhanced primary, specialty,
+
+room or inpatient care. Over time, this managed care
+
+diagnostic and therapeutic services in more
+
+model promises to improve health outcomes and lower
+
+convenient locations for patients.
+
+overall health care costs. CCHHS is making significant
+
+8
+
+ D RAFT
+The System has also committed significant resources
+
+Today, CountyCare stands as the third largest
+
+to new and expanded behavioral health services.
+
+Medicaid managed care plan in Cook County
+
+Historically, CCHHS has played a limited role in
+
+serving more than 150,000 individuals.
+
+the provision of behavioral health services, yet the
+downstream impact of significant funding cuts to social
+
+Between July and November 2015,
+the latest period for which data
+is available, CountyCare was
+the number one chosen plan in
+Cook County, a testament to the
+high level of service and the 74%
+satisfaction level of its members.
+
+service agencies has disproportionately impacted
+CCHHS at the jail and in its emergency rooms where
+care is costly and not as effective as other more
+therapeutic settings. CCHHS’ planned expansion of its
+behavioral health portfolio will assist in filling in gaps left
+by funding cuts. In July 2016, CCHHS is opening its first
+Community Triage Center (CTC). The CTC will provide
+walk-in and police drop-off services for individuals
+needing mental health or substance abuse services.
+
+CountyCare competes with eight other Medicaid
+health plans, down from 18 just a year ago due to
+
+The Community Triage Center is
+expected to reduce the jail population,
+decrease avoidable emergency rooms
+visits, and markedly improve the
+opportunity for better health status of
+the individuals served.
+
+consolidations and departures of plans from the
+Illinois or Cook County market.
+As all Medicaid health plans are required to provide
+the same basic coverage and services, CountyCare
+continues to differentiate itself in the market through
+enhanced benefits such as additional covered
+dental visits, provider-led care management and the
+development of the Behavioral Health Consortium
+
+With the advent of the ACA, CCHHS leveraged
+
+designed to provide 24 hour mental health and
+
+its nearly two-century-old commitment to the
+
+substance abuse assistance. Utilizing the health risk
+
+community and launched CountyCare, a Medicaid
+
+assessment, CountyCare is working with partners to
+
+managed care plan serving Cook County residents.
+
+develop solutions around supportive housing, food
+
+As a provider-led and non-profit Medicaid health
+
+insecurity and job training for its members. CountyCare
+
+plan, patients – not profits – are the driving force
+
+also supplements the state’s redetermination efforts
+
+behind the plan. For example, CountyCare works with
+
+through mailings, phone calls and outreach as well as by
+
+its members to complete the state’s redetermination
+
+hosting ‘redetermination’ events throughout the county
+
+paperwork in an effort to ensure continuity of care
+
+to assist members with the process.
+
+and coverage whereas other plans may allow their
+members to lose coverage.
+
+9
+
+ D RAFT
+With further consolidation expected in the health
+care delivery and insurance sectors, national
+elections looming and a state in fiscal crisis,
+external forces will require CCHHS to remain
+nimble to achieve its ambitious goals. While
+data does not yet exist, estimates suggest and
+logic dictates that the ACA and Medicaid expansion
+will reduce uncompensated care provided by private
+hospitals. And while CCHHS saw an initial decline,
+uncompensated care is on the rise in 2016 - the result
+of either increased referrals of uninsured patients
+from other hospitals or the reality that many who hold
+marketplace plans simply cannot afford them.
+
+The ACA has created competition for many of CCHHS’
+patients, requiring additional investments and initiatives
+by CCHHS. Improving the patient experience is
+imperative for CCHHS. As a majority of CCHHS’ patients
+now have choice in where to seek care in today’s postACA environment, CCHHS must provide many of the
+same services, conveniences and amenities available at
+competing health systems.
+
+The System has recently made great strides
+to enhance the delivery of care and patient
+experience, such as:
+  Opening the new Patient Support Center (PSC)
+in 2016 to provide patients with a single point of
+
+CCHHS is one of the few health systems in the country
+that has all of the component parts for success under
+one umbrella. The opportunity this presents for strategic
+integration and impact is immense and should be
+capitalized on for the benefit of the communities and
+patients CCHHS serves. Leveraging and integrating all
+of CCHHS’ assets in an intentional manner will generate
+meaningful and actionable plans and position CCHHS
+as a health care leader both locally and nationally. It
+will also help enable CCHHS to achieve the Institute of
+Healthcare Improvement’s Triple Aim to improve the
+patient experience and the health of populations, while
+also reducing the cost of health care.
+
+contact to coordinate appointments and work
+with their care coordinator. The center takes calls
+24 hours Monday-Friday and expects to expand
+to 24-7 by the end of 2016. On average, the PSC
+receives more than 2,000 calls per day.
+  Investing more than $30 million on two new linear
+accelerators to provide state-of-the-art radiation
+treatment as part of multi-disciplinary cancer care;
+two new cardiac catheterization labs, new digital
+mammography machines at Provident Hospital and
+new patient and staff furniture and exam tables
+throughout the System.
+  Adding Saturday hours in health centers, improving
+
+With a careful eye on the
+external environment, CCHHS is
+implementing thoughtful strategies
+to develop its services, facilities
+and workforce to realize a fully
+integrated, modern health care
+system positioned for success.
+
+timeliness in emergency services, introducing
+electronic consult or ‘e-consult’ to provide easier
+access to specialty consultation and establishing
+new central registration capabilities to improve
+patient experience and streamline flow.
+Building on these patient-centered initiatives, CCHHS
+has the opportunity to increase access and capacity
+through expanded services, hours and language
+capabilities and improve overall quality and
+efficiency – all factors contributing to an excellent
+patient experience.
+
+10
+
+ D RAFT
+provide opportunities for CCHHS to implement process
+improvement strategies that will continuously raise the
+quality bar.
+The game changer in patient care will come from the
+comprehensive implementation of care management
+across all of CCHHS’ patient populations. The CCHHS
+care management model has explicit goals: improve
+patient outcomes, engage physicians and medical home
+teams and improve patient satisfaction.
+CCHHS has built a care management infrastructure
+that is now managing more than 90,000 CountyCare
+members, connecting them with appropriate care. Care
+managers seek to assist patients in managing their
+health, navigating the delivery system, linking to social
+services and reducing barriers – all contributors to higher
+quality care. Risk screenings implemented reliably across
+the System will not only drive individual care plans but
+also allow CCHHS to analyze and develop strategies that
+can improve population health. CCHHS believes that
+care management at the provider-level differentiates
+CCHHS as a provider and CountyCare as a plan, from
+the competition and will go a long way toward achieving
+the objectives of the Triple Aim.
+
+FOCUS AREA 1:
+Deliver High
+Quality Care
+
+The System’s Joint Commission certified Primary Care
+Medical Home (PCMH) model standardizes the delivery
+of primary care services within its community-based
+health centers. Each center now has the skills and
+resources to effectively manage its ‘panel’ of primary
+care patients using a team-based approach. The PCMH
+model coupled with planned capital investments in
+health facilities will ensure that CCHHS’ health centers
+are providing patient- and family-centered care in a
+modern, environment akin to the Federally Qualified
+Health Centers (FQHCs) who have enjoyed access to
+significant federal funds to rebuild and/or renovate
+
+While CCHHS has long focused its attention on
+providing excellent acute care in hospitals, the new
+health care environment provides immense opportunity
+for CCHHS to strengthen delivery of its outpatient
+services – primary care, specialty care, diagnostics,
+therapeutic, dental, behavioral health and pharmacy –
+to prevent unnecessary hospitalizations and reserving
+inpatient services when only medically indicated.
+As CCHHS moves toward a fully integrated system,
+greater standardization of evidence-based practices at
+every stage in the care continuum will result in highly
+reliable care and better outcomes for patients. The
+ability to measure practices and outcomes against
+national standards and other health systems will
+
+their facilities in recent years. Modernizing CCHHS
+facilities and providing access to a comprehensive
+portfolio of outpatient primary and specialty care as well
+as diagnostic and therapeutic services will also allow
+CCHHS to attract new patients and grow volumes.
+
+11
+
+ D RAFT
+CCHHS has a long, proud history of providing
+
+While health center improvements and increased access
+
+comprehensive inpatient care at Stroger and Provident
+
+and capacity will go a long way, CCHHS is committed
+
+hospitals. Few other hospitals provide the same depth
+
+to additional efforts to improve the patient experience.
+
+of services found in these facilities, and others have
+
+Rallying its workforce around a patient-centered
+
+scaled back inpatient services and specialties to focus
+
+approach that raises the bar on quality and customer
+
+on centers of excellence and market opportunities.
+
+service will require significant investment and effort
+
+CCHHS must take an objective look at the market
+
+across the organization. Ensuring that the System is
+
+needs, its clinical strengths, the strengths of its
+
+continuing to meet national Culturally and Linguistically
+
+competitors and partners and the needs of its
+
+Appropriate Services (CLAS) standards will improve
+
+patients as it plans for the future.
+
+quality, drive patient satisfaction and increase volumes.
+Recognizing that the System’s best ambassadors will
+
+CCHHS provides a comprehensive portfolio of
+
+always be patients and staff, the System will create
+
+health care services ranging from delivering babies
+
+internal and external reputation building campaigns.
+
+to performing cataract and trauma surgeries, from
+administering chemotherapy to addressing substance
+
+Delivering health care in a correctional setting requires
+
+abuse, and from helping patients walk again to providing
+
+professionals committed to a highly-complex patient
+
+passionate palliative care. Despite the availability of
+
+population. The total cost of caring for detainees at
+
+this continuum, it is not unusual for a patient to leave
+
+Cook County Jail is nearly $100 million annually with
+
+CCHHS’ care at various stages in their life, e.g. transition
+
+no reimbursement available due to federal rules. The
+
+into Medicare or immediately prior the birth of a baby.
+
+System’s expertise in treating this complex patient
+
+Strategies to better integrate care and market to
+
+population, which often suffers from multifaceted and
+
+patients in a life transition can improve retention.
+
+untreated physical and behavioral health conditions,
+is unique. CCHHS has successfully assisted more than
+
+Further, as health systems contemplate strategies to
+
+15,000 detainees at the Cook County Jail in obtaining
+
+avoid things like readmissions, many are considering
+
+Medicaid coverage post-discharge and is committed to
+
+investments in additional services along the continuum
+
+investing in additional strategies that treat behavioral
+
+rather than relying on external care providers (home
+
+health in the community, ensure access to appropriate
+
+health, behavioral health, nursing homes, etc.) so they
+
+community-based treatments and provide continuity
+
+may play a role in influencing care quality at all levels.
+
+of care. To accomplish the latter, CCHHS is working
+
+Additionally, many patients also transition along a
+
+on programs to automatically enroll detainees into
+
+continuum of coverage from being unemployed and
+
+CountyCare upon discharge and enhance discharge
+
+uninsured one day, to employed and insured the next.
+
+planning through comprehensive care management.
+
+CCHHS aspires to continue to care for these patients.
+
+12
+
+ D RAFT
+
+FOCUS AREA 1: Deliver High Quality Care
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+OBJECTIVES
+1.1 Standardize
+clinical operations,
+practices and
+procedures across the
+System to improve
+quality, reliability, and
+efficiency.
+
+HIGHLIGHTED TACTICS
+Leverage the Quality Council to implement
+standard measures.
+
+MEASUREMENTS/MILESTONES
+2017-2019: Continuous improvement in
+quality measures year-over-year.
+
+Pursue Magnet® status and adopt related
+standard metrics.
+Integrate continuous process improvement
+in care delivery (e.g. Six Sigma methodology)
+and maintain improvements.
+Invest in equipment, capital improvements
+and information technology.
+Develop a system-wide professional practice
+model for the delivery of high-quality, safe,
+patient-centered, evidence-based nursing
+care.
+Standardize and modernize outpatient clinic
+models with data and operational support to
+optimize operational practice.
+Implement Cerner CareConnect to provide
+clinicians with the ability to communicate,
+take clinical images, and receive clinical
+information in a Health Insurance Portability
+and Accountability Act (HIPAA) compliant
+fashion.
+Leverage other information technology
+initiatives such as Vizient data, and Clairvia
+(nursing management).
+Maintain high-quality, appropriate network for
+CountyCare.
+Screen patients using evidence-based care
+management techniques.
+
+2017: Screen at least 70% of the
+assigned CountyCare population,
+approximately 56,000.
+
+Structure Primary Care Medical Home (PCMH)
+practices to achieve Healthcare Effectiveness
+Data and Information Set (HEDIS) and
+Pay for Performance (P4P) targets.
+
+2018-2019: Achieve HEDIS and P4P
+targets related to PCMH practices.
+
+Implement CommonWell Electronic Health
+Record interoperability function to enable
+users to exchange and view patient data from
+different connected sources via a web-based
+portal allowing the aggregation and exchange
+of clinical health data.
+
+2017: Implement CommonWell.
+
+13
+
+2018-2019: Pursue Health Information
+and Management Systems Society
+(HIMSS) Level 7 designation.
+
+ D RAFT
+
+FOCUS AREA 1: Deliver High Quality Care
+PRINCIPLE(S)
+IMPACTED
+Health Equity
+
+High Quality Care
+
+OBJECTIVES
+1.2 Improve the
+availability of and
+access to health care,
+especially preventive
+care, for Cook County
+residents.
+
+HIGHLIGHTED TACTICS
+Make investments in outpatient facilities,
+leveraging CCDPH data on population
+health and changes in the local health
+care environment impacting availability of
+primary care or specialty services.
+
+MEASUREMENTS/MILESTONES
+2017: Open replacement Logan Square,
+Cicero and Vista Health Centers and make
+substantial progress on the new central
+campus building.
+Identify and announce three additional
+renovations or relocations.
+2017: Obtain land and design Providentcommunity regional outpatient center.
+
+Finances & Value
+
+New Regional Outpatient Centers (ROCs)
+in Provident community and south suburbs
+by 2020.
+Integrate and expand additional services,
+especially in outpatient health centers,
+including behavioral health (mental
+health and substance abuse) dental,
+specialty care, HIV care, e-Consult,
+pediatric services, naloxone access, and
+early detection screening services where
+demographics and analytics support
+optimal utilization.
+
+2017: Integrate behavioral health into all
+outpatient health centers and ROCs and
+expand specialty behavioral health.
+
+Establish an integrated continuum of
+behavioral health services throughout
+CCHHS, including CountyCare.
+Integrate behavioral health practice
+management tools within the electronic
+medical record.
+Implement operational improvements
+to improve access: expand evening and
+weekend hours at health centers and
+specialty care sites, adopt open access
+appointment model, provide timely
+follow up appointments from Emergency
+Department (ED), and optimize times,
+locations and spectrum of specialty
+services available at CCHHS health centers.
+
+2017-2019: Attain year-over-year increases
+in primary care patients empaneled at
+community health centers and patient
+satisfaction scores; The Stroger and
+Provident Emergency Departments will
+see decreases in volume for ambulatory
+sensitive conditions.
+
+Continued focus on strengthening PCMH.
+
+2017-2019: Increase year-over-year of
+patients assigned to a PCMH.
+
+Increase utilization of Provident Hospital
+operating rooms.
+
+2017: Increase utilization of operating
+room at Provident Hospital by 10%,
+using 2,160 as the baseline.
+
+Implement a connectivity HUB in Cerner to
+facilitate transmission of orders and results
+between different electronic medical
+record systems.
+
+2017: Implement connectivity HUB.
+
+14
+
+ D RAFT
+
+FOCUS AREA 1: Deliver High Quality Care
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+Finances & Value
+
+OBJECTIVES
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/MILESTONES
+
+1.3 Ensure there is a
+continuum of services
+to meet evolving
+needs to ensure
+continuity of care
+and meet patient
+needs at all stages of
+their lives.
+
+Conduct analysis of services and identify
+gaps in the continuum of care and add
+services (e.g. nursing homes, rehabilitation
+facilities, home care, home infusion, Mealson-Wheels).
+
+2017: Complete analysis on gaps in service
+and action plan complete to address the
+needs.
+
+Market CCHHS as the provider of a
+continuum of care with special focus on
+those transitioning to Medicare.
+
+2017-2019: Increase volume of Medicare
+patients year-over-year.
+
+Deploy or enhance care coordination
+throughout the System and CountyCare,
+including community health workers.
+
+2017-2019: Provide ongoing care
+coordination to at least 3,200 CountyCare
+members and launch ongoing care
+coordination to at least 1,000 of CCHHS
+primary care patients.
+
+2018-2019: Add services on continuum,
+leading to better outcomes, reductions in
+readmissions.
+
+2017-2019: Realize cost savings and
+increase Patient Satisfaction scores.
+
+Health Equity
+
+High Quality Care
+
+Finances & Value
+
+1.4 Develop systems
+that meet or exceed
+expectations and
+enhance the patient
+experience.
+
+CCHHS Department of Psychiatry
+to resume consulting services in the
+Emergency Rooms.
+
+2017: Implement resumption of Department
+of Psychiatry services in Emergency Rooms.
+
+Strengthen pediatric services, by increasing
+overall activity and making it more available
+in the community by developing pediatric
+care partnerships, retaining pediatric
+patients and identifying kids at risk through
+care management.
+
+2017: Optimize quality and safety by
+consolidating a single pediatric inpatient
+unit with partners.
+
+Contract with a patient experience
+consultant to complement and enhance
+current efforts. Identify areas for
+concentrated focus.
+
+2017: Increase patient satisfaction
+numbers across the System with results
+in concentrated areas such as new health
+centers moving into top decile.
+
+2017: Enter into one Memorandum of
+Understanding (MOU) with a pediatric
+partner.
+
+2017: Target the 50th percentile for
+“willingness to recommend the hospital”.
+Reduce scheduling wait times for
+diagnostic and Evaluation and
+Management (E&M) visits.
+
+2017-2019: Reduce wait times
+year-over-year.
+
+Decrease ambulatory dwell time
+through process improvements.
+Develop Workforce
+
+Launch internal and external campaigns
+focused on customer service, patient
+conveniences and reputation building.
+
+2017: Facilitate customer service and
+safety training for 75% of staff.
+
+Initiate employee service excellence
+program to increase patient satisfaction.
+Implement training in safety culture and
+high reliability throughout the institution.
+
+2017-2019: Increase Culture of Safety (COS)
+scores annually.
+2018-2019: Complete manager training.
+2017-2019: Complete Safety and High
+Reliability training.
+
+Implement leader rounding, safety huddles,
+standard training, unit-based problem
+solving.
+
+15
+
+2017: Ensure all units perform safety
+huddles.
+
+ D RAFT
+
+FOCUS AREA 1: Deliver High Quality Care
+PRINCIPLE(S)
+IMPACTED
+Health Equity
+
+High Quality Care
+
+Develop Workforce
+
+OBJECTIVES
+1.5 CCHHS will work
+to ensure that patients
+receive Culturally
+and Linguistically
+Appropriate
+Services (CLAS)
+through effective,
+understandable,
+and respectful care,
+provided in a manner
+compatible with
+cultural health beliefs
+and practices and
+preferred language.
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/MILESTONES
+
+CCHHS will work to hire more bilingual
+employees.
+
+2017: Assess current state and develop
+a strategy to recruit bilingual staff.
+
+Assess patient satisfaction surveys with
+a focus on responses addressing CLAS
+standards.
+
+2017: Add CLAS Cultural Competence
+Item Set to patient satisfaction surveys by
+mid-2017; Monitor results afterwards to
+ensure improvement.
+2017-2019: Continue to meet
+CLAS standards.
+
+CountyCare will develop mechanisms to
+ensure communications occur in members’
+preferred language.
+Develop cultural competency of workforce.
+
+2017: Conduct annual employee training.
+2017-2019: Increase communication with
+doctors metric to the 70th percentile for
+all Press Ganey databases (currently 64%
+for all databases and 99% for government
+teaching hospitals).
+
+Health Equity
+
+High Quality Care
+
+1.6 Integrate services
+with correctional
+health, both by
+focusing on early
+interventions to
+prevent arrests
+and reduce the jail
+population and by
+ensuring continuation
+of care when detainees
+are released from
+correctional facilities
+and reside in Cook
+County.
+
+Open Community Triage Center and
+evaluate expansion of Community Triage
+Centers.
+
+2016: Open Community Triage Center
+in Roseland.
+
+Enroll detainees in Medicaid.
+
+2017: Determine explicit approach for
+continuity of care for justice-involved
+populations.
+
+Work with CMS to reduce gaps in care
+through enhanced discharge planning.
+
+2017: Obtain ability to reduce gaps in
+care for detainees at the jail.
+
+Pursue substantial compliance with DOJ
+order.
+
+2017: Achieve substantial compliance
+with DOJ.
+
+2017-2019: Reduce the number of people
+in the jail with behavioral health issues.
+
+Create specialty support at Cermak.
+Implement naloxone program at the jail.
+Apply for National Commission on
+Correctional Health Care (NCCHC)
+accreditation.
+Explore additional opportunities to
+reduce jail population.
+
+16
+
+2016: Implement naloxone program
+at the jail.
+
+ D RAFT
+At the same time CCHHS faces unprecedented
+competition for newly-insured patients. Capturing a
+larger share of the Medicaid market is vital to its success
+regardless of the plan in which a patient is enrolled.
+Like other health systems, CCHHS continues to build
+its internal capacities and infrastructure to succeed in
+the complex managed care environment, from preauthorizations to billing. CCHHS entered into contracts
+with six Managed Care Organizations (MCOs) in 2016
+with revenues expected to exceed $200 million annually
+from services CCHHS provides to non-CountyCare
+
+FOCUS AREA 2:
+
+Medicaid MCO members.
+As the System continues to improve facilities, increase
+
+Grow to Serve
+and Compete
+
+access and capacity, improve customer service and
+more, a parallel strategy must include additional
+investments in reputation building and branding around
+service lines, staff expertise and centers of excellence.
+Many have noted in recent years positive changes,
+from the creation of the Patient Support Center to
+improvements in patient parking. It is incumbent upon
+CCHHS to capitalize on the positive and build a new
+brand identity for the System. Significant investment and
+buy-in from all staff and stakeholders will be required
+for CCHHS to transform into an easily- recognized and
+valued provider of choice.
+
+Insurance Status
+of CCHHS Patients
+
+CCHHS’ growth strategy began in 2012 with the
+Federal 1115 Waiver that created CountyCare,
+100
+
+CCHHS’ Medicaid managed care plan that currently
+
+80
+
+As a direct result of the ACA and CountyCare, in
+
+60
+
+Years
+
+serves more than 160,000 Cook County residents.
+
+just two years, CCHHS’ patient profile changed from
+majority uninsured to majority insured. With nearly
+70% of CCHHS patients insured today, CCHHS’
+
+45.6
+
+63.5
+
+67.7
+
+40
+20
+
+54.4
+
+patients now have access to comprehensive health
+
+36.5
+
+32.3
+
+2014
+
+2015
+
+0
+
+care services through almost any provider and for
+
+2013
+
+many, within the very community they live.
+
+Uninsured/self pay
+
+17
+
+Insured
+
+ D RAFT
+Today, CountyCare stands as one of the largest
+
+According to the Illinois Medicaid office,
+
+Medicaid health plans serving residents of Cook
+
+CountyCare is the only plan that consistently
+
+County, a position that without continued growth is
+
+reaches out to its members and network providers
+
+certain to be lost as consolidation in Illinois’ Medicaid
+
+to encourage the completion of redetermination
+
+health plan market is occurring rapidly.
+
+paperwork. From mailings, phone calls, educational
+materials in health centers and events designed
+
+Unlike marketplace enrollment, Medicaid does not
+
+solely to assist CountyCare members and CCHHS’
+
+have an annual ‘open-enrollment’ period requiring
+
+patients who are Medicaid beneficiaries, CCHHS
+
+marketing efforts to be year-round, a costly
+
+and CountyCare expend considerable resources
+
+proposition for a government-run health plan. To
+
+supplementing the state process.
+
+date, CountyCare has spent a majority of its paid
+advertising budget to build brand awareness in zip
+
+Organic growth opportunities for CountyCare
+
+codes with a high density of Medicaid beneficiaries.
+
+are limited and the yield is minimal. To remain an
+
+CountyCare will be supplementing these efforts with
+
+influential player in the Medicaid managed care
+
+digital, micro-marketing strategies targeting specific
+
+space, the acquisition of an established managed
+
+segments of the Medicaid population.
+
+care plan is an attractive growth strategy for the
+health plan.
+
+Operating as a truly provider-led health plan,
+CountyCare prides itself on going the extra mile
+for its members. CountyCare intends to add new
+benefits for its members to address several social
+determinants of health that disproportionately
+impact its members. Value-added benefits such as
+linkages to healthy foods and supportive housing
+are expected to improve the health of CountyCare
+members and attract new members.
+
+18
+
+ D RAFT
+
+FOCUS AREA 2: Grow to Serve and Compete
+PRINCIPLE(S)
+IMPACTED
+Finances & Value
+
+OBJECTIVES
+2.1 Grow primary care base.
+
+HIGHLIGHTED TACTICS
+Expand outpatient services available and
+improve scheduling and efficiency at
+outpatient sites.
+
+MEASUREMENTS/
+MILESTONES
+2017: Increase in empaneled
+primary care patients by 10%,
+from baseline of 87,900.
+Growth of primary care base to
+150,000 by 2020.
+
+Health Equity
+
+Finances & Value
+
+2.2 Retain and grow CountyCare
+membership through marketing,
+acquisition and State policy
+changes on redetermination and
+jail detainee coverage.
+
+Develop and implement strategies to
+retain and attract members.
+
+2017: In 1st quarter of 2017,
+provide CCHHS Board of
+Directors with retention and
+acquisition strategy.
+
+Explore options in acquiring additional
+members through changes in the
+marketplace.
+
+2017-2019: Increase membership.
+
+Work with local, state and federal
+stakeholders to streamline the care
+transition process for justice-involved
+populations to prevent gaps in care.
+Advocate for state policy changes that
+result in a simpler redetermination process.
+
+2017-2019: Stabilize CountyCare
+membership through improved
+support and processes around
+redeterminations.
+2017-2019: Improve the
+number of and success rate of
+redeterminations.
+
+Finances & Value
+
+2.3 Capture more CountyCare
+members as referrals by
+increasing internal referrals for
+CCHHS specialty and inpatient
+care.
+
+Expand services available at CCHHS
+outpatient health centers.
+
+2017: Achieve higher percentage
+of CountyCare referrals to
+specialty and inpatient care
+year-over-year.
+
+Facilitate timely access to CCHHS
+specialists, including deploying e-Consult
+to all CCHHS sites.
+
+Increase the total dollar value of
+CountyCare claims for CCHHS
+health centers paid from 28% to
+40% by 2018.
+
+19
+
+ D RAFT
+
+FOCUS AREA 2: Grow to Serve and Compete
+PRINCIPLE(S)
+IMPACTED
+Health Equity
+
+High Quality Care
+
+MEASUREMENTS/
+MILESTONES
+
+OBJECTIVES
+
+HIGHLIGHTED TACTICS
+
+2.4 Leverage CountyCare
+data to provide value- added
+benefits to assist in addressing
+social determinants of health
+and serve as a motivator to
+remain in care, preferably with
+CountyCare.
+
+Explore connections with food benefits,
+supportive housing, transportation and job
+training.
+
+2017-2019: Improve retention and
+recruitment of members.
+
+2.5 Identify existing centers of
+excellence and invest in the
+development of additional
+centers based on community
+need, system expertise and
+available resources.
+
+Analyze current clinical operations to
+identify centers of excellence.
+
+2017: Identify two centers of
+excellence.
+
+Raise awareness of centers of excellence
+to increase volumes.
+
+Increase volumes for 2017 centers
+of excellence increased year-overyear.
+
+Develop multi-disciplinary quality
+assurance process (Trauma/Burn).
+
+2017: Attain American College of
+Surgeons (ACS) Level 1 Trauma
+certification.
+
+Finances & Value
+
+High Quality Care
+
+Finances & Value
+
+Identify services for which advanced
+accreditation is appropriate and pursue
+additional accreditations.
+
+20
+
+ D RAFT
+While CCHHS’ budget grew from $967 million in
+2009 to more than $1.6 billion in 2016, the Cook
+County Health Fund Allocation (i.e. local taxpayer
+support for operations) decreased by 75% from
+$481 to $121 million.
+As CCHHS moves towards greater financial strength,
+the System will begin to assume costs that Cook
+County Government traditionally funded including,
+capital, debt service and pension expenses.
+To support this and additional growth strategies,
+
+FOCUS AREA 3:
+
+CCHHS must diversify its revenue stream. Additional
+Medicaid dollars through MCO contracts, coupled with
+
+Foster Fiscal
+Stewardship
+
+strategies to grow the share of CountyCare members
+CCHHS is serving, will be significant drivers of CCHHS’
+financial success. Continued efforts to improve clinical
+documentation and billing and increased marketing
+efforts will yield additional revenues as well.
+
+Cook County Health Fund Allocation
+Local Tax Dollars Supporting CCHHS Operations
+2016
+
+$121M
+
+2015
+
+$164M
+
+2014
+
+Fulfilling CCHHS’ mission has a direct and substantial
+impact on its financial performance. An organization
+that provides hundreds of millions of dollars in
+uncompensated care every year – more than most of
+its regional neighbors combined – is not expected
+to have a year-end operating surplus. Yet, in order to
+
+$175M
+
+2013
+
+$252M
+
+2012
+
+$254M
+
+2011
+
+succeed in today’s health care environment, CCHHS
+has placed significant attention on its finances in recent
+
+$276M
+
+2010
+
+years and produced a much-improved financial position
+in both 2014 and 2015 - the direct result of leveraging
+
+$389M
+
+2009
+
+opportunities created by the ACA, establishing and
+growing CountyCare and increased attention on
+
+$481M
+$0
+
+operational efficiencies.
+
+$100
+
+$200
+
+$300
+
+$400
+
+$500
+
+$600
+
+Note: Pension and debt service not included in calculations
+
+21
+
+ D RAFT
+Additional untapped opportunity exists for CCHHS to
+
+The mergers and consolidations of health systems in
+
+raise extramural funds to support important programs
+
+the Chicago market have lowered costs, increased
+
+and priorities. For example, a recent grant from the
+
+efficiencies and improved market positions for some
+
+Otho S. A. Sprague Memorial Institute provided critical
+
+hospitals and health systems. As CCHHS’ future success
+
+funding to develop CCHHS’ new Community Triage
+
+is tied to its ability to compete with these organizations,
+
+Center. As CCHHS successfully demonstrates fiscal
+
+CCHHS must seize every opportunity to operate more
+
+stewardship, considerable opportunity exists to compete
+
+efficiently and more effectively. Initiatives related
+
+for extramural funds to underwrite strategically aligned
+
+to staffing, supply chain management, information
+
+initiatives.
+
+technology and marketing will bolster CCHHS in this
+competitive environment.
+
+Despite these new opportunities, CCHHS must maintain
+significant focus on external factors such as the State
+
+Participation in national benchmarking databases will
+
+budget, national elections and pressure in Washington
+
+allow CCHHS to hone in on opportunities, both short-
+
+to reduce total Medicaid spending and the 340B drug
+
+and long-term that can have the greatest impact on
+
+pricing program. Continued advocacy efforts to protect
+
+lowering operating expenses, while new nurse staffing
+
+these critical resources are required.
+
+software will result in clinically appropriate staffing
+models that assure safe care and are responsive to
+fluctuations in census and severity of illness. Further,
+utilization management in the health plan can provide
+opportunities to improve care and reduce costs.
+
+22
+
+ D RAFT
+
+FOCUS AREA 3: Foster Fiscal Stewardship
+PRINCIPLE(S)
+IMPACTED
+Finances & Value
+
+OBJECTIVES
+3.1 Maximize reimbursements
+from Managed Care
+Organizations (MCOs) and
+private insurance and compete
+on value, grow membership and
+influence MCO strategy.
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/
+MILESTONES
+
+Expand outpatient services available.
+
+2017: Increase in primary care
+patients by 10% year-over-year.
+
+Continue outreach to MCOs to increase
+the number of contracts. Develop
+approach to review contracts to determine
+cost/benefit.
+
+2017: Increase MCO revenue by
+25%.
+
+Continue to review and improve
+operations and processes to maximize
+reimbursement from MCOs.
+Conduct utilization management, claims
+payment and reporting to support MCOs
+contracts.
+Improve billing by reconciliation of clinical
+registrations and billing system output.
+
+Finances & Value
+
+3.2 Optimize CCHHS revenue
+by balancing the portfolio of
+funding sources and pursuing
+various legislative solutions.
+
+Implement full billing for oral and
+behavioral health.
+
+2017: Increase revenue for oral
+and behavioral health services.
+
+Maximize extramural grant sources to
+support CCHHS patients and vulnerable
+populations; capture related indirect cost.
+
+2017: Increase indirect cost
+dollars from grants.
+
+Advocate for local government financial
+support of unfunded mandates.
+
+2017-2019: Maintain local
+government financial support
+for unfunded mandates, such as
+funding for correctional health
+and public health.
+
+Advocate for adequate level of Medicaid
+spending in state appropriations.
+
+2017-2019: Work with legislators
+to draft, introduce, pass, support
+and/ or oppose legislation
+impacting CCHHS.
+
+Work with external partners, including
+other large urban public health systems,
+on shared policy priorities and targeted
+advocacy efforts.
+
+2017-2019: Conduct issueoriented educational sessions for
+legislators and staff twice a year.
+
+Oppose efforts to diminish the benefits of
+the 340B Drug Discount Pricing Program.
+Educate legislative staff and appropriators
+on CCHHS operations and community
+value.
+Explore Disproportionate Share (DSH), and
+supplemental payment programs designed
+to assist providers treating specific
+populations.
+Advocate for state Medicaid Graduate
+Medical Education payments.
+Advocate for policies to provide Medicaid
+reimbursement for detainees while in
+County jails.
+
+23
+
+2017-2019: Advocate for State
+financial support for Medicaidbased Graduate Medical
+Education payments.
+
+ D RAFT
+
+FOCUS AREA 3: Foster Fiscal Stewardship
+PRINCIPLE(S)
+IMPACTED
+Finances & Value
+
+OBJECTIVES
+3.3 Demonstrate fiscal
+responsibility with limited
+resources by controlling
+costs and maximizing
+efficiency.
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/MILESTONES
+
+Streamline administrative processes (hiring
+supply chain, purple form badging and
+optimize use of electronic medical record).
+
+2017: Reduced time to hire,
+procure, badging.
+
+Leverage other information technology
+initiatives such as Countywide Enterprise
+Resource Planning (ERP) implementation,
+Vizient data and Clairvia (nursing
+management).
+
+2017: Implement ERP core finance,
+budget preparation; 2018: Human
+Resources/Payroll and Supply Chain.
+
+Explore partnerships for lab automation.
+
+2017: Achieve ability to fund capital
+equipment and improvements from
+operating budget.
+
+Utilize volume, unit costs and other data
+to routinely ensure staffing is in-line with
+appropriate industry standards.
+
+2017-2019: Improve management
+of staffing, overtime.
+
+Maintain high quality, appropriate network
+for CountyCare.
+Finances & Value
+
+High Quality Care
+
+3.4 Improve provider
+documentation to
+support coding and
+billing to reflect the level
+of service provided and
+the complexity of illness
+of the patients.
+
+Provide tools for providers to collaborate
+with Health Information Management (HIM)
+to achieve chart completion and coding
+queries to support timely billing.
+
+2017: 95% of History & Physical (H&P)
+complete by discharge, up from 88%
+completion rate.
+
+Provide coding support to providers
+(training and software).
+
+2018: 95% of providers trained in
+coding.
+
+2017: 95% of Discharge Summary
+complete in seven days, up from
+current 60% rate.
+
+2017-2018: Establish Relative Value
+Units (RVUs) for each physician.
+Finances & Value
+
+Finances & Value
+
+Finances & Value
+
+3.5 Deploy efforts to
+increase patient safety,
+documentation and
+communication to limit
+financial exposure to
+litigation claims and
+minimize information and
+data security risks.
+
+Foster patient safety program.
+
+Identify information technology risks and
+develop mitigation plan.
+
+2017: Set up remote hosting for IT
+systems.
+
+3.6 Ensure patients and
+members receive the
+right care, at the right
+time in the right place.
+
+Conduct utilization management review of
+claims.
+
+2017: Increase utilization management
+year-over-year.
+
+3.7 Expand marketing
+and branding strategy
+to raise the profile of
+CCHHS and CountyCare.
+
+Execute marketing and branding strategy.
+
+2017: Increase patient and member
+volume.
+
+Develop marketing strategies for specific
+service lines.
+
+2017: Increase babies delivered at
+Stroger by 10%, an additional 20% in
+2018 and an additional 30% in 2019,
+up for a baseline of 900.
+
+Provide education regarding riskreduction including documentation and
+communication.
+Mitigate claims expenses through employee
+training.
+
+2017: Conduct event review for
+all litigation and implement and
+communicate lessons learned.
+2017: Facilitate education for all
+providers in risk reduction.
+
+2017: Initiate one focused project on
+medication management to decrease
+unnecessary encounters.
+
+24
+
+ D RAFT
+system and ensures the right complement of staffing
+at all levels to deliver high-quality health care. Working
+closely with its labor partners, CCHHS envisions a
+modern staffing model that cross-trains individuals for
+both effectiveness and efficiency.
+Importantly, CCHHS has reduced the ‘time to hire’
+significantly in the past two years and continues to
+streamline where possible. CCHHS continues to work
+towards ‘substantial compliance’ in the federal Shakman
+Decree. Training sessions and compliance monitoring
+are ongoing to ensure the integrity of the processes in
+
+FOCUS AREA 4:
+
+place. The efficiencies that have been gained as a result
+of changes reflecting CCHHS’ competition for health
+
+Invest in Resources
+
+care providers are noticeable across the organization.
+Leadership hosts a monthly labor management meeting
+that brings together system and union leadership
+to discuss common issues and to develop common
+solutions. These efforts have enabled leadership to vet
+operational changes and strategic plans with labor to
+improve communications and reduce disruptions that
+can result from change.
+At the center of CCHHS’ employee strategy is employee
+engagement. The sheer size, geography and diversity
+of CCHHS’ employees requires a comprehensive effort
+to better engage employees in moving the organization
+forward. The System will conduct an employee
+
+Recognizing that its workforce is the primary driver
+
+engagement survey and use the results to develop
+
+of success, CCHHS will make significant investments
+
+a comprehensive strategy with metrics to engage
+
+in employee engagement, professional development
+
+employees at all levels of the organization.
+
+and training of all its workforce members. CCHHS will
+
+Professional development and training are critical
+
+continue to recruit top-flight medical staff and work
+
+imperatives in a modern health system. CCHHS
+
+closely with its labor partners who represent nearly 90%
+
+is committed to the creation of a comprehensive
+
+of the System’s employees to advance strategies that
+
+professional development strategy that touches
+
+allow transformation with minimal disruption to patient
+
+all employees and includes continuing education
+
+care. CCHHS is committed to a comprehensive strategy
+
+opportunities, assisting, encouraging and incentivizing
+
+that fosters improved communications, front-line staff
+
+employees to earn advanced degrees and helping all
+
+involvement and job satisfaction. That strategy starts
+
+employees better understand the impact of the external
+
+with a staffing plan that reflects a modern health care
+
+market on the operations of CCHHS.
+
+25
+
+ D RAFT
+Continued investments in CCHHS’ technology
+
+Despite averaging $25 - 30 million in depreciation
+
+infrastructure will result in improved patient care.
+
+annually, CCHHS has had limited focus on the
+
+CCHHS’ hospitals have earned Health Information
+
+replacement of capital equipment. However, recent
+
+and Management Systems Society (HIMSS) Level 6
+
+investments in new capital equipment are beginning
+
+recognition, a milestone achieved by only 27% of
+
+to show results. Two new linear accelerators at Stroger
+
+hospitals in the U.S. CCHHS is hard at work to join
+
+Hospital are the busiest in the state, delivering
+
+the 4% of hospitals that have achieved Stage 7.
+
+precise and advanced radiation treatment to cancer
+
+The creation and security of a strong information
+
+patients with less damage to the surrounding
+
+technology system remains a critical operational
+
+tissue. Expansions to cardiac catheterization and
+
+strategy for the organization.
+
+interventional radiology suites have increase capacity
+and a new advanced MRI is serving more than 7,000
+inpatient and outpatient visits each year. While
+these investments are impressive, CCHHS is faced
+with a significant backlog of deferred capital and
+maintenance costs that must be addressed in the
+coming years.
+
+26
+
+ D RAFT
+
+FOCUS AREA 4: Invest in Resources
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+OBJECTIVES
+
+Provide a health care experience that is
+patient-centered and convenient, including
+extended weekend and evening hours,
+patient support center, pre-registration,
+parking.
+
+2017: Establish extended hours at all
+health centers.
+
+4.2 Recruit, hire and retain
+the best employees, who
+are committed to the
+CCHHS mission.
+
+Conduct an Employee Engagement Survey.
+
+2017: Develop action plan based
+on top-drivers upon completion of
+employee engagement survey and
+other employee feedback
+
+Measure workforce engagement using
+validated tool with benchmarks.
+Promote employee feedback email address.
+Perform annual performance evaluations.
+Strengthen management and leadership
+training.
+Streamline hiring process.
+Implement aligned strategies regarding
+Graduate Medical Education to attract and
+retain superior clinical faculty.
+
+Health Equity
+
+4.3 Strengthen CCHHS
+Workforce.
+
+2017: Implement online annual
+performance evaluations.
+2017: Reduce time to hire by 15% for
+non-credentialed positions.
+
+Enhance collaboration with labor
+management to further employee
+engagement.
+
+2017: Achieve substantial compliance
+on the employment plan.
+
+Expanding diversity of recruiting advertising.
+
+2017: Increase number and type of
+advertising outlets for recruitment.
+
+Conduct an analysis of organizational
+leadership needs.
+
+Develop Workforce
+
+Analyze span of control for managers.
+High Quality Care
+
+MEASUREMENTS/MILESTONES
+
+4.1 Partner with labor
+to provide a health
+care experience that is
+convenient to patients.
+
+Develop Workforce
+
+Develop Workforce
+
+HIGHLIGHTED TACTICS
+
+Review of competency-based, “top of
+license” model of care across the System.
+
+27
+
+2017: Conduct an analysis of bench
+strength by area to determine future
+areas of risk.
+2018-2019: Amend employment plan
+to allow for succession planning.
+2017: Complete action plan on span of
+accountability.
+2017-2019: Review job titles for “top
+of license” model of care and make
+recommendations on changes in care
+delivery roles in primary, specialty and
+diagnostic services.
+
+ D RAFT
+
+FOCUS AREA 4: Invest in Resources
+PRINCIPLE(S)
+IMPACTED
+Education &
+Research
+
+OBJECTIVES
+4.4 Enhance medical
+education by further
+development of safety
+culture and reporting.
+
+HIGHLIGHTED TACTICS
+Implement Clinical Learning Environment
+(CLER) Pathways to Excellence.
+
+MEASUREMENTS/MILESTONES
+2017: Increase Culture of Safety Survey
+response rate from under 10% to 30%.
+2017: Provide ongoing teamwork
+coaching to at least 50% of leadership
+by end of year.
+
+High Quality Care
+
+2018-2019: Increase safety event
+reporting from around 350 per year to
+800.
+2018-2019: Reach or exceed
+the national mean in creating an
+environment that “residents can raise
+issues without fear of retaliation.”
+
+High Quality Care
+
+4.5 Strengthen quality
+of care by systematic
+assessment of capital
+equipment, development
+of multiyear replacement
+strategy.
+
+Pursue academic partnership with one
+college of nursing to foster and grow
+nursing research at CCHHS.
+
+2017: Dialogues with local partners
+regarding nursing education
+affiliations.
+
+Enter falls into a national database for
+benchmark comparisons.
+
+2018-2019: Set unit-based fall goal.
+
+Develop capital equipment assessment and
+replacement plan.
+
+2017: Complete capital equipment
+replacement plan.
+
+Invest dollars in capital equipment greater
+than annual depreciation.
+
+28
+
+ D RAFT
+CCHHS has an employed medical staff of more than 600
+physicians across dozens of specialties and locations.
+Harnessing the power of this great talent is central
+to CCHHS’ efforts. Working closely with physicians
+and labor partners, CCHHS will build a medical
+staff practice to develop medical strategies, ensure
+seamless coordination with managed care and
+increase volumes, as well as develop evaluative criteria
+to measure, incentivize and reward success. A unified
+Cook County medical group would be able to drive
+patient satisfaction and to generate and distribute
+
+FOCUS AREA 5:
+
+revenue toward research, professional development
+and innovations in clinical practice.
+
+Leverage Valuable
+Assets
+
+Nurses are at the center of patient care. Their role in
+ensuring effective, compassionate and high-quality
+patient care is significant. After careful analysis of
+multiple models in the health care industry, CCHHS is
+committed to embarking on a quality journey to obtain
+Magnet Recognition Program® status. Systems with
+Magnet® recognition report outcomes above national
+benchmarks in clinical quality, patient satisfaction
+and nurse satisfaction. Patients, health plans and
+nurses seeking career opportunities rely on Magnet®
+designation as the leading credential defining highquality nursing care. The cost of pursuing Magnet®
+status is high, but a recent study found that it often
+pays for itself by generating higher patient revenues
+over time, compared to non-Magnet hospitals.3
+
+CCHHS relies on a variety of resources to deliver its work
+
+Pursuing this designation can enhance the reputation
+
+ranging from its medical staff, nurses, technicians and
+
+of CCHHS as a provider of choice. Currently,
+
+other employees, to its research and education, to its
+
+22 hospitals in CCHHS’ region have Magnet®
+
+health department. CCHHS has immense opportunity
+
+designation and several more are on the journey.
+
+to leverage these strengths for the benefit of the
+
+With more than 27 medical residencies, the impact
+
+population CCHHS serves.
+
+CCHHS has on medical training is immense despite
+
+An organization has no greater resource than its
+
+the System not having an explicit goal to attract or
+
+workforce, and CCHHS is no exception. The System’s
+
+encourage mission-driven trainees to its work. An explicit
+
+6,700 nurses, doctors and employees are mission-driven,
+
+goal to this end has the ability to truly impact health
+
+compassionate, experienced and innovative. Leveraging
+
+inequities, by exposing trainees and all employees, for
+
+the talents of its workforce provides significant
+
+that matter, to health disparities early in their careers,
+
+opportunity for CCHHS’ 2017-2019 strategy.
+3
+
+creating a lifelong passion for mission-based work.
+
+Jayawardhana, Welton & Lindrooth, 2014
+
+29
+
+ D RAFT
+For any health care system, research is critical to
+
+and capitalize on its data to make strategic decisions in
+
+attracting residents and physicians and CCHHS is
+
+areas ranging from staffing to services to where a health
+
+well-respected in the clinical investigation community.
+
+center should be located. The creation of the CCHHS
+
+Research conducted at CCHHS is regularly published in
+
+Business Intelligence Unit in 2013 has transformed
+
+medical journals and investigators are invited to speak
+
+CCHHS’ data into actionable information allowing
+
+more often than their schedules allow. Current research
+
+CCHHS leadership to make informed decisions
+
+in the area of pre-exposure HIV prophylaxis, hepatitis
+
+around strategy and daily operations.
+
+C and oncology have the ability to change disease
+
+Moving toward 2020, the next step for CCHHS is
+
+prevention, diagnosis and treatment for vulnerable
+
+to create service line, site-specific and system-wide
+
+patients around the world. Careful analysis of CCHHS
+
+dashboards that managers can use to measure and
+
+training and research efforts should occur to ensure
+
+manage local performance and to assist them in
+
+mission-alignment.
+
+detailing the System’s operations to all employees.
+
+CCDPH is the public health authority for most of
+
+Currently, training and research, business intelligence
+
+suburban Cook County providing critical disease
+
+and public health are enormous contributors to the
+
+prevention and health promotion services. CCDPH
+
+System, but greater integration could yield remarkable
+
+investigates outbreaks, inspects restaurants and public
+
+results in developing new care strategies to address
+
+swimming pools and provides considerable services
+
+health disparities and social determinants of health. To
+
+in the areas of lead poisoning, child development and
+
+that end, through Impact 2020, CCHHS envisions an
+
+chronic disease management. CCDPH epidemiologists
+
+Innovations Center to serve as the System’s ‘think tank’.
+
+have extensive knowledge and understanding of the
+
+The CCHHS Innovations Center will investigate
+
+social determinants of health that exist in its jurisdiction
+
+and create scalable approaches to solving the
+
+and vast data that can be used to guide system-
+
+real problems faced by vulnerable populations
+
+wide approaches to care and prevention. Greater
+
+in the communities served by CCHHS, including
+
+collaboration and perhaps even consolidation with
+
+advocating for public policies.
+
+the multiple state- certified health departments in
+Cook County has the potential to further reduce
+
+It will serve as the incubator and repository of quality
+
+health inequities, improve population health and
+
+data, research and clinical investigation projects, a
+
+save substantial dollars.
+
+resource library available to all employees as well as the
+catalyst to convene important conversations, workgroups
+
+With a data warehouse that includes 13 years of
+
+and collaborations outside the traditional ‘walls’ of
+
+electronic medical records, three years of Medicaid
+
+CCHHS. The Innovations Center will broaden CCHHS’
+
+claims data from CountyCare, decades of disease and
+
+impact beyond the patients and communities it
+
+health disparity data from public health and years of
+
+serves to a state and national level.
+
+research findings, CCHHS plans to consolidate, analyze
+
+30
+
+ D RAFT
+
+FOCUS AREA 5: Leverage Valuable Assets
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+OBJECTIVES
+
+Finances & Value
+
+High Quality Care
+
+Issue RFP for external consultant to assist in
+building a practice plan.
+
+5.2 Promote
+interdisciplinary
+engagement to address
+complex medical
+conditions.
+
+Identify areas for formalized interdisciplinary
+services for clinical conditions.
+
+2017: Develop interdisciplinary and
+interdepartmental services for three
+clinical areas.
+
+5.3 Exploit relevant
+sources for monitoring
+quality, cost, utilization
+and patient outcomes.
+
+Collaborate in bringing advanced analytics
+to promote use of evidence to the bedside
+to create best practices and institutional
+guidelines.
+
+2017: Implement CommonWell.
+
+Implement Cerner HealtheIntent to enable
+doctors to better manage patients with
+chronic disease conditions and maximize the
+efficiency of day of care plans.
+
+2017: Implement HealtheIntent.
+
+Explore establishing an innovation center at
+CCHHS.
+
+2017: Establish reliable reporting to
+the National Database of Nursing
+Quality Indicators (NDNQI) data
+reporting system.
+
+Develop clinical leadership understanding
+and support for practice plan.
+
+Finances & Value
+
+Education &
+Research
+
+Benchmark nurse-driven quality indicators to
+regional and national standards.
+Health Equity
+
+High Quality Care
+
+MEASUREMENTS/MILESTONES
+
+5.1 Implement a unified
+medical staff practice
+plan.
+
+Finances & Value
+
+High Quality Care
+
+HIGHLIGHTED TACTICS
+
+5.4 Utilize CCDPH
+data and experience to
+address health inequities
+to conceptualize and
+plan robust interventions
+to improve population
+health.
+
+2017: Establish practice plan
+governance and management
+structure.
+
+2017: Complete one advanced
+analysis project by the Collaborative
+Research Unit (CRU) from the
+CountyCare claims data.
+
+Expand use of population and
+epidemiologic data to identify upstream
+drivers of chronic diseases and conditions,
+improve birth outcomes and enhance
+childhood development.
+
+2017: Leverage information from
+CCDPH childhood lead poisoning
+prevention surveillance to improve
+health outcomes.
+
+Maximize local health collaboration,
+partnership and alignment in Cook County
+to inform services, with local health
+departments such as City of Chicago
+Department of Public Health and local
+resources such as the University of Illinois
+School of Public Health.
+
+2017: Utilize information from
+CCDPH’s Adverse Pregnancy
+Outcomes Reporting System
+(APORS) to improve outcomes.
+
+Identify opportunities to align with and
+support strategies outlined in CCDPH’s
+community health improvement plan
+(WePLAN 2020).
+Integrate CCDPH data to support
+appropriate care management.
+Leverage CCDPH in the focus on
+opioid epidemic.
+
+31
+
+2017: Review annual updates of
+health status and data reports to
+inform CCHHS initiatives.
+
+ D RAFT
+
+FOCUS AREA 5: Leverage Valuable Assets
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+Education &
+Research
+
+High Quality Care
+
+Education &
+Research
+
+High Quality Care
+
+Develop Workforce
+
+OBJECTIVES
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/MILESTONES
+
+5.5 Evaluate clinical
+effectiveness by specialty
+and forecast health needs
+with robust analytics and
+benchmarking.
+
+Establish Clinical Effort Agreements.
+
+5.6 Produce knowledge
+(using internal and
+external sources) about
+how best to provide care
+to CCHHS’ patients.
+
+Strengthen clinical impact of research to
+benefit CCHHS patients prioritized informed
+by clinical leadership or quality council.
+
+2017: Identify two clinical conditions
+for analysis and complete the analyses.
+
+5.7 Invest in continuous
+learning and
+development, including
+training around domainspecific best practices.
+
+Pursue a Magnet® culture.
+
+2017: Complete nursing leadership
+academy for managers by June 2017.
+
+5.8 Demonstrate value
+of undergraduate
+and graduate medical
+education and academic
+affiliations to the
+organization by analysis of
+costs, returns, pipeline to
+workforce and facilitation
+of CCHHS mission.
+
+Develop a training-to-employee pipeline
+through graduate medical education.
+
+Develop specialty-specific Clinical,
+Administrative, Research and Teaching
+(CART) inventory.
+Distribute physician-specific dashboards to
+benchmark performance.
+
+Establish nursing leadership academy for
+direct care managers.
+Create process to evaluate implementation
+of initiatives.
+
+2017: Have ambulatory clinical effort
+agreements for each department.
+2017: Mature Relative Value Unit
+model at physician and department
+level.
+
+2018-2019: Implement
+recommendations identified in
+analyses.
+
+2017: Create improvement review
+process.
+
+Education &
+Research
+
+High Quality Care
+
+Develop Workforce
+
+Education &
+Research
+
+Engage with local health career institutions
+to enhance diversity and retention of
+workforce.
+Develop an interface between health system
+leadership and education leaders to assure
+alignment and shared strategies for success.
+
+2017: Complete assessment
+framework to review residency
+programs.
+
+Conduct an assessment of each clinical
+training program to determine value
+such as cost/benefit, strategic alignment
+and workforce pipeline. Conduct parallel
+assessment to determine appropriate
+support structure for each program.
+
+2017: Complete four residency
+assessments.
+
+Conduct an analysis to evaluate the cost/
+benefit, strategic alignment and workforce
+pipeline of academic affiliations.
+
+32
+
+2017: Make recommendations to the
+Board on academic affiliations.
+2017: Transition Family Practice
+Residency to CCHHS.
+
+ D RAFT
+related concerns or issues that contribute to overall
+health status. These social determinants of health
+disproportionally impact those served by the System.
+The data collected by HRAs identify opportunities for
+CCHHS to develop partnerships with community and
+service organizations, ensure that services meet the
+greatest need and ultimately improve health equity.
+Lack of access to healthy food is a social determinant
+that negatively impacts an individual’s health, especially
+
+FOCUS AREA 6:
+
+a child or an adult with diabetes or heart disease and
+contributes to the growing problem of obesity. In 2015,
+
+Impact Social
+Determinants
+of Health
+
+CCHHS launched a partnership with the Greater Chicago
+Food Depository (GCFD) to begin screening patients
+in its health centers for food insecurity. Initial results
+revealed that more than 30% of screened patients do
+not have consistent access to food, let alone healthy
+food options. Today, four of CCHHS’ sites are proud
+to be a regular stop for the GCFD Fresh Truck which
+supplies fresh fruits and vegetables to these patients. In
+its first 8 visits, more than 1,050 individuals, shopping
+for nearly 3,700 people in their households, were
+served. Expansion of this program to all sites is a
+critical goal for Impact 2020.
+Reliable housing is a problem for many people
+that leads to poor health outcomes, particularly for
+those recently released from the hospital, needing
+
+Social determinants of health are the conditions in which
+
+to convalesce to ensure recovery. Early screening
+
+people are born, grow, work, live and age, and the
+
+of CountyCare members showed 20% reporting a
+
+wider set of forces and systems shaping the conditions
+
+concern about having a stable place to sleep that
+
+of daily life. They are well-documented as factors that
+
+night or in the near future. CountyCare is working
+
+can impact health and well-being. CCHHS has enormous
+
+on partnerships that will provide supportive
+
+opportunity to address social determinants in its patient
+
+housing for its members. Additional partnerships
+
+population and the wider Cook County community.
+
+related to legal aid, education and job training
+are under consideration and will have a powerful
+
+Health Risk Assessments or HRAs are becoming more
+
+impact on the health of the individuals CCHHS
+
+widely used in the health care industry to better
+
+and CountyCare serve.
+
+understand the needs of patients. The HRAs used
+by CCHHS and CountyCare also identify non-health-
+
+33
+
+ D RAFT
+Lack of access to health care services is a social
+
+And while access to health care in general is a social
+
+determinant that often leads to avoidable and costly
+
+determinant, it becomes a larger hurdle when an
+
+visits to an emergency room. According to the Kaiser
+
+individual does not have access to culturally competent
+
+Family Foundation, in 2014, just over a quarter (27%)
+
+health care beyond basic translation services. CCHHS
+
+of uninsured individuals reported a preventive visit
+
+serves thousands of individuals who come from different
+
+with a physician in the last year, compared with 47% of
+
+cultures and have different beliefs about care. From
+
+insured adults who gained coverage in 2014 and 65% of
+
+more bilingual staff to offering appropriate foods and
+
+adults who had coverage before 2014. CCHHS spends
+
+treatment regimens and staff education and training,
+
+upwards of $400 million annually in uncompensated
+
+CCHHS has an opportunity to impact care and provide a
+
+care for those who cannot pay, and predominately in
+
+better patient experience for many.
+
+4
+
+acute care rather than primary care settings. CCHHS
+
+As CCHHS challenges itself in this new environment,
+
+provides care to more than 39,000 uninsured or
+
+it recognizes that it cannot accomplish its ambitious
+
+underinsured individuals annually through its CareLink
+
+agenda alone. Considerable efforts to partner with
+
+program. Plans are underway to ensure access to
+
+community organizations, other health care providers
+
+primary and specialty care for these individuals to
+
+and the FQHCs are underway, particularly around
+
+keep them healthy and less-reliant on acute-care
+
+food insecurity, access to care, behavioral health and
+
+settings. Over time, CCHHS will seek external, private
+
+justice-involved populations. CCHHS has started to
+
+funding to support and grow the plan.
+
+pursue grant opportunities to collaborate with like-
+
+According to the Agency for Healthcare Research and
+
+minded organizations to address and mitigate social
+
+Quality (AHRQ), men are 24% less likely than women to
+
+determinants in new and innovative ways.
+
+have visited a doctor within the past year and 22% more
+likely to have neglected their cholesterol tests.5 One in
+four male deaths is due to heart disease according to the
+CDC. CCHHS has had a few small, successful programs
+over the years to better engage men in their health care
+but with a more concentrated effort CCHHS intends to
+impact avoidable health care costs and improve health
+outcomes for men by 2020.
+
+4
+5
+
+”Key Facts about the Uninsured Population.” The Henry J. Kaiser Family Foundation, 5 Oct. 2015.
+”Healthy Men; Learn the Facts.” Agency for Healthcare Research & Quality, U.S. Department of Health and Human Services, Dec. 2010.
+
+34
+
+ D RAFT
+
+FOCUS AREA 6: Impact Social Determinants of Health
+PRINCIPLE(S)
+IMPACTED
+Health Equity
+
+OBJECTIVES
+6.1 Ensure continued
+access to care for
+uninsured patients.
+
+High Quality Care
+
+Develop an uninsured plan to increase
+access to health care, avoid preventable
+acute care needs and improve outcomes.
+
+MEASUREMENTS/MILESTONES
+2017: Expand and optimize structure
+of health plan for the uninsured.
+
+Collaborate with local government and
+community stakeholders to provide greater
+access to health care services at CCHHS for
+the uninsured.
+
+Quality Care
+
+Health Equity
+
+HIGHLIGHTED TACTICS
+
+6.2 Utilize CCDPH
+data and experience to
+address health inequities
+to conceptualize and
+plan robust interventions
+to improve population
+health.
+
+Determine if evidence supports a program
+to address medical needs for children who
+have experienced “toxic stress” through
+multiple adverse childhood experiences
+(ACEs) and are thus more likely to develop
+chronic health conditions.
+Expand the use of population and
+epidemiologic data to identify upstream
+drivers of chronic diseases and conditions,
+improve birth outcomes and enhance
+childhood development.
+
+2017: Develop a proposed program to
+address medical needs of children who
+have experienced ACEs.
+2017: Pilot a project to connect
+high-utilizers of CCHHS services with
+housing and employment, based on
+recommendations from a Cook County
+intra-agency workgroup.
+
+Identify opportunities for CCDPH to address
+and partner with CDPH for response in
+Chicago, such as gun violence, opiod abuse,
+and sexually transmitted infections.
+Health Equity
+
+High Quality Care
+
+6.3 Partner with other
+organizations to address
+population health care
+needs outside of the
+health care system,
+including those related
+to social determinants of
+health.
+
+Expand “Food as Medicine” program.
+
+2017: Expand “Food as Medicine”
+program to all outpatient sites.
+2018-2019: Create new food access
+and distribution programs for
+CountyCare members and CCHHS
+patients.
+2017-2019: Support community
+opportunities to bring fresh food into
+communities, including urban farms
+and food co-ops.
+
+Expand Women, Infants and Children (WIC)
+services.
+
+2017: Provide WIC services at all
+health centers.
+
+Continue to expand care coordination
+infrastructure.
+
+2017-2019: Support community
+and partnering opportunities to
+increase availability of fair, affordable,
+permanent housing.
+
+Screen for other social determinants of
+health including housing, exercise, clothing,
+drug and alcohol abuse, transportation and
+utilities.
+Explore violence prevention partnerships
+and programs.
+Develop a focused program on populations
+that would benefit from better engagement
+in health care, such as young men, who
+are less likely to engage in appropriate
+preventive care.
+Explore grant opportunities to address
+social determinants.
+
+35
+
+2017: Pilot intervention aimed at
+improving health status of African
+American men at select health centers.
+
+ D RAFT
+
+FOCUS AREA 6: Impact Social Determinants of Health
+PRINCIPLE(S)
+IMPACTED
+Health Equity
+
+High Quality Care
+
+OBJECTIVES
+6.4 Further develop
+care coordination
+services across the
+CCHHS continuum of
+care to address social
+determinants of health
+to improve population
+health.
+
+HIGHLIGHTED TACTICS
+Screen patients for needs outside the
+clinical delivery setting to connect with
+community resources.
+Utilize web-based community resource tool
+(i.e. purple binder) across clinical settings.
+Increase health screenings and partnerships.
+Ensure interfaces for ACHN sites and care
+coordination understood and function
+effectively.
+Develop a role for non-licensed clinical
+personnel to support care coordination.
+
+MEASUREMENTS/MILESTONES
+2017: Continue to expand care
+coordination to support the use
+of appropriate resources, e.g.
+outpatient workups.
+2017: Establish delegation from
+MCOs for care coordination.
+2017: Achieve NCQA accreditation
+for care management.
+2018-2019: Extend provider-based
+care coordination to additional
+CountyCare providers.
+
+Hire community health workers to assist in
+care coordination.
+Health Equity
+
+High Quality Care
+
+6.5 Assess organizational
+contributions to
+disparities.
+
+Assess contribution of Race, Ethnicity, and
+Language (REaL) factors to adverse events
+and develop mitigation strategies. Assess
+the contribution of disparities to health
+outcomes and adverse events.
+Determine if a patient’s cultural or racial
+factors contribute to adverse outcomes and
+evaluate the causes of these outcomes.
+Ensure consistent capture of demographic
+information and SE data into the Electronic
+Medical Record (EMR).
+Focus quality efforts in areas that are
+directly impacted by disparities.
+
+36
+
+2017: Identify one clinical area for
+review and analysis, stratified by race,
+ethnicity and language preference
+Capture accurate REaL data – 95%
+by 2018.
+
+ D RAFT
+revenue sources for CCHHS. Scheduled cuts to DSH
+dollars, the proposed ‘block granting’ of Medicaid
+dollars to states and implementation of per capita caps
+on Medicaid spending would have a significant impact
+on the System’s ability to fulfill its mission
+Similarly, any changes to the 340B drug pricing program
+have the potential to adversely affect CCHHS’ ability to
+continue to serve its patient population. Section 340B
+of the Public Health Service Act allows select health
+care providers, including public health systems, to
+
+FOCUS AREA 7:
+
+participate in a discounted prescription drug discount
+pricing program “to stretch scarce federal resources as
+
+Advocate for
+Patients
+
+far as possible, reach more eligible patients and provide
+more comprehensive services.’’6 The 340B program has
+enabled CCHHS to assist patients with the high cost of
+medications so they are not forced to choose between
+basic needs and their health because they cannot afford
+their prescribed medications.
+Additionally, preliminary analysis of the Centers for
+Medicare and Medicaid Services’ (CMS) recently
+released massive Medicaid managed care rule reveals
+the potential to disrupt the local health care safety
+net. With recommendations to eliminate supplemental
+funding, the proposed rules have potential to reverse
+progress recently made that afforded safety-net
+providers the ability to address the needs of the
+
+While the ACA has expanded health insurance coverage
+
+remaining uninsured and under-insured populations.
+
+for more than 350,000 people in Cook County, it is
+estimated that more than 300,000 individuals remain
+uninsured. This includes a significant population of
+undocumented immigrants who do not qualify for
+Medicaid or marketplace benefits. Even with the ACA,
+many others remain under-insured as a result of high
+deductibles and other out of pocket costs.
+CCHHS relies heavily on federal funding to help offset
+the costs of serving the uninsured and underinsured.
+Medicaid, Disproportionate Share (DSH) dollars and
+Intergovernmental Transfers (IGTs) have been critical
+6
+
+H.R. REP. No. 102-384(II), at 12 (1992)
+
+37
+
+ D RAFT
+Justice Involved Populations
+
+National Health Service Corps (NHSC)
+
+Correctional health is a cornerstone of CCHHS’ work.
+
+National Health Service Corps (NHSC), established in
+
+However, federal statute prohibits Medicaid coverage
+
+1970, provides for scholarship and loan repayment to
+
+for incarcerated populations, including pre-trial
+
+help people living in under- served communities across
+
+detainees who cannot afford bail. This means that
+
+the nation receive medical care. Current law, however,
+
+CCHHS is not able to receive compensation for the
+
+excludes county jails from being designated as health
+
+nearly $100 million it spends every year on correctional
+
+professional shortage areas and, as such, the providers
+
+health, other than through local tax support. Recently,
+
+that work there are not eligible for the NHSC Loan
+
+CMS issued guidance encouraging those eligible
+
+Repayment Program. CCHHS’ inability to participate
+
+for Medicaid to enroll while incarcerated to ensure
+
+in the program has negatively impacted Cermak
+
+continuity of care upon discharge. By doing so, it is
+
+Health Services’ recruitment efforts. CCHHS believes
+
+expected that individuals will have the ability to access
+
+that reinstating the NHSC Loan Repayment Program
+
+services that may have otherwise been unavailable to
+
+to cover county jails would go a long way toward
+
+them post-release.
+
+providing adequate staffing and services within the
+Cook County Jail.
+
+County jails reveal a multitude of social determinants,
+Because of this, the care provided by CCHHS within the
+
+Lead Poisoning Threshold
+Ordinance in Cook County
+
+Cook County Jail may be one of the most important
+
+According to the CDC, there is no safe blood lead
+
+aspects of CCHHS’ work. Most detainees are released
+
+level for children. Lead exposure can affect nearly
+
+in less than 30 days and return to their communities; if
+
+every system in the body and even small amounts of
+
+they return in good or better health and with the ability
+
+lead can cause changes in a child’s brain that makes
+
+to continue to receive health care services as they did
+
+it difficult to learn, pay attention, or control moods
+
+while detained, the health of their community is also
+
+and behaviors. The CDC recommends that children
+
+positively impacted. If care is disrupted, or not readily
+
+receive interventions when an elevated blood level of
+
+accessible, there will be decreased continuity of care,
+
+5 micrograms per deciliter (mcg/ dL) or more of lead is
+
+recidivism will remain high, outcomes will worsen and
+
+identified.7 However, CCDPH uses the same threshold
+
+overall public health will suffer. Studying the impact of
+
+applied by the Illinois Department of Public Health of
+
+CCHHS’ efforts has enormous potential beyond Cook
+
+10 mcg/ dL or more of lead to trigger an intervention.
+
+County.
+
+As a result, CCDPH is not able to routinely conduct
+
+least of which are poverty, racism and mental health.
+
+interventions at lower lead poisoning levels, including
+public health nursing case management, inspection
+for lead-based paint hazards or mitigation orders for
+remediation by property owners. In order for CCDPH to
+apply the lower blood level to trigger an intervention,
+additional funding for added staff such as public
+health nurses and lead risk assessors, as well as lead
+abatement services, would need to be identified to
+handle the increased volume.
+7
+
+  What Do Parents Need to Know to Protect Their Children?” Centers for Disease
+”
+Control and Prevention. Centers for Disease Control and Prevention, 15 Mar. 2016.
+
+38
+
+ D RAFT
+Partnership to Improve
+Community Health (PICH)
+
+While entirely protecting children from ACEs may be
+
+In 2014, CCDPH received a three-year CDC grant to
+
+that helping children respond to ACEs may, in fact,
+
+reduce the prevalence of chronic diseases by creating
+
+lower their risk for negative health outcomes. By
+
+and strengthening healthy places in suburban Cook
+
+creating mechanisms to help parents, caregivers, and
+
+County to make healthy living easier for residents.
+
+other trusted adults foster a protective relationship
+
+CCHHS, through CCDPH and its partners, will work
+
+with their children and build resiliency, CCHHS
+
+to sustain implementation of policies, systems and
+
+believes it can help mitigate the negative health
+
+environmental improvements, such as smoke-free
+
+consequences of ACEs and better safeguard the
+
+multi-unit housing, healthy corner store conversions,
+
+health of children in Cook County. Some of this
+
+enhanced physical education in schools, active
+
+work has already commenced in South Suburban
+
+transportation plans and policies and increased
+
+Cook County through a partnership with a CCHHS
+
+availability of physical activity opportunities through
+
+health center and a local school district. CCHHS
+
+the Forest Preserves of Cook County. Efforts to
+
+will continue to explore possible roles in this
+
+increase awareness about the link between place and
+
+work, including educating staff about ACEs and
+
+health will continue through social marketing and
+
+determining best practices to identify ACEs and
+
+other communication techniques as part of the Healthy
+
+connect parents with appropriate resources in an
+
+HotSpot campaign.
+
+effort to mitigate long-term effects.
+
+Adverse Childhood Experiences
+
+Flu Vaccines
+
+Chronic stress can cause significant negative health
+
+The CDC recommends that all health care workers
+
+implications. This is referred to as “toxic stress”, which
+
+get an annual influenza vaccine to provide optimal
+
+is the prolonged activation of stress response systems
+
+protection for patients, family members and
+
+in the absence of protective relationships. In recent
+
+co-workers. CCHHS currently has a mandatory
+
+years, researchers have started to look at the short-
+
+influenza vaccination policy in place for employees,
+
+and long-term impact such stress can have on children.
+
+contractors, students and volunteers. Requiring flu
+
+Increasing medical information has shown that children
+
+vaccines for health care workers in all Illinois hospitals
+
+who experience toxic stress through multiple adverse
+
+and clinics can further support CCHHS’ efforts to
+
+childhood experiences (ACEs) in their lives are more
+
+prevent the spread of the flu.
+
+difficult or unrealistic, there is evidence to suggest
+
+likely, when they become adults, to have heart disease,
+hypertension, depression and substance abuse among
+other health problems. In children, toxic stress can
+lead to poor concentration, impaired learning, and
+unhealthy social behaviors.
+
+39
+
+ D RAFT
+
+FOCUS AREA 7: Advocate for Patients
+PRINCIPLE(S)
+IMPACTED
+High Quality Care
+
+Finances & Value
+
+OBJECTIVES
+7.1 Advocate for
+improved health care for
+the uninsured population,
+including justice-involved
+populations.
+
+HIGHLIGHTED TACTICS
+Collaborate with Cook County’s Justice
+Advisory Council and public safety offices.
+
+MEASUREMENTS/MILESTONES
+2017: Determine explicit approach for
+continuity of care for justice-involved
+populations.
+2017-2019: Implement countybased programs to provide health
+care services to justice-involved
+populations.
+
+Partner with large urban public health
+systems to advocate for policy changes to
+the inmate exclusion.
+Participate in national efforts, e.g.
+Integrated Data Driven Justice Initiative and
+Stepping Up Initiative.
+High Quality Care
+
+7.2 Advocate for
+behavioral health funding
+and legislation.
+
+Support legislation for increased funding for
+state and local governments for education
+and treatment alternatives for opioid users.
+
+2017-2019: Support adoption of
+legislation to make opioid relief drugs
+more readily available.
+
+Support legislation to provide relief from
+liability to providers who administer opioid
+relief drugs.
+
+Finances & Value
+
+Develop Workforce
+
+7.3 Advocate for National
+Health Service Corps
+(NHSC) Loan Repayment
+Program eligibility to be
+expanded.
+
+Collaborate nationally with county
+government stakeholders to garner
+congressional support to expand the
+definition to allow participation.
+
+2017-2019: Realize adoption of S.1051
+by Congress to expand the NHSC
+Loan Repayment Program to allow
+participation by local governments.
+
+High Quality Care
+
+7.4 Leverage outpatient
+health centers as
+community anchors
+by partnering with
+community organizations.
+
+Establish community advisory boards for
+outpatient health centers.
+
+2017: Establish at least two community
+advisory boards for community health
+centers.
+
+Offer community programming at health
+centers.
+
+2017: Expand community
+programming in four health center
+locations.
+
+40
+
+ D RAFT
+
+FOCUS AREA 7: Advocate for Patients
+PRINCIPLE(S)
+IMPACTED
+
+OBJECTIVES
+
+HIGHLIGHTED TACTICS
+
+MEASUREMENTS/MILESTONES
+
+High Quality Care
+
+7.5 Advocate for
+influenza vaccine
+requirement for all
+health care workers in
+Illinois.
+
+Support legislation that requires all health
+care workers to be vaccinated for influenza
+in Illinois.
+
+2017: Support legislation or
+administrative code changes to
+support this change by developing
+language and an approach as well as
+collaborating to create constituency
+group backing.
+
+High Quality Care
+
+7.6 Advocate for
+improvements in
+identifying and
+addressing blood lead
+levels in children in
+suburban Cook county.
+
+Pursue necessary policy changes to lower
+the threshold from 10 mcg/dL to 5 mcg/
+dL to trigger an intervention by the Cook
+County Department of Public Health
+(CCDPH).
+
+2017: Implement policy to intervene
+when a child has a blood lead level
+of 5 mcg/dL or more.
+
+Seek grant funding to pay for additional
+resources to conduct more lead
+interventions.
+Seek additional funding for public health
+staff and lead abatement services to provide
+services to children with high lead levels.
+
+High Quality Care
+
+7.7 Assess effect of CDC
+grant ”Partnerships to
+Improve Community
+Health” (PICH) to
+identify effective public
+health practices and
+promote relevant
+policies.
+
+Develop plan to implement best practices
+and promote policies identified during the
+grant period after the non-renewable grant
+expires in 2017.
+
+41
+
+2017: Finalize plan to sustain practices
+identified in the grant period.
+
+ D RAFT
+
+APPENDICES
+Glossary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Organizational Chart. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Utilization Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Community Town Hall Summary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Employee Survey and Town Hall Meetings Summary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Timeline. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Analysis of Vision 2015. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+CCHHS Board Presentations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Three Year Financial Forecast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+
+42
+
+ D RAFT
+
+GLOSSARY
+Federal 1115 Waiver – A demonstration waiver
+approved by the US. Centers for Medicare and
+Medicaid Services (CMS) to expand Medicaid
+coverage to adults in Cook County whose income
+was at or below 133% of the federal poverty
+level (FPL). This waiver allowed CCHHS to begin
+enrolling these individuals in CountyCare before
+Medicaid expansion in Illinois took effect.
+
+CareLink – CCHHS’ charity care program that
+extends financial assistance based on income.
+Cerner – CCHHS’ electronic medical record that enables
+physicians, nurses and other authorized users to securely
+share patient data electronically across an organization.
+An online “digital chart” displays up-to-date patient
+information in real time, complete with decision-support
+tools for physicians and nurses.
+
+Accredited Public Health Department – A public
+health department that has had its performance
+measured against a set of nationally recognized,
+practice-focused and evidence-based standards that
+include an issuance of recognition of achievement
+of accreditation within a specified time frame by a
+nationally recognized entity as well as the continual
+development, revision, and distribution of public health
+standards. The Cook County Department of Public
+Health is accredited by the Public Health Accreditation
+Board (PHAB).
+
+Certified Public Health Department – A local health
+department that has received certification from the
+Illinois Department of Public Health (IDPH) after meeting
+its requirements for employing a qualified executive
+officer and achieving public health practice standards
+(including, completion of an internal organizational
+capacity assessment and a community health needs
+assessment, development of a community health plan
+and compliance with required activities).
+Clairvia™ – An information technology program that
+focuses on nurse scheduling management.
+
+Adverse Childhood Experiences (ACEs) – A traumatic
+experience in a person’s life occurring before the age of
+18 that the person remembers as an adult.
+
+CLAS – The National Standards for Culturally
+and Linguistically Appropriate Services in Health
+and Health Care (the National CLAS Standards)
+are intended to advance health equity, improve
+quality, and help eliminate health care disparities by
+providing a blueprint for individuals and health care
+organizations to implement culturally and linguistically
+appropriate services. Adoption of these standards are
+intended to help advance better health and health
+care in the United States.
+
+Adverse Pregnancy Outcomes Reporting System
+(APORS) – This reporting system collects information on
+Illinois infants born with birth defects or other abnormal
+conditions. The purpose of APORS is to conduct
+surveillance on birth defects, to guide public health
+policy in the reduction of adverse pregnancy outcomes,
+and to identify and refer children who require special
+services to correct and prevent developmental problems
+and other disabling conditions.
+
+Clinical Trials – Research using participants (human
+volunteers) to advance medical knowledge
+
+Behavioral Health – Includes both mental health
+and substance use-related issues and describes
+the connection between behaviors and health
+and well-being.
+
+Community Acute Care Hospital – An acute care
+hospital where patients receive active, but short-term
+care for a condition and are discharged once they are
+healthy.
+
+43
+
+ D RAFT
+HealtheIntent™ – A multi-purpose, programmable
+Cerner platform designed to scale at a population
+level while facilitating health and care at a person and
+provider level. This cloud-based platform enables health
+care systems to aggregate, transform and reconcile
+data across the continuum of care. A longitudinal record
+is established, through that process, for individual
+members of the population that the organization is
+held accountable for; helping to improve outcomes
+and lower costs for health and care. It enables
+organizations to identify, score and predict the risks
+of individual patients, allowing them to match the
+right care programs to the right individuals.
+
+Data Warehouse – A combination of many different
+databases across an entire enterprise. It serves as a
+centralized repository of data generated by all
+units within an enterprise optimized for and
+dedicated to analytics.
+Disproportionate Share Hospital (DSH) –
+Disproportionate Share Hospitals serve a significantly
+disproportionate number of low-income patients and
+receive payments from the Centers for Medicare and
+Medicaid Services to cover the costs of providing care
+to uninsured patients. Disproportionate share
+hospitals are defined in Section 1886(d)(1)(B) of
+the Social Security Act.
+
+Health Risk Assessment (HRA) – A survey-based
+screening tool designed to evaluate patients’ health
+attitudes, behaviors, risks, and quality of life.
+
+Electronic Medical Records (EMR) – A digital version of
+the traditional paper-based medical record for patients
+that resides in a system specifically designed to support
+users by providing access to medical history, diagnoses,
+medications, allergies, alerts, reminders, decision
+support systems, links to medical knowledge, and other
+aids. CCHHS uses Cerner’s EMR.
+
+Healthcare Information and Management
+Systems Society (HIMSS) – The entity that
+specifies a way to measure the progress of health
+care organizations towards achieving the ideal
+paperless patient record environment.
+
+Federally Qualified Health Center (FQHC) – Health
+centers or clinics that serve medically-underserved areas
+and populations. Federally Qualified Health Centers
+provide primary care services on a sliding scale fee
+basis or regardless of one’s ability to pay. FQHC is a
+reimbursement designation from the U.S. Department
+of Health and Human Services (HHS) Bureau of
+Primary Health Care and CMS. This designation is
+significant for several health programs funded under
+the Health Center Consolidation Act (Section 330 of
+the Public Health Service Act).
+
+Health Maintenance Organization (HMO) – An
+organization interposed between providers and payers
+that attempts to “manage the care” on behalf of the
+health service consumer and payer. HMOs usually limit
+coverage to care from doctors who work for or contract
+with the HMO. It generally does not cover out-ofnetwork care except in an emergency. An HMO may
+require a member to live or work in its service area to be
+eligible for coverage. HMOs often provide integrated
+care and focus on prevention and wellness.
+
+Food Insecurity – A set of circumstances where an
+individual lacks consistent access to enough food,
+affordable food, or healthy food.
+
+Intensive Care Unit (ICU) – A unit that provides
+intensive/complex care to patients with critical injuries or
+illnesses.
+
+Goal – An aspirational statement that combines an
+indicator with a desired level of achievement.
+
+Intergovernmental Transfers (IGTs) – Transfers of funds
+from one level of government to another. IGTs may be
+used to fund general government operations or for
+specific purposes.
+
+Health Equity – The opportunity for every person
+to attain his or her full health potential regardless of
+socioeconomic status and other factors.
+
+44
+
+ D RAFT
+Objective – Total or partial attainment of a
+goal within a specified time.
+
+Joint Commission – The Joint Commission is a national
+independent organization that accredits and certifies
+health care organizations.
+
+Outpatient Services – Medical services or procedures
+that do not require a patient to stay overnight in a
+health care facility.
+
+Magnet Recognition Program – A designation
+from the American Nurses Credentialing Center
+(ANCC) that represents nursing excellence and highquality care delivery. Only 8% of US hospitals have
+earned this designation.
+®
+
+Primary Care Medical Home (PCMH) – A care delivery
+model whereby patient treatment is coordinated through
+a primary care team to ensure the patient receives
+the necessary care when and where they need it, in a
+manner they can understand. Patients are ‘empaneled’
+or part of a ‘panel’ with a specific provider.
+
+Medicaid – A state and federal program that provides
+health coverage for those with very low income.
+Medicaid Managed Care – Services provided through
+an arrangement between a state Medicaid agency and
+managed care organizations (MCOs) that accept a set
+payment – “capitation” – for these services. The state
+pays the MCO a monthly premium to cover the services
+provided to a beneficiary. There are two main forms
+of Medicaid managed care, “risk-based MCOs” and
+“primary care case management (PCCM).” In a riskbased MCO system, the State pays a flat per-memberper-month rate and the MCO pays for health care
+services rendered to the member. In a PCCM system, the
+State pays for services on a fee-for-service basis as well
+as a monthly fee to a contracted primary care provider to
+coordinate care for the beneficiary.
+
+Patient Protection and Affordable Care Act (ACA) –
+The comprehensive health care reform law enacted in
+March 2010. The law was enacted in two parts: The
+Patient Protection and Affordable Care Act was signed
+into law on March 23, 2010 and was amended by the
+Health Care and Education Reconciliation Act on
+March 30, 2010. The name “Affordable Care Act”
+is used to refer to the final, amended version of
+the law. The law seeks to decrease the number of
+uninsured, improve health outcomes and streamline
+the delivery of health care.
+Payer Mix – The distribution of revenue across
+payer sources – e.g., Medicare, Medicaid, private,
+or commercial insurance.
+
+Medicare – A federal health insurance program for
+people age 65 or older, people under age 65 with
+certain disabilities, and people of all ages with end-stage
+renal disease (permanent kidney failure requiring dialysis
+or a kidney transplant); coverage is regardless of income.
+
+Per-Member-Per-Month (PMPM) – One of the most
+common payment arrangements for managed care.
+A PMPM agreement is when a health care provider
+is paid a set amount for each individual enrolled or
+“empaneled” with them. The PMPM remains the
+same for an individual whether they receive no health
+care services in a month, or very intensive health care
+services.
+
+National Health Service Corps – A federal program
+that promotes improved access to primary care by
+providing scholarships and loan repayment for medical
+professionals who have committed to working in
+underserved urban, rural and frontier areas.
+
+Population Health – The health outcomes of an entire
+population or an approach that aims to improve the
+health of an entire population.
+
+Network – The group of providers in a plan. A network
+may include physicians, physician groups, hospitals,
+clinics, etc.
+
+45
+
+ D RAFT
+Relative Value Units (RVU) – An RVU is a dollar
+amount that is assigned to each encounter, procedure,
+or surgery. The value is standardized, but the way the
+value is used in the compensation formula may vary from
+employer to employer.
+
+Triple Aim – The Institute for Healthcare
+Improvement’s (IHI) Triple Aim is a framework
+that describes an approach to optimizing health
+system performance. It includes designs that must
+be developed to simultaneously pursue three
+dimensions to: 1) improve the patient’s experience
+(including quality and satisfaction); 2) improve the
+population’s health; and 3) reduce the per capita
+cost of health care.
+
+Shakman Decrees – A series of Federal court orders
+regarding government employment in Chicago, which
+were issued in 1972, 1979, and 1983, in response to a
+lawsuit filed by civic reformer Michael Shakman. The
+decrees barred the practice of political patronage, under
+which government jobs are given to supporters of a
+politician or party, and government employees may be
+fired for not supporting a favored candidate or party.
+
+Uncompensated Care – Health care or services
+provided by hospitals or health care providers that are
+not reimbursed from the patient or from third-party
+payers. Often uncompensated care arises when people
+are uninsured or underinsured and cannot afford to pay
+the cost of care. Some costs for these services may be
+covered through cost shifting.
+
+Six Sigma – A process-improvement methodology
+that relies on a collaborative team effort to improve
+performance by systematically removing waste.
+
+Underinsured – People with public or private insurance
+policies that do not cover all necessary health care
+services, resulting in out-of-pocket expenses that
+exceed their ability to pay.
+
+Social Determinants of Health – According to
+the World Health Organization (WHO), the social
+determinants of health are the conditions in which
+people are born, grow, work, live, and age, and the
+wider set of forces and systems shaping the conditions
+of daily life. These forces and systems include economic
+policies and systems, development agendas, social
+norms, social policies and political systems.
+
+Vizient™ – A company that focuses on health care
+data sharing to allow health care providers relevant
+benchmarking data.
+WEPlan – A process mandated by the State of
+Illinois for local health department certification
+conducted every five years.
+
+Tertiary Care – Health care delivered by specialists.
+Patients are often referred to these specialists by their
+primary care physicians for consultations on advanced
+medical treatments.
+
+WIC – The Special Supplemental Nutrition Program for
+Women, Infants, and Children offers grants to States to
+provide pregnant and postpartum women and children
+up to age 5 at nutritional risk with supplemental foods,
+health care referrals and nutrition education.
+
+Trauma Center – A hospital equipped and staffed to
+provide care for patients suffering from major traumatic
+injuries such as falls, motor vehicle collisions, or gunshot
+wounds. Trauma centers vary in their specific capabilities
+and are identified by the Illinois Department of Public
+Health by “Level” designation: Level-I (Level-1) being
+the highest, to Level-III (Level-3) being the lowest (some
+states have five designated levels, in which case Level-V
+(Level-5) is the lowest). Stroger Hospital is home to the
+busiest Level-I trauma center in Illinois and one of the
+busiest in the nation.
+
+46
+
+ D RAFT
+
+COOK COUNTY HEALTH & HOSPITALS SYSTEM
+
+ORGANIZATION STRUCTURE
+CCHHS Board of Directors
+Cook
+CookCounty
+CountyHealth
+Health&&Hospitals
+HospitalsSystem
+System
+
+Public Health
+(CCDPH)
+Stroger HospitalBased Services
+
+Medicaid Health Plan
+(CountyCare)
+
+Direct
+Clinical Care
+Provident HospitalBased Services
+
+Ambulatory
+Services
+
+Primary Care
+Med. Homes
+
+Correctional
+Health Services
+
+Spec. Care
+Services
+
+Inpatient
+
+Inpatient
+
+Operative
+Services
+
+Operative
+Services
+
+Community
+Sites
+
+Central Campus
+Specialty
+
+Diagnostics
+
+Diagnostics
+
+Central
+Campus
+
+Sengstacke
+
+Emergency
+Services
+
+Emergency
+Services
+
+Sengstacke
+
+R.M.R. CORE
+Center
+
+Oak Forest
+Health Center
+
+Oak Forest
+Health Center
+
+Labor &
+Delivery
+
+R.M.R. CORE
+Center
+
+Morton East
+Health Center
+
+Integrated Care Management
+
+47
+
+Cook Co. Jail
+(Cermak)
+
+Juvenile Temp
+Det. Center
+
+ D RAFT
+
+2015
+CCHHS Unique Patient Volume
+Facility
+
+Unique Patients by Facility
+
+Ambulatory Community
+Health Network (ACHN)
+
+158,525
+
+Stroger
+
+101,824
+
+Provident
+
+26,221
+
+CORE
+
+11,315
+
+Public Health
+
+3,278
+
+Correctional Health
+
+47,880
+
+Source: CERNER
+Stroger includes Emergency, Inpatient, Observation, Hospital based clinics, and Specialty Care clinics at Stroger facility.
+Correctional Health includes Cermak Health Services (CHS) and Juvenile Detention Center (JTDC)
+
+48
+
+ D RAFT
+
+2015
+CCHHS Patient Demographics
+Gender
+
+Age Groups
+
+Female
+
+52.2%
+
+Male
+
+47.7%
+
+Other/Unknown
+
+0.05%
+
+Gender
+
+< 1 years
+
+1.2%
+
+1 – 17 years
+
+8.2%
+
+18 - 20 years
+
+3.4%
+
+21 - 44 years
+
+37.9%
+
+45 - 64 years
+
+38.4%
+
+65 – 84 years
+
+10.4%
+
+85+ years
+
+0.6%
+
+0.0%
+
+Age Group
+47.7%
+
+52.2%
+10.4%
+
+0.6%
+
+8.2%
+3.4%
+
+1.2%
+
+38.4%
+
+Female
+Male
+
+37.9%
+
+Other/Unknown
+
+< 1 years
+18 - 20 years
+45 - 64 years
+85 + years
+Source: CERNER
+Excludes Correctional Health
+
+49
+
+1 - 17 years
+21 - 44 years
+65 - 84 years
+
+ D RAFT
+
+2015
+CCHHS Patient Demographics
+Ethnicity
+
+Race
+African American/Black
+
+53.3%
+
+White
+
+27.3%
+
+Other
+
+10.8%
+
+Asian
+
+3.9%
+
+American Indian
+
+3.4%
+
+Hawaiian/Pacific
+
+Race
+3.9%
+
+0.2%
+3.9%
+
+10.8%
+
+3.4%
+10.8%
+
+1.1%
+3.4%
+
+Race
+
+10.8%
+
+3.9%
+3.4%
+
+0.2%
+
+28.7%
+
+Non-Hispanic/Latino/Spanish Origin
+
+70.4%
+
+Unknown
+
+0.9%
+
+Ethnicity
+
+Race
+1.1%
+
+Multiple
+
+Hispanic/Latino/Spanish Origin
+
+0.2%
+0.2%
+
+0.9%
+28.7%
+
+1.1%
+53.3%
+
+70.4%
+
+27.3%
+1.1%
+
+53.3%
+27.3%
+
+53.3%
+27.3%
+
+African American/Black
+White
+Other/UTD
+Asian
+African American/Black
+American Indian/Alaska Native
+African
+American/Black
+White
+Multiple
+Other/UTDWhite
+Native Hawaiian/Pacific Islander
+Other/UTD
+Asian
+Asian
+American Indian/Alaska
+Native
+Source: CERNER American Indian/Alaska Native
+Multiple
+Excludes Correctional Health
+Multiple
+Native Hawaiian/Pacific
+Islander
+Native Hawaiian/Pacific Islander
+50
+
+Non-Hispanic/Latino/Spanish Origin
+Hispanic/Latino/Spanish Origin
+Unknown
+
+ D RAFT
+
+2015
+CCHHS Registration/Encounter Volume
+Number of
+Registrations
+
+Facility
+Ambulatory Community
+Health Network (ACHN)
+
+739,534
+
+Stroger
+
+228,605
+
+Provident
+
+50,586
+
+CORE
+
+46,189
+
+Public Health
+
+6,358
+
+Correctional Health*
+
+57,773
+
+Encounter Type
+
+Number of
+Encounters
+
+Outpatient
+
+914,891
+
+Emergency**
+
+149,164
+
+Inpatient
+
+22,800
+
+Observation
+
+7,746
+
+Volume By
+Encounter
+Type
+Volume
+Volume
+By
+ByEncounter
+Encounter
+Type
+Typ
+
+Registrations By Facility
+
+Volume By Encounter Type
+
+8.2%
+4.0%
+
+28.5%
+
+4.3%
+0.5%
+
+19.6%
+
+28.5%
+28.5%
+
+28.5%
+2.5%
+
+63.4%
+
+6.1%
+
+2.5%
+
+2.5%
+2.5%
+
+62.8%
+
+62.8%
+62.8%
+
+62.8%
+6.1%
+6.1%
+
+6.1%
+ACHN
+
+Stroger
+
+PROV
+
+CORE
+
+Public Health
+
+Outpatient
+
+Outpatient
+Correctional Health
+
+Inpatient
+
+Inpatient
+Observation
+Outpatient
+Outpatient
+Inpatient
+Inpatient
+Observation
+
+Emergency
+Observation
+Observation
+
+Emergency
+
+** Emergency encounters include all arrivals to Emergency
+Services (Adult, Peds, Trauma) and patients that were later
+admitted to inpatient/observation from E.D
+
+* Correctional Health registrations do not reflect total service
+volume. See page 52 for comprehensive Correctional Health Data.
+Source: CERNER
+
+51
+
+E
+
+ D RAFT
+
+2015
+Correctional Health Services Annual Volume
+Services
+
+Volume
+
+Intake Screenings
+
+54,719
+
+Primary Care Visits
+
+35,474
+
+Psychiatry Visits
+
+15,069
+
+Dental Visits
+
+14,848
+
+Detox Patients
+
+10,169
+
+Medication Orders
+
+3,123,660
+
+Doses Dispensed
+
+6,225,979
+
+Methadone Doses Dispensed
+
+8,400
+
+Radiology/Diagnostics
+
+64,103
+
+Total Onsite Specialty Clinics
+
+~16,000
+
+Data reporting period May 2015 – April 2016
+
+52
+
+ D RAFT
+
+2015
+CCHHS Patient Days
+Service
+Category
+
+Licensed
+Beds
+
+Staffed
+Beds
+
+Patient
+Days
+
+Stroger Hospital
+Med / Surg
+
+240
+
+240
+
+76,794
+
+Critical Care
+
+86
+
+86
+
+17,733
+
+OB / Gyne
+
+40
+
+26
+
+6,100
+
+Peds
+
+40
+
+14
+
+2,153
+
+Neonatal ICU
+
+58
+
+52
+
+9,096
+
+464
+
+418
+
+114,101
+
+108
+
+25
+
+3,420
+
+Total
+Provident Hospital
+Total
+
+Hospital Patient Days by Service Category
+1.8%
+
+7.7%
+
+5.2%
+
+17.0%
+
+68.3%
+
+Med Surg
+
+Critical Care
+
+OB Gyne
+
+Peds
+
+Source: CERNER   Excludes Correctional Health
+Patient Days include total inpatient and observation days for inpatient and observation patients.
+Based on midnight census. Pediatric Intensive Care Unit is included in Critical Care.
+
+53
+
+Neonatal
+
+ D RAFT
+
+2015
+Diagnostic, Therapeutic and Procedural Services
+Computerized Tomography
+
+52,780
+
+Diagnostic Radiology
+
+135,742
+
+Interventional Radiology
+
+2,777
+
+Magnetic Resonance Imaging
+
+10,089
+
+Mammography
+
+11,594
+
+Nuclear Medicine
+
+6,954
+
+Ultrasound
+
+34,500
+
+Based on Diagnostic Orders placed and completed (excluding Correctional Health)
+
+Lab Studies Performed
+
+2,507,978
+
+Cardiac Catheterization
+
+941
+
+Deliveries
+
+902
+
+Outpatient Dialysis
+
+2,501
+
+Outpatient Infusion Center
+
+12,369
+
+Laser Eye Treatments
+
+1,514
+
+Gastrointestinal Procedures
+
+6,776
+
+* Data from CY 2015, Labs performed includes labs under contract
+
+Source: CERNER
+Excludes Correctional Health
+
+54
+
+ D RAFT
+
+2015
+CCHHS Operating Room Procedures
+Modality
+Cardiovascular
+General Surgery
+
+Stroger
+
+Provident
+
+751
+3,404
+
+Gastroenterology
+
+413
+338
+
+Neurosurgery
+
+418
+
+OB/Gynecology
+
+962
+
+Oral/Maxillofacial
+
+206
+
+299
+
+Ophthalmology
+
+1,073
+
+548
+
+Orthopedic
+
+1,725
+
+267
+
+Otolaryngology
+
+673
+
+Plastic Surgery
+
+244
+
+Podiatry
+
+181
+
+Thoracic
+
+226
+
+Urology
+
+1,652
+
+300
+
+11,515
+
+2,165
+
+Total
+
+Data from CY 2015 IDPH survey
+
+Source: CERNER
+Excludes Correctional Health
+
+55
+
+ D RAFT
+
+2015
+CCHHS Patients by Payer Group
+Uninsured
+
+80,472
+
+37.2%
+
+Medicaid
+Managed Care
+
+51,122
+
+23.6%
+
+Medicaid
+
+38,666
+
+17.9%
+
+Medicare
+
+18,081
+
+8.4%
+
+Others
+
+13,958
+
+6.4%
+
+Commercial
+
+10,690
+
+4.9%
+
+3,457
+
+1.6%
+
+Medicare
+Managed Care
+
+Patients by Payer Group
+4.9%
+
+17.9%
+37.2%
+1.6%
+
+23.6%
+
+6.4%
+8.4%
+
+Source: CERNER
+Excludes Correctional Health
+
+56
+
+ D RAFT
+
+CCHHS Volume Yearly Trends
+
+Emergency Services
+250,000
+
+Number of Arrivals
+
+200,000
+
+150,000
+
+100,000
+
+50,000
+
+-
+
+2010
+
+2011
+
+2012
+
+2013
+Year
+
+FY2016 Numbers are projections
+
+Source: CERNER
+Excludes Correctional Health
+
+57
+
+2014
+
+2015
+
+2016
+
+ D RAFT
+
+CCHHS Volume Yearly Trends
+
+Inpatient Admissions and Observation Stays
+45,000
+40,000
+
+Number of Admissions
+
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+-
+
+2010
+
+2011
+
+2012
+
+2013
+Year
+
+FY2016 Numbers are projections
+
+Source: CERNER
+Excludes Correctional Health
+
+58
+
+2014
+
+2015
+
+2016
+
+ D RAFT
+
+CCHHS Volume Yearly Trends
+
+Total Outpatient Visits
+1,100,000
+
+Outpatient Visits
+
+1,000,000
+900,000
+800,000
+700,000
+600,000
+500,000
+
+2010
+
+2011
+
+2012
+
+2013
+Year
+
+FY2016 Numbers are projections
+
+Source: CERNER
+Excludes Correctional Health
+
+59
+
+2014
+
+2015
+
+2016
+
+ D RAFT
+
+CCHHS Volume Yearly Trends
+
+Primary Care Provider Visits
+260,000
+
+Primary Care Provider Visits
+
+240,000
+220,000
+200,000
+180,000
+160,000
+140,000
+120,000
+100,000
+
+2013
+
+2014
+
+2015
+Year
+
+FY2016 Numbers are projections
+
+Source: CERNER
+Excludes Correctional Health
+
+60
+
+2016
+
+ D RAFT
+
+CCHHS Volume Yearly Trends
+
+Specialty Care Provider Visits
+260,000
+
+Specialty Care Provider Visits
+
+240,000
+220,000
+200,000
+180,000
+160,000
+140,000
+120,000
+100,000
+
+2013
+
+2014
+
+2015
+Year
+
+FY2016 Numbers are projections
+
+Source: CERNER
+Excludes Correctional Health
+
+61
+
+2016
+
+ D RAFT
+
+COMMUNITY TOWN HALL
+SUMMARY
+•  Improve health equity (59.5%)
+
+To receive community input during the strategic planning
+process, the Cook County Health & Hospitals System
+
+•   Provide high-quality, safe and
+
+(CCHHS) hosted four community Town Hall meetings
+
+reliable care (35.1%)
+
+in advance of the drafting of Impact 2020. CCHHS sent
+out more than 4,000 email invitations to its community
+
+•  Develop human capital (2.7%)
+
+partners and stakeholders to encourage their participation
+
+•   Lead in medical education and
+
+at the meetings. The invitation was also promoted on
+
+clinical investigation (2.7%)
+
+CCHHS’ website, social media pages and in its external
+community newsletter. Attendees at the Town Hall
+
+•   Demonstrate value, adopt
+
+meetings included community members, patients, partner
+
+performance benchmarking (0%)
+
+organizations and representatives from peer health
+care and insurance institutions. In total, 150 individuals
+
+During Town Hall meetings and in written comments,
+
+attended the community Town Hall meetings:
+
+community members advocated:
+•   increased access to behavioral health
+
+•  P
+  rovident Hospital Town Hall: May 2, 2016
+32 attendees
+
+care, including expansions of psychiatric
+and substance abuse services
+
+•  O
+  ak Forest Health Center Town Hall: May 4, 2016
+40 attendees
+
+•  continued focus on justice-involved populations
+
+•  C
+   icero Community Center Town Hall: May 16, 2016
+27 attendees
+
+•  partnerships with community-based health
+•  and social service organizations
+
+•  S
+  troger Hospital Town Hall: May 17, 2016
+51 attendees
+
+•  bilingual/culturally competent staffing
+•  caring for uninsured populations
+
+Attendees were given the opportunity to address the
+meeting to provide feedback on the System’s vision
+
+•  improving the patient experience
+
+and strategies for the future, as well as to ask questions.
+
+•  maintaining the System’s mission to care
+
+Attendees were asked to also provide input by filling
+out a comment form. Attendees who elected to fill out
+
+•   increasing preventive health programs
+
+the comment form were able to select the principle
+
+and home health services
+
+objective they believed should be CCHHS’ top priority.
+The comment form was also available online on CCHHS’
+
+•   collaborating with elected officials to address
+
+website. Below are the principle objectives and the
+
+community needs and structural inequalities
+
+percentage of respondents who denoted the objective as
+
+through policy.
+
+the one that should be CCHHS’ top priority:
+
+62
+
+ D RAFT
+
+EMPLOYEE SURVEY AND TOWN HALL MEETINGS
+SUMMARY
+To receive employee input during the strategic planning
+
+NUMBER/PERCENT
+
+AVERAGE
+
+WITH A SCORE OF 5
+
+SCORE
+
+Improve Health Equity
+
+67%
+
+4.3
+
+Provide high-quality,
+safe, reliable care
+
+79%
+
+4.5
+
+Demonstrate value &
+adopt performance
+benchmarking
+
+45%
+
+4.0
+
+Develop Human Capital
+
+57%
+
+4.2
+
+Lead in medical education
+and clinical investigation
+relevant to vulnerable
+populations
+
+55%
+
+4.1
+
+PRIORITY
+
+process, the Cook County Health and Hospitals System
+(CCHHS) hosted three employee Town Hall meetings
+in advance of drafting Impact 2020 and conducted an
+employee survey to obtain valuable feedback. CCHHS
+emailed employees and advised them of the opportunity
+to participate in “System Briefs” and flyers distributed
+throughout the organization. In total, 126 individuals
+attended the employee Town Hall meetings:
+•  P
+  rovident Hospital Town Hall: May 2, 2016
+67 attendees
+•  O
+  ak Forest Health Center Town Hall: May 4, 2016
+32 attendees
+
+•  4
+  1 or 31% of the employees who completed the
+survey are in a supervisory role.
+
+•  S
+  troger Hospital Town Hall: May 17, 2016
+27 attendees
+
+  f these, 27% hold weekly meetings with staff
+O
+and 37% hold monthly meetings.
+
+Employee Survey
+
+•  9
+  1 or 69% of these employees who completed the
+survey are in a non-supervisory role.
+
+There were a total of 133 employees who completed the
+Employee Strategic Planning Survey.
+
+  f these, 32% documented monthly staff
+O
+meeting with supervisor and 14% had weekly
+meetings.
+
+•  O
+  f these, only 36 or 27% had attended a Town Hall
+meeting where the five strategic priorities were
+discussed.
+
+•  7
+  2 or 58% of employees that completed the
+survey work primarily at Stroger Hospital, 24%
+at community health centers, and 6% each from
+CCDPH, Cermak Health Services and Provident
+Hospital.
+
+•  O
+  f these, 94 or 71% had seen or heard about the
+five strategic priorities prior to initiating the survey.
+•  M
+  ore than 50% of these employees had learned of
+the five strategic priorities through newsletters via
+email (strategic updates, system briefs, community
+updates, etc.) and 22% had heard about it from a
+
+•  5
+  3% of employees were identified as clinical and
+47% as non-clinical.
+•  For the clinical roles:
+
+member of leadership.
+
+20 or 29% are nurses
+With regard to the five priorities, employees were asked
+
+2 or 3% are pharmacists
+
+to rate each of them from 1 to 5.
+
+21 or 30% are physicians
+2 or 3% are PA/CNPs
+10 or 14.5% are technicians/aides
+ The CCHHS employee survey follows on the next page.
+
+63
+
+ D RAFT
+Confidential
+
+CCHHS Strategic Plan - Employee Feedback Survey
+
+Page 1 of 4
+
+Please complete the survey below
+Please fill out the brief survey below regarding the Strategic Plan for the Cook County Health and Hospitals System.
+We encourage all employees to participate and look forward to receiving your feedback.
+CCHHS VISION
+The goal of our strategic plan is to deliver high quality, patient-centered, integrated care that maximizes resources
+and provides the greatest benefit to both the patients and communities we serve.
+STRATEGIC PLAN FOCUS
+In order to achieve this vision, we need to focus on 5 strategic priorities:
+1) Improve health equity;
+2) Provide high quality, safe and reliable care;
+3) Demonstrate value, adopt performance benchmarking;
+4) Develop human capital;
+5) Lead in medical education and clinical investigation relevant to vulnerable populations.
+This survey should take no longer than 15 minutes and does not require any personal contact information. Your
+engagement and feedback are greatly appreciated. Please complete this survey by 5/31/2016.
+
+[Attachment: "StrategicPlanningMemo_051616.pdf"]
+Section 1
+Have you attended a recent Town Hall meeting where
+the five CCHHS strategic priorities were discussed?
+
+Yes
+No
+
+Before today, have you seen or heard about the five
+CCHHS strategic priorities?
+
+Yes
+No
+
+How did you learn about the five CCHHS strategic
+priorities?
+
+From a member of leadership
+From your direct supervisor
+Newsletters via email (i.e. System Briefs,
+Community Updates, Strategic Plan Updates)
+Print publication
+CCHHS intranet
+Have not learned about the priorities
+
+Please rate how important each of the five CCHHS strategic priorities are to you personally - 1 being the least important, 5 being the most important.
+
+Improve Health Equity
+
+1
+
+2
+
+3
+
+4
+
+Provide High Quality and Safe
+Reliable Care
+Demonstrate Value Adopt
+Performance Benchmarking
+Develop Human Capital
+
+14/06/2016 3:13pm
+
+www.projectredcap.org
+
+64
+
+5
+
+ D RAFT
+Confidential
+Page 2 of 4
+
+Lead in Medical Education and
+Clinical Investigation relevant to
+vulnerable populations
+Are you in a supervisory role?
+
+Yes
+No
+
+Approximately, how often do you hold regular meetings
+with your team?
+
+Daily
+Weekly
+Every other week
+Monthly
+Every other month
+Quarterly
+Twice a year
+Once a year
+As needed
+Never
+
+Approximately, how often does your supervisor hold
+regular meetings with your team?
+
+Daily
+Weekly
+Every other week
+Monthly
+Every other month
+Quarterly
+Twice a year
+Once a year
+As needed
+Never
+
+Where do you primarily work?
+
+Austin Health Center
+Cermak Health Services
+Central Campus
+Central Campus Specialty Care Clinics
+Children's Advocacy Center
+Cicero Health Center
+CORE Center
+Cottage Grove Health Center
+Englewood Health Center
+Fantus Health Center
+JTDC
+Logan Square Health Center
+Morton East
+Near South Health Center
+Prieto Health Center
+Provident Hospital
+Public Health
+Robbins Health Center
+Sengstacke Health Center
+Stroger Hospital
+Woodlawn Health Center
+
+Do you consider your role as:
+
+Clinical
+Non-Clinical
+
+Please choose your clinical role.
+
+Nurse
+Pharmacist
+Physician
+Physician Assistant/Nurse Practitioner
+Technician/Aide
+Other, please specify:
+
+Other Clinical Role
+
+__________________________________
+
+14/06/2016 3:13pm
+
+www.projectredcap.org
+
+65
+
+ D RAFT
+Confidential
+Page 3 of 4
+
+Please choose your clinical department.
+
+Anesthesiology
+Cermak
+Employee Health Services
+Emergency Medicine
+Family Medicine
+General Medicine
+Lab
+OBGYN
+Oral Health
+Pediatrics
+Pharmacy
+Psychiatry
+PT/OT/Speech
+Radiology
+Surgery
+Trauma
+Other, please specify:
+
+Other Clinical Department
+
+__________________________________
+
+Please choose your non-clinical department.
+
+Administration- System
+Administration- CountyCare
+Care Coordination
+Facilities (B&G, environmental service, police,
+etc.)
+Finance
+Human Resources
+IT
+Support Services (transport, interpreters,
+dietary, etc.)
+Other, please specify
+
+Other Non-Clinical Department
+
+__________________________________
+
+How long have you worked at the Cook County Health
+and Hospitals System?
+
+Less than 1 year
+1-5 years
+5-10 years
+10-20 years
+More than 20 years
+
+What one word comes to mind when you think about the
+strategic plan priorities? (Type in one word here)
+
+__________________________________
+
+Section 2 - Optional Section
+
+The best ideas come from our people. Please take a few minutes to share how you and/or your
+department are contributing, or can contribute, to the five CCHHS Strategic Priorities.
+We would like your input as we delve more into the specifics of attaining our vision.
+Would you like to complete Section 2?
+
+Yes
+No
+
+Strategic Priority 1: Health Equity How can you
+and/or your department contribute to this
+initiative? Please list any current projects
+related to this initiative.
+
+__________________________________
+
+Strategic Priority 2: Provide High Quality, Safe,
+Reliable Care How can you and/or your department
+contribute to this initiative? Please list any
+current projects related to this initiative.
+
+__________________________________
+
+14/06/2016 3:13pm
+
+www.projectredcap.org
+
+66
+
+ D RAFT
+Confidential
+Page 4 of 4
+
+Strategic Priority 3: Demonstrate Value, Adopt
+Performance Benchmarking How can you and/or your
+department contribute to this initiative? Please
+list any current projects related to this
+initiative.
+
+__________________________________
+
+Strategic Initiative 4: Develop Human Capital How can
+you and/or your department contribute to this
+initiative? Please list any current projects
+related to this initiative.
+
+__________________________________
+
+Strategic Initiative 5: Lead in Medical Education and
+Clinical Investigation to Vulnerable Populations
+How can you and/or your department contribute to
+this initiative? Please list any current projects
+related to this initiative.
+
+__________________________________
+
+14/06/2016 3:13pm
+
+www.projectredcap.org
+
+67
+
+ D RAFT
+
+TIMELINE
+2008
+•  C
+  ook County Board of Commissioners adopt the
+enabling ordinance to create the Cook County Health &
+Hospitals System and its Independent Governance Board
+referred to as the CCHHS Board of Directors.  
+•   Insular safety net provider with little to no competition.
+
+2009
+
+•  M
+  ajority of patients uninsured. Provision of more than
+$600 million in uncompensated care annually.
+
+•   First budget created by independent CCHHS Board of
+
+•   Focus on sick care.
+
+Directors. Local tax allocation supporting operations
+
+•  R
+  eliant on more than $500 million in local tax
+allocation supporting operations.
+
+was $480 million.
+
+2010
+•  A
+  doption of Vision 2015 with increased focus
+on ambulatory services.
+
+2011
+
+•  A
+  ffordable Care Act (ACA) passed by
+Congress and signed by President Obama.
+
+•   Illinois General Assembly mandates that 50%
+of Illinois Medicaid beneficiaries move into
+managed care by 2015. To achieve this, nearly all
+Cook County Medicaid beneficiaries are required
+
+2012
+
+to enroll in a managed care health plan.
+
+•  S
+  tate of Illinois and Cook County granted a
+federal 1115 Waiver to create CountyCare to
+enroll those newly eligible for Medicaid prior to
+the full implementation of the ACA.
+
+2014
+•  ACA takes full effect.
+
+•  C
+  CHHS moves from provider role to provider
+and plan, expanding patient reach.
+
+•   1115 Waiver ends and CountyCare transforms into a
+County Managed Care Community Network (MCCN)
+allowing traditional Medicaid populations to enroll in
+the plan.
+
+2015
+
+•  Majority of CCHHS patients insured.
+
+•  C
+  ountyCare membership stabilizes at
+approximately 160,000.
+
+•   CCHHS and CountyCare competing with private
+health care providers and commercial insurance plans
+for CCHHS’ traditional patients.
+
+•  F
+  urther consolidations in the Managed
+Care Organization market occur.
+
+•   State of Illinois changes rules for Accountable Care
+Entities and causes significant consolidation in the
+Medicaid market.
+
+68
+
+ D RAFT
+
+ANALYSIS OF
+
+VISION 2015
+Vision 2015 Contained Five Main Goals: Access to Health Care; Quality, Service Excellence and Cultural
+Competencies; Service Line Strength; Staff Development and Leadership and Stewardship.
+Since the adoption of Vision 2015, considerable progress toward these goals was made. A list of selected
+accomplishments is provided below.
+
+ACCESS TO HEALTH CARE
+
+Eliminate system barriers,
+strengthen Ambulatory and
+Community Health Network, and
+develop comprehensive outpatient
+centers at strategically located sites.
+Select accomplishments:
+
+QUALITY, SERVICE
+EXCELLENCE AND
+CULTURAL COMPETENCIES
+Execute system-wide performance
+improvement initiatives and
+implement system-wide
+service excellence and cultural
+competencies initiatives. Select
+accomplishments:
+
+•  Patient Support Center
+
+•  Creation of Chief Quality Office
+
+•  Partnerships with FQHCs
+
+•  Routine monitoring of metrics
+with explicit targets
+
+•  O
+  ak Forest Clinic as Regional
+Outpatient Center
+
+•  Performance improvement Projects
+
+•  CountyCare Health Plan
+
+•  Employee flu vaccine compliance
+
+•  Medicaid enrollment at jail
+
+•  Comprehensive care
+coordination strategy
+•  Continued accreditation by
+The Joint Commission
+
+STAFF DEVELOPMENT
+
+Improve staff recruitment, training,
+and development systems and
+processes, implement staff
+satisfaction initiatives. Select
+accomplishments:
+
+LEADERSHIP AND
+STEWARDSHIP
+Develop CCHHS leadership,
+strengthen the stewardship
+responsibilities of the System’s
+Board management. Select
+accomplishments:
+
+•  Leadership Development Program
+
+•  Lowered tax allocation by 80% since 2009
+
+•  Increased FTE headcount 
+
+•  Year-end financials 2014 & 2015 positive
+
+•  Improved onboarding time
+
+•  Physician billing significantly improved
+•  Contracts with Managed
+Care Organizations
+
+69
+
+SERVICE LINE STRENGTH
+
+Continue to develop/strengthen
+key clinical services, develop the
+infrastructure to support clinical
+services. Select accomplishments:
+•  Ophthalmology as a new
+center of excellence
+•  American Burn
+Association accreditation 
+•  Mail order pharmacy improvements
+•  Capital investments: linear accelerators,
+cardiac catheterization labs, interventional
+radiology, mammography
+
+ D RAFT
+
+CCHHS BOARD PRESENTATIONS
+During the strategic planning process, background materials and presentations were provided to the CCHHS Board of
+Directors. For a full listing, see http://www.cookcountyhhs.org/about-cchhs/governance/strategic-planning/.
+
+Summary of Presentations:
+February 26, 2016
+
+Strategic Planning Presentation
+
+Dr. Jay Shannon
+
+March 15, 2016
+
+Quality and Reliability
+
+Dr. Krishna Das
+
+March 17, 2016
+
+Ambulatory Strategy
+
+Debra Carey
+
+March 25, 2016
+
+Strategic Planning Framework
+
+Dr. Jay Shannon
+
+March 25, 2016
+
+Volume Trends and Revenue
+
+Doug Elwell
+
+April 19, 2016
+
+Professional Education
+
+Dr. John O’Brien
+
+April 21, 2016
+
+Nursing Management
+
+Agnes Therady
+
+April 22, 2016
+
+Human Resources
+
+Gladys Lopez
+
+April 22, 2016
+
+Community Health Planning
+
+Dr. Terry Mason
+
+April 29, 2016
+
+Medical Staff
+
+Dr. Claudia Fegan
+
+May 5, 2016
+
+State and Federal Landscape
+
+Susan White, John Scheiner, John Kelly
+
+May 5, 2016
+
+Planning Process/Strategic Priorities
+
+Richard Sewell
+
+May 17, 2016
+
+Clinical Research
+
+Dr. William E. Trick
+
+May 19, 2016
+
+CountyCare Health Plan
+
+Steven Glass
+
+May 19, 2016
+
+Medicaid Managed Care
+
+Mary Sajdak
+
+May 20, 2016
+
+Health Information Systems
+
+Donna Hart
+
+May 20, 2016
+
+Care Coordination
+
+Mary Sajdak
+
+May 23, 2016
+
+Optimal Strategy Alternatives
+
+Richard Sewell
+
+May 23, 2016
+
+Behavioral Health
+
+Dr. Andrew Kulik and Debra Carey
+
+May 23, 2016
+
+Correctional Health
+
+Dr. Connie Mennella and Chris Wurth
+
+May 27, 2016
+
+Health Equity
+
+Dr. Terry Mason
+
+May 27, 2016
+
+External, Internal, Situational Analysis
+
+Richard Sewell
+
+70
+
+ D RAFT
+
+THREE YEAR
+
+FINANCIAL FORECAST
+The three year financial forecast is being developed in concert with the 2017 budget which will be
+presented to the CCHHS Board of Directors in August, 2017.
+The three year forecast will be posted at that time.
+
+71
+
+ D RAFT
+
+COOK COUNTY HEALTH & HOSPITALS SYSTEM
+
+BOARD OF DIRECTORS
+Chairman of the Board
+M. Hill Hammock
+Vice Chairman of the Board
+Hon. Jerry Butler
+Board of Directors
+Ric Estrada
+Ada Mary Gugenheim
+Emilie N. Junge
+Wayne M. Lerner, DPH, LFACHE
+Mary B. Richardson-Lowry
+Carmen Velasquez
+Dorene P. Wiese
+
+John Jay Shannon, MD, Chief Executive Officer
+
+ 

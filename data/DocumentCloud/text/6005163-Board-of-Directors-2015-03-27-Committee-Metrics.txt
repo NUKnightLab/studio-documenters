@@ -1,0 +1,2478 @@
+ 
+Board Quality Dashboard
+
+ 
+
+ 
+
+9'4. 'cl- 0 9'4. [Cr '15. 8 [Cr 3 
+1 QPS Board Metrics - Quality
+2 Data as of 03/10/2015
+3 um CY 2014
+4
+
+TARGET VARIANCE
+Jan Feb March April May June July Aug Sept Oct Nov Dec
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stroger
+
+Core Measures Composite
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stroke (96)
+
+11:1 Immunizations(%)
+
+11 E??iciency - Operating Room 
+
+Room Turn Around Time (minutes)
+
+Safety Total I of Events
+
+ 
+
+HAC: Pressure Ulcer Stages 81 IV
+15 Aa?uvt du?scnaroesU 18.? w-?tn L05 5 days:per1000 discharges
+HAC: Falls with Injury
+1E: A11 med/surg units and 1'CUs/CCUssper 1000pat1?en r-days
+HAI: CLABSI SIR
+17? El 1?91?919 units I'ncuude 171? units with Iaoorarory con?rmed event,
+HAI: CAUTI units include an units wu'tcon?'rrned
+1:5: event.
+Patient Experience
+20 Overall Ratinq ofHospitaI (96 top boxCommunication with Doctors (96 top box)
+22 Communication with Nurses (96 top box)
+2:3: Cleanliness (96 top box)
+24 Provident
+25 Core Measures
+
+21; VenousThromboembolism(VTE)(9699.0%
+lmmunizations(%)
+
+23 ACHN 
+23 Diabetes Control 96 with A1C 9%
+Immunizations: Up to date in children at 24
+
+ 
+
+151115712109107652
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3, Patient Experience: Moving Through \?sit
+3_ Patient Experience: Telephone Access
+
+ 
+
+ 
+
+CCHHS Board of Directors Meeting
+March 27, 2015
+Overview of
+Linguistically Appropriate Care Presentation
+from March 17th QPS Committee Meeting
+Krishna Das, MD, Chief Quality Officer
+
+2   
+
+ Learning   &   Language   Assessment*   
+
+*Screen embedded within Cerner, for nursing intake
+
+3   
+
+ Preferred   Languages   CCHHS   2014   
+Top   10   Primary   Languages;   Number   of   PaFents   
+200000   
+180000   
+
+176983   
+
+160000   
+140000   
+120000   
+100000   
+
+UniquePaGents   
+
+80000   
+60000   
+40000   
+
+28389   
+
+20000   
+1860   
+
+521   
+
+452   
+
+396   
+
+336   
+
+276   
+
+267   
+
+Polish   
+
+Chinese   
+
+Arabic   
+
+Tagalog   
+
+Urdu   
+
+Hindi   
+
+Cantonese   
+(Chinese)   
+
+0   
+English   
+
+Spanish   
+
+4   
+
+ Language   DistribuFon   by   Facility   2014   
+100   
+90   
+
+% of Patients
+
+80   
+70   
+60   
+
+English   
+Spanish   
+
+50   
+
+Polish   
+40   
+
+Other   
+
+30   
+20   
+10   
+0   
+Stroger   
+
+Provident   
+
+Facility
+
+ACHN   
+
+5   
+
+ Preferred   Language   –   Clinics      
+Fantus   GMC   Preferred   Language   
+Dec   1,   2014   through   Dec   31,   2014   
+Preferred   Language      
+%      
+English      
+72%   
+Spanish   
+17%   
+Polish   
+4%   
+Other   
+7%   
+
+#   SelecGons   
+#   Screens   
+2879   
+4025   
+688   
+4025   
+173   
+4025   
+285   
+4025   
+
+Prieto   Health   Center   Preferred   Language   
+Dec   1,   2014   through   Dec   31,   2014   
+Preferred   Language      
+%      
+#   SelecGons   
+English      
+19%   
+326   
+Spanish   
+80%   
+1344   
+Polish   
+1%   
+5   
+Other   
+1%   
+5   
+
+#   Screens   
+1680   
+1680   
+1680   
+1680   
+
+Sengstacke   Health   Center   Preferred   Language   
+Dec   1,   2014   through   Dec   31,   2014   
+Preferred   Language      
+English      
+Spanish   
+Polish   
+Other   
+
+Oak   Forest   Preferred   Language   
+Dec   1,   2014   through   Dec   31,   2014   
+Preferred   Language      
+English      
+Spanish   
+Polish   
+Other   
+
+%       #   SelecGons    #   Screens   
+96%   
+1796    1865   
+2%   
+46    1865   
+0%   
+3    1865   
+1%   
+20    1865   
+
+%       #   SelecGons    #   Screens   
+89%   
+1883    2106   
+6%   
+125    2106   
+1%   
+14    2106   
+4%   
+84    2106   
+
+6   
+
+ CLAS   Access   –   Provision   of   Care   
+•  21   interpreters   Systemwide   –   18   at   Stroger   
+Hospital   
+–  17   Spanish   
+–  4   Polish   
+–  3   more   to   be   hired   
+–  Services   are   available   during   clinic   hours   and   
+24/7/365   at   Stroger,   Provident   and   Cermak   
+hospitals,   selected   clinics   
+
+•  Bilingual   providers   –   100%   of   providers   at   
+selected   clinics   
+•  PrioriGze   bilingual   candidates   in   recruitment   
+7   
+
+ Other   Support   Services   
+•  OPI   (over   the   phone)   interpreters   available   to   
+provide   language   support   for   paGents   
+–  In   2014,   CCHHS   used   132   languages   provided   by   OPI   
+vendor   
+
+•  VRI   (video   remote   interpreter)   services   available      
+for   deaf   and   hard-­‐of-­‐hearing   paGents   
+•  Services   available   24/7   
+•  Both   services   have   helped   signiﬁcantly   decrease   
+provider   and   paGent   wait   Gmes   for   interpreter   
+services   
+8   
+
+ Report   to   the   CCHHS   Board   of   Directors   
+Overview   of   March   19th      
+Corporate   Compliance   sta=s=cs
+Cathy   Bodnar,   MS,   RN,   CHC   
+Chief   Compliance   &   Privacy   Oﬃcer   
+March   27,   2015   
+
+   
+
+   
+
+ Reac=ve   Corporate   Compliance   Volumes   
+Comparison   of   1st   Quarter   Fiscal   Year   Ac=vity   
+
+32   
+
+47   
+
+86   
+
+80   
+
+164   
+
+166   
+
+FY   2010    FY   2011    FY   2012    FY   2013    FY   2014    FY   2015   
+
+CCHHS   Board   of   Directors   Mee:ng   I March   27,   2015   
+
+2   
+
+ 1st   Quarter   2015   Issue   Breakdown   by   Category   
+1661 Reactive Corporate Compliance Issues Were Raised
+Research   
+1%   
+Other   
+14%   
+
+↑   Human   
+Resources   
+18%   
+
+Regulatory/Policy   
+2%   
+
+False   Claims   
+2%   
+↓   HIPAA   
+44%   
+
+HC   Fraud   
+4%   
+
+Category Count1
+Privacy (HIPAA)
+Human Resources
+Accurate Books
+3   
+
+1
+
+Accurate   Books      
+8%   
+
+Conﬂict   of   Interest   
+7%   
+73
+29
+14
+
+Conflict of Interest
+HC Fraud
+False Claims
+
+12
+7
+3
+
+Regulatory/Policy
+Research
+
+4
+1
+
+Other
+
+23
+
+This is a total count of new issues raised to Corporate Compliance. Not all issues are validated/substantiated.
+
+CCHHS   Board   of   Directors   Mee:ng   I March   27,   2015   
+
+ Questions?
+
+COOK COUNTY-HEALTH
+HOSPITALS SYSTEM
+
+CCH HS
+
+Board of Directors Meeting March 27, 2015
+
+ 
+
+Monthly  Metrics  &  
+Quarterly  Deep  Dive  Report  
+Prepared  for:  CCHHS  Board  of  Directors
+
+STEVEN  GLASS,  EXECUTIVE  DIRECTOR,  MANAGED  CARE
+MARCH  27,  2015
+
+ Deep  Dive  Report  Format
+Area   
+
+Metrics   Highlights   
+
+• 
+• 
+• 
+• 
+
+Membership   
+Risk   
+Management   
+
+Deep-­‐Dive   Review/Discussion   
+Popula>on   Breakdown   
+Trends   to   Budget   
+Market   Share   Comparison   
+Provider   Assignment   
+
+•  ACA   Adult   Popula>on   ShiEs   
+•  Pharmacy   Cost   Savings   
+•  Pharmacy   U>liza>on   
+
+Care   
+Management   
+
+•  Risk   Stra>ﬁca>on   
+•  Referral   management   
+
+•  Health   Risk   Screenings   &   
+Assessments   
+•  U>liza>on   of   CCHHS   
+Facili>es   
+
+Opera>ons   
+
+•  Call   Center   Performance   
+
+•  Claims   Processing   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+2   
+
+ Risk  Management
+Key   Measures
+Risk   Management
+ACA   Adult   Membership
+%   19-­‐24   y/o
+%   25-­‐34   y/o
+%   35-­‐44   y/o
+%   45-­‐54   y/o
+%   55+   y/o
+Pharmacy
+#   Scripts   filled
+%   Utilizing   Members   
+#   Scripts/Utilizer
+%   Generic   dispensing
+%   Brand   Single   Source
+%   Formulary
+%   CCHHS   HIV   pt   meds   @   CCHHS   pharmacy
+%   Extended   Rx   Supply   (>84   days)   *NEW*
+Reinsurance
+#   Claims   filed
+
+Dec'14
+
+Jan'15
+
+%   Change   
+From   Prior   
+FYTD'15   
+Month
+Trend Budget/Goal
+
+Feb'15
+
+Dec'14
+16.4%
+15.2%
+13.2%
+26.2%
+29.1%
+
+16.2%
+15.5%
+13.3%
+26.2%
+28.9%
+
+16.3%
+16.0%
+13.4%
+26.0%
+29.0%
+
+0.7%
+3.1%
+1.0%
+-­‐0.9%
+0.3%
+
+h
+h
+h
+h
+i
+
+131,086
+40%
+3.81
+83%
+16%
+98%
+18.5%
+10.1%
+
+134,787
+37%
+3.75
+84%
+16%
+98%
+25.1%
+8.6%
+
+136,708
+31%
+3.44
+83%
+16%
+98%
+29.8%
+8.6%
+
+1.4%
+-­‐16.9%
+-­‐8.3%
+-­‐0.8%
+0.0%
+0.0%
+18.7%
+0.0%
+
+i
+-­‐-­‐
+-­‐-­‐
+h
+-­‐-­‐
+
+0
+
+0
+
+0
+
+0.0%
+
+-­‐-­‐
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+%   to   
+FYTD'15   
+Budget/   
+Goal
+
+Mar'14   to   Dec'14   Shift
+17.0%
+-­‐0.7%
+14.8%
+1.2%
+13.5%
+-­‐0.1%
+27.6%
+-­‐1.6%
+27.0%
+2.0%
+
+98%
+80%
+20%
+
+0.0%
+-­‐50.2%
+-­‐11.4%
+
+3   
+
+ Care  Management
+%   Change   
+From   Prior   
+FYTD'15   
+Month
+Trend Budget/Goal
+
+Key   Measures
+Dec'14
+Jan'15
+Feb'15
+Care   Management
+PCMH   Assignment
+%   Members   Assigned   to   PCMH   *NEW*
+99.2%
+99.1%
+99.9%
+0.8%
+%   Members   Unassigned   
+0.8%
+0.9%
+0.1%
+-­‐89.8%
+#   Assigned   CCHHS/ACHN
+26,276
+27,902
+29,810
+6.8%
+%   Total   Members   @   CCHHS/ACHN
+30.4%
+28.9%
+23.3%
+-­‐19.2%
+#   Assigned   MHN   ACO
+                              24,340                               29,570                               48,145
+62.8%
+%   Total   Members   @   MHN   ACO
+28.1%
+30.6%
+37.7%
+23.1%
+Member   Risk   Stratification
+Cum   #   Outreached   Members
+25,606
+30,776
+54,894
+78.4%
+Cum   #   Risk   Assessments/Screenings
+12,411
+18,312
+19,242
+5.1%
+YTD   %   High   Risk   Members
+3.1%
+4.6%
+3.1%
+-­‐34.1%
+Referral   Management
+#   Authorizations:   Inpatient
+1,041
+1,557
+1,355
+-­‐13.0%
+#   Authorizations:   Outpatient
+1,472
+2,405
+2,092
+-­‐13.0%
+Utilization   Management    (7/1/2014-­‐1/31/2015)
+Admits/1,000   mbr   mos
+167
+169
+1.2%
+Days/1,000   mbr   mos
+735
+756 Data   not   yet   
+2.9%
+ED   V isits/1,000   mbr   mos
+984
+1,001 available
+1.7%
+%   30-­‐day   Readmissions
+21%
+21%
+0.0%
+CCHHS   Utilization    (7/1/2014-­‐2/28/2015)
+Emergency   Room
+17.2%
+17.1%
+16.5%
+-­‐3.6%
+Hospital   Inpatient
+15.1%
+15.2%
+14.4%
+-­‐5.3%
+Hospital   Outpatient
+25.7%
+25.3%
+26.0%
+2.8%
+Other   Medical
+0.61%
+0.58%
+0.6%
+0.7%
+Primary   Care
+40.1%
+38.7%
+37.9%
+-­‐2.0%
+the   Cook   County   
+Health   &   Hospitals   
+Specialist www.countycare.com       312.864.8200       Sponsored   by   7.9%
+7.6%
+9.5%System.    24.3%
+
+h
+h
+h
+i
+h
+h
+h
+h
+h
+
+%   to   
+FYTD'15   
+Budget/   
+Goal
+
+124,318
+
+0.0%
+
+2.0%
+
+1.1%
+
+14.7%
+
+6.300%
+
+i
+i
+i
+i
+i
+-­‐-­‐
+
+i
+h
+-­‐-­‐
+i
+h
+
+4   
+
+ OperaOons
+Key   Measures
+Operations
+Call   Center
+Call   V olume
+Abandonment   rate
+Hold   time
+Average   speed   to   answer
+Claims   Processing
+#   Claims   Paid
+#   Claims   Recv'd   for   Month's   DOS   
+Avg   #      Days   Received-­‐to-­‐Processed
+Avg   #   Days   Received-­‐to-­‐Paid
+
+Dec'14
+
+Jan'15
+
+Feb'15
+
+%   Change   
+From   Prior   
+FYTD'15   
+Month
+Trend Budget/Goal
+Goal
+
+                              22,247
+1.6%
+0:01:04
+0:00:14
+
+23,240
+5.4%
+0:01:07
+0:00:34
+
+25,825
+2.6%
+0:00:38
+0:00:23
+
+11.1%
+-­‐50.9%
+
+h
+h
+h
+h
+
+119,036
+87,174
+FY'14   Q3
+6
+43
+
+54,019
+77,106
+FY'14   Q4
+5
+29
+
+64,463
+77,544
+FY'15   Q1
+3
+23
+
+19.3%
+0.6%
+
+h
+h
+
+-­‐40.0%
+-­‐20.7%
+
+h
+h
+
+%   to   
+FYTD'15   
+Budget/   
+Goal
+Goal   Met
+
+<   4%
+Y
+<   :01:00
+Y
+<   :00:4
+Y
+#   Days
+Goal   Met
+
+<   8
+<   35
+
+Y
+Y
+
+    Med   management   hold   >me   =   0:01:47   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+5   
+
+ CountyCa re
+
+HEALTH PLAN
+
+ 
+
+ 
+
+
+
+
+Quarterly Deep-Dive Review
+
+ 
+
+ 
+
+Membership  
+
+Data  as  of:  3/2/2015     Source:  Daily  Membership  (834)  File
+
+Key   Measures
+Membership
+Monthly   Membership
+ACA
+FHP
+SPD
+Home/Community   Waiver
+FYTD   Member   Months
+ACA
+FHP
+SPD
+Home/Community   Waiver
+
+Dec'14
+86,562
+78,914
+6,111
+1,537
+0
+86,562
+78,914
+6,111
+1,537
+0
+
+Jan'15
+96,618
+77,292
+17,569
+1,757
+254
+183,180
+156,206
+23,680
+3,294
+254
+
+Feb'15
+127,799
+81,033
+44,919
+1,847
+272
+310,979
+237,239
+68,599
+5,141
+526
+
+Mar'15
+152,995
+85,973
+64,382
+2,640
+409
+463,974
+323,212
+132,981
+7,781
+935
+
+%   Change   
+From   Prior   
+FYTD'15   
+Month
+Trend Budget/Goal
+19.7%
+6.1%
+43.3%
+42.9%
+
+h
+h
+h
+h
+
+%   to   
+FYTD'15   
+Budget/   
+Goal
+
+156,943
+78,369
+74,506
+4,068
+
+97.5%
+109.7%
+86.4%
+64.9%
+
+534,903
+335,252
+184,506
+15,146
+
+86.7%
+96.4%
+72.1%
+51.4%
+
+    Gender   =   55%   Female;   45%   Male   
+    Average   age   =   Female:   33   y/o;   Male:   32   y/o   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+7   
+
+ Membership  Trend  to  Budget
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+8   
+
+ Health  Plan  Comparison  
+Source:  IL  HFS,  Greater  Chicago  Region
+FHP/ACA   Adults,   Greater   Chicago   Region
+Health   Plan
+
+Oct'14
+
+Nov'14
+
+Dec'14
+
+N
+N
+N
+Family   Health   Network
+89,964 107,840 151,195
+Harmony   Health   Plan
+111,073 111,300 123,966
+CountyCare
+88,858
+85,453
+83,733
+Blue   Cross   Blue   Shield
+1,482
+7,977
+43,575
+IlliniCare   Health   Plan
+1,578
+10,520
+31,944
+Advocate   Accountable   Care   (ACE)
+7,597
+13,812
+34,495
+Meridian   Health   Plan
+3,633
+14,195
+33,848
+Aetna   Better   Health   Inc.
+523
+9,875
+22,848
+SmartPlan   Choice   (ACE)
+32
+2,007
+17,661
+Community   Care   Partners   (ACE)
+22
+302
+9,700
+HealthCura   (ACE)
+28
+181
+14,318
+Loyola   Family   Care   (ACE)
+150
+1,665
+3,390
+Better   Health   Network   (ACE)
+11
+155
+976
+MyCare   Chicago   (ACE)
+478
+1,598
+1,937
+Illinois   Partnership   for   Health   (ACE)
+298
+2,160
+3,731
+UI   Health   Plus   (ACE)
+4
+39
+609
+Next   Level   (CCE   serving   ACA   only)
+41
+263
+434
+Lurie   Children's   Health   Partners   (CSN   CCE)
+92
+414
+801
+LaRabida   Coordinated   Care   Network   (CSN   CCE)
+4
+34
+92
+www.countycare.com       312.864.8200       Sponsored   by   the   305,868
+Cook   County   H369,790
+ealth   &   Hospitals   
+System.   
+Total
+579,253
+
+Jan'15
+N
+%   Total
+207,969
+22.4%
+138,336
+14.9%
+93,245
+10.0%
+78,639
+8.5%
+76,603
+8.3%
+68,865
+7.4%
+66,773
+7.2%
+52,375
+5.6%
+44,374
+4.8%
+33,805
+3.6%
+21,807
+2.3%
+17,030
+1.8%
+9,451
+1.0%
+9,066
+1.0%
+3,564
+0.4%
+2,691
+0.3%
+1,590
+0.2%
+1,485
+0.2%
+583
+0.1%
+928,251
+
+#   Change   
+Month   
+Prior
+               56,774
+               14,370
+                     9,512
+               35,064
+               44,659
+               34,370
+               32,925
+               29,527
+               26,713
+               24,105
+                     7,489
+               13,640
+                     8,475
+                     7,129
+                           (167)
+                     2,082
+                     1,156
+                                 684
+                                 491
+         209,463
+
+%   
+Change   
+Month   
+Prior
+37.6%
+11.6%
+11.4%
+80.5%
+139.8%
+99.6%
+97.3%
+129.2%
+151.3%
+248.5%
+52.3%
+402.4%
+868.3%
+368.0%
+-­‐4.5%
+341.9%
+266.4%
+85.4%
+533.7%
+60.2%
+
+9   
+
+ Health  Plan  Comparison  
+
+Source:  IL  HFS,  Chicago  Region  (includes  suburban  Cook  &  Collar  CounOes)
+ICP   Greater   Chicago   Region   (SPD   population)
+Health   Plan
+
+Oct'14
+
+Aetna   Better   Health   Inc.
+IlliniCare   Health   Plan   Inc.
+Community   Care   Alliance   of   Illinois
+Blue   Cross/Blue   Shield   of   Illinois
+Humana   Health   Plan
+Cigna   HealthSpring   of   Illinois
+Meridian   Health   Plan
+Next   Level   (CCE)
+EntireCare   (CCE)
+Together4Health   (CCE)
+CountyCare
+Be   Well   (CCE)
+Total
+
+N
+28,547
+28,018
+6,954
+4,610
+3,679
+3,193
+4,164
+3,987
+2,169
+1,521
+352
+1,450
+88,644
+
+Nov'14
+N
+29,377
+28,422
+7,726
+5,422
+4,162
+4,143
+4,059
+4,616
+2,211
+1,530
+1,169
+1,396
+94,233
+
+Dec'14
+N
+29,180
+28,067
+7,766
+5,597
+4,603
+4,142
+4,188
+3,826
+2,179
+1,582
+1,535
+1,374
+94,039
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+Jan'15
+N
+%   Total
+29,276
+3.2%
+28,058
+3.0%
+7,804
+0.8%
+5,803
+0.6%
+4,602
+0.5%
+4,337
+0.5%
+4,332
+0.5%
+3,666
+0.4%
+2,588
+0.3%
+2,236
+0.2%
+1,764
+0.2%
+1,387
+0.1%
+95,853
+10.3%
+
+#   Change   
+Month   
+Prior
+                                       96
+                                          (9)
+                                       38
+                                 206
+                                          (1)
+                                 195
+                                 144
+                           (160)
+                                 409
+                                 654
+                                 229
+                                       13
+                     1,814
+
+%   
+Change   
+Month   
+Prior
+0.3%
+0.0%
+0.5%
+3.7%
+0.0%
+4.7%
+3.4%
+-­‐4.2%
+18.8%
+41.3%
+14.9%
+0.9%
+1.9%
+
+10   
+
+ Membership
+MEMBERSHIP   BY   KEY   PROVIDER   GROUP   
+
+STRATEGIC   APPROACH   
+
+    Current   
+    ACO   partnership   
+    Adding   FHP   &   SPD   popula>ons   
+    Increased   emphasis   on   
+reten>on   (Rede   process)   
+WHY   IMPORTANT   
+
+    Sole   driver   of   health   plan   revenue   
+    Three   PCMH   groups   =   
+approximately   80%   of   membership   
+
+    Future   
+    At-­‐risk   contrac>ng   
+    New   popula>ons/products   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+11   
+
+ Pharmacy  Cost  Savings
+CCHHS   HIV   PT   MEDS   @   CCHHS   &   
+MAINTENANCE   MEDS   EXTENDED   SUPPLY   
+
+STRATEGIC   APPROACH   
+     HIV   
+     Provider   educa>on   and   feedback   
+
+◦ @   30%   (Feb’15),   up   from   13%   (Oct’14)   
+◦ Discussing   mandatory   implementa>on   
+
+     Pa>ent   educa>on   materials   
+     Extended   Supply   
+     >   80%   of   scripts   ﬁlled   are   maintenance   
+meds;   Majority   wrihen   by   specialists   
+
+WHY   IMPORTANT   
+
+    Poten>al   $7   million   annual   
+savings   ($5M   HIV,   $2M   
+extended   supply)   
+
+     Implemen>ng   requirement   for   
+maintenance   meds   June   1;   No>ce   to   
+members   ﬁlling   scripts   in   April   &   May   
+     Will   allow   ﬁrst   ﬁll   at   30   days;   All   
+subsequent   @   90   days   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+12   
+
+ Risk  Assessments
+RISK   ASSESSMENT   COMPLETED   
+WITHIN   FIRST   60   DAYS   
+
+STRATEGIC   APPROACH   
+
+    Priority   popula>ons   
+established:   
+◦  New   members   
+◦  Top   1%   u>lizers   
+◦  Post   hospitaliza>ons   
+◦  Transplant   members   
+WHY   IMPORTANT   
+
+    Risk   assessments   are   basis   for   
+care   plans.   
+    Iden>ﬁes   resource   needs.   
+
+    Performance   metrics   
+established;   Reviewed   
+monthly   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+13   
+
+ Health  Plan  UOlizaOon  of  CCHHS  Services
+%   OF   MEDICAL   CLAIMS   FOR   SERVICES   @   CCHHS   
+
+STRATEGIC   APPROACH   
+
+    Health   Plan   Execu>ve   
+Commihee   governance   
+shared   by   plan   and   system   
+leadership.   
+WHY   IMPORTANT   
+
+    Desire   to   spread   ﬁxed   CCHHS   
+costs   across   as   many   services   as   
+possible.   
+
+    Increased   referrals   to   
+certain   CCHHS   special>es.   
+    Reviewing   network   
+conﬁgura>on.   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+14   
+
+ Claims  Payment
+AVG   #   DAYS   RECV’D   TO   PROCESSED   &   
+RECV’D   TO   PAID   
+
+STRATEGIC   APPROACH   
+
+    Rou>ne   monitoring   of   turn   
+around   >me   (TAT)   metrics   
+    Focus   on   contract   build   
+within   claims   system   
+WHY   IMPORTANT   
+
+◦  Accuracy   of   contract   terms   
+◦  Accuracy   of   providers   
+
+    Leading   indicator   of   other   
+system   conﬁgura>on   problems.   
+    Top   dis-­‐sa>sﬁer   for   providers.   
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+15   
+
+ Future  Deep  Dives
+    June   
+◦  FY’16   Planning   
+
+    September   
+◦  Innova>on   
+
+    December   
+◦  Hard-­‐to-­‐reach   Popula>ons   
+
+www.countycare.com       312.864.8200       Sponsored   by   the   Cook   County   Health   &   Hospitals   System.   
+
+16   
+
+ COOK COUNTY HEALTH & HOSPITALS SYSTEM
+HUMAN RESOURCES METRICS AND IN FOCUS
+CCHHS BOARD OF DIRECTORS
+MARCH 27, 2015
+,
+Gladys Lopez, Chief of Human Resources
+
+ FY13 717 
+FY14  874 Increase by 22%
+FY15 255 ‐Thru 02/23/15
+
+# of H
+Hires
+
+VACANCIES FILLED
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+FY13 (717)
+FY13
+(717)
+34
+FY14 (874)
+50
+FY15 (255)
+68
+Thru 02/23/15
+
+26
+38
+101
+
+92
+32
+86
+
+51
+38
+
+66
+59
+
+86
+53
+
+58
+113
+
+83
+82
+
+36
+86
+
+41
+70
+
+77
+104
+
+67
+149
+
+FY15 Vacancies Filled by Job Function / Open Positions
+FY15 Vacancies Filled by Job Function / Open Positions
+FY14
+Hired
+
+FY14
+1st Qtr.
+
+FY15
+1ST Qtr.
+
+RTHs in
+Process
+
+15
+
+0
+
+8
+
+58
+
+5
+
+2
+
+3
+
+14
+
+24
+
+1
+
+8
+
+5
+
+311
+
+31
+
+71
+
+302
+
+Physicians
+
+97
+
+26
+
+16
+
+80
+
+Pharmacy
+
+49
+
+11
+
+6
+
+8
+
+373
+
+49
+
+143
+
+267
+
+874
+
+120
+
+255
+
+2734
+
+Job Function
+1 Finance
+
+HIS
+Li
+Licensed
+dP
+Practice
+i N
+Nurses
+Nursing (CNI, CNII, APN, Nurse Coordinator, Clinician)
+
+Other
+Total
+
+Q1 FY15 hires increased by 112%
+1 
+2
+
+Medicaid eligibility insourcing
+Fluctuate month to month based on hires and requisitions. 
+
+2
+
+FY15 HIRESS:  COMPARISON OF FY13, FY14  TO
+O FY15 (THRU
+U 02/23/15
+5)
+
+Goal:  Reduce CCHHS Vacancies to 600
+
+ 2014 2015
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+June
+Actual  Target Actual Actual Actual Actual Actual Actual Actual
+
+G l
+Goals
+Average # of days from Request to Hire approval to  Posting 
+Open
+
+YTD
+Avg
+
+91
+
+10
+
+80
+
+48
+
+73
+
+67
+
+b Average # of posting days
+Average # of posting days
+
+14
+
+14
+
+13
+
+9
+
+12
+
+11
+
+c Average # of days from Posting Close to Interview Referral
+
+28
+
+15
+
+33
+
+22
+
+27
+
+26
+
+Average # of days from Interview Referral to Decision to 
+Hire  to HR. (Interview/Selection)
+
+29
+
+25
+
+29
+
+23
+
+32
+
+27
+
+fd
+f
+d
+h
+l
+l Hire 
+Average # of days from decision to hire until actual 
+Date.  Credentialed Positions: Physicians, Psychologist, 
+e
+Physician Assistant I and Advanced Practice Nurses.
+
+41
+
+30
+
+55
+
+49
+
+51
+
+51
+
+203
+
+94
+
+209 151 195
+
+185
+
+a
+
+d
+
+f
+
+Average # of days from Request to Hire to Hire  Date
+
+STATTUS
+
+Budget to Recruiting average of 13 Days 
+
+Goal: Within 10% of target
+RTH in HR to Posting 
+Job Description & 
+Minimum Qualification 
+Questions Finalized and 
+Approved by Hiring 
+Dept. & HR
+
+HR
+Hiring Dept
+Shared
+
+Posting 
+Start
+
+10 Days
+“a”‐ Draft
+Postingg
+
+Posting 
+End
+
+14 Days
+“b”‐ Posting 
+Period
+
+Decision to hire 
+from department 
+to HR
+
+Candidate 
+List sent to 
+department
+
+15 Days
+
+25 Days
+“d”‐ Interview Selection
+
+“c”‐ Validation
+
+94 Days (total)
+Benchmark: 58
+Data source:  TLNT The Business of HR
+http://www.tlnt.com/2014/08/14/employers‐find‐that‐time‐to‐fill‐job‐rates‐are‐growing‐hit‐13‐year‐high/
+
+3
+
+Hire date
+
+30 Days
+“e”‐ External Offer / Onboard
+
+COMPPLETE HIRING PROCEESS IN A TIMELY MAN
+NNER
+
+Goal:  Improve / Reduce Average Time to Hire 
+
+ Hiring Snapshot (2/26/15)
+
+Count of po
+C
+ositions
+
+1 200
+1,200
+1,000
+
+989
+
+15
+
+61
+
+6
+
+166
+
+800
+
+62
+
+232
+
+600
+85
+17
+
+400
+
+90
+
+255
+
+200
+0
+
+Job Classification
+Finance
+HIS
+Licensed Practice Nurse
+Nurse
+Physician
+Pharmacy
+Other
+Grand Total
+
+RTHs
+RTHs 
+submitted 
+to HR as of  Paperwork 
+2/26/15
+Complete
+66
+66
+17
+17
+13
+13
+373
+370
+96
+94
+14
+14
+410
+410
+989
+974
+
+Posted
+66
+17
+13
+341
+89
+14
+397
+913
+
+Posting 
+Closed
+16
+17
+13
+339
+89
+14
+384
+907
+
+Validation 
+Completed
+14
+11
+13
+282
+73
+13
+335
+741
+
+4
+
+Referred for 
+Interviews
+12
+8
+13
+253
+70
+13
+310
+679
+
+Interviews 
+Complete
+9
+6
+10
+135
+58
+6
+223
+447
+
+Candidate  Hire Date 
+ID'd
+ID'd
+9
+9
+5
+5
+10
+10
+101
+97
+52
+48
+6
+6
+179
+170
+362
+345
+
+Hired
+8
+3
+8
+71
+16
+6
+143
+255
+
+RTHs In 
+Process
+58
+14
+5
+302
+80
+8
+267
+734
+
+FY15 CCHHS R
+RECRUITING
+G SUMMA
+ARY
+
+Goal:  Track Hiring Status and Progress
+
+ Human Resources Committee
+Human Resources Committee
+
+CCHHS UNIVERSITY LEADERSHIP DEVELOPMENT PROGRAM
+
+  LLate 2012 / early 2013 –
+2012 /
+l 2013 worked with pro bono resources from Civic Consulting 
+k d ih
+b
+f
+Ci i C
+li
+Alliance, Strategic Talent Solutions and Northwestern University’s School of 
+Education & Policy and a CCHHS Steering Committee to create the CCHHS 
+p
+p
+g
+(
+)
+Leadership Development Program (LDP)
+ LDP is a three‐month training program that includes workshops and lunch and 
+learn sessions and provides participants with an opportunity to build new skills 
+and connect with leaders throughout the organization
+ The Program’s goal is to develop a cohort of effective leaders who engage and 
+The Program’s goal is to develop a cohort of effective leaders who engage and
+help staff to deliver on CCHHS’s vision of excellent relationship‐based care
+ All non‐union members of management are eligible and encouraged to complete 
+an online application
+ Each Cohort includes up to 14 participants
+ Selected participants are required to execute a Participation Agreement
+ We host an orientation for the Supervisors of the Participants
+ Throughout the program we provide the Supervisors with a summary of the 
+Throughout the program we provide the Supervisors with a summary of the
+information shared with their employees to support continued engagement with 
+their employee
+
+6
+
+CCHH
+HS UNIVERRSITY’S LEAADERSHIP DEVELOPM
+MENT PROG
+GRAM
+
+CCHHS Leadership Development Program – Spring Session (Cohort IV) 
+
+ Overall
+Program
+
+Module
+
+Workshop
+(1 WS = 2.5 hours)
+
+Leadership Development Program (LDP) Modules
+1.
+Leadership
+at CCHHS
+
+WS 1.1
+
+2.
+2 Defining
+D fi i
+Excellent
+Patient
+Experience
+
+WS 2.1
+
+3. Establishing
+Positive
+Relationships
+
+WS 3.1
+
+4. Ensuring
+Quality &
+Safety
+
+WS 4.1
+
+5.Setting
+5 S tti and
+d
+Managing
+Performance
+Expectations
+
+WS 5.1 The
+Importance
+of Goal
+Setting
+
+WS 5.2
+The
+CCHHS
+Disciplinar
+y Process
+
+6. Leading
+Through Difficult
+Situations
+
+WS 6
+1
+6.1
+Effective
+Problem
+Solving
+Decision
+Making
+
+WS 6.2
+Managin
+g
+Conflict
+
+7.
+Creating
+an
+Excellent
+Patient
+Experienc
+e
+
+WS 7.1
+
+Support from senior leadership and supervisors
+
+CCHHS
+CCHHS’ss Vision & Mission
+
+Excellent Patient Experience
+
+CCHH
+HS LEADERRSHIP DEVEELOPMENTT PROGRAM
+M
+
+OVERALL PROGRAM STRUCTURE
+
+  Total Cohorts:  3
+ Total Graduates:  35
+ Fall 2013 Graduates: 13
+F ll 2013 G d t 13
+ Spring 2014 Graduates:  11
+ Fall 2014 Graduates:  11
+ Areas represented:  
+Emergency  (1)
+Finance (1) 
+Laboratory (1)
+Laboratory (1)
+Nephrology (1)
+Nursing  (18) – more than 50%
+Patient Access (2)
+Pharmacy (3)
+
+Physical Therapy (1)
+Physician Assistant  (1)
+Psychology (1)
+Psychology (1) 
+Radiology (2)
+Revenue Cycle (1)
+Patient Financial Services (1)
+Safety / Security (1)
+
+8
+
+CCHH
+HS UNIVERRSITY’S LEAADERSHIP DEVELOPM
+MENT PROG
+GRAM
+
+CCHHS Leadership Development Program  
+
+  Cohort IV:  13
+ More than 50% of the participants are from Nursing
+ 7 Areas represented:  
+Human Resources (1)
+Mental Health Services (1)
+( )
+Nursing  (7) – more than 50%
+Nursing & Care Management (1)
+
+Pharmacy (1)
+Radiology (1)
+gy ( )
+Respiratory Therapy (1)
+
+9
+
+CCHH
+HS UNIVERRSITY’S LEAADERSHIP DEVELOPM
+MENT PROG
+GRAM
+
+CCHHS Leadership Development Program – Spring Session (Cohort IV) 
+
+ Finance   Dashboard:   March   2015   
+CCHHS:   Monthly   Inpa@ent   Days   
+   12,000      
+
+2014   Budgeted   Average   
+
+   10,000      
+
+Pa@ent   Days   
+
+   8,000      
+
+   6,000      
+
+   4,000      
+
+   2,000      
+
+   -­‐            
+Mar-­‐14   
+
+Apr-­‐14   
+
+May-­‐14   
+
+Jun-­‐14   
+
+Jul-­‐14   
+
+Aug-­‐14   
+
+Sep-­‐14   
+
+Oct-­‐14   
+
+Nov-­‐14   
+
+Dec-­‐14   
+
+Jan-­‐15   
+
+Feb-­‐15   
+
+Source:   CERNER   
+
+1   
+CCHHS   Business   Intelligence   
+
+ Finance   Dashboard:   March   2015   
+CCHHS:   Inpa@ent   Days   by   Payor   Plan   
+
+4%   
+24%   
+COMMERCIAL   
+MEDICAID   
+
+38%   
+
+MEDICAID   MANAGED   CARE   
+MEDICARE   
+OTHERS   
+
+14%   
+
+UNINSURED   
+
+20%   
+
+Source:   Siemens   
+
+2   
+CCHHS   Business   Intelligence   
+
+ Finance   Dashboard:   March   2015   
+CountyCare   :   CCHHS   Service   U@liza@on   -­‐   Comparison   
+Percentage   of   Claims   for   Services   at      CCHHS   
+45%   
+40%   
+35%   
+30%   
+25%   
+20%   
+15%   
+10%   
+5%   
+0%   
+ER   
+Dec'14   
+
+Hosp   IP   
+Jan'15   
+
+Hosp   OP   
+Feb'15   
+
+PCP   
+
+Specialty   
+
+%   ACA   Adults   @   CCHHS/ACHN   
+
+Source:   CountyCare   
+
+3   
+CCHHS   Business   Intelligence   
+
+ Finance   Dashboard:   March   2015   
+Physician   Work   Eﬀort:   FY2013   
+
+1%   
+21%   
+Teaching   
+Administra@ve   
+Clinical   
+57%   
+
+20%   
+
+Research   
+
+*Stroger   physicians   only   
+
+Source:   Time   Logs   
+
+4   
+CCHHS   Business   Intelligence   
+
+ Finance   Dashboard:   March   2015   
+CountyCare   Pharmacy   
+
+Period   
+
+Mbr   Mos   
+   
+
+   FY2013*   
+FY2014   
+   FY2015**   
+Overall   
+
+243,654   
+1,081,951   
+                           183,384      
+               1,508,989      
+
+CCHHS   Mo   PMPM    Non-­‐CCHHS   Mo   PMPM    Mo   PMPM   
+   
+   
+   
+   $            14.77      
+   $               14.67      
+   $            10.32      
+   $            14.15      
+
+   $            63.56      
+   $      104.51      
+   $      103.94      
+   $            97.83      
+
+   $            78.33      
+   $      119.18      
+   $      114.26      
+   $      111.98      
+
+*For   FY2013   data,   the   waiver   process   required   applica@on   approval   before   pharmacy   beneﬁts   were   
+available         
+**FY2015   data   through   1/15/2015   
+
+5   
+CCHHS   Business   Intelligence   
+
+ 

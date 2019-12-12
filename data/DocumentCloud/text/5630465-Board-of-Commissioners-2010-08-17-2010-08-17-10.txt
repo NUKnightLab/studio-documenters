@@ -1,0 +1,124 @@
+ITEM NO. C3
+
+August 11, 2010
+
+AUTHORIZATION TO ENTER INTO A CONTRACT WITH AT&T FOR SUPPLY OF
+CISCO EQUIPMENT AND INSTALLATION SERVICES FOR THE CHA WAN UPGRADE
+To the Honorable Board of Commissioners:
+RECOMMENDATION
+It is recommended that the Board of Commissioners authorize the Chief Executive Officer or his
+designee to execute a contract with AT&T to supply Cisco Equipment and Installation Services for
+the CHA’s Upgrade of its Wide Area Network (WAN) in the amount of $448,669.46.
+RECOMMENDATION SUMMARY
+Funding Code: General Fund
+Vendor: AT&T
+Address: 225 W. Randolph
+City, State, Zip: Chicago, IL 60606
+RFP Number: 10-00516
+Contract Type: Professional Services
+Original Contract Amount: $448,669.46
+Original Contract Period: 2 Years
+Extension Options: One
+Number of Vendors Solicited: 264
+
+Number of Pick-Ups: 33
+Number of Proposals Received: 4
+Date Advertised: 4/23/10
+Date Bids/Proposal Opened: 5/18/10
+Pre-Proposal Conference: 4/29/10
+Addendum # 1 Issued: 4/29/10
+Addendum # 2 Issued: 5/10/10
+Advertisement Publications: Chicago Sun-Times,
+Chicago Defender, El Dia
+
+M/W/DBE Participation (Original and Modifications):
+Direct
+%
+MBE
+% WBE 20. % DBE
+Indirect % MBE
+% WBE
+% DBE
+Waiver
+Yes/No
+Section 3:
+(#) Hiring
+
+($) Subcontracting 1.5
+
+%
+%
+
+% Other Economic Opportunities
+
+BACKGROUND INFORMATION
+In 2010 the Chicago Housing Authority (“CHA”) issued a solicitation for the provision of Cisco equipment supply
+and installation services under RFP 10-00516 at various CHA sites and locations. The CHA currently uses T1
+links to connect many of its remote sites to the CHA central network. These links provide integrated voice, video,
+and data to the CHA’s remote sites. The existing T1 links are functional and suitable for servicing the CHA’s
+current network capacity and application performance requirements. However, upgrading the networking
+equipment at sites across the CHA network would augment the current performance of CHA networking systems,
+and would better support enhancements to the CHA communications network and infrastructure that are
+implemented in the future.
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ Among the anticipated system improvements planned, the CHA has a video surveillance initiative that will require
+large amounts of bandwidth to each remote CHA site. The T1 links have a limited capacity and can become easily
+saturated with traffic where video is involved, potentially resulting in less than optimal network and application
+performance. The CHA would experience enhanced bandwidth and application performance at each remote site
+and across the network as a whole by upgrading the existing network equipment located at each CHA remote site
+with new, higher performing Cisco networking equipment, which will support and improve both current network
+performance and future network infrastructure enhancements.
+PROCUREMENT INFORMATION
+On April, 23 2010, the CHA advertised Request for Proposal (RFP) # 10-00516 in the Chicago Sun-Times,
+Chicago Defender, and El Dia Newspapers, to solicit proposals for a Cisco Equipment and Installation Services
+provider. The proposal was also sent out to Two-Hundred Sixty-Four (264) vendors and Sixty (60) Assist
+Agencies. The CHA held a pre-proposal meeting on April 29, 2010; and issued an addendum on April 29, 2010,
+deleting items from the equipment list; Addendum # 2 was issued on May 10, 2010 providing potential
+Respondents with clarifications to questions regarding the RFP. The due date was also changed from 05/13/2010,
+to 05/18/2010.
+The CHA received a total of four (4) proposals in response to the RFP. The proposals were deemed responsive and
+were given to the evaluation committee for their review. The written proposals were originally scored by the
+evaluation team, and a competitive range was set, which included three of the Respondents. Meetings were held
+with the Respondents in the competitive range (which included oral presentations by these Respondents, and
+offered the opportunity for the CHA to provide additional direction on the project’s requirements) and updated
+“best and finals” were presented by the Respondents in the competitive range. A second scoring was done based
+on the updated best and final proposals.
+Following the second scoring phase and evaluation, AT&T was determined to offer the best proposal that met the
+technical requirements of the RFP and was found to provide the best overall value consistent with CHA’s
+requirements for the Cisco Equipment and Installation Services. AT&T’s presentation was impressive. It was
+very thorough and articulated an effective solution. AT&T has over 100 years of experience as a technology
+service provider. AT&T has successfully designed, deployed and installed over 1000 large scale WAN and
+Metropolitan Wide Area Network (MAN) projects throughout the city of Chicago and the United States. AT&T‘s
+experience deploying Cisco systems and equipment in large scale WAN and MAN Cisco projects will provide
+Chicago Housing Authority with a successful and reliable solution for CHA’s WAN and MAN needs.
+AT&T has over 70 Cisco Certified Internetworking Experts (CCIE’s) employed for Cisco routing, switching and
+voice services. AT&T is highly qualified to design, configure, and install a large scale, city-wide Metropolitan
+Wide Area Networks. AT&T is an Internet Service Provider (“ISP”) servicing multiple states with Metropolitan
+Wide Area Networks and has extensive experience providing telecommunications solutions. This was found to be
+an advantage compared to the other presenters who have never implemented a large scale Cisco WAN and MAN
+deployment of the magnitude required by the CHA.
+AT&T has the resources with the proper skill sets and ample experience in successful large scale Cisco WAN and
+MAN deployments. AT&T’s proposal, experience and resources will provide Chicago Housing Authority with a
+successful and timely Cisco WAN and MAN installation services. AT&T’s proposal provides the best experience
+and value to the Chicago Housing Authority. Based on the foregoing it is in the best interest of the CHA to enter
+into a two-year contract with AT&T to supply and install Cisco networking equipment to the CHA in an amount
+not to exceed $448,669.46.
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ RESOLUTION NO. 2010-CHA-100
+WHEREAS, the Board of Commissioners has reviewed the Board Letter dated August 11, 2010 entitled
+“Authorization to Enter into a Contract with AT&T for Supply of Cisco Equipment and
+Installation Services for the CHA WAN Upgrade”.
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+THAT
+
+The Board of Commissioners authorizes the Chief Executive Officer or his designee to enter
+into a contract with AT&T for Cisco Equipment and Installation services in the amount of
+$448,669.46.
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ 

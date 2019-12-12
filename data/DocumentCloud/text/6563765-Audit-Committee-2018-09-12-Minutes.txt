@@ -1,0 +1,157 @@
+THE METROHEALTH SYSTEM
+BOARD OF TRUSTEES
+AUDIT AND COMPLIANCE COMMITTEE
+REGULAR MEETING MINUTES
+
+DATE: Wednesday, September 12, 2018
+TIME: 2:00 to 4:00 pm.
+PLACE: MetroHealth Medical Center
+
+K107, Business Services Building
+
+COMMITTEE Dr. Silvers
+
+TRUSTEES:
+
+ADDITIONAL Ms. Dee, Ms. Whiting
+
+TRUSTEES:
+
+STAFF: A. Boutros, MD, D. Fiser, G. Himes, M. Phillips, C. Richmond, C. Forino Wahl
+GUESTS: R. Barre, J. Mylen (KPMG), K. Allen, L. Kalic, I. Croy, (RSM), L. Abernethy 
+
+S. Draxler (via phone RSM)
+
+Dr. Silvers called the meeting of the Audit and Compliance Committee to order at 2:05 pm. Please note
+that minutes are written to conform to the printed agenda and are not necessarily in the order of
+discussion.
+
+I.
+
+II.
+
+The minutes of the regular Audit and Compliance Committee meeting held on June 13, 2018 were
+approved as presented.
+
+INFORMATION ITEMS
+
+Dr. Silvers introduced Lori Kalic, Lead Audit Partner who opened the meeting by
+introducing the audit engagement team. Ms. Kalic and Katy Allen, Audit Manager, provided an
+overview of the scope of audit services and highlighted the audit and attestation services, which
+included what MetroHealth can expect in the 2018 ?nancial statement audit, the MetroI-Iealth
+Foundation ?nancial statements? and the Select Assurance Captive, LLC ?nancial statements. Ms.
+Kalic summarized the auditor?s responsibilities under US Generally Accepted Auditing Standards,
+the risk?based audit approach and the risk assessment process. Ms. Armul, presented the timeline
+of the audit engagement and the anticipated completion dates of all audit procedures were reviewed
+with the Committee. Ms. Armul led discussion around internal controls over financial reporting.
+
+Linda Abernethy, Government Industry Partner Report Quality Control Reviewer,
+participated by phone and led the discussion around GASB Statement No. 75 Accounting and
+Financial Reporting for Postemployment Bene?ts Other Than Pensions which will be implemented
+in 2018. Management is currently assessing the impact from GASB 75, which is like GASB 68, in
+that it is recorded only at year-end and has no cash impact to the system. Ms. Abernethy also
+presented GASB Statement N0. 87 Leases and GASB Statement No. 89 Accounting for Interest
+Costs Incurred before the End of a Construction Period. Both pronouncements will be implemented
+in Fiscal year 2020 and could have a signi?cant impact on the System?s ?nancial statements.
+
+Craig Richmond, Executive Vice President, Chief Financial Of?cer introduced John Croy, RSM
+Senior Director and National Leader of Construction Advisory Services, who provided an update
+
+Audit and Compliance Committee Meeting Minutes
+September 12, 2018
+Page 2 of 3
+
+on the construction cost review services currently being performed by RSM. Mr. Croy indicated
+that the Critical Care Pavilion project close out review was conducted with no exceptions. In
+addition, the Transformation Project construction cost review activities continue to include 
+reviews of the third parties participating in the project. Mr. Croy?s procedures include reviewing
+the initial Guaranteed Maximum Price (GMP) contract to validate the GMP has adequate
+supporting documentation and costs are consistent with the agreement. Regarding the parking
+garage project, RSM was obtaining additional documentation from the contractors based on their
+review and will begin planning the close-out review. Also, a prepared document describing 
+involvement in reviewing change orders and contingencies will be documented within e-builder and
+included in the appropriate procedures.
+
+Cheryl Forino Wahl, Senior Vice President, Chief Ethics and Compliance Of?cer provided an
+update on the 2018 compliance program activities and shared that forty-five percent of the annual
+work plan has been completed. Ms. Wahl shared that the new Code of Conduct, his is Who We
+Are, has been published and distributed to all employees through live training. There are two
+hundred training sessions scheduled at all of the MetroHealth locations which will be completed by
+the end of October. The Board of Trustees will also complete compliance training which will cover
+the Board?s responsibilities regarding oversight of the compliance program, and overview of the
+MetroHealth Compliance Program and review of the Code of Conduct key points. Ms. Wahl also
+mentioned the Ethics and Compliance Department?s oversight of the con?ict of interest (COI)
+disclosure process has expanded to include full management throughout the organization as well as
+the review and management of identi?ed con?icts. A new Board policy on COI was reviewed by
+the Legal and Government Relations Committee and will be considered by the full board for
+approval. Ms. Wahl also reviewed the 2018 Ethics and Compliance goals which covers four main
+areas: building an ethical culture through the new Code and corresponding training, updating the
+Conflict of Interest disclosure progress across the system, improving privacy awareness and
+accountability, and optimizing 340B program oversight.
+
+Jim Mylen, Partner with KPMG Advisory Services, serves as MetroHealth?s Director of Internal
+Audit. Mr. Mylen introduced Robin Barre KPMG, Director, who is part of the Internal Audit team.
+Mr. Mylen and Ms. Barre provided an update of the 2018 Internal Audit Plan and an overview of
+the accomplishments and goals for the third quarter. Mr. Mylen stated the goals established at the
+beginning of 2018 which included: continuous auditing and analytics, integrated assurance, partner
+with management to manage risk, standardize documentation, and communication. Ms. Barre
+stated internal audit recently launched their function home page on the MeuoHealth Information
+Village (MIV) which includes team member contact information, charter, internal audit process and
+relevant information about the function. Mr. Mylen discussed that there were eleven audits in
+process and internal audit will conduct the remaining audits by year-end based on the internal audit
+plan. In addition, Mr. Mylen stated the control testing of the ?nancial reporting processes were
+accelerated and will be completed by October 31 in advance of the external audit interim
+procedures planned for November. Lastly, Mr. Mylen discussed the planning process for the 2019
+Internal Audit program has started, risk assessment interviews will be performed in the fourth
+quarter and a preliminary internal audit plan will be developed and presented in December.
+
+Mr. Richmond introduced David Fiser, Vice President, Chief Information Of?cer, who provided 3
+Cyber Security Program update focused on the ongoing importance of a cyber security program
+and culture. Mr. Fiser stated the most recent email phishing tests show a decrease in the number of
+failed users. The prior test had a seventeen percent failure, but the most recent tests had a two
+percent failure percent rate. Migration will be taking place in the fourth quarter of 2018 to a new
+phishing solution called Phishme. The Phishme solution will provide for testing of all
+employees, automate the reporting by employees of su5picious emails, and provide additional
+training videos to provide greater awareness. Mr. Fiser discussed that MetroHealth continues to
+
+Audit and Compliance Committee Meeting Minutes
+September 12, 2018
+Page 3 of 3
+
+
+
+IV.
+
+conduct third party penetration testing and other security assessments, various tests are scheduled
+for OctoberfNovember of 2018. In addition, Mr. Fiser shared that KPMG was engaged to perform
+a HIPAA Risk and Cyber Program Risk Assessment with the objective to further identify and
+mitigate risks and continue to strengthen the control environment. Lastly, Mr. iser also provided
+an IT update on Business Continuity and Disaster Recovery Operations. Business continuity
+testing was successfully completed on the Epic Enterprise application fail over testing in August.
+MetroHealth is currently evaluating locations and capacity requirements for a new Disaster
+Recovery site, as it will need to vacate its current site by December of 2019.
+
+A motion was made, seconded and passed to move the Committee into Executive Session to discuss
+trade secrets and litigation matters. The Committee returned to regular session at 4:04 pm.
+
+NON-CONSENT ITEMS
+
+A. No items at this time
+
+CONSENT ITEMS
+
+A. No items at this time
+
+There being no further business to bring before the Committee, the meeting was adjourned at 4:05 pm.
+
+Respectfully submitted,
+
+Cra 
+
+
+
+ichmond
+
+Executive Vice President and
+Chief Financial Of?cer
+

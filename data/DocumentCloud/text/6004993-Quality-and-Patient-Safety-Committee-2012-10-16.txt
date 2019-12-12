@@ -1,0 +1,13196 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, October 16, 2012 at the hour of 12:00 P.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Michael called the meeting to order.
+Present:
+
+Chairman Edward L. Michael and Directors Luis Muñoz, MD, MPH and Carmen Velasquez (3)
+Mary Driscoll (non-Director Member)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+David Barker, MD – Ruth M. Rothstein CORE
+Center of Cook County
+Krishna Das, MD – System Interim Director of
+Quality and Patient Safety
+David Goldberg, MD – John H. Stroger, Jr. Hospital
+of Cook County
+Helen Haynes – System Associate General Counsel
+Bala Hota, MD – System Interim Chief Information
+Officer
+
+II.
+
+Enrique Martinez, MD – Ambulatory and
+Community Health Network of Cook County
+Terry Mason, MD – System Chief Medical Officer
+Linda Rae Murray, MD – Cook County Department
+of Public Health
+Tanda Russell – System Interim Chief Nursing
+Officer
+Deborah Santana – Secretary to the Board
+
+Public Speakers
+Chairman Michael asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speakers:
+1.
+2.
+
+III.
+
+George Blakemore
+Emilie Junge
+
+Concerned Citizen
+Regional Coordinator, Doctors Council SEIU
+
+Report from System Chief Medical Officer
+As part of his report, Dr. Terry Mason, System Chief Medical Officer, presented a short video that he received
+at a recent National Association of Public Hospitals and Health Systems (NAPH) conference; the video
+addressed the subject of hospital governing boards and their responsibilities toward quality.
+Chairman Michael commented on the information contained in the video. He stated that it summarized in a
+cogent way the direction that the System needs to go. He noted that one of the discussion points for this
+meeting relates to data collection and measurement; the System needs to have a consensus on what are the “big
+dot” or System-wide issues or goals that are important - that discussion will begin today on what some of those
+“big dot” items might be.
+
+IV.
+
+Report from System Interim Chief Nursing Officer
+Tanda Russell, System Interim Chief Nursing Officer, provided an update on staffing and recruitment activities.
+She stated that there are approximately two hundred (200) registered nurse vacancies System-wide. She added
+that she is working on finalizing a nursing dashboard; the dashboard should be ready to be presented at the next
+Committee Meeting.
+
+Page 1 of 86
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, October 16, 2012
+Page 2
+
+V.
+
+Report from System Interim Director of Quality and Patient Safety (Attachment #1)
+Dr. Krishna Das, System Interim Director of Quality and Patient Safety, provided an overview of her report
+regarding The Joint Commission and the preparations for the upcoming survey at John H. Stroger, Jr. Hospital
+of Cook County. Subjects covered in the report included the following: Survey Overview; Areas of Emphasis;
+Preparation Plans; and Messages to Staff. The Committee reviewed and discussed the information.
+Following the presentation of the report, Chairman Michael stated that it is expected that an educational session
+will be provided on the subject for the Committee Members following the November meeting.
+
+VI.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Pierre Wakim, President of the Executive Medical Staff (EMS) of Provident Hospital of Cook County,
+was unable to attend this meeting as he was attending a conference; he will provide a report at the next
+Committee Meeting.
+Dr. David Goldberg, President of the EMS of John H. Stroger, Jr. Hospital of Cook County, provided a
+summary of the following subjects that have discussed at recent meetings of the EMS: The Joint
+Commission survey preparations; Meaningful Use; Patient Experience; Section 1115 Waiver – financial and
+care provision components; and Schwartz Rounds.
+Director Velasquez inquired regarding the subject of reduction in productivity related to the implementation
+of electronic medical records; this was referenced earlier by a public speaker during the portion of the
+meeting reserved for public testimony. Dr. Goldberg stated that in his clinic, the numbers are no different;
+it sometimes requires a little bit more time in the actual clinic setting to finish the work. He added that
+many of the doctors are connected online, so more people are either staying late or taking work home for
+evenings and weekends to complete their documentation. He stated that he did not think that the upgrade to
+the EMR system was at the expense of the number of patient encounters overall. Chairman Michael noted
+that this is a good example of a subject to which the Committee should pay attention, particularly as it
+moves forward with the discussion of quality measures.
+Dr. Mason clarified that the electronic medical record system is being upgraded – this is not a first-time
+implementation. The following individuals provided further comments on the subject: Dr. Enrique
+Martinez, Interim Chief Operating Officer of the Ambulatory and Community Health Network of Cook
+County (ACHN); and Dr. David Barker, Chief Medical Officer of the Ruth M. Rothstein CORE Center of
+Cook County. With regard to productivity in the ACHN clinics for August, Dr. Martinez stated that the
+number of visits in the clinics was approximately 50,000 visits for the month; in September, there was a two
+or three percent (2-3%) reduction in the visits, but overall, the numbers were pretty much the same. Dr.
+Barker stated that the CORE Center is meeting almost all of the requirements of Meaningful Use; he noted
+that the one requirement that that staff is struggling with is the “depart process.”
+
+Page 2 of 86
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, October 16, 2012
+Page 3
+
+VII. Recommendations, Discussion/Information Items (continued)
+B. Updates on the following topics:
+ Electronic Medical Records (EMRs) (Attachment #2)
+Overview of current EMR and reports generated using the EMR database; discussion of development of
+new reports/uses of EMR to improve patient care
+Dr. Bala Hota, System Interim Chief Information Officer, presented the update on EMRs, which
+included information on the following subjects: Current State of EHR; Functionality Added;
+Challenges; Roadmap for Quality Measurement; Open Source Reporting Server; Waiver RegistryTechnology Stack; Development of Rules; Rules Development-Pediatric; and Barriers. The Committee
+reviewed and discussed the information.
+Chairman Michael inquired whether all users had completed the online training. Dr. Hota responded that
+approximately 98% of nursing staff and over 70% of the physicians had completed the training. With
+regard to feedback received from the users regarding the training, he stated that the biggest complaint
+was that it took a long time, as the total time to go through all of the modules is approximately four (4)
+hours. Chairman Michael inquired regarding any other training opportunities offered to users who may
+need additional training assistance. Dr. Hota stated that currently, within the Cerner application, there is
+a tool called “Learning Live” that is available to all Cerner users. There is currently one-half (1/2) of a
+full-time equivalent employee (FTE) of training staff; that person is available for drop-in training, but
+that is not really enough to support ongoing live training. Through some supplemental funding Dr. Hota
+hired an additional person to come in several days a month; the administration is also exploring the idea
+of including some training services through the Cerner contract in the upcoming year. Following further
+discussion on the subject, Chairman Michael requested that Dr. Hota review and consider the current
+training opportunities for the EMR system and return to the Committee in November or December with
+suggestions on what type of training resources and level of appropriation increase may be needed to
+enhance or improve the EMR training1.
+Director Muñoz inquired regarding the specific measures that are required to be met for Meaningful Use.
+Dr. Hota responded that he can forward this information to Director Muñoz2.
+With regard to the information presented on barriers, Chairman Michael inquired regarding the key
+aims/goals/measures for the System. He noted that the System has some in mind, because some are
+mandated; for the ones that are not mandated, does the System have a clear enough picture today to
+know what the Board and management would want? For example, has the business intelligence team
+prioritized, in terms of producing reports and extracting data, or is that something that needs further
+work? Dr. Hota responded that there are measures that already exist that would be the natural starting
+point.
+ Current Quality Measures/Reporting
+Overview of current reports being generated and made for compliance and other purposes
+ Developing a Quality Dashboard (Attachment #3)
+Discussion concerning the process and high-level timetable for developing a Quality Dashboard
+Dr. Das presented a report which contained the following information regarding Quality dashboards and
+quality measures/reporting: Types of Dashboards; CCHHS Comparison Dashboard; External Reporting;
+Example: Hospital Compare Preview; and Proposed Quality Dashboard (Inpatient). Additionally, she
+provided two (2) examples of reports for the Committee’s information (included in Attachment #3). The
+Committee reviewed and discussed the information.
+Page 3 of 86
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, October 16, 2012
+Page 4
+
+VII. Recommendations, Discussion/Information Items
+B. Updates on the following topics:
+ Current Quality Measures/Reporting and Developing a Quality Dashboard (continued)
+Mary Driscoll noted that the information contained on page five (5) of the presentation incorrectly
+reflects the organization responsible for the Illinois Hospital Report Card; the Report Card is published
+by the Illinois Department of Public Health. For the Committee’s information, she noted that the volume
+and cost indicators included in that report are pulled from the System’s billing data.
+With regard to patient safety indicators, Chairman Michael asked for Dr. Das’ overall assessment of the
+validity of those measures, in terms of really providing an indication of how well the System is doing in
+avoiding issues of risk to patients. Dr. Das stated that the vast majority of the “hospital acquired
+conditions” are truly manifestations of patient safety in the hospital; as part of the efforts to improve
+patient safety, there are interventions that have been specified in all of these areas, in order to reduce the
+risk of harm to the patients.
+Chairman Michael inquired whether there is a set of these patient safety indicators that management
+thinks would be valuable for this Committee to see on a monthly basis, that reflects whether the System
+is getting better or worse or staying the same, in terms of these indicators; this is assuming that reports
+could be received on these sorts of criteria in a very timely manner. Dr. Das responded that this data is
+collected monthly. She stated that she would favor looking at this as a group; of the forty (40) events
+this month, she would recommend tracking it and subdividing it into infection control indicators and
+nursing-specific indicators.
+As a follow-up to this meeting, Chairman Michael requested that Dr. Das come back at the next
+Committee Meeting with a final recommendation on what the plan would be moving forward,
+specifically on the patient safety indicators that she thinks would be appropriate for the Committee to see
+on a monthly basis, as an indicator of how the System is doing3. He suggested that the Committee
+Members review the information received at this meeting to see if they believe there are other critical
+areas that should be included in the dashboard; additionally, he recommended that the subject be
+discussed at the next Board Meeting4. He stated that it is important to get feedback from the Board,
+because this is a full Board responsibility, and he wants to ensure that everyone is comfortable that the
+Committee is looking at the right areas for the dashboard. Dr. Das noted that the information presented
+at this meeting is all inpatient data; there is equivalent outpatient data that as it is collected should be
+presented for consideration, as well.
+ Updating the Quality Plan
+Discussion concerning the process and high-level timetable for updating the current Quality Plan
+Chairman Michael stated that the System has a quality plan; for now, because of the Joint Commission
+activities, it will remain as it is, but it is not too early to begin thinking about the preparations for 2013 to
+update and improve the quality plan. He noted that it will go hand-in-hand with the kinds of things that
+Dr. Mason presented in the video; that is, a decision driven by the medical and nursing staff and
+supported by the Board and other interested members of the community to identify the main aims for the
+System.
+Director Muñoz stated that some of these aims are more of that of the level of the Board; he
+recommended that perhaps this discussion should take place at the Board level. Chairman Michael
+agreed; he noted that the role of this Committee is to encourage the process along and to make sure all
+understand the process.
+Page 4 of 86
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, October 16, 2012
+Page 5
+
+VII. Recommendations, Discussion/Information Items
+B. Updates on the following topics:
+ Updating the Quality Plan (continued)
+Dr. Linda Rae Murray, Chief Medical Officer of the Cook County Department of Public Health, noted
+that most of the data that this Committee reviews is hospital-centric; as the Board considers this subject,
+she recommended having Dr. Sandy Martell, Interim Chief Operating Officer of the Cook County
+Department of Public Health, come in and talk about population measures or what kind of equity
+measures the Board and Committee should be looking at. Chairman Michael agreed. He stated that the
+people in the community should be engaged; he welcomed that input and dialogue. Director Muñoz
+added that one of the issues that the Board has discussed in the past few years is how the System’s
+partners can be engaged to work together with the System to achieve success with the System’s “big
+aims.”
+With regard to the issue of patient safety indicators and how this Committee will play a role in
+overseeing that process, in order to remain involved and understand what’s going on, Chairman Michael
+suggested that the Committee Members participate as ex-officio members of the existing internal
+committees that review those cases on a monthly basis.
+
+VIII. Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, August 21, 2012
+Director Muñoz, seconded by Chairman Michael, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of August 21, 2012. THE MOTION
+CARRIED UNANIMOUSLY.
+B. Any items listed under Sections VI, VII and VIII
+
+IX.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (Attachment #4)
+Note: the Committee did not recess the regular session and convene into closed session.
+Director Velasquez, seconded by Chairman Michael, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+
+X.
+
+Adjourn
+As the agenda was exhausted, Chairman Michael declared that the meeting was
+ADJOURNED.
+
+Page 5 of 86
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, October 16, 2012
+Page 6
+
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Edward L. Michael, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+1
+
+Follow-up: November or December Meeting: Dr. Hota to return to the Committee with suggestions on what type
+of training resources and level of appropriation increase may be needed to enhance or improve the
+EMR training. Page 3
+
+2
+
+Follow-up: Dr. Hota to send information to Director Muñoz regarding specific measures that are required to be
+met for Meaningful Use. Page 3
+
+3
+
+Follow-up: November Meeting: Dr. Das to return to Committee with a final recommendation on what the plan
+would be moving forward, specifically on the patient safety indicators that she thinks would be
+appropriate for the Committee to see on a monthly basis. Page 4
+
+4
+
+Follow-up: At next Board Meeting, discussion with Board regarding the critical areas that should be included in
+the dashboard. Page 4
+
+Page 6 of 86
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+October 16, 2012
+
+ATTACHMENT #1
+
+Page 7 of 86
+
+ Joint Commission Overview
+Report of Interim System Director Quality
+Report of Interim System Director, Quality
+CCHHS‐ Stroger Hospital
+October 2012
+October 2012
+
+1
+Page 8 of 86
+
+ Survey Overview
+•
+•
+•
+•
+
+Triennial survey due by 2/26/2013
+Triennial
+survey due by 2/26/2013
+Tracer methodology
+Past issues for Stroger/TJC
+i
+f S
+/ C
+Mock Survey 9/2012
+
+2
+Page 9 of 86
+
+ Areas of Emphasis
+•
+•
+•
+•
+•
+
+Environment of Care
+Environment
+of Care
+Life Safety
+Infection Control
+f i C
+l
+Provision of Care
+Performance Improvement
+
+3
+Page 10 of 86
+
+ Preparation Plans
+• Meet
+Meet weekly with leaders/ chapter groups
+weekly with leaders/ chapter groups
+• Take a multidisciplinary approach to issues
+• Emphasize resources required to address 
+h i
+i d
+dd
+building and environmental issues
+• Address life safety in a structured fashion
+• Assure contracted staff are oriented to 
+hospital environment
+
+4
+Page 11 of 86
+
+ Messages to Staff
+• Report any issues with the environment and 
+buildingg
+• Attend to infection control, wash your hands, 
+remove indwelling devices
+• Documentation‐ sign and date, write separate notes 
+dd
+for conscious sedation, procedures, 
+• Demonstrate patient centeredness in 
+Demonstrate patient centeredness in
+documentation and goals of care
+p p
+pediatric, 
+p
+• Be aware of vulnerable populations–
+psychiatric, elderly
+• Learn Joint Commission priorities– posters and 
+educational sessions
+educational sessions
+5
+Page 12 of 86
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+October 16, 2012
+
+ATTACHMENT #2
+
+Page 13 of 86
+
+ Electronic Health Records and Quality
+l
+i
+lh
+d
+d
+li
+Quality & Patient Safety Committee Meeting
+Tuesday, October 16, 2012
+
+Dr. Bala Hota
+Interim Chief Information Officer
+Chief Medical Information  Officer
+
+Page 14 of 86
+
+ Current State of EHR
+• PowerChart 2012
+– Go Live – July 31 2012
+– >1800 Wyse Devices installed
+y
+– On line web training tools developed
+– Ambulatory Focused
+y
+– 2500 peak users supported
+– Met Meaningful Use for both hospitals for FY 2012
+– Goal to meet Eligible Provider meaningful use for 
+CY 2012
+2
+Page 15 of 86
+
+ Functionality Added
+Functionality Added
+• Complete electronic documentation across entire 
+p
+health system
+• Consolidated billing into Main Cerner Application
+• Lighthouse quality tools for inpatient measures
+• PQRS (Physician Quality and Reporting System) quality 
+measures based on federal Meaningful Use guidelines
+measures based on federal Meaningful Use guidelines
+• E prescribe
+• Integrated Medication Reconciliation
+Integrated Medication Reconciliation
+• Depart Process system wide and patient summary
+• On path to be Cerner Reference Site for ambulatory
+p
+y
+3
+Page 16 of 86
+
+ Challenges
+• Performance 
+Performance –
+– Increased demands given dynamic aspects of data
+
+• Changes in workflow
+
+4
+Page 17 of 86
+
+ Roadmap for Quality Measurement
+Roadmap for Quality Measurement
+• Access
+Access to all backend databases for legacy 
+to all backend databases for legacy
+systems
+– Cerner
+– Siemens
+– McKesson
+
+• Leverage Enterprise Agreement with 
+Mi
+Microsoft –
+ft Reporting Services +Sharepoint
+R
+ti S i
+Sh
+i t
+• Virtual Private Cloud (Netapp + VMWare)
+5
+Page 18 of 86
+
+ Legacy Databases
+Cubes/OLA
+P Tables
+
+Virtual Private 
+Cloud 
+Database
+
+OLAP: online 
+analytical processing
+
+Rules 
+Engine
+
+MS 
+Reporting
+Reporting 
+Services + 
+Sharepoint
+
+Open 
+Source 
+Reporting 
+Server
+
+Web Based Application
+6
+
+Page 19 of 86
+
+ Open Source Reporting Server
+Open Source Reporting Server 
+
+DB 
+(Postgres)
+
+Programming 
+Framework 
+(Python)
+
+Web 
+Framework 
+(Apache + 
+Django)
+
+Statistics 
+Framework 
+(Rserve)
+
+Visualization 
+F
+Framework 
+k
+(d3.js)
+
+Scientific Linux
+7
+Page 20 of 86
+
+ Waiver Registry – Technology Stack
+Waiver Registry 
+Technology Stack
+•
+•
+•
+•
+
+Open Source Solution
+Open
+Source Solution
+Agile
+Access to all legacy data
+ll l
+d
+Modifications to EMR where needed
+
+8
+Page 21 of 86
+
+ Development of Rules
+Development of Rules
+Excel 
+Spreadsheet of
+Spreadsheet of 
+Rules with 
+Logic
+
+Narrative Rule 
+Narrative
+Rule
+Development
+
+Flowchart of 
+Rules
+
+Deploy to 
+Production 
+Environment
+
+Importation to 
+Rules Engine
+
+9
+Page 22 of 86
+
+ Rules Development ‐ Pediatric
+Rules Development 
+Preventative‐Pediatric
+Cerner Content:
+Cerner Content:
+Influenza vaccine age 6 mo.‐18 yr‐annually
+
+Registry‐Above
+Registry
+Above AND:
+AND:
+Intervention documented for smokers
+
+Smoking status assessed age 13 and above
+Tdap once age 11‐17
+once age 11 17
+HPV vaccine‐3 vaccine series completed by age 19 for males and 
+females
+Childhood immunizations:
+Childhood
+immunizations:
+Primary series completed by age 24 months 
+HepA, Hep B Meningococcal
+
+ASQ completed‐WE NEED A WAY TO DOCUMENT THIS IS POWER NOTE 
+OR OTHERWISE THAT IS EXTRACTABLE. OUR SUGGESTION IS AN
+OR OTHERWISE THAT IS EXTRACTABLE.  OUR SUGGESTION IS AN 
+“ASQ” FIELD TO CHECK WITH THREE DOTS FOR A DATE AND 
+“FAIL/PASS” FIELD AND WITH COMMENTS BOX
+Once Before 12 months
+Once Between 12‐24 months
+Once Between 25‐36 months
+
+Depression screening done ages 12‐18
+o o up assess e t do e o pos t e sc ee s as be o
+Follow‐up assessment done on positive screens as below
+
+Blood Lead Test
+One before 12 months
+O
+b f
+12
+th
+One before 24 months
+Two before 24 months
+Height/Weight/BMI‐this is done at every well child visit. WE NEED A 
+FLAG IF BMI IS ABOVE A CERTAIN PERCENTILE (I E 85%ILE OR 95%ILE)
+FLAG IF BMI IS ABOVE A CERTAIN PERCENTILE (I.E. 85%ILE OR 95%ILE)
+
+10
+Page 23 of 86
+
+  
+
+ 
+
+ 
+
+ 
+
+PEDIATRICS-PREVENTATIVE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+influenza Vaccine (6 m0 18 yr)
+ANNUAL Height/Weight/BMi (Every Visit)
+TESTS Depression Screening (12 18 w]
+and follow-up assessment
+Smoking AGE 13 SMOKER YES TRUE
+Tdap 11 AGE 17 TDAP YES TRUE
+HPV AGE 19 SERIES COMPLETED TRUE
+Blood Lead ONE AGE BMI BMI 85TH PCT ED FLAG N0 FLAG
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 24 of 86
+
+- 
+- 
+- =ELse
+
+- 
+
+ 
+
+FALSE
+
+ 
+
+ 
+
+FALSE
+
+ 
+
+ 
+
+FALSE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRUE FALSE
+
+0 GOG
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11
+
+Page 25 of 86
+
+Demo
+
+Page 26 of 86
+
+Barriers
+• Investment in a business intelligence team
+Investment in a business intelligence team
+– No shortage with respect to technology 
+– Can affordably, efficiently build entire toolsets 
+Can affordably efficiently build entire toolsets
+using open source technologies + existing 
+infrastructure
+– Integration of existing data sources key to 
+actionable data
+– Challenge is having personnel to develop internal 
+resources to create measures
+14
+Page 27 of 86
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+October 16, 2012
+
+ATTACHMENT #3
+
+Page 28 of 86
+
+ Quality and Patient Safety Committee
+Dashboard Information Session
+
+Krishna Das, MD
+Krishna
+Das MD
+Interim System Director, Quality and Regulatory
+1
+Page 29 of 86
+
+ Types of Dashboards (ORB)
+• Comparison
+• Strategic
+• What are the best choices for system level 
+y
+aims (inpatient and outpatient)?
+
+2
+Page 30 of 86
+
+ CCHHS Comparison Dashboard
+National
+Target
+
+QUALITY
+
+QTR 1
+CY-2011
+
+IL. Target
+
+Core Measures
+
+QTR 2
+CY-2011
+
+QTR 3
+CY 2011
+
+QTR4
+CY-2011
+
+Stroger
+
+Provident
+
+Stroger
+
+Provident
+
+Stroger
+
+Provident Stroger Provident
+
+Acute Myocardial Infarction (AMI)
+AMI-1 Aspirin at Arrival
+
+99%
+
+99%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+No Cases
+
+AMI-2 Aspirin Prescribed at Discharge
+
+99%
+
+99%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+No Cases
+
+AMI-3 ACEI or ARB for LVSD
+AMI-4 Adult Smoking Cessation
+Advice/Counseling
+AMI-5 Beta-Blocker Prescribed at
+Discharge
+
+96%
+
+97%
+
+100%
+
+100%
+
+100%
+
+No Cases
+
+100%
+
+No Cases 100%
+
+No Cases
+
+96%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+No Cases
+
+98%
+
+99%
+
+98.2%
+
+100%
+
+100%
+
+100%
+
+96.5 %
+
+No Cases 98.3%
+
+No Cases
+
+75%
+
+No Cases No Cases
+
+No Cases
+
+No Cases
+
+No Cases No Cases No Cases No Cases
+
+V 1.0
+
+92%
+
+75%
+
+No Cases
+
+100%
+
+No Cases
+
+100%
+
+No Cases
+
+100%
+
+No Cases
+
+V 1.0
+10
+
+91%
+
+71 2%
+71.2%
+
+100%
+
+70 4%
+70.4%
+
+100%
+
+62 5%
+62.5%
+
+98%
+
+76 7%
+76.7%
+
+97 5%
+97.5%
+
+HF-2 Evaluation of LVS Function
+
+98%
+
+99%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+98.6%
+
+100%
+
+HF-3 ACEI or ARB for LVSD
+HF-4 Adult Smoking Cessation
+Advice/Counseling
+
+95%
+
+95%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+99%
+
+99%
+
+100%
+
+100%
+
+100%
+
+100%3
+
+100%
+
+100%
+
+100%
+
+100%
+
+94%
+
+93%
+
+58.3%
+
+50 %
+
+75%
+
+50%
+
+69.2%
+
+100%
+
+84.6%
+
+100%
+
+V 1.0
+
+96%
+
+95 %
+
+94.4%
+
+94.4%
+
+94.4%
+
+86.5%
+
+100%
+
+93.8%
+
+76.9%
+
+98%
+
+98%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+75%
+
+96%
+
+96%
+
+84.4%
+
+95.2%
+
+81.0%
+
+95.2%
+
+61.8%
+
+91.7%
+
+70%
+
+85.7%
+
+91%
+
+80.6%
+
+100%
+
+83.3%
+
+100%
+
+57.9%
+
+100%
+
+63.3%
+
+100%
+
+91%
+
+79.3%
+
+No Cases
+
+No Cases
+
+No Cases
+
+No Cases No Cases 75%
+
+AMI-7a
+AMI
+7a Fibrinolytic Therapy received
+within 30 minutes of arrival
+AMI-8a Primary Percutaneous Coronary
+(PCI) within 90 minutes of arrival
+*
+
+* V 0.9191
+
+Heart Failure (HF)
+HF 1 Discharge Instructions
+HF-1
+
+*
+
+Pneumonia (PN)
+PN-2 Pneumococcal Screen &
+Vaccination
+PN-3b Blood Culture performed in the ED
+Prior to Initial Antibiotic Received in the
+Hospital
+*
+PN-4 Adult Smoking Cessation
+Advice/Smoking
+PN-5c
+PN
+5c Initial Antibiotic Received Within 6
+hours after Arrival
+
+PN-6 Initial Antibiotic Selection For CAP in
+Immunocompetent patient
+* V 0.9958
+PN-7 Influenza Vaccination
+
+91%
+
+Page 31 of 86
+
+66.7%
+
+3
+
+ CCHHS Comparison Dashboard
+National
+Target
+
+State
+Target
+
+Surgical Care Improvement (SCIP)
+SCIP- INF-1 Prophylactic antibiotic
+received within one hour prior to surgical
+incision.
+* V 0.9998 97%
+SCIP-INF-2 Prophylactic Antibiotic
+Selections for Surgical Patient
+
+* V 1.0
+
+97%
+
+SCIP-INF-3 Prophylactic Antibiotic
+Discontinued Within 24 hours After
+Surgery End Time
+* V 0.9968 96%
+SCIP-INF-4 Cardiac Surgery Patients with
+controlled 6 A.M. postoperative serum
+glucose
+* V 0.9963 93%
+SCIP-INF-6 Surgery patients with
+V 100% 100%
+appropriate hair removal
+
+QTR1CY 2011
+Stroger
+
+Provident
+
+QTR2CY 2011
+
+QTR 3CY 2011
+
+QTR4CY 2011
+
+Stroger
+
+Provident
+
+Stroger
+
+Provident
+
+Stroger
+
+Provident
+
+96.9.0%
+
+100%
+
+97.6%
+
+95%
+
+98.8%
+
+100%
+
+96.3%
+
+100%
+
+92.3%
+
+91.7%
+
+100%
+
+90.9%
+
+97.6%
+
+100%
+
+95%
+
+100%
+
+96.9%
+
+100%
+
+100%
+
+91.0%
+
+96.4%
+
+100%
+
+94.9%
+
+100%
+
+75%
+
+No Cases 91.2%
+
+No Cases 86.7%
+
+No Cases
+
+80.6%
+
+No Cases
+
+100%
+
+100%
+
+100%
+
+100%
+
+97%
+
+100%
+
+99.1%
+
+100%
+
+97.6%
+
+100%
+
+98.3%
+
+97.9%
+
+98.2%
+
+100%
+
+100%
+
+100%
+
+97.6%
+
+100%
+
+100%
+
+97.9%
+
+96.4%
+
+100%
+
+100%
+
+100%
+
+Foreign Object Retained after Surgery
+Air Embolism
+Blood Incompatibility
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+Manifestations of Poor Glycemic Control
+Falls and Trauma
+Pressure Ulcer Stage III & IV
+
+0
+0
+1
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+6
+0
+0
+
+0
+0
+1
+
+4
+0
+0
+
+SCIP-VTE-1 Surgery patients with
+recommended venous thromboembolism
+prophylaxis ordered.
+* V 1.0
+
+95%
+
+SCIP-VTE-2 Surgery patients who
+received appropriate venous
+thromboembolism prophylaxis within 24
+hours prior to surgery to 24 hours after
+surgery.
+* V 0.9985 93%
+Hospital Acquired Conditions
+
+4
+Page 32 of 86
+
+ External Reporting
+• Hospital Compare www.hospitalcompare.hhs.gov/
+–
+–
+–
+–
+
+47 inpatient quality measures (37 outcomes and 10 satisfaction)
+19
+19 sentinel events or hospital acquired conditions (HACs)
+ti l
+t
+h it l
+i d
+diti
+(HAC )
+25 new measures, composites,  volume, or outpatient measure
+91 in all reported for each hospital
+
+• IHA   www.healthcarereportcard.illinois.gov
+– 80 quality indicators (including 10 HCAHPS) 
+– 145 volume and cost indicators
+145 volume and cost indicators
+
+• Joint Commission  www.qualitycheck.org
+• STAR – Cook County Government 
+http://blog.cookcountygov.com/performancemanagement/wp‐
+content/uploads/2012/07/2012‐Q2‐STAR‐Report‐7‐3‐12‐FINAL.pdf
+/ p
+/
+/ /
+p
+p
+5
+Page 33 of 86
+
+ Example: Hospital Compare Preview
+
+Report Run Date: ostt 219012 Hospital lCompare Preview Report: Improving lCare Through Information Inpatient
+Hospital Performance
+Reporting Period for Clinical Process Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+14D124-JDHN JR HOSPITAL
+
+Address? 1am HARRISCH ST TWEBT F?Ei'ii?f. Shad?temi Participation in a ?stematjc Database to
+City. State, CHICAGO, IL 5421612 Type of Chanership: Govemment Local Cardiac Surgery-'1 Does Not Have a Prog
+Phone Humbec [312} Emergency Service Provided: ?r?es Stroke Care: Ho
+
+County Name: CCIOHI Nursing Sensitive Care: No
+
+of AJI Hospitals Submitting
+
+Your Hospital Performance Aggregate Data Scored Equal to or Better State
+Hosp rial Dustin.I Measures Rate for All Four IQuarters Than Pedormanc-
+
+ 
+
+ 
+
+Acute Myocardial Infarction 
+Aspirin Prescribed at Discharge of 255 patientst2]
+
+ 
+
+ 
+
+Fiodnolvnc Tnerapt.r Received Within Mmmes of Hospital Arlival patienmt2l
+
+ 
+
+Pl'im??' PCI Received Within Minutes of Hospital An'ivaJ of 14 
+
+ 
+
+Statin Prescribed at Discharge 913% of 256 patientst2]:
+
+ 
+
+Heart Failure 
+Discharge TESS of patientst2jl
+
+ 
+
+ 
+
+Evaluation of Function most of 294 padentst2]
+
+ 
+
+ACEI or ARE for 100% of 152 patientst2]
+
+ 
+
+Pneumonia 
+
+Eltood Cultures Perfoimed in the Department Prior to Initia,I Antibiotic Received 94% of1at2 patientst2l
+in Hospitai
+
+Initial Antibiotic Selection for CAP in Immunocompetent Patient 59% of 102 patientst2jl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surgical Care Improvement Project 
+
+ 
+
+Page 34 of 86
+
+Example: Hospital Compare Preview
+
+ 
+
+Fteport Ftun Date: osrl r1991: Hospital lCompare Preyiew Report: Improving  Care Through Information Inpatient
+Hospital' Performance
+Reporting Period for Clinical Process Measures: Second Quarter 2911 through First Quarter 2912 Discharges
+
+JR HOSPITAL
+
+19% of All Hospitais Submitting
+Your Hospital Performance Aggregate Data Scored Equal to or Better State
+Hosp rtal Duality Measures Rate for All Four Quarters Than Pedorma nce
+
+ 
+
+Surgical Care Improvement Project 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cardiac Surgery Patients with Controlled 9 AM. Postoperative Blood Glucose 99% of 13S patientst2} 99% 99%
+
+Urinary Catheter Ftemoyed on Postoperative Day 1 (P99 or Postoperative Day 2 (PUD 99% of 154 patientst2}: 199% 95%
+with Day of Surgery oeing Day Zero
+
+Surgery Patients with Perioperatiye Temperature Management 99% of 394 patientst2]: 199% 199%
+
+Surgery Patients on Beta-Blocker Therapy Prior to Aniyal Fteoeiyed a Seta-El-Iocl-ter 99% of 139 patientst2}: 199% 92%
+During the Periop-eratiye Period
+
+Surgery Patients with Recommended Venous Thrompoemoolism Prophylaxis Ordered 99% of 231 patientst2]: 199% 99%
+
+Surgery Patients Who Fteoeiyed Appropriate Venous Thromooemoolism Prophylaxis 99% of 239 patientst2}: 199% 92%
+
+24 Hours Prior to Surgery to 24 Hours Alter Surgery
+
+ 
+
+Emergency Department 
+Median 'I'lme from ED Arrival to ED Departure for Admitted ED Patients 949 Minutes based on 39? 1'l'5 Minutes 295 Minutes
+
+ 
+
+ 
+
+Admit Decision Time to ED Departure ?time for Admitted Patients 29'"r Minutes based on 39? 43 Minutes 92 Minutes
+
+ 
+
+Im munizaticn 
+Pneurnococcal Immunization 41% of 29'lr patientst2}: 99% 99%
+
+ 
+
+ 
+
+IMM-E In?uenza Immunization 55% GI 396 palientst2}: 98% 88%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 35 of 86
+
+Example: Hospital Compare Preview
+
+Fteport Ftun Date: 09H W201:
+
+Hospital l[Stompare Preview Report: Improving lCare Through Information Inpatient
+Hospital Performance
+Reporting Period for Edit-Dayr Mortality and Readmission lDlutcome Measures: Third IQuarter EDD-B through Second Quarter 2011 Discharges
+
+14D124-JDHN STROGER JR HOSPITAL
+
+30-Day Risk-Standardized 
+
+Hospital
+Quality
+Measures
+
+- admission easures
+
+Your
+Hospital's
+Perfotntance
+
+Your
+Hospital's
+N'Ln'ntrer of
+
+Eligible Medicare
+Discharges
+
+?T?our Hospital's Ftislt-
+Standardized Readmission
+Rate {Lower Upper LIE-
+IJrn'rt of 95% Intertal National
+
+Estimate] Rate
+
+ 
+
+Acute Myocardial Infarction 
+
+ 
+
+READM-EU-AMI
+
+Acute Myocardial
+infarction 
+
+Readrnission Rate
+
+No Different
+than US.
+Haaonai Ftate
+
+{112%, 272%}
+
+ 
+
+Heart Failure 
+
+ 
+
+
+
+Heart Failure
+Slit?Dag.r
+Readmission Rate
+
+No Different
+than US.
+National Ftate
+
+25.9% {21 .Tf'a, 30.5%}
+
+ 
+
+Pneumonia 
+
+ 
+
+ 
+
+
+
+ 
+
+Pneumonia [Pf-l]
+39-Day
+Readmission Rate
+
+ 
+
+No Different
+than US.
+Madonat Ftate
+
+ 
+
+ 
+
+19.5% 24.5%}
+
+ 
+
+ 
+
+Page 36 of 86
+
+Numlzner of
+
+
+Better than
+LIB.
+National
+Rate
+
+No
+Dr??erent
+than LLB. than LIB.
+National National
+Ftate Rate
+
+Worse
+
+ 
+
+ 
+
+in the Nation
+that Performed
+
+ 
+
+in the State
+
+that Petformed
+
+ 
+
+ 
+
+in the Nation
+mat Performed
+
+ 
+
+in me State
+
+that Pe?o??ed ..
+
+ 
+
+ 
+
+in the Nation
+that Perfumed
+
+ 
+
+In the State
+that Petfom'ued ..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Example: Hospital Compare Preview
+
+ 
+
+Report Run Date: osnmm: Hospital lE'Jomoare Preview Repon: Improving lCare Through Information Inpatient
+
+Hospital CAI-IFS (HCAHPSJ Survey
+Reporting Period for HCAHPS Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+Page:4of11
+
+140124-JDHN JR HOSPITAL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HCAHPS Global Items
+Your Hospital's Adjusted Score State Average U.S. Average
+13-h ?a ?xi: 13-h 13-h ?a ?at: 
+(121 Dverall Rating Hospital rating rating rating rating rating rating rating rating rating
+?verall Rating of Hospth
+(0 Worst Hospitai 1'0 Beet HospitalYour Hospital's Adjusted Score State Average U5. Average
+13-h ?a ?xi: 13-h 13-h ?a ?at: 
+Willingnegs to No: Tee: "fee: No: ?res: Yes: No: Tee: ?fee:
+Recommend De?nitety or Probably De?nitely Definitely or Probably De?nitety De?nitely or Probably De?nitely
+this Hospital Probably Mot Recommend Recommend Probably Not Recommend Recommend Probabty Not Recommend Recommend
+Recommend Recommend Recommend
+Willingness to Recommend this Hospital Page 37 of 86
+
+Example: Hospital Compare Preview
+
+Report Fiun Date: den W201: Hospital  [Ziompare Preview Report: Improving  [Stare Through Information - Inpatient Page: 1[]of11
+Hospital Performance
+Reporting Period for Hospital Acquired Conditions Measures: Third through Second Quarter 2011 Discharges
+
+14D124-JDHN JR HOSPITAL
+Hospital Acquired Condition
+
+Your Hospital's ?r?our Hospital's Number of
+Hgspi'tal Perionnance Rate Eligible Discharges US. National Rate
+Measures [per 1.909 discharges] [Denominatori (per 1.000 discharges}
+
+ 
+
+Hospital Acquired Condition 
+
+ 
+
+Foreign object retained alter surgery . 4H3
+
+ 
+
+Air embolism 41'2"?
+
+ 
+
+Eliood incompatioilirjr
+
+ 
+
+Pressure ulcer stages Ill and IV
+
+ 
+
+F3115 BUG 
+
+ 
+
+Vascular catheter-associated infection
+
+ 
+
+Catheter-associated LITI
+
+ 
+
+Manifestations of poor glycemic control
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 38 of 86
+
+Proposed Quality Dashboard
+(Inpatient)
+•
+•
+•
+•
+•
+
+Core Measures – Composite + Exceptions
+p
+q
+Total
+Hospital Acquired Conditions –
+Readmission Rate
+Immunization Rate
+Immunization Rate
+Patient Satisfaction – ‘Definitely Recommend’
+
+11
+Page 39 of 86
+
+ HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+Surveys Returned: April 2012 - June 2012
+
+All DB
+All PG DB SHCC Gov
+N = 1721 N = 1721
+Teach
+N=9
+
+Your Top Box Score
+
+n
+
+Previous %
+Jan-Mar
+
+Current %
+Apr-Jun
+
+Rate hospital 0-10
+
+349
+
+54%
+
+55%
+
+Recommend the hospital
+
+350
+
+64%
+
+62%
+
+Comm w/ Nurses
+
+356
+
+70%
+
+65%
+
+Nurses treat with courtesy/respect
+
+356
+
+75%
+
+69%
+
+Nurses listen carefully to you
+
+355
+
+69%
+
+65%
+
+Nurses expl in way you understand
+
+355
+
+67%
+
+59%
+
+304
+
+48%
+
+50%
+
+Call button help soon as wanted it
+
+275
+
+49%
+
+54%
+
+Help toileting soon as you wanted
+
+159
+
+47%
+
+45%
+
+353
+
+81%
+
+81%
+
+Doctors treat with courtesy/respect
+
+350
+
+86%
+
+86%
+
+Doctors listen carefully to you
+
+351
+
+80%
+
+81%
+
+Doctors expl in way you understand
+
+349
+
+79%
+
+77%
+
+ 
+ 
+-
+
+Domains and Questions
+
+Response of Hosp Staff
+
+Comm w/ Doctors
+
+Hospital Environment
+
+356
+
+54%
+
+54%
+
+Cleanliness of hospital environment
+
+352
+
+54%
+
+52%
+
+Quietness of hospital environment
+
+352
+
+53%
+
+56%
+
+264
+
+70%
+
+63%
+
+Pain well controlled
+
+259
+
+64%
+
+59%
+
+Staff do everything help with pain
+
+261
+
+75%
+
+67%
+
+254
+
+62%
+
+56%
+
+Tell you what new medicine was for
+
+246
+
+74%
+
+67%
+
+Staff describe medicine side effect
+
+249
+
+50%
+
+46%
+
+334
+
+78%
+
+81%
+
+Staff talk about help when you left
+
+325
+
+75%
+
+77%
+
+Info re symptoms/prob to look for
+
+325
+
+80%
+
+84%
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 40
+www.PressGaney.com   800.232.8032
+1
+
+of 86
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+7
+
+7
+
+1
+
+19
+
+19
+
+13
+
+2
+
+2
+
+13
+
+1
+
+1
+
+13
+
+6
+
+6
+
+25
+
+1
+
+1
+
+6
+
+3
+
+3
+
+1
+
+11
+
+11
+
+25
+
+1
+
+1
+
+1
+
+56
+
+56
+
+75
+
+39
+
+39
+
+63
+
+64
+
+64
+
+75
+
+62
+
+62
+
+75
+
+6
+
+6
+
+25
+
+1
+
+1
+
+1
+
+46
+
+46
+
+44
+
+9
+
+9
+
+25
+
+22
+
+22
+
+50
+
+5
+
+5
+
+25
+
+13
+
+13
+
+13
+
+8
+
+8
+
+1
+
+28
+
+28
+
+25
+
+24
+
+24
+
+38
+
+26
+
+26
+
+50
+
+29
+
+29
+
+25
+
+ HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to H CAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Attention to special/personal needs
+
+PG
+
+1
+
+0.47
+
+2
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.46
+
+3
+
+Skill of the nurses
+
+PG
+
+1
+
+0.44
+
+3
+
+Nurses kept you informed
+
+PG
+
+2
+
+0.46
+
+5
+
+Friendliness/courtesy of the nurses
+
+PG
+
+1
+
+0.42
+
+6
+
+Response concerns/complaints
+
+PG
+
+2
+
+0.45
+
+6
+
+Staff worked together care for you
+
+PG
+
+3
+
+0.48
+
+8
+
+Promptness response to call
+
+PG
+
+1
+
+0.42
+
+9
+
+Staff addressed emotional needs
+
+PG
+
+2
+
+0.45
+
+9
+
+Overall rating of care given
+
+PG
+
+5
+
+0.54
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 41
+2 of 86
+
+ HCAHPS Unit Comparison
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+Your Top Box Score
+Jul 11 - Jun 12
+
+UNIT COMPARISON
+Domains and Questions
+
+4BurnSD
+
+4NGyne
+
+4NOB
+
+6East
+
+6South
+
+67%
+
+61%
+
+59%
+
+60%
+
+52%
+
+67%
+
+77%
+
+58%
+
+67%
+
+70%
+
+72%
+
+76%
+
+69%
+
+68%
+
+70%
+
+75%
+
+78%
+
+68%
+
+73%
+
+71%
+
+67%
+
+76%
+
+76%
+
+66%
+
+68%
+
+75%
+
+73%
+
+65%
+
+66%
+
+71%
+
+67%
+
+63%
+
+60%
+
+52%
+
+51%
+
+67%
+
+70%
+
+55%
+
+59%
+
+49%
+
+67%
+
+57%
+
+65%
+
+44%
+
+53%
+
+97%
+
+86%
+
+85%
+
+83%
+
+84%
+
+100%
+
+90%
+
+89%
+
+89%
+
+87%
+
+100%
+
+87%
+
+86%
+
+81%
+
+83%
+
+92%
+
+81%
+
+78%
+
+79%
+
+82%
+
+63%
+
+63%
+
+68%
+
+50%
+
+55%
+
+67%
+
+49%
+
+59%
+
+48%
+
+57%
+
+58%
+
+76%
+
+76%
+
+51%
+
+53%
+
+87%
+
+75%
+
+73%
+
+63%
+
+60%
+
+83%
+
+68%
+
+69%
+
+57%
+
+60%
+
+91%
+
+83%
+
+77%
+
+68%
+
+59%
+
+69%
+
+69%
+
+67%
+
+61%
+
+63%
+
+75%
+
+83%
+
+74%
+
+70%
+
+75%
+
+63%
+
+55%
+
+60%
+
+52%
+
+51%
+
+100%
+
+84%
+
+86%
+
+80%
+
+78%
+
+100%
+
+77%
+
+75%
+
+77%
+
+71%
+
+100%
+
+91%
+
+97%
+
+83%
+
+84%
+
+White
+
+Rate hospital 0-10
+#cbc0b7
+
+Recommend the hospital
+White
+
+Comm w/ Nurses
+#cbc0b7
+
+Nurses treat with courtesy/respect
+White
+
+Nurses listen carefully to you
+#cbc0b7
+
+Nurses expl in way you understand
+White
+
+Response of Hosp Staff
+#cbc0b7
+
+Call button help soon as wanted it
+White
+
+Help toileting soon as you wanted
+#cbc0b7
+
+Comm w/ Doctors
+White
+
+Doctors treat with courtesy/respect
+#cbc0b7
+
+Doctors listen carefully to you
+White
+
+Doctors expl in way you understand
+#cbc0b7
+
+Hospital Environment
+White
+
+Cleanliness of hospital environment
+#cbc0b7
+
+Quietness of hospital environment
+White
+
+Pain Management
+#cbc0b7
+
+Pain well controlled
+White
+
+Staff do everything help with pain
+#cbc0b7
+
+Comm About Medicines
+White
+
+Tell you what new medicine was for
+#cbc0b7
+
+Staff describe medicine side effect
+White
+
+Discharge Information
+#cbc0b7
+
+Staff talk about help when you left
+White
+
+Info re symptoms/prob to look for
+
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 42
+www.PressGaney.com   800.232.8032
+3
+
+of 86
+
+ HCAHPS Unit Comparison
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+Your Top Box Score
+Jul 11 - Jun 12
+
+UNIT COMPARISON
+Domains and Questions
+
+6West
+
+7East
+
+7South
+
+7West
+
+8East
+
+52%
+
+54%
+
+51%
+
+52%
+
+51%
+
+58%
+
+62%
+
+56%
+
+58%
+
+58%
+
+63%
+
+66%
+
+63%
+
+65%
+
+65%
+
+69%
+
+71%
+
+69%
+
+71%
+
+67%
+
+63%
+
+65%
+
+61%
+
+61%
+
+64%
+
+58%
+
+61%
+
+60%
+
+63%
+
+65%
+
+37%
+
+43%
+
+47%
+
+39%
+
+53%
+
+44%
+
+48%
+
+50%
+
+45%
+
+52%
+
+31%
+
+38%
+
+44%
+
+33%
+
+54%
+
+77%
+
+81%
+
+78%
+
+76%
+
+86%
+
+81%
+
+85%
+
+85%
+
+80%
+
+90%
+
+80%
+
+85%
+
+75%
+
+77%
+
+83%
+
+71%
+
+75%
+
+75%
+
+70%
+
+85%
+
+53%
+
+54%
+
+47%
+
+52%
+
+47%
+
+57%
+
+56%
+
+47%
+
+52%
+
+43%
+
+48%
+
+53%
+
+47%
+
+51%
+
+52%
+
+64%
+
+68%
+
+57%
+
+55%
+
+70%
+
+61%
+
+62%
+
+53%
+
+53%
+
+66%
+
+67%
+
+74%
+
+61%
+
+57%
+
+73%
+
+56%
+
+59%
+
+56%
+
+51%
+
+60%
+
+64%
+
+69%
+
+68%
+
+62%
+
+70%
+
+48%
+
+50%
+
+43%
+
+41%
+
+51%
+
+76%
+
+79%
+
+78%
+
+77%
+
+79%
+
+74%
+
+75%
+
+73%
+
+72%
+
+80%
+
+78%
+
+83%
+
+83%
+
+82%
+
+78%
+
+White
+
+Rate hospital 0-10
+#cbc0b7
+
+Recommend the hospital
+White
+
+Comm w/ Nurses
+#cbc0b7
+
+Nurses treat with courtesy/respect
+White
+
+Nurses listen carefully to you
+#cbc0b7
+
+Nurses expl in way you understand
+White
+
+Response of Hosp Staff
+#cbc0b7
+
+Call button help soon as wanted it
+White
+
+Help toileting soon as you wanted
+#cbc0b7
+
+Comm w/ Doctors
+White
+
+Doctors treat with courtesy/respect
+#cbc0b7
+
+Doctors listen carefully to you
+White
+
+Doctors expl in way you understand
+#cbc0b7
+
+Hospital Environment
+White
+
+Cleanliness of hospital environment
+#cbc0b7
+
+Quietness of hospital environment
+White
+
+Pain Management
+#cbc0b7
+
+Pain well controlled
+White
+
+Staff do everything help with pain
+#cbc0b7
+
+Comm About Medicines
+White
+
+Tell you what new medicine was for
+#cbc0b7
+
+Staff describe medicine side effect
+White
+
+Discharge Information
+#cbc0b7
+
+Staff talk about help when you left
+White
+
+Info re symptoms/prob to look for
+
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 43
+www.PressGaney.com   800.232.8032
+4
+
+of 86
+
+ HCAHPS Unit Comparison
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+Your Top Box Score
+Jul 11 - Jun 12
+
+UNIT COMPARISON
+Domains and Questions
+
+8South
+
+8West
+
+BurnICU
+
+CCU
+
+Labor&Del
+
+52%
+
+56%
+
+N/A
+
+67%
+
+N/A
+
+62%
+
+68%
+
+N/A
+
+69%
+
+N/A
+
+64%
+
+70%
+
+N/A
+
+88%
+
+N/A
+
+64%
+
+73%
+
+N/A
+
+93%
+
+N/A
+
+66%
+
+71%
+
+N/A
+
+88%
+
+N/A
+
+62%
+
+66%
+
+N/A
+
+81%
+
+N/A
+
+36%
+
+56%
+
+N/A
+
+76%
+
+N/A
+
+40%
+
+57%
+
+N/A
+
+78%
+
+N/A
+
+33%
+
+55%
+
+N/A
+
+73%
+
+N/A
+
+78%
+
+82%
+
+N/A
+
+85%
+
+N/A
+
+79%
+
+86%
+
+N/A
+
+88%
+
+N/A
+
+77%
+
+81%
+
+N/A
+
+89%
+
+N/A
+
+77%
+
+80%
+
+N/A
+
+77%
+
+N/A
+
+54%
+
+59%
+
+N/A
+
+65%
+
+N/A
+
+56%
+
+63%
+
+N/A
+
+70%
+
+N/A
+
+52%
+
+55%
+
+N/A
+
+60%
+
+N/A
+
+67%
+
+69%
+
+N/A
+
+80%
+
+N/A
+
+65%
+
+60%
+
+N/A
+
+78%
+
+N/A
+
+70%
+
+78%
+
+N/A
+
+83%
+
+N/A
+
+56%
+
+63%
+
+N/A
+
+71%
+
+N/A
+
+69%
+
+75%
+
+N/A
+
+81%
+
+N/A
+
+42%
+
+50%
+
+N/A
+
+60%
+
+N/A
+
+77%
+
+81%
+
+N/A
+
+81%
+
+N/A
+
+75%
+
+78%
+
+N/A
+
+76%
+
+N/A
+
+79%
+
+83%
+
+N/A
+
+87%
+
+N/A
+
+White
+
+Rate hospital 0-10
+#cbc0b7
+
+Recommend the hospital
+White
+
+Comm w/ Nurses
+#cbc0b7
+
+Nurses treat with courtesy/respect
+White
+
+Nurses listen carefully to you
+#cbc0b7
+
+Nurses expl in way you understand
+White
+
+Response of Hosp Staff
+#cbc0b7
+
+Call button help soon as wanted it
+White
+
+Help toileting soon as you wanted
+#cbc0b7
+
+Comm w/ Doctors
+White
+
+Doctors treat with courtesy/respect
+#cbc0b7
+
+Doctors listen carefully to you
+White
+
+Doctors expl in way you understand
+#cbc0b7
+
+Hospital Environment
+White
+
+Cleanliness of hospital environment
+#cbc0b7
+
+Quietness of hospital environment
+White
+
+Pain Management
+#cbc0b7
+
+Pain well controlled
+White
+
+Staff do everything help with pain
+#cbc0b7
+
+Comm About Medicines
+White
+
+Tell you what new medicine was for
+#cbc0b7
+
+Staff describe medicine side effect
+White
+
+Discharge Information
+#cbc0b7
+
+Staff talk about help when you left
+White
+
+Info re symptoms/prob to look for
+
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 44
+www.PressGaney.com   800.232.8032
+5
+
+of 86
+
+ HCAHPS Unit Comparison
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+Your Top Box Score
+Jul 11 - Jun 12
+
+UNIT COMPARISON
+Domains and Questions
+
+MICU
+
+NeuroICU
+
+SurgICU
+
+TraumaICU
+
+TraumOBS
+
+100%
+
+74%
+
+N/A
+
+86%
+
+13%
+
+100%
+
+71%
+
+N/A
+
+57%
+
+25%
+
+78%
+
+62%
+
+N/A
+
+48%
+
+50%
+
+100%
+
+75%
+
+N/A
+
+71%
+
+50%
+
+67%
+
+46%
+
+N/A
+
+29%
+
+50%
+
+67%
+
+65%
+
+N/A
+
+43%
+
+50%
+
+N/A
+
+71%
+
+N/A
+
+21%
+
+10%
+
+N/A
+
+68%
+
+N/A
+
+25%
+
+20%
+
+N/A
+
+73%
+
+N/A
+
+17%
+
+0%
+
+89%
+
+87%
+
+N/A
+
+67%
+
+71%
+
+100%
+
+96%
+
+N/A
+
+86%
+
+75%
+
+67%
+
+88%
+
+N/A
+
+71%
+
+75%
+
+100%
+
+79%
+
+N/A
+
+43%
+
+63%
+
+83%
+
+60%
+
+N/A
+
+50%
+
+31%
+
+100%
+
+63%
+
+N/A
+
+57%
+
+50%
+
+67%
+
+57%
+
+N/A
+
+43%
+
+13%
+
+N/A
+
+77%
+
+N/A
+
+36%
+
+50%
+
+N/A
+
+68%
+
+N/A
+
+14%
+
+29%
+
+N/A
+
+86%
+
+N/A
+
+57%
+
+71%
+
+N/A
+
+61%
+
+N/A
+
+14%
+
+71%
+
+N/A
+
+81%
+
+N/A
+
+29%
+
+86%
+
+N/A
+
+41%
+
+N/A
+
+0%
+
+57%
+
+N/A
+
+89%
+
+N/A
+
+83%
+
+63%
+
+N/A
+
+89%
+
+N/A
+
+100%
+
+63%
+
+N/A
+
+89%
+
+N/A
+
+67%
+
+63%
+
+White
+
+Rate hospital 0-10
+#cbc0b7
+
+Recommend the hospital
+White
+
+Comm w/ Nurses
+#cbc0b7
+
+Nurses treat with courtesy/respect
+White
+
+Nurses listen carefully to you
+#cbc0b7
+
+Nurses expl in way you understand
+White
+
+Response of Hosp Staff
+#cbc0b7
+
+Call button help soon as wanted it
+White
+
+Help toileting soon as you wanted
+#cbc0b7
+
+Comm w/ Doctors
+White
+
+Doctors treat with courtesy/respect
+#cbc0b7
+
+Doctors listen carefully to you
+White
+
+Doctors expl in way you understand
+#cbc0b7
+
+Hospital Environment
+White
+
+Cleanliness of hospital environment
+#cbc0b7
+
+Quietness of hospital environment
+White
+
+Pain Management
+#cbc0b7
+
+Pain well controlled
+White
+
+Staff do everything help with pain
+#cbc0b7
+
+Comm About Medicines
+White
+
+Tell you what new medicine was for
+#cbc0b7
+
+Staff describe medicine side effect
+White
+
+Discharge Information
+#cbc0b7
+
+Staff talk about help when you left
+White
+
+Info re symptoms/prob to look for
+
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 45
+www.PressGaney.com   800.232.8032
+6
+
+of 86
+
+ 4NGyne
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+4NGyne
+
+Surveys Returned: July 2011 - June 2012
+
+Domains and Questions
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+93
+
+59%
+
+61%
+
+Recommend the hospital
+
+96
+
+65%
+
+77%
+
+Comm w/ Nurses
+
+97
+
+70%
+
+76%
+
+Nurses treat with courtesy/respect
+
+97
+
+71%
+
+78%
+
+Nurses listen carefully to you
+
+97
+
+69%
+
+76%
+
+Nurses expl in way you understand
+
+97
+
+69%
+
+73%
+
+Response of Hosp Staff
+
+88
+
+60%
+
+63%
+
+Call button help soon as wanted it
+
+82
+
+68%
+
+70%
+
+Help toileting soon as you wanted
+
+47
+
+51%
+
+57%
+
+Comm w/ Doctors
+
+97
+
+83%
+
+86%
+
+Doctors treat with courtesy/respect
+
+96
+
+88%
+
+90%
+
+Doctors listen carefully to you
+
+97
+
+82%
+
+87%
+
+Doctors expl in way you understand
+
+97
+
+78%
+
+81%
+
+Hospital Environment
+
+97
+
+62%
+
+63%
+
+Cleanliness of hospital environment
+
+97
+
+46%
+
+49%
+
+Quietness of hospital environment
+
+96
+
+79%
+
+76%
+
+92
+
+72%
+
+75%
+
+Pain well controlled
+
+90
+
+69%
+
+68%
+
+Staff do everything help with pain
+
+92
+
+75%
+
+83%
+
+76
+
+57%
+
+69%
+
+Tell you what new medicine was for
+
+76
+
+72%
+
+83%
+
+Staff describe medicine side effect
+
+76
+
+42%
+
+55%
+
+95
+
+75%
+
+84%
+
+Staff talk about help when you left
+
+93
+
+71%
+
+77%
+
+Info re symptoms/prob to look for
+
+93
+
+79%
+
+91%
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+18
+
+18
+
+43
+
+69
+
+69
+
+81
+
+30
+
+30
+
+80
+
+10
+
+10
+
+60
+
+56
+
+56
+
+99
+
+41
+
+41
+
+84
+
+43
+
+43
+
+80
+
+77
+
+77
+
+99
+
+16
+
+16
+
+45
+
+85
+
+85
+
+99
+
+73
+
+73
+
+99
+
+90
+
+90
+
+96
+
+83
+
+83
+
+99
+
+37
+
+37
+
+63
+
+1
+
+1
+
+1
+
+94
+
+94
+
+99
+
+79
+
+79
+
+92
+
+76
+
+76
+
+87
+
+78
+
+78
+
+98
+
+86
+
+86
+
+99
+
+90
+
+90
+
+99
+
+79
+
+79
+
+99
+
+52
+
+52
+
+75
+
+28
+
+28
+
+53
+
+83
+
+83
+
+90
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 46
+www.PressGaney.com   800.232.8032
+7
+
+of 86
+
+ 4NGyne
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Speed of admission
+
+PG
+
+2
+
+0.45
+
+2
+
+Room cleanliness
+
+PG
+
+3
+
+0.45
+
+3
+
+Courtesy of person admitting
+
+PG
+
+1
+
+0.41
+
+4
+
+Staff addressed emotional needs
+
+PG
+
+4
+
+0.43
+
+5
+
+Courtesy of person took blood
+
+PG
+
+5
+
+0.45
+
+6
+
+Wait time for test or treatments
+
+PG
+
+1
+
+0.39
+
+7
+
+Courtesy of person started IV
+
+PG
+
+7
+
+0.45
+
+8
+
+Attention to special/personal needs
+
+PG
+
+8
+
+0.47
+
+9
+
+Courtesy of person cleaning room
+
+PG
+
+1
+
+0.35
+
+9
+
+Skill of the nurses
+
+PG
+
+4
+
+0.39
+
+9
+
+Friendliness/courtesy of the nurses
+
+PG
+
+5
+
+0.41
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 47
+8 of 86
+
+ 4NOB
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+4NOB
+
+Surveys Returned: July 2011 - June 2012
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+Domains and Questions
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+37
+
+42%
+
+59%
+
+Recommend the hospital
+
+36
+
+50%
+
+Comm w/ Nurses
+
+37
+
+69%
+
+Nurses treat with courtesy/respect
+
+37
+
+Nurses listen carefully to you
+Nurses expl in way you understand
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+13
+
+13
+
+36
+
+58%
+
+ 
+ 
+
+12
+
+12
+
+1
+
+69%
+
+-
+
+6
+
+6
+
+49
+
+65%
+
+68%
+
+1
+
+1
+
+9
+
+37
+
+67%
+
+76%
+
+52
+
+52
+
+88
+
+37
+
+75%
+
+65%
+
+34
+
+48%
+
+60%
+
+ 
+ 
+ 
+ 
+
+Call button help soon as wanted it
+
+31
+
+55%
+
+55%
+
+Help toileting soon as you wanted
+
+23
+
+42%
+
+65%
+
+37
+
+74%
+
+85%
+
+Doctors treat with courtesy/respect
+
+37
+
+79%
+
+89%
+
+Doctors listen carefully to you
+
+37
+
+71%
+
+86%
+
+Doctors expl in way you understand
+
+37
+
+71%
+
+78%
+
+37
+
+40%
+
+68%
+
+Cleanliness of hospital environment
+
+37
+
+35%
+
+59%
+
+Quietness of hospital environment
+
+37
+
+46%
+
+76%
+
+Response of Hosp Staff
+
+Comm w/ Doctors
+
+Hospital Environment
+
+Pain Management
+
+35
+
+71%
+
+73%
+
+Pain well controlled
+
+35
+
+67%
+
+69%
+
+Staff do everything help with pain
+
+35
+
+76%
+
+77%
+
+20
+
+58%
+
+67%
+
+Tell you what new medicine was for
+
+19
+
+67%
+
+74%
+
+Staff describe medicine side effect
+
+20
+
+50%
+
+60%
+
+36
+
+78%
+
+86%
+
+Staff talk about help when you left
+
+36
+
+74%
+
+75%
+
+Info re symptoms/prob to look for
+
+36
+
+83%
+
+97%
+
+Comm About Medicines
+
+Discharge Information
+
+6
+
+6
+
+29
+
+26
+
+26
+
+67
+
+-
+
+14
+
+14
+
+41
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44
+
+44
+
+68
+
+80
+
+80
+
+99
+
+71
+
+71
+
+99
+
+90
+
+90
+
+95
+
+68
+
+68
+
+94
+
+63
+
+63
+
+87
+
+4
+
+4
+
+21
+
+94
+
+94
+
+99
+
+65
+
+65
+
+82
+
+81
+
+81
+
+89
+
+41
+
+41
+
+62
+
+76
+
+76
+
+99
+
+35
+
+35
+
+71
+
+91
+
+91
+
+99
+
+67
+
+67
+
+80
+
+16
+
+16
+
+15
+
+99
+
+99
+
+99
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 48
+www.PressGaney.com   800.232.8032
+9
+
+of 86
+
+ 4NOB
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Overall rating of care given
+
+PG
+
+1
+
+0.67
+
+2
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.65
+
+3
+
+Room cleanliness
+
+PG
+
+3
+
+0.67
+
+4
+
+Staff worked together care for you
+
+PG
+
+2
+
+0.64
+
+4
+
+Response concerns/complaints
+
+PG
+
+3
+
+0.66
+
+6
+
+Promptness response to call
+
+PG
+
+2
+
+0.61
+
+7
+
+Friendliness/courtesy of the nurses
+
+PG
+
+1
+
+0.59
+
+8
+
+Wait time for test or treatments
+
+PG
+
+1
+
+0.58
+
+9
+
+Skill of the nurses
+
+PG
+
+1
+
+0.57
+
+9
+
+Likelihood recommending hospital
+
+PG
+
+2
+
+0.60
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 10
+49 of 86
+
+ 6East
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+6East
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+121
+
+48%
+
+60%
+
+Recommend the hospital
+
+121
+
+65%
+
+67%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+13
+
+13
+
+36
+
+33
+
+33
+
+43
+
+5
+
+5
+
+41
+
+3
+
+3
+
+45
+
+7
+
+7
+
+36
+
+8
+
+8
+
+40
+
+124
+
+85%
+
+83%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Doctors treat with courtesy/respect
+
+123
+
+89%
+
+89%
+
+-
+
+72
+
+Doctors listen carefully to you
+
+123
+
+83%
+
+81%
+
+66
+
+66
+
+76
+
+Doctors expl in way you understand
+
+123
+
+84%
+
+79%
+
+71
+
+71
+
+97
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+26
+
+26
+
+32
+
+8
+
+8
+
+21
+
+14
+
+14
+
+29
+
+6
+
+6
+
+28
+
+37
+
+37
+
+68
+
+15
+
+15
+
+16
+
+63
+
+91
+
+124
+
+63%
+
+68%
+
+Nurses treat with courtesy/respect
+
+123
+
+72%
+
+73%
+
+Nurses listen carefully to you
+
+123
+
+58%
+
+66%
+
+Nurses expl in way you understand
+
+124
+
+59%
+
+66%
+
+Response of Hosp Staff
+
+106
+
+35%
+
+52%
+
+Call button help soon as wanted it
+
+100
+
+38%
+
+59%
+
+Help toileting soon as you wanted
+
+43
+
+32%
+
+44%
+
+Comm w/ Doctors
+
+6
+
+6
+
+24
+
+29
+
+29
+
+70
+
+1
+
+1
+
+1
+
+70
+
+70
+
+85
+
+72
+
+99
+
+124
+
+54%
+
+50%
+
+Cleanliness of hospital environment
+
+123
+
+49%
+
+48%
+
+Quietness of hospital environment
+
+123
+
+58%
+
+51%
+
+91
+
+58%
+
+63%
+
+Pain well controlled
+
+89
+
+52%
+
+57%
+
+Staff do everything help with pain
+
+90
+
+65%
+
+68%
+
+79
+
+66%
+
+61%
+
+Tell you what new medicine was for
+
+76
+
+81%
+
+70%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Staff describe medicine side effect
+
+77
+
+52%
+
+52%
+
+-
+
+63
+
+115
+
+73%
+
+80%
+
+22
+
+22
+
+28
+
+Staff talk about help when you left
+
+113
+
+70%
+
+77%
+
+25
+
+25
+
+45
+
+Info re symptoms/prob to look for
+
+108
+
+76%
+
+83%
+
+ 
+ 
+ 
+
+23
+
+23
+
+20
+
+Hospital Environment
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 11
+50
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 6East
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Room cleanliness
+
+PG
+
+1
+
+0.47
+
+2
+
+Courtesy of person cleaning room
+
+PG
+
+1
+
+0.44
+
+3
+
+Response concerns/complaints
+
+PG
+
+4
+
+0.49
+
+4
+
+Cleanliness of hospital environment
+
+1
+
+0.39
+
+5
+
+Speed of discharge process
+
+PG
+
+4
+
+0.46
+
+6
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.37
+
+7
+
+Friendliness/courtesy of the nurses
+
+PG
+
+2
+
+0.39
+
+8
+
+Staff worked together care for you
+
+PG
+
+8
+
+0.46
+
+9
+
+Staff addressed emotional needs
+
+PG
+
+6
+
+0.41
+
+9
+
+Overall rating of care given
+
+PG
+
+13
+
+0.48
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 12
+51 of 86
+
+ 6South
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+6South
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+113
+
+52%
+
+52%
+
+Recommend the hospital
+
+115
+
+58%
+
+70%
+
+Comm w/ Nurses
+
+117
+
+64%
+
+70%
+
+Nurses treat with courtesy/respect
+
+117
+
+72%
+
+71%
+
+Nurses listen carefully to you
+
+117
+
+62%
+
+68%
+
+Nurses expl in way you understand
+
+115
+
+59%
+
+71%
+
+94
+
+44%
+
+51%
+
+Call button help soon as wanted it
+
+86
+
+47%
+
+49%
+
+Help toileting soon as you wanted
+
+43
+
+40%
+
+53%
+
+Domains and Questions
+
+Response of Hosp Staff
+
+Comm w/ Doctors
+
+117
+
+79%
+
+84%
+
+Doctors treat with courtesy/respect
+
+117
+
+85%
+
+87%
+
+Doctors listen carefully to you
+
+117
+
+78%
+
+83%
+
+Doctors expl in way you understand
+
+117
+
+74%
+
+82%
+
+Hospital Environment
+
+118
+
+50%
+
+55%
+
+Cleanliness of hospital environment
+
+116
+
+50%
+
+57%
+
+Quietness of hospital environment
+
+118
+
+50%
+
+53%
+
+86
+
+58%
+
+60%
+
+Pain well controlled
+
+86
+
+54%
+
+60%
+
+Staff do everything help with pain
+
+86
+
+61%
+
+59%
+
+84
+
+58%
+
+63%
+
+Tell you what new medicine was for
+
+81
+
+66%
+
+75%
+
+Staff describe medicine side effect
+
+84
+
+50%
+
+51%
+
+108
+
+77%
+
+78%
+
+Staff talk about help when you left
+
+108
+
+75%
+
+71%
+
+Info re symptoms/prob to look for
+
+106
+
+79%
+
+84%
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+-
+
+4
+
+4
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+42
+
+42
+
+51
+
+7
+
+7
+
+53
+
+2
+
+2
+
+22
+
+13
+
+13
+
+56
+
+28
+
+28
+
+76
+
+5
+
+5
+
+20
+
+4
+
+4
+
+1
+
+8
+
+8
+
+39
+
+75
+
+75
+
+92
+
+53
+
+53
+
+89
+
+75
+
+75
+
+81
+
+85
+
+85
+
+99
+
+8
+
+8
+
+33
+
+2
+
+2
+
+10
+
+34
+
+34
+
+35
+
+4
+
+4
+
+10
+
+28
+
+28
+
+63
+
+1
+
+1
+
+2
+
+53
+
+53
+
+93
+
+46
+
+46
+
+86
+
+59
+
+59
+
+82
+
+11
+
+11
+
+1
+
+7
+
+7
+
+1
+
+27
+
+27
+
+24
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 13
+52
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 6South
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Skill of the nurses
+
+PG
+
+1
+
+0.58
+
+2
+
+Staff addressed emotional needs
+
+PG
+
+1
+
+0.56
+
+3
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.51
+
+4
+
+Courtesy of person started IV
+
+PG
+
+2
+
+0.56
+
+5
+
+Nurses treat with courtesy/respect
+
+2
+
+0.52
+
+6
+
+Nurses kept you informed
+
+PG
+
+2
+
+0.51
+
+7
+
+Promptness response to call
+
+PG
+
+1
+
+0.49
+
+7
+
+Staff worked together care for you
+
+PG
+
+4
+
+0.61
+
+9
+
+Friendliness/courtesy of the nurses
+
+PG
+
+1
+
+0.49
+
+10
+
+Staff concern for your privacy
+
+PG
+
+1
+
+0.49
+
+10
+
+Response concerns/complaints
+
+PG
+
+4
+
+0.58
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 14
+53 of 86
+
+ 6West
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+6West
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+111
+
+55%
+
+52%
+
+Recommend the hospital
+
+109
+
+61%
+
+58%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+4
+
+4
+
+1
+
+11
+
+11
+
+1
+
+1
+
+1
+
+7
+
+1
+
+1
+
+12
+
+3
+
+3
+
+16
+
+1
+
+1
+
+1
+
+98
+
+40%
+
+37%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1
+
+1
+
+1
+
+Call button help soon as wanted it
+
+93
+
+44%
+
+44%
+
+-
+
+2
+
+2
+
+1
+
+Help toileting soon as you wanted
+
+39
+
+35%
+
+31%
+
+1
+
+1
+
+1
+
+24
+
+24
+
+36
+
+9
+
+9
+
+17
+
+53
+
+53
+
+61
+
+20
+
+20
+
+32
+
+4
+
+4
+
+8
+
+2
+
+2
+
+11
+
+16
+
+16
+
+28
+
+10
+
+10
+
+38
+
+29
+
+29
+
+65
+
+5
+
+5
+
+25
+
+12
+
+12
+
+9
+
+113
+
+64%
+
+63%
+
+Nurses treat with courtesy/respect
+
+112
+
+70%
+
+69%
+
+Nurses listen carefully to you
+
+112
+
+60%
+
+63%
+
+Nurses expl in way you understand
+
+113
+
+63%
+
+58%
+
+Response of Hosp Staff
+
+113
+
+51%
+
+53%
+
+Cleanliness of hospital environment
+
+112
+
+49%
+
+57%
+
+Quietness of hospital environment
+
+112
+
+52%
+
+48%
+
+85
+
+59%
+
+64%
+
+Pain well controlled
+
+84
+
+54%
+
+61%
+
+Staff do everything help with pain
+
+85
+
+64%
+
+67%
+
+87
+
+59%
+
+56%
+
+Tell you what new medicine was for
+
+86
+
+73%
+
+64%
+
+Staff describe medicine side effect
+
+84
+
+46%
+
+48%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+111
+
+76%
+
+76%
+
+Staff talk about help when you left
+
+111
+
+70%
+
+74%
+
+Info re symptoms/prob to look for
+
+109
+
+83%
+
+78%
+
+Comm w/ Doctors
+
+113
+
+82%
+
+77%
+
+Doctors treat with courtesy/respect
+
+112
+
+88%
+
+81%
+
+Doctors listen carefully to you
+
+113
+
+81%
+
+80%
+
+Doctors expl in way you understand
+
+113
+
+77%
+
+71%
+
+Hospital Environment
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+4
+
+4
+
+1
+
+38
+
+38
+
+65
+
+-
+
+8
+
+8
+
+1
+
+ 
+ 
+
+13
+
+13
+
+10
+
+8
+
+8
+
+1
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 15
+54
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 6West
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.53
+
+2
+
+Staff concern for your privacy
+
+PG
+
+1
+
+0.52
+
+3
+
+Staff include decisions re:trtmnt
+
+PG
+
+1
+
+0.49
+
+3
+
+Likelihood recommending hospital
+
+PG
+
+2
+
+0.58
+
+5
+
+Wait time for test or treatments
+
+PG
+
+1
+
+0.48
+
+6
+
+Staff addressed emotional needs
+
+PG
+
+1
+
+0.48
+
+7
+
+Attention to special/personal needs
+
+PG
+
+1
+
+0.46
+
+8
+
+Staff do everything help with pain
+
+5
+
+0.57
+
+9
+
+Response concerns/complaints
+
+PG
+
+1
+
+0.45
+
+9
+
+Overall rating of care given
+
+PG
+
+3
+
+0.52
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 16
+55 of 86
+
+ 7East
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+7East
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+143
+
+49%
+
+54%
+
+Recommend the hospital
+
+143
+
+58%
+
+62%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+144
+
+56%
+
+66%
+
+Nurses treat with courtesy/respect
+
+142
+
+60%
+
+71%
+
+Nurses listen carefully to you
+
+143
+
+56%
+
+65%
+
+Nurses expl in way you understand
+
+142
+
+51%
+
+61%
+
+Response of Hosp Staff
+
+123
+
+38%
+
+43%
+
+Call button help soon as wanted it
+
+112
+
+45%
+
+48%
+
+Help toileting soon as you wanted
+
+63
+
+32%
+
+38%
+
+Comm w/ Doctors
+
+142
+
+74%
+
+81%
+
+Doctors treat with courtesy/respect
+
+142
+
+78%
+
+85%
+
+Doctors listen carefully to you
+
+142
+
+74%
+
+85%
+
+Doctors expl in way you understand
+
+141
+
+69%
+
+75%
+
+Hospital Environment
+
+143
+
+45%
+
+54%
+
+Cleanliness of hospital environment
+
+143
+
+47%
+
+56%
+
+Quietness of hospital environment
+
+140
+
+43%
+
+53%
+
+111
+
+65%
+
+68%
+
+Pain well controlled
+
+107
+
+59%
+
+62%
+
+Staff do everything help with pain
+
+110
+
+71%
+
+74%
+
+103
+
+49%
+
+59%
+
+99
+
+60%
+
+69%
+
+Pain Management
+
+Comm About Medicines
+Tell you what new medicine was for
+Staff describe medicine side effect
+
+98
+
+38%
+
+50%
+
+130
+
+74%
+
+79%
+
+Staff talk about help when you left
+
+125
+
+71%
+
+75%
+
+Info re symptoms/prob to look for
+
+127
+
+78%
+
+83%
+
+Discharge Information
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+5
+
+5
+
+1
+
+19
+
+19
+
+12
+
+3
+
+3
+
+23
+
+2
+
+2
+
+24
+
+6
+
+6
+
+27
+
+3
+
+3
+
+13
+
+1
+
+1
+
+1
+
+3
+
+3
+
+1
+
+1
+
+1
+
+1
+
+57
+
+57
+
+76
+
+26
+
+26
+
+42
+
+83
+
+83
+
+86
+
+47
+
+47
+
+57
+
+7
+
+7
+
+27
+
+1
+
+1
+
+8
+
+32
+
+32
+
+34
+
+26
+
+26
+
+62
+
+36
+
+36
+
+72
+
+19
+
+19
+
+55
+
+27
+
+27
+
+47
+
+12
+
+12
+
+9
+
+52
+
+52
+
+73
+
+18
+
+18
+
+18
+
+16
+
+16
+
+17
+
+24
+
+24
+
+21
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 17
+56
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 7East
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Courtesy of person admitting
+
+PG
+
+1
+
+0.56
+
+2
+
+Wait time for test or treatments
+
+PG
+
+1
+
+0.52
+
+3
+
+Staff concern for your privacy
+
+PG
+
+1
+
+0.51
+
+4
+
+Attention to special/personal needs
+
+PG
+
+1
+
+0.51
+
+5
+
+Overall rating of care given
+
+PG
+
+2
+
+0.58
+
+6
+
+Staff attitude toward visitors
+
+PG
+
+1
+
+0.49
+
+7
+
+Promptness response to call
+
+PG
+
+1
+
+0.49
+
+8
+
+Room cleanliness
+
+PG
+
+1
+
+0.48
+
+9
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.48
+
+10
+
+Speed of admission
+
+PG
+
+1
+
+0.48
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 18
+57 of 86
+
+ 7South
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+7South
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+161
+
+53%
+
+51%
+
+Recommend the hospital
+
+165
+
+64%
+
+56%
+
+Domains and Questions
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+3
+
+3
+
+1
+
+8
+
+8
+
+1
+
+1
+
+1
+
+8
+
+1
+
+1
+
+13
+
+2
+
+2
+
+1
+
+2
+
+2
+
+7
+
+2
+
+2
+
+1
+
+5
+
+5
+
+1
+
+1
+
+1
+
+1
+
+32
+
+32
+
+51
+
+30
+
+30
+
+45
+
+23
+
+23
+
+24
+
+47
+
+47
+
+57
+
+1
+
+1
+
+1
+
+1
+
+1
+
+166
+
+50%
+
+47%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cleanliness of hospital environment
+
+163
+
+47%
+
+47%
+
+-
+
+1
+
+Quietness of hospital environment
+
+164
+
+54%
+
+47%
+
+14
+
+14
+
+27
+
+111
+
+60%
+
+57%
+
+2
+
+2
+
+2
+
+Pain well controlled
+
+110
+
+56%
+
+53%
+
+Staff do everything help with pain
+
+109
+
+65%
+
+61%
+
+120
+
+63%
+
+56%
+
+Tell you what new medicine was for
+
+116
+
+75%
+
+68%
+
+Staff describe medicine side effect
+
+114
+
+50%
+
+43%
+
+153
+
+71%
+
+78%
+
+Staff talk about help when you left
+
+150
+
+67%
+
+73%
+
+Info re symptoms/prob to look for
+
+151
+
+76%
+
+83%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Comm w/ Nurses
+
+166
+
+69%
+
+63%
+
+Nurses treat with courtesy/respect
+
+166
+
+74%
+
+69%
+
+Nurses listen carefully to you
+
+165
+
+66%
+
+61%
+
+Nurses expl in way you understand
+
+164
+
+66%
+
+60%
+
+Response of Hosp Staff
+
+137
+
+53%
+
+47%
+
+Call button help soon as wanted it
+
+131
+
+53%
+
+50%
+
+Help toileting soon as you wanted
+
+57
+
+53%
+
+44%
+
+Comm w/ Doctors
+
+165
+
+81%
+
+78%
+
+Doctors treat with courtesy/respect
+
+164
+
+87%
+
+85%
+
+Doctors listen carefully to you
+
+165
+
+83%
+
+75%
+
+Doctors expl in way you understand
+
+165
+
+73%
+
+75%
+
+Hospital Environment
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+4
+
+4
+
+1
+
+2
+
+2
+
+5
+
+11
+
+11
+
+7
+
+10
+
+10
+
+6
+
+16
+
+16
+
+15
+
+13
+
+13
+
+1
+
+11
+
+11
+
+7
+
+22
+
+22
+
+18
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 19
+58
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 7South
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.45
+
+2
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.42
+
+2
+
+Skill of the nurses
+
+PG
+
+1
+
+0.42
+
+4
+
+Nurses listen carefully to you
+
+2
+
+0.52
+
+5
+
+Attention to special/personal needs
+
+2
+
+0.46
+
+6
+
+Staff do everything help with pain
+
+CAHPS
+
+2
+
+0.42
+
+7
+
+Nurses treat with courtesy/respect
+
+CAHPS
+
+1
+
+0.35
+
+7
+
+Likelihood recommending hospital
+
+PG
+
+5
+
+0.53
+
+9
+
+How well your pain was controlled
+
+PG
+
+2
+
+0.40
+
+10
+
+Cleanliness of hospital environment
+
+1
+
+0.33
+
+CAHPS
+PG
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 20
+59 of 86
+
+ 7West
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+7West
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+134
+
+52%
+
+52%
+
+Recommend the hospital
+
+135
+
+63%
+
+58%
+
+Comm w/ Nurses
+
+136
+
+57%
+
+65%
+
+Nurses treat with courtesy/respect
+
+136
+
+62%
+
+71%
+
+Nurses listen carefully to you
+
+134
+
+58%
+
+61%
+
+Nurses expl in way you understand
+
+133
+
+50%
+
+63%
+
+104
+
+45%
+
+39%
+
+Call button help soon as wanted it
+
+93
+
+49%
+
+45%
+
+Help toileting soon as you wanted
+
+42
+
+41%
+
+33%
+
+Domains and Questions
+
+Response of Hosp Staff
+
+Comm w/ Doctors
+
+135
+
+77%
+
+76%
+
+Doctors treat with courtesy/respect
+
+133
+
+83%
+
+80%
+
+Doctors listen carefully to you
+
+134
+
+73%
+
+77%
+
+Doctors expl in way you understand
+
+134
+
+74%
+
+70%
+
+Hospital Environment
+
+136
+
+49%
+
+52%
+
+Cleanliness of hospital environment
+
+132
+
+41%
+
+52%
+
+Quietness of hospital environment
+
+136
+
+57%
+
+51%
+
+93
+
+57%
+
+55%
+
+Pain well controlled
+
+90
+
+54%
+
+53%
+
+Staff do everything help with pain
+
+91
+
+60%
+
+57%
+
+96
+
+50%
+
+51%
+
+Tell you what new medicine was for
+
+93
+
+66%
+
+62%
+
+Staff describe medicine side effect
+
+96
+
+33%
+
+41%
+
+130
+
+71%
+
+77%
+
+Staff talk about help when you left
+
+127
+
+63%
+
+72%
+
+Info re symptoms/prob to look for
+
+128
+
+78%
+
+82%
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+-
+
+4
+
+4
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11
+
+11
+
+1
+
+2
+
+2
+
+17
+
+2
+
+2
+
+21
+
+2
+
+2
+
+8
+
+4
+
+4
+
+20
+
+1
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+17
+
+17
+
+24
+
+7
+
+7
+
+14
+
+33
+
+33
+
+53
+
+17
+
+17
+
+30
+
+3
+
+3
+
+4
+
+1
+
+1
+
+2
+
+27
+
+27
+
+32
+
+1
+
+1
+
+1
+
+5
+
+5
+
+1
+
+1
+
+1
+
+1
+
+4
+
+4
+
+1
+
+3
+
+3
+
+1
+
+10
+
+10
+
+4
+
+9
+
+9
+
+1
+
+7
+
+7
+
+1
+
+18
+
+18
+
+14
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 21
+60
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 7West
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Staff include decisions re:trtmnt
+
+PG
+
+1
+
+0.49
+
+2
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.48
+
+3
+
+Friendliness/courtesy of the nurses
+
+PG
+
+1
+
+0.45
+
+4
+
+Promptness response to call
+
+PG
+
+1
+
+0.45
+
+5
+
+Room cleanliness
+
+PG
+
+1
+
+0.45
+
+6
+
+Skill of the nurses
+
+PG
+
+1
+
+0.43
+
+7
+
+Cleanliness of hospital environment
+
+1
+
+0.43
+
+8
+
+Explanations:happen during T&T
+
+PG
+
+1
+
+0.43
+
+8
+
+Staff worked together care for you
+
+PG
+
+2
+
+0.48
+
+10
+
+Staff concern for your privacy
+
+PG
+
+2
+
+0.47
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 22
+61 of 86
+
+ 8East
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+8East
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+129
+
+44%
+
+51%
+
+Recommend the hospital
+
+132
+
+55%
+
+58%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+134
+
+55%
+
+65%
+
+Nurses treat with courtesy/respect
+
+133
+
+54%
+
+67%
+
+Nurses listen carefully to you
+
+132
+
+53%
+
+64%
+
+Nurses expl in way you understand
+
+132
+
+58%
+
+65%
+
+Response of Hosp Staff
+
+112
+
+38%
+
+53%
+
+Call button help soon as wanted it
+
+104
+
+34%
+
+52%
+
+Help toileting soon as you wanted
+
+56
+
+42%
+
+54%
+
+Comm w/ Doctors
+
+133
+
+79%
+
+86%
+
+Doctors treat with courtesy/respect
+
+131
+
+84%
+
+90%
+
+Doctors listen carefully to you
+
+132
+
+81%
+
+83%
+
+Doctors expl in way you understand
+
+130
+
+71%
+
+85%
+
+Hospital Environment
+
+133
+
+41%
+
+47%
+
+Cleanliness of hospital environment
+
+129
+
+37%
+
+43%
+
+Quietness of hospital environment
+
+131
+
+46%
+
+52%
+
+106
+
+63%
+
+70%
+
+Pain well controlled
+
+104
+
+63%
+
+66%
+
+Staff do everything help with pain
+
+104
+
+63%
+
+73%
+
+99
+
+55%
+
+60%
+
+96
+
+66%
+
+70%
+
+Pain Management
+
+Comm About Medicines
+Tell you what new medicine was for
+Staff describe medicine side effect
+
+95
+
+44%
+
+51%
+
+125
+
+73%
+
+79%
+
+Staff talk about help when you left
+
+122
+
+64%
+
+80%
+
+Info re symptoms/prob to look for
+
+120
+
+81%
+
+78%
+
+Discharge Information
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+4
+
+4
+
+1
+
+11
+
+11
+
+1
+
+2
+
+2
+
+21
+
+1
+
+1
+
+8
+
+5
+
+5
+
+23
+
+7
+
+7
+
+32
+
+7
+
+7
+
+28
+
+8
+
+8
+
+5
+
+8
+
+8
+
+39
+
+87
+
+87
+
+99
+
+77
+
+77
+
+99
+
+77
+
+77
+
+83
+
+94
+
+94
+
+99
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+29
+
+29
+
+33
+
+39
+
+39
+
+71
+
+67
+
+67
+
+84
+
+17
+
+17
+
+54
+
+32
+
+32
+
+58
+
+15
+
+15
+
+18
+
+55
+
+55
+
+74
+
+16
+
+16
+
+14
+
+38
+
+38
+
+75
+
+9
+
+9
+
+1
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 23
+62
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 8East
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Overall rating of care given
+
+PG
+
+1
+
+0.57
+
+2
+
+Attention to special/personal needs
+
+PG
+
+1
+
+0.57
+
+3
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.54
+
+4
+
+Staff worked together care for you
+
+PG
+
+1
+
+0.53
+
+5
+
+Response concerns/complaints
+
+PG
+
+1
+
+0.53
+
+6
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.53
+
+6
+
+Pleasantness of room decor
+
+PG
+
+2
+
+0.55
+
+8
+
+Promptness response to call
+
+PG
+
+1
+
+0.52
+
+9
+
+Accommodations & comfort visitors
+
+PG
+
+1
+
+0.51
+
+10
+
+Staff addressed emotional needs
+
+PG
+
+2
+
+0.52
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 24
+63 of 86
+
+ 8South
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+8South
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+109
+
+57%
+
+52%
+
+Recommend the hospital
+
+111
+
+66%
+
+62%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+4
+
+4
+
+1
+
+19
+
+19
+
+12
+
+2
+
+2
+
+12
+
+1
+
+1
+
+3
+
+7
+
+7
+
+38
+
+112
+
+62%
+
+64%
+
+Nurses treat with courtesy/respect
+
+112
+
+67%
+
+64%
+
+Nurses listen carefully to you
+
+112
+
+58%
+
+66%
+
+ 
+ 
+ 
+ 
+ 
+
+Nurses expl in way you understand
+
+110
+
+62%
+
+62%
+
+-
+
+3
+
+3
+
+15
+
+97
+
+49%
+
+36%
+
+1
+
+1
+
+Call button help soon as wanted it
+
+91
+
+51%
+
+40%
+
+1
+
+1
+
+1
+
+Help toileting soon as you wanted
+
+48
+
+47%
+
+33%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1
+
+1
+
+1
+
+1
+
+27
+
+27
+
+41
+
+4
+
+4
+
+1
+
+37
+
+37
+
+54
+
+60
+
+60
+
+70
+
+6
+
+6
+
+23
+
+1
+
+1
+
+9
+
+28
+
+28
+
+33
+
+23
+
+23
+
+60
+
+58
+
+58
+
+81
+
+9
+
+9
+
+36
+
+11
+
+11
+
+7
+
+14
+
+14
+
+13
+
+12
+
+12
+
+10
+
+11
+
+11
+
+1
+
+17
+
+17
+
+19
+
+10
+
+10
+
+1
+
+Response of Hosp Staff
+
+Comm w/ Doctors
+
+112
+
+80%
+
+78%
+
+Doctors treat with courtesy/respect
+
+112
+
+85%
+
+79%
+
+Doctors listen carefully to you
+
+110
+
+81%
+
+77%
+
+Doctors expl in way you understand
+
+109
+
+74%
+
+77%
+
+Hospital Environment
+
+112
+
+55%
+
+54%
+
+Cleanliness of hospital environment
+
+112
+
+54%
+
+56%
+
+Quietness of hospital environment
+
+110
+
+55%
+
+52%
+
+91
+
+66%
+
+67%
+
+Pain well controlled
+
+91
+
+60%
+
+65%
+
+Staff do everything help with pain
+
+89
+
+72%
+
+70%
+
+87
+
+53%
+
+56%
+
+Tell you what new medicine was for
+
+85
+
+66%
+
+69%
+
+Staff describe medicine side effect
+
+84
+
+41%
+
+42%
+
+108
+
+80%
+
+77%
+
+Staff talk about help when you left
+
+106
+
+76%
+
+75%
+
+Info re symptoms/prob to look for
+
+105
+
+84%
+
+79%
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 25
+64
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 8South
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.51
+
+2
+
+Staff include decisions re:trtmnt
+
+PG
+
+2
+
+0.53
+
+3
+
+Staff addressed emotional needs
+
+PG
+
+1
+
+0.50
+
+4
+
+Overall rating of care given
+
+PG
+
+2
+
+0.52
+
+5
+
+Explanations:happen during T&T
+
+PG
+
+2
+
+0.52
+
+6
+
+Nurses kept you informed
+
+PG
+
+1
+
+0.49
+
+7
+
+Skill of the nurses
+
+PG
+
+1
+
+0.49
+
+8
+
+Likelihood recommending hospital
+
+PG
+
+5
+
+0.53
+
+9
+
+Room cleanliness
+
+PG
+
+1
+
+0.48
+
+9
+
+Noise level in and around room
+
+PG
+
+2
+
+0.51
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 26
+65 of 86
+
+ 8West
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+8West
+
+Surveys Returned: July 2011 - June 2012
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+139
+
+57%
+
+56%
+
+Recommend the hospital
+
+140
+
+63%
+
+68%
+
+Comm w/ Nurses
+
+Domains and Questions
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+130
+
+47%
+
+56%
+
+Call button help soon as wanted it
+
+122
+
+45%
+
+57%
+
+Help toileting soon as you wanted
+
+69
+
+49%
+
+55%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+141
+
+65%
+
+70%
+
+Nurses treat with courtesy/respect
+
+141
+
+74%
+
+73%
+
+Nurses listen carefully to you
+
+141
+
+59%
+
+71%
+
+Nurses expl in way you understand
+
+140
+
+63%
+
+66%
+
+Response of Hosp Staff
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+8
+
+8
+
+12
+
+36
+
+36
+
+46
+
+7
+
+7
+
+52
+
+3
+
+3
+
+43
+
+23
+
+23
+
+76
+
+8
+
+8
+
+42
+
+12
+
+12
+
+37
+
+19
+
+19
+
+52
+
+10
+
+10
+
+42
+
+141
+
+82%
+
+82%
+
+-
+
+63
+
+63
+
+80
+
+Doctors treat with courtesy/respect
+
+138
+
+87%
+
+86%
+
+ 
+
+36
+
+36
+
+54
+
+Doctors listen carefully to you
+
+137
+
+81%
+
+81%
+
+-
+
+64
+
+64
+
+75
+
+Doctors expl in way you understand
+
+141
+
+78%
+
+80%
+
+78
+
+99
+
+50%
+
+59%
+
+19
+
+19
+
+54
+
+Cleanliness of hospital environment
+
+140
+
+51%
+
+63%
+
+9
+
+9
+
+41
+
+Quietness of hospital environment
+
+139
+
+49%
+
+55%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+78
+
+141
+
+40
+
+40
+
+36
+
+33
+
+33
+
+68
+
+26
+
+26
+
+57
+
+45
+
+45
+
+75
+
+52
+
+52
+
+92
+
+47
+
+47
+
+88
+
+55
+
+55
+
+74
+
+26
+
+26
+
+40
+
+33
+
+33
+
+68
+
+24
+
+24
+
+21
+
+Comm w/ Doctors
+
+Hospital Environment
+
+Pain Management
+
+120
+
+70%
+
+69%
+
+Pain well controlled
+
+120
+
+61%
+
+60%
+
+Staff do everything help with pain
+
+117
+
+79%
+
+78%
+
+111
+
+62%
+
+63%
+
+Tell you what new medicine was for
+
+106
+
+77%
+
+75%
+
+Staff describe medicine side effect
+
+111
+
+48%
+
+50%
+
+133
+
+82%
+
+81%
+
+Staff talk about help when you left
+
+130
+
+77%
+
+78%
+
+Info re symptoms/prob to look for
+
+127
+
+87%
+
+83%
+
+Comm About Medicines
+
+Discharge Information
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 27
+66
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ 8West
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Overall rating of care given
+
+PG
+
+1
+
+0.58
+
+2
+
+Staff worked together care for you
+
+PG
+
+1
+
+0.53
+
+3
+
+Attention to special/personal needs
+
+PG
+
+1
+
+0.52
+
+4
+
+Response concerns/complaints
+
+PG
+
+1
+
+0.50
+
+4
+
+Staff concern for your privacy
+
+PG
+
+2
+
+0.55
+
+6
+
+Wait time for test or treatments
+
+PG
+
+1
+
+0.49
+
+7
+
+Accommodations & comfort visitors
+
+PG
+
+3
+
+0.55
+
+8
+
+Staff attitude toward visitors
+
+PG
+
+1
+
+0.48
+
+9
+
+Nurses' attitude toward requests
+
+PG
+
+1
+
+0.48
+
+9
+
+Likelihood recommending hospital
+
+PG
+
+5
+
+0.60
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 28
+67 of 86
+
+ CCU
+HCAHPS Summary Report
+
+Stroger Hospital of Cook County
+
+CCU
+
+Surveys Returned: July 2011 - June 2012
+
+All DB
+N = 1721
+
+Your Top Box Score
+
+Domains and Questions
+
+n
+
+Previous %
+Jul 10-Jun 11
+
+Current %
+Jul 11-Jun 12
+
+Rate hospital 0-10
+
+42
+
+48%
+
+67%
+
+Recommend the hospital
+
+42
+
+68%
+
+69%
+
+Comm w/ Nurses
+
+All PG DB SHCC Gov
+N = 1721
+Teach
+N=9
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+Percentile
+Rank
+
+38
+
+38
+
+66
+
+40
+
+40
+
+49
+
+96
+
+96
+
+99
+
+95
+
+95
+
+99
+
+98
+
+98
+
+99
+
+89
+
+89
+
+99
+
+89
+
+89
+
+99
+
+93
+
+93
+
+99
+
+80
+
+80
+
+97
+
+80
+
+80
+
+99
+
+65
+
+65
+
+95
+
+94
+
+94
+
+99
+
+61
+
+61
+
+73
+
+50
+
+50
+
+72
+
+34
+
+34
+
+71
+
+62
+
+62
+
+90
+
+96
+
+96
+
+99
+
+98
+
+98
+
+99
+
+78
+
+98
+
+43
+
+61%
+
+65%
+
+Cleanliness of hospital environment
+
+43
+
+55%
+
+70%
+
+Quietness of hospital environment
+
+43
+
+68%
+
+60%
+
+23
+
+77%
+
+80%
+
+Pain well controlled
+
+23
+
+71%
+
+78%
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Staff do everything help with pain
+
+23
+
+83%
+
+83%
+
+-
+
+78
+
+37
+
+68%
+
+71%
+
+90
+
+90
+
+99
+
+Tell you what new medicine was for
+
+37
+
+80%
+
+81%
+
+84
+
+84
+
+99
+
+Staff describe medicine side effect
+
+35
+
+55%
+
+60%
+
+91
+
+91
+
+99
+
+38
+
+79%
+
+81%
+
+27
+
+27
+
+43
+
+Staff talk about help when you left
+
+37
+
+79%
+
+76%
+
+18
+
+18
+
+21
+
+Info re symptoms/prob to look for
+
+38
+
+80%
+
+87%
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+47
+
+47
+
+58
+
+43
+
+75%
+
+88%
+
+Nurses treat with courtesy/respect
+
+42
+
+81%
+
+93%
+
+Nurses listen carefully to you
+
+43
+
+77%
+
+88%
+
+Nurses expl in way you understand
+
+43
+
+68%
+
+81%
+
+Response of Hosp Staff
+
+32
+
+62%
+
+76%
+
+Call button help soon as wanted it
+
+27
+
+68%
+
+78%
+
+Help toileting soon as you wanted
+
+15
+
+56%
+
+73%
+
+Comm w/ Doctors
+
+44
+
+80%
+
+85%
+
+Doctors treat with courtesy/respect
+
+43
+
+87%
+
+88%
+
+Doctors listen carefully to you
+
+44
+
+80%
+
+89%
+
+Doctors expl in way you understand
+
+44
+
+73%
+
+77%
+
+Hospital Environment
+
+Pain Management
+
+Comm About Medicines
+
+Discharge Information
+
+Please note that unit-level benchmarking is derived by comparing the unit’s performance to all organizations in the peer group. To understand the context of a unit’s performance
+relative to similar units, we recommend using the specialty report pages when those are available.
+
+n = number of respondents
+Questions that are among this period's top ten priorities appear in bold italics.
+Click here to access the Summary Report Guide
+Page 29
+68
+www.PressGaney.com   800.232.8032
+
+of 86
+
+ CCU
+HCAHPS 12 Month Priority Index
+
+Stroger Hospital of Cook County
+
+Surveys Returned: July 2011 - June 2012
+
+Survey items are correlated to HCAHPS Overall Rating 0-10
+Order
+
+Survey Item
+
+Source
+
+All DB
+%ile Rank
+
+Correlation
+
+1
+
+Courtesy of person started IV
+
+PG
+
+8
+
+0.63
+
+2
+
+Staff include decisions re:trtmnt
+
+PG
+
+17
+
+0.75
+
+3
+
+Courtesy of person took blood
+
+PG
+
+8
+
+0.58
+
+4
+
+Attention to special/personal needs
+
+PG
+
+13
+
+0.54
+
+5
+
+Room cleanliness
+
+PG
+
+26
+
+0.62
+
+6
+
+Quality of the food
+
+PG
+
+15
+
+0.51
+
+7
+
+Time physician spent with you
+
+PG
+
+38
+
+0.66
+
+8
+
+Likelihood recommending hospital
+
+PG
+
+43
+
+0.71
+
+9
+
+Physician concern questions/worries
+
+PG
+
+21
+
+0.54
+
+9
+
+Cleanliness of hospital environment
+
+34
+
+0.60
+
+CAHPS
+
+The priority index combines information about your organization's performance and the relative importance of each question to respondents' overall rating.
+Higher priority is given to those issues that are relatively more important to respondents (higher correlation coefficients) and relatively lower performing
+(lower percentile rank) for your organization. Questions are listed in decreasing priority. To provide stability, the Priority Index is based on the prior rolling 12
+month period.
+
+Click here to access the Summary Report Guide
+www.PressGaney.com   800.232.8032
+
+Page 30
+69 of 86
+
+ Report Run Date: 09/17/2012
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for Clinical Process Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+Page: 1 of 11
+
+140124-JOHN H STROGER JR HOSPITAL
+Type of Facility: Short-term
+Type of Ownership: Government - Local
+
+Participation in a Systematic Database for:
+
+City, State, ZIP: CHICAGO, IL 60612
+Phone Number: (312) 864-6000
+
+Emergency Service Provided: Yes
+
+Stroke Care: No
+
+Address: 1901 W HARRISON ST
+
+Cardiac Surgery: Does Not Have a Program
+
+County Name: COOK
+
+Nursing Sensitive Care: No
+Your Hospital Performance Aggregate
+Rate for All Four Quarters
+
+Hospital Quality Measures
+
+10% of All Hospitals Submitting
+Data Scored Equal to or Better
+Than
+
+State
+National
+Performance Performance
+
+Acute Myocardial Infarction (AMI)
+AMI-2
+
+Aspirin Prescribed at Discharge
+
+100% of 256 patients(2)
+
+100%
+
+99%
+
+99%
+
+AMI-7a
+
+Fibrinolytic Therapy Received Within 30 Minutes of Hospital Arrival
+
+0 patients(2)
+
+100%
+
+75%
+
+60%
+
+AMI-8a
+
+Primary PCI Received Within 90 Minutes of Hospital Arrival
+
+100% of 14 patients(1)
+
+100%
+
+95%
+
+94%
+
+AMI-10
+
+Statin Prescribed at Discharge
+
+96% of 256 patients(2)
+
+100%
+
+98%
+
+98%
+
+Heart Failure (HF)
+HF-1
+
+Discharge Instructions
+
+76% of 287 patients(2)
+
+100%
+
+95%
+
+93%
+
+HF-2
+
+Evaluation of LVS Function
+
+100% of 294 patients(2)
+
+100%
+
+99%
+
+99%
+
+HF-3
+
+ACEI or ARB for LVSD
+
+100% of 152 patients(2)
+
+100%
+
+97%
+
+96%
+
+PN-3b
+
+Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received
+in Hospital
+
+94% of 142 patients(2)
+
+100%
+
+98%
+
+97%
+
+PN-6
+
+Initial Antibiotic Selection for CAP in Immunocompetent Patient
+
+69% of 102 patients(2)
+
+100%
+
+93%
+
+95%
+
+Pneumonia (PN)
+
+Surgical Care Improvement Project (SCIP)
+SCIP-Inf-1
+
+Prophylactic Antibiotic Received Within 1 Hour Prior to Surgical Incision
+
+97% of 323 patients(2)
+
+100%
+
+98%
+
+98%
+
+SCIP-Inf-2
+
+Prophylactic Antibiotic Selection for Surgical Patients
+
+97% of 321 patients(2)
+
+100%
+
+99%
+
+98%
+
+SCIP-Inf-3
+
+Prophylactic Antibiotics Discontinued Within 24 Hours After Surgery End Time
+
+97% of 315 patients(2)
+
+100%
+
+97%
+
+97%
+
+Page 70 of 86
+
+ Report Run Date: 09/17/2012
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for Clinical Process Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+Page: 2 of 11
+
+140124-JOHN H STROGER JR HOSPITAL
+Your Hospital Performance Aggregate
+Rate for All Four Quarters
+
+Hospital Quality Measures
+
+10% of All Hospitals Submitting
+Data Scored Equal to or Better
+Than
+
+State
+National
+Performance Performance
+
+Surgical Care Improvement Project (SCIP)
+SCIP-Inf-4
+
+Cardiac Surgery Patients with Controlled 6 A.M. Postoperative Blood Glucose
+
+88% of 133 patients(2)
+
+99%
+
+96%
+
+96%
+
+SCIP-Inf-9
+
+Urinary Catheter Removed on Postoperative Day 1 (POD 1) or Postoperative Day 2 (POD
+2) with Day of Surgery being Day Zero
+
+99% of 154 patients(2)
+
+100%
+
+95%
+
+95%
+
+SCIP-Inf-10
+
+Surgery Patients with Perioperative Temperature Management
+
+99% of 304 patients(2)
+
+100%
+
+100%
+
+100%
+
+SCIP-Card-2 Surgery Patients on Beta-Blocker Therapy Prior to Arrival Who Received a Beta-Blocker
+During the Perioperative Period
+
+98% of 130 patients(2)
+
+100%
+
+97%
+
+96%
+
+SCIP-VTE-1 Surgery Patients with Recommended Venous Thromboembolism Prophylaxis Ordered
+
+99% of 231 patients(2)
+
+100%
+
+98%
+
+98%
+
+SCIP-VTE-2 Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within
+24 Hours Prior to Surgery to 24 Hours After Surgery
+
+99% of 230 patients(2)
+
+100%
+
+97%
+
+97%
+
+Emergency Department (ED)
+ED-1b
+
+Median Time from ED Arrival to ED Departure for Admitted ED Patients
+
+640 Minutes based on 307 patients(2)
+
+175 Minutes
+
+265 Minutes 277 Minutes
+
+ED-2b
+
+Admit Decision Time to ED Departure Time for Admitted Patients
+
+267 Minutes based on 307 patients(2)
+
+43 Minutes
+
+92 Minutes
+
+98 Minutes
+
+IMM-1a
+
+Pneumococcal Immunization
+
+41% of 207 patients(2)
+
+98%
+
+90%
+
+88%
+
+IMM-2
+
+Influenza Immunization
+
+65% of 306 patients(2)
+
+98%
+
+88%
+
+86%
+
+Immunization (IMM)
+
+Footnote Legend
+0 patients: No patients met the criteria for inclusion in the measure calculation.
+1. The number of cases is too small to reliably tell how well a hospital is performing.
+2. Measure reflects the hospital's indication that its submission was based upon a sample of its relevant discharges.
+3. Rate reflects fewer than maximum possible quarters of data.
+4. Suppressed for one or more quarters by CMS.
+5. No data are available for publication from the hospital for this measure.
+
+Page 71 of 86
+
+ Report Run Date: 09/17/2012
+
+Page: 3 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital CAHPS (HCAHPS) Survey
+Reporting Period for HCAHPS Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+Type of Facility: Short-term
+Type of Ownership: Government - Local
+
+Participation in a Systematic Database for:
+
+City, State, ZIP: CHICAGO, IL 60612
+Phone Number: (312) 864-6000
+
+Emergency Service Provided: Yes
+
+Stroke Care: No
+
+Address: 1901 W HARRISON ST
+
+Cardiac Surgery: Does Not Have a Program
+
+County Name: COOK
+
+Nursing Sensitive Care: No
+
+HCAHPS Survey Completion and Response Rate
+Number of Completed Surveys
+Survey Response Rate
+
+1216
+16
+
+HCAHPS Composites and Individual Items
+Your Hospital's Adjusted Score
+State Average
+HCAHPS Composites
+
+U.S. Average
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+Composite 1
+(Q1 to Q3)
+
+Communication with
+Nurses
+
+11
+
+22
+
+67
+
+5
+
+18
+
+77
+
+5
+
+17
+
+78
+
+Composite 2
+(Q5 to Q7)
+
+Communication with
+Doctors
+
+4
+
+15
+
+81
+
+4
+
+15
+
+81
+
+4
+
+15
+
+81
+
+Composite 3
+(Q4 & Q11)
+
+Responsiveness of
+Hospital Staff
+
+24
+
+26
+
+50
+
+10
+
+25
+
+65
+
+10
+
+24
+
+66
+
+Composite 4
+(Q13 & Q14)
+
+Pain Management
+
+10
+
+23
+
+67
+
+7
+
+23
+
+70
+
+7
+
+23
+
+70
+
+Composite 5
+(Q16 & Q17)
+
+Communication about
+Medicines
+
+26
+
+17
+
+57
+
+20
+
+19
+
+61
+
+19
+
+18
+
+63
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+%
+Sometimes
+to Never
+
+%
+Usually
+
+%
+Always
+
+Hospital Environment Items
+Q8
+
+Cleanliness of Hospital
+Environment
+
+22
+
+25
+
+53
+
+9
+
+19
+
+72
+
+9
+
+18
+
+73
+
+Q9
+
+Quietness of Hospital
+Environment
+
+19
+
+30
+
+51
+
+12
+
+31
+
+57
+
+11
+
+29
+
+60
+
+Discharge Information Composite
+Composite 6
+(Q19 & Q20)
+
+Discharge Information
+
+% Yes
+
+% No
+
+% Yes
+
+% No
+
+% Yes
+
+% No
+
+78
+
+22
+
+84
+
+16
+
+84
+
+16
+
+Page 72 of 86
+
+ Report Run Date: 09/17/2012
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital CAHPS (HCAHPS) Survey
+Reporting Period for HCAHPS Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+Page: 4 of 11
+
+140124-JOHN H STROGER JR HOSPITAL
+HCAHPS Global Items
+Your Hospital's Adjusted Score
+State Average
+Q21
+
+Overall Rating
+of Hospital
+
+Overall Rating of Hospital
+(0 = Worst Hospital 10 = Best Hospital)
+
+%
+7 and 8
+rating
+
+%
+9 and 10
+rating
+
+%
+0 to 6
+rating
+
+%
+7 and 8
+rating
+
+%
+9 and 10
+rating
+
+%
+0 to 6
+rating
+
+%
+7 and 8
+rating
+
+%
+9 and 10
+rating
+
+16
+
+31
+
+53
+
+9
+
+23
+
+68
+
+8
+
+23
+
+69
+
+Your Hospital's Adjusted Score
+Q22
+
+Willingness to
+Recommend
+this Hospital
+
+Willingness to Recommend this Hospital
+
+U.S. Average
+
+%
+0 to 6
+rating
+
+State Average
+
+U.S. Average
+
+%
+No:
+Definitely or
+Probably Not
+Recommend
+
+%
+Yes:
+Probably
+Recommend
+
+%
+Yes:
+Definitely
+Recommend
+
+%
+No:
+Definitely or
+Probably Not
+Recommend
+
+%
+Yes:
+Probably
+Recommend
+
+%
+Yes:
+Definitely
+Recommend
+
+%
+No:
+Definitely or
+Probably Not
+Recommend
+
+%
+Yes:
+Probably
+Recommend
+
+%
+Yes:
+Definitely
+Recommend
+
+7
+
+31
+
+62
+
+5
+
+27
+
+68
+
+5
+
+25
+
+70
+
+Footnote Legend
+6. Fewer than 100 Patients completed the HCAHPS survey. Use these rates with caution, as the number of surveys may be too low to reliably assess hospital
+performance.
+7. Survey results are based on less than 12 months of data.
+8. Survey results are not available for this reporting period.
+9. No or very few patients were eligible for the HCAHPS survey.
+11. There were discrepancies in the data collection process.
+12. Very few patients were eligible for the HCAHPS survey. The scores shown reflect fewer than 50 completed surveys. Use these scores with caution, as the number of
+surveys may be too low to reliably assess hospital performance.
+
+Page 73 of 86
+
+ Report Run Date: 09/17/2012
+
+Page: 5 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for 30-Day Mortality and Readmission Outcome Measures: Third Quarter 2008 through Second Quarter 2011 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+Type of Facility: Short-term
+Type of Ownership: Government - Local
+
+Participation in a Systematic Database for:
+
+City, State, ZIP: CHICAGO, IL 60612
+Phone Number: (312) 864-6000
+
+Emergency Service Provided: Yes
+
+Stroke Care: No
+
+Address: 1901 W HARRISON ST
+
+Cardiac Surgery: Does Not Have a Program
+
+County Name: COOK
+
+Nursing Sensitive Care: No
+
+30-Day Risk-Standardized Mortality Measures
+Hospital
+Quality
+Measures
+
+Your
+Hospital's
+Performance
+
+Your
+Hospital's
+Number of
+Eligible Medicare
+Admissions
+
+Your Hospital's RiskStandardized Mortality
+Rate (Lower Limit, Upper
+Limit of 95% Interval
+Estimate)
+
+U.S.
+National
+Rate
+
+Better than
+U.S.
+National
+Rate
+
+No
+Different
+than U.S.
+National
+Rate
+
+Worse
+than U.S.
+National
+Rate
+
+Number
+of Cases
+Too
+Small*
+
+in the Nation
+that Performed ...
+
+72
+
+2668
+
+23
+
+1842
+
+in the State
+that Performed ...
+
+8
+
+115
+
+1
+
+57
+
+in the Nation
+that Performed ...
+
+196
+
+3801
+
+119
+
+705
+
+in the State
+that Performed ...
+
+22
+
+150
+
+5
+
+8
+
+in the Nation
+that Performed ...
+
+189
+
+4056
+
+219
+
+380
+
+in the State
+that Performed ...
+
+17
+
+153
+
+10
+
+5
+
+Number of
+Hospitals...
+
+Acute Myocardial Infarction (AMI)
+
+MORT-30-AMI
+
+Acute Myocardial
+Infarction (AMI)
+30-Day Mortality
+Rate
+
+No Different
+than U.S.
+National Rate
+
+49
+
+15.5% (11.5%, 20.9%)
+
+15.5%
+
+Heart Failure (HF)
+
+MORT-30-HF
+
+Heart Failure (HF)
+30-Day Mortality
+Rate
+
+No Different
+than U.S.
+National Rate
+
+144
+
+9.8% (6.9%, 13.5%)
+
+11.6%
+
+Pneumonia (PN)
+
+MORT-30-PN
+
+Pneumonia (PN)
+30-Day Mortality
+Rate
+
+No Different
+than U.S.
+National Rate
+
+72
+
+10.9% (7.4%, 15.9%)
+
+12%
+
+Page 74 of 86
+
+ Report Run Date: 09/17/2012
+
+Page: 6 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for 30-Day Mortality and Readmission Outcome Measures: Third Quarter 2008 through Second Quarter 2011 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+30-Day Risk-Standardized Readmission Measures
+Hospital
+Quality
+Measures
+
+Your
+Hospital's
+Performance
+
+Your
+Hospital's
+Number of
+Eligible Medicare
+Discharges
+
+Your Hospital's RiskStandardized Readmission
+Rate (Lower Limit, Upper
+Limit of 95% Interval
+Estimate)
+
+U.S.
+National
+Rate
+
+Better than
+U.S.
+National
+Rate
+
+No
+Different
+than U.S.
+National
+Rate
+
+Worse
+than U.S.
+National
+Rate
+
+Number
+of Cases
+Too
+Small*
+
+in the Nation
+that Performed ...
+
+30
+
+2338
+
+41
+
+2110
+
+in the State
+that Performed ...
+
+1
+
+106
+
+2
+
+73
+
+in the Nation
+that Performed ...
+
+95
+
+3959
+
+162
+
+613
+
+in the State
+that Performed ...
+
+1
+
+163
+
+15
+
+6
+
+in the Nation
+that Performed ...
+
+33
+
+4325
+
+125
+
+376
+
+in the State
+that Performed ...
+
+0
+
+170
+
+11
+
+5
+
+Number of
+Hospitals...
+
+Acute Myocardial Infarction (AMI)
+
+READM-30-AMI
+
+Acute Myocardial
+Infarction (AMI)
+30-Day
+Readmission Rate
+
+No Different
+than U.S.
+National Rate
+
+52
+
+21.7% (17.2%, 27.2%)
+
+19.7%
+
+Heart Failure (HF)
+
+READM-30-HF
+
+Heart Failure
+(HF) 30-Day
+Readmission Rate
+
+No Different
+than U.S.
+National Rate
+
+175
+
+25.9% (21.7%, 30.5%)
+
+24.7%
+
+Pneumonia (PN)
+
+READM-30-PN
+
+Pneumonia (PN)
+30-Day
+Readmission Rate
+
+No Different
+than U.S.
+National Rate
+
+82
+
+19.5% (15.4%, 24.6%)
+
+18.5%
+
+Footnote Legend
+*The Number of cases is too small (fewer than 25) to reliably tell how well the hospital is performing.
+5. No data are available for publication from the hospital for this measure.
+
+Page 75 of 86
+
+ Report Run Date: 09/17/2012
+
+Page: 7 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for AHRQ Patient Safety and Inpatient Quality Indicators: Third Quarter 2009 through Second Quarter 2011 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+Type of Facility: Short-term
+Type of Ownership: Government - Local
+
+Participation in a Systematic Database for:
+
+City, State, ZIP: CHICAGO, IL 60612
+Phone Number: (312) 864-6000
+
+Emergency Service Provided: Yes
+
+Stroke Care: No
+
+Address: 1901 W HARRISON ST
+
+Cardiac Surgery: Does Not Have a Program
+
+County Name: COOK
+
+Nursing Sensitive Care: No
+
+AHRQ Measures - Patient Safety Indicators
+Hospital
+Quality
+Measures
+
+Your
+Hospital's
+Performance
+
+Your
+Hospital's
+Number of
+Eligible Medicare
+Discharges
+
+Your Hospital's PSI
+Rate (Lower Limit, Upper
+Limit of 95% Confidence
+Interval)
+
+U.S.
+National
+Rate per
+1,000
+
+Number of
+Hospitals...
+
+Better than
+U.S.
+National
+Rate /
+Value
+
+No
+Different
+than U.S.
+National
+Rate / Value
+
+Worse
+than U.S.
+National
+Rate / Value
+
+Number
+of Cases
+Too
+Small*
+
+Individual Patient Safety Indicators (PSIs)
+
+PSI-4
+
+PSI-6
+
+PSI-11
+
+Death among
+surgical inpatients
+with serious
+treatable
+complications
+
+Iatrogenic
+pneumothorax,
+adult
+
+Post-Operative
+Respiratory
+Failure
+
+No Different
+than U.S.
+National Rate
+
+No Different
+than U.S.
+National Rate
+
+No Different
+than U.S.
+National Rate
+
+51
+
+4319
+
+N/A
+
+147.69 (103.14, 192.24)
+
+0.37 (0.02, 0.72)
+
+N/A
+
+113.43
+
+0.35
+
+N/A
+
+Page 76 of 86
+
+in the Nation
+that Performed ...
+
+63
+
+1888
+
+84
+
+961
+
+in the State
+that Performed ...
+
+10
+
+87
+
+1
+
+26
+
+in the Nation
+that Performed ...
+
+10
+
+3358
+
+77
+
+41
+
+in the State
+that Performed ...
+
+0
+
+129
+
+2
+
+2
+
+in the Nation
+that Performed ...
+
+201
+
+2458
+
+251
+
+231
+
+in the State
+that Performed ...
+
+4
+
+96
+
+15
+
+6
+
+ Report Run Date: 09/17/2012
+
+Page: 8 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for AHRQ Patient Safety and Inpatient Quality Indicators: Third Quarter 2009 through Second Quarter 2011 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+AHRQ Measures - Patient Safety Indicators
+Hospital
+Quality
+Measures
+
+Your
+Hospital's
+Performance
+
+Your
+Hospital's
+Number of
+Eligible Medicare
+Discharges
+
+Your Hospital's PSI
+Rate (Lower Limit, Upper
+Limit of 95% Confidence
+Interval)
+
+U.S.
+National
+Rate per
+1,000
+
+Number of
+Hospitals...
+
+Better than
+U.S.
+National
+Rate /
+Value
+
+No
+Different
+than U.S.
+National
+Rate / Value
+
+Worse
+than U.S.
+National
+Rate / Value
+
+Number
+of Cases
+Too
+Small*
+
+Individual Patient Safety Indicators (PSIs)
+
+PSI-12
+
+PSI-14
+
+PSI-15
+
+Post-Operative
+Pulmonary
+Embolism (PE) or
+Deep Vein
+Thrombosis
+(DVT)
+Postoperative
+wound
+dehiscence
+
+Accidental
+puncture or
+laceration
+
+No Different
+than U.S.
+National Rate
+
+No Different
+than U.S.
+National Rate
+
+No Different
+than U.S.
+National Rate
+
+758
+
+194
+
+4599
+
+6.81 (3.32, 10.30)
+
+0.61 (0.00, 2.45)
+
+1.52 (0.17, 2.87)
+
+4.71
+
+0.95
+
+2.05
+
+in the Nation
+that Performed ...
+
+220
+
+2768
+
+229
+
+110
+
+in the State
+that Performed ...
+
+4
+
+99
+
+23
+
+3
+
+in the Nation
+that Performed ...
+
+0
+
+2753
+
+40
+
+370
+
+in the State
+that Performed ...
+
+0
+
+123
+
+1
+
+3
+
+in the Nation
+that Performed ...
+
+156
+
+3050
+
+238
+
+42
+
+in the State
+that Performed ...
+
+14
+
+109
+
+8
+
+2
+
+in the Nation
+that Performed ...
+
+156
+
+3115
+
+215
+
+N/A
+
+in the State
+that Performed ...
+
+6
+
+118
+
+9
+
+N/A
+
+Composite Patient Safety Indicator (PSI)
+
+PSI-90
+
+Complication /
+patient safety for
+selected
+indicators
+(composite)
+
+No Different
+than U.S.
+National Rate
+
+N/A
+
+N/A
+
+N/A
+
+Page 77 of 86
+
+ Report Run Date: 09/17/2012
+
+Page: 9 of 11
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for AHRQ Patient Safety and Inpatient Quality Indicators: Third Quarter 2009 through Second Quarter 2011 Discharges
+
+140124-JOHN H STROGER JR HOSPITAL
+AHRQ Measures - Inpatient Quality Indicators
+Hospital
+Quality
+Measures
+
+Your
+Hospital's
+Performance
+
+Your
+Hospital's
+Number of
+Eligible Medicare
+Discharges
+
+Your Hospital's IQI
+Rate (Lower Limit, Upper
+Limit of 95% Confidence
+Interval)
+
+U.S.
+National
+Rate
+
+Number of
+Hospitals...
+
+Better than
+U.S.
+National
+Rate /
+Value
+
+No
+Different
+than U.S.
+National
+Rate / Value
+
+Worse
+than U.S.
+National
+Rate / Value
+
+Number
+of Cases
+Too
+Small*
+
+Individual Inpatient Quality Indicators (IQIs)
+
+IQI-11
+
+IQI-19
+
+Abdominal aortic
+aneurysm (AAA)
+repair mortality
+
+Hip fracture
+mortality rate
+
+N/A
+N/A
+
+N/A
+
+N/A
+
+N/A
+N/A
+
+N/A
+
+N/A
+
+in the Nation
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+in the State
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+in the Nation
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+in the State
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+in the Nation
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+in the State
+that Performed ...
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Composite Inpatient Quality Indicator (IQI)
+
+IQI-91
+
+Mortality for
+selected medical
+conditions
+(composite)
+
+N/A
+N/A
+
+N/A
+
+N/A
+
+Page 78 of 86
+
+ Report Run Date: 09/17/2012
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for Hospital Acquired Conditions Measures: Third Quarter 2009 through Second Quarter 2011 Discharges
+
+Page: 10 of 11
+
+140124-JOHN H STROGER JR HOSPITAL
+Hospital Acquired Condition
+Hospital Quality
+Measures
+
+Your Hospital's
+Performance Rate
+(per 1,000 discharges)
+
+Your Hospital's Number of
+Eligible Discharges
+(Denominator)
+
+U.S. National Rate
+(per 1,000 discharges)
+
+Hospital Acquired Condition (HAC)
+Foreign object retained after surgery
+
+0.000
+
+4729
+
+0.028
+
+Air embolism
+
+0.000
+
+4729
+
+0.003
+
+Blood incompatibility
+
+0.000
+
+4729
+
+0.001
+
+Pressure ulcer stages III and IV
+
+0.211
+
+4729
+
+0.136
+
+Falls and trauma
+
+0.423
+
+4729
+
+0.527
+
+Vascular catheter-associated infection
+
+1.269
+
+4729
+
+0.372
+
+Catheter-associated UTI
+
+0.211
+
+4729
+
+0.358
+
+Manifestations of poor glycemic control
+
+0.423
+
+4729
+
+0.058
+
+Page 79 of 86
+
+ Report Run Date: 09/17/2012
+
+Hospital Compare Preview Report: Improving Care Through Information – Inpatient
+Hospital Performance
+Reporting Period for Healthcare Associated Infection Measures: Second Quarter 2011 through First Quarter 2012 Discharges
+
+Page: 11 of 11
+
+140124-JOHN H STROGER JR HOSPITAL
+Healthcare Associated Infection Measures
+Hospital Quality
+Measures
+
+Your Hospital's
+Reported Number of
+Infections
+
+Device
+Days / Procedures
+
+Your Hospital's
+Predicted Number
+of Infections
+
+Ratio of Reported
+to Predicted
+Infections (SIR)
+
+Your Hospital's Performance
+
+State
+Standardized
+Infection Ratio
+
+U.S. National
+Standardized
+Infection Ratio
+
+Confidence
+Interval
+
+0.632
+
+0.556
+
+0.415 -- 0.982
+
+1.110
+
+1.037
+
+0.113 -- 1.595
+
+Central Line Associated Bloodstream Infection (CLABSI)
+Central Line
+Associated
+Bloodstream
+Infection
+
+23
+
+13884
+
+35.133
+
+0.655
+
+Better than the U.S. National
+Average
+
+Catheter Associated Urinary Tract Infection (CAUTI)
+Catheter
+Associated Urinary
+Tract Infections
+
+3
+
+2179
+
+5.498
+
+0.546
+
+Better than the U.S. National
+Average
+
+Surgical Site Infection (SSI)
+SSI-Colon Surgery
+
+SSI-Abdominal
+Hysterectomy
+
+0
+
+48
+
+1.743
+
+0.000
+
+Better than the U.S. National
+Average
+
+0.603
+
+0.838
+
+N/A
+
+0
+
+48
+
+0.504
+
+N/A(5)
+
+N/A
+
+1.110
+
+0.977
+
+N/A
+
+Footnote Legend
+3. Rate reflects fewer than maximum possible quarters of data.
+5. No data are available for publication from the hospital for this measure.
+14. No data are available for publication from the hospital for this measure because there were zero central line days.
+15. No data are available for publication from the hospital for this measure because this hospital does not have ICU locations for one or more quarters.
+
+Page 80 of 86
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+October 16, 2012
+
+ATTACHMENT #4
+
+Page 81 of 86
+
+  
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff Appointmentiseappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+INITIAL APPOINTMENT APPLICATIONS
+
+Azmat, Awais, MD Family Medicine/ACHN Active Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Carballo, Mauricio D., MD Medicine/Hospital Medicine Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Eahrman, Robert, MD Emergency Medicine Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Golzar, Yasmeen A., MD Medicine/Adult Cardiology Active Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Gomez Valencia, Javier, MD Medicine/Hospital Medicine Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Hodowanec, Aimee C., MD Medicine/Infectious Disease Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Masinter, Lisa, MD Obstetrics/Gynecology Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Mohiuddin, Reshma, DO Medicine/ACHN Active Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Napoles, MD Surgery/General Surgery Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Pierko, MD Medicine/Hospital Medicine Voluntary Physician
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+INITIAL PRIVILEGES FOR NON MEDICAL STAFF
+
+Knudson, Charles R. PA-C Emergency Medicine I Physician Assistant
+With Kysia, Rashid Fuad, MD
+Alternate Moskoff, Jordan, 8., MD
+
+Effective: October 16, 2012 thru October 15, 2014
+
+Mores, Ashley M., Emergency Medicine Physician Assist
+
+With Moskoff, Jordan, 8., MD 
+
+Alternate Kysia, Rashid Fuad, MD APPROVED
+
+Effective: October 16, 2012 thru AND mum-r sin-m HMITTEE
+ON OCTOBER 16, 2012
+
+Weinstein, Ludmila, OD Correctional Health Services/Optometry Voluntary Optometrist
+
+Appointment Effective: October 16, 2012 thru October 15, 2014
+
+Item yum) October 16, 2012
+
+Quality and Patient Safety Committee Meeting Page 1 Of 5 REVISED
+
+Page 82 of 86
+
+ 
+
+John H. Stroger, Jr. Hospital of Cook Coung (continued!
+EAPPOINTMENT APPLICATIONS
+
+ 
+
+Degartment of Correctional Health Services
+
+Kelner, David Dimitri, MD Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+McNeaI Jenea Nicole, MD Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Patrianakos, Thomas Dimitrios, MD Ophthalmology Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Susnjar, Mirella, MD Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Thomas, Lynelle, MD Voluntary Physician
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+
+Department of Emergency Medicine
+
+Chai, Austen-Kum, MD Emergency Medicine Active Physician
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+Hedayati, Tarlan, MD Emergency Medicine Active Physician
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+
+Department of Family Medicine
+
+Dolan, Margaret, MD Family Medicine Voluntary Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014
+
+Department of Medicine
+
+Block, Joel A., MD Rheumatology Voluntary Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014
+
+Case, John P., MD Rheumatology Active Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014
+
+Clarke, Peter M., MD General Medicine Active Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014
+
+Conover, Craig 8., MD Infectious Disease Voluntary Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014 (:0an
+
+MD I ?Egg 
+Reappomtment Effective: October 21, 2012 thru October 16, 2012
+Irons, Sharon A., MD General Medicine Active Physician
+Reappointment Effective: October 21, 2012 thru October 20, 2014
+
+Item October 16, 2012
+
+Quality and Patient Safety Committee Meeting Page Of 5 REVISED
+
+age 83 of 86
+
+John H. Stroger, Jr. Hospital of Cook County
+
+Reappointment Applications
+
+Department of Medicine (continued!
+
+Polyakova, Elina S., MD, MPH
+Reappointment Effective:
+
+Rogers, Susan F., MD
+Reappointment Effective:
+
+Smith, Pamela D., MD
+Reappointment Effective:
+
+Madment of Pediatrics
+
+Barrios, Felipe, MD
+Reappointment Effective:
+
+Cattamanchi, Geetha R., MD
+Reappointment Effective:
+
+Rak, Melanie, MD
+Reappointment Effective:
+
+Siffermann, Emily, MD
+Reappointment Effective:
+
+Department of Radiology
+
+Apushkin, Michael, MD
+Reappointment Effective:
+
+Tan, Walter Seng, MD
+Reappointment Effective:
+
+Department of Surgery
+
+Becker, Norbert, MD
+Reappointment Effective:
+
+Dodson, Stanton, MD
+Reappointment Effective:
+
+Gonzales, Mark, MD
+Reappointment Effective:
+
+Meyers, Roberts, MD
+Reappointment Effective:
+
+Prinz, Richard, MD
+Reappointment Effective:
+
+Richter, Harry, MD
+Reappointment Effective:
+
+Item October I6, 2012
+
+Quality and Patient Safety Committee Meeting
+
+Hospital Medicine
+
+ 
+
+Active Physician
+
+November 16, 2012 thru November 15, 2014
+
+Hospital Medicine
+
+Active Physician
+
+November 19, 2012 thru November 18, 2014
+
+General Medicine
+
+Active Physician
+
+November 13, 2012 thru November 12, 2014
+
+Neonatology
+October 21, 2012 thru October 20, 2014
+
+Neonatology
+October 21, 2012 thru October 20, 2014
+
+Physical Med Rehabilitation
+October 21, 2012 thru October 20, 2014
+
+Child Protective Services
+October 21, 2012 thru October 20, 2014
+
+Radiology
+
+October 18, 2012 thru October 17, 2014
+
+Radiology
+
+November 16, 2012 thru November 15, 2014
+
+Ophthalmology
+October 16, 2012 thru October 15, 2014
+
+General Surgery
+October 16, 2012 thru October 15, 2014
+
+Orthopaedics
+October 16, 2012 thru October 15, 2014
+
+Otolaryngology
+
+Service Physician
+
+Service Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Consulting Physician
+
+Voluntary Physician
+
+Active Physician
+
+Honorary Physician
+
+October 19, 2012 thru October 18, 2014 
+APPROVED
+
+General
+October 16, 2012 
+
+General
+October 19, 2012 thru October 18, 2014
+
+Page 3 of 5
+Page 84 of 86
+
+ALITY AND 
+1355333 16, 2012
+
+Active Physician
+
+REVISED
+
+John H. Stroger. Jr. Hcggital of Cook County
+Reggpointment Agglications (continued!
+
+Degartment of Trauma
+
+ 
+
+Wiley, Dorion E., MD Trauma
+Reappoinment Effective: October 18, 2012 thru October 17, 2014
+Starr, Frederic L., MD Trauma
+Reappoinment Effective: October 19, 2012 thru October 18,2014
+
+Renewal of Privileges for Non-Medical Staff:
+
+ 
+
+Active Physician
+
+Active Physician
+
+Gallagher, Maureen A., CNP Medicine/Infectious Disease Nurse Practitioner
+With Badri, Sheila M., MD
+
+Effective: November 25, 2012 thru November 24, 2014
+
+Haerr, Pamela J., CNP Pediatrics/Feds Medicine Nurse Practitioner
+With Boyer, Kenneth M., MD
+
+Effective: December 19, 2012 thru December 18, 2014
+
+Lange, Jane A., CNP Surgery/Urology Nurse Practitioner 
+With Hollowell, Courtney M., MD
+
+Effective: November 25, 2012 thru November 24, 2014
+
+MacArthur, Emily R., CRNA Anesthesiology Nurse Anesthetist
+Effective: November 25, 2012 thru November 24, 2014
+
+Wolen, Deborah L., CNP Medicine/Infectious Disease Nurse Practitioner
+
+With Barker, David E., MD
+
+Effective: December 19, 2012 thru December 18, 2014
+
+Medical Staff Additional Clinical Privileges
+
+Sethi, Puja, MD Active Physician outpatient Pediatrics and Prenatal Care privileges in Family Medicine
+
+CCHHI
+
+APPROVED
+
+mr THE QUALITY AND PATIENT SAFETY Co
+on OCTOBER 16, 2012
+
+Item October 16, 2012
+
+Quality and Patient Safety Committee Meeting Page 4 of 5
+Page 85 of 86
+
+REVISED
+
+ 
+
+ 
+
+Provident Hospital of Cook County
+
+Medical Staff Appointmentiseappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+APPOINTMENT APPLTICATIONS
+
+Strauss, Ronald, MD Clinical Labs/Pathology Af?liate Physician
+Appointment Effective: October 16, 2012 thru September 20, 2013
+
+Warrior, Lakshmi, MD Internal Medicine/Neurology Af?liate Physician
+Appointment Effective: October 16, 2012 thru August 20, 2014
+
+APPQCATIONS
+
+Madment of Anesthesiology
+
+Hosseinian, Mohammad, MD Anesthesiology Active Physician
+Reappointment Effective: November 25, 2012 thru October 19, 2014
+Johnson, Kimberly, MD Anesthesiology Active Physician
+Reappointment Effective: November 30, 2012 thru October 19, 2014
+Kirby, Marlon, MD Anesthesiology Active Physician
+Reappointment Effective: November 30, 2012 thru October 19, 2014
+Krause, Mark, MD Anesthesiology Active Physician
+Reappointment Effective: November 29, 2012 thru October 21, 2013
+
+Department of Emergency Medicine
+
+ 
+
+Simeakis, Sophie, DO Emergency Active Physician
+Reappointment Effective: October 16, 2012 thru October 15, 2013
+
+I I .
+
+Dixie Dora MD Family Medicine Active Physician
+Reappointment Effective: October 17, 2012 thru October 16. 2014
+
+ 
+
+Department of Internal Medicine
+
+Thomas, Bonnie W., MD Internal Medicine Active Physician
+Reappointment Effective: October 16, 2012 thru October 15, 2014
+
+Non-Medical Staff Renewal of Privileges:
+
+Shah, Chandrika H., PA-C Surgery General Surgery Physician Assista
+With Crawford, Clifford S., MD 
+
+Alternate Ansari, Shahid A., MD APPROVED
+
+With Failma, Rogelio G., MD Surgery Urolo
+
+Alternate Canning, John R, MD a; THE QUALITY AND 5:33? COM
+Effective: October 17, 2012 thru Octob?fnl m5 
+
+item October 16, 2012
+
+Quality and Patient Safety Committee Meeting Page 5 of 5 REVISED
+
+Page 86 of 86
+

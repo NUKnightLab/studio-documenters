@@ -1,0 +1,1108 @@
+RESOLUTIONS ADOPTED BY THE
+CHICAGO INFRASTRUCTURE TRUST
+BOARD OF DIRECTORS
+ON JUNE 6, 2017
+
+MEETING MINUTES
+RESOLVED, that the minutes of the meeting of the Board of Directors of
+the Chicago Infrastructure Trust (the “CIT”) held on February 7, 2017, in the
+form previously provided to the members of the Board of Directors, be and
+hereby are approved.
+
+2016 ANNUAL AUDIT
+RESOLVED, that the audited financial statements of the CIT as of and for
+the year ended December 31, 2016, together with the report thereon provided by
+Prado & Renteria, P.C., in the form previously provided to the members of the
+Board of Directors, be and hereby are accepted and approved.
+
+EMPLOYEE HANDBOOK
+WHEREAS, the Board of Directors previously authorized and approved
+an employee manual applicable to the staff of the CIT; and
+WHEREAS, the Board of Directors has determined that it is appropriate to
+update and revise the previously approved employee manual (as updated and
+revised, the “Employee Handbook”);
+NOW, THEREFORE, BE IT RESOLVED that the Employee Handbook,
+in the form previously provided to the members of the Board of Directors, be and
+hereby is accepted and approved.
+
+ GENERAL
+RESOLVED, that in order to fully carry out the intent and effectuate the
+purposes of the foregoing resolutions, any of the CIT’s officers be, and each
+hereby is, authorized to take all such further actions, and to execute and deliver all
+such further agreements, instruments, documents or certificates in the name and
+on behalf of the CIT, and under its corporate seal or otherwise, and to pay all such
+fees and expenses, which shall in their judgment be necessary, proper or advisable
+and to perform all of the obligations of the CIT in connection with the foregoing
+resolutions.
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+2
+
+*
+
+*
+
+*
+
+ EXHIBIT A
+Financial Statements and Independent Auditors’ Report
+For the Year Ended December 31, 2016
+(see attached)
+
+3
+
+ CHICAGO INFRASTRUCTURE TRUST
+Financial Statements and
+Independent Auditors’ Report
+For the Year Ended December 31, 2016
+
+ TABLE OF CONTENTS
+
+Independent Auditors’ Report ......................................................................... 1-2
+Financial Statements
+Statement of Financial Position ...........................................................................3
+Statement of Activities.........................................................................................4
+Statement of Cash Flows .....................................................................................5
+Notes to Financial Statements........................................................................ 6-14
+
+ INDEPENDENT AUDITORS’ REPORT
+
+To the Board of Directors of
+Chicago Infrastructure Trust
+Chicago, Illinois
+
+We have audited the accompanying financial statements of Chicago Infrastructure Trust (the
+“CIT”), a nonprofit organization, which comprise the statement of financial position as of
+December 31, 2016 and the related statements of activities and cash flows for the year then ended
+and the related notes to the financial statements.
+Management’s Responsibility for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements
+in accordance with accounting principles generally accepted in the United States of America; this
+includes the design, implementation and maintenance of internal control relevant to the preparation
+and fair presentation of financial statements that are free from material misstatement, whether due
+to fraud or error.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on these financial statements based on our audit. We
+conducted our audit in accordance with auditing standards generally accepted in the United States
+of America. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and
+disclosures in the financial statements. The procedures selected depend on the auditor’s judgment,
+including the assessment of the risks of material misstatement of the financial statements, whether
+due to fraud or error. In making those risk assessments, the auditor considers internal control
+relevant to the entity’s preparation and fair presentation of the financial statements in order to
+design audit procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of the entity’s internal control. Accordingly, we express
+no such opinion. An audit also includes evaluating the appropriateness of accounting policies used
+and the reasonableness of significant accounting estimates made by management, as well as
+evaluating the overall presentation of the financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis
+for our audit opinion.
+
+1
+
+ Opinion
+In our opinion, the financial statements referred to above present fairly, in all material respects,
+the financial position of Chicago Infrastructure Trust as of December 31, 2016 and the changes
+in its net assets and its cash flows for the year then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Emphasis of Matter
+As discussed in Notes 1 and 12 to the financial statements, the 2015 financial statements have been
+restated due to omission, in the original 2015 financial statements, of the assets, liabilities and
+operations of the Retrofit One project. Our opinion is not modified with respect to that matter.
+Report on Summarized Comparative Information
+We have previously audited the CIT’s 2015 financial statements, and we expressed an unmodified
+audit opinion on those financial statements in our report dated October 18, 2016. In our opinion,
+the summarized comparative information presented herein as of and for the year ended December
+31, 2015, as restated, is consistent, in all material respects, with the audited financial statements
+from which it has been derived.
+
+Chicago, Illinois
+June 6, 2017
+
+2
+
+ CHICAGO INFRASTRUCTURE TRUST
+STATEMENT OF FINANCIAL POSITION
+As of December 31, 2016
+(with summarized comparative totals for 2015)
+
+2016
+ASSETS
+Current Assets
+Cash and cash equivalents
+Restricted Cash for Energy Conservation
+Measures (ECM) debt
+Investments
+Grant receivable
+Prepaid expenses
+Total Current Assets
+Fixed Assets
+Furniture and fixtures
+Machinery and equipment
+Software
+ECM
+Less Accumulated depreciation and amortization
+Construction in Progress - ECM
+Fixed assets, net
+Other Assets
+Security Deposit
+TOTAL ASSETS
+
+Restated
+2015
+
+$815,537
+
+$467,050
+
+538,639
+325,000
+29,707
+1,708,883
+
+773,507
+865,973
+26,007
+2,132,537
+
+12,822
+48,642
+68,000
+13,785,200
+13,914,664
+(980,021)
+12,934,643
+
+12,822
+48,642
+68,000
+129,464
+(55,687)
+12,888,186
+12,961,963
+
+2,558
+$14,646,084
+
+2,558
+$15,097,058
+
+LIABILITIES AND NET ASSETS
+Current Liabilities
+Accounts payable
+Accrued expenses
+Accrued interest
+Deferred revenue
+Capital lease obligations- short-term portion
+ECM Notes and bonds payable- short-term portion
+Total Current Liabilities
+
+$553,185
+11,322
+303,636
+28,463
+13,035
+721,180
+1,630,821
+
+$170,429
+61,372
+320,662
+739,285
+15,876
+687,922
+1,995,546
+
+Long-Term Liabilities
+Capital lease obligations- long-term portion
+ECM Notes and bonds payable- long-term portion
+Due to City of Chicago
+TOTAL LIABILITIES
+
+11,178,801
+49,183
+12,858,805
+
+13,230
+11,869,931
+49,183
+13,927,890
+
+1,787,279
+1,787,279
+$14,646,084
+
+1,016,065
+153,103
+1,169,168
+$15,097,058
+
+Net Assets
+Unrestricted
+Temporarily restricted
+Total Net Assets
+TOTAL LIABILITIES AND NET ASSETS
+
+See Independent Auditors' Report and Notes to Financial Statements
+3
+
+ CHICAGO INFRASTRUCTURE TRUST
+STATEMENT OF ACTIVITIES
+For the Year Ended December 31, 2016
+(with summarized comparative totals for 2015)
+
+Unrestricted
+REVENUE
+Grant
+Service fees
+Retrofit One (ECM) energy saving fees
+Interest and dividends
+Net assets released from restrictions
+
+Temporarily
+Restricted
+
+2016
+
+Restated
+2015
+
+$1,300,000
+71,537
+1,592,562
+2,242
+153,103
+
+(153,103)
+
+$1,300,000
+71,537
+1,592,562
+2,242
+-
+
+$1,313,395
+100,000
+1,154,985
+864
+-
+
+TOTAL REVENUE
+
+3,119,444
+
+(153,103)
+
+2,966,341
+
+2,569,244
+
+EXPENSES
+Program Services
+Project and Program Initiatives
+Salaries, wages and benefits
+Professional fees: consultants
+Computer and software
+Interest expense
+Depreciation
+Total Program Services
+
+418,273
+72,282
+32,000
+645,982
+902,158
+2,070,695
+
+-
+
+418,273
+72,282
+32,000
+645,982
+902,158
+2,070,695
+
+525,952
+184,125
+32,000
+30,050
+22,667
+794,794
+
+105,354
+41,338
+15,700
+3,965
+6,862
+2,627
+2,773
+5,089
+2,173
+41,893
+27,586
+22,175
+277,535
+
+-
+
+105,354
+41,338
+15,700
+3,965
+6,862
+2,627
+2,773
+5,089
+2,173
+41,893
+27,586
+22,175
+277,535
+
+175,317
+150,353
+94,413
+14,640
+24,780
+8,528
+13,872
+1,262
+2,355
+10,278
+9,340
+35,880
+36,665
+18,778
+596,461
+
+TOTAL EXPENSES
+
+2,348,230
+
+-
+
+2,348,230
+
+1,391,255
+
+Change in Net Assets
+
+771,214
+
+618,111
+
+1,177,989
+
+Support Activities
+Salaries, wages and benefits
+Professional fees: consultants
+Professional fees: audit and accounting
+Professional fees: IT support
+Professional fees: website design
+General and administrative
+Office supplies and expenses
+Committee expenses
+Computer and software
+Telephone and internet
+Travel and meals
+Occupancy
+Insurance
+Depreciation and amortization
+Total Supporting Activities
+
+NET ASSETS
+Beginning of Year
+Prior period adjustment (Note 12)
+Beginning of Year, as restated
+
+1,016,065
+1,016,065
+
+End of the Year
+
+$1,787,279
+
+(153,103)
+
+153,103
+153,103
+-
+
+See Independent Auditors' Report and Notes to Financial Statements
+4
+
+1,169,168
+1,169,168
+$1,787,279
+
+44,712
+(53,533)
+(8,821)
+$1,169,168
+
+ CHICAGO INFRASTRUCTURE TRUST
+STATEMENT OF CASH FLOWS
+For the Year Ended December 31, 2016
+(with summarized comparative totals for 2015)
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Changes in net assets
+
+2016
+
+Restated
+2015
+
+$618,111
+
+$1,177,989
+
+924,333
+30,050
+
+41,445
+30,050
+
+(325,000)
+(3,700)
+
+213,035
+(7,340)
+
+382,757
+(50,050)
+(17,026)
+(710,822)
+
+(4,359)
+52,900
+(926)
+320,662
+739,285
+
+Adjustments to reconcile changes in net assets
+to net cash provided by (used in) operating activities:
+Depreciation and amortization
+Amortization of debt issuance cost
+(Increase) decrease in assets:
+Grant receivable
+Prepaid expenses
+Increase (decrease) in liabilities:
+Bank overdraft
+Accounts payable
+Accrued expenses
+Accrued interest
+Deferred revenue
+NET CASH PROVIDED BY OPERATING ACTIVITIES
+
+848,653
+
+2,562,741
+
+(897,014)
+865,973
+234,868
+
+(9,759,539)
+8,974,832
+(773,507)
+
+203,827
+
+(1,558,214)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Payments towards construction of ECM
+Sales of investments
+Restricted cash - ECM
+NET CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES
+CASH FLOWS FROM FINANCING ACTIVITIES
+Payment of bond notes payable
+Payment of capital lease obligation
+NET CASH (USED IN) FINANCING ACTIVITIES
+NET INCREASE IN CASH AND CASH EQUIVALENTS
+CASH AND CASH EQUIVALENTS, Beginning of Year
+CASH AND CASH EQUIVALENTS, End of Year
+
+Supplementary information:
+Interest paid during the year:
+See Independent Auditors' Report and Notes to Financial Statements
+5
+
+(687,922)
+(16,071)
+
+(525,111)
+(13,204)
+
+(703,993)
+
+(538,315)
+
+348,487
+
+466,212
+
+467,050
+
+838
+
+$815,537
+
+$467,050
+
+$632,958
+
+$171,513
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 1 – NATURE OF ACTIVITIES
+Organization: The Chicago Infrastructure Trust (the "CIT") was incorporated as a non-profit
+organization on April 24, 2012 under executive order of the Mayor and City Council resolution. The
+CIT operates exclusively for civic and charitable purposes in the Chicago Metropolitan area and is a
+tax exempt entity pursuant to Section 501(c)(3) of the Internal Revenue Code. The CIT assists the
+people of the City of Chicago, the City government and its sister agencies in providing alternative
+financing and project delivery options for transformative infrastructure projects.
+The CIT was established in 2012 under the support of the City of Chicago, who agreed to supply the
+funding to commence operations. For the years ended December 31, 2016 and 2015 grants from the
+City of Chicago were the CIT’s primary source of revenues in exchange for services rendered for the
+City of Chicago.
+In 2014, the CIT entered into agreements with multiple parties to facilitate the Retrofit One project to
+provide Energy efficiency Conservation Measures (ECM) in more than 60 municipal buildings. The
+City of Chicago (City), per the terms of an Energy Services Agreement (ESA) between the City and
+the CIT, agreed to make payments to the CIT equivalent to the actualized utility cost savings
+achieved by the project. Further, the energy savings of the project are guaranteed by the Contractors
+responsible for the installation of the Energy Conservation Measures, as evidenced by Guaranteed
+Energy Performance Contracts (GEPCs) executed by the contractors and the CIT. The Retrofit One
+project was financed through a loan and security agreement, as detailed in Note 7. The Retrofit One
+financing is a special, limited obligation of the CIT, secured only by project specific revenues and
+equipment with debt service obligations sized to the project’s guaranteed energy cost savings.
+Per the agreements, the CIT will retain title to all the Energy Conservation Measures through the
+term of the loan and security agreement.
+In the originally issued financial statements for 2014 and 2015 CIT did not include the assets,
+liabilities, and operations of the Retrofit One project. In 2016, it was determined that such operations
+are appropriately a part of the CIT’s financial statements. Accordingly, the 2015 financial statements
+have been restated to include such operations. See note 12 for the effect of such restatement.
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting: The financial statements of the CIT have been prepared on the accrual basis of
+accounting and, accordingly, reflect all significant receivables, payables and other liabilities.
+
+6
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Continued
+Basis of Presentation: The CIT presents its financial statements in accordance with the accounting
+guidance for nonprofit entities. Under this guidance, the CIT is required to report information
+regarding its financial position and activities according to three classes of net assets: unrestricted net
+assets, temporarily restricted net assets, and permanently restricted net assets. Furthermore,
+information is required to segregate program service expenses from support and fundraising
+expenses.
+Use of Estimates: The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those estimates.
+Cash and Cash Equivalents: The CIT considers cash on deposit at bank(s) to be cash equivalents.
+Investments: Investments are presented in the financial statements at fair value in accordance with
+accounting principles generally accepted in the United States of America. Investments in securities
+traded on a national securities exchange, or reported on the NASDAQ national market, are stated at
+the last reported sales price on the day of valuation; other securities traded in the over the counter
+market and listed securities for which no sale was reported on that date are stated at the last quoted
+bid price. Realized and unrealized gains and losses resulting from changes in the fair value of
+securities held are reflected in the statement of activities, in the year of change.
+The CIT may invest in various investments. Such investments are exposed to various risks, such as
+interest rate, market, and credit risks. Due to the level of risk associated with certain investments, it
+is at least reasonably possible that changes in the values of investments will occur in the near term
+and that such changes could materially affect the amounts reported in the statement of activities.
+The CIT had no investments at December 31, 2016.
+Fair Value of Financial Instruments: FASB Guidance, Fair Value Measurement Overall Disclosure,
+requires the CIT to disclose estimated fair values for its financial instruments. Fair value estimates,
+methods, and assumptions are set forth below for the CIT’s financial instruments.
+The carrying value of cash and cash equivalents, receivables, other assets approximate fair value due
+to the short maturity of these instruments.
+
+7
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Continued
+Revenue Recognition: Grants received are recorded as unrestricted, temporarily restricted or
+permanently restricted support, depending on the existence and/or nature of any donor restrictions.
+Conditional promises to give are not recognized until they become unconditional: that is, when the
+conditions on which they depend are substantially met. Service revenues are recognized at project
+completion.
+Grants Receivable: Receivables are reported net of an allowance for doubtful accounts, if any.
+Management's estimate of the allowance is based on historical collection experience and a review of
+the current status of grants receivable. It is reasonably possible that management's estimate of the
+allowance will change. There was no allowance against grants receivable at December 31, 2016.
+Capitalization and depreciation: Fixed assets are recorded at cost. Improvements are capitalized,
+while expenditures for maintenance and repairs are expensed. The assets are depreciated over their
+estimated service lives. The estimated service lives of the assets for depreciation purposes may be
+different than their actual economic useful lives.
+
+Furniture and fixtures
+Machinery and equipment
+Energy Conservation Measures (ECM)
+
+Estimated
+Useful Life
+5 years
+3 years
+14 years
+
+Method
+Straight-line
+Straight-line
+Straight-line
+
+Interest during the ECM construction period was capitalized. For the year ended December 31,
+2015, interest in the amount of $1,119,659 was capitalized.
+Impairment of long-lived assets: The CIT reviews its property for impairment whenever events or
+changes in circumstances indicate that the carrying value of an asset may not be recoverable. If the
+fair value is less than the carrying amount of the asset, an impairment loss is recognized for the
+difference. No impairment losses were recognized during 2016 and 2015.
+Prepaid Expenses: Advance payments for expenses related to subscriptions and insurance policies
+are classified as prepaid expenses.
+Net Assets: The CIT classifies its net assets, and support based on the existence or absence of donorimposed restrictions as follows:
+Unrestricted net assets: Net assets that are not subject to donor-imposed stipulations.
+
+8
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Continued
+Temporarily restricted net assets: Net assets represent resources for which use has been
+temporarily restricted by the donor as to its usage or by the passage of time. When a donor
+restriction has been satisfied, temporarily restricted net assets are reclassified to unrestricted
+net assets.
+Permanently restricted net assets: Net assets represent resources that are limited by donorimposed stipulations that neither expire by passage of time nor can be fulfilled or otherwise
+removed by actions of the CIT. The CIT had no permanently restricted net assets during the
+years ended December 31, 2016 and 2015.
+Leases: Lease expenses are recorded based on the payments required by the lease agreement.
+Accounting principles generally accepted in the United States of America require that the lease
+payments be straight-lined over the life of the lease; however, the effect of using actual lease
+payments is not materially different from the results that would have been obtained under the
+straight-line method.
+Income Taxes: The CIT has applied for and received a determination letter from the Internal
+Revenue Service ("IRS") to be treated as a tax exempt entity pursuant to Section 501(c)(3) of the
+Internal Revenue Code and did not have any unrelated business income for the years ended
+December 31, 2016 and 2015. Due to its tax exempt status, the CIT is not subject to income taxes,
+but is required to file and does file tax returns with the IRS and other taxing authorities. Accordingly,
+these financial statements do not reflect a provision for income taxes and the CIT has no other tax
+positions which must be considered for disclosure. Income tax returns filed by the CIT are subject to
+examination by the Internal Revenue Service for a period of three years. While no tax returns are
+currently being examined by the Internal Revenue Service, tax years since 2013 remain open.
+Comparative Financial Information: The financial statements include prior-year summarized
+comparative information. Such information does not include sufficient data to constitute a
+presentation in conformity with generally accepted accounting principles. Accordingly, such
+information should be read in conjunction with the CIT's financial statements for the year ended
+December 31, 2015, as restated, from which the summarized information was derived.
+Functional Allocation of Expenses: The costs of providing various programs and other activities
+have been summarized on a functional basis in the Statement of Activities. Accordingly, certain
+costs have been allocated among the programs benefited, as well as administrative functions.
+Debt Issuance Costs, Adoption of ASU 2015 03: In 2016, the CIT retroactively adopted the
+requirements in FASB ASC 835-30 to present debt issuance costs as a reduction of the carrying
+amount of the related debt rather than as an asset. Amortization of the debt issuance costs is reported
+as interest expense in the statement of activities.
+9
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Continued
+Reclassifications: Certain amounts in the December 31, 2015 Financial Statements have been
+reclassified to conform to the current presentation.
+NOTE 3 – CASH DEPOSITS
+The CIT maintains its cash and cash equivalents in bank deposits and is insured within limits of the
+Federal Deposit Insurance Corporation. At certain times during the year, cash balances exceed the
+insured amounts. At December 31, 2016 and 2015, the uninsured bank balance was $872,800 and
+$740,607, respectively. The CIT has not experienced any losses in such accounts. The CIT’s
+management believes it is not exposed to any significant credit risk on cash and cash equivalents.
+NOTE 4 – INVESTMENTS
+Investments consist of Prime Money Market Funds and are reported at fair value as noted in Note 5.
+The investment funds are required to be maintained in separate accounts and restricted for the
+construction of assets outlined in an agreement dated April 11, 2014. See Note 1 for additional
+information.
+NOTE 5 – FAIR VALUE OF FINANCIAL INSTRUMENTS
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability
+in an orderly transaction between market participants at the measurement date and sets out a fair
+value hierarchy. The fair value hierarchy gives the highest priority to quoted prices in active markets
+for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3).
+Inputs are broadly defined as assumptions market participants would use in pricing an asset or
+liability. The three levels of the fair value hierarchy are described below:
+Level 1: Valuations for assets and liabilities traded in active exchange markets, such as the
+New York Stock Exchange. Level 1 also includes U.S. Treasury and federal agency securities
+and federal agency mortgage backed securities, which are traded by dealers or brokers in
+active markets. Valuations are obtained from readily available pricing sources for market
+transactions involving identical assets or liabilities.
+Level 2: Valuations for assets and liabilities traded in less active dealer or broker markets.
+Valuations are obtained from third party pricing services for identical or similar assets or
+liabilities.
+
+10
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 5 – FAIR VALUE OF FINANCIAL INSTRUMENTS - Continued
+Level 3: Valuations for assets and liabilities that are derived from other valuation
+methodologies, including options pricing models, discounted cash flow models and similar
+techniques, and not based on market exchange, dealer, or broker traded transactions. Level 3
+valuations incorporate certain assumptions and projections in determining the fair value
+assigned to such assets or liabilities.
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value
+hierarchy. In such cases, an investment’s level within the fair value hierarchy is based on the lowest
+level of input that is significant to the fair value measurement. The Organization’s assessment of the
+significance of a particular input to the fair measurement in its entirety requires judgment, and
+considers factors specific to the investment.
+The CIT assesses the levels of the investments at each measurement date, and transfers between
+levels are recognized on the actual date of the event or change in circumstances that caused the
+transfer in accordance with the CIT’s accounting policy regarding the recognition of transfers
+between levels of the fair value hierarchy. For the years ended December 31, 2016 and 2015, there
+were no such transfers.
+The following table presents the CIT’s investments accounted for at fair value as of December 31,
+2015 using the fair value hierarchy:
+
+Prime Money Market Fund
+
+Level 1
+$ 865,973
+
+Fair Value Measurement
+Level 2
+Level 3
+$
+$
+-
+
+Total
+$ 865,973
+
+The CIT had no investments at December 31, 2016.
+NOTE 6 – LEASE COMMITMENTS
+Facilities: The CIT entered into a three-year operating lease beginning August 1, 2014 and ending
+July 31, 2017, for office space at 35 East Wacker Drive, Suite 1450, Chicago, Illinois in the amount
+of $2,558 per month plus certain occupancy costs, which escalates annually on August 1. Rent
+expenses for the years ended December 31, 2016 and 2015 totaled $40,213 and $32,661,
+respectively.
+Equipment: The CIT also leases office equipment under one operating lease for total annual lease
+payments of $6,624 and one capital lease, both with initial lease terms in excess of one year.
+
+11
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 6 – LEASE COMMITMENTS - Continued
+The operating lease expense for office equipment for the years ended December 31, 2016 and 2015
+totaled $6,187 and $6,624, respectively.
+At December 31, 2016 and 2015 capital lease asset balances are as follows:
+Leased office equipment
+Less accumulated amortization
+Leased office equipment, net
+
+2016
+$ 48,642
+(37,833)
+$ 10,809
+
+Amortization expense
+
+$ 16,214
+
+2015
+$ 48,642
+(21,619)
+$ 27,022
+$
+
+16,114
+
+Future minimum lease payments under these commitments are as follows:
+Years Ending
+December 31,
+2017
+2018
+2019
+
+Office Space
+24,790
+$ 24,790
+
+Equipment
+19,659
+6,624
+3,864
+$ 30,147
+
+Total
+44,449
+6,624
+3,864
+$ 54,937
+
+NOTE 7 – ECM NOTES AND BONDS PAYABLE
+The CIT entered into a loan and security agreement dated April 11, 2014 to issue Retrofit One
+Project Revenue Notes, Series 2014. These funds were used to construct and install Energy
+Conservation Measures.
+Notes and bonds payable at December 31, 2016 and 2015 are as follows:
+
+Tax Exempt Revenue Note 2014
+Series A
+Tax Exempt Revenue Note 2014
+Series B
+Tax Exempt Revenue Note 2014
+Series C
+
+Maturity
+
+Interest
+Rate
+
+Principal
+amount
+
+2029
+
+4.95%
+
+$ 6,178,416
+
+$ 184,056
+
+$ 5,994,360
+
+2029
+
+4.95%
+
+2,451,983
+
+184,057
+
+2,267,926
+
+2029
+
+4.95%
+
+3,637,695
+$ 12,268,094
+
+$ 368,113
+
+3,637,695
+$ 11,899,981
+(721,180)
+$ 11,178,801
+
+Less: Current portion
+TOTAL LONG-TERM ECM NOTES AND BONDS PAYABLE
+
+12
+
+Less debt
+issuance costs
+
+2016
+Total
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 7 – ECM NOTES AND BONDS PAYABLE - Continued
+
+Tax Exempt Revenue Note 2014
+Series A
+Tax Exempt Revenue Note 2014
+Series B
+Tax Exempt Revenue Note 2014
+Series C
+
+Maturity
+
+Interest
+Rate
+
+Principal
+amount
+
+Less debt
+issuance costs
+
+2029
+
+4.95%
+
+$ 6,529,637
+
+$ 199,081
+
+$ 6,330,556
+
+2029
+
+4.95%
+
+2,587,456
+
+199,082
+
+2,388,374
+
+2029
+
+4.95%
+
+3,838,923
+$ 12,956,016
+
+$ 398,163
+
+3,838,923
+$ 12,557,853
+(687,922)
+$ 11,869,931
+
+Less: Current portion
+TOTAL LONG-TERM ECM NOTES AND BONDS PAYABLE
+
+2015
+Total
+
+Long term debt and notes payable are collateralized by the Energy Conservation Measures, the
+revenues and moneys and investments held from time to time in the Retrofit One accounts.
+Future minimum principal payments over next five years are as follows:
+Years Ending December 31,
+2017
+2018
+2019
+2020
+2021
+All other years
+TOTAL
+
+$
+
+721,180
+756,097
+792,730
+831,180
+871,528
+8,295,379
+$ 12,268,094
+
+Interest expense, including debt issuance costs, for the years ended December 31, 2016 and 2015
+was $645,982 and $30,050, respectively.
+NOTE 8 – CONCENTRATIONS
+A substantial portion of the CIT's revenue was received from the City of Chicago. Substantial
+revenue is defined as revenue earned from any source that is in excess of 10% of the total revenue of
+the CIT. For the period ended December 31, 2016 and 2015, revenue earned from the City of
+Chicago was 100% and 96%, respectively, of total revenue. Should the City of Chicago discontinue
+funding the CIT, and the CIT not receive other awarded grants, the CIT will require additional
+sources of financing.
+
+13
+
+ CHICAGO INFRASTRUCTURE TRUST
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 2016
+NOTE 9 – GRANTS
+During the year ended December 31, 2015, the CIT was awarded grants from the City of Chicago in
+the amount of $2,585,000 of which $1,300,000 was awarded for the year ending December 31, 2016.
+Grants are subject to grantor audits, which could result in claims against the CIT for disallowed costs
+or noncompliance with grantor restrictions.
+NOTE 10 – TEMPORARILY RESTRICTED NET ASSETS
+Temporarily restricted net assets totaling $0 and $153,103 as of December 31, 2016 and 2015
+respectively, are available for the CIT as defined in the grantor’s agreement.
+NOTE 11 – UNCERTAINTIES
+At December 31, 2016, an amount of approximately $150,000 is included in accounts payable which
+are for fees and expense reimbursement claimed in 2015. As of the date of this report, such claims
+remained pending.
+NOTE 12 – PRIOR PERIOD ADJUSTMENT
+During 2016, the 2015 financial statements have been restated to include transactions for the CIT’s
+Retrofit One project, see Note 1. The effects of this restatement are as follow:
+As Originally
+Reported
+2015
+
+Prior Period
+Adjustment
+
+Restated
+2015
+
+Total Current Assets
+Total Fixed Assets
+Total Assets
+Total Liabilities
+Total Net Assets
+
+$ 474,390
+35,999
+512,947
+327,607
+185,340
+
+$ 1,658,147
+12,925,964
+14,584,111
+13,600,283
+983,828
+
+$ 2,132,537
+12,961,963
+15,097,058
+13,927,890
+1,169,168
+
+Revenue
+Expense
+Change in Net Assets
+
+1,413,395
+1,272,767
+140,628
+
+1,155,849
+118,488
+1,037,361
+
+2,569,244
+1,391,255
+1,177,989
+
+44,712
+
+(53,533)
+
+(8,821)
+
+Net Assets as of January 1, 2015
+NOTE 13 – SUBSEQUENT EVENTS
+
+Management has reviewed and evaluated subsequent events through June 6, 2017, the date the
+financial statements were available to be issued and determined that there were no significant
+subsequent events to be recognized and/or disclosed in these financial statements as required by
+generally accepted accounting principles.
+14
+
+ 

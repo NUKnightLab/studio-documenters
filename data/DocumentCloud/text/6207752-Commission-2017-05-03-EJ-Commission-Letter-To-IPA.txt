@@ -1,0 +1,292 @@
+May 9, 2017
+Anthony Star, Director
+Illinois Power Agency
+Michael A. Bilandic Building, Suite C-504
+160 North LaSalle Street
+Chicago, Illinois 60601
+Re: Recommendations for Definition of Environmental Justice Community Under the Future
+Energy Jobs Act
+Dear Director Star:
+The Future Energy Jobs Act (FEJA) contains provisions that require the Illinois Power
+Agency (IPA) to define “environmental justice community” (EJ community) for the purposes of
+implementing Illinois Solar for All, a program designed to incentivize and increase access to
+solar energy and workforce opportunities in low-income communities across Illinois. Within lowincome communities, FEJA’s goal is that a minimum of 25% of incentives for low-income
+distribution will be allocated to projects located within EJ communities.
+Given the role of the Illinois Commission on Environmental Justice (EJ Commission), to
+advise on environmental justice and related community issues, the purpose of this letter is to
+provide information and suggestions in regard to defining “EJ communities,” as well as provide
+information on existing tools and methods. It should be noted that this letter is not intended to be
+an exhaustive list of all factors that may be appropriate to consider when defining EJ
+community.
+Discussed herein are various methodologies to screen for demographic and
+environmental indicators indicative of EJ communities including Illinois Environmental Protection
+Agency (IEPA)’s current methodology of identifying potential environmental justice communities
+via a demographic analysis and United States Environmental Protection Agency (USEPA)’s
+EJSCREEN mapping and screening tool. The EJ Commission has also identified some
+additional indicators to consider moving forward with an eye toward a subset of those used by
+the State of California as part of CalEnviroScreen 3.01. The EJ Commission looks forward to
+working with the IPA moving forward on this issue of evolving and critical importance.
+Role of the Illinois Commission on Environmental Justice
+The Illinois Commission on Environmental Justice2 serves as an advisory body on
+environmental justice and related community issues. The EJ Commission receives
+administrative staffing from the Illinois Environmental Protection Agency (IEPA) and is
+constituted of members from: affected communities concerned with environmental justice, state
+agencies,3 legislators, a statewide organization representing manufacturers, a statewide
+1
+
+https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30
+http://www.epa.illinois.gov/topics/environmental-justice/commission/index
+3
+The following ex-officio members: Director of Commerce and Economic Opportunity or his or her
+2
+
+ organization representing the energy sector, environmental organizations, units of local
+government, labor organizations, and the general public who have an interest in or expertise in
+environmental justice. The EJ Commission’s scope of work adheres to the following statutory
+charges—it shall:
+1. advise State entities on environmental justice and related community issues
+2. review and analyze the impact of current State laws and policies on the issue of
+environmental justice and sustainable communities
+3. assess the adequacy of State and local laws to address the issue of environmental
+justice and sustainable communities
+4. develop criteria to assess whether communities in the State may be experiencing
+environmental justice issues
+5. recommend options to the Governor for addressing issues, concerns, or problems
+related to environmental justice that surface after reviewing State laws and policies,
+including prioritizing areas of the State that need immediate attention.
+Thus, advising the IPA on matters pertaining to environmental justice falls within the
+statutorily mandated activities of the EJ Commission.
+Statutory Requirement
+Relevant statutory language from Future Energy Jobs Act (PA 99-2906) is as follows:
+For the purposes of this subsection (b), the Agency shall
+define "environmental justice community" as part of long-term
+renewable resources procurement plan development, to ensure,
+to the extent practicable, compatibility with other agencies'
+definitions and may, for guidance, look to the definitions used
+by federal, state, or local governments.
+IEPA EJ Policy: Definition of Communities of Potential Environmental Justice Concern
+The current IEPA policy4 for defining a “potential” EJ community was developed for use
+in implementing a “public participation strategy for permits, programs and actions in potential EJ
+communities.”5 The IEPA’s definition is as follows:
+A “potential” EJ community is a community with a low-income and/or minority population
+greater than twice the statewide average. In addition, a community may be considered a
+potential EJ community if the low-income and/or minority population is less than twice
+
+designee, the Director of the Environmental Protection Agency or his or her designee, the Director of
+Natural Resources or his or her the Director of Public Health or his or her designee, and the Secretary
+Director of Transportation or his or her designee, and a representative of the housing office of the
+Department of Human Services appointed by the Secretary of Human Services.
+4
+http://www.epa.illinois.gov/topics/environmental-justice/ej-policy/index
+5
+http://www.epa.illinois.gov/topics/environmental-justice/ej-policy/index
+
+ the state-wide average but greater than the statewide average and that has identified
+itself as an EJ community. If the low-income and/or minority population percentage is
+equal to or less than the statewide average, the community should not be considered a
+potential EJ community.
+IEPA EJ Policy: Methodology for Identification of Communities of Potential EJ Concern
+IEPA utilizes an internal Geographic Information Systems (GIS) demographic screening
+tool (EJ START) developed by Agency staff to determine potential environmental justice areas.
+The criteria for identification are twice the statewide average for minority population (75%)
+and/or low-income population (63.2%). The Agency adds a one-mile buffer around each
+regulated facility. The underlying data source is the latest American Community Survey 5-year
+estimates (2011-2015). The data used by IEPA are updated on an annual basis.
+USEPA Criteria for Overburdened Communities
+Where IEPA’s criteria are focused on low-income and minority populations, USEPA’s definition
+of “overburdened community” takes into account additional factors:
+Overburdened Community — Minority, low-income, tribal, or indigenous populations or
+geographic locations in the United States that potentially experience disproportionate
+environmental harms and risks. This disproportionality can be as a result of greater
+vulnerability to environmental hazards, lack of opportunity for public participation, or
+other factors. Increased vulnerability may be attributable to an accumulation of negative
+or lack of positive environmental, health, economic, or social conditions within these
+populations or places. The term describes situations where multiple factors, including
+both environmental and socio-economic stressors, may act cumulatively to affect health
+and the environment and contribute to persistent environmental health disparities.
+Consistent with its statutory charge, the EJ Commission recommends that the IPA look
+to both of these definitions for guidance as they develop a definition for EJ Community for the
+purposes of Solar for All program. Although the IEPA’s definition is meant to apply to its EJ
+Start tool for identifying potential EJ areas for the purpose of public outreach, the USEPA’s
+definition offers a broader set of factors that should be considered when defining an EJ
+Community. At this time, the EJ Commission is unaware of any additional definitions of EJ
+Community in other Illinois state agencies or units of government in Illinois.
+USEPA EJSCREEN: Environmental Justice Screening and Mapping Tool
+USEPA has developed an environmental justice mapping and screening tool called
+EJSCREEN. It is based on nationally consistent data and an approach that combines
+environmental and demographic indicators in maps and reports. Indicators can be added to the
+available subset to facilitate layered mapping of multiple sets of data.
+EJSCREEN is an environmental justice screening and mapping tool that utilizes
+
+ standard and nationally-consistent data to highlight places that may have higher environmental
+burdens and vulnerable populations. The tool provides both summary and detailed information
+at a high geographic resolution for both demographic and environmental indicators.
+EJSCREEN can help identify communities with greater risk of exposure to pollution
+based on 11 environmental indicators6 that measure potential exposure, hazard/risk and
+proximity, including traffic proximity, particulate matter, and proximity to superfund sites. These
+indicators are combined with demographic data from the U.S. Census Bureau American
+Community 5-year Summary Survey enabling users to identify areas with minority or lowincome populations who also face potential pollution issues. There are 12 EJ indexes that
+combine environmental and demographic data.7
+USEPA cautions that EJ SCREEN does not provide the only basis for it to identify areas
+as EJ communities and it is not an appropriate standalone tool for making a risk assessment.
+However, USEPA’s position on the limitations does not bar the State of Illinois from utilizing it as
+a resource when screening for EJ communities as defined by the IPA and can help it ensure
+that the goals of the Solar For All program are met.
+The EJ Commission recommends that the IPA utilize USEPA’s EJSCREEN tool as a
+platform to map the relevant suggested indicators, as well as communicate with IEPA and the
+EJ Commission, where appropriate, on identification of EJ communities in Illinois.
+CalEnviroScreen
+CalEnviroScreen 3.0 includes a broader set of demographic and environmental
+indicators, which IPA should consider when conducting annual policy updates and adding to the
+initial criteria it considers in identifying EJ communities. The EJ Commission recognizes that all
+the elements included in California’s tool are not yet available to IPA, but may become available
+or able to be integrated into IPA definition and screening of EJ communities. Importantly,
+CalEnviroScreen 3.0 does not include race or ethnicity as an indicator.
+The indicators and methods utilized by CalEnviroScreen’s system represent a robust
+identification that accounts for demographic and environmental factors impacting community
+vulnerability. The set of indicators utilized by CalEnviroScreen are a more inclusive set of
+indicators reflecting environmental justice communities. California Environmental Protection
+Agency (CalEPA) Office of Environmental Health Hazard Assessment (OEHHA) developed
+CalEnviroScreen, and the tool has been utilized in defining “disadvantaged communities” for the
+purposes of receiving climate mitigation investment opportunities.
+CalEnviroScreen scores are calculated from the scores for two groups of indicators:
+Pollution Burden and Population Characteristics. Pollution burden represents the potential
+exposures to pollutants and the adverse environmental conditions caused by pollution. The
+indicators for pollution burden include:
+6
+
+The 11 environmental indicators are: National Scale Air Toxics Assessment Air Toxics Cancer Risk:
+National Scale Air Toxics Assessment Respiratory Hazard Index: National Scale Air Toxics Assessment
+Diesel PM (DPM): Particulate Matter (PM2.5); Ozone; Lead Paint Indicator; Traffic Proximity and Volume;
+Proximity to Risk Management Plan Sites; Proximity to Treatment Storage and Disposal Facilities;
+Proximity to National Priorities List Sites and Proximity to Major Direct Water Dischargers.
+7
+The six demographic indicators are: percent low-income; percent minority; less than high school
+education; linguistic isolation; individuals under 5; and individuals over age 64.
+
+ ●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Air Quality PM 2.5 and Ozone,
+Diesel Particulate Matter,
+Drinking Water Contaminants,
+Toxic Releases from Facilities,
+Traffic Density,
+Cleanup Sites,
+Groundwater Threats,
+Hazardous Waste Generators and Facilities,
+Impaired Water Bodies and Solid Waste Sites and Facilities.
+
+Population Characteristics indicators represent biological traits, health status, or
+community characteristics that can result in increased vulnerability to pollution. The indicators
+for population characteristics are:
+● Age: Children and Elderly,
+● Asthma,
+● Low Birth Weight Infants,
+● Educational Attainment,
+● Linguistic Isolation,
+● Poverty and Unemployment.
+The methodology that OEHHA used to identify census tracts as disadvantaged
+communities in California combines the pollution burden and population characteristics. The
+overall score is calculated by combining the individual indicator scores within each of the two
+groups, then multiplying the Pollution Burden and Population Characteristics scores to produce
+a final score. Based on these final scores the census tracts across California are ranked relative
+to one another. Please see the text and models below for an explanation of how this method is
+used:
+
+● Each census tract receives scores for as many of the 19 indicators as possible.
+Some census tracts will not have scores for every one of the indicators.
+● For each indicator, the scores are put in order from highest to lowest. This allows us
+to calculate a percentile for all areas that have a score.
+● The Population Characteristics score for a census tract is the average of the
+percentiles for all the Sensitive Populations indicators and Socioeconomic Factors
+indicators for that census tract.
+● The Pollution Burden score is the average of the percentile scores from
+Environmental Effects and Exposures indicators.
+● The Environmental Effects indicator percentiles are divided in half because
+California considers environmental effects to make a smaller contribution to pollution
+burden than exposures do.
+● To get the CalEnviroScreen score, multiply the Pollution Burden score by the
+Population Characteristics score.
+
+ ● Communities at the top 25% of scores relative to the state’s range of scores qualify
+as disadvantaged.
+●
+
+Overview of Indicators: Illinois Data Available
+The EJ Commission researched the environmental indicators utilized in CalEnviroScreen
+3.0 that are publicly available via Illinois databases. The information from Illinois EPA and other
+state agency databases may be pulled into any future GIS mapping done in furtherance of the
+IPA’s implementation of the Future Energy Jobs Act. The databases include:
+●
+
+Drinking Water Watch: http://water.epa.state.il.us/dww/index.jsp
+
+●
+
+There are a variety of IEPA Bureau of Land databases covering cleanup and regulatory
+programs: www.epa.illinois.gov/topics/cleanup-programs/bol-database/index
+Minimally, those that would be of interest are:
+●
+
+Site remediation: epadata.epa.state.il.us/land/srp/index.asp
+
+●
+
+The Leaking Underground Storage Tank Incident Tracking ("LUST") database:
+www.epa.illinois.gov/topics/cleanup-programs/bol-database/leaking-ust/index
+
+ ●
+
+●
+
+Solid state sites: epadata.epa.state.il.us/land/ssu/index.asp
+
+●
+
+Solid waste: epadata.epa.state.il.us/land/solidwaste/index.asp
+
+Asthma:
+http://www.idph.state.il.us/about/chronic/asthma/documents/ILBurdenAsthma_August20
+13R.pdf
+
+The Illinois Department of Public Health report on asthma burdens referenced above
+only gets down to the county level, so it poses challenges for granularity. We recommend that
+the EJ Commission work with a member from Illinois Department of Public Health to investigate
+if current asthma information exists at the census tract level.
+Finally USEPA’s EJSCREEN,8 contains many national data sources that mirror the
+indicators used by California. Combining state databases and federal databases provides the
+indicator set needed to implement the Act.
+
+Ongoing Collaboration
+The EJ Commission looks forward to continued collaboration on the issue of
+environmental justice community identification in Illinois. We anticipate supporting the IPA in its
+efforts to deliver a robust, statewide incentive program to communities in most need. The EJ
+Commission believes the recommendations made in this letter in regard to defining an EJ
+Community, as well as the suggested existing platforms for mapping, will help to accomplish
+these goals. Please do not hesitate to contact IEPA Environmental Justice Officer Chris
+Pressnall or Illinois Commission on Environmental Justice Chairperson Kimberly Wasserman
+with any questions regarding this correspondence and the contents wherein.
+Sincerely,
+
+Kimberly Wasserman
+Chairperson
+Illinois Commission on Environmental Justice
+
+Chris Pressnall
+IEPA EJ Officer
+
+cc: Brian P. Granahan, Chief Legal Counsel, Illinois Power Agency
+
+8
+
+https://www.epa.gov/ejscreen
+
+ 

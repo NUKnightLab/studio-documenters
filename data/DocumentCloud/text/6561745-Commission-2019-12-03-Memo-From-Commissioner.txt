@@ -1,0 +1,172 @@
+To:
+
+Kim Wasserman, Chair, Illinois Environmental Justice Commission
+Chris Pressnall, IL EPA Representative, Illinois Environmental Justice Commission
+
+From: Keith Harley, Member, Illinois Environmental Justice Commission
+John Stout, Law Clerk, Chicago Legal Clinic, Inc.
+Date: November 25, 2019
+Re:
+
+Recommendations for IL EPA for Illinois’s ACE Plan
+
+This memo identifies critical omissions in U.S. EPA’s Affordable Clean Energy Rule (“ACE”)
+and recommends responsive actions that IL EPA should incorporate into its ACE implementation
+activities.
+ACE lacks meaningful environmental justice provisions. The U.S. EPA’s Final Regulatory
+Impact Analysis (“RIA”) lacks quantitative analysis of potential significant, adverse and
+disproportionate risks to low-income and minority communities. In turn, ACE provides no
+guidance to address places where risks of harm to human health and environmental quality are
+concentrated. ACE also fails to provide guidance to states to ensure environmental justice
+communities have public participation opportunities.
+U.S. EPA anticipates a high degree of state discretion in ACE implementation. Consequently,
+Illinois has a significant opportunity to address ACE’s failure to address environmental justice.
+IL EPA should conduct unit level emissions modeling to assess the potential impacts of ACE on
+environmental justice communities. Based on this analysis, IL EPA should implement ACE to
+avoid significant, adverse effects on human health and environmental quality. In addition, IL
+EPA should engage with environmental justice communities to ensure meaningful public
+participation in the design and implementation of its ACE plan.
+ACE’s Lack of Environmental Justice Guidance
+ACE sets emission guidelines for states to develop and submit their own implementation plans to
+the EPA. A key aspect of ACE is its BSER, which is based on heat rate improvements for
+existing coal-fired power plants.1 It is “the states’ responsibility” to create a plan and “develop
+standards of performance that reflect the application of the BSER.2” This minimal guidance is
+the furthest the ACE rule goes, as there is no requirements for states to account for
+environmental justice impacts. Despite U.S. EPA’s failure to address environmental justice or
+provide strict direction to states, the freedom afforded to Illinois to create its own ACE plan
+allows for EJ communities to be accounted for in a meaningful way.
+
+1
+
+https://www.epa.gov/sites/production/files/2019-06/documents/bser_and_eg_fact_sheet_6.18.19_final.pdf
+https://www.federalregister.gov/documents/2019/07/08/2019-13507/repeal-of-the-clean-power-plan-emission-guidelines-forgreenhouse-gas-emissions-from-existing
+2
+
+1
+
+ Shortcomings of the Regulatory Impact Analysis
+In the RIA, the U.S. EPA declined to conduct a meaningful, quantitative analysis of
+environmental justice impacts.3 The illustrative policy scenario used in the RIA had numerous
+flaws that limited the analysis put forth by the U.S. EPA. The illustrative policy scenario used in
+the state and unit level emission models compared GHG emissions with no control plan with
+potential GHG emissions under ACE.4 The illustrative policy scenario was extremely
+speculative as there is no way to predict what controls, or lack of, each state would implement in
+their ACE plan. This amount of speculation created by the illustrative policy scenario makes the
+data put forth in the U.S. EPA’s quantitative analysis essentially meaningless.
+Other flaws in the RIA were that: 1) it failed to account for possible risks emissions among
+minority, low-income, and indigenous populations in its models and 2) it did not account for the
+impact of co-pollutants in any meaningful way.5 The RIA failed to “conclude whether this rule
+will have disproportionate impacts on EJ communities” in its analysis of its illustrative policy
+scenario.6 The lack of certainty is deeply concerning and shows that the U.S. EPA finalized
+ACE without any determination on whether the rule could have an adverse, disproportionate, and
+disparate impact on environmental justice communities. It falls to the Illinois EPA to make up
+for the final rule and the RIA’s shortcomings by conducting its own regulatory impact analysis
+that accounts for EJ communities and can create unit level emission models that provide more
+certainty.
+RECOMMENDATIONS FOR IL EPA
+To protect its own EJ communities under ACE, the IL EPA must conduct a quantitative analysis
+driven by an effective proximity analyses and unit level emission models to determine: 1) the
+impact of its ACE implementation plan on environmental justice communities; 2) the impact of
+aging coal-fired power plants staying operational longer due to heat-rate efficiency
+improvements; and 3) the impact of co-pollutants as well as GHG emissions on the health of
+environmental justice communities. EJ communities must be engaged throughout the entire
+process, allowing them to have a role in crafting a state plan that does not have significant
+adverse and disproportionate impacts on their communities.
+Proximity Analyses and Emission Modeling
+The IL EPA must use its own toolkit to conduct proximity analyses and create unit level
+emissions models that provide meaningful data. It is essential that IL EPA determine where its
+EJ communities are located around its operating coal fired power plants and the impact those
+plants will have on EJ communities. The analysis must account for all plant-level improvements
+that could be part of an Illinois implementation plan and account for any expected increases in
+power plant emissions.7 An effective proximity analysis would provide detailed demographic
+3
+
+https://www.epa.gov/sites/production/files/2019-06/documents/utilities_ria_final_cpp_repeal_and_ace_2019-06.pdf – pg. 5-5 –
+5-8
+4
+Id.
+5
+Id. at 5-8
+6 Id.
+7 Clean Power Plan Final Rule (CPP) at 1322
+
+2
+
+ information on the communities located within a determined radius of each affected power plant
+in the state.8
+The IL EPA analysis must include unit level emissions modeling that accounts for: 1) available
+air quality monitoring data and information from air quality models; and 2) information about
+local health vulnerabilities, such as asthma rates or access to healthcare in overburdened
+communities.9 Conducting a thorough quantitative analysis with strong unit level emissions
+models would go beyond the surface level analysis conducted by the U.S. EPA and ensure that
+Illinois implements a plan that best protects EJ communities that are directly and indirectly
+impacted by the state’s coal-fired power plants.
+Impact of Extending the Life of Older Coal Plants
+The IL EPA must conduct an analysis of the impact of extending the life of its aging plants
+through any heat rate efficiency improvements. Emissions increases could occur if modified
+units can operate at greater capacity, more frequently or for a longer lifespan. These aging units
+may also emit increased levels of other regulated pollutants. As a state with numerous aging
+plants, Illinois needs to analyze the cumulative public health impacts from GHG and copollutants that would be emitted by these plants. A proper analysis of the above factors would
+ensure that these plants do not continue to operate at the cost of public health, especially plants
+that are adjacent to environmental justice communities such as the Waukegan Generating
+Station.10
+Analysis of Co-Pollutant Impacts
+In both ACE and the RIA, the U.S. EPA failed to determine if the rule would lead to adverse
+health impacts on environmental justice communities through an increase of co-pollutants.11 An
+effective quantitative analysis should also estimate the potential impact of co-pollutants on
+environmental justice communities. The IL EPA must analyze any short- and long-term air
+quality condition in environmental justice communities arising from emissions of non-GHG
+regulated pollutants from its coal fired power plants.
+Community Engagement in State Plan Development
+IL EPA must ensure that it engages with environmental justice communities during the
+development of its state plan. The U.S. EPA website states that “[m]eaningful
+involvement means: (1) [p]eople have an opportunity to participate in decisions about activities
+that may affect their environment and/or health; (2) [t]he public's contribution can influence the
+regulatory agency's decision; (3) [c]ommunity concerns will be considered in the decisionmaking process; and (4) Decision makers will seek out and facilitate the involvement of those
+potentially affected.12” By following these guidelines, the IL EPA can ensure that EJ
+
+8
+
+Id.
+Id.
+10
+https://echo.epa.gov/detailed-facility-report?fid=110000430178
+11 https://www.epa.gov/sites/production/files/2019-06/documents/utilities_ria_final_cpp_repeal_and_ace_2019-06.pdf – page 5-8
+12 https://www.epa.gov/environmentaljustice/learn-about-environmental-justice
+9
+
+3
+
+ communities are aware and engaged in all aspects of the process, from the meaningful EJ
+analysis to the rollout of a final state implementation plan.
+IL EPA should fully engage with communities and other stakeholders during all aspects of plan
+development. Meaningful engagement includes outreach to vulnerable communities, sharing
+information and soliciting input on state plan development and on any accompanying
+assessments such as those described above, and selecting methods for engagement to support
+communities’ involvement at critical junctures in plan formulation and implementation.13 This
+should include relaying the results of emissions modeling and any other quantitative analysis in a
+format that would be accessible by the general public and EJ communities. IL EPA should also
+conduct outreach meetings, which could include public hearings or listening sessions, before the
+initial plan is submitted. These meetings should provide all relevant information about the
+proposed state plan in all appropriate languages in advance of their public hearings and at their
+public hearings.14 Full community engagement would allow environmental justice communities
+and organizations to influence policies that would protect their health and well-being.
+CONCLUSION
+Illinois needs to ensure that environmental justice communities do not face significant adverse
+and disproportionate impacts from coal fired power plants under ACE. A quantitative analysis
+that includes proximity analyses and emission modeling would be effective in determining the
+cumulative impact of any potential implementation plan. EJ communities and stakeholders must
+be meaningfully engaged so they aware of the impacts of any potential plan and can have a
+significant role in crafting the state plan. The freedom afforded by ACE allows Illinois to go
+above and beyond its requirements under ACE in using its capabilities to protect its EJ
+communities in creating its state implementation plan.
+
+13
+14
+
+Id.
+Id.
+
+4
+
+ 

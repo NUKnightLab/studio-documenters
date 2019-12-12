@@ -1,0 +1,645 @@
+AS H L AN D A V
+16 0 0 W
+
+D AM E N AV
+20 0 0 W
+
+WE ST ER N A V
+24 0 0 W
+
+C AL IFO R N IA A V
+28 0 0 W
+
+KE D ZIE AV
+32 0 0 W
+
+C EN TR A L P AR K AV
+36 0 0 W
+
+PU L A SK I R D
+40 0 0 W
+
+KO STN E R A V
+44 0 0 W
+
+C IC E R O A V
+48 0 0 W
+
+LA R A MIE A V
+52 0 0 W
+
+C EN TR A L A V
+56 0 0 W
+
+AU S TIN A V
+60 0 0 W
+
+N AG LE A V
+64 3 2 W
+
+H AR L E M A V
+72 0 0 W
+
+OR IOL E AV
+76 0 0 W
+H OW AR D S T
+76 0 0 N
+
+DEPARTMENT OF PLANNING
+AND DEVELOPMENT
+
+TOU H Y AV
+72 0 0 N
+PR A TT A V
+68 0 0 N
+
+6020 N Hiawatha Ave
+
+PE TE R SO N AV
+60 0 0 N
+
+3
+&
+
+KENNEDY
+
+3604-26 N Western Ave
+
+&
+3
+3
+&
+3
+&
+3
+&
+
+3741 N Albany Ave
+
+3718 N Springfield Ave
+3143-65 N Milwaukee Ave
+3100 N Lawndale Ave
+
+&
+3
+
+1219-21 S Pulaski Rd
+16 TH S T
+16 0 0 S
+
+3
+&
+
+3
+&
+
+220 S Green St
+
+EISENHOWER
+
+&
+3
+3
+&
+
+1354 W Flournoy St
+
+43 R D S T
+43 0 0 S
+
+STE
+
+VE N
+STE
+
+N
+SO
+
+VE
+
+3
+&
+
+ON
+NS
+
+3
+&
+
+51 S T S T
+51 0 0 S
+
+3
+&
+
+4834 S Halsted St
+
+55 TH S T
+55 0 0 S
+C H IC AG O
+MID W AY
+AIR P OR T
+
+C
+
+H
+
+IC
+
+71 S T S T
+71 0 0 S
+
+A
+
+G
+O
+
+S
+
+75 TH S T
+75 0 0 S
+
+K
+
+YW
+
+AY
+
+C
+
+H
+
+IC
+
+A
+
+DAN RYAN
+
+79 TH S T
+79 0 0 S
+83 R D S T
+83 0 0 S
+
+G
+O
+
+S
+
+K
+
+YW
+
+AY
+
+87 TH S T
+87 0 0 S
+91 S T S T
+91 0 0 S
+
+95 TH S T
+95 0 0 S
+
+I57 E
+X PY
+
+I57 I57
+
+99 TH S T
+99 0 0 S
+10 3 R D S T
+10 3 0 0 S
+
+PF
+OR
+D
+
+10 7 TH S T
+10 7 0 0 S
+
+BIS
+HO
+
+11 1 TH S T
+11 1 0 0 S
+
+RD
+FO
+
+13 5 TH S T
+13 5 0 0 S
+13 8 TH S T
+13 8 0 0 S
+
+STA TE L IN E R D
+41 0 0 E
+
+R AC IN E AV
+12 0 0 W
+
+P
+
+12 7 TH S T
+12 7 0 0 S
+
+AS H L AN D A V
+16 0 0 W
+
+WE ST ER N A V
+24 0 0 W
+D AM E N AV
+20 0 0 W
+
+C AL IFO R N IA A V
+28 0 0 W
+
+KE D ZIE AV
+32 0 0 W
+
+C EN TR A L P AR K AV
+36 0 0 W
+
+PU L A SK I R D
+40 0 0 W
+
+12 3 R D S T
+12 3 0 0 S
+
+O
+SH
+BI
+
+C IC E R O A V
+48 0 0 W
+
+11 9 TH S T
+11 9 0 0 S
+
+KO STN E R A V
+44 0 0 W
+
+11 5 TH S T
+11 5 0 0 S
+
+LA R A MIE A V
+52 0 0 W
+
+C EN TR A L A V
+56 0 0 W
+
+67 TH S T
+67 0 0 S
+
+AU S TIN A V
+60 0 0 W
+
+N AR R A GA N S ETT AV
+64 0 0 W
+
+OA K P AR K A V
+68 0 0 W
+
+63 R D S T
+63 0 0 S
+
+H AR L E M A V
+72 0 0 W
+
+3426 S Giles Ave
+
+4715 S Hoyne Ave
+
+47 TH S T
+47 0 0 S
+
+59 TH S T
+59 0 0 S
+
+3
+&
+
+DAN RYAN
+
+PE R SH IN G R D
+39 0 0 S
+
+E
+
+35 TH S T
+35 0 0 S
+
+RY
+AN
+
+OR
+E SH
+
+1125 W 31st St
+
+31 S T S T
+31 0 0 S
+
+N
+
+701-05 S Clark St
+LA K
+
+DA
+
+26 S T S T
+26 0 0 S
+
+600 S Federal St &
+75 W Harrison St
+
+&
+3
+
+1414 W Flournoy St
+
+717 S California Ave
+
+C ER M A K R D
+22 0 0 S
+
+Zoning Board of
+Appeals (ZBA)
+June, 2015
+
+3
+&
+
+EW IN G A V
+36 3 4 E
+
+R OOS E VE L T R D
+12 0 0 S
+
+112 E Oak St
+
+BR A N D ON A V
+32 0 0 E
+
+H AR R IS ON S T
+60 0 S
+
+1944 W Crystal St
+
+1740 W Erie St
+
+3
+&
+
+1534 N Wieland St
+
+1365-67 N Milwaukee Ave
+
+2048 W Chicago Ave
+
+7 N Keeler Ave
+
+1909 N Bissell St
+
+2006 W Webster Ave
+
+2439 W Haddon Ave
+
+MA D IS ON A V
+0 N /S
+
+1950 N Howe St
+
+MU S K EG AN A V
+28 3 8 E
+
+OR IOL E AV
+76 0 0 W
+
+KIN ZIE S T
+40 0 N
+
+1826 N Wilmot Ave
+
+1509 N Western Ave
+
+4614 W Grand Ave
+
+C H IC AG O A V
+80 0 N
+
+410 W Webster Ave
+
+2626 W Attrill St
+
+3
+&
+
+5615-27 W Grand Ave
+
+N OR TH A V
+16 0 0 N
+
+D IV IS ION S T
+12 0 0 N
+
+2029 N Hoyne Ave
+
+3
+&
+
+YA TE S A V
+24 0 0 E
+
+2109 N Parkside Ave
+
+AR M ITA GE AV
+20 0 0 N
+
+2750 N Racine Ave
+1000-06 W Montana St
+
+JE FFE R Y A V
+20 0 0 E
+
+FU L L ER TO N AV
+24 0 0 N
+
+1920 W Oakdale Ave
+
+4757 W Fullerton Ave
+
+2941-47 N Clark St
+
+STO N Y IS L AN D A V
+16 0 0 E
+
+R SE Y AV
+28 0 0 N
+
+2709 N Southport Ave
+
+3
+&
+
+5554
+W Belmont Ave
+D IV E
+
+3435 N Sheffield Ave
+
+3458 N Clark St
+
+WOO D L AW N A V
+12 0 0 E
+
+PA C IFIC A V
+80 0 0 W
+
+C U MB E R L AN D A V
+84 0 0 W
+
+EA ST R IVE R R D
+88 0 0 W
+
+BE L MO N T A V
+32 0 0 N
+
+3466-70 N Clark St
+
+3506-14 N Clark St
+
+C OTTA GE GR OV E A V
+80 0 E
+
+AD D IS ON S T
+36 0 0 N
+
+3748 N Greenview Ave
+
+D R M A R TIN L U TH E R
+KIN G J R D R 4 0 0E
+
+IR V IN G P A R K R D
+40 0 0 N
+
+3500 N Hoyne Ave
+
+&
+3
+&
+3
+3 3
+& &
+3
+&3
+&
+3
+&
+3
+&
+3&
+&
+3
+&
+3
+3 &
+&
+33
+&
+3
+&
+3
+&
+3
+&
+3 &
+&
+3
+3
+&
+3
+&
+3
+&
+3
+&
+3 &
+&
+3
+3
+3 &
+&
+3
+&
+3&
+&
+3
+
+STA TE S T
+0 E /W
+
+MO N TR OS E AV
+44 0 0 N
+
+4722 N Winthrop Ave
+
+DAN RYAN EXPRESS
+
+LA W R EN C E A V
+48 0 0 N
+
+5009 N Sheridan Rd
+
+1826 W Wilson Ave
+
+4302 N Kedzie Ave
+
+Copy r ight , 2 0 15
+
+5333 N Lakewood Ave
+
+3
+&
+
+STE W AR T A V
+40 0 W
+
+T
+
+EDENS
+
+BR Y N M AW R AV
+56 0 0 N
+FOS TE R AV
+52 0 0 N
+
+THW ES
+
+H AL S TE D ST
+80 0 W
+
+IB NO R
+
+NS
+
+NN
+KE
+
+Y
+ED
+
+ANDREW J MOONEY
+COMMISSIONER
+
+5820-26 N Clark St
+
+D EV ON A V
+64 0 0 N
+
+E
+ED
+
+N AL
+
+CI T Y O F C H IC A G O
+
+ 

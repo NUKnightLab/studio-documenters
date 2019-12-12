@@ -1,0 +1,5540 @@
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+AGENDA
+Institutional Review Board
+December 7, 2017 (1:00 – 3:00 PM)
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, IL 60606
+
+I.
+II.
+III.
+
+IV.
+V.
+
+VI.
+
+Call to Order and Roll Call
+Approval of October 19, 2017 Meeting Minutes
+Applications for Review
+1. Evaluation of Dual Diagnosis Program in Logan Correctional Center (pp. 2-37)
+Jessica Reichert
+2. Preliminary Study of LGBTQ Victimization and Help-Seeking (pp. 38-69)
+Amanda L. Vasquez and Jaclyn Kolnik
+3. Evaluation of PERC (Pathway to Enterprise for Returning Citizens) (pp. 70-84)
+Jessica Reichert and Justin Escamilla
+4. Community Focus Groups to Inform Countering Violent Extremism Training Curriculum
+(pp. 85-106)
+Megan Alderden and Lily Gleicher
+Old Business: None
+New Business
+1. Exempt IRB applications: None
+2. Expedited IRB applications:
+Building capacity for producing unbiased estimates of recidivism: Examining the
+recidivism of firearm offenders using state criminal history and mortality data
+(amendment)
+Christine Devitt Westley
+3. IRB application amendments:
+Outcome Evaluation of the Safe Passage Initiative (pp. 107-118)
+Jessica Reichert
+4. 2018 IRB meetings:
+Thursday, February 1
+Thursday, May 3
+Thursday, August 2
+Thursday, November 1
+Adjourn
+
+This public meeting will be accessible to persons with disabilities in compliance with Executive Order #5 and pertinent State and Federal
+laws upon anticipated attendance. Persons with disabilities planning to attend and needing special accommodations should contact by
+telephone or letter John Klaer, Associate Director, Office of Administrative Services, Illinois Criminal Justice Information Authority, 300
+W. Adams St. Suite 200, Chicago, Illinois, 60606-5150 or at (312) 793-8550. TDD services are available at (312) 793-4170.
+Fax: (312) 793-8422 • TDD: (312) 793-4170 • www.icjia.state.il.us
+
+1
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s) email: Jessica.Reichert@Illinois.gov
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation:
+Sharyn Adams, Research Analyst ICJIA
+Alysson Gatens, Research Analyst ICJIA
+Christine Head, Research Intern, ICJIA; Graduate student, UChicago Social Service Administration
+Start date of project:
+
+December 7, 2017
+
+End date of project:
+
+December 8, 2018
+
+Title of proposal: Evaluation of Dual Diagnosis Program in Logan Correctional Center
+Initial approval
+type:
+
+Full IRB:
+
+X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+X
+
+Primary
+
+X Secondary
+
+If SECONDARY, please briefly indicate the source of the data:
+The sources of the secondary data are the Illinois Department of Corrections; Illinois State
+Police, Criminal History Record Information (CHRI); and WestCare Foundation Illinois.
+Data include:
+• IDOC files
+
+2
+
+ •
+•
+
+CHRI- Arrest history
+WestCare Treatment files including:
+o Buss-Perry Aggression Questionnaire
+o PCL-5 (PTSD checklist)
+o ASI (Addiction Severity Index)
+o Client exit/satisfaction survey
+• Wells Center Treatment files including:
+o Names and dates of birth of program participants
+o Names and dates of birth of individuals on the program waiting list who did not
+receive the program
+How is the end date of the study defined?
+The publication of one or more evaluation reports on the Illinois Criminal Justice Information
+Authority (Authority) website and/or in a peer-reviewed journal.
+
+I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+
+No
+X
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+3
+
+ II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+ICJIA has administered federal grant funding for the Dual Diagnosis program since
+2008; however, there has been no formal evaluation of the program. The purpose of
+the study is to:
+• Learn how the program operates and the effectiveness of the program.
+• Make suggestions for program enhancement.
+• Guide funding decisions and possible program expansion.
+Two data sources will be used:
+• Administrative data:
+o All written policies and procedures;
+o Data contained in Illinois Department of Correction’s administrative files
+and databases;
+o Arrest and court disposition data available through the state’s Criminal
+History Information System;
+o WestCare Treatment files, including the Buss-Perry Aggression
+Questionnaire, PCL-5 (PTSD checklist), ASI (Addiction Severity Index),
+and client exit/satisfaction survey
+o Wells Center Treatment files including the names and dates of birth of
+program participants and those on the program’s waiting list.
+• Interviews with program staff and program clients.
+
+B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+Component 1: Client interviews (n=25)
+a.) Time involvement of subjects: 30 minutes to 1 hour
+b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable: Private location in Logan Correctional Center
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None
+d.) What subjects will experience or do: Answer questions in a one-on-one interview
+with an ICJIA researcher
+Component 2: Staff interviews (n=3)
+a.) Time involvement of subjects: 45 minutes
+
+4
+
+ b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable: Private location in Logan Correctional Center
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None
+d.) What subjects will experience or do: Answer questions in a one-on-one interview
+with an ICJIA researcher
+Component 3: Analysis of recidivism of former Wells Center program
+participants (n=500)
+a.) Time involvement of subjects: Not applicable
+b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable: Not applicable
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None
+d.) What subjects will experience or do: This component involves analysis of
+secondary, administrative records, without contact with the actual involved
+individuals. The subjects will not have to do anything.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study:
+
+528
+
+Interviews clients=25
+Interviews staff=3
+Secondary data/ prior clients: 500 subjects
+b.) Number in age ranges:
+
+Under 18
+
+18 and older
+
+528
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American X
+
+American Indian
+
+X
+
+Asian X
+
+Hispanic X
+
+White X
+
+Other
+
+Unknown
+
+Bi-racial
+
+X
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n):
+
+25
+
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+500
+
+5
+
+ 4. Describe the procedures for subject recruitment
+Administrative data
+
+X
+
+Recruitment
+
+X
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+We will include all staff (currently 3) and all current program clients (capacity is 25).
+For secondary analysis, we will include prior clients from 2009-2013.
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+There are no direct benefits for those who choose to participate in this study. However, there is
+potential benefit to the field of treatment of prisoners for mental health and substance use
+disorders, as well as for integrating services for those with co-occurring disorders. In addition,
+the study can guide funding decisions and possible program expansion.
+
+7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+X
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as
+well
+as provide the methods being used to control or minimize the danger to the subjects.
+Researchers will ask subjects about prior traumatic or adverse experiences in their lives to
+better understand their issues and needs that have lead them to the program. These
+questions have the potential to be regarded as private and sensitive information. In
+addition, these questions may cause discomfort because it is asking subjects to share
+
+6
+
+ information about traumatic events.
+To minimize discomfort, subjects will be informed that they can skip any questions or stop
+the interview at any time. Subjects will be informed that if they would like to talk to someone
+after the interview, they can ask to see a WestCare counselor who will be made available
+to meet with them.
+
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+Since researchers are evaluating a dual diagnosis program, researchers will ask questions
+about mental health and substance use, including prior treatment for those conditions. These
+questions are necessary to answer the research question—Who were the clients of the
+program? Researchers will also understand prior treatment attempts and how they were
+different or the same, and more or less successful than their current program.
+
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+Not applicable
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+X
+
+No
+
+Not applicable
+
+Subjects will be informed that if they would like to talk to someone after the interview, they can ask
+to see a WestCare counselor who will be made available to meet with them.
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+X
+
+No
+
+Not applicable
+
+Subjects will be informed that if they would like to talk to someone after the interview, they can
+ask to see a WestCare counselor who will be made available to meet with them.
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study.
+Risks and benefits that would result even if the research weren’t undertaken should not be
+considered.
+
+7
+
+ 11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+Minimal
+X
+
+Greater than minimal
+High
+
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+X
+
+a.) If YES, what is the amount and source of the funds?
+Amount $
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+No
+
+X
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+
+8
+
+ protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+b.) What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in publications,
+etc? How does the investigator(s) define “completion” of the study?
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc)?
+A “data master list” will be created that contains each individual’s name, date of birth, State
+Identification Number, and numeric code assigned by the research team. The individual’s
+name, date of birth, and State Identification Number will be used to link the IDOC data,
+program data, and criminal history records together.
+An “interview master list” will be created to keep track of individuals who have consented to
+participating in an interview and been interviewed.
+Individuals who are participating in interviews will be asked to sign an informed consent
+form.
+
+b.) Describe project procedures for maintaining the security of these records at every point
+in the data collection process.
+Researchers will obtain a list of all individuals who have participated in the program since
+its inception from program staff at IDOC. The data master list will include each individual’s
+name, date of birth, State Identification Number, and numeric code assigned by the
+research team. The individual’s name, date of birth, and State Identification Number will be
+used to link the IDOC data, program data, and criminal history records together. Once the
+data have been merged, the final dataset will be stripped of all identifying information. The
+final de-identified dataset will be used for all analyses conducted. The final de-identified
+dataset will be maintained separately from the master list on a secure, password protected
+server accessible only to research staff.
+An interview master list will be created containing the names of current program staff and
+clients. The list will be used to keep track of individuals who have consented to participating
+in an interview and been interviewed. The list will be maintained separately from all other
+materials, including interview notes, in a secure location only accessible to research staff.
+This list will also maintain the numerical key codes that link interview materials to
+interviewees.
+Prior to being interviewed, participants will be asked to sign an informed consent form.
+Signed consent forms of those individuals who have agreed to be interviewed will be
+transported to ICJIA’s office and maintained securely in a locked cabinet accessible only to
+research staff. Signed consent forms will be maintained separately from interview notes.
+Staff will also ensure that during notetaking no identifying information about the subject or
+
+9
+
+ others is recorded. All interview notes will be secured in a locked cabinet accessible only to
+research staff. Notes that are later transcribed will be maintained separately from the
+master list on a secure, password protected server accessible only to research staff.
+
+c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+Identifying information is needed to link various datasets together. It would not be possible
+to accurately link those data without identifiers. Additionally, an interview master list is
+necessary to manage the interviews of program staff and participants.
+
+d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have
+access to names or other individual identifiers? Describe the procedures for maintaining
+security of paper files, automated files, and other records.
+e.) Will names of subjects be included in any publication based on this study? If YES, for
+what reason(s)?
+Yes
+
+No
+
+X
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+X
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+X
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+Verbal
+
+X
+
+Written
+
+No consent needed
+
+X
+
+Waiver of consent
+documentation
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+
+10
+
+ b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+X
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent?
+ICJIA researchers will obtain consent at the time of the interview.
+
+b.) How will consent be obtained?
+A consent form will be provided before the interview begins.
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Consent will be obtained only once, prior to the start of the interview.
+
+d.) How will you verify the subject fully understands the consent?
+Before the start of the interview, researchers will ask participants if they have any
+questions about the consent form. The researcher can offer to read the consent form if
+the subject needs assistance.
+
+e.) How will your investigators be trained to use the informed consent process?
+All Authority research staff are certified in the National Institutes of Health Office of
+Extramural Research’s web-based training course “Protecting Human Research
+Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+The dual diagnosis program is delivered in English and the training materials are in
+English. To date, no program applicants have indicated they are non-English speaking.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+
+11
+
+ qualifications.
+
+24. Does the consent form you have attached fully comply with ICJIA instructions for consent forms
+that are in compliance with general requirements as outlined in the Code of Federal Regulations
+46.116 and the Authority’s IRB procedures? Please refer to the checklist. N/A
+Yes
+
+X
+
+No
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+12
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+SIGNATURE PAGE
+PROJECT NAME: Evaluation of Dual Diagnosis Program in Logan Correctional Center
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+13
+
+ Interviews with Dual Diagnosis Program Clients
+
+Study ID:________
+
+Background and Demographics
+1. What is your date of birth? ______/_______/___________
+2. Current age? _________
+3. Where were you born?
+3a. Country: ____________________________
+3b: State: ______________________________
+3c: City: _______________________________
+4. What is your ethnicity—are you Spanish/Hispanic/Latino?
+ No
+ Yes
+5. What is your race?
+ White
+ Black or African American
+ American Indian or Alaskan Native
+ Asian
+ Native Hawaiian or other Pacific Islander
+ Some other race: Provide name of your race: _________________
+6. What is the highest level of education you have attained?
+ No schooling completed
+ Completed elementary school (Grades K through 8)
+ Completed some high school, but did not obtain GED
+ Completed some high school and obtained my GED
+ High school graduate
+ Correspondence high school degree
+ Completed some college/vocational schooling, but did not receive a diploma or certificate
+ Diploma or certificate from a junior college/community college/trade school/vocational school
+ Correspondence bachelor’s degree
+ Bachelor’s degree from a four-year college (e.g., B.A./B.S./LL.B)
+ Completed some graduate or professional schooling
+ Graduate or professional degree (e.g., M.A./M.S./M.ED/PhD)
+7. What is your current marital status?
+ Never married
+ Married
+ Separated
+ Divorced
+ Widowed
+14
+
+  Other __________________________________________
+8. Do you currently have an intimate partner/ significant other/ spouse?
+ Yes
+ No
+9. Do you have children?
+ Yes
+ No
+
+9a. When you are not incarcerated where do your children stay?
+ With you
+ With a grandparent
+ With their other parent
+ With your partner /significant other /spouse
+ A friend
+ You do not have custody
+10. Have you ever been homeless?
+
+11. Have you ever served on active duty in the U.S. Armed Forces, military Reserves, or National Guard?
+Active duty does not include training for the Reserves or National Guard, but DOES include
+activation, for example, for the Persian Gulf War.
+ Yes, now on active duty
+ Yes, on active duty during the last 12 months, but not now
+ Yes, on active duty in the past, but not during the last 12 months
+ No, training for Reserves or National Guard only
+ No, never served in the military
+10a. If yes, when did you serve on active duty in the U.S. Armed Forces? Indicate EACH period you
+served, even if just for part of the period.
+ September 2001 or later
+ August 1990 to August 2001 (including Persian Gulf War)
+ September 1980 to July 1990
+ May 1975 to August 1980
+ Vietnam era (August 1964 to April 1975)
+ March 1961 to July 1964
+ February 1955 to February 1961
+ Korean War (July 1950 to January 1955)
+ January 1947 to June 1950
+ World War II (December 1941 to December 1946)
+ November 1941 or earlier
+12. In general, would you say your heath is…?
+ Excellent
+ Good
+ Average
+
+15
+
+  Below average
+ Very poor
+13. What medical conditions or disabilities do you currently have?
+ Arthritis
+ Glaucoma
+ Asthma
+ High blood pressure
+ Bleeding problems
+ High cholesterol
+ Breathing difficulty
+ Hearing impairment
+ Cancer
+ Heart problems
+ Diabetes
+ Joint replacement
+ Emphysema
+ Kidney disease
+ Other: ___________________________
+
+ Liver Disease
+ Osteoporosis
+ Seizures
+ Stroke
+ Thyroid problem
+ Ulcers
+ Visual impairment
+
+14. Right now, how serious do you think your drug problems are?
+ Not at all
+ Slightly
+ Moderately
+ Considerably
+ Extremely
+15. How many times before now have you ever been in a drug treatment program? [Do not include
+AA/NA/CA meetings]
+ Never
+1 time
+ 2 times
+ 3 times
+ 4 or more times
+16. How important is it for you to get drug treatment now?
+ Not at all
+ Slightly
+ Moderately
+ Considerably
+ Extremely
+Mental Health Questions
+17. Have you been diagnosed with any of the following mental health disorders?
+ Anxiety disorder (such as acute stress, panic, agoraphobia, obsessive-compulsive, PTSD, generalized
+anxiety)
+ Eating disorder (such as anorexia, bulimia)
+ Mood disorder (such as depression, bipolar)
+ Personality disorder (such as paranoid, schizoid, antisocial, borderline personality)
+ Schizophrenia or another psychotic disorder (such as delusional disorder, schizoaffective disorder)
+ Other:__________________________________________
+
+16
+
+ 18. Have you ever been admitted to a psychiatric hospital/residence?
+ No
+ Yes Specify reason(s) for admission(s):
+a. If yes, how many times have you been admitted?
+19. In the past six months, have you had any emotional or psychological difficulties? (Probe: Did you have
+any problems with feeling sad or nervous?)
+ Yes
+ No
+Traumatic events
+The following questions are on serious or traumatic life events. These events actually occur with some regularity
+and affect how people feel about, react to, and/or think about things afterward. For each event, please tell me
+whether it happened and, if it did, the number of times and your approximate age when it happened (give your
+best guess if not sure). You can tell me your relationship to the person involved and more about the event if you
+want.
+Crime-Related Events
+1
+2
+3
+4
+
+Has anyone ever tried to take something directly from you by using
+force or the threat of force, such as a stick-up or mugging?
+Has anyone ever attempted to rob you or actually robbed you (i.e.,
+stolen your personal belongings)?
+Has anyone ever attempted to or succeeded in breaking into your
+home when you were not there?
+Has anyone ever attempted to or succeed in breaking into your home
+while you were there?
+
+General Disaster and Trauma
+
+5
+
+6
+
+7
+
+Have you ever had a serious accident at work, in a car, or somewhere
+else? (If yes, please specify below)
+__________________________________________________
+Have you ever experienced a natural disaster such as a tornado,
+hurricane, flood or major earthquake, etc., where you felt you or your
+loved ones were in danger of death or injury? (If yes, please specify
+below)
+__________________________________________________
+Have you ever experienced a “man-made” disaster such as a train
+crash, building collapse, bank robbery, fire, etc., where you felt you or
+
+Circle
+one
+
+If you circled yes, please
+indicate
+
+Number of
+times
+
+Approximate
+age(s)
+
+No Yes
+No Yes
+No Yes
+No Yes
+Circle
+one
+
+If you circled yes, please
+indicate
+
+Number of
+times
+
+Approximate
+age(s)
+
+No Yes
+
+No Yes
+
+No Yes
+
+17
+
+ 8
+9
+10
+11
+12
+
+13
+
+14
+15
+
+16
+
+17
+
+your loved ones were in danger of death or injury? (If yes, please
+specify below)
+__________________________________________________
+Have you ever been exposed to dangerous chemicals or radioactivity
+that might threaten your health?
+Have you ever been in any other situation in which you were seriously
+injured? (If yes, please specify below)
+__________________________________________________
+Have you ever been in any other situation in which you feared
+you might be killed or seriously injured? (If yes, please specify below)
+__________________________________________________
+Have you ever seen someone seriously injured or killed? (If yes, please
+specify who below)
+__________________________________________________
+Have you ever seen dead bodies (other than at a funeral) or had to
+handle dead bodies for any reason? (If yes, please specify below)
+__________________________________________________
+Have you ever had a close friend or family member murdered, or killed
+by a drunk driver? (If yes, please specify relationship [e.g., mother,
+grandson, etc.] below)
+_________________________________________________
+Have you ever had a spouse, romantic partner, or child die? (If yes,
+please specify relationship below)
+_________________________________________________
+Have you ever had a serious or life-threatening illness? (If yes, please
+specify below)
+_________________________________________________
+Have you ever received news of a serious injury, life-threatening
+illness, or unexpected death of someone close to you? (If yes, please
+indicate below)
+_________________________________________________
+Have you ever had to engage in combat while
+in military service in an official or unofficial war
+zone? (If yes, please indicate where below)
+_________________________________________________
+
+Physical and Sexual Experiences
+Has anyone ever made you have intercourse or oral or anal sex against
+your will? (If yes, please indicate nature of relationship with person
+18
+[e.g., stranger, friend, relative, parent, sibling] below)
+_________________________________________________
+Has anyone ever touched private parts of your body, or made you
+touch theirs, under force or threat? (If yes, please indicate nature of
+relationship with person [e.g., stranger, friend, relative, parent, sibling]
+19
+below)
+_________________________________________________
+
+No Yes
+No Yes
+No Yes
+No Yes
+No Yes
+
+No Yes
+
+No Yes
+No Yes
+
+No Yes
+
+No Yes
+
+Circle
+one
+
+If you circled yes, please
+indicate
+
+Repeated?
+
+Approximate
+age(s) and
+frequency
+
+No Yes
+
+No Yes
+
+18
+
+ 20
+21
+22
+23
+24
+
+Other than incidents mentioned in Questions 18 and 19, have there
+been any other situations in which another person tried to force you to
+have an unwanted sexual contact?
+Has anyone, including family members or friends, ever attacked you
+with a gun, knife, or some other weapon?
+Has anyone, including family members or friends, ever attacked
+you without a weapon and seriously injured you?
+Has anyone in your family ever beaten, spanked, or pushed you hard
+enough to cause injury?
+Have you experienced any other extraordinarily stressful situation or
+event that is not covered above? (If yes, please specify below)
+__________________________________________________
+
+No Yes
+No Yes
+No Yes
+No Yes
+No Yes
+
+20. Did you talk about any or all of these in the dual diagnosis program here at Logan?
+19a. If no, why not?
+About the Dual Diagnosis Program 1
+26. How long have you been in the program?
+27. Is this the first time you have received treatment for substance abuse?
+a. If yes, how was your experience?
+28. Is this the first time you have received any mental health treatment?
+a. If yes, how was your experience?
+29. Have you ever been in another program that addresses mental health and substance abuse together?
+a. If yes, how was your experience?
+30. Where do you meet for the program at Logan? Was it a comfortable space?
+31. Do you feel physically safe while in the program?
+32. What was your favorite part of the program? Why?
+33. What is one part of the program that you would change? How would you do things differently?
+34. Did you feel comfortable speaking freely during group session?
+1
+
+Some questions adapted from Philadelphia ACES Survey
+
+19
+
+ Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Dual Diagnosis Program at Logan Correctional Center
+Client Interview
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigator Name and Title: Jessica Reichert, Senior Research Analyst
+Department and Institution: Research and Evaluation Center, Illinois Criminal Justice
+Information Authority, 300 W. Adams St., Suite 200, Chicago IL 60606 or (312) 793-8550.
+This project was funded by the Justice Assistance Program.
+Why am I being asked?
+You are being asked to be a subject in a research study about the Dual Diagnosis Program at
+Logan Correctional Center, which assists incarcerated women with mental health issues and
+substance use disorders. You are being asked to complete an interview about yourself and your
+views and experiences with the Dual Diagnosis Program. It will take about 30 minutes to 1 hour
+complete. You have been asked to participate in this research because you are a participant in the
+Dual Diagnosis Program.
+Your participation in this research is voluntary. Your decision to participate or not will not affect
+your current or future dealings with WestCare, Illinois Department of Corrections, or the Illinois
+Criminal Justice Information Authority. If you decide to participate, you are free to withdraw
+at any time without affecting that relationship. Approximately 25 subjects may be involved in
+this research study.
+What is the purpose of this research?
+Researchers at the Illinois Criminal Justice Information Authority are evaluating the Dual
+Diagnosis Program. The Dual Diagnosis Program is a program that aims to disrupt behavior,
+drug use, and criminal behavior of individuals with co-occurring disorders through effective
+intervention programs. Researchers are trying to learn more about program participants, the
+program itself, and its effectiveness.
+What procedures are involved?
+You will be asked to complete a research interview to be held at a private location in Logan
+Correctional Center.
+What are the potential risks and discomforts?
+Researchers will ask about prior traumatic or adverse experiences to better understand the needs
+that have led you to the program. You may feel that this information is private and sensitive.
+They may cause you discomfort. You can skip any questions that you do not want to answer or
+end the interview at any time. You may also choose to stop the interview at any time.
+
+20
+
+ If you would like to talk to someone after the interview, you can ask to see a WestCare counselor
+who will be made available to meet with you.
+Are there benefits to taking part in the research?
+This study is not designed to benefit you directly. This study is designed to learn more about the
+Dual Diagnosis Program. The study results may be used to help other women like you in the
+future.
+What other options are there?
+You have the option to not participate in this study.
+What about privacy and confidentiality?
+Only the members of the research team will have direct knowledge that you participated in this
+study. Information about you, such as your name, will be recorded on a master list so that we can
+keep track those who want to be interviewed. This list will be maintained separately from all
+other materials in a secure location only accessible to research staff. The list will be stored on
+password-protected, secure computers and servers.
+We are asking that you sign this consent form that says you have agreed to participate in an
+interview. This form will also be stored security in a locked cabinet. We will also be taking notes
+using pencils and paper. Those notes will also be kept in a locked cabinet apart from the signed
+consent forms. You should also know that we will not write down any information, such as your
+name or the names of others, in our notes.
+The interviews conducted will be part of a report about the program. The Authority will publish
+the results from the study on their website. Authority staff may also share the results at meetings
+or other public forums. When the results of the research are published or discussed at
+conferences, no information will be included that would reveal your identity.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+You will not be offered payment for being in this study.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation at
+any time.
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or,
+if you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+
+21
+
+ If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may call the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+Remember:
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future relations with WestCare, Illinois Department of Corrections, or
+ICJIA. If you decide to participate, you are free to withdraw at any time without affecting that
+relationship.
+I have read (or someone has read to me) the above information. I have been given an opportunity
+to ask questions and my questions have been answered to my satisfaction. I agree to participate
+in this research. I will be given a copy of this signed and dated form.
+
+Signature
+
+Date
+
+Printed Name
+
+Signature of Person Obtaining Consent
+
+Date (must be same as subject’s)
+
+Printed Name of Person Obtaining Consent
+
+22
+
+ Case Control #_____________
+
+STAFF INTERVIEWS AT LOGAN CORRECTIONAL CENTER
+Interviewer initials: __________
+Date of interview: _____/______/________
+Location of interview: ____________________________
+Time interview started ___:_____ AM/PM
+
+DEMOGRAPHICS
+Thank you for agreeing to talk with me today. We are really interested in your opinion and experience and any
+information you can give will be extremely helpful. Do you have any questions before we start?
+1. What is your date of birth? ______/_______/___________
+2. Current age? _________
+3. Are you Spanish/Hispanic/Latino?
+ No
+ Yes
+4. What is your race? (Read from the list. Check all that apply-whatever race the respondent identifies
+with. Do not check if none specified.) Use ANSWER CARD.
+ White
+ Black of African American
+ American Indian or Alaskan Native
+ Asian
+ Native Hawaiian or other Pacific Islander
+ Some other race, Provide name of your race: _________________
+5. What is your highest level of education attained:
+ No schooling completed
+ Completed elementary school (Grades 1 through 8)
+ Completed some high school, but did not obtain GED
+ Completed some high school and obtained my GED
+ High school graduate
+ Correspondence high school degree
+ Completed some college/vocational schooling, but did not receive a diploma or certificate
+ Diploma or certificate from a junior college/community college/trade school/vocational school
+ Correspondence bachelor’s degree
+ Bachelor’s degree from a four-year college (e.g., B.A./B.S./LL.B)
+ Completed some graduate or professional schooling
+ Correspondence graduate or professional degree
+ Graduate or professional degree (e.g., M.A./M.S./M.ED/PhD)
+23
+
+ 6. Have you ever served in the U.S. military? Include the Armed Forces active-duty, the military Reserves,
+or the National Guard?
+ No
+ Yes
+
+YOUR WORK WITH WESTCARE AT LOGAN CORRECTIONAL CENTER
+7. What is your job title? _________________________________________
+8. How long have you been in this position? ____________________
+9. Please describe your daily work activities.
+
+10. How many hours per week do you work?_________________ hours
+11. How long have you worked for WestCare at Logan Correctional Center?
+__________years _________months
+12. Why did you decide to work with WestCare at Logan Correctional Center?
+
+13. What is the best part of the job with WestCare at Logan Correctional Center?
+
+How has the program changed?
+
+14. What is the worst part of the job?
+
+24
+
+ 15. What is the most challenging part of the job?
+
+16. Did you receive any inmate mental health-related training for your job?
+ Yes
+ No⇒ Go to Q. 17
+16a. What training did you receive?
+
+16b. Was the training offered by WestCare or the correctional center?
+ WestCare
+ Logan Correctional Center
+17. Did you receive any inmate substance use disorder training for your job?
+ Yes
+ No⇒ Go to Q. 18
+17a. What training did you receive?
+
+17b. Was the training offered by WestCare or the correctional center?
+ WestCare
+ Logan Correctional Center
+18. Do you receive any ongoing inmate mental health-related training on the job?
+ Yes
+ No
+19. Do you receive any ongoing inmate substance use disorder training on the job?
+ Yes
+ No
+
+25
+
+ 20. What are your current mental health-related training needs?
+
+21. What are your current substance use disorder training needs?
+
+22. Have you received any other mental health-related training outside of this job?
+ Yes
+ No⇒ Go to Q. 23
+22a. What other trainings?
+
+23. Have you received any other substance use disorder training outside of this job?
+ Yes
+ No⇒ Go to Q. 24
+23a. What other trainings?
+
+24. Please describe your license and/or mental health experience/expertise
+
+25. Please describe your license and/or substance use disorder experience/expertise
+
+26
+
+ DUAL DIAGNOSIS POLICIES & PROCEDURES IN LOGAN CORRECTIONAL CENTER
+26. Do you try to detect signs and symptoms of mental health issues and/or substance use disorders
+among the inmates?
+ Yes
+ No⇒ Go to Q. 27
+26a. What signs and symptoms do you look for?
+
+27. Are inmates given screenings for mental health issues and/or substance use disorders?
+ Yes
+ No⇒Go to Q. 28
+
+27a. How? (What instruments are used? Who administers? )
+
+28. Are inmates given assessments for mental health issues and/or substance use disorders?
+ Yes
+ No⇒Go to Q. 29
+
+28a. How? (What instruments are used? Who administers? )
+
+29. Are mental health issues addressed in substance abuse treatment?
+ Yes
+ No⇒Go to Q. 30
+29a. How?
+
+30. What do you think the main goals of the Dual Diagnosis program are?
+
+27
+
+ 31. How does an inmate get into the Dual Diagnosis program? Are there any admission limitations
+regarding symptom acuity or severity?
+
+32. Does the Dual Diagnosis program provide gender specific treatment for female inmates? If yes, explain.
+
+33. Does the program match patients with individual peer supports or role models?
+
+34. How would you define a successful completion of the Dual Diagnosis program?
+
+35. Under what circumstances can an individual be removed from the program?
+
+36. How is the length of treatment for participants in the Dual Diagnosis program decided?
+
+37. Does the program conduct case reviews to monitor appropriateness/effectiveness of services for
+patients with a dual diagnosis?
+
+28
+
+ 38. In general, what services/assistance do you think individuals with a dual diagnosis need? Does the Dual
+Diagnosis program meet those needs? If no, why not?
+Meet needs?
+Services/assistance
+Yes
+No
+If no, why not?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39. Are there times when there is tension/friction between program participants and staff?
+ No ⇒ Go to Q. 40
+ Yes
+39a. If yes, what kind of tension/friction?
+
+39b. If yes, how is it handled?
+
+40. Are there times when there is tension/friction among program participants?
+ No ⇒ Go to Q. 41
+ Yes
+40a. If yes, what kind of tension/friction?
+
+40b. If so, how is it handled?
+
+29
+
+ 41. Are the facilities for the Dual Diagnosis program at Logan Correctional Center adequate for inmates to
+feel safe while participating in the program?
+
+42. Are the facilities for the Dual Diagnosis program at Logan Correctional Center adequate for staff to feel
+safe while performing their duties?
+
+43. Is religion or spirituality incorporated into the program?
+ No ⇒ Go to Q. 44
+ Yes
+43a. If yes, how is it incorporated?
+
+44. Does the Dual Diagnosis program provide any specific trauma-focused/PTSD-related services?
+ Yes
+ No⇒ Go to Q. 45
+44a. Please describe these services or programs.
+
+45. Does the program have a formal relationship with a prescriber? Do you have access to the prescriber
+to discuss patients?
+
+46. What are the Dual Diagnosis program’s procedures for crisis intervention including suicide risk?
+
+30
+
+ 47. How does the Dual Diagnosis program handle those inmates with mental health issues and/or
+substance use disorders that require hospitalization?
+
+48. Does the Dual Diagnosis program make treatment linkages to community resources after an inmate is
+released into the community? If yes, explain.
+
+YOUR VIEWS ON DUAL DIAGNOSIS
+49. Do you think there are a disproportionate number of inmates with co-occurring mental health issues
+and substance use disorders?
+ Yes
+ No⇒ Go to Q. 50
+49a. Why do you think there are a disproportionate number?
+
+50. Based on your experiences, how would you describe inmates with co-occurring mental health issues
+and substance use disorders? [observed behaviors, personalities, issues, needs, etc.]
+
+51. To what extent do you think inmates with mental health issues tend to also have substance abuse
+issues?
+
+31
+
+ 52. Do you have any special training in PTSD or trauma?
+ Yes
+ No⇒ Go to Q. 53
+52a. What type of training did you receive?
+
+53. Do you think inmates are sufficiently being screened for PTSD?
+
+54. How does Logan Correctional Center staff interact with inmates who have a dual diagnosis?
+
+55. Do you think the correctional center staff is equipped to handle inmates with a dual diagnosis?
+ Yes
+ No
+
+54a. Please explain
+
+56. What services/assistance do you think inmates need for mental health issues?
+
+57. What services/assistance do you think inmates need for substance use disorders?
+
+32
+
+ 58. What if anything should be done to improve detection of co-occurring mental health issues and
+substance use disorders of inmates?
+
+59. What do you think of the quality of dual diagnosis-related services in the correctional center?
+
+60. What do you think of the quantity of dual diagnosis-related services in the correctional center?
+
+61. What do you think of the quality of the physical facilities for the Dual Diagnosis program in the Logan
+Correctional Center (e.g., privacy, lighting, seating)?
+
+62. What are the strongest parts of the Dual Diagnosis program?
+
+33
+
+ 63. What are the weakest parts of the Dual Diagnosis program?
+
+64. What, if anything, should be done to improve dual diagnosis-related services or programs for inmates?
+
+65. Do you have any other comments?
+
+Thank you for answering the questions during this interview.
+Your participation is very helpful to us and greatly appreciated.
+
+FOR OFFICE USE ONLY
+Time interview ended ___:_____ AM/PM
+
+Data Entry Date: ____/____/____
+Data Entry Initials:
+
+34
+
+ Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Dual Diagnosis Program at Logan Correctional Center
+WestCare Foundation Staff Interview
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigator Name and Title: Jessica Reichert, Senior Research Analyst
+Department and Institution: Research and Evaluation Center, Illinois Criminal Justice
+Information Authority, 300 W. Adams St., Suite 200, Chicago IL 60606 or (312) 793-8550.
+This project was funded by the Justice Assistance Program.
+Why am I being asked?
+You are being asked to be a subject in a research study about the Dual Diagnosis Program at
+Logan Correctional Center, which assists incarcerated women with mental health issues and
+substance use disorders. You are being asked to complete an interview about yourself, and your
+views, experiences, and role in the Dual Diagnosis Program. The interview will take about about
+45 minutes to 1 hour to complete. You have been asked to participate in this research because
+you are a staff member of the Dual Diagnosis Program.
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future dealings with WestCare, Illinois Department of Corrections, or
+the Illinois Criminal Justice Information Authority (ICJIA). If you decide to participate, you
+are free to withdraw at any time without affecting that relationship. Approximately, three
+subjects (staff) may be involved in this research study.
+What is the purpose of this research?
+Researchers at the Illinois Criminal Justice Information Authority are evaluating the Dual
+Diagnosis Program. The Dual Diagnosis Program is a program that aims to disrupt behavior,
+drug use, and criminal behavior of individuals with co-occurring disorders through effective
+intervention programs. Researchers are trying to learn more about how the program operates and
+the effectiveness of the program.
+What procedures are involved?
+You will be asked to complete a research interview at a private location in Logan Correctional
+Center.
+What are the potential risks and discomforts?
+To the best of our knowledge, the things you will be doing have no more risk of harm than you
+would experience in everyday life. Some questions may make you uncomfortable. Please know,
+you may choose at any time not to answer the questions asked. You may also choose to stop the
+interview at any time.
+
+35
+
+ Are there benefits to taking part in the research?
+This study is not designed to benefit you directly. This study is designed to learn more about the
+Dual Diagnosis Program. The study results may be used to understand programming to better
+treat other women with these issues in the future.
+What other options are there?
+You have the option to not participate in this study.
+What about privacy and confidentiality?
+Only the members of the research team will have direct knowledge that you participated in this
+study. Individual identifiers will be recorded on a master list in order to keep track of those who
+consented to be interviewed. This list will be maintained separately from all other materials in a
+secure location only accessible to research staff. The list will be stored on password-protected,
+secure computers and servers. Personal information will be stored securely—signed consent
+forms will be maintained in a locked cabinet separate from interview notes. We will also make
+sure not to record any personal identifying information, such as your name or the names of
+others, when taking notes.
+A report will include a summary of information received from this and other sources. The
+Authority will publish the results from the study on their website. Authority staff may also share
+the results at meetings or other public forums. When the results of the research are published or
+discussed at conferences, no information will be included that would reveal your identity.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+You will not be offered payment for being in this study.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation
+at any time.
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550 or
+Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or, if
+you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may call the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+
+36
+
+ Remember:
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future relations with WestCare, Illinois Department of Corrections, or
+ICJIA. If you decide to participate, you are free to withdraw at any time without affecting that
+relationship.
+I have read (or someone has read to me) the above information. I have been given an opportunity
+to ask questions and my questions have been answered to my satisfaction. I agree to participate
+in this research. I will be given a copy of this signed and dated form.
+
+Signature
+
+Date
+
+Printed Name
+
+Signature of Person Obtaining Consent
+
+Date (must be same as subject’s)
+
+Printed Name of Person Obtaining Consent
+
+37
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Amanda L. Vasquez, Jaclyn Kolnik
+
+Principal investigator(s) email: Amanda.L.Vasquez@illinois.gov; Jaclyn.kolnik@illinois.gov
+Office Address:
+
+300 W Adams St Suite 200
+
+City, State, Zip
+code:
+Office phone:
+
+Chicago, IL 60606
+312-793-8550
+
+Project staff and affiliation: ____Megan Alderden & Jennifer Hiselman, & Carly Pace, ICJIA___
+Start date of project:
+
+December 2017
+
+End date of project:
+
+December 2018
+
+Title of proposal: Preliminary Study of LGBTQ Victimization and Help-Seeking
+Initial approval
+type:
+
+Full IRB:
+
+X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+X
+
+Primary
+
+Secondary
+
+If SECONDARY, please briefly indicate the source of the data:
+How is the end date of the study defined?
+The completion of a survey tool for use in assessing the victimization and help-seeking experiences of
+LGBTQ identified individuals.
+
+38
+
+ I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+
+No
+
+Minors under age 18
+
+X
+
+Adult prisoners or individuals in secure confinement
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+The purpose of the present study is to develop a survey tool to examine the victimization and helpseeking experiences of LGBTQ identified individuals in Illinois. Participants will be screened via phone
+to determine their study eligibility. Eligible participants will be asked to participate in a phone interview
+for researchers to learn more about their experience in thinking of and responding to questions, and
+assess their understanding of survey questions on discrimination, coping, and help-seeking. Participants
+will be emailed or mailed an informed consent sheet and list of community resources prior to the
+interview. This study will offer an understanding of how well select discrimination, coping, and helpseeking measures capture these phenomena among LGBTQ identified individuals.
+
+39
+
+ B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+Individuals who identify as LGBTQ and have experienced at least one violent victimization
+experience in their lifetime will be recruited to participate in phone interviews with ICJIA
+research staff.
+a.) Time involvement of subjects: Total time involvement of participants is estimated to be 50
+minutes. Screening for study eligibility will take approximately 5 minutes. The interview with
+participants will take 30-45 minutes.
+
+b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable: Interviews will be conducted by phone.
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): Participants will receive a $30 gift card.
+d.) What subjects will experience or do:
+Researchers will use the following methods to recruit eligible participants.
+1. Distribution of study flyer to LGBTQ specific and allied service agencies.
+2. Distribution of study flyer via email listservs.
+3. Use of online resources, such as ICJIA’s website and social media accounts.
+4. Ask participants to share study information with others.
+Recruitment materials will direct potential participants to a phone number to call in order to be
+screened for eligibility to participate in the study.
+Participants will be screened via phone to determine their study eligibility. Participants in the present
+study are those who:
+1. Reside in Illinois;
+2. Identify as LGBTQ
+3. Are 18 years or older; and
+4. Have experienced at least one violent victimization at any point in their lifetime.
+For ineligible participants, research staff will offer to send a list of community resources via email or
+mail. Research staff will record their names and addresses, or email addresses in order to send them
+the resource list. All names, addresses, and email addresses will be kept in a password protected
+document saved in a protected file. This list will also be maintained in order to ensure that individuals
+are not screened more than once.
+For eligible participants, research staff will invite them to participate in the study. They will be
+mailed or emailed an informed consent sheet for review and a list of community resources. Research
+staff will record participants’ names, addresses, phone numbers, and email addresses in order to send
+them the study materials. This information will be kept in a password protected document saved in a
+protected file. To ensure victim’s safety, researchers will ask if these methods of contact are safe and
+whether or not a message can be left.
+After receiving the materials, participants may call or email to schedule an interview. Alternately,
+research staff will follow-up, via phone or email, with eligible participants one week after the
+
+40
+
+ materials are sent to ensure participant receipt of materials and to schedule an interview.
+The interview will be conducted over the phone, estimated to last approximately 30-45 minutes. The
+interview will be audio-recorded with the participant’s permission. Interview questions will seek to
+learn more about participants’ experience in thinking of and responding to questions on
+discrimination, coping and help-seeking, and in assessing participant understanding of the survey
+questions.
+Within 72 hours of the interview, participants will be mailed or emailed a $30 gift card.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study:
+b.) Number in age ranges:
+
+50
+
+Under 18
+
+18 and older
+
+50
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American
+
+x
+
+American Indian
+
+x
+
+Asian
+
+x
+
+Hispanic
+
+x
+
+White
+
+x
+
+Other
+
+x
+
+Unknown
+
+x
+
+Bi-racial
+
+x
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n):
+
+0
+
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision: 0
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+Recruitment
+
+X
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+Inclusion: Participants in the present study are those who:
+1. Reside in Illinois;
+2. Identify as LGBTQ
+3. Are 18 years or older; and
+4. Have experienced violent victimization at any point in their lifetime.
+These criteria are necessary to better understand the victimization and help-seeking experiences of
+LGBTQ identified individuals in Illinois.
+Given that the materials are written in English, participants will also be those who speak English.
+
+41
+
+ Exclusion: Excluded individuals are those not meeting the above criteria. These individuals are excluded
+because the present study seeks to better understand the victimization and help-seeking experiences of
+LGBTQ identified individuals in Illinois.
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+Each participant will receive a $30 gift card. The study may benefit society by expanding knowledge of
+LGBTQ identified individuals understanding of survey measures focused on discrimination, coping, and
+help-seeking to better understand this population’s experiences following victimization.
+
+7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+X
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+Participants will be asked to report if they have experienced a violent victimization at any point in
+their lifetime, and will be asked to think about their coping and help-seeking behaviors following
+victimization, as well as any discriminatory experiences they’ve had, which may be distressing.
+Researchers will provide participants with a list of community resources, including referral
+information for victim services and LGBTQ service providers they can contact if they experience
+distress. At the start of each interview, participants will be reminded of their ability to stop
+participation at any point, without affecting compensation or their relationship with ICJIA.
+
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+These procedures are necessary as this preliminary study seeks to better understand how to capture
+LGBTQ identified individuals’ post-victimization experiences, to improve the State’s knowledge of
+
+42
+
+ this underserved victim population, and to improve victim service delivery.
+
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+N/A, the study does not involve deception.
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+X
+
+No
+
+Not applicable
+
+Participants will be provided with a list of community resources. These resources will include referral
+information for victim services and LGBTQ service providers.
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study.
+Risks and benefits that would result even if the research weren’t undertaken should not be
+considered.
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+43
+
+ 13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+X
+
+No
+
+a.) If YES, what is the amount and source of the funds?
+Amount $ 30
+
+Source of funds
+
+Victims of Crime Act
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+Gift cards or e-gift cards will be mailed or emailed to participants as payment. Victim of Crime Act
+administrative funds have been earmarked for participant compensation. ICJIA staff will distribute
+these funds.
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+X
+
+No
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+Should participants consent to audio recording, the interview will be recorded using a handheld
+recording device. Audio-recordings of interviews will be saved on secure computers and/or servers in
+the Authority offices accessible only to the research staff on this project. Audio-recordings on the
+recording devices will be erased within 48 hours of recording. Transcripts of the recordings will be
+stored securely on the Authority computers and servers separate from the master list of study
+participants and only accessible to the research staff on this project.
+At the start of the interview, participants will be asked for their verbal consent to participate in the
+interview. If a participant does not agree to participate, the interview will be terminated.
+
+44
+
+ Participants will also be asked if they agree to be audio-recorded. If an individual does not wish to be
+audio-recorded, the participant can still participate, and researchers will instead only take handwritten
+notes. The audio-recordings will be transcribed by research assistants associated with this project. Any
+identifying information will be redacted during the transcription process. The transcriptions will be
+maintained in a secure location separate from the master list of study participants. Only the
+transcriptions and written notes will be analyzed.
+Researchers will take notes during the interviews whether or not the interview is audio-recorded. No
+identifying information will be recorded during the notetaking process. All notes will be stored in a
+filing cabinet in a locked office at the Authority. Only ICJIA research staff will have access to these
+materials.
+
+b.) What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in publications,
+etc? How does the investigator(s) define “completion” of the study?
+Audio recordings will be transferred to secured computers accessible only to research staff and
+deleted from the recording device within 48 hours of the interview. Interview transcriptions will be
+maintained in computerized word processing files and stored securely on the Authority computers
+and servers accessible only to research staff. The transcripts and notes will be maintained separately
+from the recordings. Files will be stored for 3 years after the completion of the study. Completion of
+the study occurs when a survey tool for use in assessing the victimization and help-seeking
+experiences of LGBTQ identified individuals is developed. This data may be used in publications,
+including peer-reviewed journals and reports on ICJIA’s website, and in presentations. Identifying
+information will be redacted in interview transcripts and replaced with a pseudonym or nonidentifying descriptor in any publications or presentations.
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc)?
+Identifying information such as names, addresses, phone numbers, and email addresses will be
+stored in a master list in a password protected document on password-protected computers
+accessible only to research staff. Each individual who contacts the study will be assigned a unique
+code. Only research staff will have access to this master list that links a participant’s identifying
+information to their unique code. This code will be used to track their participation in the study and
+to distribute payment. The master list will be maintained separately from all other study materials.
+
+b.) Describe project procedures for maintaining the security of these records at every point in
+the data collection process.
+Information about who has participated in our study will only be accessible to the research staff at
+ICJIA. Records with identifiable information (i.e., master list of participants) will be password
+protected files that will be stored on password protected computers accessible only to research staff.
+In this master list, participant will be assigned a unique identifier; this code will be used on all study
+materials and spreadsheets. Transcripts will be de-identified and labeled with the unique code.
+Handwritten notes will be de-identified, labeled with a unique code, and stored in a file cabinet in a
+locked office at ICJIA.
+
+45
+
+ c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+Researchers need to record personally identifying information to send a community resource list to
+ineligible study participants, and to send study materials, including the informed consent sheet and
+community resource list, and payment to participants.
+
+d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have access
+to names or other individual identifiers? Describe the procedures for maintaining security of
+paper files, automated files, and other records.
+e.) Will names of subjects be included in any publication based on this study? If YES,
+for what reason(s)?
+Yes
+
+No
+
+X
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+X
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+X
+
+No
+
+Participants will be asked to think about their help-seeking experiencing following victimization, including
+ways in which others may have responded to them. Participants will not be asked to provide any identifying
+information for these individuals or agency representatives. Any identifying information that is voluntarily
+offered by participants will be redacted in the interview transcript and not recorded during notetaking.
+Audio-recordings will be erased within 48 hours of recording. Transcripts of the recordings will be stored
+securely on the Authority computers and servers separate from the master list of study participants.
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+X
+
+Verbal
+
+Written
+
+No consent needed
+
+Waiver of consent
+documentation
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+
+46
+
+ The present research presents no more than minimal risk of harm to subjects and involves no procedures
+for which written consent is normally required outside of the research context. Requiring participants
+
+to complete a written consent form and mail that form to ICJIA researchers would increase the
+risk associated with participation.
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+Consent forms will be sent in advance of the scheduled interview. Researchers will review the informed
+consent information prior to staring the interview. Participants will be asked if they have any questions
+about the consent form prior to beginning the interview. Participants will also be asked if they consent to
+participate in the study before the start of the interview.
+
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+The consent form provided to potential participants in advance of the scheduled interview will inform
+individuals that their participation and continuation in the project is voluntary. Additionally, at the
+beginning of our research protocol, the interviewer will restate the following: “Participation in this
+study is voluntary; You may request that the recording stop, choose to not answer a question, or end the
+interview at any time.”
+
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+X
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent? Research staff
+
+b.) How will consent be obtained? Verbally before the start of the interview
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Before the start of the interview, researchers will review the informed consent information prior to
+staring the interview and ask participants if they have any questions about the consent form. After
+any questions are answered, the interviewer will ask if the participant consents to the interview and to
+be audio-recorded.
+
+d.) How will you verify the subject fully understands the consent?
+Researchers will ask participants if they have any questions about the consent form. The consent
+forms will also provide contact information for the principal investigator, the Authority’s IRB
+secretary to request further information about the studies, their rights as a research participant, and
+the initiative.
+
+e.) How will your investigators be trained to use the informed consent process?
+
+47
+
+ All Authority research staff are certified in the National Institutes of Health Office of Extramural
+Research’s web-based training course “Protecting Human Research Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+It is expected that all of the individuals being surveyed will be English speaking.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+24. Does the consent form you have attached fully comply with ICJIA instructions for consent forms
+that are in compliance with general requirements as outlined in the Code of Federal Regulations
+46.116 and the Authority’s IRB procedures? Please refer to the checklist. N/A
+Yes
+
+X
+
+No
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+48
+
+ SIGNATURE PAGE
+
+Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+PROJECT NAME:_____________________________________________________________
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+49
+
+ Do you identify as lesbian, gay, bisexual,
+transgender, or queer?
+Have you experienced a victimization?
+
+312-793-XXXX
+cja.victimstudies@illinois.gov
+
+50
+
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+Scan for more information
+
+All correspondence is
+confidential
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+As a study participant, you would complete a phone
+interview and receive a gift card for your
+participation.
+
+Contact the
+Center for Victim Studies
+at ICJIA
+
+LGBTQ Study – Center
+for Victim Studies
+312-793-XXXX
+Cja.victimstudies@illinois.gov
+
+We want to talk to LGBTQ identified persons who
+have experienced a victimization for a study on the
+victimization and help-seeking experiences of LGBTQ
+identified persons.
+
+ LGBTQ Study Phone Screen
+Thank you for contacting us about participating in our research study.
+First, we would like to ask a few questions to see if you qualify for the study. There will be no
+more than five questions.
+Question 1: Are you 18 years of age or older?
+Question 2: Do you identify as lesbian, gay, bisexual, transgender, or questioning/queer?
+Question 3: Has anyone ever harmed or hurt you by doing something that was against the
+law?
+If NO to questions 1, 2, or 3:
+Thank you for your interest in the study, however you do not meet the qualifications to
+participate. We appreciate you reaching out to us. If you would like, we can send you list of
+community resources that you may find helpful now or in the future. Would you like us to send
+you this information?
+If YES to questions 1, 2, and 3:
+Thank you for answering our questions. Based on your responses, you qualify to participate in
+this study. We just have a couple more questions to ask. [Questions 3 and 4 will inform what
+measures we provide respondents so that we do not ask individuals about help-seeking or
+disclosure when they have not engaged in such activities.]
+Question 4: Have you ever talked to a friend, family member or significant other about
+this experience?
+Question 5: Have you ever talked to a formal support provider such as a doctor, police
+officer, prosecutor, or social service provider about this experience?
+We would like to send you the materials for the study, which include an informed consent sheet
+that provides you more information and asks for your consent to participate, and a list of
+community resources. Do you prefer to receive this information by mail or email?
+If EMAIL: What is your name and email address?
+If MAIL: What is your name and address?
+We will follow-up with you in about a week to see if you have received the study materials, to
+answer any questions you may have, and to ask about your interest in scheduling an interview.
+What is the best phone number or email address to reach you at?
+Can we leave a message for you at this phone number?
+
+51
+
+ Dear [Participant],
+Thank you for your interest in participating in our study of the victimization and helpseeking experiences of individuals who identify as LGBTQ. Specifically, we are trying to see
+how well certain survey questions that ask about discrimination, coping, and help-seeking
+capture the experiences of LGBTQ identified individuals.
+We are asking you to participate in a 30-45 minute phone interview that will ask you
+information about your victimization experiences and [INSERT CONSTRUCT], as well as some
+basic demographic information about yourself. You will be offered a $30 gift card for your
+participation.
+Please read the enclosed materials. We have included an informed consent sheet and a list
+of community resources. The consent form gives you some additional information about the
+study. The list of community resources may be helpful if you wish to contact someone regarding
+your experiences.
+Please contact us at your earliest convenience to schedule an interview. You can reach
+research staff at 312-793-XXXX or via email at CJA.VictimStudies@illinois.gov. If you have
+any questions please feel free to contact us.
+Thank you for your assistance!
+Center for Victim Studies
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+O: 312-793-8550
+F: 312-793-8422
+
+52
+
+ Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Preliminary Study of LGBTQ Victimization and Help-Seeking
+
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigators Name and Title:
+
+Amanda L. Vasquez
+Research Analyst, Center for Victim Studies
+Dr. Jaclyn Houston-Kolnik
+Research Manager, Center for Victim Studies
+
+Department and Institution:
+
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+
+Address and Contact Information:
+
+300 W. Adams St., Suite 200, Chicago, IL 60606
+Phone: 312-793-8550
+Email: Jaclyn.kolnik@illinois.gov
+
+Sponsor:
+
+Victim of Crime Act (VOCA)
+
+Why am I being asked?
+You are being asked to be a subject in a research study to examine how well survey questions
+that ask about discrimination, coping, and help-seeking measures capture the experiences of
+individuals identifying as lesbian, gay, bisexual, transgender, or queer/questioning (LGBTQ)
+who have been the victim of a crime. You have been asked to participate in this study because
+you have been the victim of a crime and have identified as LGBTQ.
+Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future dealings with the Illinois Criminal Justice Information Authority
+(ICJIA). If you decide to participate, you are free to withdraw at any time without affecting
+that relationship.
+Approximately 50 subjects may be involved in this research at ICJIA.
+What is the purpose of this research?
+Researchers are trying to create a survey that accurately captures the victimization and helpseeking experiences of LGBTQ identified individuals in Illinois. Specifically, researchers are
+trying to see how well certain survey questions that ask about discrimination, coping, and helpseeking capture the experiences of LGBTQ identified individuals.
+
+53
+
+ What procedures are involved?
+If you agree to participate, a researcher will ask you to participate in a phone interview. The
+interview will be audio-recorded with your permission. You can choose not to be audiorecorded. If you choose not to be audio-recorded we will simply document your responses using
+paper and pencil. You will be asked questions about your victimization experience(s). In
+addition, you may be asked questions about one of the following experiences: instances of
+discrimination, how you have dealt with your victimization, or experiences you had seeking help
+from others. You will also be asked some basic demographic information.
+What are the potential risks and discomforts?
+There may be risks from the study that are not known at this time. To the best of our knowledge,
+the things you will be doing have no more risk of harm than you would experience in everyday
+life.
+Some questions may make you uncomfortable. Please remember, it is up to you to decide
+whether to answer any of the questions.
+Will I be told about new information that may affect my decision to participate?
+During the course of the study, you will be informed of any significant new research information
+(either good or bad), such as changes in the risks or benefits resulting from participation in the
+research or new alternatives to participation, that might cause you to change your mind about
+continuing in the research. If new information is provided to you, your consent to continue
+participating in this research may be re-obtained.
+Are there benefits to taking part in the research?
+You will be offered a $30 gift card for being in this study. You will receive no other direct
+benefit from participation in the research. Indirect benefits would include a better understanding
+of how to capture the experiences of LGBTQ identified individuals following victimization. This
+information could be used to inform future research that may have important policy implications
+for how the state can work to improve victim services for LGBTQ identified individuals.
+What other options are there?
+You have the option to not participate in this study. Even if you initially choose to participate
+you may change your decision at any time without penalty. You may also not answer a
+question at any time. This will not affect the compensation you receive for participating in the
+study.
+You will be asked to be audio-recorded. You may choose to participate in an interview but not be
+audio-recorded. If you choose not to be audio-recorded, the information will be collected using
+pencil and paper.
+
+54
+
+ What about privacy and confidentiality?
+The people who will know that you are a research subject are members of the research team.
+If you agree, interviews will be audio-recorded and saved on secure computers and/or servers in
+the Authority offices. Audio-recordings on the recording devices will be erased within 48 hours
+of recording. Interview transcriptions in computerized word processing files will be stored
+securely on the Authority’s computers and servers. Any information that might identify you will
+be removed from the interview transcripts. Only the researchers will have access to the audiorecording, transcripts, and notes.
+You may choose to participate in the study even if you do not want to be audio-recorded. In this
+case, we will simply take notes using pencil and paper. These notes will be later typed and stored
+securely on the Authority’s computers and servers. These notes will not contain any information
+that might identify you.
+The information collected in the study may be used to write a report. No potentially identifying
+information that can be attributed directly to you will be included in the report or discussed with
+others.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+You will be offered a $30 gift card for being in this study.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation
+at any time. This will not affect the compensation you receive for participating in the study.
+Who should I contact if I have questions?
+If you have any questions regarding this project you may contact Amanda L. Vasquez or Dr.
+Jaclyn Kolnik at 312-793-8550 or CJA.VictimStudies@illinois.gov
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may call the IRB secretary at 312-793-8550.
+Remember:
+
+55
+
+ Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future relations with ICJIA. If you decide to participate, you are free to
+withdraw at any time without affecting that relationship.
+
+Verbal consent (before the interview):
+Now that I have reviewed with you the information contained in the consent form, do you have
+any questions about the consent form or this project?
+If no: proceed below.
+If yes: answer all questions.
+Now that your questions have been answered, do you consent to participating in this research
+study?
+If no: thanked for your time (conversation ended).
+If yes: proceed below.
+Do you consent to being audio-recorded?
+If no: no problem. I will take handwritten notes during the interview instead.
+If yes: let me turn on the recorder and we will begin.
+
+56
+
+ LGBTQ* Service Providers
+Central Illinois
+Central Illinois Pride Health
+Center
+Bloomington, IL
+cipridehealthcenter@gmail.com
+(815) 893-7459
+
+Planned Parenthood-Bloomington
+Health Center
+1319 N. Veterans Parkway
+Bloomington, IL 61704
+(309) 827-4014
+
+The Phoenix Center
+109 East Lawrence Avenue
+Springfield, IL 62704
+(217) 528-5253
+
+Collar Counties
+Community Alliance & Action
+Network
+Joliet, IL
+info@caanmidwest.org
+
+McHenry County Pride
+5603 Bull Valley Rd.,
+McHenry, IL 60050
+McHenryCountyPride@gmail.com
+
+Cook County
+Broadway Youth
+Center
+4009 N. Broadway,
+Chicago, IL 60613
+(773) 935-3151
+Center on Halsted
+3656 N Halsted St,
+Chicago, IL 60613
+(773) 472-6469
+Chicago House
+1925 N. Clybourn Ave,
+Chicago, IL 60614
+(773) 248-5200
+
+Chicago Commission on
+Human Relations
+Community Tensions &
+Hate Crimes
+(312) 744-2571
+El Rescate
+2703 W. Division St
+Chicago, IL 60622
+(872) 829-2662
+Howard Brown Health
+4025 N. Sheridan Road
+Chicago, IL 60613
+(773) 388-1600
+**MULTIPLE
+LOCATIONS
+
+IntraSpectrum Counseling
+180 North Michigan Ave,
+Suite 1830, Chicago, IL
+60601
+(773) 750-3505
+Lambda Legal Illinois
+105 W Adams St, Chicago,
+IL 60603
+(312) 663-4413
+New Town Alano Club
+909 West Belmont Ave
+2nd Floor
+Chicago, IL 60657
+info@newtownalanoclub.org
+(773) 529-0321
+
+Test Positive Aware
+Network
+5537 N. Broadway St.
+Chicago, IL 60640
+(773) 989-9400
+The Crib
+The Night Ministry
+Info@thenightministry.org
+(773) 549-4158
+West Suburban Senior
+Services LGBTQ
+Program
+8300 Roosevelt Road,
+Forest Park, IL
+(708) 234-1859
+
+Northern Illinois
+Harmony Center for Holistic
+Psychotherapy-Spectrum of Rockford
+L.G.B.T. Counseling Program
+6625 N. 2nd Street
+Loves Park, IL 61111
+(815) 639-0300
+
+Southern Illinois
+Rainbow Café LGBT Youth
+Center
+Carbondale, IL
+info@rainbowcafe.org
+(618) 521-2328
+
+Tri-State Alliance
+PO Box 2901
+Evansville, IN 47728
+3statealliance@gmail.com
+(812) 480-0204
+
+National Hotlines:
+The Trevor Project: (866) 488-7386
+Trans Lifeline: (877) 565-8860
+GLBT National Hotline: 1-888-843-4564
+
+57
+
+ Victim Service Providers
+Central Illinois
+Center for Prevention of Abuse
+P.O. Box 3855
+Peoria, IL 61612-3855
+(309) 691-0551
+Crisis Line: 1-800-559-SAFE
+(7233)
+
+Sojourn Shelter and Services
+1800 Westchester Blvd.
+Springfield, IL 62704
+Hotline: (217) 726-5200
+Office: (217) 726-5100
+TTY: (217) 726.7385
+Toll-Free Hotline 1 (866) HELP4DV
+(435-7438)
+
+Prairie State Legal Services
+201 West Olive Street, #203
+Bloomington, IL 61701
+Phone: (309) 827-5021; (800) 874-2536
+
+Collar Counties
+Guardian Angel Home
+168 N. Ottawa Street
+Joliet, IL 60432
+24-Hour Domestic Violence Hotline: (815) 729-1228
+24-Hour Sexual Assault Hotline: (815) 730-8984
+TTY: (815) 741-4643
+
+Pioneer Center for Human
+Services
+4031 W Dayton St
+McHenry, IL 60050
+Phone: (815) 344-1230
+
+Association for Individual Development
+Kane County, IL
+Main Office Phone: (630) 966-4000
+
+Cook County
+Between Friends
+P.O. Box 608548
+Chicago, IL, 60660
+Phone: (773) 274-5232
+Crisis Hotline: (800) 603HELP(4357)
+Chicago Survivors
+Chicago, IL
+24/7 Helpline: (855) 866-6679
+Phone: (312) 488-9222
+
+Crisis Center for South
+Suburbia
+Tinley Park, IL
+24/7 Hotline
+Phone: (708) 429-7233
+
+Heartland Alliance
+Violence Recovery Services
+Chicago, IL
+Phone: (773) 847-4417
+
+Metropolitan Family Services
+Legal Aid Society
+Chicago, IL
+Phone: (312) 986-4200
+
+Family Rescue
+Chicago, IL
+24-Hour Crisis Line:
+(800) 360-6619
+(773) 375-8400
+
+Metro YWCA
+Chicago: (312) 733-2102
+West Suburbs: (630) 790-6600
+South Suburbs: (708) 754-0486
+
+Rape Victim Advocates
+180 N. Michigan Ave.
+Suite 600
+Chicago, IL 60601
+Phone: (312) 443-9603
+
+Northern Illinois
+Family Resources, Inc.
+1521 47th Avenue
+Moline, IL 61265
+Phone: (309) 797-6534
+24-Hour Toll Free Crisis Line:
+1 (866) 921-3354
+
+Remedies
+220 Easton Parkway
+Rockford, IL 61108
+Domestic Violence Phone: (815) 962-6102
+24 Hr. Domestic Violence Hotline:
+(815) 962-6102
+
+Alternatives
+Quad Cities Office
+1803 7th Street
+Moline, IL 61265
+(309) 277-0167
+(800) 798-0988
+
+Southern Illinois
+The Women’s Center
+Carbondale, IL
+Telephone: (618) 549-4807
+Marion Office: (618) 993-3178
+Harrisburg Office: (618) 294-8641
+Franklin Co Office: (618)438-4118
+
+Land of Lincoln Legal
+Assistance Foundation, Inc.
+Legal Advice and Referral Center
+Toll Free Number: (877) 342-7891
+
+National and State Hotlines:
+Adult Protective Services Hotline: 1 (866) 800-1409; 1 (888) 206-1327 (TTY).
+Chicago Rape Crisis Hotline: (888) 293-2080 (Chicago Metropolitan Area),
+(630) 971-3927 (DuPage County), (708) 748-5672 (South Suburbs)
+Illinois Crime Victim Assistance Line: 1-800-228-3368 (Voice); 1-877-398-1130 (TTY)
+National Domestic Violence Hotline: 1 (800) 799−7233
+RAINN Hotline: 1 (800) 656-HOPE
+
+58
+
+ Illinois Criminal Justice Information Authority
+Interview Protocol
+Preliminary Study of LGBTQ Victimization and Help-Seeking
+[After participant gives consent to being recording]
+This conversation is now being recorded. To confirm, do you consent to being audio recorded?
+If NO turn off audio recorder.
+DEMOGRAPHICS:
+Before we get to the survey items, I have some initial questions to learn more about you.
+1. What is your age __________
+2. How would you describe yourself in terms of race/ethnicity ____________
+3. What Illinois county do you live in? ____________
+4. What sex were you assigned at birth, on your original birth certificate?
+a. Male
+b. Female
+5. What is your current gender identity? (Check all that apply)
+a. Male
+b. Female
+c. Trans male/Trans man
+d. Trans female/Tran woman
+e. Genderqueer/Gender non-conforming
+f. Different identity (please state): ______
+6. How would you describe your gender expression ____________
+[Options if prompted]
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+Very feminine
+Mostly feminine
+Somewhat feminine
+Equally feminine and masculine
+Somewhat masculine
+Mostly masculine
+Very masculine
+
+7. What is your sexual orientation____________
+
+59
+
+ VICTIMIZATION QUESTIONS
+In order to understand more about your victimization experiences, I am going to read a list of
+events that may have taken place. After each event, please respond yes, no, or prefer not to
+answer as to whether or not this event has occurred at any point in your entire life, including
+early childhood.
+Has/Have...
+1. Physical force been was used against you in a robbery or mugging.
+Yes (1) No (2) Prefer not to answer (3)
+2. An immediate family member, significant other, or very close friend died because of a
+serious injury or homicide.
+Yes (1) No (2) Prefer not to answer (3)
+3. Someone (parent, other family member, significant other, friend, acquaintance, stranger,
+or someone else) used physical force against you to have intercourse, or to have oral or
+anal sex against your wishes, or when you were helpless, such as being asleep or
+intoxicated.
+Yes (1) No (2) Prefer not to answer (3)
+4. Someone touched private parts of your body, made you touch their body, or tried to make
+you have sex against your wishes.
+Yes (1) No (2) Prefer not to answer (3)
+5. As a child, a parent, caregiver, or other person slapped you repeatedly, beat, or otherwise
+attacked you.
+Yes (1) No (2) Prefer not to answer (3)
+6. As an adult, a significant other, date, family member, stranger, or someone else kicked,
+beat, slapped, or otherwise physically harmed you.
+Yes (1) No (2) Prefer not to answer (3)
+7. Someone has threatened you with a weapon like a knife or gun.
+Yes (1) No (2) Prefer not to answer (3)
+8. As an older adult, someone physically abused, threatened, or tricked you to give them
+money.
+Yes (1) No (2) Prefer not to answer (3)
+9. Someone through force, fraud, or coercion made me provide labor services or involved
+you in the commercial sex trade.
+Yes (1) No (2) Prefer not to answer (3)
+10. Someone held you captive against your will.
+Yes (1) No (2) Prefer not to answer (3)
+11. Someone purposely set your house on fire.
+Yes (1) No (2) Prefer not to answer (3)
+12. Someone repeatedly watched you, followed you, or made unwanted contacts towards
+you.
+Yes (1) No (2) Prefer not to answer (3)
+13. You been hurt by someone’s car when they were driving under the influence.
+
+60
+
+ Yes (1) No (2) Prefer not to answer (3)
+
+You indicated you have had the following experiences at some point in your life [LIST FROM
+ABOVE WHERE RESPONS IS YES]
+Which experience impacted you the most?
+
+DISCLOSURE QUESTIONS
+We are also interested in whether you talked to anyone about [INSERT MOST IMPACTFUL
+EXPERIENCE], the experience you said impacted you the most.
+Have you ever talked to anyone about [INSERT MOST IMPACTFUL EXPERIENCE]?
+1. Yes
+2. No
+3. Prefer not to answer
+[If NO or PREFER NOT TO ANSWER skip to SURVEY ITEMS]
+Did you ever talk to…
+1. A romantic partner
+Yes (1) No (2) Prefer not to answer (3)
+2. A parent or step-parent
+Yes (1) No (2) Prefer not to answer (3)
+3. A family member/relative other than parents
+Yes (1) No (2) Prefer not to answer (3)
+4. A friend
+Yes (1) No (2) Prefer not to answer (3)
+5. A minister, priest, rabbi, or other religious figure
+Yes (1) No (2) Prefer not to answer (3)
+6. A psychiatrist or other mental health counselor
+Yes (1) No (2) Prefer not to answer (3)
+7. A medical doctor, other medical person, or emergency room staff
+Yes (1) No (2) Prefer not to answer (3)
+8. The police
+Yes (1) No (2) Prefer not to answer (3)
+9. Victim service provider
+Yes (1) No (2) Prefer not to answer (3)
+10. LGBTQ specific service provider
+Yes (1) No (2) Prefer not to answer (3)
+11. Employer
+
+61
+
+ Yes (1) No (2) Prefer not to answer (3)
+12. Teacher
+Yes (1) No (2) Prefer not to answer (3)
+13. Members of the media
+Yes (1) No (2) Prefer not to answer (3)
+14. Anyone else (Please specify who:___________________)
+Yes (1) No (2) Prefer not to answer (3)
+People may learn about your experience in a variety of ways, such as you made the decision to
+tell them or due to other circumstances you talked with them about your experience (e.g.,
+accessing medical care, missing work, the police came to talk to you, someone witnessed the
+event and asked you about it).
+You said you told [LIST FROM ABOVE WHERE RESPONSE IS YES] about [INSERT MOST
+IMPACTFUL EXPERIENCE]. For the following questions, think about the first person you told
+in each of the categories. For example, if you told more than one friend think about the first
+friend you told.
+Did you…
+1. Make the decision to talk with this person?
+2. Due to other circumstances, talk with them about your experience?
+INTERVIEWER RECORD:
+Did the respondent….
+1. …need you to repeat any part of the question? Yes (1) No (2)
+2. …have any difficulty using the response options? Yes (1) No (2)
+3. … ask for clarification or qualify their answer? Yes (1) No (2)
+We are interested in whether or not the prior questions accurately captured your experience(s)
+talking to others.
+1. How do you feel these questions captured your experience(s) talking to others?
+SURVEY ITEMS:
+Now we are going to transition to questions that ask about [INSERT CONSTRUCT NAME, e.g.,
+coping]. There are [INSERT NUMBER BASED ON WHICH ASSIGNED SURVEY ITEM
+SET]
+I will read each question and the response options aloud one at a time. From those response
+options, please indicate the response that best captures your experiences.
+
+62
+
+ If needed, I can repeat the question or the response options, however I am not able to clarify the
+survey items themselves as we are interested in how you understand the survey item. If an item
+seems to be unclear, we may ask you further follow up questions to learn how we can better
+write the question to accurately capture your experience.
+Do you have any questions about this process before we begin?
+I will now read the first question and the response options.
+Following each question, read the survey item and response options:
+INTERVIEWER RECORD:
+Did the respondent….
+1. …need you to repeat any part of the question? Yes (1) No (2)
+2. …have any difficulty using the response options? Yes (1) No (2)
+3. … ask for clarification or qualify their answer? Yes (1) No (2)
+ASK RESPONDENT:
+1. Why did you choose that response option?
+AT END OF SURVEY ITEMS:
+We are interested in whether or not the prior questions accurately captured [INSERT
+CONSTRUCT, e.g., how you cope with stressful experiences].
+1. What does [INSERT CONSTRUCT, e.g., coping] mean to you?
+2. How do you feel these questions captured how you [INSERT CONSTRUCT, e.g.,
+coped with your victimization experience]?
+3. What other [INSERT CONSTRUCT, e.g., ways do you cope] that we did not ask
+about in the survey?
+
+63
+
+ CONSTRUCT: DISCRIMINATION
+Instructions:
+In the following questions, we are interested in the way other people have treated you or your
+beliefs about how other people have treated you. Can you tell me if any of the following has ever
+happened to you:
+Response options:
+Yes/No/Prefer not to answer
+Survey questions:
+1. At any time in your life, have you ever been unfairly denied a promotion or fired?
+2. For unfair reasons, have you ever not been hired for a job?
+3. Have you ever been treated unfairly, prevented from doing something, or been hassled
+or made to feel inferior by teachers or classmates?
+4. Have you ever been unfairly prevented from moving into a neighborhood because the
+landlord or a realtor refused to sell or rent you a house or apartment?
+5. Have you ever moved into a neighborhood where neighbors unfairly made life
+difficult for you or your family?
+6. Have you ever been unfairly denied medical care or provided medical care that was
+worse than what other people get?
+7. In addition to what we have talked about, have you ever been treated unfairly,
+prevented from doing something, or been hassled or made to feel inferior by the police
+or the courts?
+8. Thinking over your entire life, in addition to what we have talked about, have you ever
+been treated unfairly, prevented from doing something, or been hassled or made to feel
+inferior in some other aspect of your life?
+Follow-up Questions (if yes to any):
+9. What do you think is the main reason for these experiences?
+a. Your Ancestry or National Origins
+b. Your Gender Identity
+c. Your Gender Expression
+d. Your Race
+d. Your Age
+e. Your Religion
+f. Your Height
+g. Your Weight
+h. Some other Aspect of Your Physical Appearance
+i. Your Sexual Orientation
+
+64
+
+ j. Your Education or Income Level
+k. Prefer not to answer
+2. When was the last time this happened?
+a. Past week
+b. Past month
+c. Past year
+d. More than a year ago
+e. Prefer not to answer
+3. How many times has this happened in your lifetime?
+
+65
+
+ CONSTRUCT: COPING
+Instructions:
+These items ask about ways you've been dealing with stress in your life. There are many ways to
+try to deal with stress. We are interested in how much you've been doing the following to deal
+with stress.
+Response options:
+
+Prefer not to
+answer
+
+I haven’t been
+doing this at all.
+
+I’ve been doing
+this a little bit.
+
+I’ve been doing
+this a medium
+amount.
+
+I’ve been doing
+this a lot.
+
+Survey questions:
+1. I've been turning to work or other activities to take my mind off things.
+2. I've been concentrating my efforts on doing something about the situation I'm in.
+3. I've been saying to myself "this isn't real."
+4. I've been using alcohol or other drugs to make myself feel better.
+5. I've been getting emotional support from others.
+6. I've been giving up trying to deal with it.
+7. I've been taking action to try to make the situation better.
+8. I've been refusing to believe that it has happened.
+9. I've been saying things to let my unpleasant feelings escape.
+10. I’ve been getting help and advice from other people.
+11. I've been using alcohol or other drugs to help me get through it.
+12. I've been trying to see it in a different light, to make it seem more positive.
+13. I’ve been criticizing myself.
+14. I've been trying to come up with a strategy about what to do.
+15. I've been getting comfort and understanding from someone
+16. I've been giving up the attempt to cope.
+17. I've been looking for something good in what is happening.
+18. I've been doing something to think about it less, such as going to movies, watching TV,
+reading, daydreaming, sleeping, or shopping.
+19. I've been accepting the reality of the fact that it has happened.
+20. I've been expressing my negative feelings.
+21. I've been trying to find comfort in my religion or spiritual beliefs.
+22. I’ve been trying to get advice or help from other people about what to do.
+23. I've been learning to live with it.
+24. I've been thinking hard about what steps to take.
+25. I’ve been blaming myself for things that happened.
+26. I've been praying or meditating.
+
+66
+
+ 27.
+28.
+29.
+30.
+
+I’ve been working to hide my LGBT+ identity.
+I’ve been changing what I say or do to cover up my LGBT+ identity.
+I’ve been taking care to avoid places or people that are not LGBT+ friendly.
+I’ve been seeking out places or people that support LGBT+ identified persons.
+
+67
+
+ CONSTRUCT: SECONDARY VICTIMIZATION
+Instructions:
+As part of this study, we are trying to understand how agencies in this community treat victims
+of violence. These next few questions will ask you whether or not you have experienced certain
+things.
+Response options:
+Yes/No/Prefer not to answer
+Survey questions:
+1. Seem reluctant to provide services/take a report/treat you?
+2. Refuse to provide services/take a report/treat you?
+3. Ask if you could have done anything to prevent or stop the victimization?
+4. Ask you why your memory was vague or scattered?
+5. Ask about your prior victimization history?
+6. Tell you the case was not serious enough to pursue or there was not enough evidence?
+7. Have an impersonal or detached interpersonal style?
+8. Give you information about the victimization you experienced or the impact of trauma?
+9. Seem to believe your story?
+10. Support your decisions?
+11. Say there was nothing they could do?
+12. Blame you for the victimization?
+13. Use a gender pronoun that does not match your gender identity?
+14. Seem to treat you unfairly or differently than others?
+15. Give you information on services for victims?
+
+68
+
+ Dear [Participant],
+Thank you for participating in our study that is trying to learn more about the
+victimization and help-seeking experiences of individuals who identify as LGBTQ. Your
+participation is invaluable in informing our understanding of the experiences of LGBTQ
+identified individuals in Illinois who have experienced victimization.
+We have enclosed a $30 gift card in appreciation for your participation in this research
+study.
+If you have any questions please feel free to contact us. You can reach research staff at
+312-793-XXXX or via email at CJA.VictimStudies@illinois.gov.
+Thank you for your assistance!
+Center for Victim Studies
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+O: 312-793-8550
+F: 312-793-8422
+
+69
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Jessica Reichert, Senior Research Analyst
+Justin Escamilla, Research Analyst
+
+Principal investigator(s) email:
+
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Jessica.Reichert@illinois.gov
+Justin.Escamilla@Illinois.gov
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation:
+Start date of project:
+
+December 7, 2017
+
+End date of project:
+
+December 7, 2018
+
+Title of proposal: Evaluation of PERC (Pathway to Enterprise for Returning Citizens)
+Initial approval type:
+
+Full IRB: X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+Primary
+
+X Secondary
+
+If SECONDARY, please briefly indicate the source of the data:
+PERC application data on all applicants
+PERC administrative data on program participants
+Illinois State Police, Criminal History Record Information, arrest records
+Illinois Department of Employment Security, employment records
+Illinois Department of Corrections, corrections records
+
+70
+
+ How is the end date of the study defined?
+The publication of one or more evaluation reports on the Illinois Criminal Justice Information
+Authority (Authority) website and/or in a peer-reviewed journal.
+
+I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+
+X
+X
+
+Juveniles in correctional or detention facilities
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+No
+
+X
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+PERC is a new program to help formerly incarcerated men and women start their own
+businesses. The program includes classroom training on business fundamentals and
+mentoring and coaching to develop a business plan. Post-release classroom training will begin
+at five south and west side Chicago locations in early 2018. Graduates of the program will be
+eligible to apply for special loans to help them start a business.
+The purpose of the study is to identify and share effective program components that contribute
+to successful participant outcomes. These components will be identified through the collection
+and analysis of administrative program information about each training organization and the
+participants. This information will help to measure specific outcomes for participants such as
+71
+
+ reductions in recidivism, the creation of their own business, obtainment of a loan, and/or
+employment outcomes after the training takes place. This information will also help educate
+policy makers about the potential benefit of offering formerly incarcerated men and women
+intensive business training and planning followed by small loans to start their own business.
+Researchers will employ a randomized control trial design. Research will track administrative
+data on subjects who are applicants to the PERC program and who consent to participation in
+the study.
+
+B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+Component 1: Client treatment records (n=375)
+a.) Time involvement of subjects:
+Potential participants will be asked to review and sign a consent form allowing researchers
+access to administrative data and records. It will take approximately 2 minutes to read and
+sign the consent form.
+b.) Location(s) the study will be conducted with subjects, including a description, if applicable:
+ICJIA researchers will provide consent forms to staff of Illinois Department of Corrections
+(IDOC) and Safer Foundation, which operates several correctional facilities. IDOC staff will
+administer and collect consent forms to program applications at eight Correctional Centers
+(CC): Hill CC, Lawrence CC, Robinson CC, Sheridan CC, Kewanee CC, Pinckneyville CC,
+Logan CC, and Big Muddy CC. The Safer Foundation staff will administer and collect
+consent forms at two of their Adult Transition Centers (ATC) in Chicago: ATC-North
+Lawndale, and ATC-Crossroads.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None.
+d.) What subjects will experience or do: Subjects will sign a consent form.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study: 375
+Training group participants: 125
+Non-training group participants: 250
+b.) Number in age ranges:
+
+Under 18 0
+
+18 and older
+
+375
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American X
+
+American Indian
+
+X
+
+Asian X
+
+Hispanic X
+
+White X
+
+Other X
+
+Bi-racial
+
+X
+
+72
+
+ Unknown
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n): 375
+(Note: at the time of consent, subjects will be prisoners)
+
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+375
+
+(Note: subjects will be tracked post-release)
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+X
+
+Recruitment
+
+X
+
+Potential subjects in prison will be offered the opportunity to participate in the study. The
+informed consent form will outline the purpose of the study, the risks, benefits and procedures
+involved should they choose to participate, and the voluntary nature of the study. The form will
+be provided to participants by IDOC and Safer staff.
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+All offenders meeting certain criteria for the program and completing an application will be
+offered the opportunity to participate in this study+.
+Program criteria/eligibility:
+ Be housed in one of the 10 prisons
+ Released by March 1
+ Released to a Cook County address
+ No conviction for certain felony white collar/financial crimes or class X sex offenses
+ Completed an application by due date
+The study will track outcomes of those who consent to the study. Participants will be randomly
+assigned by ICJIA researchers to the treatment group (PERC group) and control group
+(business as usual group).
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+Benefits to subjects include:
+ A chance to receive free business-skills training
+ An opportunity to apply for a special loan upon completion of the program
+Benefits to PERC include:
+ A comprehensive program evaluation that identifies effective practices and areas in
+need of improvement.
+ Outcome information that informs potential funders and policy makers about the
+efficacy of the program model and its implementation.
+Benefits to the field include:
+ Provide information on effective critical program components of a business program for
+73
+
+ 
+
+
+returning citizens.
+Offer the most rigorous research design possible to be able to determine outcomes.
+Contribute to the literature on the effectiveness of a unique program that offers not only
+training, but potential business loans to returning citizens.
+
+Benefits to ICJIA include:
+ Provide information as a part of ICJIA’s broader evaluation goals to determine
+effectiveness criminal justice programs in general, especially those funded,
+administered, or operated by the Authority.
+ Provide information on effective critical components and outcomes to guide Authority
+support and potential funding, as well as potential replication and expansion beyond
+the Chicago area.
+
+7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+X
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+Does not apply.
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+74
+
+ 10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study. Risks and benefits that would result even if
+the research weren’t undertaken should not be considered.
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+
+75
+
+ 14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+X
+
+a.) If YES, what is the amount and source of the funds?
+Amount
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+No
+
+X
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+b.) What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in
+publications, etc.? How does the investigator(s) define “completion” of the study?
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc.)?
+The Illinois Department of Corrections will provide the applications of those eligible for
+PERC who have consented to the study. The applications will contain individual identifiers
+including names, dates of birth, DOC number, and social security number. A master list of
+all individuals who have consented to the study will be created. That master list will contain
+the names, dates of birth, DOC number, and social security number along with a unique
+study ID number assigned by the research staff. These data contained in the master file
+will be used to match participants to their corresponding Illinois criminal history arrest
+records, IDOC incarceration records, and Illinois Department of Employment Security
+employment records. Once matching is complete, a de-identified working file will be
+constructed from this master file for all subsequent analysis purposes. The unique study ID
+will be the linking variable between the master list and the de-identified dataset.
+
+76
+
+ b.) Describe project procedures for maintaining the security of these records at every point in
+the data collection process.
+Individual identifiers of the sample (treatment and control group) are needed to link to
+administrative data. Once the data have been linked, the data will be stripped of the
+identifiers. Only the unique study ID number will remain. Only the final, de-identified
+dataset will be used to analyze the data.
+The master list containing the personally identifying information and study ID will be
+maintained on secure, password protected servers and computers accessible only to the
+research staff. The final de-identified dataset will also be kept on secure, password
+protected servers and computers accessible only to the research staff separate from the
+master list.
+
+c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+Researchers need to link pre- and post-tests and administrative data in order to answer its
+research questions.
+
+d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have access
+to names or other individual identifiers? Describe the procedures for maintaining security of
+paper files, automated files, and other records.
+e.) Will names of subjects be included in any publication based on this study? If YES, for what
+reason(s)?
+Yes
+
+No
+
+X
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+X
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+X
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+77
+
+ Verbal
+
+X
+
+Written
+
+No consent needed
+
+Waiver of consent
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+X
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why.
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent? ICJIA researchers will provide consent forms to staff of Illinois
+Department of Corrections (IDOC) and Safer Foundation, which operates several
+correctional facilities. IDOC staff will administer and collect consent forms at eight
+Correctional Centers (CC): Hill CC, Lawrence CC, Robinson CC, Sheridan CC,
+Kewanee CC, Pinckneyville CC, Logan CC, and Big Muddy CC. The Safer Foundation
+staff will administer and collect consent forms at two of their Adult Transition Centers
+(ATC) in Chicago: ATC-North Lawndale, and ATC-Crossroads.
+If a research subject has been released from one of the above facilities and is eligible to
+be in the research study, researchers will attempt to work with their parole officer to
+administer a consent form to be in each study.
+
+b.) How will consent be obtained?
+Researchers will offer a brief script for IDOC and Safer staff administering the consent
+forms. A paper form will be used to obtain consent for participation in the study.
+
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Consent will be obtained once after completing an application and meeting eligibility
+requirements.
+
+d.) How will you verify the subject fully understands the consent? The consent forms are
+written in a 9th grade or lower reading level. The consent forms will provide contact
+information for the principal investigator, the Authority’s attorney/IRB secretary to
+request further information about the studies, their rights as a research participant, and
+the initiative.
+
+e.) How will your investigators be trained to use the informed consent process?
+IDOC and Safer staff are experienced in obtaining consent for participation in research
+and other programming. The hard copies of the consent forms will be mailed to ICJIA
+78
+
+ researchers. IDOC and Safer will not be involved in the random selection of individuals
+into the treatment or control group.
+All Authority research staff are certified in the National Institutes of Health Office of
+Extramural Research’s web-based training course “Protecting Human Research
+Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+The application for the PERC program is in English and the program will be offered in
+English. Therefore, non-English speaking individuals will not be able to participate in the
+program or the study.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+24. Does the consent form you have attached fully comply with the Authority’s instructions for
+consent forms that are in compliance with general requirements as outlined in the Code of Federal
+Regulations 46.116 and the Authority’s IRB procedures? Please refer to the checklist.
+Yes
+
+X
+
+No
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+Attachments
+PERC administrative application
+PERC consent form
+PERC signature page
+PERC IDOC/Safer consent script
+
+79
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+SIGNATURE PAGE
+PROJECT NAME: Evaluation of PERC (Pathway to Enterprise for Returning Citizens)
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+80
+
+ Script for IDOC and Safer Personnel:
+This is a consent form to participate in a research study. It explains taking part in the research is
+your choice and describes the risks and benefits of participation. The information is being given
+to you to help you to make an informed decision. Please take a minute to review it and sign the
+signature page if you would like to participate.
+
+81
+
+ _____________ Pathway to Enterprise for Returning Citizens ______________
+Application Instructions: To apply for the Pathway to Enterprise for Returning Citizen (PERC) program, please fill out the information
+below.
+First Name
+Last Name
+Date of Birth
+(mm/dd/yyyy)
+Social Security Number
+(xxx-xx-xxxx)
+IDOC Facility Name
+Individual IDOC #
+Which of the following best describes
+where you expect to live immediately
+after you are released?
+
+My house or apartment
+The house or apartment of a friend or family member
+A shelter/transitional facility
+Other (please describe)
+
+Address upon release
+(street address, city, state, zip code)
+Phone number you will be able to be
+reached at upon release (including
+area code)
+Date of prison release
+(mm/dd/yyyy)
+Which of these are you most
+interested in learning how to do
+through PERC? (Check all that apply)
+
+Understand financial management
+Launch a business
+Improve time management
+Refine an existing business idea
+Create a business plan
+Access business funding and/or funders
+Network with entrepreneurs
+Other
+
+Have you ever been the owner of your
+own business in the past?
+
+Yes
+
+No
+
+Gender
+(Check one)
+
+Male
+
+Which of the following best describes
+your race/ethnicity (Check one)
+
+White (non-Hispanic)
+
+Female
+
+Other
+
+Hispanic or Latino
+Black/African-American
+Asian/Pacific Islander
+Native American/Alaska Native
+Other
+82
+
+ What is the highest level of education
+you have completed?
+(Check one)
+
+Bachelor's degree or higher
+Associate degree
+Technical/Vocational school
+Some college (no degree)
+High school/GED
+Some high school (no diploma)
+Junior high school (6th-8th grade)
+Elementary school (1st-5th grade)
+No schooling completed
+
+Your Business Idea
+Being part of PERC requires you to pursue a business idea where you will sell a product or service to customers. The business idea you
+choose might be related to the skills or talents you already possess or a personal hobby or passion. You will need to ask yourself "What
+do people want or need?" and "How can I sell it to them?"
+Please describe the business you want
+to start, including the primary
+product or service you will sell.
+
+Who would want to buy your product
+or service and why?
+
+Is there anything else you would like
+to tell us about your business idea?
+(optional)
+
+Applicant signature: ____________________________________________________________ Date: _____________
+Thank you for your interest in the PERC program. You will be notified if you have been selected for enrollment.
+
+83
+
+ By signing this form I consent to participate in this research study. I understand that by being
+part of the research study, researchers will randomly assign me to receive training or not.
+
+Signature
+
+Date
+
+Printed Name
+
+84
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Megan Alderden, PhD and Lily Gleicher
+
+Principal investigator(s) email: Megan.alderden@illinois.gov; lily.gleicher@illinois.gov
+Office Address:
+
+300 W Adams, St. 200
+
+City, State, Zip
+code:
+
+Chicago, IL 60606
+
+Office phone:
+
+312-793-8550
+
+Project staff and affiliation: __ICJIA_____
+Start date of project:
+
+10/01/17
+
+End date of project:
+
+10/01/18
+
+Title of proposal:
+Initial approval
+type:
+
+Community Focus Groups to Inform Countering Violent Extremism Training
+Curriculum
+
+Full IRB:
+
+x
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+x
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+x
+
+Primary
+
+Secondary
+
+If SECONDARY, please briefly indicate the source of the data:
+
+How is the end date of the study defined?
+Completion of training curriculum and final report for the Illinois Criminal Justice Information
+Authority.
+
+1
+
+85
+
+ I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+
+No
+
+Minors under age 18
+
+X
+
+Adult prisoners or individuals in secure confinement
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+x
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY 
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the
+study and the procedures subjects will undergo.
+The purpose of this study is to gather community input as part of an evaluation of a
+community-based violence prevention program. The information will also be used to inform
+the development of the bystander intervention/gatekeeper training program.
+The program will be implemented in up to four communities in Illinois. Researchers will conduct
+focus groups with community leaders and members about their perceptions of, and attitudes
+towards targeted violence prevention programs and more specifically about their perceptions
+about the utility of bystander training programs as it relates to reducing ideologically inspired
+violence. Junaid Afeef--the program director for the bystander training program--will contact
+community leaders from each of the respective sites and provide them with a script and
+information sheet to recruit community members to participate in the focus groups. Each
+community will have up to 6 focus groups, each with up to 8 community members. It is
+anticipated that each focus group will take about 1-2 hours.
+
+2
+
+86
+
+ B. PROCEDURES 
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+a.) Time involvement of subjects:
+
+Approximately 1-2 hours per focus group.
+b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable:
+Each focus group will occur in the locale of the sites that have agreed to participate in
+the training. The locations will be chosen by the community leaders, and will be in a
+setting that provides privacy.
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily):
+No payment will be offered.
+d.) What subjects will experience or do:
+Community members will be asked to participate in a focus group. During the focus
+group, participants will be asked questions about community concerns and their
+perceptions of bystander intervention/gatekeeper program elements.
+
+C. EQUITABLE SELECTION OF SUBJECTS 
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study:
+b.) Number in age ranges:
+
+200
+
+Under 18 0
+
+18 and older
+
+200
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American
+
+x
+
+American Indian
+
+x
+
+Asian
+
+x
+
+Hispanic
+
+x
+
+White
+
+x
+
+Other
+
+x
+
+Unknown
+
+x
+
+Bi-racial
+
+x
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n):
+
+0
+
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+0
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+Recruitment
+
+x
+
+3
+
+87
+
+ 5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+Prior to the focus groups, Junaid Afeef, the ICJIA-TVPP director, will contact identified
+community leaders in each of the pilot communities and provide them a recruitment script as
+well as an information sheet containing the location, date, time, and purpose of the focus groups
+to members in their community (see Community Leader Script; DHS-CVE Community Focus
+Group Flyer). Community leaders will recruit individuals from their respective communities to
+participate in the focus group. Only individuals 18 years and older will be recruited.
+Only adult members of the community will be recruited as the purpose of the focus groups is to
+gain insight from these implementation sites as to how the program can best be designed and
+implemented and to document information that will inform the overall evaluation of the
+program.
+
+D. RISK/BENEFIT ASSESSMENT  
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+There are no direct benefits to the subjects. The benefit for society is to help better inform
+community-based CVE/TVP programs and efforts. The information and feedback received
+from participants may inform the work that ICJIA-TVPP does in the future and will be used to
+document the program’s implementation (e.g., process evaluation).
+7. Does this study involve any of the following?
+Yes
+
+No
+x
+
+Use of deception by researchers
+
+x
+
+Use of punishment by researchers
+
+x
+
+Use of drugs by subjects for study purposes
+
+x
+
+Covert and/or participant observation
+
+x
+
+Induction of mental and/or physical stress to subjects by researchers
+
+x
+
+Procedures which risk physical harm to the subject
+
+x
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+x
+
+x
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+
+4
+
+88
+
+ b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+N/A
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+x
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+x
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study.
+Risks and benefits that would result even if the research weren’t undertaken should not be
+considered.
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+x
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+x
+
+Minimal
+
+5
+
+89
+
+ Greater than minimal
+High
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+Minimal
+
+x
+
+Greater than minimal
+High
+
+E. COMPENSATION  
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+x
+
+a.) If YES, what is the amount and source of the funds?
+Amount $
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+N/A
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+x
+
+F. CONFIDENTIALITY  
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+x
+
+No
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+The focus groups will be audio recorded. The inform consent document (see Focus Group
+Consent Form) provided to individuals will inform the participants that the focus group will
+be audiotaped and how the audio recordings will be used, stored, and disposed of. The focus
+group facilitator will go over the informed consent document at the beginning of the focus
+group. All signed consent sheets will be stored in a locked cabinet accessible only to
+research staff located in a locked office.
+Once the focus group is completed, the audio recording will be transferred from the
+recording device to a password protected folder on a secure server accessible only to
+6
+
+90
+
+ research staff associated with this project. The audio recording will be deleted from the
+recording device after successful transfer to the secure server. The recording will be stored
+for 3 years, per federal regulation (45 CFR 46), at which point the audio recordings will be
+destroyed.
+The focus group audio recording will be transcribed using a professional transcription
+service that is NIH and CITI trained and certified in Protecting Human Subject Research
+Participants. No identifying information will be included in the recording transcription. The
+transcripts will be maintained separately from the audio recordings and consent sheets in a
+password protected folder on a secure server accessible only to research staff on this project.
+b.) What will be done with the still photos, video, or audio recordings after the study has
+been completed? Will this information be destroyed, kept xx number of years, used in
+publications, etc? How does the investigator(s) define “completion” of the study?
+The audio recording will be wiped clear from the recording device after transfer to the
+computer. The recording will be stored for 3 years, per federal regulation (45 CFR 46), at
+which point the audio recordings will be destroyed. The grant study period is from August 1,
+2017 through July 31, 2019. Completion of the study is determined by the end of the grant
+period; however, production of deliverables may extend past July 31, 2019. These
+deliverables include a formal report for ICJIA-TVPP director, Mr. Afeef, as well as a report
+for the ICJIA website.
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+x
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc)?
+Prior to the focus group starting, participants will be asked not to share personally
+identifying information. However, it is possible during the course of the focus groups that
+such information is shared. In such cases, the information will be removed from all
+recording transcripts during the transcription process. Only the transcripts will be used
+during analysis. No identifying information will be recorded by researchers taking notes
+during the focus groups.
+b.) Describe project procedures for maintaining the security of these records at every point
+in the data collection process.
+Once the focus group is complete, the researcher will transfer the audio recordings from the
+recording device to a password protected folder on a secure server accessible only to
+research staff associated with this project. The audio recording will be deleted from the
+recording device after successful transfer to the secure server. The recording will be stored
+for 3 years, per federal regulation (45 CFR 46), at which point the audio recordings will be
+destroyed. The transcripts will be maintained separately from the audio recordings and
+consent sheets in a password protected folder on a secure server accessible only to research
+staff on this project.
+
+7
+
+91
+
+ c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+x
+
+Prior to the focus group starting, participants will be asked not to share personally
+identifying information. However, it is possible during the course of the focus groups that
+such information is shared.
+d.) Will access to names be under your exclusive control?
+Yes
+
+No
+
+x
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have
+access to names or other individual identifiers? Describe the procedures for maintaining
+security of paper files, automated files, and other records.
+Other focus group participants will know who attended the focus groups and will know of
+any personally identifying information shared during the course of the focus groups. Prior to
+the focus group starting, participants will be asked not to share personally identifying
+information and the information discussed during the focus groups. Researchers will inform
+the other participants that although we will do everything we can to protect their identity
+and the information shared, we are unable to provide full protection given the presence of
+other individuals in the focus groups.
+Researchers will do everything in their control not to share identifying information,
+including maintaining the audio recordings in a password protected folder on a secure server
+accessible only to research staff associated with this project, deleting the recording device
+after successful transfer to the secure server, using a transcription service that is certified in
+human subjects protections, removing all potentially identifying information during
+transcription, ensuring no identifying information is recorded when taking notes during the
+focus groups, and ensuring that audio records, transcripts and notes, and consent forms are
+maintained separately and in secure locations accessible to only research staff on this
+project.
+e.) Will names of subjects be included in any publication based on this study? If YES, for
+what reason(s)?
+Yes
+
+No
+
+x
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+x
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+x
+8
+
+92
+
+ G. INFORMED CONSENT  
+20. Do you intend to obtain informed consent?
+Verbal
+
+x
+
+Written
+
+No consent needed
+
+Waiver of consent
+documentation
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+x
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent?
+
+The researcher(s) facilitating the focus group.
+b.) How will consent be obtained?
+There will be a consent form provided to individuals who come to the focus groups that
+explains the purpose of the focus group and what the researchers intend to do with the
+information (see Focus Group Consent Form). Participants will be able to ask questions
+and will also be provided the researchers' contact information should they have questions
+following the completion of the focus group. The facilitator will go over the informed
+consent form with participants and answer any questions.
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Once at the beginning of the focus group.
+d.) How will you verify the subject fully understands the consent?
+Researchers will ask if participants have any questions about the consent form and will
+be asked to sign the consent form if they agree to participate in the focus group. The
+consent form will also be written at an appropriate reading level for laypersons.
+
+9
+
+93
+
+ e.) How will your investigators be trained to use the informed consent process?
+All researchers are trained in human subjects research protocols and are familiar with the
+informed consent process.
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+x
+
+a.) If NO, please explain why.
+The trainings are delivered in English and the training materials are in English. To date,
+no program applicants have indicated they are non-English speaking.
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+24. Does the consent form you have attached fully comply with ICJIA instructions for consent forms
+that are in compliance with general requirements as outlined in the Code of Federal Regulations
+46.116 and the Authority’s IRB procedures? Please refer to the checklist. N/A
+Yes
+
+x
+
+No
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+x
+
+No (explain below)
+
+10
+94
+
+ SIGNATURE PAGE
+
+Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+PROJECT NAME:__ Community Focus Groups to Inform Countering Violent Extremism
+Training Curriculum ___________
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+11
+95
+
+ Illinois Criminal Justice Information Authority
+Script for Focus Group Participant Recruitment – Initial Contact
+The Illinois Criminal Justice Information Authority (ICJIA) is working in partnership with
+Illinois communities on a project that seeks to develop a training program that helps community
+members intervene before crime or violence occurs. The program will focus on helping
+community members be able to recognize behaviors or actions that might indicate a concern
+worth paying attention to and know how to respond.
+Researchers will be gathering community input by conducting six focus groups—small group
+discussions—with various community members in [Community Name]. Each group will include
+up to eight people. The information gathered during the focus groups will be used to develop and
+evaluate the training program.
+The focus groups are completely voluntary and the discussion will be confidential. Here
+[Included] is a flyer with more detailed information about a focus group in your community,
+including the location and date/time. Please contact Megan Alderden, PhD at
+Megan.Alderden@illinois.gov or (312) 793-8550 if you have questions about the focus groups.
+
+96
+
+ Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Community Member Focus Group
+You are being asked to participate in a focus group—a researcher-led small group discussion—as
+part of a larger research study. Researchers are required to provide a consent form such as this to tell
+you about the research, to explain that taking part is voluntary, and to describe the potential risks and
+benefits of participation. Although this is being provided to you to help inform your decision to
+participate, you should feel free to ask the researchers questions you may have at any time.
+Principal Investigator Name and Title:
+
+Megan Alderden, PhD, Research Director
+Lily Gleicher, M.S., Research Analyst
+
+Department and Institution:
+
+Research & Analysis Unit, ICJIA
+300 W. Adams St., Suite 200, Chicago, IL 60606
+(312) 793-8550
+
+What is the purpose of this research?
+Researchers at the Illinois Criminal Justice Information Authority (ICJIA) are gathering community
+input on a project that seeks to develop a training program that helps community members intervene
+before crime or violence occurs. The program will focus on helping community members be able to
+recognize behaviors or actions that might indicate a concern and know how to respond. The
+information gathered will be used to develop the training program. The information will also be used
+as part of a larger evaluation of the bystander training program.
+Why am I being asked?
+You are being asked to participate in this focus group because you have been identified as a
+community member of [COMMUNITY NAME]. Approximately 8 other community members may
+be involved in this focus group.
+What am I being asked to do?
+You are being asked to participate in a focus group with other members of your community. The
+focus group will last about 1 ½ to 2 hours. During the focus group researchers will ask questions
+about:
+ Your views about violence and safety in your community.
+ Your opinions about the program’s design and content.
+ Concerns you may have about the program.
+The focus group will be audio-taped. Your participation in the focus group is voluntary. Your
+decision to participate does not require you to attend the training program being developed. Your
+decision whether to participate will not affect your current or future relations with the Illinois
+Criminal Justice Information Authority. You may decide not to answer any of the questions asked. If
+you decide to participate, you are free to withdraw at any point in time.
+What are the potential risks and discomforts to participating?
+To the best of our knowledge, participating in the focus group will have no more risk for harm than
+you would experience in everyday life. There may be some questions that make you feel
+
+97
+
+ uncomfortable. Please remember that participation is completely voluntary and you may choose to
+not answer any question or participate at any time without penalty.
+Will I be told about new information that may affect my decision to participate?
+During the course of our research, you will be informed of any significant new research information
+(either good or bad), such as changes in the risks or benefits resulting from participation in the focus
+group or new alternatives to participation, that might cause you to change your mind about
+participating. If new information is provided to you, your consent to continue participating in this
+research may be re-obtained.
+Are there benefits to taking part in the research?
+You will not receive any direct benefits; however, information gathered from the focus groups will
+be used to inform the development of training program that aims to intervene before crime or
+violence occurs. This will provide benefit to the communities receiving the training. The information
+will also be used as part of a larger evaluation of the training program that will benefit future
+programs.
+What other options are there?
+You have the option to not participate in this study.
+What about privacy and confidentiality?
+We will be audio recording the focus group. Researchers will do everything we can to protect your
+identity. This includes the following.
+
+
+
+
+
+
+
+Only the researchers working on this project will have access to the signed consent forms,
+interviewer notes, audio recording, and audio transcript.
+All interview notes and transcripts will be recorded in a manner that protects your identity.
+This includes ensuring that any names or other identifying information is removed.
+The interview notes, recordings, and transcripts will electronically stored on passwordprotected computers and servers that only the researchers have access to. The interviewer
+notes and transcripts will be maintained separately from the audio recordings and signed
+consent forms.
+No information will be included that would reveal your identity when the results of the
+research are published, discussed, or presented to persons outside the research team. This
+includes sharing specific, identifying information to those developing the program.
+Recordings and transcripts will be destroyed three years following the completion of the
+program evaluation.
+
+Please know that although we will do everything possible to protect your identity, it is still possible
+that someone may guess that you participated in a focus group. Additionally, other participants in
+your focus group may share with others that you attended and something you have said. Although the
+researchers are unable to prevent other participants from sharing information about what was
+discussed, we will do everything we can to ensure we do not release any information that can be
+directly linked to you.
+What are the costs for participating in this research?
+You may have transportation costs to get to the location of the focus group.
+
+98
+
+ Will I be reimbursed for any of my expenses or paid for my participation in this research?
+There will no reimbursement for any expenses or payment for participation in this focus group.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation at any
+time without penalty. At any time, you can take a break from the focus group or decide to not answer
+a question.
+Who should I contact if I have questions about the research?
+Contact the researchers Megan Alderden, PhD, Research Director, at (312) 793-8550 or
+Megan.Alderden@illinois.gov if you have any questions about this study or your part in it, or, if you
+have questions, concerns or complaints about the research.
+Who should I contact about my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have any
+questions about your rights as a research subject, including questions, concerns, complaints, or to
+offer input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at (312)
+793-8550 or Simeon.Kim@Illinois.gov.
+Remember:
+Your participation in this focus group is voluntary. Your decision whether to participate will not
+affect your current or future relations with the Illinois Criminal Justice Information Authority. If you
+decide to participate, you are free to withdraw at any time or skip any questions without affecting
+that relationship.
+I have read (or someone has read to me) the above information. I have been given an opportunity to
+ask questions and my questions have been answered to my satisfaction. I understand that the focus
+group will be audio recorded for research purposes only. I agree to participate in this focus group
+research. I will be given a copy of this signed and dated form.
+
+Signature
+
+Date
+
+Printed Name
+
+Signature of Person Obtaining Consent
+
+Date (must be same as subject’s)
+
+Printed Name of Person Obtaining Consent
+
+99
+
+ Focus Group Questions
+Introductory Script
+The Illinois Criminal Justice Information Authority (ICJIA) is working in partnership with
+communities in Illinois on a project that seeks to develop a training program that helps
+community members intervene before crime or violence occurs. The program will focus on
+helping community members be able to recognize behaviors or actions might indicate a concern
+worth paying attention to and know how to respond.
+My name is [name], and I am a researcher with that agency. This is [other researcher name],
+[she/he] is also a researcher on this project and will be helping me by taking notes. Our role is to
+assist project staff by hosting several focus groups—which are small group discussions guided
+by trained researchers—with folks like you about this project. Researchers assist program staff
+by engaging in lots of different activities, including talking with stakeholders like you. As a
+researcher, I am required to inform you of your rights, including the confidential nature of this
+discussion, and provide you with information to help you decide whether you would like to
+participate in this discussion. That information is on this sheet, which you can take home with
+you.
+[Full Review of Informed Consent]
+Does anyone have any questions about the information just provided?
+ If yes: [respond to questions].
+ If no: Great. I ask that you sign the consent form if you are willing to participate in this
+discussion.
+Let’s get started. We do ask that you try not to share personally identifying information, such as
+your name, or the names of others. If you forget, don’t worry. We will make sure any references
+to names or other information that could be identifying are removed from our notes or
+transcripts.
+If you don’t mind, I thought we could start by talking a little bit about your role within or
+relationship to [name] community.
+Community Concerns
+Now I would like to talk a little bit about things you are concerned about in your community as it
+relates to community members’ health and well-being.
+
+
+Thinking about the health and well-being of members of your community, what do you feel
+are the primary issues/concerns?
+o What about specifically for youth and young adults in your community?
+
+
+
+What would you say are some of the primary safety concerns facing your community?
+o Is violence a concern?
+o What about specifically for youth and young adults?
+Probe:
+ School violence
+
+100
+
+ 
+
+ Mass shootings
+ What about hate crimes?
+Where might ideologically inspired violence fall on your list? [By ideologically inspired
+violence, I mean violence that is encouraged, condoned, or engaged in for the purpose of
+furthering a particular political, social, economic, religious, or ideological perspective.
+This includes hate crimes.]
+
+Bystander/Gatekeeper Program Elements
+As mentioned, the primary purpose of this group’s discussion is about a project our agency is
+engaged in that seeks to develop a workshop for community members that helps them know
+what behaviors or actions might indicate a concern worth paying attention to, what response
+options might exist, and encouraging them to take action. You may be aware of similar programs
+of like this. They are sometimes referred to as bystander intervention or gatekeeper programs.
+They have been successfully used in the area of bullying intervention and suicide. These types of
+programs have been shown to increase community members’ knowledge of concerning
+behaviors worth noting and prepare them to intervene successfully.
+As noted, one aspect of bystander intervention and gatekeeper programs is providing individuals
+with information about behaviors that may be concerning and are worth paying attention to. We
+would like to use a similar approach.
+
+
+How receptive do you feel community members would be if the intervention related
+specifically to preventing ideologically inspired violence? As you may recall, by
+ideologically inspired violence we mean: violence that is encouraged, condoned, or engaged
+in for the purpose of furthering a particular political, social, economic, religious, or
+ideological perspective. This includes hate crimes.
+ What concerns might they have about a program like this?
+ What might be the best approach to a program like this?
+
+
+
+If we developed a workshop that uses a bystander intervention or gatekeeper approach, who
+might be best positioned to deliver that training? (Probe: community organization,
+community leaders, local professionals, community members?)
+
+As mentioned, one aspect of bystander intervention and gatekeeper training is preparing
+individuals to take some type of action if they see something of concern. I would like to talk
+about specific types of information that we could provide to participants. For each piece of
+information I would like you to think about how comfortable you or others might feel using that
+information to take some sort of action.
+Social Isolation
+Sometimes people might notice that someone is socially isolated—or not engaged with others.
+
+
+How comfortable would you be talking with someone you casually know if he or she
+appeared socially isolated?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+
+101
+
+ 
+
+
+
+
+Who might you be most comfortable encouraging them to connect with?
+Does this resource—the one you feel most comfortable using—exist in your community?
+What if that person was a family member or relative? (Same resource?)
+What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if he or she appeared socially isolated?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Change in Behavior
+Sometimes individuals might notice a sudden change in behavior that makes them concerned.
+
+
+How comfortable would you be talking with someone you casually know if his or her
+behavior suddenly changed in a way that made you concerned?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+ Who might you be most comfortable encouraging them to connect with?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if his or her behavior suddenly changed in a way that made you
+concerned?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Viewing On-line Violent Speech
+
+102
+
+ Sometimes individuals might notice that someone is frequenting on-line speech that promotes
+violence as a legitimate response to perceived harms.
+
+
+How comfortable would you be talking with someone you casually know if his or her
+behavior suddenly changed in a way that made you concerned?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+ Who might you be most comfortable encouraging them to connect with?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if his or her behavior suddenly changed in a way that made you
+concerned?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Justified Violence
+Sometimes individuals might hear people they know make comments that others who use
+violence to bring about change are justified in doing so.
+
+
+How comfortable would you be talking with someone you casually know started making
+comments that people who use violence to bring about change are justified in doing so?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+ Who might you be most comfortable encouraging them to connect with?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if he or she started making comments that people who use violence to
+bring about change are justified in doing so?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+
+103
+
+ 
+
+
+
+What if that person was a family member or relative? (Same resource?)
+What about a close friend? (Same resource?)
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Peer Group
+Sometimes individuals might notice that a person they know has started associating with groups
+or individuals who support or engage in violence.
+
+
+How comfortable would you be talking with someone you casually know if he or she said or
+wrote something that suggested they intend to use violence?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+ Who might you be most comfortable encouraging them to connect with?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if he or she said or wrote something that suggested they intend to use
+violence?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Violent Speech
+Sometimes individuals might notice that someone is talking or writing about that they intend to
+use violence.
+
+
+How comfortable would you be talking with someone you casually know if he or she said or
+wrote something that suggested they intend to use violence?
+
+
+
+How comfortable would you be encouraging this person to connect with a local resource?
+ Who might you be most comfortable encouraging them to connect with?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+
+104
+
+ 
+
+What about a close friend? (Same resource?)
+
+
+
+Another option for might be to refer someone you are concerned about to a specially trained
+individual or group who would contact that person to assess the situation and help create a
+plan to support them. That means sharing information about that person with someone else.
+How comfortable would you or other community members be referring a person you casually
+know to a resource if he or she said or wrote something that suggested they intend to use
+violence?
+ Who might you be most comfortable contacting?
+ Does this resource—the one you feel most comfortable using—exist in your community?
+ What if that person was a family member or relative? (Same resource?)
+ What about a close friend? (Same resource?)
+
+
+
+At what point do you feel should family members be involved in the discussion? Are there
+times that they shouldn’t be?
+
+Some places may not have all the resources available to them to help address the different needs
+of people living in the community.
+
+
+If a new resource was developed specifically to assist communities that could be a referral
+resource for individuals whose behaviors or actions might indicate a concern worth paying
+attention to, what would you need to know about this resource in order to feel comfortable
+contacting them?
+
+Sometimes individuals who notice something concerning might not take action because they are
+fearful of getting others in trouble or hurting them in some way. They may fear having law
+enforcement become involved.
+ What concerns might you have?
+ What might ease those concerns?
+Is there anything else that we didn’t discuss that you feel is important?
+
+105
+
+ JOIN OUR COMMUNITY FOCUS GROUP
+Purpose: Gather community input to develop a training program to help
+community members intervene before crime or violence occurs. The
+program will focus on helping community members recognize behaviors
+or actions that might indicate a concern worth paying attention to and
+know how to respond.
+The focus groups will be:
+Confidential.
+Voluntary.
+Audio recorded for research
+purposes only.
+Used for research & program
+development purposes.
+
+[date]
+[location]
+[time]
+
+Conducted by: Researchers at the Illinois Criminal Justice Information
+Authority. 
+Questions? Contact Megan Alderden PhD, Research Director, ICJIA,
+Megan.Alderden@illinois.gov 
+
+106
+
+ Illinois Criminal Justice Information Authority
+IRB
+AMENDMENT APPLICATION: for Research Involving Human Subjects
+
+Any change to an approved research protocol, including the research plan, consent process and
+form, co-investigators, other research personnel, and/or methods of subject recruitment requires
+the submission of an Amendment. Please clarify the change(s) to be made and the rationale for
+the change(s). A cover letter or additional information may also be attached.
+Amendments to approved IRB applications must be submitted to the chair or co-chairs of the
+IRB and receive signed approval. Maintain for your records initial approvals and signatures.
+Amendments to protocols may not be initiated until IRB approval has been obtained.
+
+PROPOSAL INFORMATION
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s):
+
+Principal investigator(s) email:
+Unit:
+
+Jessica.Reichert@illinois.gov
+
+Research & Analysis
+
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code: Chicago, IL 60606
+Office phone:
+
+312-793-8550
+
+Initial start date of project:
+
+May 18, 2017
+
+Initial end date of project:
+
+May 18, 2018
+
+Title of proposal:
+
+Outcome Evaluation of the Safe Passage Initiative
+
+Date of initial approval:
+Initial approval
+type:
+
+May 18, 2017
+
+Full IRB:
+
+Expedited:
+
+X
+
+Exempt:
+
+107
+
+ AMENDMENT INFORMATION
+Amendment initiated by:
+
+Jessica Reichert
+
+What elements of the approved project are you proposing to change?
+Investigators or research staff (I)
+Project advisors or consultants (II)
+X
+
+Protocol (e.g., instruments, data collection, recruitment procedures, compensation) (III)
+Consent procedures (IV)
+Consent documents (V)
+
+X
+
+Project sites or study participants (VI)
+Changes in confidentiality, privacy, or security (e.g., data dissemination, storage,
+security, personnel, access) (VII)
+Funding/sponsorship (VIII)
+Start or end date change or modification (IX)
+Other (please specify) (X):
+Risk/benefits assessment (XI)
+
+I. INVESTIGATOR CHANGE
+Adding or
+
+Changes
+
+X
+
+No changes
+
+changing co-principal investigator
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+Certification course:
+
+No
+Date certified:
+
+Certification number (if applicable)
+Adding or
+
+changing research staff
+
+Name:
+Title:
+Reason for change
+
+108
+
+ IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Other change(s) to personnel or staff
+Explanation:
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Have updated privacy certificates been filed?
+
+Yes
+
+II. PROJECT ADVISORS OR CONSULTANTS
+Adding or
+
+No (explain why):
+
+Changes
+
+X
+
+No changes
+
+changing project advisor or consultant
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+III. PROTOCOL CHANGE
+
+No
+
+X
+
+Changes
+
+No changes
+
+1.) Please explain in detail what changes you plan to make to the study design or protocol
+(such as changes to instruments used, data collection, recruitment procedures, or
+compensation).
+The original protocol stated that substance abuse treatment providers will send participant data
+through the mail. However, it was learned that most providers prefer to securely send participant
+data through encrypted emails using a secure file transfer.
+
+109
+
+ 2.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the amendment? Is the amendment the result of an
+adverse/negative event?
+The proposed change is to add to the IRB application that data will be shared via secure transfer.
+This is to accommodate the preference of treatment providers. Data will still be kept secure. This
+is not due to an adverse/negative event.
+
+3.) Does this amendment alter, in any way, the assessment of potential risks described in your
+approved protocol?
+Yes
+
+X
+
+No
+
+4.) If you answered yes to question 3, please explain in detail how this alters the assessment of
+potential risk and whether the benefits of the study outweigh the risks.
+
+IV. CONSENT PROCEDURES
+
+Changes
+
+X
+
+No changes
+
+5.) If you are changing your consent procedures, please explain these alterations in detail.
+
+6.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+110
+
+ V. CONSENT DOCUMENTS
+
+Changes
+
+X
+
+No changes
+
+7.) What types of changes are being made to the consent documents/forms?
+Adding or removing information from the consent form so that it is consistent with an
+already approved IRB statement (e.g., the cost section, or phone number change)
+Revising the consent form to reflect what was already approved in the protocol
+Defining a phrase(s) more clearly in lay language
+Incorporating in the consent form updated IRB-mandated language
+Minor editorial changes to the consent form which do not alter the meaning or procedures
+(e.g., spelling changes, revising a statement)
+Removal of questionnaires or instruments that required consent forms
+Other (please specify):
+
+8.) Please explain in detail how you will alter the consent documents.
+
+9.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+111
+
+ 10.) Please submit the original and altered consent documents and highlight the changes. If filing
+the amendment electronically, are these documents appended to this form or contained in a
+separate document?
+Appended
+
+Attached form
+
+VI. PROJECT SITES OR STUDY PARTICIPANTS
+
+X
+
+Changes
+
+No changes
+
+11.) What types of changes are being made to the project sites or study participants?
+Changing who is included in the study sample
+X
+
+Inclusion of new or additional special populations as subjects
+Changing sites or programs
+
+X
+
+Changing the number of subjects
+Other (please specify):
+
+12.) Please provide a detailed explanation of how you will change who will be included in
+your study sample, if applicable.
+The anticipated total number of subjects in study is larger than originally stated in the initial IRB
+application. The sample size did not, but should, include a comparison group of non-clients.
+The proposed sample:
+a.) Anticipated total number of subjects in study: 610
+Former clients n=160
+New clients n=150
+Non clients n=300
+
+13.) Please provide the rationale for making these changes.
+The change is to reflect the full sample size number. The study will compare outcomes of the
+clients in the treatment group (those referred to treatment through Safe Passage), as well as
+clients comprising the comparison group (those referred in other ways, not through Safe
+Passage).
+
+112
+
+ 14.) Will your study now include new or additional special populations? If yes, please
+indicate which ones:
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+Juveniles in correctional or detention facilities
+Probationers, parolees, or individuals under court or correctional supervision
+Developmentally disabled, intellectually disabled, or cognitively impaired
+Individuals held in residential treatment, locked facilities, or hospitalized
+Pregnant women, if focus of research
+Non-English speakers
+Wards of the state
+Other—please specify:
+15.) Please provide an explanation of why you are changing the sites or program of study, if
+applicable.
+
+Not Applicable
+
+16.) Please provide the rationale for making these changes.
+Not Applicable
+
+17.) Are you changing the number of subjects that will be included in your sample?
+
+113
+
+ X
+
+Adding subjects to sample
+
+Reducing sample size
+
+18.) How many subjects will be added to or subtracted from your initial sample size and what
+will your final sample size be?
+310
+
+Initial sample
+size
+
+300
+
+Number
+added
+
+Number
+reduced
+
+610
+
+Final sample size
+
+19.) Please provide the justification for making this increase/decrease.
+The change is to compare outcomes of the treatment group (those referred through Safe Passage)
+and a comparison group (substance abuse treatment clients referred in other ways, not through
+Safe Passage).
+
+20.) Please explain any other changes you are making to the project sites or study participants
+and provide the rationale or justification for these changes, if applicable.
+
+VII. CONFIDENTIALITY, PRIVACY, OR SECURITY
+
+Changes
+
+X No changes
+
+21.) What changes are being made that may affect the confidentiality or privacy of the subjects,
+or security of the subjects or data?
+
+22.) Please provide the rationale for making these changes.
+
+23.) Please indicate what steps will be taken to ensure the privacy, confidentiality, and security
+of the study subjects or data.
+
+114
+
+ VIII. FUNDING OR SPONSORSHIP
+
+Changes
+
+X
+
+No changes
+
+24.) How has the funding or sponsorship of this study changed?
+Funding added
+
+Funding
+decreased
+
+New funding
+source
+
+Funding
+restored
+
+25.) How will the changes in funding and/or sponsorship affect the protection of the human
+subjects in the study?
+
+IX. DATE CHANGE OR MODIFICATION
+
+Changes
+
+X
+
+No changes
+
+X
+
+No changes
+
+26.) What date changes are you making to the study?
+Start date
+
+End date
+
+Initial start date
+
+New start date
+
+Initial end date
+
+New end date
+
+27.) Please explain the necessity for these changes.
+
+X. OTHER CHANGES
+
+Changes
+
+115
+
+ 28.) Please provide a detailed explanation of other changes being made to the IRB that are not
+covered in previous sections.
+
+29.) Please provide the rationale for the changes and provide a statement as to how they may
+affect the protection of human subjects in your study?
+
+116
+
+ XI. RISK/BENEFIT ASSESSMENT
+30.) Discuss how these proposed changes may affect the risks posed to human subjects.
+There will no additional risks to human subjects.
+
+31.) Discuss how these proposed changes may affect the potential benefits of the project to
+subjects and or society.
+The changes will better be able to know outcomes of the programs compared to a comparison
+group.
+
+117
+
+ Illinois Criminal Justice Information Authority
+IRB
+Amendment Application
+
+SIGNATURE PAGE
+Outcome Evaluation of the Safe Passage Initiative to IRB on May 18, 2017
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+118
+
+ 

@@ -1,0 +1,822 @@
+?Pct??cwals
+(a/ll/w)
+
+BUD GET, 
+FINANCE, AND
+AUDIT STANDING
+
+COMMITTEE -
+
+QEitp of ?etrnit 
+
+OFFICE OF THE AUDITOR GENERAL
+
+ 
+
+ 
+
+Audit of the Coleman A. Young
+International Airport
+July 1, 2016 June 30, 2018
+
+Coleman A. Young Municipal Center
+2 Woodward Avenue, Suite 216
+
+. Detroit, Michigan 48226
+Office of the Auditor General Phone: (313)224-3101
+CITY OF Fax: (313) 224-4091
+
+DETROIT 
+
+   
+
+  
+
+Mark W. Lockridge, Auditor General
+
+MEMORANDUM
+
+DATE: June 3, 2019
+
+TO: Honorable City Council
+Honorable Mayor Mike D1111
+
+it
+
+FROM: Mark W. Lockridge, CPA
+
+Auditor General
+RE: AUDIT OF THE COLEMAN A. YOUNG INTERNATIONAL AIRPORT
+CC: Brad Dick, Group Executive, Infrastructure
+
+Jason Watt, Airport Department Director
+
+David P. Massaron, Acting Chief Financial Officer
+John Wallace, Agency CFO
+
+Stephanie Washington, Esq., City Council Liaison
+
+ 
+
+Attached for your review is our report on the Audit of the Coleman A. Young International Airport
+(Airport Department). This report contains our audit purpose, scope, objectives, methodology
+and conclusions; background, our audit findings and recommendations; and the responses from
+the Airport Department and the Office of the Chief Financial Officer.
+
+Responsibility for the installation and maintenance of a system of internal control that minimizes
+errors and provides reasonable safeguards rests entirely with the Airport Department.
+Responsibility for monitoring the implementation of recommendations is set forth in Section 7.5-
+105(4) of the City Charter which states in part:
+
+Recommendations that are not put into effect by the department shall be reviewed by the
+Finance Director who shall advise the Auditor General and the City Council of the action
+being taken with respect to the recommendations.
+
+We Would like to thank the employees of the Airport Department and the Office of the Chief
+Financial Officer for their cooperation and assistance extended to us during the audit.
+Copies of all of the Office of the Auditor General reports can be found on our website at
+of the Auditor General.
+
+AUDIT OF THE COLEMAN A. YOUNG INTERNATIONAL AIRPORT
+
+July 1, 2016 June 30, 2018
+
+CONTENTS
+Page
+AUDIT PURPOSE, SCOPE, OBJECTIVES, METHODOLOGY AND 1
+CONCLUSIONS
+BACKGROUND 3
+STATUS OF PRIOR AUDIT FINDINGS 5
+
+AUDIT FINDINGS AND RECOMMENDATIONS
+
+1. The Airport Department Failed to Secure Lease Agreements for 6
+Some Tenants
+
+2. The Airport Department Failed to Obtain City Council Approval for 8
+Leases
+3. The Airport Department Failed to Maintain Capital Assets- 9
+Miscellaneous Buildings
+4. Controls Over Refundable Deposits Are Inadequate 13
+NOTEWORTHY ACCOMPLISHMENTS 15
+
+AGENCY RESPONSE
+
+Airport Department ATTACHMENT A
+Office of the Chief Financial Officer ATTACHMENT 
+
+AUDIT PURPOSE, SCOPE, OBJECTIVES, METHODOLOGY, AND CONCLUSIONS
+
+AUDIT PURPOSE
+
+The audit of the Coleman A. Young International Airport (Airport Department) was
+performed in accordance with the Office of the Auditor General?s charter mandate as
+noted in Section which states:
+
+Make audits of the financial transactions, performance and operations of City
+agencies based on an annual risk-based audit plan prepared by the Auditor
+General, or as otherwise directed by City Council and report findings and
+recommendations to City Council and the Mayor.
+
+AUDIT SCOPE
+
+Our audit focused on the Airport Department?s internal control procedures for
+transactions of cash receipts, disbursements, revenue, capital assets, and year-end
+closing procedures for the period from July 1, 2016 through June 30, 2018; and the
+status of prior audit findings.
+
+Our audit was conducted in accordance with Government Auditing Standards issued by
+the Comptroller General of the United States, except for the completion of an external
+peer review of the Office of the Auditor General within the last three years.
+
+AUDIT OBJECTIVES
+The audit objectives were:
+
+. To determine the efficiency and effectiveness of the department?s core
+operations.
+
+a To evaluate the adequacy of the department?s internal controls over the major
+financial reporting processes, specifically, cash receipts, disbursements, capital
+assets, and revenues noting any control weaknesses.
+
+. To determine whether the department is complying with applicable Finance
+Directives, policies, plans, procedures, laws, and regulations.
+
+- To determine the status of each audit finding and issue of non-compliance in the
+prior audit report.
+AUDIT METHODOLOGY
+To accomplish the audit objectives, our audit work included:
+
+0 Reviewing the prior audit report and working papers, City Charter, Municipal
+Manual, City?s financial reports, the department?s budget reports and
+organization charts.
+
+. Gathering policies and procedures of core operations and similar data.
+
+. Conducting an audit-planning meeting to determine the scope and audit
+objectives, and to determine the financial transactions and/or areas to audit.
+
+ Developing questions regarding the department?s transactions, controls,
+functions, records, and personnel.
+
+- identifying risks relative to financial transactions and mitigating controls with
+department personnel.
+
+- Interviewing department personnel, reviewing documentation, and making
+observations to aid in developing audit programs.
+
+CONCLUSIONS
+We determined that the Airport Department:
+Was efficient and effective in their core operations.
+- Controls over refundable deposits were inadequate.
+- Did not comply with applicable procedures. The Airport Department:
+0 Failed to secure Lease Agreements for tenants.
+0 Failed to obtain City Council approval for Leases.
+0 Failed to maintain Capital Assets Miscellaneous Buildings.
+
+. Resolved four of six prior audit findings and the one prior issue of non-
+compliance.
+
+BACKGROUND
+
+The Detroit City Airport opened in 1927. The original terminal building located at the
+southeast corner of the airport was completed in 1930. In 1966, a new terminal was
+added to the northwest corner of the complex, and the original terminal/administration
+building and adjoining airplane hangars became known as the Executive Terminal.
+
+A runway expansion occurred in 1988, but the runways were still too short for many
+commercial flights. All commercial airlines left the airport by 2000. The Detroit City
+Airport was renamed the Coleman A. Young International Airport in 2003 and is
+currently owned by the City of Detroit. The current terminal (built in 1966) is used for
+private, cargo, and corporate flights under the Department of Transportation, Federal
+Aviation Administration (FAA) jurisdiction.
+
+Today, the City of Detroit leases space in some of the hangars for storage of private
+and corporate airplanes. Other hangars are used for storage and display of airplanes
+that are part of the World Heritage Air Museum and two Hangar bays are currently
+rented out for events by AVFlight, a third party contractor.
+
+AVFlight became the fixed based operator for the Airport Department in 2011. The
+most recent contract was approved in April 2016, by City Council for a three year term
+expiring on June 30, 2019. As part of the contract, the vendor also collects landing and
+aircraft parking fees on behalf of the Airport Department. According to the agreement,
+the Airport Department is to receive the following percentages of fees generated or
+collected by AVFlight.
+
+ 
+
+ 
+
+AIRPORT DEPARTMENT
+REVENUE TYPES PERCENTAGE OF FEES
+T-Hangar Rental 100%
+Bay Rental 100%
+Parking/Tie Down Fees 85%
+Landing Fees 85%
+Fuel Flowage Fees $0.10 per gallon of aircraft fuel received
+Concession Fee 4% of Total Gross Receipts
+Office Space Rental 100%
+
+Special Events
+
+The Airport Department?s mission is that it continues to evolve by bringing costs in line
+with revenue and improving services. The emerging strategy is to accelerate the growth
+of Detroit as a commercial and industrial transportation center and maximize the
+Colman A. Young Airport?s economic benefit to the community and region.
+
+The Airport Department is an enterprise agency, and receives a general fund subsidy.
+The general fund subsidy for the Airport Department for fiscal year 2017-2018 is
+$900,000. Mr. Jason Watt was appointed director of the Airport Department in March
+2014.
+
+Office of the Chief Financial Officer
+
+Emergency Manager Order no. 41 dated March 28, 2013 ordered in part, that the Chief
+Financial Officer establish a centralized financial management organizational structure,
+to be called the Office of the Chief Financial Officer (OCFO). The OCFO is a
+centralized financial management operation which consolidates all finance related
+functions within the City. The OCFO oversees, controls and directs all finance personnel
+within all City departments, divisions, and agencies. The OCFO includes the following
+divisions: Executive Office of the Office of Chief Financial Officer, Office of Budget,
+Office of Assessor, Office of Contracting Procurement, Office of Controller, Office of
+Departmental Financial Services, Office of Financial Planning Analysis, Office of
+Grants Management, and Office of Treasury.
+
+The Office of Departmental Financial Services (ODFS) is a financial partner to City
+agencies. Areas of focus include budget administration, program analysis/evaluation,
+finance and accounting, internal controls, financial systems, strategic planning, and
+performance metrics. Finally, John Wallace is the current ODFS Agency CFO assigned
+to the Airport Department and is responsible for the ODFS staff assigned to the Airport
+Department. Every city department has an ODFS Agency CFO assigned to assist it in
+various financial transactions.
+
+STATUS OF PRIOR AUDIT FINDINGS
+
+The prior audit report on the Airport Department dated September 2009 contained six
+findings and one noncompliance issue. The status of each prior audit finding is noted.
+
+1.
+
+Airport Department Does Not Verifv the Accuracy of Concession Revenue
+This finding has been resolved.
+
+Inadequate Controls over Refundable Deposits
+This finding has not been resolved and is discussed in Finding #4 on page 13 of
+this report.
+
+Inadequate Controls Over Cash Receipts
+This finding has been resolved.
+
+Inadequate Controls Over lmprest Cash
+This finding has been resolved.
+
+Airport Department Does Not Fullv Comply with the Citv Purchasinq Directive
+This finding has been resolved.
+
+Airport Department Did Not Obtain Lease Aqreements
+This finding has not been resolved and is discussed in Finding #1 on page 6 of
+this report.
+
+Airport Department Did Not Fullv Complv with the Year-end Closing Procedures
+This finding has been resolved.
+
+AUDIT FINDINGS AND RECOMMENDATIONS
+
+1. The Airport Department Failed to Secure Lease Aqreements for Some Tenants
+The Coleman A. Young International Airport (Airport Department) currently rents 58
+units including Hangars (Small, Medium, and Large), Bays and other. The Airport
+Department acts as its landlord. A landlord is the party agreeing to transfer possession
+and use of the rental property, usually the owner (but may also include an agent or
+employee of the owner, or a management company). The business or individual
+occupying space at the Airport are tenants. A tenant is the party taking possession and
+use of the rental property from the landlord under a lease. A tenant?s right to
+possession and use is called a tenancy or leasehold.
+
+A lease is a contract between the tenant and landlord, transferring possession and use
+of the rental property. The Airport Department leases are Periodic Tenancy or Tenancy
+at Will. This type of tenancy is perpetual in duration. It is created by actual or implied
+consent. ln month-to-month tenancy, the lease is considered renewed at the end of
+each rental period (month-to-month or week?to-week, depending on how often rent must
+be paid). The termination procedure is governed by Michigan Complied Laws and
+requires notice.
+
+We determined that:
+- 16 of 58 (or 28%) tenants currently do not have leases.
+
+42 of 58 (or 72%) leases of current tenants were available for review.
+
+. 9 of 58 (or 16%) tenants have leases that were originated between 1988 and
+2007.
+
+. Tenants are paying rates that were last modified in August 2006.
+- 4 of 58 (or tenants with leases do not have a rent amount listed.
+
+- 8 of 58 (or 14%) tenants are not paying the amount of rent listed in their
+agreement.
+
+A Practical Guide for Tenants and Landlords prepared by the Michigan Legislature
+reads as follows:
+
+A lease can be written or oral, but a written lease provides the best protection for
+both the landlord and the tenant. Whether there is a fixed-term tenancy or a
+periodic tenancy, it is best to have a written record of the rental agreement. A
+written record is a permanent record that may be used for reference if
+misunderstandings arise.
+
+The common-law requirements for a commercial lease (or an agreement to lease) are
+minimal. An agreement on four basic points is required: (1) the parties, (2) the property,
+(3) the amount of rent to be paid, and (4) the duration of the lease.
+
+Failure to secure appropriate lease agreements from the tenants increases the risk that
+misinterpretations regarding the provisions and conditions of the tenant?s occupancy
+may occur. The Airport Department is not collecting the appropriate amount of revenue
+and no one is reviewing the amount of revenue collected which reduces the amount of
+funds they have available for operating cost. In addition, the Airport Department is not
+provided with any certainty as to how long the tenants will occupy the premises.
+
+According to an Airport staff member, they are in the process of converting lease
+agreements to license agreements with the assistance of the City?s Law Department.
+
+We determined that written lease agreements are not always obtained nor updated for
+tenants. Rental rates have not been changed since 2006 and leases may have been
+lost or misplaced because some of the leases are more than 30 years old.
+
+RECOMMENDATIONS
+
+We recommend that the Airport Department:
+
+. Implement annual or multi-year tenant leases with definite term limits which will
+require the Airport to review leases at some pre?determined level.
+
+. Obtain, update and retain leases for all tenants ensuring that all required
+provisions are included in the document.
+
+. Review the Revenue Fee schedule to determine if an increase in fees is
+appropriate.
+
+- Document any variation to rental amounts including the reason why the variance
+was granted.
+
+2. The Airport Department Failed to Obtain City Council Approval for Leases
+
+The Airport Department has 58 tenants. None of the respective lease agreements had
+any documentation indicating that they were reviewed or approved by City Council as
+required by the City's Charter.
+
+In the City Charter?s Detroit Code of Ordinances, Section 18-5-21, requires Council
+approval for certain contracts including all revenue contracts, regardless of dollar value.
+
+Also, Section 4-1-2 of the City?s Charter, Responsibilities of Airport Department
+requires:
+
+a The department may, with the approval of City Council lease any of the buildings
+or land under its control whenever required by the interest of the City.
+
+- The department may make, with the approval of the City Council, all contracts or
+leases necessary to carry out the objectives and purposes of the department, as
+provided in this section.
+
+All leases:
+
+. Are not authorized by City Council and have not been reviewed by the Law
+Department.
+
+- Are missing information such as rent amounts, tenant signatures, and/or
+signatures from appropriate City representative(s).
+
+- May not be enforceable as written.
+Some tenant leases
+
+An Airport Department staff member was not aware of the exact language contained in
+the Detroit Code of Ordinances. In addition, the staff member believed that a change
+from a lease agreement to a license agreement would not require the City Council
+approval.
+
+RECOMMENDATION
+
+We recommend that all revenue contracts (as determined by the Law Department) be
+approved by City Council in accordance with the Detroit Code of Ordinances.
+
+3. The Airport Department Failed to Maintain Capital Assets-Miscellaneous
+Buildings
+
+We toured the miscellaneous buildings at the Airport which included hangars, bays, and
+buildings. We determined that the following capital assets were not properly maintained
+by the Airport Department:
+
+The Executive Terminal
+
+ 
+
+ 
+
+ 
+
+ 
+
+Below are photos of four hangars in poor condition. In total there are 53 North Connor
+T-hangars, 9 small, 20 medium and 8 large Southwest T-hangars and 6 bays.
+
+ 
+
+The Government Finance Officers Association Capital Asset Management Best
+Practices requires:
+
+- Allocating sufficient funds in the multi-year capital plan and annual operations
+budget for the condition assessment determination and reporting, preventative
+maintenance, repair, renewal and replacement of capital assets in order to
+continue the provision of services that contribute to public health, safety, and
+quality of life of the public.
+
+10
+
+. Each government should establish an on-going source of funds in both the multi-
+year capital plan and operating budget for the maintenance and renewal and
+replacement needs of its capital assets consistent with this best practice. If the
+capital assets are part of the function of an enterprise fund, the rates, fees and
+charges may need to be adjusted to meet the funding requirements.
+
+Failure to maintain the units resulted in potential lost revenue for these units is as
+follows:
+
+ 
+
+Potential
+Unit Type Units Not Lost Revenue
+Occupied for 12 months
+North Connor T-Hangars $210/month 53 $133,560.00
+Southwest Small Hangars $210/month 9 22,680.00
+Southwest Medium Hangers $235/month 20 56,400.00
+Southwest Large Hangers $350/month 8 33,600.00
+
+The Bays Below are rented based on square footage $3.30:
+
+POtential
+Bay Number Lost Revenue
+89. Feet for 12 months
+3 12,342 40,728.60
+4 11,763 38,817.90
+6 11,763 38,817.90
+7 11,763 38,817.90
+8 11,763 38,817.90
+12 11,763 38,817.90
+Total Annual Lost Revenue $481,058.10
+
+The lack of investment makes it increasingly difficult to sustain the asset in a condition
+necessary to provide expected service levels. Ultimately, deferring essential
+maintenance or asset replacement reduces the Airport?s ability to provide services and
+could threaten public health, safety and overall quality of life. In addition, as the
+physical condition of the asset declines, deferring maintenance and/or replacement
+could increase long-term costs and liabilities.
+
+The hangars are causing a dangerous environment for Airport Department staff and
+guest. There are four families of coyotes living on the Airport property, birds have
+inhabited some of the hangars causing a bio-hazard from waste ultimately
+compromising the health and safety of individuals as well as impacting the City?s ability
+to rent these facilities to generate revenue.
+
+We determined that budgetary pressures have impeded the Airport Department?s
+expenditure and investment for maintenance and replacement of capital assets.
+
+11
+
+RECOMMENDATION
+
+We recommend that the Airport Department specifically include plans to maintain the
+hangars, bays, and buildings in its capital agenda.
+
+12
+
+4. Controls Over Refundable Deposits Are Inadequate
+
+The Airport Department collects refundable security deposits for hangar, bay rentals,
+badges and keys. Refundable deposits are liabilities. Tenants who terminate their
+leases with the Airport Department are entitled to a refund of their deposit. The Airport
+Department?s Refundable Deposits as of June 30, 2018 are as follows:
+
+Amount Purpose
+$10,619.50 Rent
+1 ,725.00 Badges
+6.00 Keys
+$12,350.50 . TOTAL
+
+The following conditions exist:
+
+- The refundable deposits are commingled with Airport Department?s general
+operating funds.
+
+- There is currently no written policy on how to handle refundable deposits.
+
+. The list of refundable deposits does not have the date that the deposit was
+received nor the contact information for the individual that paid the deposit.
+
+- 8 of 38 (or people with refundable rent deposits tested on the list do not
+have a current lease.
+
+a 8 of 10 (or 80%) people with refundable badge deposits tested did not have
+current Airport Security Badges
+
+Tenants are entitled to a refund of their initial deposit once the Airport Department
+receives a thirty-day written notice indicating the tenant is vacating their rental space
+and there is no outstanding balance due on the tenant?s account. Refundable deposits
+should be held separately from all other funds and should be available once the
+aforementioned conditions are met.
+
+Refundable deposits are not revenue to the Airport Department. When Tenant
+Refundable Deposits are commingled with the Airport Department?s general operations
+and maintenance funds, enough funds are not available to cover the tenant liabilities of
+the airport.
+
+According to an Office of the Chief Financial Officer staff person:
+
+- The refundable deposits are not in a restricted account.
+
+0 The funds were deposited in the Airport Department Operations account prior to
+2016, 2017 and 2018.
+
+. Office of Departmental Financial Services (ODFS) deems the amount to be
+immaterial taken as a whole and it?s highly unlikely that all customers with
+deposits would require a refund at one-time.
+
+13
+
+RECOMMENDATIONS
+
+We recommend the Airport Department:
+
+Work with the Office of the Treasury to secure the Refundable Deposits in
+accordance with Treasury?s mission which is ?to effectively, timely and
+accurately collect and record all taxes, special assessments, fees and other
+monies received by the City of Detroit; act as the custodian of all funds and
+other assets belonging to the City; and disburse all funds as authorized by the
+City Chief Financial Officer/Finance Director.?
+
+Create a written policy regarding the handling of Refundable Deposits.
+Revise tenant lease agreements (if necessary) to include language that
+specially states what will happen to the refundable deposit when a tenant
+vacates the property by abandonment, regular lease termination or eviction
+due to default of lease payments.
+
+Update the list of Refundable Deposits and return Refundable Deposits if the
+tenant is longer at the Airport.
+
+14
+
+NOTEWORTHY ACCOMPLISHMENTS
+
+The old Southwest Airline Office building located at 11499 Connor which was vacated in
+1993 has recently been renovated and reopened in October 2018 as the Youth in
+Aviation Building.
+
+ 
+
+With dOnated funds over the past year, non-profit 'We the?Friends of Detroit City Airport
+have renovated the building just east of the terminal for Youth Education in
+Aviation. The building has two classrooms, as well as meeting and office space. The
+program includes aviation, science, technology, engineering, mathematics and the
+potential economic opportunities.
+
+FDCA also collaborated with the Tuskegee Airmen - Detroit Chapter to bring aviation
+student training. The Tuskegee Airmen are remembered and commemorated on a wall
+
+inside the building.
+
+1? I 1
+ill DILTRQIT Cw.
+
+Ii Somme->4
+
+
+
+ 
+
+During the audit, the audit team met with the following groups that are trying to assist
+the Airport Department and the City of Detroit with revitalizing the Airport and the
+surrounding neighborhood by introducing City residents, especially children to aviation
+and aviation careers.
+
+Civil Air Patrol The Civil Air Patrol (CAP) is the official U.S. Air Force auxiliary and is
+a nonprofit organization. CAP is tasked by the Air force to perform 90% of US. inland
+search and rescue missions. Members play a leading role in aerospace education and
+serve as mentors to nearly 24,000 young people in the cadet program. They
+currently have 20 members at the City Airport.
+
+Tuskegee Airman Detroit Chapter Founded in 1941, and nicknamed, ?The Red-
+Tails,? the Tuskegee Airmen were the group of African-American pilots, who were
+allowed to fight in World War II, after First Lady Eleanor Roosevelt highlighted their
+training. Officially they formed the 332nd Fighter Group and the 477th bombardment
+Group of the Army Air Force.
+
+Many veteran Tuskegee Airmen have distinguished themselves and made substantial
+contributions to our country. Detroit has the distinction of starting the first membership
+chapter, and has several Documented Original Tuskegee Airmen in our community to
+inspire and mentor our youth. They have approximately 20 children in their program
+right now.
+
+Friends of Detroit City Airport Mission is to expose the aviation industry to Detroit
+area youth as a career path and showcase the leadership and development
+opportunities of this community. They provide opportunities focusing on:
+
+0 Youth education in aviation (with a S.T.E.M. curriculum base)
+
+. Community improvement/economic development
+
+. Increased efforts to return youth aviation education back to airport grounds
+. Celebrating sponsor investment (successful donor fundraising)
+
+. 90 years of continuous service on the east side at Gratiot Conner
+
+The Detroit City Council Airport Task Force Their purpose it to maximize the return
+to the city of Detroit through retaining the airport functioning for aviation purposes.
+
+Black Pilots of America (BPA) Their purpose is to encourage youth to remain in
+
+school and to enter the field of aviation and promote aviation to people from all walks of
+life. EPA is a branch of the Tuskegee Airmen.
+
+16
+
+COLEMAN A. YOUNG MUNICIPAL CI NTI 
+2 WOODWARD AVENUE. SUITE 126
+DETROI I. MICHIGAN 48226
+Cm, DETROIT PHONE 3 I 3-224-3400
+OFWCE FAX: 3 3.224 "1 i 28
+
+
+March 28, 2019
+
+Mark W. Lockridge, Auditor General
+
+Of?ce of the Auditor General
+
+2 Woodward Avenue
+
+Room 216, Coleman A. Young Municipal Center
+Detroit, Michigan 48226
+
+Dear Mr. Lockridge:
+
+The following presents the Coleman A. Young International Airport?s responses for the indicated
+?ndings and recommendations for the Audit of the Coleman A. Young International Airport report
+as prepared by the Of?ce of the Auditor General.
+
+Finding No. 1 Airport Long Term Lease
+
+Response:
+
+The Airport's long term leases are all being placed under contract. Purchasing is waiting on ?nal
+clearances from two of the tenants - Law Department is reviewing what they have so far. When
+this is completed we will send to Council.
+
+Finding No .2: Airport Short Term Leases
+
+Response:
+
+For the short term leases (under 30 days) we are going to present Council with a Resolution
+allowing the Airport Director to negotiate and settle those leases internally for a period of IS
+months. During that period we will work with Council on a potential ordinance change allowing
+this process to occur - if approved by Council - with corresponding reporting to appropriate parties.
+
+We believe we have a good action plan in place and 1 working with Jason and his team to "tighten"
+up these long neglected processes with the Airport.
+
+?iincerel 
+616/ 97??
+Brad Dick
+
+Group Executive
+
+MICHAEL E. DUGGAN. MAYOR
+
+Coleman A. Young Municipal Center
+
+ 
+
+CITY OF DEIROIT 2 Woodward Avenue, Suite 1010
+OFFICE OF THE CHIEF FINANCIAL OFFICER Detroit, MI 48226
+OFFICE OF DEPARTMENTAL FINANCIAL SERVICES Phonet (313) 224-3379
+(ITYOF
+DETROIT
+March 28, 2019
+
+Mark Lockridge, Auditor General
+Office of the Auditor General
+
+2 Woodward Avenue, Suite 216
+Detroit, MI 48226
+
+Dear r. Lockridge:
+
+The following presents the Department's response for the indicated findings and related
+recommendations in the Audit of the Coleman A. Young International Airport prepared by the
+Office of the Auditor General.
+
+Finding No. 4 Controls Over Refundable Deposits Are Inadequate
+RECOMMENDATION
+We recommend the Airport Department:
+
+Open a separate bank account for the Refundable Deposits to ensure that the funds are
+safeguarded and available.
+
+Create a written policy regarding the handling of Refundable Deposits. Revise tenant lease
+agreements (if necessary) to include language that specially states what will happen to the
+refundable deposit when a tenant vacates the property by abandonment, regular lease
+termination or eviction due to default of lease payments.
+
+Update the list of Refundable Deposits and return Refundable Deposits if the tenant is longer at
+the Airport.
+
+AIRPORT RESPONSE
+
+Management is in the process of updating the Refundable Deposit procedures in connection
+with the Airport Revenue Resolution. These procedures will be updated to align with the policy
+statements contained in CFO Directives 2018-101-017: Cash Management and 2018-109?001:
+Cash Handiim, which govern cash management and handling. This update is expected to be
+completed before June 30, 2019.
+
+The Refundable Deposits liability (list) was posted in the General Ledger and CAFR year-end
+report at June 30, 2018. Refundable Deposits were also reported via the City of Detroit's year-
+end forms closing process.
+
+Finally, the Of?ce of the Chief Financial Officer (OCFO) does not agree with the
+recommendation to open a separate bank account for Airport refundable deposits. Consistent
+
+
+
+OCFO-ODFS Response to Coleman A. Young International Airport Audit Page 2 of 2
+
+with CFO Directive 2018-101?017: Cash Management, the OCFO is in the process of
+consolidating City bank accounts into a common cash pool. Section 6.5.1 of this Directive states:
+"In order to optimize earnings, City Funds shall be deposited into the City's main cash pool
+unless a segregated account is required by State, Federal or other guidelines bond
+documents).? No such requirements or guidelines govern refundable deposits and we believe
+that it is proper for them to be maintained in the common pool.
+
+Sincerely,
+
+L,
+
+John Wallace
+
+Agency CFO
+
+Office of the Chief Financial Officer
+Office of Departmental Financial Services
+Coleman A. Young Municipal Center
+
+2 Woodward Avenue, Suite 1100
+Detroit, MI 48226
+
+CC: Brad Dick, Group Executive, Infrastructure
+Jason Watt, Airport Department Director
+David P. Massaron, Acting Chief Financial Officer
+Stephanie Washington, Esq., City Council Liaison
+
+
+
+'City of Detroit
+
+COUNCILMAN SCOTT FL BENSON
+
+ 
+
+MEMORANDUM
+
+TO: Alvin Horhn, Assessor?s Of?ce 
+
+  
+
+FROM: Hon. Scott Benson, City Council District 3 j/ 1?
+
+CC: Hon. James Tate Jr., Chair, Standing Committee
+Hon. anee Ayers, Chair, Standing Committee
+Hon. Janice Winfrey, City Clerk
+David Whitaker, Director, LPD
+Marcell Todd, Director, CPC
+David Massaron, CFO
+Maurice Cox, Director, 
+Stephanie Washington, City Council Liaison
+
+VIA: Hon. Brenda Jones, City Council President
+DATE: 5 June 2019
+RE: PARKING LOT TAX RECEIPTS
+
+As Detroit looks to be as ef?cient as possible with our downtown property, please
+provide the following data in a spreadsheet and on a map:
+
+Percentage of downtown property that is made up of surface parking lots.
+Total property tax revenue accrued from these lots annually.
+
+Total income tax revenue accrued from these lots annually.
+
+Current zoning for each of the surface parking lots.
+
+
+
+Please provide the information by 15 June 2019. If you have any questions do not
+hesitate to contact my of?ce at, 313-224-1198.
+
+Coleman A. Young Municipal Center 2 Woodward Ave, Suite 1340 - Detroit. Michigan 48226
+(313) 224-1198 Fax (313) 224-1684
+bensons@detroitmi.gov
+

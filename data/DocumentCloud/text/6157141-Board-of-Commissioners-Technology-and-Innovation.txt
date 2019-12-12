@@ -1,0 +1,245 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY AUTOMATION
+September 16, 2008
+
+The Honorable,
+The Board of Commissioners of Cook County
+
+ATTENDANCE
+
+Present: Chairman Beavers, Vice Chairman Gorman, Commissioners Butler, Goslin,
+Moreno and Schneider (6)
+
+Absent: Commissioners Daley, Peraica and Steele (3)
+
+Also Present:
+
+Ladies and Gentlemen:
+
+Your Committee on Information Technology Automation of the Board of Commissioners
+of Cook County met pursuant to notice on Tuesday, September 16, 2008 at the hour of 9:00
+AM. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois.
+
+Your Committee has considered the following items and, upon adoption of this report, the
+recommendations are as follows:
+
+295902 BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+APPRISS, INC., Louisville, Kentucky, for maintenance and support services of
+the Automated Victim Information and Notification system (VINE).
+
+Reason: Appriss, Inc. is the manufacturer of the software mandated and used
+by government agencies within the State of Illinois. Software
+maintenance and support services are needed for the existing
+automated victim witness notification system. In compliance with
+Section 8.5 of the Rights of Crime Victims and Witnesses Act (725
+10/85 West 2000), Cook County is required to have a
+notification system in place to inform crime victims and witnesses
+regarding release from custody or transfer activity of persons held in
+custody.
+
+Estimated Fiscal Impact: $786,000.00 per year). Contract period:
+August 1, 2008 through July 31, 2011. (009-260 Account). Requisition No.
+80090015.
+
+Approval of this item would commit Fiscal Year 2008 and future year funds.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+SEPTEMBER 16, 2008
+PAGEZ
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Goslin, seconded by Commissioner Butler, moved the approval of
+Communication Number 295902. The motion carried.
+
+295903
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+CISCO SYSTEMS, INC., Chicago, Illinois, for the purchase of network
+infrastructure hardware and software used to connect authorized locations to
+the Cook County Wide Area Network (WAN) to continue for the Cook County
+Jail Campus Communications infrastructure build out.
+
+Reason: The scope of work places data communications hardware in the
+remaining 10 jail divisions and the administrative/court building.
+Once completed, high speed data can be transmitted and received
+between buildings within the jail campus and the Cook County
+enterprise network. It will also support high speed wireless
+communications access on the campus.
+
+Estimated Fiscal Impact: $1,500,000.00. Contract period: October 1, 2008
+through September 30, 2009. (717/009-579 Account). Requisition No.
+80090017.
+
+Sufficient funds have been appropriated to cover this request.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Goslin, seconded by Commissioner Butler, moved the approval of
+Communication Number 295903. The motion carried.
+
+295904
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+CISCO SYSTEMS, INC., Chicago, for the purchase of network
+infrastructure hardware and software used to connect authorized locations to
+the Cook County Wide Area Network (WAN) for all the remaining
+Commissioners? District offices.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+SEPTEMBER 16, 2008
+PAGE3
+
+Reason: This will reduce telecommunications and computing Operating costs.
+This additional capacity will also allow the ability to install public
+safety video surveillance cameras as required.
+
+Estimated Fiscal Impact: $238,450.00. Contract period: October 1, 2008
+
+through September 30, 2009. (717/009-579 Account). Requisition No.
+80090018.
+
+Sufficient funds have been appropriated to cover this request.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Goslin, seconded by Commissioner Butler, moved the approval of
+Communication Number 295904. The motion carried.
+
+295905 BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+CISCO SYSTEMS, INC., Chicago, Illinois, for the purchase of network
+infrastructure hardware and software used to connect authorized locations to
+the Cook County Wide Area Network (WAN) to replenish depleted inventory of
+spare network equipment.
+
+Reason: This equipment will be used to upgrade, install and in some cases
+replace older equipment at all regional courthouses, upgrade the
+Juvenile Temporary Detention Center's data hardware infrastructure
+
+and expand capacity to multiple locations that currently experience
+network congestion.
+
+Estimated Fiscal Impact: $2,500,000.00. Contract period: October 1, 2008
+
+through September 30, 2009. (717/009-579 Account). Requisition No.
+80090019.
+
+Sufficient funds have been appropriated to cover this request.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Goslin, seconded by Commissioner Butler, moved the approval of
+Communication Number 295905. The motion carried.
+
+295906
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+SEPTEMBER 16, 2008
+PAGE 4
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+MERRICK COMPANY, Aurora, Colorado, for Light Detection and Ranging
+(LIDAR) and topographic services including ground control, LIDAR, digital
+terrain modeling, topographic, and a geodatabase system.
+
+Reason: After the completion of a Request for Proposal (RFP) process for
+the selection of a company to perform LIDAR and topographic services, Merrick
+Company is being recommended based on its ability to meet all technical
+specifications at the lowest cost of all proposers. The RFP was for services to
+create county wide digital elevation products. These products will be used to
+support the creation of a new topographic database for inclusion in the County's
+enterprise Geographical Information System (GIS). Moreover, these products
+and services will result in a higher resolution and more accurate database that
+support current and proposed applications for public access, land records
+management, planimetric mapping, infrastructure management, engineering,
+map production, and various land data analyses.
+
+Estimated Fiscal Impact: $826,949.16 (FY 2008: $383,385.45; FY 2009:
+$433,148.25; and FY 2010: Contract period: October 1, 2008
+through January 31, 2010. (545-441 Account). Requisition No. 85450033.
+Sufficient funds are available in the Geographic Information Systems Fund.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Gorman, seconded by Commissioner Goslin, moved the approval of
+Communication Number 295906. The motion carried.
+
+295907
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to extend for seven (7)
+months, Contract No. 07?41-350 with GREAT ARC TECHNOLOGIES, INC.,
+
+Chicago, Illinois, to perform application migration services for the Department of
+Office Technology.
+
+Reason: This request is necessary to expend the remaining funds on this
+contract. Great Arc Technologies, Inc., who was originally selected
+through the Request for Proposal (RFP) process, will be used to
+perform geodatabase enhancements to incorporate the latest
+archiving solution for the Geographic Information Systems (GIS)
+environment. Approximately $126,236.40 remains on this contract.
+The expiration date of the current contract was January 31, 2008.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+SEPTEMBER 16, 2008
+PAGE 5
+
+Estimated Fiscal Impact: None. Contract extension: February 1, 2008 through
+August 31, 2008.
+
+*Referred to the Information Technology and Automation Committee on
+September 3, 2008.
+
+Commissioner Goslin, seconded by Commissioner Moreno, moved the approval of
+Communication Number 295907. The motion carried.
+
+Commissioner Moreno moved to adjourn the meeting, seconded by Commissioner
+Goslin. The motion carried and the meeting was adjourned.
+
+Respectfully submitted,
+Committe onl rmalion Technology
+Autom lion
+
+/l/r 
+
+wn ahw B?eav?t?, Chainlnan
+
+Attest: .
+
+
+
+B. DeLeon, Secretary
+
+ 
+

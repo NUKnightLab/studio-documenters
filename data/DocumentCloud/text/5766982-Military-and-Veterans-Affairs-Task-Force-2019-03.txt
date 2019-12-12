@@ -1,0 +1,4342 @@
+
+3 
+
+NEW
+
+BUSINESS
+
+1313?? 9? "Much 
+
+1008 COLEMAN A. YOUNG
+CITY OF DETROIT MUNICIPAL CENTER
+
+ 
+
+OFFICE OF THE CFO DETROIT, MICHIGAN 48226
+OFFICE OF CONTRACTING AND PHONE 313-224-4600
+PROCUREMENT FAX 313-628-1160
+February 26, 2019
+HONORABLE CITY COUNCIL:
+SPECIAL LETTER
+WATER AND SEWERAGE
+
+6001088 100% DWSD Funding - AMEND 3 - To Provide Equipment, Maintenance,
+Repair and Support of DivDat Payment Kiosks located throughout Detroit -
+Contractor - Diversi?ed Data Processing and Consulting, Inc., DBA DIVDAT -
+10811 Northend Avenue, Ferndale, MI., 48220 - Contract Period: Upon City
+Council Approval through September 9, 2023 Contract Increase: $4,925,000.00
+- Total Contract Amount: $5,695,125.00
+Waiver of Reconsideration Requested.
+
+The Of?ce of Contracting and Procurement of the Chief Financial Of?cer?s recommends
+contracts as outlined above.
+
+The approval of your Honorable Body and a Waiver of Reconsideration are requested.
+
+spectfully submitted,
+
+Bo 'e Jackson
+Chief Procurement Of?cer/Deputy CFO
+
+
+cc: Stephanie Washington Mayor?s Of?ce
+
+-. will I i:
+
+52019
+RECEIVED FEB 2 ,0 
+
+
+MNTERED 41> Nb .51
+
+1008 COLEMAN A. YOUNG
+MUNICIPAL CENTER
+
+ 
+
+CITY OF DETROIT
+OFFICE OF THE CFO DETROIT, MICHIGAN 48226
+OFFICE OF CONTRACTING AND PHONE 313-224-4500
+PROCUREMENT FAX313-628-1160
+
+BY COUNCIL MEMBER:
+
+RESOLVED, that Contract(s) #6001088, referred to in foregoing communication dated February
+26, 2019
+
+..Title
+
+The Board of Water Commissioners for the City of Detroit, Water and Sewerage Department
+authorizes the Director to grant an increase of $4,925,000.00 in contract price and an
+extension of three (3) years with two (2) one year renewal options for Contract No. CS-1804
+?Technology Services? with Diversi?ed Data Processing and Consulting, Inc. dba DivDat
+(Consultant), and also authorizes the Director to take such other action as may be necessary to
+accomplish the intent of this vote.
+
+..Body
+
+Agenda of October 17, 2018
+
+Item No. 18-0208
+
+Contract No. CS-1804
+
+Proposed Amendment No. 3
+
+Amount: $4,925,000.00
+
+Time Extension: Three (3) Years with Two (2) One Year Renewal Options
+
+TO: The Honorable
+Board of Water Commissioners
+City of Detroit, Michigan
+
+FROM: Gary Brown, Director
+Water and Sewerage Department
+
+RE: DWSD Contract No. cs-1304, Amendment No. 3
+?Technology Services)
+Consultant: Diversified Data Processing and Consulting, Inc. dba DivDat
+
+MOTION
+
+Upon recommendation of Daniel A. Rainey, Chief Information Of?cer, the Board of Water
+Commissioners for the City of Detroit, Water and Sewerage Department authorizes the Director
+to grant an increase of $4,925,000.00 in contract price and an extension of three (3) years
+with two (1) year renewal options for Contract No. ?Technology Services? with
+Diversi?ed Data Processing and Consulting, Inc. dba DivDat (Consultant) and authorizes the
+Director to take such other action as may be necessary to accomplish the intent of this vote.
+
+BACKGROUND
+
+The use of DivDat Kiosks and mobile pay application has increased since its inception
+in 2016. Kiosk usage has been recently growing at a rate of over 2,000 new users every month
+and now stands at just over 18,000 kiosk transactions per month. Web usage jumped 50% between
+March and May to just over 25,000 transactions and as DWSD migrates off of its current payment
+processor, Invoice Cloud will approach 50,000 payments per month. IV was added in March (it
+uses the same technology as the Web) and now accounts for over 18,000 transactions per month.
+
+RECEIVED FEB 252019
+
+ 
+
+The reoccurring kiosk operating cost of $12,000 and onetime implementation costs for
+the PCI-DSS compliant Counter Payment solution of $25,000 are accounted for in the FY2019
+lnfonnation Technology budget. The annual transaction costs are budgeted for in current DWSD
+operating costs.
+
+PROJECT MANAGEMENT STATUS
+
+A.
+
+53.0535
+
+worms:
+
+Gal?I
+
+L.
+
+Start Work Date: September 9, 2016
+Original Completion Date: September 9, 2018
+Current Completion Date: September 9, 2018
+Revised Completion Date: September 9, 2021
+Original Contract Amount: $500,000.00
+Amendment No. 1: 
+
+Amendment No 2: $270,125.00
+Current Contract Amount: $770,125.00
+Proposed Amendment No. 3: $4,925,000.00
+Revised Contract Price: $5,695,125.00
+
+Contract account strings:
+
+I. 5720-20168483 
+2. 5820-20179-493 
+
+Contract Purchase Agreement Number: 6001088
+
+CS-1804 Amendment No. 3 was presented to the Finance Committee on October 3, 2018 and it is
+a budgeted FY2019 item.
+
+ 
+
+DEPARTMENT OF WATER AND SEWERAGE
+600 1 08 8
+
+100% DWSD Funding - AMEND 3 - To Provide Equipment, Maintenance, Repair
+and Support of DivDat Payment Kiosks located throughout Detroit - Contractor 
+Diversi?ed Data Processing and Consulting, Inc., DBA DIVDAT - 10811 Northend
+Avenue, Ferndale, MI., 48220 - Contract Period: Upon City Council Approval
+through September 9, 2023 . Contract Increase: $4,925,000.00 - Total Contract
+Amount: $5,695,125.00
+
+Waiver of Reconsideration Requested.
+
+CITY OF DETROIT 3 1008 COLEMAN A. YOUNG
+
+OFFICE OF THE CFO MUNICIPAL CENTER
+OFFICE OF CONTRACTING DETROIT, MICHIGAN 48226
+
+AND PROCUREMENT 6E I PHONE 313 . 224 . 4600
+FAX 313062801160 2
+
+ 
+
+February 15, 2019
+
+TO: HONORABLE CITY COUNCIL
+Re: Contracts and Purchase Orders Scheduled to be considered at the Formal Session for February 19, 2019
+
+Please be advised that the Contract listed was submitted on February 13, 2019 for the City Council
+Agenda for February 19, 2019 has been amended as follows:
+
+1. The Contract Amount was Submitted Incorrectly by the Buyer Of this Contract. Please see the
+correction(s) below:
+
+Submitted as: Page 1
+
+DEPARTMENT OF TRANSPORTATION
+
+6001847 100% City Funding TO Provide Preventive Maintenance, Repairs, and Supply of
+Parts for Generators. Contractor: Preventative Maintenance Technologies 
+Location: 29395 Wall Street, Wixom, MI 48393 Contract Period: Upon City
+Council Approval through January 31, 2022 Total Contract Amount:
+$277,200.00.
+
+Should read as: Page 1
+
+DEPARTMENT OF TRANSPORTATION
+
+6001847 100% City Funding TO Provide Preventive Maintenance, Repairs, and Supply of
+Parts for Generators. Contractor: Preventative Maintenance Technologies 
+Location: 29395 Wall Street, Wixom, MI 48393 Contract Period: Upon City
+Council Approval through January 31, 2022 Total Contract Amount:
+$265,950.00.
+
+Kg?zfully Sub 
+
+c/W
+Boysie yaw
+
+Chief Procurement Officer
+
+
+QIQSIM Mali 69/ +0th
+
+Page 2
+
+BY COUNCIL MEMBER:
+
+ 
+
+RESOLVED, that Contract #6001847 referred to in the foregoing communication dated February 19,
+2019 be hereby and is approved.
+
+)5 MM usE';
+
+OFFICE OF CONTRACTING 36
+
+AND PROCUREMENT
+
+February 12, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001847 100% City Funding To Provide Preventive Maintenance, Repairs, and
+Supply of Parts for Generators. Contractor: Preventative Maintenance
+Technologies ?Location: 29395 Wall Street, Wixom, MI 48393 Contract
+Period: Upon City Council Approval through January 31, 2022 Total
+Contract Amount: $277,200.00. DEPARTMENT OF
+TRANSPORTATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 6001847 referred to in the foregoing communication
+dated February 12, 2019, be hereby and is approved.
+
+129453-25 '2019?Q?who. @3 .1 
+ENTERED NB PM :30 Lidia?)
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT
+February 28, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030208 100% (QOL) Quality of Life Funding To Provide Detroit Fire
+Department, In-Vehicle Computer and Accessories Refresh
+(Replacement/Upgrading of existing Computers and Accessories,
+Modems, etc) Contractor: Civitas IT LLC Location: 625 Kenmoor
+Ave., Suite 301, Grand Rapids, MI 49546 Contract Period: Upon City
+Council Approval through June 30, 2019 Total Contract Amount:
+$98,018.60 FIRE
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030208 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MAR112019M.1E [03 2-0 (393m)
+
+97'
+21?
+9
+
+OFFICE OF CONTRACTING )1
+
+AND PROCUREMENT 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030209 100% (QOL) Quality of Life Funding To Provide Detroit Fire
+Department, Of?ce computer and Accessories Refresh
+(Replacement/Upgrading of existing Computers and Accessories,
+Monitors, etc) Contractor: Civitas IT LLC Location: 625 Kenmoor
+Ave., Suite 301, Grand Rapids, MI 49546 Contract Period: Upon City
+Council Approval through June 30, 2019 Total Contract Amount:
+$180,494.22 FIRE
+
+ 
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030209 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MAR112019 N15 ER awo ?ew}
+
+AND PROCUREMENT
+
+OFFICE OF CONTRACTING 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001386 100% City Funding To Provide Vehicle Towing Services for Abandoned
+Vehicles and Boot and Tow (Scof?aw) Vehicles. Contractor: Troy?s
+Towing, Inc. Location: 9615 Grinnell, Detroit, MI 48213 Contract
+Period: Upon City Council Approval through June 30, 2021 Total
+Contract Amount: $84,500.00 MUNICIPAL PARKING
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 6001386 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED +0 Mo 1'0 
+
+30
+
+OFFICE OF CONTRACTING 
+AND PROCUREMENT
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001336 100% City Funding Amend 1 To Provide Staking and Flagging
+Services for the City of Detroit?s Public Lighting Department (Miss Digs)
+Contractor: Utility Resource Group LLC Location: 550 Stephenson
+Highway, Troy, MI 48083 Contract Period: Upon City Council
+Approval through March 15, 2021 Contract Increase: $500,000.00 -
+Total Contract Amount: $960,000.00 PUBLIC LIGHTING (This
+Amendment is for an increase in funds only. Original Contract Amount:
+$460,000.00. This Amount is a Pass Through that is reimbursed by DTE)
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 6001336 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MARHMA MTF Jm MB 2?0 (IQJRM)
+
+AND PROCUREMENT
+
+OFFICE OF CONTRACTING 5
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001919 100% City Funding To Provide Moving Services for the Department of
+Transportation. Contractor: BDM Transport LLC Location: 719
+Griswold, Suite 820-126, Detroit, MI 48226 Contract Period: Upon City
+Council Approval through March 5, 2021 Total Contract Amount:
+$250,000.00 TRANSPORTATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 6001919 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED 14101120191111.1117. 4? MB 4?0 m)
+
+OFFICE OF CONTRACTING 
+
+AND PROCUREMENT 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030516 100% City Funding To Provide Commercial Demolition of Group 83
+Properties Located at 13214 Fenkell, 13334 Fenkell, 13336 Fenkell, 13338
+Fenkell, 3119 Fenkell, 9850 Rosa Parks and15363 Schaefer. Contractor:
+North American Dismantling Corporation Location: 384 Lake
+Nepessing Rd, Lapeer, MI 48446 Contract Date: Upon City Council
+Approval through January 8, 2020 Total Contract Amount: $131,790.00
+HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030516 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MAR11ZU19 Hrm: h, Mb Q~o (7mm)
+
+AND PROCUREMENT
+
+OFFICE OF CONTRACTING 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030867 100% City Funding To Provide Imminent Danger Demolition of
+Commercial Property at 4169 St. Aubin Contractor: Adamo Demolition
+Co. Location: 300 East Seven Mile Rd., Detroit, MI 48203 Contract
+Date: Upon City Council Approval through January 16, 2020 Total
+Contract Amount: $67,000.00 HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030867 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MAR111019 MTF. +9 Mg@ 9,0 m4)
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030873 100% City Funding To Provide Imminent Danger Demolition of
+Commercial Properties at 2501 Coplin and 2503 Coplin Contractor:
+Adamo Demolition Co. Location: 300 East Seven Mile Rd., Detroit, MI
+48203 Contract Date: Upon City Council Approval through January 16,
+2020 Total Contract Amount: $27,800.00 HOUSING AND
+REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030873 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED F. '13: MB g~o {Zn/1)
+
+
+20
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT I
+February 28, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031343 100% City Funding To Provide Emergency Residential Demolition at 81
+Edgevale Contractor: Gayanga Co. Location: 1420 Washington Blvd,
+Suite 301, Detroit, MI 48226 Contract Date: Upon City Council
+Approval through March 4, 2020 Total Contract Amount: $19,025.00
+HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031343 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MAR112019 MT. mg a-o 
+
+57?
+3r
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT I 
+February 28, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031479 100% Federal Funding To Provide Commercial Demolition for Group
+84 Property at 4363 W. Davison Contractor: Dore and Associates
+Contracting Location: 900 Harry Truman Pkwy, Bay City, MI 48706 -
+Contract Date: Upon City Council Approval through January 31, 2020 
+Total Contract Amount: $33,800.00 HOUSING AND
+REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031479 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED +0 MB 2x0 KM)
+
+OFFICE OF CONTRACTING jg
+
+AND PROCUREMENT
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031587 100% City Funding To Provide Emergency Residential Demolition at
+8117 Thaddeus Contractor: Leadhead Construction LLC. Location:
+1660 Midland, Detroit, MI 48238 Contract Date: Upon City Council
+Approval through March 4, 2020 Total Contract Amount: $21,611.00
+HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031587 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+12mg HIT, ?11) NB wiikodr (emeendeoa @143
+
+ERED MAM
+ENT 2M)
+
+AND PROCUREMENT
+
+OFFICE OF CONTRACTING 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031593 100% City Funding To Provide Emergency Residential Demolition at
+5661 Addison Contractor: Leadhead Construction LLC. - Location:
+1660 Midland, Detroit, MI 48238 Contract Date: Upon City Council
+Approval through March 4, 2020 Total Contract Amount: $17,170.00
+HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031593 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+1
+
+ENTERED F. in) NE) .140 2M)
+
+
+
+OFFICE OF CONTRACTING 
+AND PROCUREMENT I:
+February 28, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031847 100% City Funding To Provide Emergency Residential Demolition at
+3445-47 Devonshire Contractor: Smalley Construction Inc. Location:
+1224 Locust St., Jackson, MI 49203 Contract Date: Upon City Council
+Approval through March 11, 2020 Total Contract Amount: $37,500.00
+HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031847 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED MB 2?0 
+
+36?;
+
+OFFICE OF CONTRACTING up
+AND PROCUREMENT
+March 4, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031661 100% City Funding To Provide Building and Permitting Plan Review
+Software, Allowing Customers to Submit, Pay an Track the Status of Site
+and Construction Plans On-line. Contractor: Avolve Software 
+Location: 4835 E. Cactus Road #420, Scottsdale, AZ 85254 Contract
+Period: Upon City Council Approval through November 21, 2019 Total
+Contract Amount: $161,400.00 BUILDING SAFETY ENGINEERING
+AND ENVIRONMENT
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031661 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAR112019 MT. F. HE) Tm; 
+
+/5
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT u}
+March 4, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3030960 100% Capital Funding To Provide a One-Time Purchase of Simulation
+Equipment to Upgrade the Existing Fire Repelling Tower Simulator. 
+Contractor: LION First Responder PPE, Inc. DBA BULLEX Location:
+20 Corporate Circle, Albany, NY 12203 Contract Period: Upon City
+Council Approval through March 11, 2020 Total Contract Amount:
+$86,125.00 FIRE
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3030960 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAR112019 Jir?z) NE KM 1-0
+
+OFFICE OF CONTRACTING 
+AND PROCUREMENT
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031033 100% City Funding To Provide a One?Time Purchase of a MSA Galaxy
+GX2 Automated Calibration System which will be used for Maintaining
+the Current MSA Altair 4x4 Gas Air Monitor(s) Throughout the City. 
+Contractor: Argus Group Holdings LLC DBA Premier Safety Location: .
+46400 Continental Drive, Chester?eld, MI 48047 Contract Period: Upon
+City Council Approval through March 11, 2020 Total Contract Amount:
+$67,800.00 FIRE
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031033 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+
+ENTERED MAR112019 47> Ne, RM) :20 QM)
+
+3
+
+OFFICE OF CONTRACTING a 4
+AND PROCUREMENT 3?
+
+March 4, 2019 I 
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031882 100% City Funding To Provide a One-Time Purchase of a Hazmat Area
+Rae Transportable Monitor, used to Detect Hazardous Materials that may
+Pose a Threat to the Air Quality in the Environment within our
+Community. Contractor: Argus Group Holdings LLC DBA Premier
+Safety Location: 46400 Continental Drive, Chester?eld, MI 48047 
+Contract Period: Upon City Council Approval through March 11, 2020 
+Total Contract Amount: $74,570.00 FIRE
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031882 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED 1413112019 MT 1?7 +0 ?2?0 (jg) QM)
+
+OFFICE OF CONTRACTING 
+
+AND PROCUREMENT
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001416 100% Police Grant Funding Amend 2 To Provide Critical Police Gear,
+Equipment and Accessories. Contractor: CMP Distributors, Inc. 
+Location: 16753 Industrial Parkway, Lansing, MI 48906 Contract
+Period: Upon City Council Approval through March 01, 2020 Total
+Contract Amount: $741,400.00 POLICE
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 6001416 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAMHMB H.T. F. .45 2-0 RM)
+
+i
+it??
+
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031301 100% Federal Funding To Provide Commercial Demolition of Group 85
+at the Following Five (5) Properties: 11980 Racine, 1215 Lakewood, 1225
+Lakewood, 12510 Laurel, and 14196 Houston-Whittier Contractor: Able
+Demolition, Inc. Location: 320 E. Seven Mile Rd., Detroit, MI 48203 
+Contract Period: Upon City Council Approval through January 31, 2020 
+Total Contract Amount: $449,180.03 HOUSING AND
+REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031301 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAR112019 
+lb ?15 QM 24> (an) (AM)
+
+OFFICE OF CONTRACTING 
+
+AND PROCUREMENT
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031716 100% City Funding To Provide Commercial Demolition for Group 88 at
+the Following Three (3) Properties: 13900 Mack, 14116 Mack and 14130
+Mack Contractor: Able Demolition, Inc. Location: 5675 Auburn Road,
+Shelby Township, MI 48317 Contract Date: Upon City Council
+Approval through February 18, 2020 Total Contract Amount
+$227,643.50 HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031716 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+1?0
+ENTERED in MB (jar Elm)
+
+
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT 3
+March 4, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3031717 100% City Funding To Provide Commercial Demolition for Group 89 at
+Property 5733 W. Warren Contractor: Gayanga Co. Location: 1420
+Washington Suite 301, Detroit, MI 48226 - Contract Date: Upon
+City Council Approval through February 18, 2020 Total Contract
+Amount $33,310.00 HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3031717 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+1
+
+OFFICE OF CONTRACTING 42% a
+AND PROCUREMENT 
+
+March 4, 2019 
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3032061 100% Federal Funding TO Provide Commercial Demolition for Group
+87 at Property 31 Woodland Contractor: Gayanga CO. Location: 1420
+Washington Suite 301, Detroit, MI 48226 Contract Date: Upon
+City Council Approval through February 26, 2020 Total Contract
+Amount $506,523.00 HOUSING AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce Of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract NO. 3032061 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED 1?0 NB 5M) (7912?
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT 
+
+243i
+
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3032077 100% Federal Funding To Provide Commercial Demolition for Group
+84 (B) at Property 490 W. Margaret Contractor: Dore and Associates
+Contracting Location: 900 Harry Truman Pkwy, Bay City, MI 48706 
+Contract Date: Upon City Council Approval through January 31, 2020 
+Total Contract Amount: $53,000.00 HOUSING AND
+REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Officer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract NO. 3032077 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAR112019 Mrr. F. Jm NE (ARM 1*0
+
+AND PROCUREMENT
+
+OFFICE OF CONTRACTING ?a
+
+March 4, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3032078 100% Federal Funding To Provide Commercial Demolition for Group
+86 (B) at the Following Four (4) Properties: 13810 E. Seven Mile, 18014
+Chalmers, 18032 Chalmers and 18042 Chalmers Contractor: Able
+Demolition, Inc. Location: 5675 Auburn Road, Shelby Township, MI
+48317 Contract Date: Upon City Council Approval through January 31,
+2020 Total Contract Amount $143,644.88 HOUSING AND
+
+REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3032078 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED naming Mn: +0 Me; A??o (in, am)
+
+OFFICE OF CONTRACTING Ell!
+
+AND PROCUREMENT 1-
+
+March 4, 2019
+
+I:
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+3032098 100% Federal Funding To Provide Commercial Demolition for Group
+94 at the Following Six (6) Properties: 20519 W. Seven Mile, 20723
+Fenkell, 20727 Fenkell, 20731 Fenkell, 20932 Fenkell and 20942 Fenkell
+Contractor: Homrich Location: 65 Cadillac Square Suite 2701, Detroit
+MI, 48226 Contract Date: Upon City Council Approval through
+February 26, 2020 Total Contract Amount $57, 768.00 HOUSING
+AND REVITALIZATION
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Office of Contracting and Procurement
+
+BY COUNCIL MEMBER BENSON
+
+RESOLVED, that Contract No. 3032098 referred to in the foregoing communication
+dated March 4, 2019, be hereby and is approved.
+
+ENTERED MAR112019 14.11; ,0 Me .
+2 (ETA) QM)
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT
+
+February 28, 2019 1%
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001083 100% City Funding Amend 2 - To Provide (City of Detroit Vehicles
+Manufactured by the Fiat Automobiles) Vehicle General and
+Body Repair Service, Labor and/or Parts. Contractor: JefferSOn
+Chevrolet Co Location: 2200 E. Jefferson Ave., Detroit, MI 48207 
+Contract Period: Upon City Council Approval through November 30,
+2019 Contract Increase: $250,000.00 - Total Contract Amount:
+$975,000.00. GENERAL SERVICES (This Amendment is for an increase in
+Funds only. Original Contract Amount: $725,000. 00)
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER SHEFFIELD
+
+RESOLVED, that Contract No. 6001083 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved
+
+ENTERED MARU72019 vac +o 10a.) Bumuisy?gcz? a)
+
+.4
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT Zq
+February 28, 2019
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following ?rm(s) or person(s):
+
+6001762 100% City Funding To Provide Fencing and Landscaping Services for
+Various City of Detroit Parks Contractor: WH Canon Inc. Location:
+36700 Northline Rd., Romulus, MI 48174 Contract Period: Upon City
+Council Approval through December 17, 2020 Total Contract Amount:
+$1,200,000.00. GENERAL SERVICES
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER SHEFFIELD
+
+RESOLVED, that Contract No. 6001762 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED Jr5 143%) 
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT 30
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following firm(s) or person(s):
+
+6001838 100% City Funding To Provide Design/Build Expansion Services to the
+Animal Control Facility located at 7401 Service Drive. 
+Contractor: Cross Renovation. Location: 34133 Schoolcraft Rd.,
+Livonia, MI 48150 Contract Period: Upon City Council Approval
+through January 22, 2020 Total Contract Amount: $1,385,025.00.
+GENERAL SERVICES
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Office of Contracting and Procurement
+
+BY COUNCIL MEMBER SHEFFIELD
+
+RESOLVED, that Contract No. 6001838 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+3 I (D 7?0
+ENTERED MARU72019 +0 UL) 
+
+OFFICE OF CONTRACTING
+AND PROCUREMENT 3 
+
+February 28, 2019
+
+HONORABLE CITY COUNCIL:
+
+The Purchasing Division of the Finance Department recommends a Contract with the
+following firm(s) or person(s):
+
+6001910 100% City Funding To Provide Lawn and Landscaping Equipment 
+Contractor: Munn Tractor and Lawn Inc. Location: 3700 Lapeer Rd.,
+Auburn Hills, MI 48326 Contract Period: Upon City Council Approval
+through March 14, 2024 Total Contract Amount: $600,000.00
+GENERAL SERVICES
+
+Respectfully submitted,
+
+Boysie Jackson, Chief Procurement Of?cer
+Of?ce of Contracting and Procurement
+
+BY COUNCIL MEMBER SHEFFIELD
+
+RESOLVED, that Contract No. 6001910 referred to in the foregoing communication
+dated February 28, 2019, be hereby and is approved.
+
+ENTERED Mm 
+
+57333
+
+COLEMAN A. YOUNG MUNICIPAL CENTER
+2 WOODWARD Avenue, suns tom 32
+Dmort?. MICHIGAN 48226
+
+CITY 0? DETROIT PHONE: 3 l3 - 628-2l58
+
+OFFICE OF THE CHIEF FINANCIAL OFFICER FAX: 3 I 3 224 . 0542
+
+OFFICE or DEVELOPMENT AND GRANTS 
+
+ 
+
+February 4, 2019
+
+The Honorable Detroit City Council
+ATTN: City Clerk Of?ce
+
+200 Coleman A. Young Municipal Center
+Detroit MI 48226
+
+RE: Request to Accept and Appropriate the FY 2019 Comprehensive Agreement,
+Emerging Threats - Hepatitis Program
+
+The Michigan Department of Health and Human Services has awarded the
+City of Detroit Health Department with the FY 2019 Comprehensive Agreement.
+Emerging Threats - Hepatitis Program for a total of $109,611.00. The total project
+cost is $109,611.00. There is no match requirement. The grant period is October 1.
+2018 through September 30. 2019.
+
+The objective of the grant is to establish partnerships with community stakeholders. to
+provide education on Hepatitis transmission. and to actively investigate Hepatitis 
+cases. The funding allotted to the department will be used to pay for program staff
+salaries. travel and communication expenses. to purchase supplies. material and rent
+space. This is a reimbursement grant.
+
+If approval is granted to accept and appropriate this funding. the appropriation number
+is 20629.
+
+I respectfully ask your approval to accept and appropriate funding in accordance with
+the attached resolution.
+
+Sincerely,
+
+$3
+
+Ryan Friedrichs
+Director. Office of Development and Grants
+
+CC:
+Katerli Bounds, Deputy Director. Grants
+Sajjiah Parker. Assistant Director. Grants
+
+This Request has been approved by the Of?ce of the Budget.
+
+ENTERED mutual/Hr. Mg
+
+
+
+Office of Development and Grants 
+
+ 
+
+RESOLUTION
+
+Council Member
+
+WHEREAS, the Health Department is requesting authorization to accept a grant of reimbursement
+from the Michigan Department of Health and Human Services in the amount of
+$109,611.00. to enable the Health Department to establish partnerships with community
+stakeholders, to provide education on Hepatitis transmission, and to actively investigate
+Hepatitis cases; and
+
+WHEREAS, there is no match requirement; and
+
+WHEREAS, this request has been approved by the Office of the Budget; now
+
+THEREFORE, BE IT RESOLVED that the Director or Head of the Department is authorized to
+execute the grant agreement on behalf of the City of Detroit. and
+
+BE IT FURTHER RESOLVED, that the Budget Director is authorized to establish ApprOpriation
+number 20629 in the amount of $109,611.00, for the FY 2019 Comprehensive Agreement,
+Emerging Threats - Hepatitis Program.
+
+Page 1 ot1
+
+Page i of 3
+
+Alvita Lozano - Comprehensive Agreement - Amendment #2 Released
+
+From: "Reece, Carissa <RceccC@michigan.gov>
+To: Joneigh Khaldun-AO JOSEPH MUTEBI <Mutebij@detr..-
+Date: 1/4/2019 2:02 PM
+
+Subject: Comprehensive Agreement - Amendment #2 Released
+
+The following lists the FY 2019 amendments for your organization for funding administered by
+the Michigan Department of Health and Human Services through the
+Comprehensive Agreement. All projects must be budgeted and expended consistent with the
+requirements contained in your Comprehensive Agreement
+
+Ameggment List
+
+ounce-Jim Changes :Existjne Freeze 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii. Budget Category 999.93%
+
+Project Title
+
+_Medlcaid Elevated Blood? Lead Case Mgmi 
+Enabling Services Children- MCH
+
+ 
+
+ 
+
+ 
+
+ 
+
+o?a.
+
+Enabling Services Women- 
+Food ELPHS
+
+ 
+
+ 
+
+[General Communicable Disease ELPHS
+
+ 
+
+ 
+
+Hearing ELPl-is 
+Testmean?en?qn
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i Current Amended' Non?Ir
+
+
+Jillian? . a Amount. 
+
+Childhood Lead Poisoning Prgentiorl 'i'50 no 213,359.00:
+L__ooal Tobacco 20000.00 5. 000. 00 ?25.00009"
+
+Public Health Emergency Preparedness (PHEP)
+
+391112215909. ?l 
+Public Health Emergency Preparedness (PHEP) CRI 
+.- :76. 916 00?? 9:10 176 916. 
+
+West Nile V'rus Community Sury_e__illance a __000. 00 2. 000. not 10 000. 005
+THQTAL: 30110.9(! ?646.451.9011
+i-b. New Allogation - New Proie_ct_s 7 
+Project Titlew Clip-3m Amount Amended Amount? .551 Pr_oj?ct;
+Emerging Threats- -He?atit__is 0 0.00 109311319; 109.511.001
+Ri?esaiemlsy?lmg 9-19. .
+1975-- EFL 
+
+ 
+
+il8/20l9
+
+Page 2 of3
+
+immunization Action _Plan 
+Immunization ELPHS
+
+Public functions lntratruct - MCH
+Sexually Transmitted Disease 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Next Eggs
+
+The next steps in the MI E?Grants system for amending your applications and budgets and
+submitting your Comprehensive Agreement Amendment for approval are as folliows:
+
+1. The project manager will assign the agency users to any new Local Health Department - 2019
+
+projects.
+
+2. For your convenience you can access the "Comprehensive Agreement Training for Grantee"
+material on the home page by clicking'About and downloading the PDF. Access the
+system using the 
+
+. Login into Ml E-Grants system. 
+
+4. Enter the application using the drop down menu's 'Grantee>C-Jrant ApplicationeEnter Grant
+Application" and click on 
+
+. Select the Health Department - 2019 program and click the ?Go" button.
+
+. Select the hyperlink titled ?Local Health Department - 2019'.
+
+7. Select hyperlink to various projects and amend the application sections. See page 59 for detailed
+
+instructions.
+
+8. When the amended application has been entered. validated. and is error free it is ready for
+
+submission by the authorized official.
+
+Additional Qogumegts
+
+To view your original and amended agreement use the dropdown menu's "Grantee> Project
+Director> Application Status' and click the 'Go' button. Select the Grant Program and click on
+the 'Flnd' button. Select the agreement from the dropdown menu located at the bottom of the
+
+screen. "Draft" is the pending amendment. Click on the 'View Contract to access the selected
+agreement. 
+
+
+
+Technical assistance to complete the requested Grant Amendment is available through the
+Grants Section Help Desk at -E chi an or 517-33i335363. For
+Programmatic questions, please contact your Program Coordinator. You may also
+
+refer to your training materials and the yellow book and help icons within Ml E-Grants for
+assistance.
+
+LII
+
+mm
+
+Please complete the requested updates and have your Authorized Of?cial submit the
+amended Grant Agreement through Mt E-Grants within two weeks.
+
+Please feel free to contact me with any questions or concerns.
+
+till/2019
+
+Page 3 of 3
+
+Thank you,
+Carissa
+
+Carissa Reece
+Departmental Analyst, Grants Section
+Department of Health Human Services
+
+
+
+CONFIDENTIALITY NOTICE:
+
+The Information contained in this message may be privileged and con?dential, and is intended only for use
+of the individual or entity to which It is addressed. lithe reader of this message is not the intended
+recipient, or an employee or agent responsible for delivering this message to the intended recipient, you
+are hereby noti?ed that any dissemination, distribution or copying of this communication is strictly
+prohibited, and may be subject to civil and/or criminal penalties. if you received this communication in
+
+error, please notify us immediately, delete it from your computer and destroy any copies of the original
+message. Thank you.
+
+1188019
+
+ 
+
+PROGRAM BUDGET SUMMARY
+MICHIGAN DEPARTMENT OF COMMUNITY HEALTH
+
+1 Detail'IAS 0319
+
+:11 Mi Health Association
+
+11 w. Grand Blvd. Suite 200
+
+State Code
+Detrolt Ml 48202
+
+EXPENDITURE CATEGORY
+
+and as
+Bene?ts
+Travel
+5 and Materials
+Contractual Subcontracts
+
+Other
+Cell Phones
+Rent
+
+Total Direct Expenditures
+of Lines 1
+
+indirect Casts: 5.00%
+
+Indirect Costs: Rate #2 15.00%
+
+Indirect Costs: Rate #3 3.00%
+. Other Cost Distributions
+
+. TOTAL EXPENDITURES
+(Sum or Lines 8'10)
+
+SOURCE OF FUNDS: CPBC State
+2. Fees and
+
+13. State
+
+14. Local
+
+15. Federal
+
+1 . 
+
+(Sum oi Lines 12-13)
+
+#2019
+ram: To: 9i3t'ii19
+
+Original 
+ID Number
+
+Amendment 
+
+ET
+139 90.00
+16 7.00
+48.00
+4 00
+23302.00
+
+960.00
+1 042.00
+
+93 707.00
+4 .00
+0,250.00
+2 51.00
+
+ 
+
+109 611.00
+
+109.511.00
+
+ 
+
+ 
+
+AUTHORITY: PA. 368 of 1978
+COMPLETION: I: Votuntm, but is required as audition a! funding.
+
+ 
+
+The Depart-rant of Cummnity Health ts Il'l equel opportunity
+endow, aervlcu and mama provider
+
+ 
+
+Elm-1.0355111 6-02) (W) Previous Edition Obsolete ?sumac? Fifi-110
+
+2/4/2019 3:31 PM
+
+Hep FY19 Budget 1.15.19KY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+comm" Minimum 3.2
+PROGRAM BUDGET - 008T DETAIL Pta- 1 0  2
+- Ila WHOLE DOLLARS (My
+man coal. wanna-mu mumm? 
+and rm. to 
+_,g_y_uma alum Altman
+cannon
+Ill-"rm NWT mu
+Emu-m Maw-n Hum
+?mum I
+1. I. mums TOTAL
+POSITION DISCRIFMN WED WV mm
+tD Imam-m a 15:: 42.01! a I 15,157 to
+Ink?Ag! I: Call 1 0G 40.000 '1 I 23 
+1 15906 I Ilium
+I. rm: ?mm: 1:?an tum-Na nu-
+xnomum vaou xwonncow 41 my.
+guano
+I meamms Kurt": cum!
+cumulus I. mun: am: 5 16.071.?
+1. TRAVEL: (Ipncm- if any uendl 1W. of?l'oullnonl?wm
+Minna $0 549ml? qmimloly 75 mum-noun lot local I'm! at slut I 367.88
+rum-o o! UborILyI'l mun
+3 2.330 on
+unnumvu 3.241.?
+LIUFPIJII I MTERMLI: much! II Km "mod. ll 
+om Suppboqumern I 1,1100 no
+Imitmphonu In: ?all I 1,256.04
+Dom! maul I uugc: sunk-rem: 1 FTE 12 manual plus mmnod unndHIAl 8 -
+?undo! I 1 500m
+A tom mpun truism]: 8 
+I. comma: mummy-nu
+Hun Han-u Imam:
+?mmw Hum Arum? Group
+1300 W. FM Mail. MI ?220
+I. mm albumin?. 3 amazon
+T. DWI ula?EI: I In}! Inn "and! Tut-I Arum-l
+mum: can!? 5 ESQM
+Bun: 81,041.66
+mu -I n-n- no mun n-u- ur. rn- ww?r 1. tom. mun unmu a 2.001.?
+I. 1'an caller mailman: Ila-Ln fum- I 91,100.?
+I. :Ol?l' 
+Ruin l1 lull? lul 3 I Rik I 4.6855.11? I mu Il?i I 5 3.266.170
+momma?? mam-run 11.!!100
+mm. m. annual-um?: mm a In. 3 105.6595?
+Narnia-manual?
+mlh?uhumnl-h? 
+I 
+I?nm Duel El mm II 1'01
+Cm Mn 3% 2.:51
+Duo Man ?In
+1qu 
+Am 
+
+
+2141201! 3:14 PM
+
+HIP FY19 Sudan? 15 
+
+COLEMAN A. Young MUNICIPALCENTEH. 
+
+2 WOODWARD AVENUE, SUITE 1026
+DETROIT, MICHIGAN 48226
+
+CITYOF DETROIT muons: 313 - 628-2l58
+
+OFFICE OF THE CHIEF FINANCIALOFFICER 
+
+OFFICE or DEVELOPMENT AND GRANTS 3 I 3 224 ?542
+
+
+ 
+
+January 31, 2019
+
+The Honorable Detroit City Council
+ATTN: City Clerk Office
+
+200 Coleman A. Young Municipal Center
+Detroit MI 48226
+
+RE: Request to Accept and Appropriate the FY 2019 Highway Research Planning
+and Construction Grant
+
+The Michigan Department of Transportation has awarded the City of Detroit Department
+of Public Works with the FY 2019 Highway Research Planning and Construction Grant
+for a total of $724,160.80. The State share is 80 percent or $724,160.80 of the
+approved amount, and a there is a required cash match of 20 percent or $181,040.20.
+The total project cost is $905,201.00. The grant period is October 18, 2018 through
+December 31 2019.
+
+The objective of the grant is to fund the Traffic Operations Center?s work. The funding
+allotted to the department will be utilized to maintain general operation. and support
+communications. equipment management, and systems management work. This
+project will be managed by the Michigan Department of Transportation and the State
+will invoice the Department of Public Works for the match portion of the project.
+
+If approval is granted to accept and appropriate this funding. the appropriation number
+is 20633. with the match amount coming from appropriation number 04189.
+
+I respectfully ask your approval to accept and apprOpn'ate funding in accordance with
+the attached resolution.
+
+Sincerely,
+
+Ryan Friedrichs
+Director, Office of Development and Grants
+
+ 
+
+CC:
+Katerli Bounds. Deputy Director, Grants
+Sajjiah Parker. Assistant Director. Grants
+
+This Detroit Council Request has been approved by the Office of the Budget.
+
+ENTERED Mir F. in) M8 "1'0 (Tm; QM)
+
+at
+
+Office of Development and Grants Woman-
+
+RESOLUTION
+
+Council Member
+
+WHEREAS, the Department of Public Works is requesting authorization to accept a grant
+from the Michigan Department of Transportation, in the amount of $724,160.80, to fund the Traf?c
+Operations Center work; and this project will be managed by the Michigan Department of
+Transportation and the State will invoice the Department of Public Works for the match portion of the
+project; and
+
+WHEREAS, there is a required local cash match of $181 ,04020; and
+
+WHEREAS. this request to the Detroit City Council has been approved by the Of?ce of
+the Budget: now
+
+THEREFORE, BE IT RESOLVED that the Director or Head of the Department is authorized to
+execute the grant agreement on behalf of the City of Detroit. and
+
+BE IT FURTHER RESOLVED, that the Budget Director is authorized to establish Appropriation
+number 20633, in the amount of $181,040.20. which includes a cash match coming from
+Appropriation 04189, for the FY 2019 Highway Research Planning and Construction Grant.
+
+Page 1 of 1
+
+ l-u- 
+
+PART I
+
+ 
+
+THIS CONTRACT, consisting of PART I and PART II (Standard Agreement Provisions), is
+made and entered into this date of by and between the MICHIGAN
+DEPARTMENT OF TRANSPORTATION, hereinafter referred to as the 
+and the CITY OF DETROIT, a Michigan municipal corporation, hereinafter referred to as the
+for the pot-pose of ?xing the rights and obligations of the parties in
+agreeing to the following improvements, in the City of Detroit hereinafter referred to as the
+and estimated in detail on EXHIBIT dated October 24, 2018, attached hereto and
+made a part hereof:
+
+Traffic Operations Center work; including general Operation, communications,
+equipment management, and system management work; and all together with
+necessary related work.
+
+
+
+WHEREAS, pursuant to Federal law, menies have been provided for the performance of
+certain improvements; and
+
+WHEREAS. the reference in PART I and PART 11 refers to the United States
+Department of Transportation, Federal Highway Administration; and
+
+WHEREAS. the PROJECT, or portions of the PROJECT, at the request of the
+
+REQUESTING PARTY, are being programmed with the FHWA, for implementation with the use of
+Federal Funds under the following Federal Program(s) or funding:
+
+CONGESTION AND AIR QUALITY ACT
+WHEREAS, the parties hereto have reached an understanding with each other regarding the
+
+performance of the PROJECT work and desire to set forth this understanding in the form of a written
+agreement.
+
+1/5/96 10/241] 8 
+
+ESTIMATED COST
+PROJECT WORK
+
+Estimated Cost
+
+COST PARTICIPATION
+
+GRAND TOTAL ESTIMATED COST
+Less Federal Funds
+BALANCE (REQUESTING SHARE)
+
+NO DEPOSIT
+
+1/5/96 10124118 5
+
+$905,201.00
+
+$905,201.00
+
+$724,160.33}
+$131,040.20
+
+System Number (00313): 
+Federal Grant/Project 1900(025)
+Number(s):
+
+MDOT Project Number: 2022770PS
+
+Project Description: Tra?ic Operations Center work; including general operation,
+communications, equipment management, and system
+management work.
+
+CFDA Number, Federal Agency, Program Title: CFDA 20.205
+Highway Research Planning 
+Construction
+
+Federal Award Identi?cation Number(s) (PAIN): 2619000252400
+Federal Award Date: 101l81201 8
+
+Period ofPerfonnance Start Date: 1011812018
+
+Period of Performance End Date: 121310018
+
+Amount of Federal Funds obligated by this action: $724,160.80
+Total amount of Federal Funds obligated: $724,160.80
+
+Total amount of the Federal award: $724,160.80
+
+Budget Approved Cost sharing or matching, where applicable:
+Federal Participation: $724,160.80; Local Participation: $181,040.20
+
+Name of Federal awarding agency and contact information for awarding of?cial:
+
+Director Mark Van Port Fleet
+Michigan Department of Transportation
+425 West Ottawa Street
+
+Lansing, MI 48909
+
+Is this a Research and Development award: Yes No
+Indirect cost rate for the Federal award (if applicable): Not Applicable
+
+11/9118 5
+
+CHLEMAN A. ?t'nUNc MUNICIPAL CENTER
+2 Momma. sums l026 3
+DETROIT. Mlclunm 41123!)
+
+CITY 0? Demon
+
+3 3 I 6253153
+OFFICE OF THE CHIEF FINANCIALOFFICER
+
+Fm: 313 . 224 . 0542
+OFFICE or DEVELOPMENT AND GRANTS 
+
+ 
+
+January 25, 2019
+
+The Honorable Detroit City Council
+City Clerk Of?ce
+
+200 Coleman A. Young Municipal Center
+Detroit MI 48226
+
+RE: Authorization to submit a grant application to the Federal Highway
+Administration FY 2019 Automated Driving System Demonstration Grants
+Program
+
+The Of?ce of Mobility is hereby requesting authorization from Detroit City Council to
+submit a grant application to the Federal Highway Administration, FY 2019 Automated
+Driving System Demonstration Grants Program. The amount being sought is
+$10,000,000.00. There is no match requirement for this grant. The total project cost is
+$10.000,000.00.
+
+The Automated Driving System funding will enable the department to:
+
+- Fund a four year physio-l demonstration project to test the safe integration of on-
+road transportation automated driving systems for delivery of goods and services
+to Detroit residents.
+
+We respectfully request your approval to submit the grant application by adopting the
+attached resolution.
+
+Sincerely,
+
+?ng
+
+Ryan Friedrichs
+Director, Of?ce of Development and Grants
+
+CC:
+Katerli Bounds. Deputy Director. Grants
+Sajjiah Parker. Assistant Director. Grants
+
+ENTERED MAR112019 H.113. 41. M5 5H) (jej- m4)
+
+at
+
+Of?ce of Development and Grants mama,?
+
+ 
+
+RESOLUTION
+
+Council Member
+
+WHEREAS. the Department of Mobility has requested authorization from City Council to submit a
+grant application to the Federal Highway Administration. FY 2019 Automated Driving System
+Demonstration Grants Program in the amount of $10.000.000.00, to fund a four year physical
+demonstration project to test the safe integration of on-road transportation automated driving
+systems for delivery of goods and services to Detroit residents: and
+
+WHEREAS. there is no match requirement for this grant; now
+
+THEREFORE BE IT RESOLVED, the Department of Mobility is hereby authorized to submit a
+grant application to the Federal Highway Administration.
+
+Pagetolt
+
+ or Darren
+OFFEE OFTIIE CHIEF FINANCIALOFFEER
+Omce or am: Germs
+
+Coleman A Youno Come
+2 Avenue, surre l026
+Demon. Malibu 48226
+
+PHONE: 3 0 628-2153
+
+Fur: Jill ~24 nose:
+
+
+ 
+
+Grant Application Request Form 
+
+In order to secure the Ofiice of Development and Grants approval required under Section 13-4-2 of the
+
+Detroit City Charter, this form is to be ?lled out by City Departments as soon as possible upon learning of an
+
+opportunity that the Department would like to pursue. This (one must be signed and submitted not later than
+
+20 business days prior to the application deadline.
+
+Please submit this form to the [allowing ODG stall: Saulah Parker. Assistant Director,
+Earhersagdetroitmlgov and Greg Andrews, Program Analyst IV, andrewsgeretroltmi.gav
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+City Department one. lmlion
+
+Date 
+
+Department Contact Na'ne Merit De La Vere-re
+
+Department Contact Phone crease-am
+
+Department Contact Email DLVotan?d-lmiimlgov
+
+Grant Opportunity Title Automated om System (ADS) Demonstration Grant:
+Grant Opportunity Funding?ency usaor Federal Highway Adn-lntalratlon
+
+ 
+
+Web link to Opporturm Information
+
+hhpadhvw.hmporution povlevlgrants
+
+ 
+
+Award Amount (that Department will apply for}
+
+?0.000.000
+
+ 
+
+ 
+
+ 
+
+Application Due Date damn
+Anticipated Proposed Budget Amount $10,000,000
+City Match Contribution Amount we
+
+ 
+
+Source of City Match (Include Appropriation
+Number. Cost Center. and Object Code)
+
+
+
+ 
+
+On at programslserviceslactivittes to be
+{untied and the Budget tor each
+
+Sample:
+
+- ABCA?erschool program: $150,000
+
+- XYZ Youth leadership program Stator!)
+- Salary/Bene?ts: $95,000
+
+- Supplies: $5.000
+
+Autonomous Vehicle Deployment and Engineering:
+
+
+Autonomous Vehicle Research: 55.000.000
+Project Management: $760,000
+
+Project Evaluation: 5500.000
+
+Community Engagement 5750.000
+
+Staf?ng: 5500.000
+
+ 
+
+Briei Statement of PrioritiesIPurpose for the
+Application
+
+Sample: To support expansion of promising
+youth development programs in MNO
+neighborhood.
+
+To fund a mull-year physical demonstration protect it partnership with
+Ford amen Mobility AV unit. University oi Michigan Transportation
+Research American Center lor ?chatty and others. This
+protect will test "to sale ?oatation of automated drlv'mg systems into
+on-roed transportation systems, with a locus on delivering goods and
+services to senior;
+
+ 
+
+Key Periorrnance indicators to be Used to
+Measure the 
+Sample:
+
+aflrids newly enrolled in ABC and XYZ
+
+96 oflridsfram ABC who demonstrate
+improved educational pedomance
+
+ 
+
+ 
+
+The outcomes of the grant revolve around
+Safely Metrics, Data for Safety Anaiyeis and
+Rule-matting. and Collaboration (stakeholder
+engagement. social impact on transportation
+challenged populations).
+
+ 
+
+Mark De La Vergne
+
+Director?s Name (Please Print)
+
+ 
+
+
+
+Director?s Signature
+
+2/22/1 9
+
+Date
+
+ 
+
+I340 '1 mm: Sun 
+I): \ln 454236
+
+l?m'm'ii 313-367-5131)
+- . (13m or Fix 3130919852
+Prat lt? l..:mum; mm um
+
+February 27, 2019
+
+  
+  
+
+-. .
+?.Ii .5. I 
+-i.i i 3.4-53.9. :4ij- l-L' ri -. . .
+
+The Honorabl? City Council
+1340 ColemangA. Young Municipal Center
+Detroit, Michigan 48226
+
+RE: Detroit Metro Convention 8.: Visitors Bureau
+Petition #636
+
+Dear Council Members
+
+The Detroit Free Press and Chemical Bank is requesting permission to hang approximately
+85 banners on Woodward Ave. from Service Drive to Edmund Place and on Cass Ave.
+from [-75 Service Drive to Temple for the Horizon League Motor City Madness event.
+
+The Public Lighting Department has inspected requested poles and ?nds them to be
+structurally sound, and is reComrnending approval for Detroit Metro Convention Visitors
+Bureau on approved pole locations from March 4, 2019 to March 13, 2019.
+
+Note: There are is one bracket arms on one side for 1 metal pole. The Public Lighting
+Authority (FLA) is working with its vendors to facilitate reattachment of bracket arms.
+
+Reapectf lly Silb ed,
+
+John Prymack, Director
+Public Lighting Department
+
+Enclosure: Petition
+
+cc: Council Members
+Pi is
+PLA
+
+ENTERED 41> Mg ,2 ami}
+
+DEPARTMENTAL. REFERENCE COMMUNICATION
+Tuesday. January 08, 2019
+
+To: Ike Deporrmem or Commission Listed Below
+
+From: Janice Ma?a}: Detroit City Clerk
+
+ 
+
+The. following petition is herewith referred to you for ram and to the
+City Council.
+
+In accordance with that body's directive, return the same with your report in duplicate
+within four (4) weeks.
+
+ 
+
+PUBLIC LIGHTING DEPARTMENT DPW - CITY ENGWEERING DIVISION
+PLANNING AND DEVELOPMENT DEPARTMENT
+
+636 Defrofr Metro Convention Visitors Bureau, rogues! to hang approximately 85
+banners an Woomoord?'om 1-75 Service Dr. to Edmund Place,- and an Cass
+from I- 75 Service Dr. to. Temple from 3-4-19. to 9for the Horizon. League
+Motor City Madness .event.
+
+no}; 
+
+F513, 27,, 201?
+
+      
+
+ 
+
+      
+
+.5-. ?15V's-
+
+
+y" 51 
+l9 5? ?unwed/'5? ?fth? . - 
+"a 
+
+I 
+
+by: 
+
+L157 
+
+(3W
+
+$4933.99? 
+L, 9 a
+
+Fox T?'as'alrs-
+
+SIGN CO.
+
+-- We
+
+
+Fhe Fluzirzru Balm-'1 a a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANNER 103. 636 - WOOBWARD from I 75 Service Dr. to PL. CASS from - 75 Service Dr. to TEMPLE
+POLE NUMBER POLE LOCATION TYPE OF POLE BRACKET INFO.
+
+1 2nd poie (West side} N. of Temple ,St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+2 4th pole East side} N. of Alfred St. on Woedwerd Ave. METAL POLE Brackets PreSent
+- BOTH SIDES
+
+3 poie (West side} N. of Temple St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+4 3rd pole {East side) N, of Alfred St. 0n WoodwardAve. METAL POLE Brackets Present
+- BOTH SIDES
+
+pole {West side) S. of Temple St. on Woodward Ave. METAL POLE Brackets Present
+BOTH SIDES
+
+6 2nd pole (East side) N. of Alfred St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+7 2nd pole {West side) 5. of Tempie St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+8 Est pole (East side) N. of Alfred St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+9 3rd poie (West pole) S. of Temple St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+10 pole (East pole) S. of Alfred St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+11 2nd poIe (West pole} N. of Sproat St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+12 2nd pole (East pole] S. of Alfred St. on Woodward Ave. METAL-POLE- Brackets Present
+BOTH SIDES
+
+13 Ist poie (West pole} N. of Sproat St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+14 3rd pole (East pole) S. of Aifred St. on Woodward Ave. METAL POLE Brackets Present
+
+ 
+
+ 
+
+ 
+
+BOTH SIDES
+
+ 
+
+BANNER JOB. 646 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POLE NUMBER POLE LOCATION TYPE OF POLE BRACKET ENFO.
+
+15 2nd pole (West side) S. of Sproat St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+16 2nd poie (East pole) N. of Adelaide St. on Woodward Ave. METAL POLE Brackets Present
+BOTH SIDES
+
+17 3rd po?e (West side} 5. of Sproat St. on Woodward Ave. ETAI. POLE Brackets Present
+- BOTH SIDES
+
+18 pole (East side) N. of Adelaide St. on Woodward Ave. METAL POLE Brackets Present
+BOTH SIDES
+
+19 4th poie (West side} S. of Sproat St. on Woodward Ave. METAL ONE BRACKET ARM
+MISSING
+
+20 pole {East side) 5. of Adelaide St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+21 3rd poie (West side) N. of Henry St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+22 2nd pole (East side) N. of Winder St. on Woodward Ave. METAL POLE Bratkets Present
+- BOTH SIDES
+
+23 2nd pole (West side) N. of Henry St, on Woodward Ave. METAL POLE Brackets Present
+.. BOTH SIDES
+
+24 Est poie {East pole) S. of Winder St. on Woodvvard Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+25 151: poie (West pole) N. of Henry St, on Woodwards Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+26 pole [East side) 5. of Winder St. on Woodward Ave. METAL POLE Brackets Present
+4 BOTH SIDES
+
+27 pole (West side) 5. of Henry St. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+
+28- pofe (East side) N. of WB Fisher Fwy Serve Dr. on Woodward ave. METAL POLE Brackets Present
+
+ 
+
+ 
+
+ 
+
+- BOTH SIDES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANNER JOB. 646 - WOODWARD from I - 75 Service Dr. to EDMUND CASS from i - 75 Service Dr. to TEMPLE
+POLE NUMBER POLE LOCATION TYPE OF POLE BRACKET WED.
+29 pole (West side} N. of W3. Fisher Fwy Sreve Dr. on Woodward Ave. METAL POLE Brackets Present
+- BOTH SIDES
+30 poie {East side) S. of M13. Fisher Fwy. Serve Dr. on bridge over I - 75 METAL POLE Brackets Present
+- BOTH 
+31 pole (West side} 3. of W3. Fisher Fwy. Serve Or. on bridge over i - 7'5 METAL POLE Brackets Present
+- BOTH STDES
+32 pole (East side) N. of EB. Fisher Pwy. Serve Dr. on bridge ever 7S METAL POLE Brackets Present
+- BOTH SIDES
+33 pairs {West side} N. of EB. Fisher Fwy. Serve Dr. on bridge over - 73 METAL POLE Brackets Present
+- BOTH SIDES
+34 pole (South side) E. of Cass on TempIe St. METAL POLE Brackets Present
+- BOTH SIDES
+3S ist pole {West side) 5. of TempIe? St. on Cass Ave. METAL POLE Brackets Presents
+- BOTH SIDES
+36 Zed pole {West side} S. of Temple St. on Cass Ave. METAL POLE Brackets Presents
+BOTH SIDES
+37 pole (West side) N. of Ledyard St. on Cass Ave. METAL POLE Brackets Presents
+- BOTH SIDES
+38 pole (West side) 5. of Ledvard St. on Cass Ave. METAL POLE Brackets Presents
+- BOTH SIDES
+39 2nd poie {West side} 5. of Led?yar?d St. on Cass Ave. METAL POLE Brackets Presents
+- BOTH SIDES
+40 2nd pole {West side) N. of Henry St. on Cass Ave. METAL POLE Brackets Presents
+
+ 
+
+ 
+
+ 
+
+- BOTH SIDES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANNER JOB. 636 - WOODWARD from I 75 Service Dr. to EDMUND CASS from I - 75 Service Dr to TEMPLE
+EOLE NUMBER POLE LOCATION TYPE OF POLE BRACKET INEO.
+41 15?: pole (West side) N. of Henry 51:. on Cass Ave. METAL POLE Brackets Present
+- BOTH SIDES
+42 poie (West side) 5. of Henry St, on C-ass Ave. METAL POLE Brackets Present
+- BOTH SIDES
+43 poie (West side) N. of W18, Fisher Fwy Serve Or. on Cass Ave- METAL POLE Brackets Present
+- BOTH SIDES
+44 pole {West side) 3? of W.B. Fisher Fwy. Serve Or. on Gifford St. bridge METAL POLE Bracket Present
+over 7S - ONE SIDE
+45 peie (East side} N. of EB. Fisher Fwy. Serve Dr. on Clifford St. bridge METAL POLE Brackets Present
+over I - 75 - BOTH SIDES
+46 pole {West side) S. of W.B. Fisher Fwy. Serve Dr. on Cass Ave. bridge MET AL POLE Bracket Present
+over I - 7S - ONE SIDE
+4? pole {East side) N. of EB. Fisher Fwy. Serve Dr. on Cass Ave. bridge METAL POLE Bracket Present
+- ONE SIDE
+
+ 
+
+over I - 75
+
+ 
+
+ 
+
+ 
+
+ONY ONE POLE NEED OF ADDITIONAL BRACKET ARM
+
+pole 19 - Woodward Ave. (Westsid'e?e?uh of Sproat ST.
+
+ 
+
+Of?ce Use-Only: Petition Number:
+
+(03b
+
+ 
+
+ 
+
+ 
+
+ofDetroz?t
+
+Banner Permit Application Form for
+Banners in the Public Right-o?Way
+
+NOTE: This application is for the proposed banner(s) for a speci?ed period oftime only. A?cr
+Expiration of the permit (if granted), or should the banner change in any way. another application will be
+required.
+
+Please {we or print information clearly:
+
+ 
+
+I. APPLICANT 
+
+ 
+
+ 
+
+ 
+
+Contact Nam: Michael O'Caliaghan
+
+Name Detroit Metro Conventlon Visitors EUTBEU
+Mailing Address: 211 W. Fort St. Ste. 1000
+
+cwsw?p Code: Detroit. MI 48226 . 
+
+Phone: 31 3-202-1800 EMail: adavilatom?detmlt3ports.org
+Sponsoring Organization (if applicable): 
+
+Type of banncr(s} ?in un-pro?l? usincss district?
+(immunity Spociul Event oliday
+
+"if registered as a non-profit, please: indicate your non-profit atom: identi?cation number and attach a copy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of the certificatc. Non-pro?t identi?cation number: 
+
+?if applying for a business district bannoms),
+please identi?v the business district:_ 
+
+ 
+
+Type of Requestlnitial Perm?i -ermit Renewal'
+
+
+?If this rcqucst is for permit renewal, please provide the following:
+
+Pol-nth identi?cation numbcr: Permit oXpimtion date:
+
+Page. 1 of 8
+
+ 
+
+II. COMMERCIAL BANNER COMPANY
+
+ 
+
+ 
+
+ 
+
+Contact Name} James Rimmei
+
+
+
+Mailing Addross: 9538 Russell Street
+Citnytate/Zip Code: Detroit, Mi 
+Phone: Ll 313'753?6737 Fax:{ 
+
+m. mutton INFORMATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purpose of humans]:
+Hodzon Loaguo_Motor City Madness event atuLittle Caesors Arena, March 1142. 2019
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time period to display Installation Damn?3] 04 (IL Removal Date: 03 13 
+Number ofbannms) to display: 85
+
+Streets on which are to be displayod:
+Woodward from 1?75 SN. Drive to Edmund Place; Case from MS 8w. Drive to Temple
+
+ 
+
+ 
+
+ 
+
+ 
+
+Are any of the poles located on a Michigan State Trunk Line or Wayne County Road? (See listinglofStatc
+Trunk Lines and Wayne County Roads attachod.) Yos"
+
+No
+*lfyes, please note that the application must be submitted a minimum of 180 days prior to requested
+installation dot: (see Section 3 of the Policy on Banners in the Public Right~of?Way for details).
+
+Describe wording on banncifs) and any graphics:
+Please see attached.
+
+Motor City - Horizon LeaguECh?ipiin-hi;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 2 of8
+
+The jbiiowing items MUST BE included in the permit appiication package in orderfor it to be considered:
+1. Complete banner permit application form
+
+Signed and dated indemnity agreement (Attachment A)
+
+Signcd and dated maintenann: and removal agmem?ent (Attachment B)
+
+?0in of certi?cate of insurance.
+
+Sketnh, drawing, or denial sample n'f'the banner to be displayed (see exampleK-atuiched)
+
+Listing andlor map ofthe speci?c locations for the banners
+
+5100 nan-refundable pcrmit fee
+
+A re?mdabic deposit (amount speci?ed in Section 4 ofthe Policy on Banners in the Public Right;
+
+inf-Way] to be held in escrow presented to ?le Consumm Affairs Department prior to the issuance
+
+
+
+of a banner permit
+
+The undersigned applicants) agrees to abide by the provisions set by the City of D'etroiito suspend a-
+banner 0: banners during the time period requested for this permit.
+
+ 
+
+Michael 0' Callaghan James Rimmel
+Applicant: Print Name Commercial Banner" Representative: Prim Name
+(Lea. installerffemoverly
+F. ?a 
+
+Applicant: Signature Commercial Banner Representative: Signature
+
+0110352319 0143312019 
+
+Date: Date:
+
+ 
+
+ 
+
+Page 3 of 8
+
+Attachment A
+AGREEMENT 0? 1NDEMNITY
+
+ 
+
+CITY OF DETROIT:
+
+For- and in comidsrmion 'oftha granting ofa permit by the City of D?otroit to suspend a. banncr or banner; the
+undmigncd docs agree to indemnify and hold-harmless the City ofDetroit, it; af?cers, agents, and employeas from
+any and all claims arising out tlmanicm-foi?, maintenance of. use of; =or removdl of banners. including claims
+involving human: {or the ,mm?pon' which theym hung) falling on pooplc'or property.
+
+INDEMNITW aw
+
+Signature or Amharizcd Representative (Uni?cation)
+Michael 
+
+ 
+
+ 
+
+Name
+
+
+
+Addnas 
+Detroit, MI 48226
+
+City, Sun, Zip Code
+53110312019
+
+Telephone Number Dim
+
+4/
+I 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+?wm f' Auti'nmizcd (Banner Company)
+
+James Rimmal
+
+ 
+
+Name . - 
+$538 Ruasell Street
+
+Address
+
+De?cit. Ml 48211
+
+City; Stamp Cod:
+
+313-758-673? 9119312019
+
+Telephane Number Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 4 off?
+
+Attachment 
+MAINTENANCE REMOVAL AGREEMENT
+
+ 
+
+It is understood and agreed that during the initial display, and subsequent renewal periods if?pplicable, the permittee
+shall be responsible for inspecting banners and poles. replacing and/or removing banners that are torn. defaced or in
+general disrepair, including rigging. Where any street banner is found to presenter: immediate threat of?harm to ?the
+public health. welfare or safety, the City shell summarily cause its removal.
+
+It is also understood and agreed that banners are to be removed within seventy-two (72) hours ofthe revocation date of
+the permit. Any Street bahner not removed within that time period shall be removed by the City William notice to the
+permittee.
+
+If the City nemoves banner: because they are in disrepair. present a' threat or harm. or because the permit has expired. it
+is miderstood and agreed that a portion or all oflhe refundable deposit will be forfeited by the pennittee in order to
+cover the City?s expense. if the expense of?removal exceeds the amount ofdcposit, it is understood and agreed that the
+excess ?amount shall be oolbcted from the person/entity to which the permit was issued.
+
+it is also understood and agreed that in such cases when the City removes banners there is no guarantee thetthe banner!
+can be reclaimvrd by the 
+
+Michael O'Callaghan Jarnes Rimmel
+
+
+
+Applicant: Printih'ame Commercial Banner Representative: Print Name
+
+ 
+
+installer/remowr)
+
+dag C:
+
+ 
+
+ 
+
+mag/2019 I 
+
+Page 5 of 
+
+STATE TRUNK LINES AND WAYNE COUNTY ROADS
+
+Banners installed on State trunk lines or Wayne County Roads are subjectte additibnal requirements. Permits for
+butters on State trunk lines or Wayne County Roads must comply with State and County guidelines.
+(Please see the City ofDetroit Policy on Banners in the Public Right-af-Wey for details.)
+
+A.
+
+Cadillac Square
+Clark Street
+Clifford Middle
+
+. Dnvioon
+
+Edsel ?ord
+
+I Eight Mile Road
+Fisher
+Port! Road
+Fort Road
+Grand River
+Gratiot
+Greens?eld
+Groesbeck
+Hoover
+
+Michigan State Trunk Lines in the City ?Detroit
+
+Jel??iea
+
+Jenn C. Lodge
+Michigan Avenue
+Randolph (Cadillac, Square to Jefferson)
+Sal-meiot-
+
+Sho?n: Street
+Southfield
+
+Telegraph Road
+
+Van Dyke
+
+W. P. 
+Wuhington Boulevard
+Woodward
+
+Wyoming
+
+13. Wayne County Roads in the City of Detroit
+
+Wm
+Park Drive
+Chandler Park Drive
+West Chicago Blvd.
+Conant
+
+Daviml?l
+
+Devle'on
+
+Dix
+
+Dix
+
+Edward Hines?Di-ive
+Fonitell
+
+Five Points
+
+Gninm
+
+Green?eld
+Green?eld
+
+West Jefferson
+
+Joy Road
+
+Kelly Road
+
+Kelly Reed
+
+Road
+Lamphen: Read
+
+3M 
+
+Dickerson to Outer Drive
+
+Whittier to Morass
+
+Lumphere 10 Wet: City Limits
+
+South from Carpenter to West Line
+Twelfth to Highland Park West City Limits
+Syracuse to Dwyer
+
+Woodmen to West City Limits
+
+Rouge River Bridge to Oakwood Blvd.
+West City Limit: to South City Limits and Women
+200 East of Wyoming to West City Limits
+Eight Mile Road in Puritan
+
+South?eld East Service?Driva to 390 East
+Titeman to James Comma Driv:
+
+Paul to Them
+
+Brennan?to Rouge River
+
+Green?eld in West City Limit:
+
+Morons to Kingsville
+
+Kingsville to Eight Mile
+
+Chalfonte to Eight Mile Road
+
+Outer Drive South to RR. to Outer. Drive
+
+Page 6 of 8
+
+Mack
+
+McNichols?
+McNichols
+McNichols
+
+Miller Road
+Mom Road
+Mound
+
+0am Drivc
+
+{Jum- Drive
+
+Outer Drive
+
+Outer, Drive
+
+Outer Drive
+
+Ou'tnr Drive
+Schnafhr Highway
+Highway
+Sclwolm?
+
+Seven Mile Road Em
+Seven Mlle Romain
+Bwl?
+
+?reman
+
+Wm
+
+Warren
+
+Warren
+
+Wyoming
+Wyoming
+
+B. Wayne County Roads in 111: City ofDetmit 
+
+Waybum In North City Limits (650? ofMomu)
+Wyoming in Five Points
+
+Alley West afoul-(land to GT. W113.
+G.T.W.R.R.- to Deqw'ndre
+
+Deubom Road to F011 Street
+Redmond to Mack
+
+Caniff no Eight Mile
+
+Dun?'las to 3555211
+
+Warren to Livemois
+
+Dequindre In Manchols?.
+
+Conner Chandler Pink
+
+Alter to Whittier
+
+Chandler Park to Mack
+
+Oakwood Boulevard to Dun?iu
+Dunfrias?to Busch
+
+Grand Riva: to Patton
+
+AGmtiot to Rcdinozid
+
+Woodward to Five Poinls
+
+Was: Line of Hull to Eur Line ofSwl?
+200? East of Miller Road (Magma) to Green?eld
+D.T.R.R to East I
+Green?eld to Heydun
+
+Hayden to West ?it}:l Limits .
+
+130' South of Miul'lignn to Michigan
+Ford Road In D.T.R.R.
+
+Page 7 of 8
+
+A. Hanging Banner-from Utility Poles
+
+Nolhlt?tgmay be malted to a utility or light pain without the pennissinn of lhe City. The City Council can grant
+permission to attach to Lighting Department poles. Tn get permission to hand human you mun pciiticm the
+City Council. The petitiun should identity when you went to hang the bunner(s}. what the bannert?a) will say and how
+long the. banners will hang.
+
+No banner will be allowed. in blunt: the view ul?tru?'iu signals or signs. The Public Lighting will inspect the
+poles before advising the City Council about ail-wing any hunters to be amhcd. Tit: pem'tissiun given by the City
+Council is good for up to six monthsi ll'ynu went to hang banners for more than six months. yuu should petition the
+City Council for In ?tension.
+
+The Petitioner is mxponsibl?n ibi- purchasing, installing and removingthe banners and tha hattlwut: unedcd ta hung
+thcm.
+
+The Public Lighting Dcpum'ncnt will supply a copy of its Banner Speci?cations upon Inquest.
+
+Page 3 of 8
+
+WELCOME TO WELCOME TO
+DETROIT DETROIT
+
+HORIZON
+
+        
+
+cra? feign?;
+FL
+
+(g a] a;
+
+ 
+
+WELCOME TO WELCOME TO
+
+DETROIT
+
+   
+
+    
+
+WELCOME TO WELCOME TO
+
+DETROIT
+
+DETROIT
+
+ 
+
+ 
+
+ 
+
+ 
+
+WELCOME TO
+
+DETROIT
+
+WELCOME WELCOME TO
+
+DETROIT
+
+ 
+
+
+
+
+
+CERTIFICATE OF LIABILITY INSURANCE
+
+ 
+
+mum
+
+
+ 
+
+ 
+
+THIS CERTIFIGATE IS
+CEITIFIBATE DOES HOT 
+BELOW. THIS CERTIFICATE OF INSURANCE HOT GUN
+REPRESHITATIVE DR PRODUCER. AND THE CERTIFICATE HOLDER.
+
+NELY OR NEGATIVELY AMEND.
+
+ 
+
+certi?cate holder In mm of such 
+
+II the 003m holdor Is In 000mm ENSURE). ml polle?l?) must be Woman.
+tho tom and the policy. curtain pollules may remain an murmurs-m.
+
+ISSUED A8 A MATTER OF ONLY AND CORNERS ND RIGHTS UPON THE CEIHFICATE mm THIS
+
+EXTEND OR THE COVERAGE AFFOHDED BY THE 
+
+ETITUTE A CONTRACT BETWEEN THE INSURERS). AUTHORIZED
+
+ 
+
+II EUBFIDBATIDN I5 VIEWED. 
+A amnion ?mama don 
+
+ 
+
+pm
+Michigan Community Inna-anal AM Inc.
+4.9357 mm Trail Ste 101
+
+Roma
+
+679-1000
+m??mta?uiahigandcmunity.m
+
+{aunt-0000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no no: 930599 
+In (3393-9599 mgAm Inna-mu Cm 1.9100
+mm Wm.
+Banner Sign Cm: Inc M0:
+6533 Russell 31-. "ammo:
+Detroit. 10:: 43211?2005 
+
+NI Wu?
+
+ 
+
+ 
+
+GOVERAGEE
+THIS IS TO CERTIFY THAT THE WEB OF
+
+CERTIFICATE 1.9 GI. AU UH
+IHSUHANGE LISTED BELOW HAVE BEEN ISEUED TO THE INSURED ABOVE FOR THE POLICY P5000
+INDEATED. NWTAHDING ANY REQUIREHEHT. TERM 0H comm" OF ANY CONTRAGT CIR OTHER mm 
+CERTIFICATE MAY BE ISSUED OH MY PERTAIH. THE INEUMNCE AFFORDED BY THE FOLIGIEB DESCRIBED
+
+REVISION WEBER:
+
+TOWNS
+
+RESPECT
+HEREIN l8 3 .me TO ALL THE mus.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EKGLusma MID mm OF SUCH mums. uun's mom: um HAVE BEEN HEDUGED BY mu CLAIMS.
+Ina?.musxm WW: um
+1,000,000
+a. IE 00000 . 300,000
+maniac? 0110012010 . 5,000
+3 1.000.000
+
+:?mlj??f [jam 0 2.000.000
+91520. 
+inane-tum 1, 000,000
+A mm 
+fig?? momma-tout 0711012010 0110012010 0
+Wm 
+I
+5. 000mm wow wow: 0 
+3 mm 0mm manna-n 3 5,000,000
+nan [mg mmnozuow 01:0012010 5
+moo-was: - 0
+Wm: ma?a-WM 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+um1m.mwmm.muummumwouwm; I
+
+ 
+
+CERTIFICATE HOLDER
+
+CANCELLATION
+
+ 
+
+jinabannara iguana . 000:
+
+City of Detroit:
+2 Woodward Ave:
+
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BI 0mm BEFORE
+THE EXPIRATION DATE THEREOF. NOTICE WILL GE DELIVERED 
+AOQORDANCE THE POLICY PROVISIONS.
+
+ 
+
+De?cit; MI. ?8226
+
+ 
+
+ 
+
+AWD REPRESENTATIVE
+
+ 
+
+Raymond Instruct:
+
+ 
+
+ACORD 25 ?014101)
+["8028 (201400
+
+a 1538-2014ACORD CORPORATION. I'Iuh?h mounted.
+
+The ACORD name and i090 are rammed marks of ACORD
+
+2019411433 636
+
+535 I?m afDerr-oir Convention
+Visitors Bmau, request to hang
+apprmimmefy 85 banner: on
+Wooa'rmra??am 1- ?5 Same: D1110.
+Place, and on Cass?om I- ?5
+Dr. to Temle?am 3-4-1'910
+3-13-19?r the Horizon League Motor
+Cit)! Mad-1255 event.
+
+ 
+
+DPW-QITY
+
+
+ M3105-
+
+COLEMAN A. YOUNG MUNICIPAL CENTER
+2 WOODWARD AVE. SUITE 601
+CITY OF DETROIT 36 DETROIT, MICHIGAN 48226
+DEPARTMENT OF PUBLIC WORKS PHONE: (3l3) 224-3949 - 
+
+CITY ENGINEERING DIVISION FAX: (313) 224-3471
+
+
+ 
+
+February 22, 2019
+Honorable City Council:
+
+RE: Petition No. 657 Department of Public Works, City Engineering Division, request
+to dedicate a Public Easement in the area bounded by Warren, Canyon, Mack and
+Radnor.
+
+Petition No. 657 Department of Public Works, City Engineering Division, request to dedicate
+a public access easement, 10 feet wide, adjoining part of a public alley, 20 feet wide running from
+Mack Avenue, 120 feet wide to Canyon Avenue, 60 feet wide, and lying south of Warren Avenue,
+105 feet wide and east of Radnor Avenue, 70 feet wide.
+
+The petition was referred to the City Engineering Division DPW for investigation (utility review)
+and report. This is our report.
+
+The request is being made as part of a commercial development known as EZ Storage at 18145-
+18147 Mack Avenue. On February 6, 2011, your Honorable Body approved the rezoning
+classi?cation for 18145 and 18147 Mack Avenue from a B4 (General Business District) and a P1
+(Open Parking District) into a PD (Planned Development District). The approval was subject to
+several conditions including the execution of a Maintenance Agreement with the City of Detroit
+Department of Public Works City Engineering Division with respect to the 20 foot wide north-
+south alley adjacent t018145 and 18147 Mack Avenue. The Maintenance Agreement was executed
+and recorded August 5, 2011 in Liber 49309, pages 542?573, Wayne County Records.
+
+At this time storage? aka Mack Avenue Investors, LLC wants to grant to the City of Detroit
+an Easement for Public Access and Use. The existing Maintenance Agreement will be amended to
+include the subject easement area. The request was approved by City Engineering DPW and the
+City of Detroit Law Department.
+
+I am recommending adoption of the attached resolution.
+
+Respectfully su mitted,
+
+    
+
+Richard Doh_ rt P.E., City Engineer
+City Engineering Division DPW
+
+
+Cc: Ron Brundidge, Director, DPW
+Mayor?s Of?ce City Council Liaison
+
+ENTERED mammal/1.1 F. +p MB (RM) 1'0 (jig/RM)
+
+BY COUNCIL MEMBER
+
+WHEREAS, Mack Avenue Investor, LLC a/k/a Storage? is the owner of interest in 18155
+Mack Avenue, which is located on the southeast side of a 20 foot wide public alley and wishes to
+grant to the City of Detroit a 10 foot wide perpetual easement for public access and use; and
+
+WHEREAS, the easement agreement has the approval of the Law Department and Department of
+Public Works City Engineering Division; and
+
+WHEREAS, Mack Avenue Investor, LLC a/k/a Storage? as the owner of interest wishes to
+amend the existing Maintenance Agreement to the City of Detroit to also include the 10 foot wide
+perpetual easement for public access and use; NOW THEREFORE BE IT
+
+RESOLVED, that the 10 foot wide strip of land described as: Land in the City of Detroit, Wayne
+County, Michigan being part of Lot 13 of ?Plat and Survey of Private Claim 300? as recorded in
+Liber 221 of Deeds, Pages 332 and 333, Wayne County Records; Commencing at the intersection
+of the northwesterly line of Mack Avenue, 120 feet wide, and the southwesterly line of Canyon
+Avenue, 60 feet wide; thence 998.40 feet along the northwesterly line of Mack
+Avenue to the Point of Beginning; thence continuing 14.11 feet along the
+northwesterly line of said Mack Avenue; thence 285.40 feet; thence 
+14.11 feet; thence 285.40 feet to the Point of Beginning.
+
+Be and the same is hereby granted to and accepted by the City of Detroit as an Easement for Public
+Access and Use, subject to the following provisions:
+
+Provided, that Mack Avenue Investor, LLC a/k/a Storage? amend the adjoining alley
+Maintenance agreement to include the Easement for Public Access and Use; and further,
+
+Provided, that the Agreement granting the Basement for Public Access and Use is approved by the
+City of Detroit Law Department; and further,
+
+Provided, that the City Clerk shall within 30 days record a certi?ed copy of this resolution with
+the Wayne County Register of Deeds.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WARREN
+
+?241
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+ 
+
+ 
+  
+   
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+124.05 
+
+21224.214.53 ii i 
+?135,133: l/f?n
+2 129m135} DETAIL
+EASEMENT 
+3 ,2 10 FEET WIDE 
+
+
+
+q$?qw
+U191 010?
+$342,484$6663
+90:
+PUBLIC ACCESS AND USE EASEMENT
+CARTO 107 
+FOR OFFICE USE ONLY NO SCALE
+REQUEST FOR DEDICATION CITY OF DETROIT
+A 033mm OF A PUBLIC ACCESS EASEMENT 
+mum BY IN THE AREA BOUND BY JOB N0
+Knoll APPROVED WARREN, CANYON, X-657
+Feb. 2019 MACK AND RADNOR X-657.dgn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EASEMENT
+FOR
+PUBLIC ACCESS AND USE
+
+This Easement for Public Access and Use (?Easement?) is made this day of
+
+2018, by GPR Properties, LLC, Michigan limited liability company, whose address is
+
+2000 Town Center, Ste. 1500, South?eld, Michigan 48075 ?Grantor?), to and for the bene?t of the
+
+City of Detroit, a Michigan municipal corporation, by and through its Department of Public Works,
+whose address is 2 Woodward Avenue, Suite 601, Detroit, Michigan 48226 (?Grantee?).
+
+RECITALS:
+
+A. Grantor is the owner of fee simple title in and to the real property described and shown on
+the attached Exhibit A (?Easement Parcel?).
+
+B. Grantor and EZ Storage 18155, LLC, a Delaware limited liability company Storage?),
+have entered into a Land Contract, dated as of October 12, 2018 (?Land Contract?), to sell the
+Basement Parcel, together with certain additional adjacent land, to E2 Storage.
+
+C. Grantor is desirous of granting to Grantee a 10? wide perpetual easement on the Basement
+Parcel for the purposes set forth herein and subj?ECt to the terms hereof, and EZ Storage desires to
+consent to this Easement as set forth below.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of which
+are hereby acknowledged, Grantor hereby agrees as follows:
+
+1. Basement Parcel. Grantor owns land in the City of Detroit, County of Wayne, Michigan as
+described on the attached Exhibit A (?Easement Parcel?).
+
+2. Grant of Easement. Grantor hereby grants and conveys to Grantee a perpetual public access
+and use easement for the purpose of vehicular and pedestrian access.
+
+
+Page 1 of 7
+
+292222264
+
+3. Grantor Covenants. Grantor covenants and agrees that: Grantor will not erect, construct or
+permit any building or permanent structure, or part thereof, of any nature whatsoever, within
+or upon the Basement Parcel at any time without the prior consent of the Grantee; Grantor
+will keep the Easement Parcel free of any and all obstructions or obstacles (such as, but by no
+means limited to, walls, fences, trees, or pavement) which could impede the free and easy
+access by the Grantee to the Basement Parcel; Grantor will not alter or allow to be altered
+the grade or elevation of the land within the Basement Parcel without the prior written
+consent of the Grantee; Grantor?s use of the Basement Parcel will not in any way
+materially interfere with Grantee?s use of the Easement Parcel as anticipated.
+
+4. Grantor?s Warranties and Representations. Grantor, for itself and its successors and assigns,
+warrants and represents to Grantee and its agents, successors and assigns as follows, knowing
+and intending that Grantee will rely on the same: Grantor, together with EZ Storage, have
+the sole, lawful and exclusive possession of the Easement Parcel and any and all other
+property, rights, title or interests conveyed, transferred, granted, and assigned hereby; 
+except for the Permitted Exceptions referenced on Exhibit attached hereto, there are not
+presently any mortgages, liens, leases or other encumbrances on the title to the Easement
+Parcel, and no other person claiming any right, title, or interest therein; (0) Grantor, and the
+person signing this Agreement on behalf of Grantor, each has the requisite rights, power and
+authority to execute and deliver this Agreement; Grantor has the requisite rights, power,
+authority and ability to make and perform the grants, conveyances, promises and obligations
+evidenced hereby.
+
+S. Indemni?cation. EZ Storage agrees to indemnify, save, and hold harmless Grantee, its
+of?cers, employees, agents, successors and assigns, from any and all claims and/or liability,
+whether in law or in equity, in connection with or arising out of this Easement, Grantee?s or
+the public?s use of the Basement Parcel as anticipated hereby, or the exercise of Grantee?s
+rights hereunder, to the extent such claims and/or liability arise out of the negligent acts or
+misconduct of EZ Storage or its agents or representatives. Furthermore, EZ Storage shall
+bear all costs and expenses of defending any claim or suit brought against Grantee, its
+of?cers, employees, agents, successors and assigns, by reason of this Easement, Grantee?s or
+the public?s use of the Basement Parcel as anticipated hereby, or the exercise of Grantee?s
+rights hereunder, to the extent such claim or suit is due to the negligent acts or misconduct of
+EZ Storage or its agents or representatives. Notwithstanding the foregoing, EZ Storage?s
+indemni?cation of Grantee shall not apply to liability attributable solely to Grantee?s gross
+negligence or willful misconduct.
+
+6. Duration. The Basement granted hereby is perpetual, shall run with the land, and will bind
+and inure to the bene?t of the Grantee and its successors and assigns.
+
+7. Governing Law. This Easement shall be governed by and construed in accordance with the
+laws of the State of Michigan.
+
+
+Page 2 of 7
+
+29222226.4
+
+8. Successors and Assigns. The Basement shall be binding upon the successors and assigns of
+both the Grantor and the Grantee; provided, however, that Grantee may not assign its rights
+under this Easement without the prior written consent of Grantor.
+
+REMAINDER OF PAGE INTENTIONALLY BLANK
+
+
+Page 3 of 7
+
+29222226.4
+
+IN WITNESS WHEREOF, the Grantor, by and through its authorized of?cers and representatives,
+has executed this Easement as of the date ?rst above written.
+
+Grantor:
+
+GPR PROPERTIES, LLC
+a Michigan limited liability company
+
+STATE OF MICHIGAN 
+)ss.
+
+COUNTY 
+
+ 
+  
+
+?mM Mali/c: If 05ft?
+Maw (ML, I
+
+   
+
+The foregoing ins ent was acknowledged before me on 20 2018,
+
+by 6740/} HM 055.9 ,the
+
+of GPR Properties, LLC,
+
+ 
+
+a Michigan limited liability company, on
+
+"an/Luigi
+
+       
+
+QM
+
+ 
+
+Notary Public, County, MI
+
+My commission expires 292 
+
+Drafted by and When Recorded Return to:
+
+Cheryl Smith-Williams, Esq.
+Assistant Corporation Counsel
+
+City of Detroit Law Department
+Coleman A. Young Municipal Center
+2 Woodward Avenue, Suite 500
+Detroit, Michigan 48226
+
+
+Page 4 of 7
+
+29222226.4
+
+PMS A. WKEN
+Norma! Pubt'ic. State ofochfgan
+County 0 Oakland
+
+MCersian ire: 10-3 40.22
+4m in the cm of
+
+CONSENT OF LAND CONTRACT PURCHASER
+
+The undersigned, as Purchaser under that certain Land Contract dated as of October 12, 2018,
+by and between the undersigned and GPR Properties, LLC, a Michigan limited liability company,
+hereby consents to the foregoing Easement.
+
+EZ STORAGE 18155, LLC,
+a Delaware limited liability company
+
+By: I
+Name: Step M. olan
+Its: Manager
+
+STATE OF Texas 
+)ss.
+COUNTY OF Tarrant 
+
+The foregoing instrument was acknowledged before me on November 1 4 2018,
+by Stephen M. Nolan, the Manager of EZ Storage 18155, LLC, a Delaware limited liability company,
+on behalf of such company.
+
+M?m
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print'
+D. Lemk -
+eEmpires Dana D. Letnke
+.3 oarzaazozz .
+{my mm 11197773 Notary Public, Tarrant County,M,l_ TX
+My commission expires: 4/23/2022
+{014437013002 1
+
+Page 5 of 7
+
+29222226.4
+
+Exhibit A
+Easement Parcel Description
+
+[Attached hereto.]
+
+ 
+
+ 
+
+Exhibit A 
+
+   
+ 
+      
+  
+  
+
+EASEMENT PARCEL
+I A.
+. PART or LOT 11 - 
+5155 1mm AVE. .
+I 21 ITEM 001600
+3'5: INTERSECTION or
+3,703 THE NORTHWESTERLY
+.1: 
+0234? SOUTHWESTERLY
+
+?53310
+a;
+
+ 
+     
+     
+ 
+ 
+     
+   
+   
+ 
+      
+ 
+ 
+
+166.40. LINE OF CANYON AVE.
+I 
+P.0.B. PROPERTY
+an
+I :3 PART or LOT 11
+I JANE FISHER sun
+1. 7. P. 19 
+
+
+
+ 
+
+
+
+ 
+ 
+
+I 14.11' [15155 MACK AVE. 
+\rg, E:
+I. SUBJECT PROPERTY 
+I ?3 
+\0 PART or LOT13 Ti. 35-0 53,8 
+(55 L. 221. P. 3.151?
+
+
+LOT 14
+
+r1514! MADE AVE.
+WARD 21 HEN 001534?8 
+
+P.o.a. EASEMENT
+s19'oa'oo"w 14.11'
+
+LEGAL DESCRIPTION - EASEMENT PARCEL
+
+A TEN (10) FOOT WIDE EASEMENT FOR ALLEY MAINTENANCE BEING MORE
+PARTICULARLY DESCRIBED AS FOLLOWS:
+
+PART OF LOT 13 OF PLAT AND SURVEY OF PRIVATE CLAIM .300. AS RECORDED IN
+LIBER 221 OF DEEDS. PAGES 332 AND 333, WAYNE COUNTY COMMENCING
+AT THE INTERSECTION OF THE NORTHWESTERLY LINE OF MACK AVENUE (120 FEET
+WIDE) AND THE SOUTHWESTERLY LINE OF CANYON AVENUE (60 FEET WIDE): THENCE
+998.40 FEET ALONG THE NORTHWESTERLY LINE OF SAID MACK AVENUE
+TO THE POINT OF THENCE CONTINUING 14.11 FEET ALONG
+THE NORTHWESTERLY LINE OF SAID MACK AVENUE: THENCE 285.40
+THENCE 14.11 FEET: THENCE 285.40 FEET TO THE
+POINT OF BEGINNING.
+
+NOWAKSI. FRAUS ENGINEERS
+46777 WOODWARD AVE.
+
+SCALE DATE DRAWN JOB N0. SHEET
+
+TEL (248) 332-7931
+FAX. (248) 332?8257 1" 60' 3-6-2018 MJC. 1893 Ofl
+
+ 
+
+ 
+
+Exhibit 
+Permitted Exceptions
+
+1. Taxes and assessments that are not yet due and payable.
+2. Corrective Action Notice recorded in Liber 31326, Page 628, Wayne County Records.
+
+3. Agreement of Proposed Easement Agreement recorded in Liber 49303, Page 63, Wayne
+County Records.
+
+4. Covenant not to compete recorded in Liber 49567, Page 997, Wayne County Records.
+
+5. Basement Agreement dated October 12, 2018 between EZ Storage 18155, LLC and
+18165 Mack Avenue LLC recorded in Liber 54685, Page 26, Wayne County Records.
+
+6. Memorandum of Land Contract dated October 12, 2018 between GPR Properties, LLC
+and E2 Storage 18155, LLC recorded in Liber 54685, Page 23, Wayne County Records.
+
+
+Page 7 of 7
+292222264
+
+
+3
+
+RESOLUTION URGING MARATHON PETROLEUM COMPANY TO SUBMIT A
+SUPPLEMENTAL ENVIRONMENTAL PROJECT PROPOSAL AS PART OF
+CORRECTING VIOLATIONS REPORTED IN THE FEBRUARY 22, 2019 VIOLATION
+NOTICE FROM MICHIGAN DEPARTMENT OF ENVIRONMENTAL QUALITY
+(MDEQ)
+
+By Council Member Castaneda?Lopez
+
+WHEREAS, In Detroit many low-income communities of color are located near concentrated
+areas of major stationary sources of pollution. The severe, adverse impacts of air pollution
+disproportionately fall on poor and People of Color populations and can lead to severe negative
+health impacts such as increased rates of asthma, nuisances and other adverse consequences; and
+
+WHEREAS, Residents living in these front line communities have long been concerned that air
+quality is not adequately protected or enforced, violations are not severely punished, and even
+when regulatory enforcement action is taken it fails to provide adequate remedies to those affected,
+or deterrence to polluters; and
+
+WHEREAS, After numerous complaints by residents of Southwest Detroit on and around February
+2 and 3, 2019, of?cials from the Michigan Department of Environmental Quality (MDEQ)
+investigated a recent ?are incident at Marathon?s Detroit re?nery that emitted powerful, nauseating
+odors. MDEQ issued a formal violation notice that included ?ndings of odors of suf?cient
+frequency, duration and intensity to violate Rule 901(b) of the State administrative rules, when
+vent gases were not properly combusted; and
+
+WHEREAS, If MDEQ determines that such a violation of an air standard has occurred, the violator
+is given an opportunity to enter into a formal consent agreement to correct the violation. Such an
+agreement can provide monetary and other relief, such as operational, maintenance or monitoring
+requirements, or a Supplemental Environmental Project and
+
+WHEREAS, An SEP is an environmentally bene?cial project that a violator may agree to
+undertake as part of the terms of a consent agreement. Some examples of SEPs are air ?ltration
+systems for nearby schools to protect or improve indoor air quality, or vegetative green buffers to
+minimize obvious effects of pollutants and noise; and
+
+WHEREAS, In Michigan, monetary penalties for violating air quality standards go to the State
+general fund, rather than to the front line communities who are most affected by pollution. The
+inability of neighboring communities to receive direct bene?ts from funds assessed as ?nes often
+leads residents of these communities to prefer an SEP rather than merely monetary ?nes; and
+
+WHEREAS, According to the SEP policy, the violator may propose and SEP in lieu of
+a portion of the monetary penalty. MDEQ has discretion to approve or disapprove of the proposed
+SEP. Both MDEQ and the United States Environmental Protection Agency (EPA) policies
+encourage considering community input in developing SEP proposals; and
+
+LPD DRAFT 03 08 19
+
+(Blithe? ?0363/ 
+
+if? 1 ..
+
+NOW, THEREFORE, BE IT RESOLVED THAT Detroit City Council strongly urges Marathon
+Petroleum Company to submit a Supplemental Environmental Project proposal as part of
+correcting violations reported in the February 22 Violation Notice from and
+
+BE IT FURTHER RESOLVED THAT Copies of this resolution will be provided to Wayne
+County Executive Warren Evans, Michigan Governor Gretchen Whitmer, the Director of the
+Michigan Department of Environment, Great Lakes and Energy, the Director of the United
+States Environmental Protection Agency, members of the Detroit delegation in the State
+Legislature, and members of the Michigan delegation in Congress.
+
+LPD DRAFT O3 08 19
+
+(?fty of Eetrm?t
+
+CITY COUNCIL PA
+:37
+
+RAQUEL CASTANEDA-LOPEZ
+
+ 
+
+ 
+
+ 
+
+COUNCIL MEMBER
+DISTRICT 6
+MEMORANDUM
+TO: David Whitaker, Director Legislative Policy Division
+THRU: Council President Brenda Jones
+
+
+FROM: Council Member Raquel Castaneda?Lopez 
+DATE: March 5, 2019
+
+RE: Marathon Petroleum Supplemental Environmental Project
+
+ 
+
+I request the Legislative Policy Division draft a resolution urging Marathon Petroleum Company to
+submit a Supplemental Environmental Project proposal to MDEQ as part of any agreement to correct
+the violations reported in the February 22, 2019 violation notice issued by the MDEQ.
+
+Please let me know if you need any additional information. Thank you.
+
+ENTERED MARHZUIQ HTTP, +0 Mb 51-0 (mm) masseuse/taut
+
+Cc: Honorable Detroit City Council
+Stephanie Washington, Mayor?s Liaison
+City Clerk
+
+ 
+
+Coleman A. Young Municipal Center 2 Woodward Ave., Suite 1340 Detroit, Michigan 48226
+Phone: 313.224.2450 Fax: 313.224.1189
+
+E. EIV MAR [i 5 2019 
+
+BY COUNCIL PRESIDENT BRENDA JONES
+
+RESOLUTION IN SUPPORT OF HOUSE BILL 4064 TO PRESCRIBE A
+PROGRAM FOR TESTING AND REMOVING LEAD IN SCHOOL DISTRICTS
+AND CHILD CARE CENTERS
+
+WHEREAS, The mission of the Detroit City Council is to promote the economic, cultural
+and physical welfare of Detroit?s citizens through Charter?mandated legislative functions;
+and
+
+WHEREAS, The Flint Water Crisis, brought the safety of our much neglected public fresh
+water delivery systems into stark focus, although all the evidence has not come in yet, it
+would appear that the public of?cials placement of budget constraints above the wellbeing of
+their residents may have a major role in the catastrophe that followed, and
+
+WHEREAS, This past error has encouraged of?cials to exercise a bit more diligence when
+addressing water quality within aging infrastructure systems; and
+
+WHEREAS, When faced with similar water quality issues in 2018, Detroit Public School
+Community District Superintendent Dr.Vitti, acting on the behalf of the health and
+safety of Detroit students, after initial testing results for 16 schools showed higher than
+acceptable levels for copper and/or lead at one or more water sources, ordered that all of the
+water fountains in the district?s public schools to be shut off, until it was certain that the
+water system was safe and free from contamination; and
+
+WHEREAS, Michigan House Bill 4064, introduced by Representative Sheldon Neeley (D),
+would amend Section 2 of the Safe Drinking Water Act (MCL 325.1002) and by adding
+section 7a. would require the Michigan Department of Environmental Quality (MDEQ) to
+establish a program to assist schools and child care centers in testing and remedying lead
+contamination in drinking water from drinking water coolers or other sources under the
+control of the schools or child care centers and to conduct periodic sampling and testing.
+Upon receipt of the test results from each school and child care center, the MDEQ, would be
+required to make the test results available to the public on the Department?s website. NOW
+THEREFORE BE IT
+
+RESOLVED, That the Detroit City Council hereby supports House Bill 4064, in order to
+protect the youth of Detroit from contaminated drinking water in schools and child care
+centers; BE IT FINALLY
+
+RESOLVED, That a copy of this resolution be forwarded to the House Committee on
+Natural Resources and Outdoor Recreation, the Detroit Delegation in the State House and
+Governor Gretchen Whitmer.
+
+David Whitaker, Esq.
+Director
+Irvin Corley, Jr.
+
+Executive Policy Manager
+Marcell R. Todd, Jr.
+
+Senior City Planner
+
+Janese Chapman
+Deputy Director
+
+John Alexander
+
+LaKisha Barclift, Esq.
+
+M. Rory Bolger, AICP
+Elizabeth Cabot, Esq.
+Tasha Cowen
+
+Richard Drumb
+
+George Etheridge
+
+Deborah Goldstein
+
+TO: Honorable Detroit City Council
+FROM: David D. Whitaker
+Legislative Policy Division Staff
+DATE: February 25, 2019
+RE: Resolution in support of Michigan House Bill 4064
+
+QEity of Detroit
+
+CITY COUNCIL
+
+LEGISLATIVE POLICY DIVISION
+208 Coleman A. Young Municipal Center
+Detroit, Michigan 48226
+Phone: (313) 224-4946 Fax: (313) 224-4336
+
+Christopher Gulock, AICP
+Derrick Headd
+
+Marcel Hurt, Esq.
+
+Kimani Jeffrey
+
+Anne Marie Langan
+Jamie Murphy
+
+Carolyn Nelson
+
+Kim Newby
+
+Analine Powers, 
+Jennifer Reinhardt
+Sabrina Shockley
+Thomas Stephens, Esq.
+David Teeter
+
+Theresa Thomas
+
+Underwood
+Ashley Wilson
+
+On February 19, 2019, the Honorable Council President Brenda Jones requested the
+Legislative Policy Division to draft a resolution in support of House Bill 4064. Which,
+if passed would establish a program to assist schools and child care centers with testing
+and removing lead from drinking water coolers or other sources under the control of
+schools or child care centers in Michigan.
+
+Attached, please find our draft of the resolution and contact us if we can be of any
+
+further assistance.
+
+BY COUNCIL PRESIDENT BRENDA JONES
+
+RESOLUTION IN SUPPORT OF SENATE BILL 14 TO PRESCRIBE MAXIMUM
+CONTAMINANT LEVELS IN DRINKING WATER
+
+WHEREAS, The mission of the Detroit City Council is to promote the economic, cultural and
+physical welfare of Detroit?s citizens through Charter?mandated legislative functions; and
+
+WHEREAS, Per?uorooctanoic Acid (PFOA) and Per?uorooctanesulfonic Acid (PFOS) are
+anthropogenic chemicals that are part of a larger group of chemicals referred to as per?uoroalkyl
+substances (PFAS) and for decades, these chemicals have been used in a wide array of consumer
+products, such as non-stick cookware, carpets, fabrics for furniture, paper packaging for food
+and ?re resistant aviation hydraulic ?uids; and
+
+WHEREAS, According to the Michigan Department of Environmental Quality Remediation and
+Redevelopment Division (RRD), which is responsible for implementing criteria as part of its?
+ongoing efforts to clean?up sites of environmental contamination has reported that PFAS has
+been detected in fresh water sources across the state; and
+
+WHEREAS, According to the Agency for Toxic Substances and Disease Registry, exposure to
+PFAS is harmful. PFAS may affect growth, learning, and the behavior of infants and older
+children, reduce a woman?s chances of getting pregnant, interfere with the body?s natural
+hormones, increase cholesterol levels, affect the immune system and increase the risk of cancer;
+and
+
+WHEREAS, The US Environmental Protection Agency (EPA) has not established Maximum
+Contaminant Levels (MCL) for PFAS chemicals. MCL is the legal threshold limit on the amount
+of a substance that is allowed in public water systems under the Safe Drinking Water Act.
+However, the EPA has issued a health advisory for PFOA and PF OS levels at 70 parts per trillion
+for combined concentrations in drinking water; and
+
+WHEREAS, A study conducted by Harvard University suggests that drinking water safety
+levels should be much lower than the guidelines established by and
+
+WHEREAS, While the science of health effects from exposure of these chemicals continues to
+evolve, the EPA has issued an advisory level of 70 parts per trillion is not protective of human
+health; and
+
+WHEREAS, According to Senator Winnie Brinks (D), the sponsor of Senate Bill 14, if passed
+this legislation would provide stronger lifetime protections from the adverse health effects of
+these chemicals, by setting the maximum threshold at 10 parts per trillion for combined
+concentrations of PFOA and PFOS in drinking water; NOW THEREFORE BE IT
+
+RESOLVED, That the Detroit City Council hereby supports the passage of Senate Bill 14; BE
+IT FINALLY
+
+RESOLVED, That copies of this resolution be forwarded to the Senate Environmental Quality
+Committee, Committee on Natural Resources, Senator Winnie Brinks, and Gov.Whitmer.
+
+David Whitaker, Esq. @it? at Btr? it
+
+Director
+
+Irvin Corley,Jr. CITY COUNCIL
+Executive Policy Manager LEGISLATIVE POLICY DIVISION
+Mame" R, Todd, jr_ 208 Coleman A. Young Municipal Center
+. . Detroit, Michigan 48226
+Planner Phone: (313) 224-4946 Fax: (313) 224-4336
+
+Janese Chapman
+Deputy Director
+
+John C. Alexander
+
+LaKisha Barclift, Esq.
+
+M. Rory Bolger, AICP
+Elizabeth Cabot, Esq.
+Tasha Cowen
+
+Richard Drumb
+
+George Etheridge
+
+Deborah Goldstein
+
+TO: Honorable Detroit City Council
+FROM: David D. Whitaker
+Legislative Policy Division Staff
+DATE: March 4, 2019
+RE: Resolution in support of Michigan Senate Bill 14
+
+Christopher Gulock, AICP
+Derrick Headd
+
+Marcel Hurt, Esq.
+
+Kimani Jeffrey
+
+Anne Marie Langan
+Jamie Murphy
+
+Carolyn Nelson
+
+Kim Newby
+
+Analine Powers, 
+Jennifer Reinhardt
+Sabrina Shockley
+Thomas Stephens, Esq.
+David Teeter
+
+Theresa Thomas
+
+Underwood
+Ashley A. Wilson
+
+On February 19, 2019, the Honorable Council President Brenda Jones requested the
+
+Legislative Policy Division to draft a resolution in support of Michigan Senate Bill 14.
+
+Which, if passed, would prescribe maximum contaminant levels for both
+
+Per?uorooctanesulfonic Acid, and Perfluorooctanoic Acid as identified in the bill.
+
+Attached, please find our draft of the resolution and contact us if we can be of any further
+
+assistance.
+

@@ -1,0 +1,150 @@
+MINUTES OF SPECIAL MEETING
+ILLINOIS GAMING BOARD
+December 3, 2002
+CHICAGO, ILLINOIS
+NOTE: ITEMS IN BOLDFACE PRINT REFLECT OFFICIAL BOARD ACTIONS
+A Special Meeting of the Illinois Gaming Board (“Board”) was held on December 3, 2002 to
+discuss and review presentations given by IGT, Aristocrat Technologies, and Bally Gaming,
+Inc. on ticket vouchering technology. The Board met in the Las Vegas Banquet Room of
+Harrah’s Casino, Joliet at 151 N. Joliet Street in Joliet, Illinois.
+The following Board Members were present: Chairman Elzie Higginbottom and Members
+Ira Rogal, Violet Clark, and Gary Peterlin.
+The meeting convened at 10:06 A.M.
+Chairman’s Report
+Chairman Higginbottom announced that the Board has a new member, William Dugan, and
+that Mr. Dugan would not be participating in today’s (December 3, 2002) Special meeting
+nor will he be participating at the December 9, 2002 Regular meeting, due to the fact that he
+is on vacation. Chairman Higginbottom stated that Mr. Dugan has a wealth of experience to
+share with the Board, and that he will make a fine contribution to the Board.
+Supplier Licensees
+IGT- PRESENTATION OF TICKET VOUCHERING TECHNOLOGY – John Janicik,
+attorney, and Steve Miller, Senior Business Manager for IGT, were present on behalf of IGT.
+Mr. Miller provided the Board with a presentation and brochures that provided a quick
+overview of IGT’s Ticket In Ticket Out (TITO) system. Mr. Miller also provided the Board
+with information on how IGT’s Easy Pay System works, how games interact with TITO, and
+an overview of the features that the new technology has to offer. Mr. Miller stated that IGT
+started the Ticket In Ticket Out system two years ago and currently have close to 100
+systems installed.
+Member Peterlin asked if IGT’s TITO system is interstate or just intrastate. Mr. Miller stated
+that at this point in time IGT is just dealing with intrastate and that IGT is not looking to go
+across State lines at this time. Mr. Miller stated that going across the State lines would create
+a challenge as it relates to gaming regulator concerns.
+Chairman Higginbottom asked if IGT has utilized the TITO system in cross property
+validation with other operations. Mr. Miller stated that the technology is available and the
+functionality is built into the TITO system for cross property validation; however, Mr. Miller
+stated that cross property validation is not “live” in any jurisdiction as of yet. Mr. Miller
+
+ stated that IGT plans on submitting a proposal on cross property validation to gaming labs
+and the State of Nevada within the next calendar year. Mr. Miller stated that IGT would run
+a test on cross property validation in the State of Nevada with one of IGT’s corporate
+customers by the summer of 2003.
+Member Clark asked if there have been any complaints from the patrons regarding playing
+with cash versus tickets. Mr. Miller stated that there was an overwhelming response to how
+well and how fast a lot of the regular patrons accepted the new system. Mr. Miller stated that
+the most popular response that he has heard from patrons is that they don’t have to worry
+about their hands getting dirty from the coins when playing the slot machines.
+With regard to IGT’s player cash-out options - where a player can switch from the
+redeemable ticket to cash - Administrator Parenti asked that if the Board decided to set a
+limit on the amount of cash a patron could receive, could a patron avoid that amount when
+they see that they are reaching the maximum amount by switching from card to cash. Mr.
+Miller stated that it was not possible.
+Administrator Parenti asked if IGT’s system is wireless. Mr. Miller stated that IGT’s system
+is not wireless; however, the wireless option is a feature that IGT installs per the customer’s
+request based on the approval of the regulatory body. Mr. Miller briefed the Administrator
+on the security problems with the wireless system.
+Mr. Miller provided the Board with a demonstration of IGT’s TITO system.
+ARISTOCRAT TECHNOLOGIES/CDS – PRESENTATION OF TICKET VOUCHERING
+TECHNOLOGY - Walt Stowe, Vice President of Legal and Compliance for Aristocrat
+Technologies and Joe Buda, Senior Trainer, were present on behalf of Aristocrat
+Technologies.
+In regards to security, Administrator Parenti asked Mr. Stowe if a patron has a ticket that is
+damaged but knows the barcode, does the cashier have authorization to punch in the barcode
+by word of mouth from the patron or would the cashier be suspicious. Administrator Parenti
+asked what the procedures were if a patron has a damaged ticket but the patron knows the
+barcode.
+Mr. Stowe stated that the cashier would be suspicious of how the patron knew the barcode.
+Mr. Stowe stated that the patrons are aware that the tickets are equivalent to currency and
+that if the patron allows the ticket to get out of their control they run the risk of losing it. Mr.
+Stowe stated that it would be hard for someone to copy the ticket number unless a patron
+looked closely over another patron’s shoulder.
+Mr. Buda provided the Board with a brief overview of Aristocrat’s Oasis Casino
+Management System. Mr. Buda stated that Aristocrat’s previous owner, CDS, had been
+installing Ticket In Ticket Out (TITO) systems since the mid 1990’s. Mr. Buda stated that
+2
+
+ Aristocrat has experience with the TITO system. Mr. Buda provided the Board with detailed
+information on the functionality of the Oasis ticket redemption; how a ticket redemption is
+performed; key ticketing reports, such as ticketing liability reports, ticket audit counts and
+audit logs; and ticket drops. Mr. Buda discussed the diagnostic monitor, which is a program
+included in Aristocrat’s Oasis System that allows the history of a ticket to be viewed by
+game.
+Mr. Buda provided the Board with a demonstration of Aristocrat’s Oasis Casino
+Management System.
+BALLY GAMING, INC. – PRESENTATION OF TICKET VOUCHERING
+TECHNOLOGY – Patrick Crawford, Manager of Product Compliance, was present on
+behalf of Bally Gaming, Inc. Mr. Crawford provided the Board with a brief presentation and
+a handout that provided an overview of Bally’s Ticket In Ticket Out (TITO) system. Mr.
+Crawford’s presentation covered three key components of Bally’s system: the game
+monitoring unit (GMU); the cashier’s station; and the soft count station.
+Mr. Crawford provided the Board with a demonstration of Bally’s TITO system.
+Member Clark asked how the patron would be able to redeem his or her money if the
+validation database or the central computer should shut down.
+Mr. Crawford stated that when a patron enters his or her ticket into the game, the system
+verifies if the validation number is good. If it is not good or if the system is down, it would
+reject the ticket. Mr. Crawford stated that at the point where the system does not take the
+ticket, a supervisor then checks the system and calls technical support. Mr. Crawford stated
+that one of the security features of the system is that when the central computer is off line,
+the game does not permit the patron to use the TITO system, and the patron would have to
+see the cashier to “cash out.”
+Administrator Parenti asked how many states does Bally Gaming, Inc. have TITO systems
+operating.
+Mr. Crawford stated that Bally Gaming, Inc. has TITO systems operating in over seven
+states.
+Administrator Parenti asked how Bally Gaming, Inc.’s system differs materially from
+Aristocrat’s or IGT’s systems.
+Mr. Crawford stated that Bally’s system differs materially from IGT in terms of the one wire
+verses two-wire solution. Mr. Crawford stated that IGT uses the two-wire solution, which
+means that you have one wire for the validation and one wire for the entire system. Mr.
+Crawford stated that Bally, as well as Aristocrat uses the one wire system.
+
+3
+
+ Chairman Higginbottom announced that the demonstrations at today’s special meeting is the
+first step in the Board’s process in rule changes that are necessary in order for the Board to
+implement the ticket vouchering technology in Illinois.
+Deputy Chief Legal Counsel, Jeannette Tamayo, stated that Staff’s goals are to draft new
+rules and amend existing rules. Ms. Tamayo stated that Staff has a total of 25 rules that Staff
+would be presenting to the Board at the December 9, 2002 Regular Board meeting, which at
+that time Staff would be asking for the Board’s permission to disseminate to the licensees
+and members of the public who are interested for their comment. Ms. Tamayo stated that
+Staff would like to receive comments in time for the January 21, 2003 Regular meeting, at
+which time Staff anticipates to request the Board’s permission to file the rule with the
+Secretary of State’s Office to start the rule-making process. Ms. Tamayo stated that during
+the rule-making process, there would be an additional 45-days public comment period. Ms.
+Tamayo stated that at the conclusion of the 45-day public comment period, Staff would
+review all of the public comments and return to the Board with any further
+recommendations. Ms. Tamayo stated that Staff would then ask permission to proceed
+towards final adoption. Ms. Tamayo stated that one of the goals in drafting the rules is
+making sure that there is an open and competitive environment that allows all of the various
+systems, regardless of their technical differences, to be able to compete in the Illinois market.
+Ms. Tamayo stated that another one of Staff’s goals is to ensure that there is clear
+accountability at the “back of the house” for the transactions that occur as a result of
+ticketing.
+Administrator Parenti stated that the Board and Staff are grateful for the fine presentations by
+all three supplier licensees. Administrator Parenti stated that the process will be open and
+competitive, and that the Board and Staff will do what is best for the integrity of gaming in
+the State of Illinois.
+Chairman Higginbottom thanked the presenters for their presentations. Chairman
+Higginbottom stated that the presenters did an excellent job and that their presentations were
+very informative.
+At 11:40 A.M. Member Rogal moved that the Board adjourn. Member Peterlin seconded the
+motion. The Board approved the motion unanimously by voice vote.
+At approximately 12:00 P.M., the Board members took an informational tour of Harrah’s
+Casino, Joliet.
+
+Respectfully submitted,
+Monica Thomas
+Secretary to the Board
+4
+
+ 

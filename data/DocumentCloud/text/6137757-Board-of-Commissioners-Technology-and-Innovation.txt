@@ -1,0 +1,166 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY AUTOMATION
+
+The Honorable,
+
+January 8, 2008
+
+The Board of Commissioners of Cook County
+
+Present:
+Absent:
+
+Also Present:
+
+ATTENDANCE
+Chairman Beavers, Commissioners Daley, Goslin, Moreno and Schneider (5)
+Vice Chairman Gorman, Commissioners Butler, Peraica and Steele (4)
+
+Patrick T. Driscoll, Jr. Deputy State's Attorney, Chief, Civil Actions Bureau;
+Darlena Williams-Burnett - Chief Deputy, Of?ce of the Recorder of Deeds
+
+Ladies and Gentlemen:
+
+Your Committee on Information Technology Automation of the Board of Commissioners
+of Cook County met pursuant to notice on Tuesday, January 8, 2008 at the hour of 9:30 AM. in
+the Board Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois.
+
+Your Committee has considered the following items and upon adoption of this report, the
+
+recommendatio
+
+290359
+
+ns are as follows:
+
+RECORDER OF DEEDS, Eugene ?Gene" Moore, transmitting a
+Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+ACS Government Records Management, Dallas, Texas, to provide the upgrade
+for the hardware storage area network. The current network has reached the
+
+maximum storage limit.
+
+Reason: As the developer of the software ACS Government Records
+Management (A80) is uniquely quali?ed to provide the services and
+con?gure 40 terra bytes redundant storage area network with
+upgrade software integration for the cashiering database cluster.
+
+Estimated Fiscal Impact: $648,618.00. Contract period: October 1, 2007
+through September 30, 2008. (527-579 Account). Requisition No. 75270046.
+
+Approval of- this item would commit Fiscal Year 2007 funds.
+
+The Chief lnfonnation Officer has reviewed this item and concurs with this
+recommendation.
+
+Referred to the Committee on lnformatibn Technology Automation on
+1 
+
+Deferred on 11I20I07.
+
+INFORMATION TECHNOLOGY 8: AUTOMATION COMMITTEE REPORT
+JANUARY 8, 2008
+
+PAGE 2
+
+Commissioner Schneider inquired whether 2008 funds would be expended with this request.
+
+Darlena Williams-Burnett, Chief Deputy of the Of?ce of the Recorder of Deeds, responded that
+this request would only expend 2007 funds that were still available.
+
+Commissioner Moreno, seconded by Commissioner Goslin, moved the approval of
+Communication Number 290359. The motion carried.
+
+290833
+
+COOK COUNTY CLERK, David Orr, by Clem Balanoff, Director of Elections,
+transmitting a Communication.
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+SEQUOIA VOTING SYSTEMS, INC., Oakland, California, for the purchase of
+parts and supplies for Sequoia voting equipment.
+
+Reason: Voting equipment requires replacement parts and supplies such as
+legs and cords through normal=use after each election. Sequoia
+Voting Systems, Inc. is the manufactUrer of the election voting
+equipment and is the only vendor with a supply of the necessary
+replacement components.
+
+Estimated Fiscal Impact: $100,000.00. Contract period: March 1, 2008
+through November 30, 2009. (524-376 Account). Requisition No. 85240006.
+
+Approval of this item would commit Fiscal Year 20.08 and future year funds.
+
+Referred to the Committee on Information Technology 8. Automation on
+12/4/07.
+
+Chairman Beavers informed the Committee that Communication Number 290833 was
+withdrawn at the request of the sponsor.
+
+290834
+
+COOK COUNTY SHERIFF, Thomas J. Dart, by Thomas K. Donahue, Executive
+Director, Chicago transmitting a Communication, dated November 6,
+
+2007:
+
+requestingapproval of payment in the amount of $26,409.61 to CANON
+BUSINESS SOLUTIONS, Schaumburg, Illinois, for maintenance and overage
+charges for the period of January 30, 2005 through July 19. 2007.
+
+Reason: This copier was purchased with HIDTA funds and does not fall under
+the countywide maintenance contract. The of?ce was unaware that
+the 2005 unpaid charges existed and that the of?ce was operating
+without a 2007 contract. This situation recently came to light when
+the of?ce was refused service and informed of these outstanding
+charges.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+JANUARY 8, 2008
+
+PAGE3
+Estimated Fiscal Impact: None. Grant funded amount: $26,409.61. (655-440
+Account).
+
+Referred to the Committee on Information Technology Automation on
+12/4/07.
+
+Commissioner Moreno, seconded by Commissioner Goslin, moved the approval of
+Communication Number 290834. The motion carried.
+
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speakers,
+in accordance with Cook County Code, Sec. 
+
+1. George Blakemore, Concerned Citizen
+
+Commissioner Moreno, seconded by Commissioner Goslin, moved to adjourn the
+meeting. The motion carried and the meeting was adjourned.
+
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTION
+WITH REGARD TO THE MATTERS NAMED HEREIN:
+
+Communication Number 290359 Approved
+Communication Number 290833 Withdrawn
+Communication Number 290834 Approved
+
+Respectfully submitted,
+Committee on Information Technology
+
+Autom 'on
+
+ 
+   
+
+illiam M. Beaver 
+
+  
+
+Mathew B. DeLeon, Secretary
+
+ 
+  
+
+The audio. recording for this meeting is available from the Of?ce of the Secretary to the Board,
+118 North Clark Street, Room 567, Chicago, IL 60602.
+

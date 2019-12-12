@@ -1,0 +1,194 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+
+Tuesday, September 8, 2015
+
+11:45 AM
+
+Cook County Building, Board Room, 567
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Chairman Fritchey, Commissioners Butler, Daley, García, Goslin, Schneider, Silvestri and
+Steele (8)
+
+Absent:
+
+None
+PUBLIC TESTIMONY
+
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+1. George Blakemore, Concerned Citizen
+
+15-5246
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 06/30/2015
+A motion was made by Commissioner Daley, seconded by Commissioner Steele, that this Committee
+Minutes be approved. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Commissioners Butler, Daley, García, Goslin, Schneider, Silvestri and
+Steele (8)
+
+15-4067
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: Tyler Technologies, Inc., Moraine, Ohio
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Integrated Property Tax and Mass Appraisal System Implementation and Software
+Contract Value: $29,951,735.00
+Contract period: 9/30/2015 - 3/31/2023 with three (3), three (3) year renewal options
+Potential Fiscal Year Budget Impact: FY 2015 $8,347,143.00, FY 2016 $2,974,095.00, FY 2017
+$4,882,516.00, FY 2018 $5,159,176.00, FY 2019 $4,627,776.00, FY 2020 $2,159,757.80, FY 2021
+$1,801,271.20.
+
+ Accounts: 545-260
+Contract Number(s): 1490-13787
+Concurrence(s):
+The vendor has met the Minority and Women Owned Business Enterprises Ordinance.
+The Chief Procurement Officer concurs.
+Summary: In collaboration with the Cook County Offices of the Assessor, Clerk, Treasurer, Board of Review,
+and Recorder of Deeds, the Bureau of Technology seeks Board approval of a contract with Tyler Technologies,
+Inc. to replace the County’s legacy property tax system. The County currently employs 40-year-old technology
+to manage and implement tax collection across 1,500 taxing districts. The system incurs more than $5M per
+year in support costs and depends upon inflexible and disparate legacy systems, including paper-based validation
+of system reports. These costs are expected to increase as the IT industry and future generations of IT
+professionals abandon the legacy technology upon which the County’s property tax domain currently depends.
+The proposed contract will re-engineer business processes and workflows through the implementation of modern
+technology and provide myriad benefits, including increased property tax revenue from improved assessment,
+appraisal, and collection operations, an improved ability to accommodate property tax workloads without requiring
+additional staff, and enhanced public services and responsiveness for County tax payers.
+Request for Proposals (RFP) procedures were followed in accordance with the Cook County Procurement Code.
+Tyler Technologies, Inc. was recommended based on established evaluation criteria.
+Legislative History: Board of Commissioners referred to the Technology and Innovation Committee on 7/29/15
+A motion was made by Commissioner Daley, seconded by Commissioner Steele, that this Contract
+(Technology) be recommended for approval. The motion carried by the following vote:
+Ayes:
+
+Commissioners Butler, Daley, García, Goslin, Schneider, Silvestri and Steele (7)
+
+Nays:
+
+Chairman Fritchey (1)
+
+15-4318
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Enterprise Resource Planning (ERP)
+Vendor: IBM Corporation, Chicago, Illinois
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Software and System Integration and Managed Services for Oracle E-Business Suite
+ERP Software
+Contract Value: $66,546,900.00
+Contract period: 9/15/2015- 9/14/2020
+Potential Fiscal Year Budget Impact: FY 2015 $3,185,819.00 FY 2016 $23,416,362.00 FY 2017
+$21,660,803.00 FY 2018 10,129,052.00 FY 2019 $4,409,816.00 FY 2020 $3,745,048.00.
+Page 2 of 4
+
+ Accounts: 1502909519.560451.8300
+Contract Number(s): 1418-14268
+Concurrence(s):
+The vendor has met the Minority and Women Owned Business Enterprise Ordinance.
+The Chief Procurement Officer concurs.
+The Bureau of Technology concurs
+Summary: Upon successful implementation, the E Business Suite platform will allow for process
+improvements, best practices, streamlined and automated workflows and real time reporting and analytics for
+finance and human resources related functions across all County agencies.
+Request for Proposals (RFP) procedures were followed in accordance with the Cook County Procurement Code.
+IBM was recommended based on established evaluation criteria.
+Legislative History: Board of Commissioners referred to the Technology and Innovation Committee on 7/29/15
+A motion was made by Commissioner Steele, seconded by Commissioner Daley, that this Contract
+(Technology) be recommended for approval. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Commissioners Butler, Daley, García, Goslin, Silvestri and Steele (7)
+
+Nays:
+
+Commissioner Schneider (1)
+
+15-4488
+Presented by: SIMONA ROLLINSON, CHIEF INFORMATION OFFICER
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): The Bureau of Technology
+Vendor: Securus Technologies, Inc., Dallas, Texas
+Request: Authorization for the Chief Procurement Officer to extend and amend contract
+Good(s) or Service(s): Telephone services for Cook County jails and detention centers
+Current Contract Period: 12/16/2014 - 12/15/2015
+Proposed Contract Extension Period: 12/16/2015 - 9/15/2016
+Total Current Contract Amount Authority: N/A
+Original Approval (Board or Procurement): 11/20/2007
+Previous Board Increase(s) or Extension(s):
+9/15/2013 - 12/15/2014; 4/9/2014, 12/16/14 - 12/15/15
+
+3/1/2011
+
+(amendment
+
+Previous Chief Procurement Officer Increase(s) or Extension(s): N/A
+This Increase Requested: N/A
+
+Page 3 of 4
+
+to
+
+scope);
+
+12/18/2012,
+
+ Potential Fiscal Impact:
+
+N/A
+
+Accounts: N/A
+Contract Number(s): 08-45-256
+Concurrences:
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance
+The Chief Procurement Officer concurs.
+N/A
+Summary: In collaboration with the Cook County Sheriff’s Office, the Bureau of Technology seeks to extend
+the term of Contract No. 08-45-256 by 9 months and lower the cost of telephone calls that detainees in County
+facilities place to family, friends, and private defense counsel.
+The proposed amendment will significantly lower the cost of detainee phone calls by reducing account funding
+fees by approximately 43%, lowering the contractual per-minute call rate by approximately 14%, and securing a
+competitive flat rate for international calls. The extension will provide the County with service while County
+agencies complete an ongoing competitive RFP process for a new communications system at Cook County jails
+and detention centers.
+Request for Proposals (RFP) procedures were followed in accordance with the Cook County Procurement Code.
+Securus Technologies, Inc. was awarded based on established evaluation criteria.
+Legislative History: Board of Commissioners referred to the Technology and Innovation Committee on 7/29/15
+Chairman Fritchey requested that a letter from Sheriff Dart, dated 9/8/2015, be entered into the record.
+A motion was made by Commissioner Silvestri, seconded by Commissioner Butler, that this Contract
+Amendment (Technology) be recommended for approval. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Commissioners Butler, Daley, García, Goslin, Schneider, Silvestri and
+Steele (8)
+ADJOURNMENT
+
+A motion was made by Commissioner Silvestri, seconded by Commissioner Butler, to adjourn the
+meeting. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Commissioners Butler, Daley, García, Goslin, Schneider, Silvestri and
+Steele (8)
+
+Respectfully submitted,
+
+___________________________
+
+________________________________
+
+Chairman
+
+Secretary
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+Page 4 of 4
+
+ 

@@ -1,0 +1,1431 @@
+Cook County Health & Hospitals System
+Finance Committee Meeting November 2018
+Ekerete Akpan
+CFO
+
+Finance Committee : November 2018
+
+1
+
+ Agenda
+1. System-wide Financials & Stats
+a. Financials
+b. Observations
+c. Financial / Revenue Cycle metrics
+2. CCHHS Provider Service Financials & Stats
+3. CountyCare Financials & Stats
+4. Correctional Health services Financials & Stats
+5. Department of Public Health Financials & Stats
+6. Administration Financials
+
+Finance Committee : November 2018
+
+2
+
+  Systems-wide
+Financial Statements
+
+ 
+
+Income Statement for the Ten Months ending September 2018(in thousands)
+Operating Rev enue
+Net Patient Service Revenue
+CountyCare Capitation Revenue
+Access Payments
+Other Revenue
+Total Operating Rev
+
+Year-To-Date
+Actual
+Budget
+
+Variance
+$
+%
+
+523,079
+1,583,958
+93,873
+12,372
+2,213,281
+
+530,294
+1,412,192
+93,873
+9,167
+2,045,526
+
+532,305
+36,564
+202,802
+62,747
+70,695
+233,850
+1,340,051
+18,638
+28,753
+10,675
+2,537,080
+
+554,572
+30,184
+202,802
+51,143
+108,381
+203,618
+1,126,527
+21,942
+27,209
+9,747
+2,336,125
+
+$
+$
+$
+$
+$
+
+(7,215)
+171,765
+3,205
+167,755
+
+-1%
+12%
+0%
+35%
+8%
+
+$
+22,266
+$
+(6,380)
+$
+$ (11,603)
+$
+37,686
+$ (30,232)
+$ (213,525)
+$
+3,304
+$
+(1,543)
+$
+(928)
+$ (200,956)
+
+4%
+-21%
+0%
+-23%
+35%
+-15%
+-19%
+15%
+-6%
+-10%
+-9%
+
+(33,201)
+0%
+
+-11%
+-3%
+
+Operating Expenses
+Salaries & Benefits
+Overtime
+Pension*
+Supplies
+Pharmaceutical Supplies
+Purch. Svs., Rental, Oth.
+External Claims Expense
+Insurance Expense
+Depreciation
+Utilities
+Total Operating Exp
+Operating Margin
+Operating Margin %
+Non Operating Rev enue
+Net Income/(Loss)
+
+(323,800)
+-15%
+
+(290,599)
+-14%
+
+210,765
+
+210,765
+
+(113,035)
+
+*Year to Date (10 months) Pension Liability per GASB
+Finance Committee : November 2018
+
+4
+
+(79,834)
+
+(33,201)
+
+0%
+-42%
+
+Unaudited Financial Statement
+
+ Observations
+Operating Margin - challenging to budget but drivers to watch vs. same
+time FY17
+ Primary Care visits down 1% while Specialty Care visits up 8%
+ Surgical Cases up 5% and slightly above FY 2018 Target
+ Inpatient Discharges down 12% and LOS 7% higher
+ Emergency Department visits up 1%
+ Deliveries down 10%.
+ System-wide uninsured numbers, captured by visit held 42%
+(Provident 34%, ACHN 42%, Stroger 44%)
+ System wide Financial /Revenue Cycle ratios are indicating sustained
+progress
+ CountyCare contributed $170M to CCHHS
+Finance Committee : November 2018
+
+5
+
+ Financial Metrics
+Metric
+Days Cash On Hand**
+
+Operating Margin***
+Overtime as Percentage of
+Gross Salary
+Average Age of Plant (Years)
+
+As of end
+Sep-16/YTD
+
+As of end
+Sep-17/YTD
+
+As of end
+Sep-18/YTD
+
+Target
+
+71
+
+77
+
+44
+
+60*
+
+-12.6%
+
+-20.6%
+
+-5.5%
+
+-5.4%
+
+8.0%
+
+7.8%
+
+7.4%
+
+5.0%*
+
+21.1
+
+22.1
+
+24.4
+
+10.7
+
+*Days Cash on Hand - CCHHS target 60 days, Moody's 198 days . Overtime as percentage of Gross Salary – CCHHS target 5% , Moody's 2%
+** Days Cash in Hand – Point in time i.e. as of end June for each year
+***Excludes Pension Expense-Target based on compare group consisting of ‘like’ health systems : Alameda Health System, Nebraska Medical Center, Parkland Health & Hospital
+System, and UI Health
+Finance Committee : November 2018
+
+6
+
+Unaudited Financial Statement
+
+ Revenue Cycle – Metrics
+Metric
+Average Days in Accounts
+Receivable
+
+Average
+FYTD
+2018
+
+Sept-18
+
+Oct-18
+
+Benchmark
+
+110
+
+94
+
+86 45.85 – 54.9*
+
+8.0
+
+7.0
+
+6.9
+
+NA
+
+29%
+
+18%
+
+19%
+
+NA
+
+(lower is better)
+
+Discharged Not Finally Billed
+Days (lower is better)
+Claims Initial Denials
+Percentage (lower is better)
+
+Definitions:
+Average Days in Accounts Receivable: Total accounts receivable over average daily revenue
+Discharged Not Finally Billed Days: Total charges of discharge not finally billed over average daily revenue
+Claims Initial Denials Percentage: Percentage of claims denied initially compared to total claims submitted.
+* Source HFMA Key Hospital Statistics and Ratio Margins – Posted 2014
+Finance Committee : November 2018
+
+7
+
+Unaudited Financial Statement
+
+ CCHHS Provider Services
+
+Financial Statements & Operational Stats
+
+Finance Committee : November 2018
+
+8
+
+ Income Statement for the Ten Months ending September 2018(in thousands)
+
+*Year to Date (10 months) Pension Liability per GASB
+Finance Committee : November 2018
+
+9
+
+Unaudited Financial Statement
+
+ Revenue Statement for the Ten Months ending Sept. 2018(in thousands)
+CCHHS Providers
+
+Year-To-Date
+Actual
+1,417,085
+
+Gross Revenue
+Adjustments
+Contractual Adjustments
+Charity Adjustments
+Total Adjustment
+
+(492,322)
+(450,525)
+(942,847)
+
+Gross NPSR
+Bad Debt Allowance
+
+474,238
+(192,023)
+
+Adjusted NPSR
+
+282,214
+
+DSH
+BIPA
+
+130,583
+110,281
+
+Adjusted NPSR plus DSH and BIPA
+Adjusted NPSR plus DSH and BIPA as a % of Gross
+
+523,079
+37%
+
+NPSR: Net Patient Service Revenue
+DSH: Disproportionate Share Hospital
+revenue
+Finance Committee : November 2018
+
+10
+
+Unaudited Financial Statement
+
+ Stroger Operation Overview for Ten Months ending September 2018
+EMPLOYEEUnknown
+HEALTH
+2%
+0%
+UNINSURE
+D
+44%
+OTHERS
+3%
+
+INSURED
+MEDICAID
+4%
+8%
+MEDICAID
+MANAGED
+CARE
+27%
+MEDICARE
+
+MANAGED
+MEDICARE
+CARE
+9%
+3%
+
+Comments:
+• Sustained surgical cases growth
+• Leadership continues to work on Observation days and
+discharges via UM committee
+• Leadership continues to review the LWBS
+• Trauma cases impacts some scheduled visits/procedures
+• Payor mix by charges at Stroger has more uninsured vs.
+Provident & ACHN
+*includes Fantus, CORE, Specialty Care, Hospital-Based Clinics, Sengstacke Psych, Austin Behavioral Health & all GMC
+locations
+** 2017 volume from Fantus & 2018 volume from Specialty Care + Sengstacke + Austin
+
+Measure
+
+Inpatient Discharges
+- Long Stay Admissions
+- One Day Admissions
+Inpatient Days
+Observation Discharges
+Observation Days (Observation Discharge)
+Avg LOS (Inpatient Discharge)
+Surgical Cases
+Radiology Tests
+Deliveries
+
+Measure
+
+101,950
+84,115
+5,876
+6,644
+5,315
+51,173
+
+458,276
+282,856
+Specialty/Diagnostic/Procedure Provider Visits
+
+- Hospital-Based
+- Specialty Care/Fantus
+- CORE
+- Behavioral Health/Psych**
+- GMC
+- Peds Primary
+- CORE primary
+
+16,880
+3,150
+1,020
+79,710
+7,190
+7,190
+5.4
+10,970
+--1,000
+
+101,500
+83,830
+5,730
+6,630
+5,310
+---
+
+Outpatient Clinic- FYTD
+FYTD2018 FYTD Target
+
+Measure
+Total Registrations*
+Total Provider Visits*
+
+14,899
+2,992
+827
+72,655
+8,566
+15,665
+5.6
+10,325
+69,770
+834
+
+Emergency- FYTD
+FYTD2018 FYTD Target
+
+Emergency Visits
+Adult Emergency Visits
+Peds Emergency Visits
+Trauma Visits
+LWBS
+Radiology Tests
+
+Finance Committee : November 2018
+
+11
+
+Inpatient/Observation-FYTD
+FYTD2018 FYTD Target
+
+180,004
+7,246
+15,609
+Primary Care Provider Visits
+36,584
+3,429
+15,713
+
+FYTD2017
+16,853
+3,166
+1,026
+79,913
+7,143
+15,513
+5.2
+9,976
+72,903
+979
+
+FYTD2017
+101,576
+83,714
+5,788
+6,672
+5,402
+53,820
+
+FYTD2017
+
+--269,520
+
+476,330
+269,260
+
+9,620
+149,338
+7,180
+16,940
+
+163,927
+6,481
+15,674
+
+43,000
+4,040
+17,750
+
+39,428
+3,642
+16,105
+
+ Provident Operation Overview for Ten Months ending September 2018
+Unknown
+0%
+UNINSURE
+D
+34%
+
+MEDICARE
+MANAGED
+CARE
+5%
+
+INSURED
+6%
+
+Measure
+
+MEDICAID
+7%
+MEDICAID
+MANAGED
+CARE
+37%
+MEDICARE
+11%
+
+Comments:
+• Payor mix by charges at Provident has less uninsured vs.
+Stroger & ACHN
+• Leadership reviewing Observation days & discharges, Left
+without being seen
+• Sustained growth in surgical cases and specialty services
+• Provident includes Sengstacke numbers
+
+Inpatient Discharges
+- Long Stay Admissions
+- One Day Admissions
+Inpatient Days
+Observation Discharges
+Observation Days (Observation Discharge)
+Avg LOS (Inpatient Discharge)
+Surgical Cases
+Radiology Tests
+
+Measure
+
+497
+100
+30
+2,478
+528
+1,046
+5.4
+2,313
+1,611
+
+Measure
+
+500
+100
+40
+2,400
+470
+990
+5.2
+1,900
+---
+
+524
+111
+34
+2,571
+463
+1,092
+5.3
+1,933
+1,655
+
+Emergency- FYTD
+FYTD2018 FYTD Target FYTD2017
+
+Emergency Visits
+Adult Emergency Visits
+Peds Emergency Visits
+LWBS
+Radiology Tests
+
+25,929
+22,827
+1,421
+1,681
+12,534
+
+24,800
+22,260
+1,510
+1,030
+---
+
+24,705
+22,194
+1,505
+1,006
+12,253
+
+Outpatient Clinic- FYTD
+FYTD2018 FYTD Target FYTD2017
+
+Total Registrations
+Specialty/Diagnostic/Procedure Provider Visits
+Sengstacke Primary Care
+Sengstacke (excludes psych) Specialty Care
+Radiology Tests
+
+Finance Committee : November 2018
+
+12
+
+Inpatient/Observation-FYTD
+FYTD2018 FYTD Target FYTD2017
+
+19,903
+13,739
+16,759
+7,653
+
+18,660
+310
+15,250
+13,880
+---
+
+16,679
+14,280
+13,091
+6,596
+
+ ACHN Operation Overview for Nine Months ending September 2018
+Unknown
+0%
+
+INSURED MEDICAID
+Measure
+4%
+6%
+Austin
+
+UNINSURE
+D
+42%
+
+OTHERS
+1%
+Measure
+Total Registrations*
+Total Provider Visits*
+
+MEDICAID
+MANAGED
+CARE
+29%
+MEDICARE
+MANAGED
+MEDICARE CARE
+14%
+4%
+ACHN Total- FYTD
+FYTD2018
+FYTD Target
+249,311
+169,776
+
+--190,690
+
+10,449
+390
+9,126
+8,054
+9,540
+11,317
+736
+11,465
+12,505
+13,719
+8,262
+9,243
+7,407
+112,213
+
+Children's Advocacy
+Cicero
+Cottage Grove
+Englewood
+Logan Square
+Morton East
+Near South
+Oak Forest
+Prieto
+Robbins
+Vista
+Woodlawn
+Total Primary Care Provider Visits
+
+Measure
+
+*excludes Roseland, Fantus, Stroger Specialty Care, CORE, Stroger-Hospital Based Clinics, Sengstacke GMC & Psych, Austin
+Behavioral Health, add Oral Health assuming all registrations are provider visits
+
+Finance Committee : November 2018
+
+11,891
+495
+10,401
+8,847
+11,010
+11,190
+893
+12,605
+12,196
+17,767
+9,176
+8,192
+8,420
+123,082
+
+ACHN Specialty- FYTD
+FYTD2018
+FYTD Target
+
+Ambulatory of Provident
+Austin (OBGYN)
+Cicero (OBGYN & Fam Plan)
+FYTD2017 Logan Square (OBGYN)
+256,430 Oak Forest
+169,988 Oral Health (reg count only)
+Total Specialty Care Provider Visits
+
+Comments :
+• Vista, Logan Square and Oak Forest exceed FY2018 primary care visit targets.
+• Provider vacancies , especially in smaller clinics could be a factor
+
+13
+
+ACHN Primary- FYTD
+FYTD2018
+FYTD Target
+
+236
+467
+1,249
+923
+22,738
+4,246
+29,859
+
+---
+
+460
+1,330
+970
+21,470
+3,520
+27,750
+
+FYTD2017
+10,479
+448
+9,569
+8,100
+10,223
+9,873
+707
+11,396
+11,058
+16,148
+8,477
+6,998
+7,550
+111,026
+
+FYTD2017
+63
+432
+1,218
+842
+21,593
+3,791
+27,939
+
+ CountyCare Health Plan
+
+Financial Statements & Operational Stats
+
+Finance Committee : November 2018
+
+14
+
+ CountyCare Income Statement for the Ten Months ending September 2018(in thousands)
+Year to Date
+Actua l
+
+3,363
+
+Member Months
+Tota l Re ve nue
+Ex pe nse
+Tota l Admin Ex pe nse s
+CCHHS Clinica l Ex pe nse s
+Claims
+Pharmacy Claims
+Care Management
+Tota l CCHHS Clinica l Ex pe nse s
+Ex te rna l Clinica l Ex pe nse s
+Claims
+Hospital Supplemental Access Pmt
+Pharmacy Claims
+Care Management
+Dental Claims
+Transportation Claims
+Optical Claims
+Member Incentives
+Tota l Ex te rna l Clinica l Ex pe nse s
+Tota l Clinica l Ex pe nse s
+Tota l Ex pe nse s
+Net Income Before Rate Adjustment
+Me dica l Loss Ra tio (MLR)
+Net Income Before Prior Period Adj/IGT
+
+IGT
+Amortiza tion
+Net Income After IGT And Amortization
+
+2,250
+
+Va ria nce
+
+1,113
+
+1,614,381
+
+1,037,168
+
+66,345
+
+49,471
+
+(16,874)
+
+139,065
+24,380
+6,526
+169,971
+
+89,858
+64,553
+12,750
+167,160
+
+(49,208)
+40,173
+6,224
+(2,811)
+
+868,156
+108,975
+252,684
+53,845
+35,702
+12,635
+6,790
+1,264
+1,340,051
+1,510,023
+1,576,368
+38,013
+94%
+38,013
+30,424
+7,564
+25
+
+*Not including Appropriation Adjustments
+Finance Committee : November 2018
+
+15
+
+Budge t*
+
+522,962
+197,610
+23,325
+16,650
+11,250
+1,913
+773,709
+940,869
+990,340
+46,828
+91%
+46,828
+28,418
+7,564
+10,846
+
+577,214
+
+(345,195)
+(108,975)
+(55,074)
+(30,520)
+(19,052)
+(1,385)
+(4,878)
+(1,264)
+(566,342)
+(569,154)
+(586,028)
+(8,814)
+3%
+(8,814)
+2,006
+(10,820)
+
+ CountyCare Operational Stats for the Ten Months ending September 2018
+Comments:
+NATIONAL
+
+12%
+
+REGION
+
+12%
+
+ILLINOIS
+
+• CountyCare Medical Loss Ratio is better
+than National and Regional, sustained at
+94% YTD.
+• With 335,000 members in September
+2018 , CountyCare is the still largest
+Medicaid Managed Care plan in Cook
+County.
+
+9%
+
+COUNTYCARE
+
+• CountyCare contributed $170M to CCHHS
+
+6%
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+12%
+
+14%
+
+ALR
+Milliman Research Report-Medicaid Risk-Based Managed Care: Analysis of Financial results for 2016 . Region consists of Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin
+MLR – Medical Loss Ratio , %tage of premium spent on health care quality . ALR Administrative loss Ratio - %tage spent on overhead expenses, such as marketing, profits, salaries, administrative costs etc.
+
+Finance Committee : November 2018
+
+16
+
+ Correctional Health Services
+
+Financial Statements & Operational Stats
+
+Finance Committee : November 2018
+
+17
+
+ Income Statement for the Ten Months ending September 2018(in thousands)
+
+*Year to Date (10 months) Pension Liability per GASB
+Finance Committee : November 2018
+
+18
+
+Unaudited Financial Statement
+
+ Correctional Health Operation Overview for Nine Months ending August 2018
+
+Total Intakes
+5,000
+4,000
+3,000
+2018 Actual
+
+2,000
+1,000
+-
+
+FY2018 YTD: 35,213
+FY2017 YTD:
+37,923
+
+Dec Jan Feb Mar Apr May Jun
+
+Cermak Financial Counseling
+Application
+Intakes Seen Submitted
+YTD
+28,726
+2,770
+
+Jul Aug Sep Oct Nov
+
+Comments;
+• Fewer but more resource intense detainees, increases experienced in Heath requests per patient
+with top 3 referrals in Oral Surgery, Ear Nose & Throat as well as Hand Clinic
+• Continued success around screening and financial counselling to ensure continuity of coverage
+Finance Committee : November 2018
+
+19
+
+ Cook County Dept. of Public Health
+Financial Statements & Operational Stats
+
+Finance Committee : November 2018
+
+20
+
+ Income Statement for the Ten Months ending September 2018(in thousands)
+
+*Year to Date (10 months) Pension Liability per GASB
+Finance Committee : November 2018
+
+21
+
+Unaudited Financial Statement
+
+ CCDPH Overview for Ten Months ending September 2018
+Program Title
+
+Public
+Health
+
+Lead
+Poisoning
+Prevention
+
+Administration
+Environmental
+Health
+Communicable
+Diseases
+Program Title
+Lead Poisoning
+Prevention
+Program Title
+
+TB Program
+
+TB Program
+
+Metric
+
+Percent of high-risk infant APORS (Adverse Pregnancy Outcome
+Reporting System) referrals received that are contacted for follow-up by
+the Public Health Nurse within 14 calendar days of referral
+Cost per county residents served
+Cost per Inspection Efficiency
+Time from receipt of Chlamydia or gonorrhea report to field (days)
+Percent of food establishments with isolated illness complaints within a
+contracted community or unincorporated Suburban Cook County that
+are inspected within 2 business days of receipt of complaint
+
+Metric
+
+Percentage of cases with elevated blood levels visited within the
+timeline provided in protocols Efficiency
+Percentage of cases with elevated blood lead levels who receive joint
+nursing visit and environmental risk assessment visit Outcome
+
+Metric
+
+90%
+$5.35
+$209.00
+5
+
+YTD Thru Sep 18
+
+100%
+62%
+52%
+
+YTD Thru Sep 18
+
+Number of completed Direct Observation Treatments (DOT) Outcome
+
+Finance Committee : November 2018
+
+22
+
+YTD Thru Sep 18
+
+92%
+
+  Administration
+
+Financial Statements
+
+ 
+
+Income Statement for the Ten Months ending September 2018(in thousands)
+
+*Year to Date (10 months) Pension Liability per GASB
+Finance Committee : November 2018
+
+24
+
+Unaudited Financial Statement
+
+ Appendix
+System-wide Volumes Stats
+
+ 
+
+System-wide Payer Mix by Visits
+Unknown
+1%
+
+INSURED
+4%
+
+EMPLOYEE…
+
+MEDICAID
+6%
+UNINSURED
+42%
+
+OTHERS
+2%
+
+MEDICAID
+MANAGED
+CARE
+29%
+MEDICARE
+12%
+
+MEDICARE
+MANAGED…
+
+Finance Committee : November 2018
+
+26
+
+ Primary Care Provider Visits
+25,000
+20,000
+15,000
+10,000
+5,000
+-
+
+Dec
+
+Jan
+
+Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+27
+
+Jul
+
+FY2018 YTD: 181,520
+FY2017 YTD:
+183,393
+FY2018 Target:
+201,732
+
+Aug Sep
+
+2018 Target
+
+Oct Nov
+
+ Specialty Care Provider Visits
+30,000
+25,000
+20,000
+15,000
+10,000
+
+FY2018 YTD: 194,554
+FY2017 YTD:
+180,320
+FY2018 Target:
+198,352
+
+5,000
+-
+
+Dec Jan Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+28
+
+Jul
+
+Aug Sep Oct Nov
+
+2018 Target
+
+ Total Inpatient Discharges
+2,000
+1,500
+1,000
+
+FY2018 YTD: 15,343
+FY2017 YTD: 17,405
+FY2018 Target:
+17,405
+
+500
+-
+
+Dec Jan Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+29
+
+Jul
+
+Aug Sep Oct Nov
+
+2018 Target
+
+ 8.00
+
+Average Length of Stay
+
+7.00
+6.00
+5.00
+4.00
+
+FY2018 YTD:
+5.57
+FY2017 YTD:
+5.21
+FY2018 Target:
+5.21
+
+3.00
+2.00
+1.00
+-
+
+Dec Jan Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+30
+
+Jul
+
+Aug Sep Oct Nov
+
+2018 Target
+
+ Total Emergency Room Visits
+16,000
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+-
+
+FY2018 YTD: 127,996
+FY2017 YTD: 127,056
+FY2018 Target:
+127,056
+
+Dec Jan Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+31
+
+Jul
+
+Aug Sep Oct Nov
+
+2018 Target
+
+ Total Deliveries
+200
+150
+100
+FY2018 YTD:
+FY2017 YTD:
+FY2018 Target:
+
+50
+-
+
+Dec Jan Feb Mar Apr May Jun
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+32
+
+Jul
+
+834
+930
+1,023
+
+Aug Sep Oct Nov
+
+2018 Target
+
+ Total Surgical Cases
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+-
+
+FY2018 YTD:
+FY2017 YTD:
+
+Dec Jan Feb Mar Apr May Jun Jul Aug
+2018 Actual
+
+2017 Actual
+Finance Committee : November 2018
+
+33
+
+12,604
+
+12,054
+FY2018 Target:
+12,657
+Sep Oct Nov
+
+2018 Target
+
+ 

@@ -1,0 +1,451 @@
+Strategic Planning FY2020- 2022
+Collaborative Research Unit (CRU)
+
+William Trick, MD
+Unit Director
+March 22, 2019
+
+ Research at CCH
+
+COOK COUNTY
+
+
+
+
+.A 
+..
+I 1111 
+?1 
+
+ 
+
+Importance of Research
+•
+
+Provides millions $/year of medications/care through funded research
+• Expensive or investigational medications to treat HIV and cancer
+
+•
+
+Informed, inquisitive clinician-investigators improve patient care, lifts
+morale
+
+•
+
+CCH well represented in the medical literature and scientific gatherings
+
+•
+
+Influence public health practice and policy through partnerships with
+public agencies: IDPH, CDPH, CCDPH, CDC, and NIH
+
+ CCH Institutional Review Board Mission
+• Primary: Protection of human research subjects from harm and
+assurance of fully informed voluntary participation…
+• Secondary: Compliance with laws that govern human subjects
+protections
+
+• Guiding principles: Autonomy, Beneficence, Justice
+• Philosophy: Fulfill these missions with minimal burden to
+facilitate research that furthers the mission of CCH & improves the
+care of people we serve
+
+ IRB Accomplishments
+•
+
+Heavy workload:
+• 477 open protocols
+• 188 new protocols reviewed in 2018
+• investigator trainings
+
+•
+
+Locally and nationally recognized experts in reviewing research in
+vulnerable populations (e.g., adolescents and detainees)
+
+•
+
+Revised policies and procedures, & trained staff for the revised
+2019 Office of Human Research Protections’ Common Rule
+
+•
+
+Monthly educational programs for investigators: workshops in
+collaboration with Corporate Compliance, HIS, and CRU
+
+ CRU Mission
+The Collaborative Research Unit promotes action research on highly prevalent
+problems affecting the health of the vulnerable and diverse patient population of
+Cook County.
+
+ Collaborative Research Unit: CRU
+
+Data
+
+Methods
+
+Analysis
+
+HIPAA
+
+Legal consultation
+
+Corporate
+
+Compliance
+
+       
+ 
+
+Research
+Data
+
+Business
+Intelligence
+
+Data Science
+
+Team
+
+Warehouse
+
+ 
+
+CCH Research Community
+
+ 
+
+Research Framework
+
+Translational Medicine Continuum
+
+ 
+
+ 
+
+ 
+
+Innovation Validation Adoption
+Bench Bedside Community by Policy
+Translational Clinical Research
+Biointormatics Informatics
+Bio- Imaging Clinical Public Health
+Informatics Informatics Informatics Informatics
+Molecules Tissues . . .
+8 Cells Organs Populations
+
+Biomedical Informatics Continuum
+
+Examples of Projects
+• Program Evaluation
+• Housing the homeless
+• Medication assisted treatment for opioid addiction
+• Medical-legal partnership
+• Analytics to inform large-scale projects
+• Flexible housing pool: homeless
+• Justice and mental health collaborative
+• Social network analyses for opioid prescribing and control of antibiotic-resistant organisms
+• Data linkages
+• Real-time messages to focused registries
+• Public health interventions
+• Control of multi-drug resistant organisms
+
+ Awards: Completed Projects
+• Charles Shepard Nomination: Outstanding research paper published by CDC scientists
+“Effect of screening for partner violence on women's quality of life: a randomized controlled trial".1
+
+• Gage Award for Innovation in Excellence in America's Essential Hospitals, 20142
+Clinical decision support for Healthy Lungs Initiative Tobacco Program
+
+• California Healthcare Foundation, Award for technology supporting complex care management.3
+Audio Computer Assisted Self Interviews (ACASI): Provision of social services, oncology
+
+1 Klevens
+
+J, Kee R, Trick W, Garcia D, Angulo FR, Jones R, Sadowski LS. JAMA, 2012.
+
+2Goldberg
+3 Trick
+
+DN et al. “…a public hospital tobacco cessation program: the cook county health…experience. J Comm Health, 2016.
+
+WE, Deamant C, et al. “…ACASI System in a General Medicine Clinic. Applied Clin Inform. 2015.
+
+ Impact 2020 Update
+Status and Results
+• Deliver High Quality Care
+• Grow to Serve and Compete
+
+• Foster Fiscal Stewardship
+• Invest in Resources
+• Leverage Valuables Assets
+
+• Impact Social Determinants
+• Advocate for patients
+
+ Impact 2020
+Progress and Updates
+Focus Area
+
+Name
+
+Status
+
+5.3 Exploit relevant sources for monitoring
+quality, cost, utilization and patient
+outcomes.
+
+Complete one advanced analysis project by
+the Collaborative Research Unit (CRU) from
+the CountyCare claims data.
+
+Complete/
+Ongoing
+
+5.6 Produce knowledge (using internal and
+external sources) about how best to provide
+care to CCHHS’ patients.
+
+Strengthen clinical impact of research to
+benefit CCHHS patients prioritized informed
+by clinical leadership or quality council.
+
+Ongoing
+
+ Project 1: Opioid Prescribing Social Network, CountyCare
+Background: Opioid Overdose Cohorts in the United States
+
+ Project 1: Opioid Prescribing Social Network, CountyCare
+Opioid Claims for CountyCare Beneficiaries by ZIP Code, 2015-16
+Cumulative MME Dispensed In ZIP Code
+
+Mean MME Per Beneficiary Dispensed In ZIP Code
+
+ Project 1: Opioid Prescribing Social Network, CountyCare
+K-core Unimodal Sociogram of Prescribers to Beneficiaries with Chronic Opioid Use
+
+ Project 1: Opioid Prescribing Social Network, CountyCare
+Schematic of Primary Findings
+
+Higher Risk of High Dose
+Prescriptions:
+• Anesthesia/Pain
+• Physiatry/Sports Medicine
+Lower Risk of High Dose
+Prescriptions:
+• Emergency Medicine
+• Pediatrics
+
+Risk of High Dose Prescription
+HIGH
+REF
+LOW
+
+Higher Risk of Discoordinated
+Prescriptions:
+Risk of Discoordinated Prescription
+• Dental
+LOW
+REF
+HIGH
+• Emergency Medicine
+• Surgical Specialties
+
+ Project 1: Opioid Prescribing Social Network, CountyCare
+Implications and Response
+• Highly interconnected prescribers in the network’s core were clinicians of CCH’s chronic pain
+management center. Their model of chronic pain management may be part of a national
+solution.
+
+• Prescribers in the network’s periphery and specialties like emergency medicine and procedural
+specialties were vulnerable to exposing patients to high daily dose opioids through discoordinated
+prescriptions.
+• Cook County Department of Public Health targeted public health detailing toward
+prescribers among procedural specialists.
+• Illinois legislation (SB 1607) mandating prescribers to use the Prescription Monitoring Program for
+first time opioid prescriptions to each patients went into effect January 2018. Evaluation of its
+impact on CountyCare members planned.
+
+ Project 2: Health-Housing Data Linkages for Coordinated Entry
+Background: Housing Insecurity in the United States
+COST BURDENED1
+(>30% income on housing):
+
+38.9 million households
+EXTREMELY INADEQUATE2
+(e.g., shared plumbing, no heat)
+
+1.9 million units
+SHELTERED
+HOMELESS1
+
+550,000
+UNSHELTERED
+HOMELESS3
+
+175,000
+
+Joint Center for Housing Studies (2017)
+American Housing Survey, USDUHD (2013)
+3 National Alliance to End Homelessness (2017)
+1
+
+2
+
+ Project 2: Health-Housing Data Linkages for Coordinated Entry
+CCH Opportunities and Commitments
+Chicago Flexible Housing Subsidy Pool Program
+1.
+
+to create more effective ways to connect individuals who have been homeless with high
+behavioral health and physical health needs
+
+2.
+
+to create new supportive housing
+
+ Project 2: Health-Housing Data Linkages for Coordinated Entry
+Chicago Area Patient Centered Research Network (CAPriCORN)Homeless Management Information System (HMIS) Data Linkage Study
+
+HMIS
+N=8163
+
+Stably
+Housed
+
+Greater and more
+fragmented
+healthcare utilization
+
+Not Stably
+Housed
+
+HMIS-ICD10
+N=1107
+
+ICD10
+N=2177
+
+Greater physical,
+mental, and
+behavioral health
+comorbidities
+
+ Project 2: Health-Housing Data Linkages for Coordinated Entry
+CCH-HMIS Data Linkage for the Flexible Housing Pool Project
+
+HMIS
+Unaccompanied
+Adults
+N=5968
+
+HMIS-CCH EHR
+N=4851
+(81% of HMIS)
+
+Cross-Sector High Utilizers
+N=280
+
+CountyCare
+claims database
+
+HMIS-CountyCare
+N=1045
+(18% of HMIS)
+
+CCH Electronic
+Health Record (EHR)
+
+ Project 2: Health-Housing Data Linkages for Coordinated Entry
+CRU Ongoing Role in CCH Initiatives Around Housing Insecurity
+• In support and coordination with executive leadership and external partners to make contact
+with patients prioritized for permanent supportive housing through the FHP.
+• Lead and execute outcomes evaluation of CCH patients in the FHP.
+
+• Synthesize experience from CCH’s recent participation in other housing programs into
+generalizable knowledge (WIN II, Illinois Housing Development Authority rental subsidy
+program).
+• Participate in discussions about new CCH initiatives related to housing and involve Integrated
+Care Management, Departments of Emergency Medicine and Psychiatry, and others.
+
+ SWCT Analysis
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+SWOT Analysis
+Strengths
+• Expertise, experience, and track record of
+success with deliverables
+•Item
+Goals aligned with CCH priorities in social
+determinants of health
+•
+Item a collaborative learning environment
+• Fosters
+among key stakeholders in CCH
+• Strong partnerships with city & state departs.
+of public health, including CDC
+• High staff morale
+
+Weaknesses
+• Small reserve bandwidth to support ad hoc
+demands on CRU resources
+• Internal grants support still in development
+
+Opportunities
+• Emerging partnerships in the housing and
+justice sectors
+• Enhanced external research funding through
+Programmatic Services and Innovation Office
+
+Threats
+• Commodification of research
+• Increasing competitiveness in social
+determinants domains
+
+24
+
+ FY2020-2022
+
+COOK COUNTY
+
+
+
+
+.A 
+..
+I 1111 
+?1 
+
+ 
+
+Leverage Valuable Assets
+FY2020-2022 Strategic Planning Recommendations
+Items
+• Apply expertise to compete for grants and serve our population
+• Building customized applications that enhance services and provide accessible, high-value datasets
+• Share record linkage tools to facilitate exchange of clinical and public-health data
+• Continue to explore “light-touch” interventions through text-messaging
+
+• Continue to focus on domains critical for the health of our population
+• Behavioral health conditions
+• Opioid use disorders
+• Justice-involved population
+• Homelessness
+
+26
+
+ 11
+
+Thank you.
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

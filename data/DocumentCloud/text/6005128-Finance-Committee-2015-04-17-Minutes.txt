@@ -1,0 +1,5445 @@
+Minutes of the meeting of the Finance Committee of the Board of Directors of the Cook County Health and
+Hospitals System held Friday, April 17, 2015 at the hour of 10:00 A.M., at 1900 W. Polk Street, in the Second
+Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Collens called the meeting to order.
+Present:
+
+Chairman Lewis M. Collens and Directors Hon. Jerry Butler, Ric Estrada and Dorene P. Wiese
+(4)
+Board Chairman M. Hill Hammock (ex-officio), Steven Scheer (non-Director Member) and
+Directors Ada Mary Gugenheim and Carmen Velasquez
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Douglas Elwell – Deputy CEO of Finance and Strategy
+Donna Hart – Chief Information Officer
+Steven Glass – Executive Director of Managed Care
+Randolph Johnston – Associate General Counsel
+
+II.
+
+Dorothy Loving – Executive Director of Finance
+Elizabeth Reidy – General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+Public Speakers
+Chairman Collens asked the Secretary to call upon the registered public speakers.
+The Secretary called upon the following registered public speaker:
+1.
+
+George Blakemore
+
+Concerned Citizen
+
+Chairman Collens noted that there has been quite a bit in the news recently about contract issues at the College of
+DuPage and Chicago Public Schools; therefore, he thought this is a good time to remind everyone about the
+System’s contracting processes. Under this very intensive process, all contracts are required to be reviewed and
+signed-off on by Dr. John Jay Shannon, Chief Executive Officer, and Douglas Elwell, Deputy Chief Executive
+Officer of Finance and Strategy. Chairman Collens stated that he personally reviews all of the contracts that are
+presented for this Committee’s consideration; the contracts are then reviewed by this Committee and are approved
+by the full Board. He has confidence that there is a very strong internal process in place.
+III. Action Items
+A. Minutes of the Finance Committee Meeting, March 20, 2015
+Director Butler, seconded by Director Wiese, moved to accept the minutes of the
+Finance Committee Meeting of March 20, 2015. THE MOTION CARRIED
+UNANIMOUSLY.
+B. Proposed Resolution authorizing management to open a bank account at JP Morgan Chase Bank to be used
+for the following purpose:
+i. Petty Cash Account for Provident Hospital of Cook County (Attachment #1)
+Dorothy Loving, Executive Director of Finance, presented the proposed Resolution for the Committee’s
+consideration.
+Director Butler, seconded by Director Estrada, moved the approval of the proposed
+Resolution. THE MOTION CARRIED UNANIMOUSLY.
+Page 1 of 84
+
+ Minutes of the Meeting of the Finance Committee
+Friday, April 17, 2015
+Page 2
+
+III. Action Items (continued)
+C. Contracts and Procurement Items (Attachment #2)
+Mr.Elwell provided an overview of the requests presented for the Committee’s consideration. The Committee
+reviewed and discussed the requests.
+Review of all of the requests by Contract Compliance has not yet been completed; it was respectfully requested
+that the Committee conditionally approve these requests, pending the completion of review by Contract
+Compliance.
+With regard to request number 5, Mr. Elwell presented additional information. He stated that these services
+are being brought in-house; however, the administration is not quite ready for that to happen, so this contract is
+being extended for two months. The vendor will have applications that they will have taken by the time their
+contract ends on June 30th; based on the contract, the System will pay the vendor a 7% contingency fee after
+that period, so those applications will get processed and approved. On June 30th, the fixed fee stops, but their
+contingency will continue until the System has collected on all those accounts. Mr. Elwell stated that the
+administration has been very conservative in estimating what that contingency fee will total; he estimates that
+it will total approximately $3 million of the $5 million increase amount, and will probably play out over a six
+month period.
+Director Estrada, seconded by Director Wiese, moved the approval of request numbers
+1 through 14, subject to completion of review by Contract Compliance where
+appropriate. THE MOTION CARRIED UNANIMOUSLY.
+D. Any items listed under Section III
+
+IV. Report from the Deputy Chief Executive Officer of Finance and Strategy (Attachment #3)
+A. Quarterly report to CCHHS Board
+i. Financial Statements (Attachment #4)
+ii. Metrics (Attachment #5)
+Mr. Elwell provided an overview of the Report, Financial Statements and Metrics. The Committee reviewed
+and discussed the information.
+During the review of the Report, Board Chairman Hammock inquired regarding the additional revenue
+amounts from the State, as referenced by Mr. Elwell and mentioned on slide 2 of the presentation; he asked
+whether those amounts apply to FY2015 revenue items, or whether they date back to FY2014. Mr. Elwell
+responded that some relate to FY2015, but some also relate to FY2014; he noted that these were not accrued,
+because the administration was in disagreement with the State and therefore did not have the State’s
+acknowledgement of the numbers. Board Chairman Hammock noted that, as things progress during the year, it
+would be helpful if the administration could keep present in the Board’s minds those revenues recognized this
+fiscal year but attributable to another fiscal year.
+During the discussion of slide 14 of the Finance Dashboard, Mr. Elwell indicated that the slide should be
+labeled as CountyCare: MLR (Medical Loss Ratio).
+
+Page 2 of 84
+
+ Minutes of the Meeting of the Finance Committee
+Friday, April 17, 2015
+Page 3
+IV. Report from the Deputy Chief Executive Officer of Finance and Strategy
+
+A. Quarterly report to CCHHS Board (continued)
+During the discussion of slide 16 of the Finance Dashboard, Mr. Elwell noted that, on the subject of accounts
+receivable, the administration is currently working on an issue regarding a number of accounts that are over
+two years old that have been carried over instead of being written-off; it was a past practice to not want to
+write many accounts off, but these need to be cleaned up, as the System is not going to get paid for them. The
+System has already reserved for them, so these accounts are not included in its net receivables.
+With regard to slide 20 of the Finance Dashboard, Chairman Collens noted that it would be more useful and
+informative to split out the physical plant data from the equipment data; this would give the Board a better
+sense of the status. Director Velasquez inquired whether an inventory of equipment has been done. Mr.
+Elwell responded that this has not been done in a long time; the administration is taking a look at that, and is
+taking a look at how equipment is tagged.
+
+iii. Focus Area Presentation – Information Technology (Attachment #6)
+Donna Hart, Chief Information Officer, provided an overview of the presentation on Information Technology.
+The Committee reviewed and discussed the information.
+During the discussion of slide 3 of the presentation, Chairman Collens inquired whether the Health
+Information Systems (HIS) Department supports CountyCare. Ms. Hart responded that HIS supports some
+portions of CountyCare, relating to Business Intelligence. Mr. Elwell provided additional information. He
+stated that, besides HIS support with Business Intelligence, the other functions relating to CountyCare,
+including claims processing, reporting to the State, and grievances and appeals, are supported by an outside
+vendor serving as the Third Party Administrator.
+Ms. Hart stated that another presentation is expected to be provided relating to security and disaster recovery in
+the near future. With regard to the subject of disaster recovery, she provided additional information on mirror
+sites that exist on both on-site and remote locations.
+B. Report of emergency purchases (Attachment #7)
+Details were provided on two emergency purchases that were recently made.
+
+C. Strategic Issue Review
+i. CountyCare Update (Attachment #8)
+Steven Glass, Executive Director of Managed Care, provided an overview of the information contained in the
+CountyCare Update. The Committee reviewed and discussed the information.
+During the discussion of the information provided on slide 8, questions were raised regarding denials of new
+requests for Harvoni, a drug used to treat/cure Hepatitis C. Mr. Glass stated that he can distribute the prior
+authorization protocol for the Committee’s information. He noted that, if denied, the main option available to
+members is to appeal the decision; he added that the appeal could go all the way up to the State for a hearing.
+
+Page 3 of 84
+
+ Minutes of the Meeting of the Finance Committee
+Friday, April 17, 2015
+Page 4
+
+IV. Report from the Deputy Chief Executive Officer of Finance and Strategy
+C. Strategic Issue Review
+i. CountyCare Update (continued)
+With regard to the information on slide 9, Board Chairman Hammock noted that, from the pharmacy chart, the
+Integrated Care Program (ICP) group has a very expensive pharmacy bill; he asked what the Committee should
+be expecting in terms of pharmacy expense. Mr. Glass responded that the State, in building its rates of what it
+pays the System, has the projections of what profit and costs would look like; he stated that a line relating to
+those projections will be added to next month’s presentation for both the ICP and Family Health Plan (FHP)
+populations.
+Director Butler, seconded by Director Estrada, moved to receive and file the six (6)
+reports under Section IV. THE MOTION CARRIED UNANIMOUSLY.
+
+V.
+
+Adjourn
+As the agenda was exhausted, Chairman Collens declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Finance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXX
+Lewis M. Collens, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 84
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #1
+
+Page 5 of 84
+
+ 
+RESOLUTION
+
+WHEREAS, the Cook County Board of Commissioners, pursuant to Ordinance 08-0-3 5
+established the Cook County Health and Hospitals System or ?System?); and
+
+WHEREAS, the Ordinance established the Cook County Health and Hospitals System Board of
+Directors and delegated governance of the System to that Board; and
+
+WHEREAS, the Cook County Health and Hospitals System Board of Directors has legal
+authority to authorize its departments and o?icers to open and maintain checking and/or savings
+accounts at various banks; and
+
+WHEREAS, it is now necessary for the Cook County Health and Hospitals System Board of
+Directors, to authorize Management to open an account at JPMorgan Chase Bank for Petty
+Cash at Provident Hospital of Cook County.
+
+NOW THEREFORE BE IT RESOLVED THAT:
+
+The following are the names of those persons who are authorized to sign checks on these
+checking and/or savings accounts and that the signatures of at least two (2) of these persons
+shall be required on each check over $150.00 and one person for amounts under $150.00 
+
+1. John Jay Shannon, MD Chief Executive Of?cer
+2. Douglas Elwell - Deputy Chief Executive Officer, Finance and Strategy
+3. Peter Daniels - Chief Operating O?icer, Hospital-Based Services
+
+4. Dorothy Loving - Executive Director of Finance
+
+BE IT FURTHER RESOLVED THAT, the County Auditor be directed to audit the
+checking and/or savings accounts of said institution at the close of each Fiscal Year or at
+anytime it sees and to ?le report(s) therein with the Cook County Board.
+
+BE IT FURTHER RESOLVED THAT, any funds drawn on said checking and/or savings
+accounts for deposit with the County Treasurer shall be transmitted to the Cook County
+Comptroller with an itemization of collections and designation of the account in the Of?ce of
+the Comptroller.
+
+Approved on April 24, 2015 by the Board of Directors of the Cook County Health and Hospitals
+System.
+
+ 
+
+APPROVED
+
+APR 24 20i5
+
+,1 ., up; at
+TORS or . . ctr-0K COUNTY
+DHEETH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Page 6 of 84
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #2
+
+Page 7 of 84
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM III(C)  AS AMENDED
+APRIL 17, 2015 FINANCE COMMITTEE MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Begins 
+Fiscal impact not to  Affiliate /  on Page 
+System
+#
+exceed:
+
+Accept Grant Renewals
+1
+
+Illinois Department of Public 
+Health
+Service ‐ HIV / AIDS prevention
+
+Grant renewal amount 
+$168,333.00 CCDPH
+
+3
+
+2
+
+Illinois Department of Public  Service ‐ Perinatal Hepatitis B Grant renewal amount 
+Health
+prevention services
+$35,000.00 CCDPH
+
+4
+
+Amend Grant Contract
+3
+
+Public Health Institute of 
+Metropolitan Chicago
+
+Service ‐ HIV / AIDS prevention
+
+Grant increase 
+amount: $61,800.00 CCDPH
+
+5
+
+6
+
+Renew Grant Awards from CCDPH and extend contracts
+
+4
+
+Chicago Department of 
+Public Health
+
+Service ‐ lead abatement services
+
+$360,000.00 (funded 
+from Lead Poisoning 
+Prevention Fund) CCDPH
+
+4
+
+Health Department for the 
+City of Evanston
+Service ‐ lead abatement services
+
+$67,000.00 (funded 
+from Lead Poisoning 
+Prevention Fund) CCDPH
+
+6
+
+$5,000,000.00  System
+
+7
+
+Extend and Increase Contracts
+5
+
+Chamberlin Edmonds and 
+Associates / Emdeon
+
+Service ‐ eligibility / enrollment
+
+6
+
+Ortho Diagnostic Systems, 
+Inc.
+
+Service ‐ HIV and Hepatitis testing
+
+$900,000.00 
+
+7
+
+Nebo System, Inc.
+
+Service ‐ outpatient claims edit
+resolution services
+
+$425,000.00  System
+
+9
+
+8
+
+BCT Consulting
+
+Service ‐ maintenance of CCDPH
+website and social media sites
+
+$318,950.00 (grant 
+funded) CCDPH
+
+10
+
+Service ‐ software support,
+maintenance and enhancements
+
+$1,664,507.71  CHSCC
+
+11
+
+$530,000.00  System
+
+12
+
+SHCC
+
+8
+
+Amend and Increase Contract
+9
+
+Cerner Corporation
+
+Amend, Extend and Increase Contract
+10
+
+Ajilon Professional Staffing
+
+Service ‐ temporary staffing for
+General Account
+
+Page 8 of 84
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM III(C)  AS AMENDED
+APRIL 17, 2015 FINANCE COMMITTEE MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Begins 
+Fiscal impact not to  Affiliate /  on Page 
+System
+#
+exceed:
+
+Execute Contracts
+11
+
+Superior Air‐Ground 
+Ambulance Service, Inc.
+
+12
+
+TeleHealth Services
+
+Service ‐ ambulance services
+Product and Service ‐ Television
+Tele‐leasing
+Implementation
+System
+
+13
+
+Stericycle, Inc.
+
+Service ‐ Scavenger‐biohazardous /
+infectious and regular waste
+
+14
+
+Stryker Medical Corporation Product ‐ therapeutic beds
+
+Page 9 of 84
+
+$5,187,462.00 
+$3,549,900.00 System
+
+$999,751.20 
+
+SHCC
+
+13
+
+14
+
+$640,000.00  System
+
+15
+
+$299,950.00 
+
+16
+
+SHCC
+
+ Cook County Health 8. Hospitals System
+
+BOARD APPROVAL REQUEST
+
+ 
+   
+   
+  
+
+ 
+   
+ 
+
+   
+ 
+    
+
+ 
+
+      
+    
+
+ 
+
+  
+  
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+    
+   
+ 
+
+ 
+
+ 
+ 
+
+SPONSOR:
+NIA Terry Mason, MD, Chief Operating Of?cer, Cook County
+Department of Public Health 
+DATE: PRODUCT I SERVICE:
+04/02/2015 Service - Prevention
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Grant Contract Renewal Illinois Department of Public Health, Spring?eld, lL
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED I RENEWAL AMOUNT:
+$168,333.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2015 thru 12/31/2015 557800570
+COMPETITIVE SELECTION METHODOLOGY:
+NIA
+NON-COMPETITIVE SELECTION METHODOLOGY:
+NIA
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+The previous grant contract number 457800473 maintained an surveillance system in suburban Cook
+
+County and provided services to reduce through linkages to sexually transmitted infection treatment, HIV
+care, case management services. behavioral interventions, and partner noti?cations. it was approved by the Cook
+3 County Health and Hospitals System Board on 02/28/2014.
+
+ 
+   
+ 
+    
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This program supports mandated communicable disease services for to include Professional Capacity
+Building Training and surveillance-based services (885) for HIV?positive clients with linkages to Sexually
+
+Transmitted Infection treatment, Ryan White case management, partner services. and behavioral and biomedical risk 2
+7 reduction counseling as needed. 
+
+ 
+   
+     
+ 
+
+*The cost of the early termination of this grant is $46,551.00.
+
+ 
+      
+ 
+
+TERMS OF REQUEST:
+This is a request to renew Grant Contract in an amount not to exceed $168,333.00, as needed, for a
+period of twelve (12) months from 01/01/2015 to 12/31/2015.
+
+DeputyCEO: ?ier/1' 2? 
+
+Douglas L. Elwell, Deputy Chle??t?j??r AP E33 RQVE 
+cans CEO: APR ?2 r1 
+
+Jay Shannon, W. Wx??cutive Of?cer Lxsi'
+
+     
+
+ 
+
+    
+      
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+     
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+Request 
+1
+
+    
+ 
+
+- Ambuiatory 8- Community Health Network - Cermalt Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothetein CORE Center .
+
+We Bring Health CARE to Your Community
+Page 10 of 84 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+Terry Mason, MD, Chief Operating Of?cer, Cook
+County Department of Public Health
+
+DATE: PRODUCT I SERVICE:
+
+03/09/2015 Service - Perinatal Hepatitis Prevention Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Grant Contract Renewal Illinois Department of Public Health, Spring?eld, 
+
+ACCOUNT: FISCAL NOT EXCEED GRANT AMOUNT:
+
+$35,000.00
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+01/01/2015 thru 12/31/2015 551802460
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+The Cook County Health and Hospitals System approved the previous grant award of $35,000 for Perinatal Hepatitis 
+Prevention Services on 03/28/2014. -
+
+NEW PROPOSAL JUSTIFICATION:
+Under the Department of Public Health, Of?ce of Health Protection Perinatal Hepatitis Prevention Grant, the
+Cook County Department of Public Health is mandated to conduct Perinatal Hepatitis Prevention Services to 3
+Hepatitis positive mothers and their at-risk infants and household contacts.
+
+*The cost of early termination of this grant is 0.00
+9 TERMS OF REQUEST:
+
+This is a request to renew Grant Contract in the amount of $35,000.00 as needed. for a period of
+. twelve (12) months from 01/01/2015 thru 12/31/2015.
+
+Deputy CEO: {Qua/[1 APPROVED
+
+Douglas L. Elwell, Deputy Chief/Executive Officer 
+24- 2015
+
+ 
+
+CEO: 0 av some 02K COUNTY
+John hannon . tive Offi TORS ?39 DILEETH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Request 
+2
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr, Hospital of Cook County 0 Oak Forest Heaith Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community 
+page 11 Of 84 Rewsed 03/01/2011
+
+ 
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+  
+  
+
+   
+    
+
+     
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+    
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+   
+ 
+
+ 
+
+ 
+ 
+
+SPONSOR: EXECUTIVE SPONSOR:
+NIA Terry Mason, MD, Chief Operating Of?cer, Cook
+Co_unty Department of PubIlc Heaith 
+DATE: PRODUCT 1 SERVICE:
+0311612015 Service Prevention
+TYPE OF REQUEST: VENDOR 1 SUPPLIER:
+Grant Contract Amendment Public Health Institute of Metropolitan Chicago
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED IRENEWAL AMOUNT:
+$61,800.00
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+0110112014 thru 1213112014 0110112015 thru 0613012015 02252015
+COMPETITIVE SELECTION METHODOLOGY:
+N1A
+NON-COMPETITIVE SELECTION METHODOLOGY:
+NIA
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+The original grant contract with the Public Health institute of Metropolitan Chicago (PHIMC) was for twelve (12)
+. months in the amount of $122,000.00 and was accepted by the Cook County Health and Hospitals System Board on
+. 0412512014. The ?rst amendment increased the contract funding by $15,050.00 to a total of $137,050.00; it was
+1 accepted by the Cook County Health and Hospitals System Board on 1010312014.
+
+ 
+   
+   
+   
+   
+   
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+i This program supports mandated communicable disease services for HIVIAIDS to include Risk Reduction. .
+Counseling Testing. Linkage to Care. and Partner Services. These services wliI be delivered to target populations
+in accordance with program descriptions and requirements. After this amendment the new grant total will be
+$198,850.00.
+
+ 
+   
+     
+ 
+
+*The cost of the early termination of this grant is $0.00
+
+  
+   
+
+ 
+  
+ 
+
+TERMS OF REQUEST:
+This is a request to accept the second Grant Contract Amendment for Public Health Institute of Metropolitan
+Prevention Services Grant which increases the Grant Contract Amount by $61,800.00 and extends the
+
+grant contract period by six (6) months from 0110112015 thru 0613012015. 
+APPROVED
+
+DeputyCEO: 
+
+Douglas L. Elwell. Deputy Chi xecutive Officer APR 2 2615
+
+   
+
+ 
+
+ 
+   
+        
+
+ 
+ 
+
+3 BY EOARD 0F
+0503 DIRECTORS OF THE COOK COUNTY
+John Jay Shannon, Meyhiewmve 01116517 HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+     
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+Request 
+3
+
+    
+ 
+
+- Ambulatory Community Health Network - Cermak Heaith Services Department of Pubiic Health -
+. John H. Stroger, Jr. Hospitai of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Heaith CARE to Your Community
+Revised 0310112011
+
+Page 12 of 84
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+   
+ 
+
+   
+  
+
+  
+     
+     
+
+  
+
+ 
+
+    
+    
+
+ 
+
+    
+    
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+        
+     
+   
+ 
+  
+
+ 
+
+      
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+SPONSOR: EXECUTIVE SPONSOR
+NIA Dr Terry Mason, M.D., Chief Operating Of?cer, Cook
+County Department of Public Health
+DATE: PRODUCT SERVICE:
+031612015 Service - Lead Abatement Services
+TYPE OF REQUEST: SUPPLIER:
+Renew grant awards from City of Evanston, Health Dept, Evanston, lL
+and extend contracts City of Chicago Dept. of Public Health, Chicago, IL
+FISCAL IMPACT I ACCOUNT: FUNDING AMOUNT GRANTED FROM 
+I 5440101 *Funded from Lead Poisoning Prevention Fund
+Evanston - 567.000.00
+City of Chicago $360,000.00
+GRANTICONTRACT PERIOD: CONTRACT NUMBERS:
+1210112014 through 118012015 06-42-387 Evanston
+06-42-388 City of Chicago
+COMPETITIVE SELECTION METHODOLOGY:
+NIA - grant application process used
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+      
+ 
+
+PRIOR HISTORY AND CURRENT PROPOSAL JUSTIFICATION: .
+The funding for these services is provided by the Lead Poisoning Prevention Fund. which was created and adopted by 3
+the Cook County Board of Commissioners on November 21, 2000. This fund, through the use of a grant process, has 
+been used to help prevent lead poisoning among the population of Cook County.
+
+ 
+     
+ 
+ 
+
+  
+
+Since 2005, has awarded funds to these agencies in Chicago and for lead hazard remediation in
+their regions; grant awards were based on the agencies' grant application proposals and by the agencies'
+meeting the criteria and eligibility requirements established by the LEAD Prevention Advisory Council and the Lead
+Poisoning Prevention Unit. For other areas of Cook County, coordinates the process for suburban Cook
+
+County residents to qualify for and receive lead hazard mitigation and abatement work based on household income
+and elevated blood lead levels of index children.
+
+ 
+   
+   
+     
+   
+   
+ 
+
+TERMS or REQUEST:
+This is a request to renew the grant awards from for lead abatement services to the following agencies in the
+amounts as listed below, and extend the contracts to provide those services for a period of twelve (12) months, from
+
+1210112014 through 11/3012015:
+
+ 
+ 
+      
+ 
+
+ 
+
+0 Health Department for the City of Evanston, in the amount of $67,000. )0 as 
+06-42-387) _Rmbe
+
+. City of Chicago Department of Public Health, in the amount of $360,011 0.00. as needed (Contract
+Number 06-42-388) APR 24235
+
+I BY COUNTY
+IRECTORS OF TH
+Deputy CEO- DHEALTH AND HOSPITALS SYSTEM
+
+DouglasL Elwell Deputy Chief E/ecutive Officer
+
+ 
+   
+   
+     
+      
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+  
+ 
+
+    
+
+Request 
+4
+
+ 
+
+. CEO:
+
+ 
+
+    
+ 
+
+Ambulatory Community Health Network - Cermak Health Services Department of Public Health -
+- John H. Stroger. Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+
+Page 13 Of 84 Revised 030112011
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SONSOR: 7 A EXECUTIVE SPONSOR:
+Douglas L. Elweli, Deputy Chief Executive Of?cer pg}.
+
+ 
+
+DATE: PRODUCT SERVICE:
+
+04/10/2015 Service EIigibility/Enroilment
+
+TYPE OF REQUEST: VENDOR SUPPLIER:
+
+Extend and increase Contract Chamberiin Edmonds and Associates/Emdeon
+
+ACCOUNT FISCAL IMPACT: GRANT AWARD RENEWAL AMOUNT
+890?260 $5,000,000.00
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+10/01/2009 thru 04/30/2015 05/01/2015 thru 06/30/2015 09?73-014
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+3 entered into a five year $38 million dollar contract with Chamberlin Edmonds and Associates (CEA) effective
+
+10/01/2009 thru 09/30/2014 in a move to a single primary eligibility vendor. CEA provided phased services which have 
+included assistance with the implementation of the CareLink Program and eligibility screening and enrollment services for 
+patients of The vendor is paid a flat fee plus incentive fees based on revenues generated as a result of
+
+. its efforts. The provisions of the contract were amended effective on 03/01/2013 and increased in the amount Of
+
+. $6,975,563.00 to permit payment Of additional quantities and modified deliverables. An amendment was approved by the 7
+
+Department of Supply Chain Management to increase the maximum amount payable by $5,525.00 to permit payment for
+
+CEA to send out Access to Care letters. The amendment effective on 10/01/2014 thru 04/30/2015 extended the term of
+
+the contract.
+
+NEW PROPOSAL JUSTIFICATION:
+
+continues to move fen/vard with managing these services internally. This request to extend the contract for two
+months and increase the funding will provide for a smooth transition and ensure revenue flow is not disrupted.
+Additionally. the contract requires contingency payments to be made to CEA for all application activity prior to contract
+end even if the approval comes after termination. There is one remaining contract that we will seek to make co-terminus
+with the June 30 termination date for the program services.
+
+TERMS OF REQUEST:
+This is a request to extend and increase contract number 09-73-014 an amount not to fxceed $5,000,000.00. as needed,
+
+. for the revised contract period from 05/01/2015 thru 06/30/2015. AP 9 RQVED
+
+APR 2 
+
+av some or
+CEO: DIRECTORS OF THE COOK COUNTY
+. HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT PendinT
+
+ 
+
+ 
+
+Request 
+5
+
+ 
+
+- Ambuiatory 8. Community Health Network Cermak Health Services - Department of Public Health -
+- John H. Stroger. Jr. Hospital of Cook County it Oak Forest Hospital - Provident Hospital - Ruth NI. Rothstein
+CORE Center -
+
+We Bring Health CARE to Your Community
+
+Page 14 of 84 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+     
+  
+
+  
+  
+
+EXECUTIVE SPONSOR
+Peter Daniels, Chief Operating Officer, Hospital Based
+Services
+
+  
+   
+
+I SPNOOR:
+Joanne Marcichow-Dulski Lab Director 
+
+  
+
+ 
+
+         
+     
+ 
+
+ 
+
+ 
+    
+
+ 
+
+      
+
+ 
+
+       
+      
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+      
+   
+ 
+
+ 
+
+   
+
+ 
+
+DATE: PRODUCT SERVICE:
+02/10/2015 Service - HIV and Hepatitis Testing
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Extend and increase Contract Ortho Diagnostic Systems. inc. Raritan, NJ
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-365 $900,000.00 
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD CONTRACT NUMBER:
+01/01/2013 thru 12/31/2014 01/01/2015 thru 04/30/2016 H12-73-071
+COMPETITIVE SELECTION METHODOLOGY:
+
+NON-COMPETIT IVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+. PRIOR CONTRACT HISTORY:
+The Cook County Health and Hospitals System Board of Directors approved this contract in
+
+the amount of $1,848,731.82 for the period from 01/01/2013 thru 12/31/2014. This contract allows Ortho Diagnostic
+Systems to provide equipment, controls, reagents and consumables for HIV and Hepatitis tests performed at Stroger
+Hospital Chemistry Laboratory.
+
+ 
+   
+      
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION: 
+This request is to extend and increase the contract to allow Ortho Diagnostic System to continue to provide reagents, .
+a and controls to the Stroger Hospital Chemistry Laboratory for HIV and Hepatitis testing. This extension and increase 
+will enable the laboratory to continue performing these tests through 04/30/2016.
+
+ 
+   
+    
+  
+
+TERMS OF REQUEST:
+This is a request to extend and increase contract number in an amount not to exceed $900,000.00, as
+needed, for a period Of sixteen (16) months from 01/01/2015 thru 04/30/2016.
+
+  
+   
+   
+  
+
+ 
+
+  
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pen?? PQQVED
+
+
+Deputy CEO APR 24 EM
+
+Douglas L. Eiwell. Deputy Chief?ecutive Of?cer
+
+   
+
+ 
+
+    
+ 
+
+BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+   
+ 
+
+CEO:
+
+John Jay Shannon M. Officer)
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+Request 
+6
+
+   
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department Of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center Provident Hospitai - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 15 of 84
+
+Revised 03/01/2011
+
+Cook County Health HOSpitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+  
+  
+ 
+ 
+  
+
+    
+ 
+
+  
+
+ 
+
+      
+    
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+      
+    
+
+ 
+
+ 
+
+    
+
+ 
+
+   
+
+ 
+
+        
+   
+ 
+
+ 
+
+SPONSOR: EXECUTIVE SPONSOR:
+Douglas Elwell. Deputy Chief Executive Of?cer 521;,
+DATE: PRODUCT I SERVICE:
+10/04/2014 Service - Outpatient Claims Edit Resolution Services
+TYPE OF REQUEST: VENDOR SUPPLIER:
+Extend and Increase Contract Nebo System, Inc, Oak Brook Terrace, IL
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+890-260 $425,000.00 
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD CONTRACT NUMBER:
+07/01/011 thru 3/31/2015 04/01/2015 thru 06/30/2015 H11-25-056
+SELECTION METHODOLOGY:
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY: i
+The Cook County Health and Hospitals System Board of Directors approved this contract on 06/24/2011 in
+the amount of $3,276,000.00 for the period from 07/01/011 thru 06/30/2014. It provides outpatient claims edit
+resolution services on accounts that are in a ?hold pending? status within the claims submission platform. An
+
+amendment was approved by the Board of Directors on 12/12/2014 to extend the contract through
+03/31/2015 and to increase the contract amount by $1,584,000.00.
+
+  
+       
+       
+    
+
+i NEW PROPOSAL JUSTIFICATION: 5
+This request will continue to provide software to import daily files, run claims through an eligibility function and create
+reports for review. Edits are reviewed to identify situations that require additional research prior to the submission of 
+the claim. Listings of accounts can be provided and accounts updated in the information system with
+comments, activity codes and payer information. This extension will allow time for the posting of an RFP.
+
+      
+   
+  
+
+TERMS or REQUEST:
+This is a request to extend and increase contract number in an amount not to exceed $425,000.00 as
+needed, for a period of three (3) months from 04/01/2015 thru 06/30/12015.
+
+  
+      
+ 
+ 
+ 
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pendin Tr 
+i haesoveo
+
+    
+
+CEO: APR 2 4 EUIS
+
+John Jay Shannon. W?ve Officer
+ex some or:
+
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+      
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+Request 
+7
+
+   
+ 
+
+Ambuiatory Community Health Network Cermak Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 16 of 84
+
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+    
+  
+
+  
+  
+
+  
+    
+     
+
+  
+
+ 
+
+ 
+
+  
+     
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+      
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+    
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+   
+ 
+
+ 
+
+   
+
+SPONSOR EXECUTIVE SPONSOR:
+Terry Mason. Chief Operating Of?cer, Cook
+County Department of Public Health
+DATE: PRODUCT I SERVICE:
+03/17/2015 Service - Maintenance of website and social media sites
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Extend and Increase Contract BCT Consulting. Fresno CA
+FISCAL IMPACT: GRANT FUNDED I RENEWAL AMOUNT:
+$318,950.00
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD CONTRACT NUMBER:
+07/01/2014 thru 1 1/30/2015 12/01/2015 thru11/30/201 7 H14-25-0029
+COMPETITIVE SELECTION METHODOLOGY:
+
+SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+   
+ 
+ 
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+Contact number was approved by the Director of SCM in an amount not to exceed $130,000.00 from
+07/01/2014 thru 11/30/2015. The Partnership to Improve Community Health (PICH) grant is federally funded was
+approved by the Cook County Health and Hospitals System on 10/31/2014.
+
+  
+   
+      
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+1 DOT developed content management system for the agency?s website, which is proprietary. They will
+
+3 continue to support website and social media sites to maintain and update the six (6) grant program
+objectives as well as basic maintenance for Public Health and any Public Health Emergency that may occur. The
+amended maximum amount of the contract will be $448,950.00.
+
+ 
+   
+ 
+    
+   
+ 
+  
+
+TERMS or REQUEST:
+This is a request to extend and increase contract number H14-25-0029 in an amount not to exceed $318,950.00, as
+needed, for a revised contract period from 12/01/2015 thru 11/30/2017.
+
+ 
+   
+ 
+ 
+
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT Yes
+
+   
+
+mg . -MI
+
+I Deputy CEO: ?aw/Z 
+
+Douglas Elweli Deputy Chief E?cutive Officer
+
+   
+
+ 
+
+ 
+
+     
+   
+ 
+
+ 
+
+   
+ 
+ 
+
+ 
+
+ 
+
+APR 24 
+CEO: BMW 
+
+John Jay Shannon. We?b?icer DIRECTORS: or: "fiasco/ox COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+   
+
+Request 
+8
+
+ 
+ 
+
+. Ambulatory 8r Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospitai - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 17 of 84
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+       
+
+     
+
+ 
+
+      
+    
+
+ 
+
+ 
+   
+ 
+
+ 
+
+   
+
+ 
+
+     
+     
+     
+    
+
+ 
+
+      
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+  
+
+ 
+
+     
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+Donna R. Hart, Chief Information Officer, 
+
+DATE: PRODUCT I SERVICE:
+
+04/09/2015 Service? Software Support, Maintenance and Enhancements
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Amend and increase Contract Cerner Corporation, Kansas City, MO
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED IRENEWAL AMOUNT:
+i 717-893-441 $24,450.00 - (Capital) 3
+893-441 $1,640,057.71 (Operating) 
+Total $1,664,507.71
+1 CONTRACT PERIOD: CONTRACT NUMBER: 5
+. 01/01/2013 thru 12/31/2015 H13-25-001
+COMPETITIVE SELECTION METHODOLOGY:
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number H13-25-001 was approved by the Board on 12/14/2012 for the period of 01/01/2013 thru
+12/31/2015 in the amount of $45,248,838. An Amendment to the contract was executed by the Office of Supply
+Chain Management to reallocate $1,137,900 of Professional Services funds from Core System Services to Learning
+Services, GoLive Support and End User Training. Additionally, an Emergency Purchase was executed for the
+provision of Power Point of Care 8. Behavioral Health (Inpatient) Solution at Cook County Juvenile Temporary
+Detention Center, which increased the contract amount by $2,350,059.31, bringing the current total contract amount
+to $47,598,897.31.
+
+  
+   
+    
+
+ 
+ 
+
+ 
+   
+   
+   
+ 
+ 
+
+  
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request to amend and increase the contract is for the provision of adding Kofax Station Licensing, which i1
+enables ACHN to scan external medical documentation into the Corner EMR, Patient Secure, which is a self- 7
+
+registration kiosk system. Clairvia, which is 8 Corner application that will replace the existing nursing applications
+
+Ansos and Quadramed will integrate with payroll and Corner EMR, allowing management to properly predict staf?ng
+
+levels based on the acuity levels of patients. This will increase the total contract amount to $49,263,405.02.
+
+ 
+   
+    
+
+ 
+    
+  
+ 
+
+  
+ 
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract number H13-25-001 in an amol - - 
+
+needed, for the remainder of the contract period. 53, RQVE 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Feeding
+
+APR 2 4 ?015
+Deputy CEO: 
+
+- av some 
+Douglas L. Elwell, Deputy Chief ecutive 0 car DIRECTORS OF THE ccoK COUNTY
+
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+ 
+
+    
+     
+
+     
+ 
+
+ 
+
+   
+ 
+
+ 
+
+  
+  
+
+CEO:
+
+1 John Jay Shannon, MD, 699 yo we Officer
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Request 
+9
+
+ 
+ 
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health 
+John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center Provident Hospital - Ruth M.
+Rothstein CORE Center 
+
+We Bring Health CARE to Your Community
+
+Revised 03/01/2011
+Page 18 of 84
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+EXECUTIVE SPONSOR: 
+
+  
+   
+ 
+
+    
+  
+
+ 
+   
+ 
+
+SPONSOR:
+
+ 
+
+      
+    
+
+ 
+
+ 
+   
+ 
+
+Dorothy Loving, Executive Director, Finance
+DATE: PRODUCT I SERVICE:
+
+03/27/2015 Service - Temporary Staffing for General Account
+
+TYPE OF REQUEST: SUPPLIER:
+
+Amend. Extend and Increase Contract Ajilon Professions! Staf?ng
+
+ 
+
+   
+
+ 
+
+   
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+890-260 $530,000.00 NIA
+ORIGINAL CONTRACT PERIOD REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2012 thru 1 11301201 5 05/01/2015 thru 11/30/2017 
+SELECTION METHODOLOGY:
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+NIA
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+        
+ 
+  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+
+ 
+
+  
+ 
+
+. PRIOR CONTRACT HISTORY:
+
+1 Contract number was approved by the Cook County Health and Hospitals System Board on
+
+11/24/2012 in the amount of $800,000.00 for the period from 12/01/2012 thru 11/30/2015. It was the result of an .
+
+RFP for revenue cycle to hire temporary manpower to work down accounts receivable and accelerate cash flow. The
+
+?scal budget has several line items that required immediate attention. Patient Financial Services is now fully staffed
+
+and no longer requires temporary manpower to work outpatient accounts that are not being effectively worked in-
+house. 
+
+ 
+ 
+      
+      
+ 
+ 
+
+5 NEW PROPOSAL JUSTIFICATION:
+The contract is being used to hire temporary higher skilled manpower to accelerate the accounts payable process.
+staf?ng for Care?link, interim Cashier Manager as well as several higher level in Finance and budget.
+
+     
+    
+ 
+     
+
+TERMS OF REQUEST:
+This is a request to amend. extend and increase contract number H12-25-070 in an amount not to exceed
+$530,000.00. as needed for the revised contract period of 05/01/2015 thru 11/30/2017.
+
+ 
+   
+    
+ 
+
+ 
+
+ 
+ 
+
+i CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE:
+
+. naanceao
+coo: 
+
+Douglas L. Elwell, Deput Chief Executiv?e Officer 
+. I APR 5 4 ?015
+
+   
+     
+  
+
+   
+
+CEO: DIRECTOR a?r ERNEST co
+. . ma UN-ry
+John Jay Shannon. MWh'wm?we Of?cer HEALTH AND HOSPITALS SYSTEM
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Request 
+10
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Heaith 
+. John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 19 of 84
+
+Cook County Health Hospitals System
+
+AS AMENDED
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+NIA Peter Daniels. Chief Operating Officer. Hospital Based
+Services
+
+DATE: 0313112015 PRODUCT I SERVICE:
+
+Service Ambulance Services
+
+TYPE OF REQUEST: VENDOR 1 SUPPLIER:
+
+Execute Contract Superior Air-Ground Ambulance Service, Inc., Elmhurst, lL
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+890-213 W900. NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+0710112015 thru 0613012018 H15-72-053
+
+SELECTION METHODOLOGY:
+
+NON-COMPETITIVE SELECTION METHODOLOGY
+
+NIA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+5 No prior contract history with this vendor.
+
+NEW PROPOSAL JUSTIFICATION:
+This request is to execute a contract with Superior Air?Ground Ambulance Service, Inc. to provide patient-
+mepeetetiee-end ambulance services throughout the system. A Request For Proposals (RFP) was
+conducted, and responses were received from three vendors. Superior?s years of experience in the industry, the size
+of their ?eet and the lowest total cost of any respondent were factors. in this selection. .
+
+TERMS OF REQUEST: $3,549,900.00 5
+This is a request to execute contract number H15-72-053 in an amount not to exceed WOO, as needed. for 1
+a period of thirty-six (36) months from 07/01/2015 thru 0613012018. 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy CEO: <9 
+
+Douglas L. Elwell, Deputy Chief ecutive Of?cer 1?3 RGVED
+
+ii
+
+ 
+
+APR 
+John Jay Shannon, J61 motive Off'cer 
+DIRECTORS the: Small: COUNTY
+
+ 
+
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+Request 
+1 
+
+ 
+
+- Ambulatory Community Health Network - Cerrnak Health Services Department of Public Health 
+John H. Stroger. Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident Hospital . Ruth M.
+Rothstein CORE Center 0
+
+We Bring Health CARE to Your Community
+Revised 0310112011
+
+Page 20 of 84
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+Toni Preckwinkle Cook County Health Hospitals System
+
+COOK COUNTY HEALTH
+
+ 
+
+ 
+
+President a. HOSPITALS SYSTEM Board Members
+Cook County Board of Commissioners CH M. Hill Hammock Chairman
+John Jay Shannon, MD Commissioner Jerry Butler - Vice Chairman
+Chief Executive Of?cer Lewis Collens
+Cook County Health Hospitals System Ric Estrada
+Ada Mary Gugenheim
+Emilie N. Junge
+
+Wayne M. Lerner, DPH, FACHE
+Erica E. Marsh, MI) MSCI
+Carmen Velasquez
+Dorene P. Wiese, 
+
+Date: April 15, 2015
+
+To: Deborah Santana, Secretary to the Board
+Cook County Health and Hospitals System
+
+From: Douglas L. Elwell, Deputy Chief Executive Officer J21,
+Cook County Health and Hospitals System
+
+Re: Correction Memo
+Superior Air-Ground Ambulance Service, Inc.
+H15-72-053
+
+The Board Approval Request for the above named service will be presented to the Board of
+Directors of the Cook County Health and Hospitals System for approval on April 24, 2015. It
+is necessary to correct the amount in the FISCAL IMPACT NOT TO EXCEED. The amount
+on the transmittal does not reflect the exclusion of one of the services. It should read:
+
+FISCAL IMPACT NOT TO EXCEED
+$3.549, 900.00
+
+If additional information is needed, please feel free to contact me.
+
+Thank you.
+
+ 
+
+Ambulatory 8. Commun?y Hoallh Holwork 0 Corm?a gMMVIoos 0 Cook County Doporimont of Public Hull?: 0
+0 John Sirogor, Jr. Hospital - Oak Forosl Connor 0 Hospital - lull: M. Rollnloln CORE ConIor 0
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+NIA Peter Daniel, Chief Operating Officer, Hospital Based
+Services
+DATE: PRODUCT I SERVICE:
+04/02/2015 Product/Service - Television Tale-leasing Implementation System
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract TeleHealth Services Raleigh. NC
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-530 $999,751 .20 
+CONTRACT PERIOD: CONTRACT NUMBER:
+05/01/2015 thru 04/30/2020 H15-25-059
+COMPETITIVE SELECTION METHODOLOGY:
+GPO -
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+i There is no prior contract history for this service.
+
+. NEW PROPOSAL JUSTIFICATION:
+
+This contract is an implementation of an upgraded system wide television interactive program for John H. Stroger
+
+Hospital. Our current televisions are 5 years old. and are not compatible with the new system. This upgrade will
+
+include signal sourcing. distribution throughout the room. and approximately 565 televisions. The TeleHealth
+
+Services? system offers the beepital functionality and features to give patients and staff access to hospital's content
+
+3 and health services. The telephony and television technology creates a patient? staff engagement. bedside
+interactive experiences for all ages and educational background that is easy to use.
+
+TERMS or REQUEST:
+
+This is a request to execute contract number in amount not to exceed $999,?5120, as needed, for a
+period of sixty (60) months from 05/01/2015 thru 04/30/2020.
+
+i CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+DeputyCEO: (jun/r1. 
+
+Douglas L. Elwell, Deputy Chief V'scutive Officer
+
+ 
+
+senseseo
+
+
+
+.
+. John Jay Shannon, ief Exec IV Officer APR 20THE COOK COUNTY
+DIEIFEEAETEI AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Request 
+12
+
+- Ambulatory Community Health Network Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 22 of 84
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Elizabeth Koizow, interim Director Environmental Peter Daniels. Chief Operatin Officer
+Services Hospital Based Services 5L
+
+ 
+
+DATE: PRODUCT I SERVICE:
+01/30/2015 Service - Scavenger - Bio-hazardouslinfectious and Regular Waste
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract Stericycie, inc., Lake Forest, IL
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+890-235 $640,000.00 
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+04/01/2015 thru 03/31/2017 1115-25002
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+Contract number H13-72-031 was approved by the Cook county Health and Hospitals System Board on
+
+1 03-28-2013 in the amount of $630,000.00 for a period of twenty-four (24) months. from 04/01/2013 thru 03/31/2015.
+The contract allows the vendor to collect, transport. treat and dispose of all bio?hazardous waste. infectious waste
+and regular waste not only on a regular basis, but also on an as needed basis.
+
+. NEW PROPOSAL JUSTIFICATION:
+
+This request to execute a new contract for scavenger services that include the removal of bio-hazardous waste,
+infectious waste and regular waste provides a safe and healthy environment for the patient and staff of the facilities.
+3? Scavenger service is a mandatory regulated waste program required by law for all hospital institutions.
+
+TERMS OF REQUEST:
+i This is a request to execute contract number in an amount not to exceed $640,000.00, as needed. for a .
+period of twenty-four (24) months from 04/01/2015 thru 03/31/2017. 
+
+. CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+1? . 
+Deputy CEO: 2&4wa A
+
+Douglas L. Elwell. Deputy Chief APR 2 ?5 
+
+ 
+
+w. (-1-.
+
+
+
+CEO: . mm . 
+1 John Jay Shannon, MD?Wuth/e Of?cer HEALTHAND mes 5mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+13
+
+ 
+
+Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County . Oak Forest Health Center Provident Hospital 0 Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 23 of 84
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+Peter Daniels Chief Operating Officer. Hospital Based
+A Ser_vices jam??-
+
+DATE: PRODUCT I SERVICE:
+
+04/0112015 Product - Therapeutic_Beds
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Medical Corporation, Kalamazoo MI
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+
+71 7-897-521 $299,950.00 NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+One-time purchase H15-76-056
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 PRIOR CONTRACT HISTORY:
+i There is no prior contract history for this product.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This contract is to replace and standardize the therapeutic beds in the critical care patient rooms at John H. Stroger.
+Jr. Hospital. The therapeutic beds enable earlier mobility of the patients. reducing incidence of nesocomial
+
+1 pneumonia. Currently, there are (22) twenty two critical care beds which are 15 years oid. The usual lifespan of
+
+i which is (10) ten years. This replacement will encompass twelve (12) ln?Touch Zoom Drive beds with
+isoiibrium support surface, Nurse Station Calls. and IV Poies to improve the patient experience. The contract will
+lnclude a warranty on maintenance and parts.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H15-76-050 in an amount not to exceed $299,950.00, as needed for a
+
+. one-time purchase.
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND CONTRACT RESPONSIV Yes
+
+. Ann OVED
+Deputy CEO: 1211/.) -
+
+Douglas L. Elweli. Deputy Chief?xecutive Of?cer APR 2 4 
+
+ 
+
+i? . m:
+I. use-it COUNTY
+CEO: HEALTH AND HOSPITALS SYSTEM
+
+John Jay Shannon, M.D., (ff 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+l4
+
+- Ambulatory 8. Community Health Network Cermak Health Services Department of Public Health -
+John H. Stroger. Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital Ruth M.
+Rothstein CORE Center 
+
+We Bring Health CARE to Your Community
+Revised 03i01/2011
+
+Page 24 of 84
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #3
+
+Page 25 of 84
+
+ Report to the Finance Committee
+p
+A il 17 2015
+April 17, 2015
+Doug Elwell
+Deputy CEO for Finance and Strategy
+Page 26 of 84
+
+ Financial Results February 2015 Year 
+to Date
+• Loss before County support $51.4 million
+y pp $
+• Better than budget by $6.6 million
+• This indicates our February performance was 
+below plan
+• Continued concerns in labor costs
+• Additional revenue anticipated from the state not 
+Additi
+l
+ti i t d f
+th t t
+t
+accrued due to concerns
+• CountyCare below budget on revenue and 
+CountyCare below budget on revenue and
+expense. Net is better than expectations. Growth 
+continues and will achieve budget
+Deputy CEO Report to Finance I  April 17, 2015
+
+2
+Page 27 of 84
+
+ External Factors on 
+Financial Performance
+• Governor’s proposed budget impact
+• Managed care environment
+M
+d
+i
+t
+• Detainee care opportunities and challenges
+
+Deputy CEO Report to Finance I  April 17, 2015
+
+3
+Page 28 of 84
+
+ Ongoing Initiatives
+Ongoing Initiatives
+• Insourcing
+• Age of Plant
+• Budget
+d
+
+Deputy CEO Report to Finance I  April 17, 2015
+
+4
+Page 29 of 84
+
+ Current and Future Focus Areas
+Current and Future Focus Areas
+2015
+April
+July 
+October
+2016
+January 
+April 
+J l
+July
+October
+
+IT
+Budget
+Capital Asset Management
+Pharmacy
+Procurement
+B d
+Budget
+Compensation Management
+Deputy CEO Report to Finance I  April 17, 2015
+
+5
+Page 30 of 84
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #4
+
+Page 31 of 84
+
+ 
+WiJu-L?ml
+
+
+
+HLHIthu-nllu Imm-
+
+Ell'? Inf-u
+
+
+
+sum?um
+Swirl-H-
+?abut-d 5m. Mull. 
+mu- Emu.-
+in! ML
+unkind.
+
+ELF-HEB
+
+
+
+MATHEHEHHJE
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+{in 11mm}
+MW
+muf?n
+gnaw
+Winn-Lil Huh-? WJ-MH
+l? 313.5542: Iii-Jail 141.151
+I315 3.15.!
+21-24 am: luau 
+152,1?! 11.5? 151,511
+5.3.15.3 3
+1.2 ldr?-El Hui
+'3 5.543 l??l E..I
+2.454 5.1 3.33
+3&1 than
+?3,511 auxin l??rl 113.45:
+_lE-mi ?52 
+55.51% 55.5.23 45.115
+we [1.211 ?52 5E
+
+ 
+
+ 
+
+Page 32 of 84
+
+
+HiLF?h?l?S-klh Iii-m-
+Clih- Iii-m-
+
+
+
+
+
+SinhidI-hl'l'u
+
+
+
+new 5.1.. til-l I. Elihu
+
+Irill'lrlii Elm
+
+in! lawn-?rm 
+
+with.
+
+
+mummrm
+WWII: 
+
+[Hm HESS-I
+
+MHHIIH
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WW
+MIMI-1. ck LII-ruin I?iu Emu-Nd.
+?115 Emma :2515- 2215 
+11:15 Jun-I 111153.33: 'Iu'l'?'cl ?1311 haul 3115 haul 3'15 haw urn-m- 2:141:1? 2ICI15-llnu ?115 haw 'u'l?m 311-1 Aug-l
+312,334] W11 1,113 101,111 153.1231] Lil-1,383 (?531] 12.11:]
+1,62 [Lilli 3:115 LEI
+313.22 1.1; [55.14" :521] gm
+131,192 3,115 1.13.145 511 4-31 3-0 11-54
+H.111 31,131! lulu-l 12.4.23 31,114 15.102 11,113 
+45.113 11,513 1,015 15,151 L21,55n 1L3.u35. 11533351 5-Il- 15,111
+3M3 5,513 In?ll; 5.441 511 5.21
+1,511 1,154 5.414 1.3343
+we L22 1* rm
+23.251 ?1,951 191,131 LIE-mum. 1341.231 mm 58.313 $1.531] 12.11:]
+cw mm ruwa 1.5.12 mg
+E1513 3mm 12 11 .261
+5E ?at 22.5: cm? MEI Mair 132' W31
+
+ 
+
+ 
+
+Page 33 of 84
+
+ 
+
+ 
+
+
+HI. Pilhi: Sim Riv-ru-
+Elf-rhini-
+
+
+
+Hummus ?HI-is:
+
+Sin-h. am hum
+
+Supp-lir-
+
+?uid-15? hnL? nun-mu
+
+Humid-ru-
+
+W??mh'hn M.
+
+
+
+
+Ell]! (HHS-I Fl?l 
+
+WTIHS 
+
+
+
+
+lulu-nJudl-E??-?il
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+MW
+21115 Eui? 2111531?
+?15??1?l 315 ?nal 'I'il?il'n 3014M 2115M 'I'il'?n 
+1 32]: H3  111  JET-I
+1 32_:t 131 42
+11,341 12.1% 1,115 EAH 5i! 3.4M
+Lil: 2.113 ?uid-I 5 Bl 3H 51 15
+iL?. [in:12 
+15,321 31L 3,342 Lil! 5i] 
+amu- Ig? ram 111.3 Em [1.332.] nn_1  
+11,1111- 5,3 511' NT 3.4M
+LE 2.13- raiu Ins-u my us
+
+ 
+
+Page 34 of 84
+
+ Eula-marl:
+Haunt-mu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1'12)
+Int-venue Bum-mu nuns-mu; Emily-mu sebum-1:115
+5 52.453.341- 5 53.552.591 5 52.396.653 5 155.552.559
+Admin - - - -
+51:55! Wat-Ital- 55.451 115.215 253.312 425.514
+Ream-e fur 5515mm! - - - -
+luau-rim! 151151111125th - 15.125] - 15.51]:
+Fri Immt 5 52,551.53 5 53.295352I 5 mm 155.532.133-
+Appuu-um mm
+Hn-Ip': Facilrt-p 5pm 5 2155-. 5 11.155 5 13.12? 52.535
+AJIISWIUHWFEH- 1.655.259 555.225 555.229 3.563.255
+EEAAnlit?iu-?I mls?nte FEE: 54.292 54.525 54.525 122.131
+5155!.? Wraith!- East 125.953 235.432 526.654 945.559
+??lm mum-:15 5 1.355.515 5 1.311155! 5 1.552.121 1.543.126
+minim Emu-wen
+581MB 5 Bail-HI: 5 225.256- 5 31.323 5 259.355 515.525
+Lush-15:19:: 331.555 331.55] (132.459: 535.511
+591 Imurar?: 35.245 35.215 24.355 55.554
+Human- 355.242 552.525 549.134 1.555.254
+AJIISTM Fee: 1.532.959 - - 1.532.559
+Illi'li?ie 4.659.515 1.251.152 4.225.551 14.555255
+F1111. 352.255 352.265 543.151 1.242.551
+5559' 11.552 51.H2 26.955 125.552
+Tali Em 5 2.553.245! 5 5.132.235 5 5,959.11! 19.165.291-
+?nlt? [me-mu.
+
+Dun-11:55: El?n: 5 16.3-l2l2l.252 5 16.355.262 5 15.555.555 51.455.529
+Dan-11:55: El?n: IBHH 1.35.955 512.565 1535.234: 1.351.552
+Putin Eli-1.1. 15.315.555 12.554.952 15.226.923 43.252.515
+Fun-sign 555-1leth 1.515.313 11.111391: mun
+P'I'Ia'rl'ut'r 5.255.525 11.595.37.55 9.942.159 22.251.252
+Dun-11:55: Fham?lat'p 6-55.45] 1.223.355 1.515.529 2.16.522
+A55 525.251 525.31 1.552.425 3.215.522
+Miriam Heal'lh 1.353.516 1.353.35 1.555.524 4.35.545
+Dp?tal 313.413 310.351 33.625 959.39:
+Tnmmuan - - 254.435 261.135
+Dental 55.216 55.215 55.215 192.115
+Tali 5 15,319.51? 5 55,119,953 5 44.255351 136.325.1115
+
+'I'al? Enema :2 54,325,253 5 53,612,215 5 51.566.21.72 155,455,191
+Emmi-e rm hcume [135.353] 5 131.55? 5 193.1? {1.311.113}
+
+ 
+
+ 
+
+ 
+
+Page 35 of 84
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #5
+
+Page 36 of 84
+
+ Finance Dashboard: April 2015
+Finance Dashboard: 
+April 2015
+CCHHS: Monthly Inpatient Days (Stroger & Provident)
+Monthly Inpatient Days (Stroger & Provident)
+12,000 
+
+2014 Budgeted Average
+
+10,000 
+
+P
+Patient Days
+
+8 000
+8,000 
+
+6,000 
+
+4,000 
+
+2,000 
+,
+
+‐
+Mar‐14
+
+Apr‐14
+
+May‐14
+
+Jun‐14
+
+Jul‐14
+
+Aug‐14
+
+Sep‐14
+
+Oct‐14
+
+Nov‐14
+
+Dec‐14
+
+Jan‐15
+
+Feb‐15
+
+Source: CERNER
+
+1
+CCHHS Business Intelligence
+Page 37 of 84
+
+ Finance Dashboard: April 2015
+Finance Dashboard: 
+April 2015
+CCHHS: Monthly
+Monthly Outpatient Clinic Volume
+Outpatient Clinic Volume‐
+Volume‐ all registrations
+all registrations
+90000
+
+80000
+
+70000
+
+60000
+
+Visits
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+0
+Mar‐14
+
+Apr‐14
+
+May‐14
+
+Jun‐14
+
+Jul‐14
+
+Aug‐14
+
+Sep‐14
+
+Oct‐14
+
+Nov‐14
+
+Dec‐14
+
+Jan‐15
+
+Feb‐15
+
+Source: CERNER
+
+2
+CCHHS Business Intelligence
+Page 38 of 84
+
+ Finance Dashboard: April 2015
+Finance Dashboard: 
+April 2015
+CCHHS: Monthly ED Volume (Stroger & Provident)
+Monthly ED Volume (Stroger & Provident)
+16000
+
+14000
+
+12000
+
+Visits
+
+10000
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+Mar‐14
+
+Apr‐14
+
+May‐14
+
+Jun‐14
+
+Jul‐14
+
+Aug‐14
+
+Sep‐14
+
+Oct‐14
+
+Nov‐14
+
+Dec‐14
+
+Jan‐15
+
+Feb‐15
+
+Source: CERNER
+
+3
+CCHHS Business Intelligence
+Page 39 of 84
+
+ Finance Dashboard: April 2015
+Finance Dashboard: 
+April 2015
+CCHHS: Inpatient
+Inpatient Days by Payor
+Inpatient Days by 
+Days by Payor Plan
+Plan (Mar 14 
+(Mar 14 – Feb
+Feb 15)
+15)
+
+4%
+24%
+COMMERCIAL
+MEDICAID
+
+38%
+
+MEDICAID MANAGED CARE
+MEDICARE
+OTHERS
+
+14%
+
+UNINSURED
+
+20%
+
+Source: Siemens
+
+4
+CCHHS Business Intelligence
+Page 40 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Snap Shots (July 14 – Feb 15)
+CountyCare: Snap Shots (July 14 
+Feb 15)
+Current Population by Membership Type
+
+Cumulative Member Months by Membership Type   
+
+ICP
+2%
+
+FHP
+10%
+
+ICP
+1%
+
+FHP
+36%
+
+ACA
+62%
+
+ACA
+89%
+
+Source: CountyCare
+
+5
+CCHHS Business Intelligence
+Page 41 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Snap Shots Feb 15
+CountyCare: Snap Shots Feb 15 
+
+Empanelment by Population
+30000
+25000
+20000
+15000
+10000
+5000
+0
+
+ACA
+
+FHP
+
+ICP
+
+ACA
+
+ACCESS
+
+FHP
+
+ICP
+
+ACA
+
+ACHN
+
+ACCESS
+
+ACHN
+
+FHP
+
+ICP
+
+MHN ACO
+
+MHN ACO
+
+ACA
+
+FHP
+
+ICP
+
+Others
+
+Others
+
+Source: CountyCare
+
+6
+CCHHS Business Intelligence
+Page 42 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Snap Shots (July 14 – Feb 15)
+CountyCare: Snap Shots (July 14 
+Feb 15)
+
+Member Months by Empanelment
+ACCESS
+19%
+
+Others
+22%
+
+ACHN
+28%
+MHN ACO
+31%
+
+Source: CountyCare
+*Others include La Rabida Childrens Hospital
+
+7
+
+CCHHS Business Intelligence
+Page 43 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Snap Shots (July 14 – Feb 15)
+CountyCare: Snap Shots (July 14 
+Feb 15)
+
+ACA Member Months by Empanelment
+ACCESS
+19%
+
+Others
+21%
+
+ACHN
+31%
+
+MHN ACO
+29%
+
+Source: CountyCare
+*Others include La Rabida Childrens Hospital
+
+8
+
+CCHHS Business Intelligence
+Page 44 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Snap Shots (July 14 – Feb 15)
+CountyCare: Snap Shots (July 14 
+Feb 15)
+
+FHP Member Months by Empanelment 
+ACCESS
+15%
+Others
+26%
+
+ACHN
+10%
+
+MHN ACO
+49%
+
+Source: CountyCare
+*Others include La Rabida Childrens Hospital
+
+9
+
+CCHHS Business Intelligence
+Page 45 of 84
+
+ Finance Dashboard: April 2015
+CountyCare:
+CountyCare: Snap Shots (July 14 
+Snap Shots (July 14 – Feb
+Feb 15)
+15)
+
+ICP Member Months by Empanelment 
+Others
+22%
+ACCESS
+33%
+
+MHN ACO
+MHN
+ACO
+31%
+
+ACHN
+14%
+
+Source: CountyCare
+*Others include La Rabida Childrens Hospital
+
+10
+
+CCHHS Business Intelligence
+Page 46 of 84
+
+ Finance Dashboard: April 2015
+CountyCare :
+CountyCare : CCHHS Service Utilization 
+CCHHS Service Utilization ‐ Comparison
+Percentage of Claims for Services at  CCHHS
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+ER
+Dec'14
+
+Hosp IP
+Jan'15
+
+Hosp OP
+Feb'15
+
+PCP
+
+Specialty
+
+% ACA Adults @ CCHHS/ACHN
+
+Source: CountyCare
+
+11
+CCHHS Business Intelligence
+Page 47 of 84
+
+ Finance Dashboard: April 2015
+CountyCare: Member Utilization
+CountyCare: Member
+Utilization – Comparison 
+Comparison (July 14 
+Comparison (July 14 
+(July 14 – Feb 15)
+Feb 15)
+ER Visits per 1000 Member Months
+
+IP Visits per 1000 Member Months
+
+300
+
+300
+
+250
+
+250
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+ACHN
+
+MHN ACO
+Non CCHHS
+
+ACCESS
+
+Others
+
+CCHHS
+
+ACHN
+
+MHN ACO
+Non CCHHS
+
+ACCESS
+
+Others
+
+CCHHS
+
+*Others include La Rabida Childrens Hospital
+Source: CountyCare
+
+12
+CCHHS Business Intelligence
+Page 48 of 84
+
+ Finance Dashboard: April 2015
+Physician Time Distribution: FY2014
+Physician Time
+Distribution: FY2014
+
+1%
+15%
+Teaching
+Admin
+
+26%
+58%
+
+Clinical
+Research
+
+*Stroger physicians only
+
+Source: Self‐Reported Time Logs, (1wk/quarter)
+
+13
+CCHHS Business Intelligence
+Page 49 of 84
+
+ Finance Dashboard: April 2015
+CCHHS:: MLR
+CCHHS: MLR
+CCHHS
+: MLR
+
+Current Medical Loss Ratio
+
+Affordable Care Act (ACA)
+(
+)
+
+86%
+
+85%
+
+Source: CountyCare
+
+14
+CCHHS Business Intelligence
+Page 50 of 84
+
+ Finance Dashboard: April 2015
+CountyCare Pharmacy
+CountyCare Pharmacy
+
+Period
+
+Mbr Mos
+
+CCHHS Mo PMPM
+
+Non‐CCHHS Mo PMPM Mo PMPM
+
+FY2013*
+FY2014
+FY2015**
+Overall
+
+243,654
+
+$    14.77 
+
+$    63.56 
+
+$    78.33 
+
+1,081,951
+311,903 
+1,637,508 
+
+$     14.67 
+
+$  104.51 
+
+$       9.32 
+$    13.66 
+
+$  94.05 
+$    96.42 
+
+$  119.18 
+$  103.37 
+$  110.09 
+
+*For FY2013 data, the waiver process required application approval before pharmacy benefits were 
+available  
+**FY2015 data through 02/2015
+
+15
+CCHHS Business Intelligence
+Page 51 of 84
+
+ Finance Dashboard: April 2015
+CCHHS:
+CCHHS: Days in Accounts Receivable (Gross)
+CCHHS: Days in Accounts Receivable (Gross)
+: Days in Accounts Receivable (Gross)
+180
+168
+
+160
+147
+
+140
+
+134
+
+120
+100
+80
+
+Days in Accounts Receivable 
+(Gross)
+
+60
+
+Moody's Composite 
+Standard
+
+40
+20
+0
+FY2013
+
+FY2014
+
+FY2015
+FY2015 
+
+Source:
+
+16
+CCHHS Business Intelligence
+Page 52 of 84
+
+ Finance Dashboard: April 2015
+CCHHS::: Days Cash on Hand
+CCHHS: Days Cash on Hand
+CCHHS
+Days Cash on Hand
+250
+
+200
+
+150
+Days Cash on Hand
+
+100
+
+96
+
+50
+
+83
+
+Moody's Composite 
+Standard
+
+50
+
+0
+FY2013
+
+FY2014
+
+FY2015
+FY2015 
+
+Source: Finance
+
+17
+CCHHS Business Intelligence
+Page 53 of 84
+
+ Finance Dashboard: April 2015
+CCHHS:: Days Expense in Accounts Payable
+CCHHS: Days Expense in Accounts Payable
+CCHHS
+: Days Expense in Accounts Payable
+70
+60
+50
+
+51
+
+49
+
+40
+30
+
+Days Expense in 
+Accounts Payable
+
+29
+
+Moody's Composite 
+Standard
+
+20
+10
+0
+FY2013
+
+FY2014
+
+FY2015
+FY2015 
+
+Source: Finance
+
+18
+CCHHS Business Intelligence
+Page 54 of 84
+
+ Finance Dashboard: April 2015
+CCHHS:: Operating Margin
+CCHHS: Operating Margin
+CCHHS
+: Operating Margin
+120%
+100%
+80%
+60%
+40%
+
+Operating Margin as % of Total 
+Operating Revenue
+
+20%
+
+Moody's Composite Standard
+y
+p
+
+0%
+‐12%
+
+‐20%
+‐40%
+
+‐12%
+
+‐48%
+
+‐60%
+FY2013
+
+FY2014
+
+FY2015
+FY2015 
+
+Source: Finance
+
+19
+CCHHS Business Intelligence
+Page 55 of 84
+
+ Finance Dashboard: April 2015
+CCHHS:: Average Age of Plant
+CCHHS: Average Age of Plant
+CCHHS
+: Average Age of Plant
+18
+17
+
+16
+14
+
+16
+14
+
+12
+10
+8
+
+Average Age of Plant 
+(years)
+
+6
+
+Moody's Composite 
+Standard
+
+4
+2
+0
+FY2013
+
+FY2014
+
+FY2015 
+
+Source: Finance
+
+20
+CCHHS Business Intelligence
+Page 56 of 84
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #6
+
+Page 57 of 84
+
+ Presentation to the Finance Committee
+CCHHS Board of Directors
+d f
+Donna R. Hart, CIO
+Donna
+R. Hart, CIO
+04/17/2015
+
+Page 58 of 84
+
+1
+
+ Overview of the HIS Dept
+Overview of the HIS Dept.
+HIS is comprised of six teams:
+HIS is comprised of six teams:
+• Clinical Applications
+• Financial Services
+• Integration
+• Infrastructure
+• Telecommunications
+T l
+i ti
+• Clinical Engineering
+
+Page 59 of 84
+
+2
+
+ Overview of the HIS Dept
+Overview of the HIS Dept.
+W
+We support the following organizations:
+t th f ll i
+i ti
+• John H. Stroger Hospital
+J h H S
+H i l
+• Provident Hospital
+• Community Health Centers
+• Cook County Dept. of Public Health
+• Cermak Health Services serving Cook County Jail
+Cermak Health Services serving Cook County Jail
+• Juvenile Temporary Detention Center
+Page 60 of 84
+
+3
+
+ O
+Overview of the HIS Dept.
+i
+f th HIS D t
+HIS
+HIS supports the following volumes:
+t th f ll i
+l
+• Over 6K Users
+Over 6K Users
+
+• 380 VM Servers
+380 VM Servers
+
+• 379 Access Points
+
+• 3K Citrix Sessions for Cerner 
+at Peakk
+
+• 242 Data Closets
+
+• 250 Citrix Sessions for 
+• 10K
+10K End User Devices (Thin 
+E dU D i
+(Thi
+Other Apps at Peak
+Clients, Laptops, Tablets, 
+PC’ss, Printers, Mobile 
+PC
+Printers Mobile
+Devices, and WOW’s)
+• 140 Physical Servers
+140 Ph i l S
+Page 61 of 84
+
+4
+
+ Overview of the HIS Dept
+Overview of the HIS Dept.
+HIS S
+HIS Supports the following volumes:
+t th f ll i
+l
+• 8
+8,490 Email Mailboxes 
+490 Email Mailboxes
+@cookcountyhhs.org
+
+• 8K
+8K O/P Prescriptions Filled 
+O/P Prescriptions Filled
+Daily
+
+• Over 100 HIS Supported 
+Apps
+
+• 13K I/P Doses Dispensed 
+Daily
+
+• 260 Interfaces Running 
+Daily
+• 400K Transactions Daily
+
+Page 62 of 84
+
+5
+
+ O
+Overview of the HIS Dept.
+i
+f th HIS D t
+Each team supports the following systems:
+Each team supports the following systems:
+Financial
+• Siemens‐ Billing
+• Lawson‐AP, IC, GL, PO
+• Patient Access‐
+Registration, Scheduling
+Clinical
+• Electronic Medical 
+Record (Cerner)
+d(
+)
+• Bedside Medical Device 
+I t f
+Interface
+Page 63 of 84
+
+Clinical (Cont.)
+• Laboratory, Radiology, 
+Pharmacy
+• Cardiology
+• Patient Portal
+• Electronic prescribing
+• Document scanning
+• Quality Reporting
+
+6
+
+ 1
+
+
+ 
+
+Elk/1R Adeption Model?
+
+ 
+
+Stage
+Stage 
+Stage 6
+
+Stage 5
+Stage 4
+Stage 3
+Stage 2
+Stage 1
+Stage 0
+
+Cum ulatlve Capabilltiea
+
+Camplete CED tranaaetiena ta share data; Data
+Data c?r'ItiFILJit'y' with El}, 
+
+Phyeician decumentatien templates}, full CD55
+{variance Er. compliance]; Clgseg Leap l-legitatien Adminietratien
+
+Full emplanerrtof Racinlugr PACE
+
+CPUE, Clinical Detisien Supp-art [clinical 
+
+documentatlen {?rm Sheets}, CD55
+{errar checking], PACE available gut-side Radl?l?g'y
+
+CUR, Centrelled l-?ledrcal U?calaulaw,
+CBS, have Dn?lmenl Imaging; HIF tapahl?:
+
+eneiilariea Lat], Rad, Pharmacy - Installed
+
+All Three anillariea Hat Installed
+
+ 
+
+ 
+
+Page 64 of 84
+
+COOK COUNTYHEALTH
+8c HOSPITALS SYSTEM
+
+H78
+
+Cook County Health 3.: Hospitals System - System Flow Diagram
+John H. Stroge r, Jr. Hospital
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+CEA Carelinit NEED Count-gr Care Pwis .
+Mc?esson [harnberlin Edmond: ll'Isl?nce Ueai??tiun 1115 WaiverF-Hm Medial Health me nat'at Inpatient Henna-rs Enterprise H:
+Physician Billing musing past may; Itisit Management ?mm; Waite-rt Pharmar'r
+5?tiger Data Center Stinger Data Center Stinger Data center 5u'oger Data Del'rter 5tloge  Data 9mm
+Quest
+Diamostics M3
+Refeoence tab! In ADT AID-T, Drtle ?'th ?Pram?
+- no 5 ?mm? nor AEIT AEIT r5 Bird-E 
+Lab ??153 Atten-iilg Doctor UptlatE chargesrpe-dzet Loads '5 {linen "not Enid-E
+Diagnosis Elem-cerium If,? Upchl?
+Lu Nuance
+ADT. ADI- HIM Doom;
+'IJIeitl RENE
+singer Data Center 5mm {Add omII ?mm singer Data Center
+streger Data Center Hm? Unit . . 
+Mun; gnaw Cerner Am Results ICAHE
+EareFusmn am . - .
+2012.01-35 Immunnauon Registry-
+SomnoSIar IDH-I
+EIEEP Lib ?mun?EH.- Amhlatcirlp' lulerclHerchart, Ftadhlet,
+Ph?gr WM. ?mile-?Tm mg?iim ?ame?Em Lawson
+I. It: IIEF
+GE MUSE col sun Douments and Mable- Mignliu-? :tmmoe?ehriuer
+cardiology'sttenI ADT: Drders, new": EU
+{cwamerrsuessp WEB .
+ngI' Dal; Center ADT 
+onre Center
+ADT, orders, Halts ADT emits . .
+EE Centrioit'llr GE Fetal Monitonng
+Ed?: 5 orders AID-T Elwin-i.? GE Patient Monitoring
+Data Tlansclibed ADI, Ftesd'ts Drclers AID-T Charges M?m.Hmm ADT ADT. Orders stroger Data Uenter
+Emits long 5 and Up-dat? .
+EBDHD orders Lat: Ric Itacl Ream: F'I'?'u'lilEl DIE-19W Tel-retracting
+. Flad aesuI-rs not, Lab am": Ii-acl deigETranspo-rt
+Dllet?'lf oept System System
+Etl'oger Data Center Data My
+GE PACE TalltTecth EDI: Elhrm pus Phoenix may; 'U'arian Epregcrihe 5n}; ?uottraMedeinPFS
+Imaging Radiology Infectious Disease Endoscopy oaorn Ftlmonargr Radiation Elecu'oIic Employee Health numf?pc?emental
+Hamilton] Gastro-enterologjl 5t mam Elli-stem ?temp-II Prescriptions Staf?ng 
+Strug?lhrla?entu' Etrugerlhda?errtu' Struger?a'la?errtu' Stmger?i'la?entu' Stmger?i'la?entu' Etrugerlhda?errtu' ?tmerl'hlh Etrugerlhda?errtu' WEI-HEW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 65 of 84
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+8: HOSPITALS SYSTEM
+
+CC-I-IHS
+
+Cent Eeuntyr Heal?t Hespitals Svstem - System Flew Diagram
+Eennalt Huspital
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tank Euunt'llr D?ender
+Management Svatem Phoenix MERE I CARE
+:0:me Damn LIHC Datix . . . 
+Inimnlzatlun Registry Wm
+Gem? Wm? '39? ?em 911* Wham Inptimt Pharmacy crisp-cram;
+Host-IT ridge Stinger Dana Center Stmger Dal: Center
+Tatum, FL
+Am M11 Amman-mug
+um!? I nor Badman-gap Hm wu MT, Order:
+Emit: Refemnte Lilli! Halt: m?m- Merl ?urgesg?Pn-citet Leads
+MHH Ma'n Lab 
+4. We? lb:
+S??l?h [immanent Pharmacy
+. Stinger Dana Center
+Infun-n
+5 am, antler:
+Stringer Dal: Center ADI. under: Cerner Millennium 
+[Mid DH {Future 201111135 (If/f
+Res-Its, Charge:
+Wm 2012,9aumhart, Radhlet, Eligiliihf,
+ff; Pharm?et, Fi'stl'llet, Penal-Ema Pa?entsdiedulu- and Mm??mm ePresuihe
+HALE if?! Rmistratimrellr?uile, L'ght?ulme, Dpen Engine, Eu?cmts. EiE-dr?il: Prescriptiem
+mamas: Taking; em sun Documents and Mable Mienliu'rl DIEM CerrHH?:
+Sanger Dal: Center
+nor
+burden, Trima'ih-ed Halt:
+mull: 
+GE MUSE M3
+[amid-DEV System archers Malial Ehnlnu'rt'l'nru-n'ipthn
+
+Eulogy Dala Center Rain may: Ede
+?we? Lab a: Red mlu MT
+Had Emit: MDT
+1 t?
+GE PACE TelltTech EDI: Creative Stetegies. Nuance
+Reclining? Imaging Raining? Infecticm: Disease HmFiuw HIM mdig
+. .
+Shin-germ? {lunar Remuchr 51?:me can?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+8: HOSPITALS SYSTEM
+
+CC-I-IHS
+
+ 
+
+Page 66 of 84
+
+Overview of the HIS Dept.
+p
+HIS 2015 441 (Systems Maint.) Budget:
+VENDOR CONTRACT
+
+FUNCTION
+
+2015 BUDGET AMNT.
+
+Cerner Corp.
+
+EMR
+
+$14,030,545
+
+Xerox Corp.
+
+Staffing Augmentation
+ff
+
+$
+$10,397,248
+
+Siemens (Cerner HS)
+
+Financial
+
+$9,500,000
+
+CDW G MS Agrmnts.
+CDW‐G
+MS A
+t
+
+EA/ECI/P
+EA/ECI/Premier Suppt.
+i S
+t
+
+$1 578 000
+$1,578,000
+
+Soft Computer
+
+Lab
+
+$1,250,000
+
+Xerox – Lawson
+Xerox –
+
+ERP
+
+$850 000
+$850,000
+
+McKesson Pharm.
+
+Pharmacy
+
+$620,000
+
+All Other Contracts
+All Other Contracts
+
+Various
+
+$4 519 374
+$4,519,374
+
+Total All HIS Contracts
+
+$42,745,167
+
+Page 67 of 84
+
+10
+
+ Priority Initiatives 2015 2016
+Priority Initiatives 2015‐2016
+Financiall
+• ICD 10
+• Lawson Materials, Supply Chain Optimization, ERP 
+Integration
+• ABN
+• Professional Billing In house
+• EMPI‐Master Patient Index
+EMPI Master Patient Index
+• Document Quality Review‐automation
+• Clairvia‐ Scheduling and Patient Acuity
+Scheduling and Patient Acuity
+• eSignature
+Page 68 of 84
+
+11
+
+ Priority Initiatives 2015 2016
+Priority Initiatives 2015‐2016
+Regulatory and Quality
+•
+•
+•
+•
+•
+
+Meaningful Use
+g
+Physician Quality Reporting System
+Electronic Prescribing of Controlled Substances
+g
+Primary Care Medical Home Certification
+HIMSS Stage 7
+HIMSS Stage 7
+
+Page 69 of 84
+
+12
+
+ Priority Initiatives 2015 2016
+Priority Initiatives 2015‐2016
+Patient  Care Improvements
+•
+•
+•
+•
+•
+•
+•
+•
+
+Patient Plans of Care
+Fetal Link upgrade
+Patient Portal
+Self Registration Kiosks
+Juvenile Temporary Detention Center
+Juvenile Temporary Detention Center
+Cerner Code Upgrade
+Population Health
+Population Health
+Case Management
+Page 70 of 84
+
+13
+
+ Priority Initiatives 2015 2016
+Priority Initiatives 2015‐2016
+Provider Experience
+•
+•
+•
+
+Single Sign On
+g
+g
+Dragon
+Provider Portal
+Provider Portal
+
+Page 71 of 84
+
+14
+
+ Priority Initiatives 2015 2016
+Priority Initiatives 2015‐2016
+T h l
+Technology
+•
+•
+•
+•
+•
+
+Remote Hosting
+Hardware Upgrades
+Hardware Upgrades
+Application Tier Migration
+Server Upgrades
+Server Upgrades
+Network Upgrades
+
+Interoperability
+•
+•
+•
+•
+
+Health Information Exchange 
+Image Viewer
+CAMM Image Storage
+Laboratory and Cardiology Systems
+Page 72 of 84
+
+15
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #7
+
+Page 73 of 84
+
+    
+   
+   
+   
+   
+   
+   
+April 9, 2015
+   
+   
+   
+To:
+M. Hill Hammock
+Chairman, Board of Directors
+Cook County Health & Hospitals System
+
+Director Lewis Collens
+Chairman, Finance Committee
+Cook County Health & Hospitals System
+
+From:
+
+Douglas L. Elwell
+Deputy Chief Executive Officer
+Cook County Health and Hospitals System
+
+Re:
+
+Emergency Purchases
+
+CCHHS has placed an emergency orders. This memo serves as notification, as required in Section 2.8 of the
+CCHHS Procurement Policy adopted by the Board on April 9, 2009.
+The services of the Arete Healthcare Group will provide Perioperative Services Operational Assessment, Supply
+Chain Optimization, and Interim Staffing. The Cerner purchase will include licensed software support,
+subscriptions, professional services, transaction services, equipment, sublicenses and maintenance for the JTDC
+facility.
+
+CCHHS Emergency Purchases
+April, 2015
+Ref
+
+Vendor
+
+Date of Service
+
+Supply/Service
+
+Amount
+
+Perioperative & SPD Services
+Operational Assessment and
+action plan
+1
+
+Arete Healthcare Group
+
+04/01/2015
+
+Perioperative and SPD Supply
+Chain Optimization
+
+$709,000.00
+
+Interim Staffing
+
+2
+
+Cerner Corporation
+
+3/31/2015
+
+For the provision of Power Point
+of Care and behavioral health
+(inpatient) solution at the Cook
+County Juvenile Temporary
+Detention Center.
+
+Questions and concerns should be directed to me at delwell@cookcountyhhs.org or 312-864-6827.
+Thank you.
+
+Page 74 of 84
+
+$2,350,059.31
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+April 17, 2015
+
+ATTACHMENT #8
+
+Page 75 of 84
+
+ CountyCare Update
+Prepared for: CCHHS Board Finance Committee
+STEVEN GLASS, EXECUTIVE DIRECTOR,
+MANAGED CARE
+APRIL 17
+17, 2015
+
+Page 76 of 84
+
+ Membership
+Data as of: 4/1/2015   Source: Daily Membership (834) File
+
+Key Measures
+Monthly Membership
+ACA
+FHP
+SPD
+Home/Community Waiver (incl DD)
+LTC
+FYTD Member Months
+ACA
+FHP
+SPD
+
+Jan'15
+96,618
+77,292
+17,569
+1,757
+402
+102
+183,180
+156,206
+23,680
+3,294
+
+Feb'15
+127,799
+81,033
+44,919
+1,847
+421
+129
+310,979
+237,239
+68,599
+5,141
+
+Mar'15
+153,118
+85,984
+64,494
+2,640
+474
+156
+464,097
+323,223
+133,093
+7,781
+
+Apr'15
+179,393
+92,270
+84,324
+2,799
+500
+161
+643,490
+415,493
+217,417
+10,580
+
+Change 
+From Prior 
+Month
+Trend
+
+17.2%
+
+7.3%
+
+30.7%
+
+6.0%
+
+5.5%
+
+3.2%
+
+FYTD'15 
+Budget or 
+g
+Goal
+156,396
+            77,619
+            74,506
+             4,271
+
+% to 
+Budget/
+g
+Goal
+114.7%
+118.9%
+113.2%
+65.5%
+
+691,300
+          412,871
+          259,012
+           19,417
+
+93.1%
+100.6%
+83.9%
+54.5%
+
+Gender = 56% Female; 44% Male
+Gender 
+56% Female; 44% Male
+Average age = Female: 32 y/o; Male: 31 y/o
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 77 of 84
+
+2
+
+ Membership Trend to Budget
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 78 of 84
+
+3
+
+ Health Plan Comparison
+Source: IL HFS, Greater Chicago Region
+FHP/ACA Adults, Greater Chicago Region
+
+Health Plan
+Family Health Network
+CountyCare
+H
+Harmony Health Plan
+H lth Pl
+Blue Cross Blue Shield
+IlliniCare Health Plan
+Meridian Health Plan
+Aetna Better Health Inc.
+Advocate Accountable Care (ACE)
+Advocate Accountable Care (ACE)
+SmartPlan Choice (ACE)
+Community Care Partners (ACE)
+MyCare Chicago (ACE)
+Loyola Family Care (ACE)
+HealthCura (ACE)
+HealthCura (ACE)
+UI Health Plus (ACE)
+Better Health Network (ACE)
+Illinois Partnership for Health (ACE)
+Next Level (CCE serving ACA only)
+Lurie Children's Health Partners (CSN CCE)
+(
+)
+LaRabida Coordinated Care Network (CSN CCE)
+Total
+
+Oct'14
+Nov'14 Dec'14
+#
+#
+#
+89,964 107,840 151,195
+88,858
+85,453
+83,733
+111 073 111,300
+111,073
+111 300 123,966
+123 966
+1,482
+7,977
+43,575
+1,578
+10,520
+31,944
+3,633
+14,195
+33,848
+523
+9,875
+22,848
+7 597
+7,597
+13 812
+13,812
+34 495
+34,495
+32
+2,007
+17,661
+22
+302
+9,700
+478
+1,598
+1,937
+150
+1,665
+3,390
+28
+181
+14 318
+14,318
+4
+39
+609
+11
+155
+976
+298
+2,160
+3,731
+41
+263
+434
+92
+414
+801
+4
+34
+92
+305,868 369,790 579,253
+
+Feb'15
+Jan'15
+#
+#
+% Total
+207,969
+213,537
+19.1%
+93,245
+123,920
+11.1%
+138 336
+138,336
+120 630
+120,630
+10 8%
+10.8%
+78,639
+112,352
+10.1%
+76,603
+102,208
+9.1%
+66,773
+87,161
+7.8%
+52,375
+77,676
+7.0%
+68 865
+68,865
+75 948
+75,948
+6 8%
+6.8%
+44,374
+60,162
+5.4%
+33,805
+37,195
+3.3%
+9,066
+30,628
+2.7%
+17,030
+22,060
+2.0%
+21 807
+21,807
+20 908
+20,908
+1 9%
+1.9%
+2,691
+12,926
+1.2%
+9,451
+11,860
+1.1%
+3,564
+3,676
+0.3%
+1,590
+2,174
+0.2%
+1,485
+,
+1,596
+,
+0.1%
+583
+595
+0.1%
+928,251 1,117,212
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 79 of 84
+
+% Change 
+# Change 
+h
+h
+Month 
+Month 
+Prior
+Prior
+        5,568
+2.7%
+     30,675
+32.9%
+  (17,706)
+(17 706)
+‐12.8%
+12 8%
+     33,713
+42.9%
+     25,605
+33.4%
+     20,388
+30.5%
+     25,301
+48.3%
+      7,083
+7 083
+10 3%
+10.3%
+     15,788
+35.6%
+        3,390
+10.0%
+     21,562
+237.8%
+        5,030
+29.5%
+        (899)
+‐4
+4.1%
+1%
+     10,235
+380.3%
+        2,409
+25.5%
+           112
+3.1%
+           584
+36.7%
+         111
+7.5%
+              12
+2.1%
+   188,961
+20.4%
+4
+
+ Health Plan Comparison
+Source: IL HFS, Chicago
+g Region
+g ((includes suburban Cook & Collar
+Counties)
+ICP Greater Chicago Region (SPD population)
+g
+g
+(
+p p
+)
+Health Plan
+Aetna Better Health Inc.
+IlliniCare Health Plan Inc.
+IlliniCare Health Plan Inc.
+Community Care Alliance of Illinois
+Blue Cross/Blue Shield of Illinois
+Humana Health Plan
+Meridian Health Plan
+Cigna HealthSpring of Illinois
+g
+p g
+Next Level (CCE)
+CountyCare
+EntireCare (CCE)
+Together4Health (CCE)
+Be Well (CCE)
+Total
+
+Oct'14
+Nov'14 Dec'14
+#
+#
+#
+28,547
+29,377
+29,180
+28,018
+28,422
+28,067
+6,954
+7,726
+7,766
+4,610
+5,422
+5,597
+3,679
+4,162
+4,603
+4,164
+4,059
+4,188
+3,193
+,
+4,143
+,
+4,142
+,
+3,987
+4,616
+3,826
+352
+1,169
+1,535
+2,169
+2,211
+2,179
+1,521
+1,530
+1,582
+1,450
+1,396
+1,374
+88,644
+94,233
+94,039
+
+Jan'15
+#
+29,276
+28,058
+7,804
+5,803
+4,602
+4,332
+4,337
+,
+3,666
+1,764
+2,588
+2,236
+1,387
+95,853
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 80 of 84
+
+Feb'15
+#
+% Total
+29,130
+2.6%
+27,785
+2.5%
+7,793
+0.7%
+5,998
+0.5%
+4,542
+0.4%
+4,332
+0.4%
+4,300
+,
+0.4%
+3,516
+0.3%
+2,586
+0.2%
+2,584
+0.2%
+2,309
+0.2%
+1,380
+0.1%
+96,255
+
+# Change  % Change 
+Month 
+Month 
+Prior
+Prior
+        (146)
+‐0.5%
+        (273)
+‐1.0%
+1.0%
+          (11)
+‐0.1%
+         195
+3.4%
+            (60)
+‐1.3%
+          ‐
+0.0%
+          ((37))
+‐0.9%
+        (150)
+‐4.1%
+         822
+46.6%
+            (4)
+‐0.2%
+            73
+3.3%
+              (7)
+‐0.5%
+           402
+0.4%
+
+5
+
+ Membership
+p Adds & Deletions
+Data as of: 3/30/2015   Source: Daily Membership (834) File
+
+Month Begin Membership
+ACA Adults
+FHP 
+SPD Community
+Home/Community Waiver
+Total Net Change
+Month End Membership
+
+ Net Change in Membership by Category
+Dec'14
+Dec
+14
+Jan'15
+Jan
+15
+Feb'15
+Feb
+15
+Mar'15
+Mar
+15
+Apr 15
+Apr'15
+82,374
+85,787
+94,819
+123,094
+145,875
+(514)
+30
+391
+4,868
+6,297
+,
+8,830
+,
+27,774
+,
+17,857
+,
+19,824
+,
+3,606
+321
+192
+110
+56
+154
+30
+15
+6
+(5)
+27
+3,413
+9,032
+28,275
+22,781
+26,275
+85,787
+
+94,819
+
+123,094
+
+145,875
+
+172,150
+
+Auto‐assignments of FHP population continues to have positive impact 
+on overall membership
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 81 of 84
+
+6
+
+ Pharmacy Trend to Budget
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 82 of 84
+
+7
+
+ Pharmacy Trend to Budget
+Contributing Factors to ACA PMPM Increase
+1 ~ 6,000 new ACA members in March 
+1.
+6 000 new ACA members in March
+on 90‐day ‘Continuity Of Care.’
+ March non‐formulary, single‐source 
+brand with prior authorization down 
+to 64% from 69% in February.
+2. $500,000 increase for Harvoni (Hep C). This 
+alone accounts for $5 (or 25%) of total
+alone accounts for $5 (or 25%) of total 
+PMPM increase.
+ 56% of new requests are being 
+denied.
+
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 83 of 84
+
+8
+
+ ICP Rate Adjustment
+Current
+Composite
+PMPM
+
+Previous 
+Composite
+Composite 
+PMPM
+
+% Change
+
+Suburban Cook 
+County
+
+$1,447.39
+
+$1,483.62
+
+(2.4%)
+
+Chicago Metro
+
+$1,540.07
+
+$1,581,71
+
+(2.6%)
+
+Region
+
+Retroactive to 1/1/2015; Effective until 12/31/2015
+Consistent with State‐wide reductions
+Estimated budget impact = ($4,829,058) based on 
+FY’15 budgeted ICP membership
+www.countycare.com   312.864.8200   Sponsored by the Cook County Health & Hospitals System.
+
+Page 84 of 84
+
+9
+
+ 

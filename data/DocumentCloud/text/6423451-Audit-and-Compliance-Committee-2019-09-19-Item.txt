@@ -1,0 +1,363 @@
+Corporate Compliance Report
+Audit & Compliance Committee of the Board of Directors
+September 19, 2019
+
+ Meeting Objectives
+Review
+ Cook County Health as a Provider of Health Care Services
+o County Fiscal Year-to-Date (F-YTD) 2019 Provider Metrics (Q 1-2-3)
+o Q4 Project: Auditing & Monitoring Code Assignment
+
+ CountyCare Medicaid Health Plan Special Investigation Unit (SIU)
+o Focus Area: SIU Activity
+o State Fiscal Year (S-FY) 2019 SIU Metrics
+
+2
+
+ 
+
+
+Cook County Health as a Provider of Care
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Key Components of a Compliance Program
+Seven Essential Elements of Compliance1
+1: Written policies and procedures
+2: A designated corporate compliance officer and compliance committee
+3: Effective training and education
+4:
+
+Open lines of communication
+
+5: Enforcement through well-publicized disciplinary guidelines
+
+6: Auditing and monitoring
+7: Corrective action plans
+1
+
+Compliance Program elements are cited within the Patient Protection and Affordable Care Act of 2010 (PPACA) Sections 6401
+in addition to Sections 6102 and OIG guidance materials
+4
+
+ F-YTD 2019 Contacts by Category
+CCH as a Provider of Care – Dec 2018 through Aug 2019
+Categories
+Privacy/Security (HIPAA)
+
+201
+
+Accurate Books
+
+71
+
+Regulatory/Policy
+
+69
+
+Human Resources
+
+65
+
+Contracts
+
+33
+
+Conflict of Interest
+
+33
+
+Fraud Waste & Abuse
+
+24
+
+Other
+
+63
+
+5592
+2 Of
+
+the reactive contacts,
+21% were validated/substantiated.
+
+5
+
+ Key Components of a Compliance Program
+Seven Essential Elements of Compliance
+1: Written policies and procedures
+2: A designated corporate compliance officer and compliance committee
+3: Effective training and education
+4: Open lines of communication
+5: Enforcement through well-publicized disciplinary guidelines
+
+6:
+
+Auditing and monitoring
+
+7: Corrective action plans
+
+6
+
+ FY 2019 Auditing and Monitoring Project
+Developed from Industry Standards & Internal Activity
+Areas of Focus: Medical Records Coding
+OIG3 Work Plan
+FY 2018+FY 2019
+
+SOURCE
+
+AHIMA4
+Web-site
+
+HCCA5
+Data
+
+CCH Historical
+Public Data
+
+CCH Internal
+Input
+
+INPATIENT
+DRG 313 – Chest Pain
+
+
+
+
+
+
+
+
+
+
+
+DRG 690 - Kidney and Urinary
+Tract Infection w/o Major
+Complication Comorbidity
+
+
+
+
+
+
+
+
+
+
+
+Cardiac Catheterizations
+
+
+
+
+
+
+
+
+
+
+
+Dermatology Visits and
+Procedures
+
+
+
+
+
+
+
+
+
+
+
+OUTPATIENT
+
+OIG refers to the US Department of Health and Human Services Office of Inspector General
+4 AHIMA refers to the American Health Information Management Association, a nationally
+recognized professional association for Health Information Management professionals
+5 HCCA refers to the Health Care Compliance Association, a national organization for healthcare
+compliance professionals
+3
+
+7
+
+ FY 2019 External Coding Audit Project
+Inpatient Coding
+Reviewing 25 Records/Claims for facility and professional-fee coding in 2 Diagnosis Related Groups (DRG)
+Categories:
+ DRG 313 - Chest Pain
+
+o High Frequency DRG
+o May indicate lost opportunity (not capturing more specific diagnosis(es)
+o Validate if compliant with the admission criteria.
+ DRG 690 – Kidney and Urinary Tract Infections W/O Major Complication Comorbidity (MCC)
+o High Frequency DRG
+o May indicate lost opportunity (not capturing MCC)
+o May indicate documentation improvement needed.
+
+8
+
+ FY 2019 External Coding Audit Project
+Outpatient Coding
+Probe sample of 25 Records/Claims for facility and professional-fee coding in 2 Outpatient Areas:
+ Cardiac Catheterizations
+o Complex Coding where Add-on procedures can be under or over coded
+
+o Supplies and other services not captured correctly
+ Dermatology
+o High Volume of visits and procedures
+o May indicate lost opportunity for capturing all services/procedures based on documentation
+and coding
+
+9
+
+ Questions?
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+
+
+Medicaid Health Plan Special Investigation Units (SIU)
+
+CountyCare Compliance Structure
+2019 CountyCare Organizational Chart
+CCH Audit &
+Compliance
+Committee
+Chief Compliance
+& Privacy Officer
+
+CC
+Executive
+Committee
+
+CC
+Compliance
+Committee
+
+Delegated Special
+Investigation Units (SIU)
+
+SIU for
+Medical/
+Behavioral
+
+CountyCare
+Compliance
+Officer
+
+SIU for
+Pharmacy
+
+Compliance
+Analyst
+
+SIU for
+Dental/Vision
+
+CC CEO
+Compliance
+Analyst
+
+SIU for
+Transportation
+12
+
+ Special Investigation Unit (SIU) Activity
+State Fiscal Year 2019 (July 1, 2018 – June 30, 2019)
+Number of Tips1
+
+Number of
+Investigations2
+
+Number of
+Audits3
+
+Amount of
+Overpayments
+Collected4
+
+237
+
+170
+
+26,424
+
+$ 1,986,699.41
+
+1
+
+Tips
+
+Incidents of suspected FWA by a provider or member; not vetted
+
+2
+
+Investigations
+
+Any tip that has monetary exposure; provider or member specific
+
+3
+
+Audits
+
+Claim lines implicated by data mining or algorithms;
+Data mining/algorithms are trend specific, not provider specific
+
+4
+
+Overpayments
+Collected
+
+Money actually recouped and in the bank; small amount may be paid
+back to the provider on a corrected claim
+
+Annually, CountyCare processes >5 million claims
+
+13
+
+ Investigations vs. Audits
+Examples
+Investigations
+
+Audits
+
+Provider upcoding Evaluation & Management
+codes
+
+Granulocyte-colony stimulating factor (G-CSF),
+with Chemotherapy
+
+Transportation provider billing for trips not
+performed
+
+Date Span Code Frequency
+
+Dentist billing for services provided by noncredentialed providers
+
+Multiple Surgery Reduction (100/50/25/25)
+
+Home care provider billing for services not
+rendered
+
+Preventative Medicine with E&M Code
+
+14
+
+ Questions?
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

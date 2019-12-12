@@ -1,0 +1,862 @@
+CountyCare
+Compliance
+Program
+Annual Report
+Fiscal Year 2018
+December 1, 2017 – November 30, 2018
+
+February 28, 2019
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+
+Table of Contents
+I.
+
+Introduction ......................................................................................................................... 3
+
+II.
+
+Building Blocks – Program Infrastructure and Scope......................................................... 4
+
+III.
+
+Compliance Program Structure – Performance of the Elements ........................................ 6
+
+A.
+
+Policies and Procedures ....................................................................................................... 6
+
+B.
+
+Ad Hoc Activities/Guidance .................................................................................................7
+
+C.
+
+Compliance Office and Committees .................................................................................... 8
+
+D. Education and Training ......................................................................................................10
+E.
+
+Effective Lines of Communication – Receiving and Responding to Complaints ............... 11
+
+F.
+
+Enforcing Standards ........................................................................................................... 15
+
+G. Auditing and Monitoring ....................................................................................................16
+H. Risk Assessment .................................................................................................................16
+I.
+IV.
+
+Identification of Systemic Issues ........................................................................................ 17
+Looking Ahead .................................................................................................................... 17
+
+Page 2
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+I. Introduction
+CountyCare is a Managed Care Community Network (MCCN) health plan offered by Cook County
+Health (CCH) pursuant to a contract with the Illinois Department of Healthcare and Family
+Services (HFS). Since late 2012, CCH has partnered with the State of Illinois, initially through the
+State of Illinois federal Section 1115 demonstration waiver which was an early start on Medicaid
+expansion, then in 2014, CountyCare transitioned into the MCCN. By working to employ the
+advantages of our parent organization, CCH, CountyCare is able to uniquely promote achievement
+of the Triple Aim: 1) improving the member experience, 2) improving the health of populations
+overall, while 3) reducing the cost of care. The operation of the CountyCare MCCN is facilitated
+through CCH and its various subcontractors.
+To adhere to the Centers for Medicare & Medicaid Services (CMS) Managed Care Program
+Integrity requirements 1, contractual provisions in the MCCN Agreement with HFS, and the
+elements of an effective compliance program as recommended in the Department of Health and
+Human Services Office of Inspector General (OIG) Compliance Program Guidance publications,
+CountyCare developed and implemented the CountyCare Compliance Program. The CountyCare
+Compliance Program is designed to demonstrate the health plan’s ongoing commitment to
+promoting ethical and lawful conduct consistent with all applicable laws, regulations, and
+contractual requirements, as well as CCH policies, procedures, and Code of Ethics/Standards of
+Conduct.
+This Annual Report presents the activities throughout county fiscal year 2018. The CountyCare
+Managed Care Compliance Program is under the executive leadership of Cathy Bodnar, Chief
+Compliance and Privacy Officer, and the operational leadership of Elizabeth Festa, CCH
+Compliance Officer dedicated to CountyCare.
+During this past fiscal year, CountyCare Health Plan, as a whole, accomplished many goals and
+implemented a variety of initiatives. A few health plan achievements include:
+ CountyCare Became the Largest Medicaid Health Plan in Cook County: In FY2018,
+CountyCare acquired the Medicaid membership of both Aetna and Family Health Network
+(FHN), becoming the largest Medicaid Health Plan in Cook County.
+ Medicaid Redetermination Efforts: CountyCare sought to retain membership by helping
+members with their Medicaid redetermination process. Triggers were developed for
+providers, prompts were embedded within providers’ health information systems, and
+redetermination events throughout the county were held to help members maintain their
+Medicaid eligibility and CountyCare membership.
+ CMS Review of Illinois Medicaid Program Integrity Activity: CMS conducted a focused
+review of Illinois Medicaid to determine the extent of program integrity oversight of the
+managed care program at the state level and to assess the program integrity activities
+performed by a random selection of the state’s managed care organizations. CountyCare
+1
+
+See 42 C.F.R. §438.608.
+Page 3
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+was selected, supplied numerous documents to support program integrity efforts, and
+Corporate Compliance travelled to Springfield to participate in interviews with CMS and
+HFS, strengthening its relationship with both entities and providing valuable insight into
+the Program Integrity activities of CountyCare.
+The Corporate Compliance Program dedicated to CountyCare was directly involved in each major
+initiative to assure the execution adhered to and incorporated relevant regulatory directives and
+contractual requirements.
+II. Building Blocks – Program Infrastructure and Scope
+The Annual Report begins with a look at the structure and activities of the Program that
+incorporate efforts to foster an infrastructure that produces a comprehensive compliance
+program for CountyCare and its affiliates. The existing Departmental Organization Chart follows:
+Compliance Organization Chart
+
+CCHHS
+Board of Directors
+
+Audit & Compliance
+Committee of the
+Board
+
+CCHHS
+Chief Executive Officer
+
+Chief Compliance
+& Privacy Officer
+
+Compliance
+Officer (Provider)
+System
+Compliance
+Coordinator
+
+Compliance
+Analyst
+Compliance
+Analyst
+
+Compliance
+Officer
+(CountyCare)
+
+Privacy Officer
+(Budgeted)
+
+Compliance
+Analyst
+
+Compliance
+Analyst
+
+The lightly shaded positions indicate the new hires within FY18. Two (2) of the 3-dedicated
+CountyCare Compliance Program positions were vacant for several months within the fiscal year,
+including the Compliance Officer assigned to CountyCare. This placed a significant strain on the
+existing resources. In the interim, Cathy Bodnar, functioned in an operational leadership capacity
+with significant, noteworthy support from Cory Otto, Compliance Analyst. Management of the
+core elements of the Program continued which was critical to the ongoing success of the
+CountyCare Compliance Program.
+Page 4
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+CountyCare Compliance Program Scope
+The CountyCare Compliance Program is tasked with outlining guidelines and providing insight
+to:
+ Comply with the CMS Managed Care Program Integrity requirements and the terms of the
+CountyCare Health Plan contract with HFS;
+ Prevent, detect and eliminate fraud, waste, abuse, and financial misconduct;
+ Protect health plan members, providers, CCH, the State, and the taxpaying public from
+potential fraudulent activities;
+ Respond and provide guidance related to privacy, confidentiality, and security matters;
+ Provide high level oversight to the health plan’s Grievances and Appeals Program; and
+ Understand and focus on high-risk areas that have the greatest potential for noncompliance with federal and state regulatory and contractual requirements.
+Further, the program aims to implement a working communication strategy to increase the
+CountyCare workforce awareness, including vendors and subcontractors, of the following topics:
+ Code of Ethics;
+ Privacy, Confidentiality, and Security;
+ Accessibility of the Compliance Officer and the compliance team;
+ Availability through multiple modalities;
+ Responsibility to report potential/actual issues;
+ Consequences of not reporting; and
+ Non-retaliation.
+The following types of activities fall into the CountyCare Compliance Program purview:
+ Interpretation of contracts, laws, rules, regulations, and organizational policy as they
+relate to CountyCare Compliance
+ Accurate Books and Records
+ Anti-kickback Activities
+ Conflict of Interest
+ False Claims
+ Financial Integrity
+ Fraud, Waste and Abuse
+ Member Privacy, Confidentiality, and Security (HIPAA)
+The CountyCare Compliance Program scope of work is subject to ongoing review and revision as
+deemed necessary to ensure ongoing compliance. It is designed to accommodate future changes
+in regulations and laws and may be updated to address activities not currently covered, issues
+related to new service offerings, or regulatory requirements.
+
+Page 5
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+III.
+
+Compliance Program Structure – Performance of the Elements
+
+This section of the report serves to demonstrate the effectiveness and provide an assessment of
+program operations using the seven (7) Compliance Program Elements of a comprehensive
+compliance program, as outlined in the CMS Managed Care Program Integrity requirements 2 and
+by contractual provisions in the MCCN Agreement.
+Element 1
+The distribution of written Code of Ethics, as well as written policies and procedures that
+promote the health plan’s commitment to compliance (e.g., by including adherence to
+compliance as an element in evaluating managers and employees) and that address specific
+areas of potential fraud, waste and abuse. The CCH Code of Ethics applies to all CountyCare
+personnel, providers, agents and subcontractors. The Code of Ethics, as well as CCH’s policies
+and procedures, support CountyCare’s commitment to comply with all federal and state
+standards, including but not limited to, applicable statutes, regulations and sub-regulatory
+guidance and contractual requirements.
+A.
+
+2
+
+Policies and Procedures.
+Compliance staff engaged in the following activities to promote and establish an effective
+compliance program for the CountyCare Health Plan:
+1. Incorporated new and revised 2018 MCCN contractual language into vendor
+contracts and Requests for Proposals.
+2. Continued to follow the CountyCare Compliance Plan that focuses exclusively on
+outlining the compliance responsibilities of the health plan and program design
+for implementation, as well as specific CountyCare compliance policies for high
+risk areas focused on health plan operations.
+3. Ensured that CountyCare personnel, providers, agents and subcontractors had
+access to compliance documentation electronically and were provided with hard
+copies of compliance policies and procedures upon request.
+4. Obtained copies of compliance related policies and procedures, where needed,
+from Evolent, CountyCare’s Third-Party Administrator (TPA) and the various
+delegated vendors providing services for CountyCare.
+5. Reviewed, in conjunction with the TPA, twenty-four (24) policies addressing the
+following areas,
+o Fraud, Waste, Abuse, and Financial Misconduct;
+o Compliance Auditing and Monitoring;
+o Provider Audit and Recovery and Appeals Process;
+o Compliance Reporting and Non-Retaliation;
+o Exclusion Screening, License Verification, and Background Checks;
+o Conflict of Interest;
+o Delegated Entity Oversight/Monitoring;
+
+See 42 C.F.R. §438.608.
+Page 6
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+o
+o
+B.
+
+Health Plan Marketing; and
+Subpoena Handling.
+
+Ad Hoc Activities/Guidance
+Corporate Compliance worked with operational areas to assess compliance with
+policies, procedures and/or regulatory requirements and, in certain instances, assisted
+in the development of new policies and procedures.
+Examples of areas assessed:
+
+
+Health Plan Marketing Policy Compliance Review: Due to the ever-changing
+complex regulatory environment of Medicaid managed care plan marketing,
+Compliance reviewed and tracked all marketing materials before they were
+submitted to HFS for approval. In FY18, Compliance conducted 37 marketing and
+material reviews. 36 of 37 reviews conducted were approved by Compliance and
+subsequently, HFS. Each CountyCare initiative reviewed may contain multiple
+materials, however, each review is counted individually.
+
+
+
+Medical and Prior Authorization Policies: Worked with Evolent, CountyCare’s
+TPA, to compile all medical payment and prior authorization policies and to
+identify areas of need.
+Authorized Representatives: Provided written guidance to the member call center
+regarding when they could speak with a member’s representative based on a verbal
+consent.
+
+
+
+Page 7
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+
+
+
+
+Abuse, Neglect, and Exploitation: Analyzed and provided guidance to CountyCare
+operations on the role as a mandated reporter of Critical Incidents and potential
+Abuse, Neglect, and Exploitation of members.
+New Prior Authorization and Utilization Management System: Partnered with the
+CountyCare Quality Department to ensure the upgraded method for
+communicating prior authorizations and delivering care management comports
+with accepted privacy and security standards.
+
+Element 2
+The designation of a Chief Compliance Officer and other appropriate bodies, e.g., a corporate
+compliance committee, charged with the responsibility of operating and monitoring the
+compliance program, and who reports directly to the CEO and the governing body.
+C.
+
+Compliance Office and Committees
+Cathy Bodnar, the Chief Compliance and Privacy Officer, reports to both the CCH Audit &
+Compliance Committee of the Board and the CCH Chief Executive Officer. In turn, the
+CCH Audit & Compliance Committee of the Board and the CCH Chief Executive Officer
+each report to the CCH Board of Directors.
+The CCH Compliance Officer responsible to assist the Chief Compliance and Privacy
+Officer in the operation of the CountyCare Compliance Program is Elizabeth Festa. The
+primary duties of the Compliance Officer assigned to CountyCare include the following:
+ Serving in a leadership capacity to develop the CountyCare Compliance Program
+in conjunction with the Chief Compliance and Privacy Officer;
+ Collaborating with CountyCare operational leadership to facilitate operational
+ownership of compliance;
+ Overseeing the Plan’s Program Integrity Program;
+ Participating in CountyCare risk assessments to understand potential
+vulnerabilities;
+ Establishing a structured process for regulatory review, monitoring, and
+dissemination of information related to Corporate Compliance;
+ Periodically revising the Corporate Compliance Program Plan, with input from the
+Audit & Compliance Committee of the Board of Directors and Executive
+Management in light of changes directed to the needs of the health plan and the
+laws and policies of federal, state, and county bodies;
+ Modifying policies, procedures, and projects to reflect changes in laws and
+regulations;
+ Developing and coordinating compliance projects with CountyCare and delegated
+vendors;
+ Performing interviews with all key personnel to validate compliance with
+established policies and procedures and applicable regulations in conjunction with
+other personnel, as deemed necessary;
+
+Page 8
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+
+
+
+
+
+
+
+Completing ongoing assessments to evaluate potential strengths and weaknesses
+and to determine the adequacy of the overall CountyCare Corporate Compliance
+Program to ensure compliance, as deemed necessary;
+Providing guidance related to HIPAA and information sharing;
+Monitoring the health plan’s Grievances and Appeals Program for patterns and
+trends while providing high level oversight;
+Providing recommendations to correct any potential weaknesses or areas of noncompliance discovered; and
+Performing follow-up reviews to ensure action plans have been adequately
+implemented.
+
+The Audit & Compliance Committee of the Board advises the CCH Board of
+Directors regarding the implementation of standards and processes to assure professional
+responsibility and honest behavior, compliance with regulatory requirements, and risk
+management. The Audit & Compliance Committee of the Board receives periodic updates
+regarding the CountyCare Compliance program, including Fraud, Waste and Abuse
+(FWA) metrics and assessments of risk areas.
+The CountyCare Compliance Committee, chaired by the Compliance Officer
+assigned to CountyCare, meets monthly and provides oversight of and guidance to
+CountyCare operations to ensure regulatory compliance and fulfill Compliance Program
+requirements, which include the implementation and operation of the Compliance
+Program. The Compliance Committee also reviews CountyCare activity pursuant to
+Compliance Program requirements and contractual requirements, including, but not
+limited to audits, monitoring activity, and corrective action plans. The Committee reports
+through the Chief Compliance and Privacy Officer to the Audit & Compliance Committee
+of the Board.
+The Fraud, Waste and Abuse Workgroup, chaired by the CountyCare Compliance
+Officer with attendance by the Chief Compliance and Privacy Officer, transitioned from a
+monthly workgroup meeting to hoc committee convened to review the structure and
+effectiveness of the fraud, waste and abuse detection efforts.
+The CountyCare Executive Committee is comprised of CCH senior delegates and
+CountyCare leadership and is responsible for providing oversight, guidance and support
+to CountyCare leadership to support the achievement of agreed upon goals in a manner
+consistent with a provider-sponsored organization. The Committee provides useful
+feedback to CountyCare leadership regarding Plan performance and promotes alignment
+between CCH objectives and CountyCare programs. The Committee meets once every two
+months.
+The HFS-OIG MCO Subcommittee is comprised of HFS-OIG and Managed Care
+Organization’s (MCO) compliance members involved in the program integrity functions
+of their respective MCOs. This subcommittee meets monthly to review and share
+Page 9
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+information regarding fraud, waste, and abuse activity as it relates to specific providers
+and trends.
+Corporate Compliance Program Integrity Meetings with delegated vendors occur on
+a weekly, bi-weekly, and monthly cadence, depending on the vendor and amount of
+activity. Corporate Compliance oversees the vendors’ activities and uses these meetings
+to approve, modify, or reject the direction of investigations and recoupment activity.
+The Delegated Vendor Oversight Committee meets quarterly to provide oversight
+of the operations affecting the scope of functions of delegated vendors and subcontractors
+to ensure compliance with statutory and contractual requirements. The Committee also
+provides oversight of quarterly delegation audits, monthly joint operations meetings and
+regular monitoring of member and provider complaints. Identified areas of risk that fall
+under the purview of Corporate Compliance are referred to Corporate Compliance for
+assessment.
+Element 3
+The development and implementation of regular, effective education and training programs for
+all affected employees.
+D.
+
+Education and Training
+1. CountyCare – Provider MCCN Onboarding and New Employee/Contractor
+Orientation
+ Reviewed and updated provider onboarding orientation materials to fully
+incorporate corporate compliance requirements.
+2. Targeted Education
+ Reviewed the MCCN Agreement for CountyCare training requirements and
+responsibilities and compared training materials submitted by the TPA and
+other delegated vendors to ensure compliance.
+ Provided regulatory summary regarding updates to 42 CFR Part 2 related
+to the disclosure of substance/alcohol abuse records.
+ Conducted a “HIPAA for Care Coordinators” and “HIPAA for Customer
+Service Members” targeted training for staff who work directly with
+members. Educated providers and care coordinators through guidance
+documents regarding HIPAA and information sharing for care
+coordination purposes. Created additional documents about HIPAA for
+care coordination staff who were part of the acquisition of FHN and Aetna
+membership.
+ Provided guidance to CountyCare employees regarding Power of Attorney
+documents and authority.
+3. Annual CCH Compliance Education
+ Reviewed mandatory CCH training requirement to ensure that CCH
+trainings paralleled contractual and regulatory requirements for the health
+plan workforce. Identified need to include Critical Incident training for
+Page 10
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+CountyCare staff; reviewed classroom training content to validate
+contractual requirement was met.
+Element 4
+The maintenance of a process, such as a hot line, to receive complaints, and the adoption of
+procedures to protect the anonymity of complainants and to protect whistleblowers from
+retaliation.
+E.
+
+Effective Lines of Communication – Receiving and Responding to
+Complaints
+1. Infrastructure Activities
+ Monitored TPA’s support and assistance to CountyCare members through the
+TPA’s hotline service. Met weekly with TPA’s compliance staff to discuss
+contacts received through the hot line and appropriate follow-up/responses.
+ Shared the accessibility of reporting concerns to the CountyCare workforce
+through:
+o A hotline service by a third party to preserve anonymity if desired;
+o A separate toll-free number for privacy breaches.
+o Open door policies of both the Compliance Officer assigned to CountyCare
+and the Chief Compliance and Privacy Officer;
+o Two (2) e-mail addresses for Compliance
+(compliance@cookcountyhhs.org) and Privacy
+(privacy@cookcountyhhs.org).
+ Established relationships and engaged internal and external resources to assist
+with investigations.
+ Identified trends and patterns to mitigate organizational risks and facilitate
+operational improvement.
+ Presented trends and patterns to the CountyCare Compliance Committee,
+CountyCare Executive Committee, Audit & Compliance Committee of the
+Board and the Managed Care Committee of the Board.
+2. Process for Responding to Contacts and Complaints
+Maintained processes for contact, complaint management, and resolution as
+follows:
+ Investigated allegation;
+ Determined the area(s) affected;
+ Collaborated with operational leadership and appropriate entities;
+ Reviewed and followed contractual obligations, organizational policy, federal,
+state, and county regulations related to the incident for mitigation and
+remediation;
+ Determined and facilitated a resolution which may include a corrective action
+plan including education as needed; and
+ Responded to the complainant, as appropriate.
+
+Page 11
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+3. Reporting
+Categories have been defined to allow CountyCare Compliance to accurately
+measure general compliance contacts. The inclusion of a contact in a specific
+category does not substantiate the contacts as a concern; rather it classifies the
+contact within a defined category. The contacts addressed within the past fiscal
+year of CountyCare as a MCCN fell into the following categories:
+ Contractual Issues & Reviews
+ Regulatory/Policy Matters
+ HIPAA Privacy, Confidentiality and Security
+ Accurate Books & Records
+ Fraud, Waste and Abuse
+ Conflict of Interest
+ Other (e.g., subpoenas, unique grievance & appeals guidance, involuntary
+discharge of CountyCare member, etc.)
+4. Fraud, Waste and Abuse
+Prevention, detection and elimination of fraud, waste, abuse, and financial
+misconduct is a key driver for CountyCare Compliance. Benefit and Program
+Integrity is critical not only because it a contractual requirement and a significant
+focus by the State and Federal government but because it is the right thing to do.
+The impetus of this key initiative is to ensure that federal, state, and county
+taxpayer dollars are spent appropriately on delivering quality, necessary care and
+preventing fraud, waste, and abuse in addition to protecting health plan members
+and providers.
+To identify potential fraud, waste, abuse, and financial misconduct, CountyCare
+Compliance partners with each delegated vendor through their dedicated areas
+commonly known as Special Investigation Units (SIU). The CountyCare
+Compliance Officer provides direct oversight of program integrity activity.
+
+Page 12
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+All Program Integrity activity is tracked by State Fiscal Year (S-FY) for state
+reporting purposes and not by county fiscal year. The S-FY runs from July 1st
+through June 30th.
+FWA activity matters are raised through multiple modalities, to each delegated
+vendor or directly to Corporate Compliance. All allegations are tracked and
+monitored to resolution. In addition, other measures are undertaken through the
+SIUs. CountyCare utilizes data mining to identify providers with aberrant billing
+patterns and researches tips received from HFS, HFS-OIG, other Managed Care
+Organizations (MCOs), healthcare fraud groups, CountyCare employees, the
+media and other sources to identify overpayments.
+Metrics for the S-FY18 follow:
+Reporting
+Quarter
+
+Q1 07/01 –
+09/30/17
+Q2 10/01 –
+12/31/17
+Q3 01/01 –
+03/31/18 *
+Q4 04/01
+– 06/30/18
+
+Tips
+
+Preliminary
+Investigations
+
+Full
+Investigations
+
+Referrals to
+HFS-OIG
+
+Audits
+
+Overpayments
+Identified
+
+Overpayments
+Collected
+
+1
+
+11
+
+3
+
+3
+
+3
+
+$
+
+97,910.84
+
+$
+
+2,574.00
+
+2
+
+8
+
+9
+
+1
+
+1
+
+$
+
+201,038.64
+
+$
+
+2,961.36
+
+70
+
+5
+
+15
+
+2
+
+103
+
+$
+
+457,245.29
+
+$
+
+6,097.85
+
+6
+
+5
+
+9
+
+2
+
+57
+
+$ 2,305,959.74
+
+$
+
+28,216.99
+
+* The 3rd Quarter S-FY 18 was significant for CountyCare Compliance. Evolent,
+CountyCare’s TPA for medical and behavioral health, hired two (2) local
+investigators dedicated solely to program integrity efforts. This dedicated team
+partnered with a data analytics firm to review claims for anomalies. The result of
+this activity is apparent in the metrics above.
+CountyCare Compliance monitored the process to ensure that appropriate action
+was taken, including reporting of suspected FWA to the State HFS-OIG.
+In S-FY 2018, CountyCare referred 11 cases to the HFS-OIG for possible fraud,
+waste or financial misconduct.
+5. Total Volume of General Compliance Contacts
+In addition to the program integrity efforts above, a total of 125 general compliance
+contacts were tracked by CountyCare Compliance during the last fiscal year. This
+is a 29% decrease from last year. As noted earlier in this annual report, two (2) of
+the three (3) dedicated CountyCare Compliance Program positions were vacant.
+
+Page 13
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+This placed a significant strain on the existing resources from March through
+August 2018. CountyCare Compliance had one full-time Compliance Analyst, Cory
+Otto. In the interim, Cathy Bodnar, functioned in an operational leadership
+capacity and with external resources providing supplemental assistance.
+6. Contact Breakdown by Category (December 1, 2017-November 30, 2018)
+
+Categories
+HIPAA (Privacy/Security)
+
+47
+
+Conflict of Interest
+
+2
+
+Regulatory/Policy
+
+37
+
+Accurate Books & Records
+
+2
+
+Contracts
+
+27
+
+Human Resources
+
+1
+
+Fraud Waste & Abuse
+
+3
+
+Other
+
+6
+
+With limited resources, CountyCare Compliance focused on contacts and issues
+that presented, shifting the balance from proactive to reactive or unanticipated
+queries or concerns. Of the 125 CountyCare contacts in FY 18, 40% or 50 contacts,
+were proactive. This was a significant decrease
+from the previous fiscal year, where 81% of the
+contacts were proactive activities that
+anticipated possible issues. The gradual return
+to a proactive paradigm is anticipated with the
+resolution of staffing issues.
+
+Page 14
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+7. HIPAA (Privacy and Security)
+As a covered entity, the health plan is required to safeguard privacy for plan
+members. Privacy and security of member information is highly regulated, and
+this category accounted for 47, or 38% of all contacts handled by compliance.
+During FY2018, CountyCare had fifteen (15) HIPAA incidents. None of the
+incidents required notifications to members. Twelve (12) of the fifteen (15)
+incidents were misdirected communications sent to another covered entity
+(another health plan, for example) or business associate (an entity doing business
+on behalf of the health plan).
+8. Grievances and Appeals Activities
+The responsibility for Grievance and Appeals activity transitioned from Corporate
+Compliance to CountyCare Operations this fiscal year, specifically to leadership
+within Quality and Risk Management. CountyCare Compliance provides highlevel oversight and remains committed to ensuring that contractual and regulatory
+timeframes are met, to providing guidance and assistance when necessary, and
+participating in the quarterly CountyCare Grievance and Appeals Committee.
+Element 5
+The development of a system to respond to allegations of improper/illegal activities and the
+enforcement of appropriate disciplinary action against employees who have violated internal
+compliance policies, applicable statutes, regulations or Federal health care program
+requirements.
+F.
+
+Enforcing Standards
+Broadened the scope of Standards enforcement through:
+1.
+Fraud, Waste and Abuse Monitoring. As noted earlier in this report,
+CountyCare Compliance collaborated closely with the Special Investigation Units
+of Delegated Vendors to identify potential fraud, waste, abuse, and financial
+misconduct. Towards the end of the county fiscal year, Evolent, CountyCare’s TPA
+for medical and behavioral health shifted to a second data analytics firm
+recognized for its expertise in DRG auditing and coding analysis.
+2.
+
+Privacy and Security (HIPAA) Breach Assessments. As staffing for
+CountyCare Compliance stabilized, the area began to assume a greater
+responsibility for performing breach assessments. To maintain consistency in the
+approach, CountyCare Compliance partnered with CCH Provider Compliance to
+review allegations. If a privacy or security breach is validated, CountyCare
+Compliance provided remediation guidance to operational areas to minimize
+and/or eliminate breaches in the future and, utilized the CCH Sanction Policy and
+Personnel Rules, to provide leadership guidance for disciplinary action.
+Page 15
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+3.
+
+Investigations Resulting in Employee Related Corrective Actions.
+Investigated Conflict of Interest and confidentiality complaints and provided
+employee guidance.
+
+4.
+
+Partnerships with Governmental Agencies. CountyCare Compliance
+partnered with the HFS, HFS-OIG, and Illinois’ Medicaid Fraud Control Unit
+(MFCU).
+
+5.
+
+Partnerships with non-Governmental Agencies. CountyCare Compliance
+was invited to participate with a number of new organizations related to the
+detection of fraud and wrongdoing in the insurance industry. These nongovernmental organizations include the HealthCare Fraud Prevention Partnership
+(HFPP), National Insurance Crime Bureau (NICB), and Midwest Anti-Fraud
+Insurance Association (MAIA).
+
+Element 6
+The use of audits and/or other evaluation techniques to monitor compliance and assist in the
+reduction of identified problem areas.
+G.
+
+Auditing and Monitoring
+ Fraud, Waste, Abuse and Financial Misconduct
+As noted earlier in this report, CountyCare Compliance continued its partnership with
+SIUs, meeting regularly to build a robust system to identify potential financial
+misconduct, and formed partnerships with governmental and non-governmental
+agencies.
+ Annual Compliance Attestation
+CountyCare Compliance continued to utilize an Annual Compliance Attestation,
+issued to all CountyCare’s delegated vendors in April 2018. The Compliance
+Attestation required all vendors to attest to several compliance provisions in their
+contracts, including distribution of a Code of Ethics, FWA policy distribution, training
+and education requirements, sanction screening checks, and delegated oversight. All
+of the vendors responded, and one vendor required corrective measures.
+
+H.
+
+Risk Assessment
+The focus within CountyCare Compliance is prevention, detection and elimination of
+fraud, waste, abuse, and financial misconduct, however other areas of risk relating to
+member privacy and security of protected health information were identified in FY18.
+These also require ongoing assessment:
+ Necessity for updated procedures to terminate employee access to 3rd party
+electronic systems upon separation from employment and to monitor current
+employee access.
+ Disclosure and sharing of member sensitive health information.
+
+Page 16
+
+ Cook County Health
+CountyCare Compliance Program
+FY 18 ANNUAL REPORT – December 2017 through November 2018
+In addition, CountyCare Compliance will initiate an annual risk assessment with executive
+leadership and key thought leaders nationally to identify outstanding risks and challenges
+to meeting the standards of an effective health plan compliance program.
+Element 7
+The investigation and remediation of identified systemic problems and the development of
+policies addressing the non-employment or retention of sanctioned individuals.
+I.
+
+Identification of Systemic Issues
+ Sanction Screening Checks
+Addressed regulatory requirements to avoid employing, engaging, contracting or
+agreeing with any individual or entity that is excluded or “sanctioned” from
+participation in a federal or state health care program or who is debarred from
+participation in federal procurement or non-procurement programs for the provision
+of goods or services through ongoing monthly checks with an external vendor.
+
+IV. Looking Ahead
+In FY19 the Corporate Compliance Program will continue to focus on maintaining adherence to
+contractual requirements and healthcare compliance best practices as the program matures. As
+CountyCare relies heavily on delegated vendors, monitoring for adherence to CountyCare policies,
+contractual, and regulatory standards are critical to avoid sanctions. The Program will continue
+ongoing activities related to risk reduction in the areas of compliance, policy implementation, and
+the development and implementation of monitoring and auditing efforts.
+These priorities have been established for the CountyCare Compliance Program:
+ Strengthen health plan oversight in the area of fraud, waste and abuse,
+o
+Foster continued partnerships with HFS-OIG and the State’s MFCU to develop
+best practices in Corporate Compliance for CountyCare.
+o
+Enhance relationships with non-government organizations and other MCOs’ SIUs
+to build a network of skilled investigators and increase effective Program Integrity
+efforts.
+ Continue to investigate all matters brought to the attention of the Program.
+ Uphold compliance with contractual requirements and industry best practices as
+CountyCare continues as the largest Medicaid Managed Care Organization in Cook
+County.
+ Foster partnerships with CountyCare Operations and delegated vendors to fulfill
+contractual obligations in Program Integrity and state reporting.
+ Increase oversight and monitoring for all delegated vendors.
+ Serve as a resource to the workforce and delegated vendors.
+ Mature the CountyCare Compliance Program and continue to incorporate best practices
+to cultivate a culture of compliance throughout the health plan.
+ Maintain CountyCare Compliance Program recognition locally and nationally.
+Page 17
+
+ 

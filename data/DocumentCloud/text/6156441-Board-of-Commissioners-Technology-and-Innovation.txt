@@ -1,0 +1,221 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+
+Tuesday, May 9, 2017
+
+11:00 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+PUBLIC TESTIMONY
+
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+No Speakers
+17-3183
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 3/22/2017
+A motion was made by Commissioner Morrison, seconded by Commissioner Steele, to approve
+17-3183. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+ 17-2732
+Sponsored by: JOHN A. FRITCHEY, Cook County Board of Commissioners
+PROPOSED RESOLUTION
+STATUS UPDATES ON COOK COUNTY INFORMATION SECURITY
+WHEREAS, on June 18, 2014, the Cook County Board of Commissioners approved the 1st Cook
+County Information Security Ordinance and in turn the Information Security Framework for all County
+agencies; and
+WHEREAS, Cook County has a responsibility to its residents to ensure that the information entrusted to
+the many agencies that make up this government is safe, secure, and protected from unauthorized access,
+use, or destruction, which was the impetus for crafting said ordinance; and
+WHEREAS, the County is in the process of modernizing its technology infrastructure, we must ensure
+that the considerable amount of data and information maintained throughout our government is protected
+by continually updating our information security framework to defend against cyber threats which are
+increasing in complexity and intensity; and
+WHEREAS, although the ordinance requires the Chief Information Security Officer (CISO) to present an
+annual report to the Cook County Board of Commissioners, it would be beneficial to have the County
+Board updated on a regular basis on important information security matters via the Technology and
+Innovation Committee;
+NOW, THEREFORE, BE IT RESOLVED, that the President and the Cook County Board of
+Commissioners does herby request that the Chief Information Security Officer deliver and present status
+updates on the state of information security in Cook County government; and
+BE IT FURTHER RESOLVED, that said status updates be delivered to the Board of Commissioners
+via the Technology and Innovation committee semi-annually, beginning in May of the FY2017 fiscal year.
+Effective Date. This resolution shall take effect immediately upon adoption.
+A motion was made by Commissioner Morrison, seconded by Commissioner Butler, to accept as
+amended 17-2732. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+ 17-2732
+Sponsored by: JOHN A. FRITCHEY, Cook County Board of Commissioners
+PROPOSED RESOLUTION
+STATUS UPDATES ON COOK COUNTY INFORMATION SECURITY
+WHEREAS, on June 18, 2014, the Cook County Board of Commissioners approved the 1st Cook
+County Information Security Ordinance and in turn the Information Security Framework for all County
+agencies; and
+WHEREAS, Cook County has a responsibility to its residents to ensure that the information entrusted to
+the many agencies that make up this government is safe, secure, and protected from unauthorized access,
+use, or destruction, which was the impetus for crafting said ordinance; and
+WHEREAS, the County is in the process of modernizing its technology infrastructure, we must ensure
+that the considerable amount of data and information maintained throughout our government is protected
+by continually updating our information security framework to defend against cyber threats which are
+increasing in complexity and intensity; and
+WHEREAS, although the ordinance requires the Chief Information Security Officer (CISOCIO) to
+present an the Chief Information Security Officer's annual report to the Cook County Board of
+Commissioners, it would be beneficial to have the County Board updated on a regular basis on important
+information security matters via the Technology and Innovation Committee;
+NOW, THEREFORE, BE IT RESOLVED, that the President and the Cook County Board of
+Commissioners does herby request that the Chief Information Security Officer deliver and present status
+updates on the state of information security in Cook County government; and
+BE IT FURTHER RESOLVED, that said status updates be delivered to the Board of Commissioners
+via the Technology and Innovation committee semi-annually, beginning in May June of the FY2017
+fiscal year.
+Effective Date. This resolution shall take effect immediately upon adoption.
+A motion was made by Commissioner Morrison, seconded by Commissioner Steele, to recommend
+for approval as amended 17-2732. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+ 17-2217
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: CDW Government LLC, Vernon Hills, Illinois
+Request: Authorization for the Chief Procurement Officer to extend and increase contract
+Good(s) or Service(s): Countywide software and network equipment
+Original Contract Period: 5/15/2013 - 5/14/2016
+Proposed Contract Extension Period: 5/15/2017 - 5/14/2018
+Total Current Contract Amount Authority: $61,665,500.00
+Original Approval (Board or Procurement): 5/8/2013, $28,165,500.00, 5/15/2013 - 5/14/2016
+Previous Board Increase(s) or Extension(s): 4/29/2015, $14,000,000.00; 5/11/2016 $19,500,000.00,
+on 5/15/2016-5/14/2017
+Previous Chief Procurement Officer Increase(s) or Extension(s): N/A
+This Increase Requested: $17,000,000.00
+Potential Fiscal Impact:
+
+FY 2017 $17,000,000.00
+
+Accounts: Countywide, accounts 388/Computer Operation Supplies, 579/Computer Equipment,
+441/Maintenance and Repair of Data Processing Equipment and Software
+Contract Number(s): 13-28-026
+Concurrences:
+The vendor has met the Minority- and Women- owned Business Enterprise Ordinance via direct
+participation.
+The Chief Procurement Officer concurs.
+N/A
+Summary: In 2013, Cook County leveraged pricing discounts available to volume purchasers by
+aggregating its technology needs with the City of Chicago. A joint City-County RFP was issued and
+representatives from both government entities recommended that CDW Government LLC be awarded.
+The contract allows County elected official IT departments to procure necessary software and equipment
+through an online ordering system.
+
+ This Board subsequently approved a contract increase in 2015 to facilitate grant-funded purchases by the
+Department of Homeland Security, and additional purchases for other offices under the President and
+separately elected officials. The Board next approved an increase and first of two (2) renewal options
+available in the contract to allow County agencies to continue to procure necessary software and
+equipment in 2016. Both contract increases were accompanied by corresponding amendments to reduce
+the mark-up cost for any newly added software items.
+The Bureau of Technology now requests the second of two (2) renewal option for one-year and increase
+to the contract in order to sustain County IT requirements for all elected official IT departments while an
+ongoing replacement RFP process is completed.
+This contract was awarded through a competitive Request for Proposal (RFP) process in accordance with
+the Cook County Procurement Code. CDW Government was awarded based on established evaluation
+criteria.
+A motion was made by Commissioner Morrison, seconded by Commissioner Steele, to recommend
+for approval 17-2217. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+17-2561
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Bureau of Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 1st Quarter of 2017
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated
+Cook County Criminal Justice System.
+A motion was made by Commissioner Daley, seconded by Commissioner Morrison, to recommend
+for deferral 17-2561. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+ 17-0461
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Bureau of Technology
+Request: Refer to the Committee on Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 4th quarter 2016
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated
+Cook County Criminal Justice System.
+A motion was made by Commissioner Silvestri, seconded by Commissioner Morrison, to
+recommend for receiving and filing 17-0461. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+ADJOURNMENT
+
+A motion was made by Commissioner Steele, seconded by Commissioner Morrison, to adjourn the
+Meeting. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, Silvestri and Steele (6)
+
+Absent:
+
+García, Goslin and Schneider (3)
+
+Respectfully submitted,
+
+__________________________________
+Chairman
+
+_________________________________
+Secretary
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+ 

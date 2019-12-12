@@ -1,0 +1,404 @@
+Minutes of the meeting of the Managed Care Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Wednesday, April 18, 2018 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Junge called the meeting to order.
+Present:
+
+Chairman Emilie N. Junge and Director Sidney A. Thomas, MSW (2)
+Board Chairman M. Hill Hammock (ex-officio) and Directors Mary Driscoll, RN, MPH; Ada
+Mary Gugenheim; David Ernesto Munar; and Mary B. Richardson-Lowry
+
+Absent:
+
+Director Virginia Bishop, MD, MPH (1)
+
+Additional attendees and/or presenters were:
+Debra Carey – Deputy Chief Executive Officer,
+Operations
+Douglas Elwell – Deputy Chief Executive Officer,
+Finance and Strategy
+
+James Kiamos – Executive Director of Managed Care
+Jeff McCutchan –General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+The next meeting of the Committee will be held on Thursday, June 21, 2018 at 10:30 A.M.
+
+II.
+
+Public Speakers
+Chairman Junge asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report on CountyCare Health Plan (Attachment #1)
+James Kiamos, Executive Director of Managed Care, provided an overview of the Report on the CountyCare
+Health Plan. The Committee reviewed and discussed the information.
+The Report included information on the following subjects:
+•
+•
+•
+•
+•
+•
+•
+
+Membership
+Operations Metrics: Call Center and Encounter Rate
+Operations Metrics: Claims Payment
+Care Management Metrics
+Quality Metrics
+Utilization Metrics Beta Reports
+New Focal Points
+
+During the discussion of the membership totals on slide 2, Director Richardson-Lowry inquired regarding
+how this compares to 2017 totals, after factoring out the acquisitions. Mr. Kiamos responded that he can
+provide this information.
+During the discussion of call center metrics, Director Munar inquired regarding the average call volume per
+day. Mr. Kiamos responded that he can provide this information.
+
+ Minutes of the Meeting of the Managed Care Committee
+Wednesday, April 18, 2018
+Page 2
+
+III.
+
+Report on CountyCare Health Plan (continued)
+During the discussion of the care management metrics, Board Chairman Hammock requested that the
+performance be more accurately reflected on the slide, as opposed to just reflecting the trend; for example, if
+the goal is 70% and the current performance is at 39.2%, the trend is positive (green arrow pointing up) in
+comparison to the previous month, but the overall performance is still well below the goal. Additionally,
+with regard to quality metrics on slide 6, he requested that, in addition to trend, that absolute to goal data be
+included.
+During the discussion of the quality metrics, Dr. John Jay Shannon, Chief Executive Officer, stated that there
+have been some discussions in the past around what is the right venue for these metrics. Should metrics on
+health plan performance as it relates to achieving quality be presented in this committee, or should they be
+presented in the Quality and Patient Safety Committee? This can be further discussed, however, he is getting
+a better understanding that there is probably a preferred time of the year to look at it and get an accurate
+sense of how well the plan is doing – that is probably an annual event.
+Chairman Junge urged the Directors to make suggestions on what metrics they would like to see this year, in
+addition to those being presented. Director Richardson-Lowry indicated that she is interested in seeing data
+on tracking referrals from partners.
+
+IV.
+
+Action Items
+A. Minutes of the Managed Care Committee Meeting, February 26, 2018
+Director Thomas, seconded by Chairman Junge, moved to accept the minutes of the
+Managed Care Committee Meeting of February 26, 2018. THE MOTION CARRIED
+UNANIMOUSLY.
+B. Any items listed under Section IV
+
+V.
+
+Adjourn
+As the agenda was exhausted, Chairman Junge declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Managed Care Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+Emilie N. Junge, Chairman
+
+ Minutes of the Meeting of the Managed Care Committee
+Wednesday, April 18, 2018
+Page 3
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Requests/Follow-up:
+Request:
+
+Regarding membership totals, a request was made for a comparison against 2017 totals,
+factoring out the membership derived from acquisitions. Page 1
+
+Request:
+
+Regarding call center metrics, request for information on average call volume per day. Page
+1
+
+ Cook County Health and Hospitals System
+Managed Care Committee Meeting Minutes
+April 18, 2018
+
+ATTACHMENT #1
+
+ CountyCare Update
+Prepared for: CCHHS Managed Care Committee
+of the Board of Directors
+James Kiamos
+Executive Director, Managed Care
+April 18, 2018
+
+ Membership
+• Monthly membership at 333,166 as of 4/1/2018
+o ACA = 76,399 (17,104 ACHN; 22%)
+o FHP = 222,223 (23,972 ACHN; 11%)
+o ICP = 30,010 (6,979 ACHN; 23%)
+o MLTSS = 4,484 (84 ACHN; 2%)
+• Post RFP Open Enrollment Closed
+
+2
+
+ Operations Metrics: Call Center
+and Encounter Rate
+Key Measures
+5.2) Member & Provider Services Call Center
+Abandonment Rate
+Hold Time
+% Calls Answered < 30 seconds
+5.3) Claims/Encounters Acceptance Rate (Quarterly)
+
+Nov'17
+
+Dec'17
+11.02%
+2.32
+44.84%
+91.30%
+
+% Change to
+Month Prior Trend
+
+Jan'18
+6.73%
+2.31
+62.57%
+91.30%
+
+8.84%
+2.33
+55.30%
+95.17%
+
+31.4%
+0.9%
+-11.6%
+4.2%
+
+•
+
+Wins
+o As of now all goals are met with 97% of calls answered <30 seconds
+exceeding the target goal of 80%
+o Encounter acceptance rate exceeds State goal of 95%
+o Call center is adequately staffed to account for attrition and work other
+member-centric initiatives such as redeterminations
+o Encounter acceptance rate exceeds State goal of 95%
+o Auto assignment continues and no financial penalty
+
+•
+
+Risks
+o None at this time
+
+3
+
+q
+q
+q
+p
+
+Goal
+< 5%
+< 0:01:00
+> 80%
+95%
+
+ Operations Metrics: Claims
+Payment
+Key Measures
+5) OPERATIONS
+5.1) Claims Payment Turnaround Time:
+% of Clean Claims Adjudicated < 30 days
+% Paid < 30 days
+
+Nov'17
+
+Dec'17
+
+92.7%
+36.5%
+
+% Change to
+Month Prior Trend
+
+Jan'18
+
+93.3%
+56.7%
+
+96.8%
+67.9%
+
+3.8%
+19.8%
+
+p
+p
+
+Goal
+
+90%
+90%
+
+•
+
+Wins
+o Adjudicated clean claims in January = 96.8%
+
+•
+
+Risks
+o State payment delays continue to impact payment of clean claims
+within 30 days
+
+4
+
+ Care Management Metrics
+Key Measures
+2) CARE MANAGEMENT
+2.1) Completed HRS/HRA (all populations, cum)
+Overall
+MHN ACO
+La Rabida Care Coordination (CSNs only)
+CCHHS CCC
+2.3) Completed Care Plans on High Risk Members
+ACA/FHP
+ICP
+
+Membership
+
+225,200
+117,000
+1,200
+107,000
+
+Nov'17
+
+Dec'17
+
+Jan'18
+
+% Change to
+Month Prior Trend
+
+30.2%
+67.6%
+78.5%
+8.4%
+
+32.4%
+71.9%
+83.2%
+9.0%
+
+39.2%
+62.8%
+88.2%
+13.5%
+
+21.0%
+-12.7%
+6.0%
+50.3%
+
+p
+q
+p
+p
+
+70%
+70%
+70%
+70%
+
+48.3%
+30.7%
+
+47.9%
+28.0%
+
+54.0%
+32.9%
+
+6.1%
+4.9%
+
+p
+p
+
+75.0%
+75.0%
+
+Excludes Aetna data in process of transition
+
+• WINS
+o Independent Living Systems (ILS) is the fifth CME to go-live on 3/12/18 managing
+the MLTSS population
+o MCO to MCO data exchange established
+• RISKS
+o New membership influx on November 1, 2017 and January 1, 2018
+o Data collection process in transition due to new State report
+measures/definitions
+
+5
+
+Goal
+
+ Quality Metrics - Core Set
+
+•
+•
+
+6
+
+Trend since previous month
+Hybrid data collection (medical record review) pending on most measures
+
+ Quality Metrics
+• WINS
+o New source to supplement HEDIS data approved
+o Provider Performance Report in beta testing with
+CCHHS & Partner FQHC
+• RISKS
+o HEDIS hybrid samples revised
+
+7
+
+ Utilization Metrics Beta Reports
+
+• WINS
+o Provider Performance Reports in beta testing with CCHHS & Partner FQHC
+o Detox readmission limit implemented
+o On-boarding of critical roles: Physician Leadership and Pharmacy Director
+• RISKS
+o Transition period for new members extended for specific medications to ensure
+accurate implementation
+
+8
+
+ New Focal Points
+• Proactive redetermination at every member
+touchpoint to CountyCare
+
+• Mapping out specialty capitation strategy to increase
+CCHHS volume
+• Establishing satellite space relationships with
+CountyCare partners for CCHHS Specialist consults in
+northern, southern and western areas of our service
+region
+
+9
+
+ 

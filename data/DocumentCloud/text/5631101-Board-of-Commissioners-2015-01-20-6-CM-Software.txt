@@ -1,0 +1,296 @@
+ 
+ 
+
+           
+ 
+ 
+ 
+Ja  January 14, 2015 
+  
+             
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Item No. 6 
+
+AUTHORIZATION TO EXECUTE A CONTRACT WITH  
+e‐Builder, Inc. 
+FOR CONSTRUCTION MANAGEMENT SOFTWARE  
+
+ 
+
+ 
+
+To the Honorable Board of Commissioners: 
+ 
+
+RECOMMENDATION 
+It is recommended that the Board of Commissioners authorize the Chief Executive Officer or his 
+designee to enter into a contract with e‐Builder, Inc. for construction management software for 
+a two‐year base period, with three (3) one‐year options, in the firm fixed compensation amount 
+of $1,498,290. 
+ 
+
+The  Deputy  Chief  of  the  Capital  Construction  Department,  the  Office  of  the  General  Counsel, 
+and the Department of Procurement and Contracts have completed all necessary due diligence 
+to support the submission of this initiative and recommends approval of this item accordingly. 
+ 
+
+CORPORATE GOAL 1:  Strategy 1: To meet the 25,000 unit commitment and complete the Plan 
+for Transformation.   
+ 
+
+CORPORATE  GOAL  2:      Ensure  the  Chicago  Housing  Authority’s  portfolio  is  safe,  decent  and 
+sustainable. 
+ 
+
+FUNDING:   Capital Fund 
+ 
+
+SOLICITATION SUMMARY 
+Request for Proposal No.:   
+RFP 14‐01329 
+Vendor: 
+ 
+ 
+e‐Builder, Inc. 
+ 
+ 
+ 
+1800 NW 69th Avenue, Suite 201 
+ 
+ 
+ 
+Plantation, FL 33313 
+Contract Type:    
+Solicitation Release Date:    
+Professional Services 
+June 11 2014 
+Base (2 years) Contract Amount:   $910,890.00 
+Days Advertised: 30 Days 
+Option Period 1:  $195,800.00 
+Option Period 2:  $195,800.00 
+Option Period 3:  $195,800.00  
+Publications:  Chicago Sun‐Times, Defender, 
+                         Extra, CHA website, BuySpeed 
+Vendor List: 17 
+Pick‐Up List: 189 
+
+ 
+ 
+ 
+ 
+
+Pre‐Proposal Date:  June 19, 2014 
+
+Solicitation Due Date: July 15, 2014 
+Assist Agencies: 71 
+Respondents: 7 
+M/W/DBE Respondents: 2 
+
+ New Hires 
+Needed 
+ 
+
+COMPLIANCE INFORMATION 
+M/W/DBE Participation 
+Section 3 Hiring No. (30% of new hires) 
+Section 3 Business Concern 
+‐
+
+Other Economic Opportunity 
+
+Required 
+
+Proposed 
+
+$299,368 
+ (20%) 
+0 
+(3%) 
+
+$339,172 
+(22.64%) 
+0 
+0 
+ 
+Other Economic 
+Opportunity 
+Section 3 Business concern subcontracting 
+percentage is only based on the service portion of 
+the contract, as a large portion of the dollars will 
+go toward the software itself. Internship Program: 
+Participate with e‐Builder in the implementation 
+of the Construction Management Software system 
+at CHA as an assistant to the Business Analyst. E‐
+Builders is able to provide a laptop, office space, 
+and a stipend for the intern during the 
+implementation time frame. The quantifiable goal 
+is for the intern to become skilled in the 
+configuration, operation and training of e‐Builder 
+Enterprise, the Construction Management 
+Software System. 
+
+ 
+Proposed M/W/DBE 
+& Section 3 
+Subcontractors 
+
+Certification 
+
+Contract 
+Value 
+
+Kristine Fallon 
+Associates, Inc. 
+
+WBE 
+
+$339,172 
+
+Percentage  Work to be Performed
+
+22.64% 
+
+Implementation 
+Support 
+
+ 
+ 
+GENERAL BACKGROUND /EXPLANATION 
+For  years  the  CHA  Capital  Construction  Department  (CCD)  has  successfully  delivered 
+construction projects through the deployment of an existing project management model with 
+staff of both the CHA and consultants in an integrated team.  An outdated version of the Prolog 
+system  is  being  used  but  is  no  longer  supported  by  the  developer  and  has  a  limited  range  of 
+functionality. The system is not integrated with the CHA’s legacy accounting and asset systems 
+and therefore manual reports and spreadsheets are used to manage and report project status. 
+This project includes configuration, implementation and migration, testing, training and hosting 
+by  the  contractor  of  a  new  construction  management  system,  accessible  from  the  field  and 
+integrated with legacy systems in order to efficiently manage capital projects.   
+ 
+The  vendor  will  configure  the  software  as  needed  to  accommodate  the  unique  CHA 
+requirements.  The  selected  solution  shall  include  functionality  for  key  performance  indicator 
+(“KPI”)  reporting,  pre‐procurement  to  close‐out  construction  processes  and  workflows, 
+including but not limited to: project budgeting and cost control, schedule management, scope 
+ 
+ 
+
+ and  design  development,  construction  oversight,  payment  management  and  closeout.  The 
+system will also include interfaces for financial management. 
+ 
+PROCUREMENT INFORMATION  
+On  June  11,  2014  CHA  issued  Request  for  Proposal  14‐01329  soliciting  competitive  proposals 
+for a web‐based construction management software system and professional implementation 
+services. The advertisement ran in the Chicago Sun‐Times, the Chicago Defender, Extra, on the 
+CHA website, and on BuySpeed Online. The pre‐bid conference was held on June 19, 2014. 
+ 
+The CHA issued one addendum on July 8, 2014 which answered Requests for Information (RFIs) 
+and distributed a revised cost proposal worksheet, Attachment A. 
+The  solicitation  was  advertised  for  30  days.  The  CHA  received  and  opened  7  bids  on  July  15, 
+2014, and of the respondents, 2 were M/W/DBE vendors. The recommended awardee is  
+e‐Builder, Inc., whose best and final fee proposal was in the fixed fee amount of $1,498,290. 
+ 
+• e‐Builder, Inc. was most competitive in how they described the plan for staffing key 
+positions, their method of assigning work and the software functionality.   
+• Since 1995, e‐Builder has provided software and services for capital program and 
+construction project management and has successfully implemented e‐Builder 
+Enterprise at more than 40 government and infrastructure organizations.   
+• e‐Builder is the leading provider of fully integrated, cloud‐based construction program 
+management software with an owner‐centric focus and is focused exclusively on 
+meeting the needs of repeat builders in the construction industry. 
+• Their implementation methodology has been continuously refined over the course of 
+more than 300 successful implementations.   
+• Once the implementation is complete, e‐Builder ensures the CHA’s long term success 
+with their Customer Care team, which is comprised of four components: 
+1. Customer Support –serves as the first point of contact for any questions related to 
+the system.  The primary purpose of this team is to resolve issues and questions for 
+clients as efficiently as possible. 
+2. Account Management – an assigned e‐Builder Account Manager is the primary 
+contact for gaining additional value from the CHA’s investment.   
+3. Technical Account Management –serves as the CHA’s technical resource to help find 
+creative solutions to business challenges, as well as assist with training or 
+implementing new functionality when needed. 
+4. Network Operations –responsible for the 24x7x365 operational support of the e‐
+Builder enterprise data centers. Other core responsibilities include network security 
+which involves intrusion detection and prevention, anti‐virus systems and firewall 
+management, all designed to insure that all client data is protected from any 
+unauthorized access. 
+• e‐Builder, Inc. has over 50 city, county and state government clients including the 
+Dallas Housing Authority.  Some local clients include, but are not limited to, Columbia 
+College, Rush Medical Center, Navigant Consulting, the University of Chicago, the 
+ 
+ 
+
+ •
+
+Rehabilitative Institute of Chicago, the Illinois Tollway and the Chicago Transit 
+Authority. 
+e‐Builder is subcontracting with Kristine Fallon Associates (KFA), a qualified WBE firm 
+founded in 1993, to provide Information Technology (IT) consulting and services to the 
+capital facilities industry.   KFA has partnered with e‐Builder on implementation 
+projects at the University of Chicago, Chicago Transit Authority and the Illinois Tollway. 
+
+ 
+Based  on  the  foregoing,  the  Capital  Construction  Department  recommends  that  the  Board  of 
+Commissioners  authorize  the  Chief  Executive  Officer  or  his  designee  to  enter  into  a  contract 
+with  e‐Builder,  Inc.  for  the  provision  and  implementation  of  construction  management 
+software for the firm fixed price of $1,498,290.00.  The contract total includes implementation, 
+licensing  and  maintenance  and  support  services  in  year  one  (1)  of  $  715,090  and  ongoing 
+maintenance and support in years two (2) through five (5) of $195,800, respectively.  
+ 
+The  independent  cost  estimate  (ICE)  prepared  by  CCD  for  this  work  is  $1,321,415  (dated 
+3/27/14,  revised  11/20/14).  e‐Builders,  Inc.  submitted  a  fixed  fee  proposal  in  the  amount  of 
+$1,498,290.  This  is  13%  higher  than  the  estimate  primarily  because  the  original  estimate  was 
+based  on  a  per  user  software  license  fee  which  was  assumed  to  start  in  year  two  after  a  full 
+year  of  implementation  services.  However,  e‐Builders  is  able  to  implement  the  software  in 
+phases making some modules usable in year one and thus requiring payment of the license fee 
+for  the  first  year.        Additionally,  some  savings  are  expected  to  be  realized  by  obtaining  an 
+enterprise license, which provides unlimited access to the software based on role assignment 
+instead of paying a fee per license or user.   
+ 
+The Board action recommended in this item complies in all material respects with all applicable 
+Chicago Housing Authority Board policies and all applicable federal (Department of Housing and 
+Urban Development) procurement laws.  
+ 
+The Deputy Chief of the Capital Construction Department concurs with the recommendation to 
+enter into a contract with e‐Builder, Inc. for construction management software. 
+ 
+The CEO/President recommends approval to enter into a contract with e‐Builder, Inc. for construction 
+management software.
+
+ 
+ 
+
+  
+RESOLUTION NO. 2015‐CHA‐6 
+WHEREAS,  
+
+the  Board  of  Commissioners  has  reviewed  the  Board  Letter  dated  January  14 
+2015  entitled  “AUTHORIZATION  TO  EXECUTE  A  CONTRACT  WITH  e‐Builder,  Inc. 
+FOR CONSTRUCTION MANAGEMENT SOFTWARE” 
+
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY 
+THAT 
+
+the  Board  of  Commissioners  authorizes  the  Chief  Executive  Officer  or  his 
+designee to enter into a contract, with a two year base period and three (3) one 
+year options, with e‐Builder, Inc. for Construction Management Software for the 
+firm fixed price of $1,498,290.  
+
+ 
+This  award  is  subject  to  the  Contractor’s  compliance  with  the  CHA’s  applicable 
+MBE/WBE/DBE, Section 3, and bonding and insurance requirements. 
+
+ 
+
+ 

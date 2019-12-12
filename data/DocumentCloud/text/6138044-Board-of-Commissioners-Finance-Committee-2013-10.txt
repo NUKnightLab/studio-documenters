@@ -1,0 +1,784 @@
+Commissioners
+Langdon D. Neal, Chairman
+Richard A. Cowen, Secretary/Commissioner
+Marisel A. Hernandez, Commissioner
+Lance Gough, Executive Director
+
+President Preckwinkle, Finance Committee Chairman Daley and
+Commissioners of the Cook County Board:
+My name is Langdon D. Neal, and I am the Chairman of the Chicago
+Election Board. With me here today are: the Election Board’s Executive
+Director, Lance Gough; Assistant Executive Director Kelly Bateman; Chief
+Legal Counsel James Scanlon; Communications Director Jim Allen; and
+Human Resources Director Peter Peso.
+On behalf of the Board of Election Commissioners for the City of Chicago,
+I thank you for the opportunity to be here today. I also want to recognize
+the great work of the Administration, particularly Andrea Gibson, who has
+been particularly professional, careful and thoughtful in helping us shape
+and develop the budget for the coming year.
+This upcoming year marks one of the busiest in our four-year election
+cycle. In 2014, the Election Board will conduct two citywide elections –
+while simultaneously managing the processes related to candidate filings
+and related objection filings ahead of the 2015 Municipal Election.
+The year 2014 also will mark what we believe will be the start of a new
+wave of voter services and advances in technology. During my remarks,
+we will be making reference to a document that we have supplied to the
+County Board. It’s the Election Board’s long-range comprehensive review
+of likely changes in election administration and how these changes will
+make it necessary for all election authorities in Illinois to upgrade various
+elements of election technology.
+69 West Washington Street, Suites 600/800, Chicago IL 60602 ● 1.312.269.7900 ● fax 1.312.263.3649 ● TTY 1.312.269.0027
+chicagoelections.com ● email: cboe@chicagoelections.com
+
+ Briefly and bluntly, the essence of our report is that the business of
+conducting elections is rapidly growing more complex and more
+expensive.
+First, there is some good news. In 2014, we finally will see something that
+our colleagues in Indiana and Arizona have known for years to make
+registration easier for voters – and more affordable for taxpayers: online
+voter registration.
+I am proud to report that the Chicago Election Board championed this
+cause. You may recall that Chicago, before online registration was
+allowed, was the first jurisdiction in Illinois to offer the next closest thing.
+We launched a system where voters could submit their information online
+and then receive pre-printed registration forms in the mail, so that they
+could sign the forms and return them. We did this because our voters told
+us they wanted this system. Back in late 2011, we pulled together a
+diverse and massive cross-section of civic and community organizations
+at the UIC Forum. We called it “Voter Engagement: 2012,” and it was one
+of the biggest election focus groups ever. We challenged this audience to
+brainstorm about what each of us – as voters and election administrators
+– might be able to do differently or better to improve participation and
+turnouts. Among the groups’ top priorities: online registration for new
+voters and for those who want to update their addresses or names.
+So, we relayed to leaders in Springfield what we heard from various
+Chicago civic and community leaders. Later, we told leaders in
+Springfield about our own modest experiment with the closest thing we
+could offer short of full online registration – a system that allowed a voter
+with a smart phone or a tablet device to launch the process even if they
+
+2
+
+ didn’t have a printer. Next, the Chicago Election Board contributed
+legislative language for specific details on how the system should
+function. The resulting legislation creates a system that will verify the
+online registrants’ identities through Social Security numbers, Driver’s
+License numbers and State ID numbers. For this reason, the Secretary of
+State’s support in the process, because that agencies database will be
+tied into the online registration system. This team approach led last
+spring to the General Assembly passing legislation to allow for online
+registration. The Governor signed it into law. The new system should be
+operational by July 2014.
+We know from our peers in Indiana and Arizona that this system will
+deliver real convenience to voters, but also substantial cost savings to
+taxpayers. In Arizona, the average cost of processing a paper form was
+calculated at 83 cents, compared to 3 cents for an electronic registration.
+There’s another piece of good news. The law changed to allow those
+who are 17 years old to register and vote in the 2014 Primary if they will
+turn 18 by the Nov. 4 General Election. This gives us a great opportunity
+to register tens of thousands of Chicago high school students in the
+spring – before they head off to colleges, trade schools or the workforce
+in the fall. I am proud to report that the Election Board is leading the way
+for a massive outreach to this new crop of voters. The Election Board is
+working with Mikva Challenge, the McCormick Foundation, the Chicago
+Public Schools, the Archdiocese, independent schools, the League of
+Women Voters, Rock the Vote, ICIRR and various other voter-registration
+organizations to register as many students as possible between Jan. 1
+and Feb. 18, 2014 ahead of the Primary Election.
+
+3
+
+ Now for the more difficult or challenging news: Other new laws will make
+elections much more costly to administer. There are going to be
+significant changes and liberalization of how provisional ballots shall be
+counted. This will mean complicated systems for re-making provisional
+ballots to account for the portions that can and cannot be counted. Also,
+the laws that set the schedules for Early Voting and Grace Period Voting
+schedules have extended those programs through the Saturday before
+Election Day. This complicates the effort to get the latest voter
+participation reports to our judges on Election Day.
+Additionally, we have seen bills that have called for extending these
+programs through the Monday before Election Day. If history is a guide,
+these bills eventually will pass and make it impossible to complete manual
+deliveries of these voting records between Monday night and Tuesday
+morning to 2,069 polling places. We have also seen bills that would call
+for allowing registration on Election Day. Such legislation would require a
+real-time connection at each polling place to a central database to log
+each new voter registration.
+As detailed in our long-range Infrastructure Plan, the Election Board has
+identified these areas of technology as mission-critical:
+Electronic Poll Books: These devices link every polling place to a
+central computer so that there is real-time assistance and data flow
+to help our judges with accurate data and to help every voter –
+even if that voter arrives in the wrong polling place. We believe that
+the current schedule of Early Voting and the new rules on
+provisional ballots make it imperative that we introduce this system.
+At the same time, we believe we can find an Electronic Poll Book
+Solution at a far lower cost than we are seeing in other jurisdictions.
+
+4
+
+ A new Voter Registration/Election Management System: Although
+there were estimates that such a system might cost $2 million or
+more, we are developing this new database engine using our own
+staff and a contractor for $400,000. The VR/EMS database is the
+backbone of all of the Election Board’s operations: precinct
+assignments, ballot styles, ballot printing, polling places, equipment
+designations, election judges and recording of voting history. The
+move to a SQL 2012 platform will make our system more secure
+and robust. The resulting system also will enhance our ability to
+coordinate records with the Illinois Voter Registration System
+(IVRS) and the coming online registration system.
+New ballot scanners: The current inventory of ballot scanners
+represents the weakest link in our system. New scanners also offer
+the potential to accommodate ballot-on-demand. Long term, this
+technology could put the Chicago Election Board in a position to
+avoid ever having to replace the extremely costly touch-screen
+voting equipment – and possibly convert to one balloting system.
+A more flexible and powerful website platform: The challenge we
+had at the November 2012 election was twofold: the redistricting of
+all wards and precincts, and a crushing influx of inquiries from
+voters on their smart phones, tablet devices, laptops, personal
+computers and a text-messaging system. The new ward lines in
+Chicago meant that precinct boundaries across the City had
+changed – right before the high-turnout Presidential Election. We
+will now have a more robust platform on a secure and expandable
+cloud system whose capacity can grow to meet demand.
+Additionally, we must offer new online systems for voters to apply
+for absentee ballots online without a paper form – and related
+safeguards.
+
+5
+
+ To prepare for 2014 and beyond, we have worked on a number of
+projects over the last several months:
+We completed a mail canvasses and performed related efforts
+aimed at cleansing the voter rolls.
+We developed the long-range Infrastructure Plan.
+We launched the modernization of the web site.
+We began building the new Voter Registration/Election
+Management System.
+We have begun meetings with potential vendors on new ballot
+scanners and issued an RFP for an electronic pollbook solution.
+That said, the County Administration’s budget recommendation for the
+Board of Election Commissioners for the City of Chicago is $16,189,445
+for Fiscal Year 2014.
+In comparing election budgets, 2010 is the most recent and comparable
+year in our four-year cycle. Based on changes to the Election Code since
+2010 and based on how the Chicago Election Board must introduce new
+technologies in 2014, next year presented several budget challenges.
+Despite that, for fiscal year 2014, we are pleased to report that the
+Administration’s recommendation for FY2014 for the Chicago Election
+Board represents a decrease of $584,961, or 3.5%, compared to the
+Election Board’s 2010 expenditures of $16,774,406.
+The Chicago Election Board worked with budget planners to accomplish
+this reduction through one key effort: a massive consolidation in precincts.
+
+6
+
+ In comparing the FY2014 Election Board appropriation to the FY2010
+expenditures, the following similarities and variances are noted:
+Salaries and Wages are unchanged since 2010.
+Postage will increase $411,000 (38% since 2010 or 9.5% per year). This
+is due to two factors: (1) the new ability to apply online for “no excuse”
+absentee ballots that will increase mailings; and (2) Postal Service rates
+that have increased and that are projected to rise again. Online absentee
+ballot applications will increase our costs for postage for the mailing and
+return of ballots. Also of note, even when online registration begins in
+July 2014, the Election Board still will be required to perform verification
+mailings to voters who use that system.
+Printing and publishing will increase $128,556 (6% since 2010 or 1.5%
+per year). This reflects the new requirement to publish separate legal
+notices and other voter materials and ballots in Hindi. To maximize the
+budget efficiencies and voter conveniences to be gained through online
+registration, the Election Board also will be promoting this new option in
+2014.
+Professional and Managerial Services will decrease $720,361 (down
+16.5% since 2010 or 4.13% per year). This reflects efforts to contain
+costs through consolidating precincts and streamlining costs related to
+conducting hearings on challenges to nominating petitions.
+
+7
+
+ Various costs for Election Judges, Polling Place Administrators and
+Election Day workers will decrease. However, the decreases will not
+match the percentage change of precincts in 2014, because the Election
+Board anticipates the need to perform two rounds of training sessions to
+help reduce possible problems with the introduction of Electronic Poll
+Books and/or new Ballot Scanners.
+The Election Board understands the County’s need to reduce
+expenditures, even as the Election Board must adhere to ever-expanding
+state and federal mandates. For this reason, the Election Board will try
+to continue returning funds, when possible, to the County. In the last
+three years, the Chicago Election Board has returned more than $3
+million in state and federal reimbursements to Cook County.
+At the same time, we appreciate your understanding of how the Election
+Board must invest the resources to administer elections that are
+transparent, impartial, accessible and accurate – for every voter in the
+City of Chicago.
+On behalf of the Election Board, I thank you for your consideration of the
+Administration’s recommendation and look forward to answering your
+questions.
+
+8
+
+ Infrastructure Projects and
+Changes in Election Administration:
+Evaluations and Recommendations
+For 2013-2015
+Board of Election Commissioners for the City of Chicago
+Draft Report of Lance Gough, Executive Director
+May 9, 2013
+
+Commissioners
+Langdon D. Neal, Chairman
+Richard A. Cowen, Secretary/Commissioner
+Marisel A. Hernandez, Commissioner
+
+S E C O N D
+
+D R A F T
+
+ Introduction & Overview
+In recent years, the Board of Election Commissioners for the City of Chicago and the Board’s
+management staff have participated in a series of forums, discussions and community-outreach
+efforts to explore changes in election administration. Some of these changes involve legislative
+proposals that have surfaced locally and in other states. Other changes involve systems and
+equipment changes that have the potential to assist voters or streamline election administration.
+To that end, this report presents two sets of recommendations. The first component of this
+report is a list of anticipated infrastructure needs for 2013 through 2015. The second component
+is a review of various concepts for changing election administration.
+Section 1 provides a set of recommendations for Infrastructure Projects that I recommend that
+the Board pursue to improve voter service, secure our balloting systems, to replace outdated
+equipment, expand facilities, and update systems that are outdated or vulnerable to malfunction.
+These projects are designed to prepare the Board of Election Commissioners for elections in
+2014 and beyond. These recommendations include: upgrading the web site; replacing the
+Optical-Scan Ballot Counters; upgrading the voter-registration/polling place database (election
+management system); updating the software in the Edge2Plus and HAAT units now in use;
+replacing the agency’s computer work stations; acquiring more floor space for the 2014 and
+2015 election cycles; upgrading the email system; preparing to relocate the warehouse; and
+implementing electronic poll books. These items are listed with cost projections in order of
+priority and feasibility.
+Section 2 provides evaluations of potential changes in election administration. These concepts
+include On-Line Voter Registration, Election Day (“Same-Day”) Voter Registration, Allowing Fax
+or Internet Voting for Military/Overseas/Disabled Voters, Offering Elections Entirely by Mail, and
+Vote Centers. Most of these concepts would require changes in the Election Code. Some of
+these concepts have been included in proposed legislation in the General Assembly. Some of
+these concepts have been tested in other jurisdictions across the country. In 2011, the Board
+began discussing all of these concepts with our many civic and community partners as part of
+the Board’s “Voter Engagement” outreach project. Per the Board’s requests at recent meetings,
+we have revisited all of these concepts and are listing the arguments for and against each
+proposal and making specific recommendations on the best ways to implement these concepts
+if the General Assembly were to work to change the law. These concepts are listed in order of
+likelihood of feasibility and consideration by lawmakers. There are no specific cost projections
+for these concepts, but I have included information on possible facility and equipment
+considerations for each. My Senior Management team has made recommendations on the best
+ways to achieve these changes, if the General Assembly and the Governor were to consider
+these concepts.
+I look forward to discussing these recommendations at your earliest convenience.
+
+S E C O N D
+
+D R A F T
+
+ Section 1.
+
+Infrastructure Projects for 2013-2015
+
+ 
+
+SECOND DRAFT
+
+ 
+
+Section 1: Infrastructure Projects for 2013-2015
+I.
+
+Upgrade web site
+Cost estimate: $74,000 in first year; $44,000 in subsequent years
+A. Host at secured cloud facility
+1. Facility to offer expandable capacity on short notice for peak periods
+2. Facility to manage servers, internet software, security patches
+3. Facility to perform all detection of hacking, intrusions or dedicated
+denial of service (DDOS) attacks
+B. Upgrade software for content management
+1. Microsoft Sharepoint software would offer more flexibility and
+upgrades for managing content (currently using WebUpdate, which
+hasn’t been upgraded since the Board made the transition to this
+version of software in 2008)
+2. Enhance voter-search component
+3. Maintain multi-lingual content on all pages
+4. Use newer, more secure version of SQL for voter-search database
+5. Provide new mobile version of site for smart phones, tablets, etc.
+6. Provide downloadable spreadsheets of election results
+C. Move hosting to more secured cloud hosting facility
+D. Eliminate problems encountered by this and other jurisdictions with peak
+traffic loads on Election Day
+
+II.
+
+Replace Optical-Scan Ballot Counters (Ballot Scanners)
+Cost estimate: Approximately $2 million per year
+A. Eliminate current weakest link in the balloting system
+1. Equipment now outdated and prone to failure
+2. Each election requires day-after re-counts of 5-20 precincts where the
+scanner cartridges fail.
+3. Current scanners do not show logic used for counting votes from each
+ballot.
+B. Incorporate new Precinct Image Cast counters from Dominion that are
+compatible with current inventories of Edge2Plus touchscreens and HAATs
+1. Minimize risks inherent with introduction of new equipment
+a. Simplify training for judges
+b. Ensure compatibility between key pieces of voting equipment
+c. Ensure accountability through one vendor
+2. Use lighter-weight and less costly paper for ballots
+3. Utilize equipment that meets 2005 EAC certification standards
+4. Offer scans of ballots at time of insertion and logic used to count
+selections
+5. Provides alternatives for accessible voting (in addition to Edge2Plus)
+C. Prepare for changes in results transmission from remote sites
+Section 1 – Page 1 of 3
+
+S E C O N D
+
+D R A F T
+
+ Section 1:
+
+Infrastructure Projects for 2013-2015 (continued)
+
+III.
+
+Voter Registration/Polling Place Database (Election Management System)
+Cost estimate: $400,000 over 26 months (mid 2013-mid 2015)
+A. Upgrade all modules, from voter registration through candidate filings
+B. Contract with past Voter Registration System developers to implement
+changes to more current, secure and flexible SQL platform
+C. Update to include new fields, such as email addresses for voters and polling
+place room names and ZIP+4
+D. Build better compatibility with Illinois Voter Registration System
+
+IV.
+
+Upgrades to the Edge2Plus and HAAT units that were tested and approved by
+the State Board of Elections in 2012
+Cost estimate: Included under current Dominion Service Agreement
+A. Changes to be completed ahead of the March 2014 Primary Election
+B. Necessary with or without new ballot scanners
+
+V.
+
+Upgrade office work stations
+Cost estimate: $103,000
+A. Upgrade computer work stations
+B. Upgrade various software on servers and computer work stations
+C. Upgrade the e-mail program
+D. Upgrade telephone system to join the City of Chicago contract
+
+VI.
+
+Acquire additional floor space for the 2014 and 2015 elections
+Cost estimate: $33,000
+A. Presently reviewing draft election calendars from 2014 and 2015
+B. Determining when additional space would be needed for Petition and
+Objection filings
+C. Determining when space might be needed for Electoral Board Hearing Officer
+proceedings
+D. Determining when space might be needed for Grace Period
+Registration/Voting, Early Voting, Election Judge training and processing of
+Mail Absentee Ballots.
+
+VII. Upgrade email system
+Cost estimate: $12,000 annually
+A. Enhance capacity/storage
+B. Contractor to manage security and spam-filtering tasks
+
+Section 1 – Page 2 of 3
+
+S E C O N D
+
+D R A F T
+
+ Section 1:
+
+Infrastructure Projects for 2013-2015 (continued)
+
+VIII. Warehouse Relocation
+Cost estimate: To be determined in negotiations with City
+A. City may have Election Board move from center building to west building
+B. New facility should be built out to accommodate fewer ESCs, but more ESCs
+that are suited for larger precincts resulting from 2012 consolidation
+IX.
+
+Implement Electronic Poll Books
+Cost estimate: $740,000 annually: $300,000 annually for software; hardware may
+be available through lease for $220,000 per election
+A. Electronic poll books arguably are needed now in light of our experience in
+the 2012 General Election, when many voters needed directions when they
+arrived at the wrong polling places.
+B. Electronic poll books arguably are needed now in light of changes that have
+occurred with Early and Grace Period Voting schedules. Both programs were
+extended to be offered through the Saturday before Election Day. Electronic
+poll books would help prevent any individual from voting more than once. The
+current process of applying stickers to the ballot applications (to indicate that
+the voter participated in Early Voting, Absentee Voting or Grace Period
+Voting) is cumbersome and difficult for judges to achieve in the hour before
+polls open.
+C. There will be even more need for electronic poll books under proposals that
+would extend Grace Period and Early Voting schedules through the Monday
+before Election Day.
+D. We have access to information gathered in a trial by the Cook County Clerk’s
+Office in 28 precincts in the April 2013 election.
+E. Board should review products, in addition to County’s Votec system, that may
+best fit Chicago’s needs.
+F. Electronic poll books will be required if the Illinois enacts provisions for SameDay registration, similar to programs in Wisconsin, Minnesota, Maine and
+other states.
+G. Electronic Poll Books will be required if Vote Centers are to be used on large
+scale or in limited circumstances, such as Special Primaries, Special
+Elections or Aldermanic Run-Off Elections.
+
+Section 1 – Page 3 of 3
+
+S E C O N D
+
+D R A F T
+
+ Section 2.
+
+Changes in Election Administration
+
+ 
+
+SECOND DRAFT
+
+ 
+
+Section 2. Changes in Election Administration
+A.
+
+On-Line Voter Registration
+
+Current status Voters may download and print out the registration application form, complete
+that form, sign it and submit it. But what if the voter has access to a smart phone, tablet device
+or laptop, but not a printer? What happens when the voter has access to a printer, but
+completes the form by hand, leading to the inability to accurately read and enter the handwritten information at the Election Board?
+Option In September 2012, the Chicago Election Board implemented a system that allowed
+the voter to launch the process over the Internet. Once the data was submitted, the Election
+Board printed and mailed the application to the voter. However, this still led to other issues.
+Forms were returned as undeliverable. Although this system moved a step closer to “online”
+registration, the voter still had more processes to complete with a paper form and a wet-ink
+signature.
+This year, the Governor has proposed and the General Assembly is considering legislation that
+would mandate the State Board of Elections to offer truly online registration by incorporating the
+Secretary of State’s digitized signatures from driver’s licenses and state identification cards.
+The State Board would screen the application information and forward the data, including the
+digitized signature, to the appropriate local election authority to complete the processing of the
+registration.
+Arguments For
+Convenience: The proposed system would provide voters with the means to launch the
+registration process from any computer or web-enabled device without a printer.
+Cost: Other states have reported significant savings through processing registrations
+through a web site. Arizona, for example, has said that it used to spend nearly $1 per
+paper registration but now spends only 3 cents to process an on-line registration.
+Accuracy: The only hand-written item on the form would be the voter signature. This
+system greatly reduces the possibility of errors related to the voter’s hand-writing and/or
+the data-entry staff’s ability to interpret or enter those hand-written items.
+Security: The voter data is added to the database when the identity is confirmed and a
+card is mailed to the voter for address verification.
+Corrections: This system could detect inappropriate address submissions, such as postoffice boxes, or duplicate registrations, and advise the applicant instantly, instead of a
+week later, of some flaw in the voter registration application.
+Such a system at the state level also could check all other jurisdictions’ files
+simultaneously to cancel any outdated registration. Currently, if the voter does not
+include such information, the ability to detect a duplicate registration only occurs after
+the second election authority processes a registration from the same person. This then
+leads to a flagging of that record by the State Board of Elections’ Illinois Voter
+Registration System (IVRS).
+Referrals: A state-based system should result in directing the voter’s data to the correct
+agency, helping prevent errant submissions to the wrong election authorities.
+Section 1 – Page 1 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+A.
+
+On-Line Voter Registration (continued)
+
+Arguments Against
+Security: With any on-line system come the vulnerabilities of hacking. Equally important
+is the possibility of a dedicated denial of service (DDOS) attack that might prevent voters
+from entering their data during peak periods near the registration deadline.
+Senior Management Recommendation
+The Board and Senior Management support on-line registration. Senior Management has
+provided guidance to the General Assembly on pending legislation. The likelihood of passage
+of legislation during the current session is not known, but momentum does appear to be moving
+in favor of passage within the next two years.
+B.
+
+Election Day or “Same-Day” Registration
+
+Current status In Illinois, a voter must register 28 days before an election in order to be
+eligible to cast a ballot at his or her polling place on Election Day. The “grace period” option has
+allowed people to continue to register in person at the election authority until three days (the
+Saturday) before Election Day. There have been proposals to expand Grace Period through the
+Monday before Election Day. The General Assembly appears to be moving in the direction of
+mandating Election Day Registration.
+Option Some states offer Same-Day Registration in each polling place. Is such a system
+workable in all elections? Would it create lines and confusion on Election Day? How could it be
+implemented to prevent attempts to vote more than once? Could it be offered only at select
+sites that are not polling places – so that those who are registered already are not delayed by
+the people who wait to register on Election Day? Could separate locations for Same-Day
+Registration allow the election authority to separate ballots to help check the validity of
+registrations and/or guard against fraud before those ballots are mixed into the count?
+Arguments For
+One Step: The current system requires the voter to complete two different processes
+separately (registration and voting), with the exception of the Grace Period program.
+Same-Day Registration allows the voter to register and vote in one process.
+Mobility: Assists voters who are in the most mobile stages of their lives, particularly
+younger voters who are most likely to have changed addresses recently.
+Portability: Increasing numbers of voters expect their registrations to function like an
+“account” that follows them, just as online account would, regardless of their residence.
+Fewer voters are filing National Change of Address forms when they move. This would
+help address both of those issues.
+Access: Provides every voter with a safety net and the chance to participate, even those
+who procrastinate or who were unaware of the need to register or update their records.
+Added Secrecy: After most ballots are counted, provisional ballots and late-arriving
+absentee ballots run the risk of revealing a voter’s choices if there are only one or two
+such ballots in a precinct. If same-day registration ballots were held until verification of
+registration could be confirmed, those ballots could be counted with provisional and latearriving absentee ballots, helping to shield each voter’s selections.
+Section 2 – Page 2 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+B.
+
+Election Day or “Same-Day” Registration (continued)
+
+Arguments Against
+Time: For the election authority, it creates a new set of responsibilities during the votecounting processes that follow the election. The authority would need to devote staff to
+processing voter registrations and attempting to verify data on the application against
+Driver’s License, State ID and Social Security databases before counting the
+corresponding ballots.
+Expense: Whether conducted in the polling places or at separate facilities designated for
+last-minute registrations, such a system would require specialized staff, more training
+and more locations and equipment.
+Separation: If same-day registration were performed in polling places, judges would
+need to be trained to accept these ballots separately to prevent attempts to vote more
+than once. If such ballots are not separated, there would be no means to identify which
+ballot(s) should be removed if authorities later determine the person who used Election
+Day registration was not qualified to register or vote in that precinct.
+Senior Management Recommendation
+If legislation for Same-Day Registration were to be introduced, Senior Management favors the
+concept of separate sites for Same-Day Registration and treating the Same-Day Registration
+Ballots like Provisional Ballots. Senior Management also believes electronic poll books would
+be necessary to provide a real-time connection to a central computer system to help block any
+attempts to vote more than once.
+The Board could incorporate one central site or several regional sites that are dedicated to
+same-day registration and voting. This would achieve three goals:
+1)
+2)
+3)
+
+Prevent those who are already registered from having to wait in line behind those
+who waited until Election Day to register;
+Separate the Same-Day voters’ ballots and not include them in the vote counts until
+their registration can be verified;
+Create a larger pool of ballots to be counted after Election Day (along with latearriving absentee ballots and other provisional ballots) to reduce the prospect of
+revealing any individual voter’s ballot selections.
+Section 2 – Page 3 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+C.
+
+Allow Military, Overseas & Disabled Voters to Cast Ballots by Fax or Internet
+
+Current Status Voting systems compliant with the Help America Vote Act (HAVA) assure that
+all voters have access to balloting systems in each polling place so that the voters may cast
+their ballots independently, regardless of physical differences. Meantime, the Uniformed and
+Overseas Citizens Absentee Voting Act (UOCAVA) provides safeguards to military/overseas
+voters to be able to access mail-in ballots at least 45 days before an election. Further, a new
+system offered in Chicago provides military/overseas voters with a means to access, mark a
+ballot online and print it out and mail it in through the Monday before Election Day. However,
+what if a disabled voter’s polling place cannot be made fully accessible? What if a
+military/overseas voter wants to cast a ballot on Election Day?
+Option Secured fax lines, and possibly later, internet systems, can allow voters the options to
+cast ballots electronically.
+Arguments For
+Convenience: Easier access can translate to better turnout.
+Signature: Faxed or scanned ballot applications capture signatures, the same
+mechanism used to verify the facility of an absentee ballot submitted by mail.
+History: Chicago Election Board already has utilized a grant-funded system through the
+Pentagon to offer military/overseas voters this option during the 2013 Special Primary
+and Special Election. The federal courts ordered Internet voting under a consent
+decree. The partner in this effort, Everyone Counts, has a track record of conducting
+balloting by Internet in other jurisdictions in the United States and abroad.
+Arguments Against
+Security: Internet balloting encryption and security systems would need rigorous testing.
+Election authority must anticipate, mitigate for and be ready to respond to all risks,
+including dedicated denial-of-service (DDOS) attacks or spoof sites that disenfranchise
+voters on or near Election Day.
+As in any absentee voting system, there is no way to guard completely against
+“coercion” or “vote selling” in an internet or fax system.
+Digital divide: Different voters have varying levels of access to and familiarity with
+technology.
+Senior Management Recommendation
+For many years, the Board has supported changing the law to allow voting by fax for
+Military/Overseas voters in all elections. Senior Management recommends that, even though
+Internet voting holds out promise for providing convenience for military/overseas/disabled
+voters, Internet voting does not appear to be a high priority among lawmakers. Internet voting
+deserves continued study but security questions still loom large.
+
+Section 2 – Page 4 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+D.
+
+Offering Elections Entirely By Mail
+
+Current Status In Illinois, every voter has the option of casting an absentee ballot. Like the
+option of Early Voting, voters no longer need to give a reason or excuse to vote absentee. What
+about conducting an entire election all by mail?
+Option Some jurisdictions, like the states of Oregon and Washington, have gone to all-mail
+elections. Such jurisdictions also provide secured local drop boxes for those who want to
+deposit the envelope directly into a ballot box. Do these systems increase turnout in lowerprofile elections? Should Illinois give local election authorities the ability to conduct elections
+that historically have low turnouts entirely by absentee ballot?
+Arguments For
+Convenience: Voter receives the ballot and application in the mail and returns it on or
+before Election Day.
+Turnout: States that have utilized all-vote-by-mail elections claim higher turnouts.
+Cost: Election authorities report that there are lower costs, because:
+o Fewer pieces of equipment to program and virtually no cartage;
+o No rentals of polling places or tables; and,
+o Fewer judges and investigators to hire and train.
+Transparency: Easier for poll watchers to monitor a central intake/ballot-counting center.
+Security: Signature checks for all ballots, as with other absentee ballots.
+Consistency: Oregon and Washington report that the central intake allows for more
+uniform processing of ballot applications and ballots.
+Maintains secret ballot: Envelope-in-envelope systems let judges and observers see
+only the signature before using automated system to add ballot to the mix without seeing
+how the person voted.
+Arguments Against
+Tradition: Is having everyone vote by mail a blow to civic engagement?
+Accessibility: To assure everyone can vote secret ballots privately and independently,
+need back-up audio system for blind voters.
+Coercion: Does an all mail-in election increase the chance of coercion or pressure by a
+family member, employer or other person in a position of authority?
+Delivery: The U.S. Postal Service may reduce its six-day schedule, which could have a
+major impact, particularly the weekend before the deadline for obtaining and returning a
+ballot.
+Inflexible: In the polling place, a spoiled ballot is replaced easily. If a voter makes an
+errant mark that overvotes a ballot, he or she may not realize the mistake if the ballot is
+mailed. Even when voters do spot mistakes, they may have trouble getting replacement
+ballots by the deadline.
+Backup: Secured drop boxes would have to be offered in every neighborhood to serve
+those who do not want to send a ballot through the mail.
+Speed: Currently, 95% of all ballots are counted by 9 or 10 p.m. on Election Night. That
+number might take until late Wednesday to reach after an all-mail Presidential Election.
+Section 2 – Page 5 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+D.
+
+Offering Elections Entirely By Mail (continued)
+
+Senior Management Recommendation
+Senior Management believes an all-mail election option would be most workable and most
+beneficial in a Special Primary and Special Election, and Supplemental Aldermanic (Run-Off)
+Elections. Additionally, in a Special Primary or Special Election that includes more than one
+election authority, each election authority should have the option of deciding whether to conduct
+that election entirely by mail.
+
+E.
+
+Vote Centers
+
+Current Status On Election Day in Illinois, a voter may cast a ballot only at the polling place
+designated for that voter’s precinct. During Early Voting, though, voters may use any Early
+Voting location offered by their election authority.
+Option Some states, such as Colorado and Indiana, have experimented with “vote centers.”
+Under this plan, anyone may vote at any voting center in their election jurisdiction. The concept
+is to offer fewer locations and more convenience. The concept requires the use of an electronic
+poll book system so that there are real-time logs of each voter’s participation to prevent anyone
+from attempting to vote more than once.
+Arguments For
+Savings: Set up fewer polling places, which reduces building rentals and cartage.
+Convenience: Voters can pick the site most convenient to them.
+Staffing: With fewer sites, it may be possible to have an election professional or a
+trained attorney available at each site to resolve questions.
+Local control: In Indiana and Colorado, local election authorities retain the decision on
+whether or not to use voting centers based on local needs.
+Arguments Against
+Equipment: A voting center in Chicago would require offering hundreds of ballot styles
+for every possible combination of Congressional, State Legislative, State
+Representative, Judicial, etc. districts. Chicago would need to procure thousands of
+additional touch screens and/or go to a ballot-on-demand printing solution with ballot
+printers at each Vote Center. A ballot-on-demand printing solution would add equipment
+and extend the time to process each voter.
+Inconvenience: Those who now are able to walk or use public transit might have
+difficulty reaching the nearest regional voting center.
+Locations: There may be regions of the City where it is difficult or impossible to procure
+enough large sites with sufficient parking. On its busiest day, Early Voting accounted for
+38,000 voters casting ballots at 51 sites, or an average of 745 voters per site. Election
+Day vote centers in Chicago would need to have the capacity to handle 500,000 to
+600,000 voters in one day. Even with 250 to 300 “vote centers” in Chicago (five or six
+per ward), each site would need to have the capacity to handle between 1,600 and
+2,400 voters per site in a Presidential Election.
+Section 2 – Page 6 of 7
+
+S E C O N D
+
+D R A F T
+
+ Section 2. Changes in Election Administration
+E.
+
+Vote Centers (continued)
+
+Arguments Against (continued)
+Difficulty: Requires real-time computer interconnectivity to prevent the prospect of a
+single voter casting ballots at multiple sites.
+Security: Every computer at every voting center would need to have access to every
+signature and identifying information in the City. This same risk exists in Early Voting
+but would expand with the larger number of Vote Centers.
+Senior Management Recommendation
+Suburban and rural communities are better suited for Vote Centers in General Elections.
+Suburban and rural communities have fewer ballot styles. Stocking a Chicago Vote Center with
+800 ballot styles in a Primary Election would be problematic. Suburban and rural communities
+often have more locations with ample parking, and voters who are more likely to have access to
+cars. Vote centers do not appear to be as viable for the City of Chicago, particularly in a large
+election.
+However, the Board should be open to experimenting with vote centers, perhaps in addition to
+precincts, instead of replacing the precincts. Further, Vote Centers might be viable alternatives
+for Special Primaries, Special Elections or Aldermanic Run-Off Elections, where there are few
+ballot styles and lower turnouts. Vote Centers also could be helpful in the event the Board
+encounters widespread resistance to locating polling places in schools. Vote Centers also
+might be necessary under special circumstances, like a major weather event. In these
+scenarios, the most logical sites for vote centers in Chicago appear to be City Colleges.
+Senior Management recommends consulting with City Colleges and lawmakers about
+provisions that would explicitly mandate access to City Colleges to serve as Vote Centers in
+Chicago.
+
+Section 2 – Page 7 of 7
+
+S E C O N D
+
+D R A F T
+
+ 

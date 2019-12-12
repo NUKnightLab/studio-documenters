@@ -1,0 +1,194 @@
+ 
+ 
+ 
+ 
+ 
+
+           
+ 
+ 
+ August 20, 2013   
+             
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Item No. 12 
+
+     AUTHORIZATION TO ENTER INTO A CONTRACT WITH SYSTEM SOLUTIONS INC. TO PROVIDE 
+CHICAGO HOUSING AUTHORITY WITH A MAINTENANCE AND SUPPORT AGREEMENT FOR THE CHA’S 
+HP HARDWARE AND SOFTWARE 
+ 
+ 
+                                      
+To the Honorable Board of Commissioners:  
+ 
+RECOMMENDATION 
+It is recommended that the Board of Commissioners (“Board”) authorizes the Chief Executive Officer 
+or  his  designee  to  enter  into  a  contract  with  System  Solutions  Inc.  to  provide  Chicago  Housing 
+Authority with a maintenance agreement for the CHA’s HP hardware and software inventory  for  the 
+period of September 1, 2013 through December 31, 2015, in an amount not‐to‐exceed $483,790.       
+ 
+The Executive Vice President (“EVP”) of Finance, the Office of the General Counsel and the Office of 
+Procurement have completed all necessary due diligence to support the submission of this initiative 
+and recommend the approval of this item accordingly.           
+            
+CORPORATE GOAL 
+The proposed program supports CHA’s corporate goals of ensuring that the CHA’s housing portfolio is 
+safe, decent and sustainable. 
+ 
+FUNDING:   General Fund  
+SOLICITAITON SUMMARY 
+Specification No.:   
+ 
+RFP 13‐01134 
+Vendor:                
+ 
+System Solutions Inc. 
+       
+ 
+ 
+ 
+3630 Commercial 
+ 
+ 
+ 
+ 
+ 
+Northbrook, Illinois 60062 
+Contract Type:  
+Professional Services 
+Base Contract Amount:  
+$ 483,790 (Not‐to‐Exceed) 
+ 
+Base Contract Period:  
+2 Years (Service and Support) 
+ 
+Contract Term:                     
+December 20, 2013 ‐ December 19, 2015 
+Option Period:                       
+N/A 
+Solicitation Release Date:              April 22, 2013 
+Days Advertised:                             30 
+Addendum:                                       3 
+Publication(s):                                  Chicago Sun‐times, Chicago Defender, Extra                          
+Pre‐Bid/Proposal Date:                  May 2, 2013 
+Solicitation Due Date:                     June 12, 2013 
+Vendor List:                                       475      
+ 
+ 
+Assist Agencies:                                66 
+Pick‐up List:                                       43 
+ 
+ 
+Respondents:                                    Two (2) 
+
+ M/W/DBE Participation: 
+Direct: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MBE _100 __%WBE ____%DBE _____%   
+ 
+           
+Indirect:  
+MBE ___%WBE ____%DBE_____% 
+ 
+ 
+ 
+Waiver:     No       (Yes/No) 
+ 
+Section 3: 
+Hiring (1) Subcontracting ____($) Other Economic Opportunities $7,256.83 
+ 
+GENERAL BACKGROUND 
+The Chicago Housing Authority utilizes an enterprise class storage solution from Hewlett Packard (HP).  
+The  HP  Enterprise  Virtual  Array  (EVA)  Storage  Area  Network  (SAN)  stores  CHA’s  mission  critical 
+applications and data, such as CHA’s E‐mail, Internet gateway, File Servers, Print Servers, SharePoint, 
+Domain  Controllers  and  Housing  Offer  Process  (HOP).    The  HP  Data  Protector  software  system  is 
+utilized  to  backup  all  Chicago  Housing  Authority  data.    Prudent  business  practices  require  support 
+agreements to provide preventive and remedial maintenance to minimize system outages. 
+ 
+The  CHA’s  main  inventory  of  HP  hardware  and  software  is  currently  under  maintenance  through 
+December 19, 2013.  Portions of the CHA’s HP inventory were acquired at different times and have 
+support  coverage  that  is  due  to  expire  in  August  2013.    The  CHA  issued  solicitation  #13‐01134  to 
+secure extended maintenance and support for its full HP hardware and software inventory for a two 
+(2) year base term, inclusive of a short term extension for the inventory due to expire in August 2013, 
+in order to bring the entire CHA HP inventory under a single consolidated support term. 
+ 
+The  Board  action  recommended  in  this  item  complies  in  all  material  respects  with  all  applicable 
+Chicago Housing Authority Board policies and all applicable federal (HUD) procurement laws.  
+ 
+The EVP of Finance concurs with the recommendation to enter into a contract with System Solutions 
+Inc.  to  provide  Chicago  Housing  Authority  with a  maintenance  and  support  agreement  covering  the 
+CHA’s full HP hardware and software inventory for a consolidated base term from December 20, 2013 
+through December 19, 2015, inclusive of a short term extension of maintenance and support for that 
+portion of the HP inventory that is set to expire in August 2013.   Collectively the funding requested to 
+cover  the  CHA’s  full  HP  inventory  through  December  2015  shall  be  in  an  amount  not‐to‐exceed 
+$483,790.       
+ 
+The CEO/President recommends the approval to enter into a contract with System Solutions Inc. to 
+provide  Chicago  Housing  Authority  with  a  maintenance  and  support  agreement  for  the  CHA’s 
+consolidated  HP  hardware  and  software  inventory  through  December  2015,  in  an  amount  not‐to‐
+exceed $483,790.       
+ 
+ 
+ 
+ 
+2 
+ 
+
+  
+RESOLUTION NO. 2013‐CHA‐70 
+WHEREAS, 
+
+The  Board  of  Commissioners  of  the  Chicago  Housing  Authority  has  reviewed  the 
+memorandum  dated  August  20,  2013  titled  “AUTHORIZATION  TO  ENTER  INTO  A 
+CONTRACT  WITH  SYSTEM  SOLUTIONS  INC.  TO  PROVIDE  CHICAGO  HOUSING 
+AUTHORITY WITH A MAINTENANCE AND SUPPORT AGREEMENT FOR THE CHA’S HP 
+HARDWARE AND SOFTWARE INVENTORY” 
+
+ 
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY 
+THAT, 
+
+the Board of Commissioners (“Board”) authorizes the Chief Executive Officer or his 
+designee  to  enter  into  a  contract  with  System  Solutions  Inc.  to  provide  Chicago 
+Housing  Authority  with  a  maintenance  and  support  agreement  for  the  CHA’s 
+consolidated  HP  hardware  and  software  inventory  through  December  19,  2015,  in 
+an amount not‐to‐exceed $483,790.       
+These awards are subject to the Contractor’s compliance with the CHA’s applicable 
+MBE/WBE/DBE, Section 3 resident hiring, bonding and insurance requirements. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3 
+ 
+
+ 

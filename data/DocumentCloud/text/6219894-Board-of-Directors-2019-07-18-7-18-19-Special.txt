@@ -1,0 +1,3185 @@
+Minutes of the Special Meeting of the Board of Directors of the Cook County Health and Hospitals System (CCHHS) held
+Thursday, July 18, 2019 at the hour of 9:00 A.M. at 1950 West Polk Street, in Conference Room 5301, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chair Hammock called the meeting to order.
+Present:
+
+Chair M. Hill Hammock, Vice Chair Mary B. Richardson-Lowry and Directors Mary Driscoll, RN,
+MPH; Ada Mary Gugenheim; Mike Koetting; David Ernesto Munar; Robert G. Reiter, Jr.; and
+Sidney A. Thomas, MSW (8)
+
+Present
+Telephonically:
+
+Director Heather M. Prendergast, MD, MS, MPH (1)
+
+Absent:
+
+Directors Hon. Dr. Dennis Deer, LCPC, CCFC and Layla P. Suleiman Gonzalez, PhD, JD (2)
+
+Additional attendees and/or presenters were:
+Ekerete Akpan – Chief Financial Officer
+Debra Carey – Deputy Chief Executive Officer,
+Operations
+James Kiamos – Chief Executive Officer, CountyCare
+Terry Mason, MD – Cook County Department of Public
+Health
+Jeff McCutchan –General Counsel
+
+II.
+
+Iliana Mora – Chief Operating Officer, Ambulatory
+Services
+Beena Peters, DNP, RN, FACHE – Chief Nursing Officer
+Carla Salvo – System Manager of Patient Access
+Financial Counseling
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+Public Speakers
+Chair Hammock asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Recommendations, Discussion / Information Items
+A.
+
+Analysis of the Uninsured (Attachment #1)
+
+Ekerete Akpan, Chief Financial Officer, and Carla Salvo, System Manager of Patient Access Financial Counseling,
+provided an overview of the presentation on the Analysis of the Uninsured, which included information on the
+following subjects:
+• Introduction and Definitions
+• Revenue Cycle – Financial Access and Financial Counseling
+- Departmental Structure
+- Process
+- Overview of Programs
+• Payor Mix by Charges FY2016 to Present
+• Study and Observations
+- Self-Pay Cohort
+- Charity Care Cohort
+- Observations
+
+1 of 87
+
+ Minutes of the Special Meeting of the Board of Directors
+Thursday, July 18, 2019
+Page 2
+
+III.
+
+Recommendations, Discussion / Information Items
+A.
+
+Analysis of the Uninsured (continued)
+
+During the discussion of the information on the Self-Pay Cohort, Director Munar inquired whether information can
+be provided regarding the income level of the cohort. Dr. John Jay Shannon, Chief Executive Officer, responded
+that staff will see if it is available. Additionally, Director Thomas inquired whether diagnostic data can be provided.
+B.
+
+Strategic Plan FY2020-2022 (Attachment #2)
+
+Dr. Shannon provided an overview of the presentation containing the draft tactics, objectives and highlighted
+strategies for the strategic plan, and invited Directors to provide any comments and recommendations.
+Director Munar stated that more emphasis should be made to improve the payor mix; he recommended that a goal
+be set. Additionally, he recommended that more emphasis should be made to improve the capitation rate and improve
+advocacy.
+Director Thomas commented that, many years ago, the County commissioned a study on the subject of having Cook
+County employees receive their health services here at the System. He recalled that there were two (2) issues relating
+to that: 1) capacity and 2) behavioral health. He stated that there should be more of a focus on behavioral health.
+With regard to collective bargaining, Chair Hammock stated that the administration should be sure to identify any
+work rules that are needed to execute this plan; he would like the administration to report back to the Board where
+they were successful and not successful in negotiating those.
+Director Driscoll requested that a modification be made to Objective 5.1 (slide 26) to read as follows: “Tailor Social
+Determinant of Health strategies to achieve the most impact on CCH patients and Health Plan members and create
+health equity.”
+Director Gugenheim commented that, with regard to Objective 1.1, she believes that there are too many strategies
+listed; she suggested that some might be collapsed or consolidated under a broader umbrella.
+Dr. Shannon stated that the Strategic Plan will be presented to the Board for consideration at the July 26th Board
+Meeting. The three (3) year financial projections relating to the Strategic Plan will be presented for consideration in
+August to the Finance Committee and Board. The Strategic Plan and financial projections will then be presented to
+the County Board for consideration in September.
+
+IV.
+
+Adjourn
+As the agenda was exhausted, Chair Hammock declared that the meeting was ADJOURNED.
+Respectfully submitted,
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXX
+M. Hill Hammock, Chair
+2 of 87
+
+ Minutes of the Special Meeting of the Board of Directors
+Thursday, July 18, 2019
+Page 3
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+3 of 87
+
+ Cook County Health and Hospitals System
+Board of Directors Special Meeting
+July 18, 2019
+
+ATTACHMENT #1
+
+4 of 87
+
+ CCH Uninsured Study 2016 – 2018
+Preliminary Observations
+Ekerete Akpan, Chief Financial Officer
+July 18, 2019
+
+5 of 87
+
+ Agenda
+1. Introduction and definitions
+2. Revenue Cycle - Financial Access and Financial Counseling
+a. Departmental Structure
+b. Process
+c. Overview of programs
+
+3. Payor Mix by Charges FY 2016 to Present
+4. Study and Observations
+a. Self-Pay cohort
+b. Charity Care cohort
+c. Observations
+6 of 87
+
+2
+
+ Introduction I De?nition of Terms
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Uninsured
+42 CFR Part 447 – for Disproportionate Share Hospitals (DSH) purposes describes uninsured
+individuals as those ‘‘who have no health insurance (or other source of third party coverage) for the
+services furnished during the year.’’ Also, ‘‘who have health insurance (or other third party
+coverage)’’ to refer broadly to individuals “who have creditable coverage consistent with the
+definitions under 45 CFR parts 144 and 146, as well as individuals who have coverage based upon a
+legally liable third party payer”.
+Uninsured (based on the 2018 health survey interview)
+1.
+
+Number of persons under age 65 uninsured at the time of interview - 30.1 million
+
+2.
+
+Percent of persons under age 65 uninsured at the time of interview - 11.1%
+
+3.
+
+Percent of children under age 18 uninsured at the time of interview - 5.2%
+
+4. Percent of adults aged 18-64 uninsured at the time of interview - 13.3% [1]
+
+Source https://www.cdc.gov/nchs/fastats/health-insurance.htm
+
+8 of 87
+
+4
+
+ Underinsured and Self-Pay
+Underinsured Patients
+
+Patients that have insurance, but the insurance doesn’t cover the cost of
+healthcare. Commonwealth Fund further defines as, “individuals insured in
+household that spent 10% or more of income on medical care (excluding
+premiums) or 5% or more if income under 200% poverty”
+•
+
+CCH CareLink
+
+defined as a CCH patients covered by a private health insurance plan that has an active
+
+contract with CCH as an in-network provider. Patients with an HMO plan contracted with CCH AND who select CCH to
+serve as their Primary Care Provider, or patients with a PPO plan or traditional “fee-for-service, may apply for CareLink
+and receive a discount on the out-of-pocket costs associated with these plans, including deductibles and co-insurance.
+CareLink cost-sharing fees would be applicable.
+
+Self Pay Patients
+Patients that have no insurance and pay out of pocket, or patients that owe a
+balance after insurance payments
+Data source: March 2011, 2012, and 2013 Current Population Surveys.
+
+9 of 87
+
+5
+
+ Uninsured : US and State of Illinois
+
+Data source: https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur201905.pdf
+
+10 of 87
+
+6
+
+ Revenue Cycle a Patient Access 8:
+Financial Counseling
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Overview of Revenue Cycle Department
+Director of Revenue Cycle
+
+Systems Director of
+Patient Access
+
+Stroger Site
+Manager II –
+Patient Access
+
+Admissions
+
+Professional
+Building
+registration
+
+Financial
+Counseling
+
+Financial
+Counseling
+
+Manager Pre
+Registration
+
+Verification of
+demographics, and
+insurance.
+
+Provident Hospital
+Site Manager I
+Patient Access
+
+Provident
+Admissions
+Central
+Registration
+
+System Director
+Patient Financial Services
+
+System Training
+Manager
+
+Training
+
+Billing
+
+Follow up
+
+Q&A
+
+Call Center
+
+12 of 87
+
+8
+
+ Overview of Revenue Cycle Department
+Areas of Responsibility and Scale of Operations
+Department Name
+
+Budget
+
+FTE
+
+Contracts
+
+Revenue Cycle
+Patient Access
+• Call Center
+• Admissions
+• Financial Counseling
+• Systems Training and
+Quality
+
+$18M
+
+304
+
+Ajilon
+$195K
+Great Lakes Medicaid (GLM)
+$1.7M
+
+Change Healthcare
+$334K
+
+Patent Financial Services
+• Billing
+• Follow-up
+
+Experian
+$400K
+
+13 of 87
+
+9
+
+ Financial Counseling - Benefits Advisory Services
+1. Financial Counseling - Benefits Advisors
+Advise and educate patients on the best benefits and payment options for medical charges
+incurred during visits.
+2. Purpose / Citation -
+
+Affordable Care Act (ACA) – The comprehensive health care reform law enacted in March
+2010
+Cook County Ordinance (No. 16-4392,9-14-2016) enhancing CCH Financial Assistance
+(Direct Access) program
+
+1. https://www.healthcare.gov/glossary/affordable-care-act/
+2.http://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3001&ChapterID=21
+3. https://www.cms.gov/regulations-and-guidance/legislation/emtala/
+
+14 of 87
+
+10
+
+ Financial Counselling - Benefits Advisory Services
+1. Purpose / Citation - cntd.
+Financial Assistance Policies (FAPs). Section 501(r)(4) of the Internal Revenue Code (IRC)
+requires a tax-exempt hospital organization to establish a written financial assistance policy
+(FAP).
+Section 9007(a) of the Patient Protection and Affordable Care Act (PPACA), Public Law 111-148 (124 Stat. 119 (2010)).
+TD 9708, 79 FR 78954, Internal Revenue Service, New Requirements for 501(c)(3) Hospitals Under the Affordable Care Act
+Internal Revenue Service, Tax Exempt Hospitals: The Community Benefit Standard and Affordable Care Act under IRC Section
+501(r), Financial Assistance Policy.
+
+Hospital Uninsured Patient Discount Act of Illinois (HUPDA) – A discount program
+established to help residents living in the State of Illinois (but outside of Cook County) who are
+uninsured to pay for their health care services at CCH. [2]
+Emergency Medical Treatment and Active Labor Act (EMTALA) – To ensure public access to
+emergency services regardless of ability to pay. [3]
+1. https://www.healthcare.gov/glossary/affordable-care-act/
+2.http://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3001&ChapterID=21
+3. https://www.cms.gov/regulations-and-guidance/legislation/emtala/
+
+15 of 87
+
+11
+
+ Financial Counseling Process (Flow Chart)
+
+Bill Insurance
+Insured Company
+
+ 
+
+ 
+
+Insured?
+
+ 
+
+Uninsured Financial
+Counseling
+
+ 
+
+ 
+
+16 of 87
+
+12
+
+Financial Counseling Process (Flow Chart)
+
+ 
+
+Quali?es for
+Insurance
+
+   
+
+Financial
+Counseling
+
+Does the Applicant
+Qualify for Insurance
+
+ 
+
+17 of 87
+
+ 
+
+ 
+
+Does not Qualify
+for Insurance
+
+ 
+
+13
+
+Financial Counseling Process (Flow Chart)
+
+Application for
+Medicaid] Medicare, or
+other marketplace health
+plans.
+
+Financial Counselor
+follows up until a
+determination is made
+
+ 
+
+ 
+
+Quali?es for Insurance
+
+ 
+
+Once the application is
+approved, the system is
+updated to ensure the
+timer submission of
+claims for payment.
+
+The patient is contacted
+if additional information
+is needed to process the
+application
+
+ 
+
+ 
+
+18 of87
+
+14
+
+Financial Counseling Process (Flow Chart)
+
+Any inpatient account
+that remains in self-
+
+Any Uncooperative or
+pay status 21 calendar
+da after dischar 
+
+missed patients
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referred to Great 
+Lakes
+
+Uncooperative Not Eligible
+
+ 
+
+ 
+
+ 
+
+Enrolled in Medicaid
+Program
+
+ 
+
+Self Pay
+
+ 
+
+15
+
+Financial Counseling Process (Flow Chart)
+
+ 
+
+ 
+
+ 
+
+ 
+
+IL resi dent
+(lives outside
+of (It) 
+
+?unk County
+
+Gut St .
+a Resilient
+
+Self Pay [11'
+HUPDA
+
+ 
+
+20 of 87
+
+Financial Counseling Process (Flow Chart)
+
+Self Pay
+
+No payment,
+collections
+
+ 
+
+17
+
+Financial Counseling Process (Flow Chart)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Qualify for 20%
+20%-Charity Care
+80% Patient
+responsibility
+
+Qualify for 100%
+100% - Charity
+Care
+
+ 
+
+22 of 87
+
+18
+
+Financial Counseling Process (Flow Chart)
+
+ 
+
+ 
+
+Qualify for 100%
+100% - Charity Care
+
+CareLink
+
+Qualify for 50%
+5096- -Charity Care
+5096- -Patient
+
+ 
+
+23 of 87
+
+ 
+
+ 
+
+Qualify or 25%
+25%- -Charity Care
+
+75%- -Patient
+
+ 
+
+19
+
+Program Overview: ACA - Medicaid Expansion
+ACA Medicaid expansion
+approval levels are based on
+the Federal Poverty Level
+(FPL) guidelines
+
+Family Size Monthly
+
+Income less than or equal to
+138%
+
+*Effective Date:
+
+Yearly
+
+1
+
+$1,436
+
+$17,232
+
+2
+
+$1,944
+
+$23,328
+
+4/1/2019
+
+24 of 87
+
+20
+
+ Program Overview: CareLink Approval Levels
+CareLink approval levels are
+based on the Federal Poverty
+Level (FPL) guidelines
+Income less than or equal to
+250% FPL = 100% CareLink
+discount
+Income greater than 250% FPL
+but less than 350% FPL = 50%
+CareLink discount
+Income greater than 350% FPL
+but less than 600% = 25%
+
+Maximum
+yearly
+income
+
+Maximu
+m yearly
+income
+
+Maximu
+m yearly
+income
+
+1
+
+100%
+Discount
+$31,225
+
+50%
+Discount
+$43,715
+
+25%
+Discount
+$74,940
+
+2
+
+$42,275
+
+$59,185
+
+$101,460
+
+3
+
+$53,325
+
+$74,655
+
+$127,980
+
+4
+
+$64,375
+
+$90,125
+
+$154,500
+
+Family
+Size
+
+*
+
+25 of 87
+
+21
+
+ Program Overview: Hospital Uninsured Patient Discount Act
+Approval Levels
+HUPDA approval levels are based on the
+Federal Poverty Level (FPL) guidelines
+Income less than or equal to 200% =
+100% discount
+Income greater than 200% FPL = 20%
+discount
+
+1
+
+$24,980
+
+$74,940
+
+2
+
+$33,820
+
+$101,460
+
+3
+
+$42,660
+
+$127,980
+
+4
+
+$51,500
+
+$154,500
+
+5
+
+$60,340
+
+$181,020
+
+6
+
+$69,180
+
+$207,540
+
+7
+
+$78,020
+
+$234,060
+
+8
+
+$86,860
+
+$260,580
+
+26 of 87
+
+22
+
+ FY2016 through FY2019 YTD 
+Payor Mix by Charges
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+System Payor Mix By Charges FY2016-FY2018 (in millions)
+
+706
+
+2018
+
+717
+
+2017
+
+399
+370
+
+2016
+
+206
+349
+Charity Care
+
+262
+
+238
+85
+
+696
+
+75
+76
+
+205
+SelfPay
+
+Medicaid &
+Medicaid Managed
+Care
+28 of 87
+
+Commercial
+
+249
+230
+Medicare &
+Medicare Managed
+Care
+
+24
+
+ 1"
+Uninsured Analysis
+
+Study and Preliminary Observations
+
+Uninsured Analysis
+1. Process of Study
+
+Point in time Cohort Study of uninsured patients in the self-pay and
+Charity Care category
+FY2018 cohort looking back through FY2016
+
+FY2016 cohort looking forward through FY2018
+2. Results & Observations
+
+Demographics
+Location
+Utilization vs Rest of CCH
+Utilization
+
+30 of 87
+
+26
+
+ Uninsured Analysis Methodology
+
+1. Cohort of ALL uninsured on a certain day 11/30/2018 was identified.
+2. Identified patients in cohort was queried to determine if members
+were also ;
+a. uninsured on 11/30/2017 and,
+b. uninsured on 11/30/2016
+3. Results - 22,228 patients were identified as continuously uninsured
+Patients in FY2016 through FY2018
+
+a. 6,990 were identified as Self Pay
+b. 15,238 were identified as Charity Care
+31 of 87
+
+27
+
+ Uninsured Analysis – Study Questions
+1. Does CCH have a robust Benefits Advisory/Financial Counseling
+process for connecting eligible patients to benefits?
+2. How many consistently uninsured do we serve?
+3. Who are the consistently uninsured, i.e. demographics?
+4. Do the consistently uninsured have problems in accessing CCH
+services vs the rest of CCH?
+5. What are financial implications for CCH serving the continuously
+uninsured?
+32 of 87
+
+28
+
+ Self Pay Cohort
+
+Self Pay Cohort
+1. Definition / Process of Study
+Point in time Cohort Study of Self-Pay patients
+FY2018 cohort looking back through FY2016
+
+FY2016 cohort looking forward through FY2018
+2. Results & Observations vs Kaiser Family Foundation Study key Facts
+
+Demographics
+Location
+
+Utilization vs Rest of CCH
+Utilization
+34 of 87
+
+30
+
+ Self Pay Cohort – Summary of Results
+Observations vs. Kaiser Family Foundation (KFF) Key Facts
+How many people are Self-Pay? - 6,990
+Why do people remain Self-Pay? –
+
+To be tested or surveyed
+
+KFF Research Findings - In 2017, 45% of uninsured adults said that they remained uninsured because
+the cost of coverage was too high.
+many do not have access to coverage through a job
+
+some eligible for financial assistance under the ACA may not know they can get help,
+and undocumented immigrants are ineligible for Medicaid or Marketplace coverage.
+
+3. Who remains in Self Pay?
+
+Male (52%)
+
+White (46%)
+
+45-64 years old (47%) non Hispanic/Latino (52%)
+35 of 87
+
+31
+
+ Self Pay Cohort - Summary of Results
+Observations vs. Kaiser Family Foundation Key Facts
+How does not having coverage affect health care access?
+
+7% more Visits, 9% more outpatient visits, about 13% less
+
+inpatient stays.
+
+A. People without insurance coverage have worse access to care than people who are insured?
+
+Not apparent in CCH population
+B. Studies repeatedly demonstrate that the uninsured are less likely than those with insurance to receive preventive care and
+services for major health conditions and chronic diseases.
+
+To be further interrogated
+What are financial implications for CCH serving the continuously uninsured?
+
+CCH FY2018 - 235K Accounts referred to collections, $296.8M and $3.7M or 1% Collected
+Per KFF - The uninsured often face unaffordable medical bills when they do seek care. In 2017, uninsured nonelderly adults were
+over twice as likely as their insured counterparts to have had problems paying medical bills in the past 12 months. These bills can
+quickly translate into medical debt since most of the uninsured have low or moderate incomes and have little, if any, savings.
+36 of 87
+
+32
+
+ Self Pay Charges -Top 15 Services by Charges (in millions $’s )
+Clinical Service
+EMERGENCY ADULT
+GEN MED
+AMBULATORY SURG
+MEDICINE
+TRAUMA
+FAMILY PRACTICE
+SURGERY
+OBSTETRICS
+CHEMOTHERAPY
+RADIATION THERAPY
+GYNECOLOGY
+CARDIOTHORACIC
+SURGERY
+OPHTHALMOLOGY
+UROLOGY
+NEUROSURGERY
+All Others
+Grand Total
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+2016
+38.95
+35.88
+22.79
+11.97
+10.12
+6.41
+6.54
+3.38
+4.55
+4.73
+3.25
+
+$
+$
+$
+$
+
+4.20
+2.77
+2.76
+2.85
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+2017
+35.52
+34.50
+20.19
+14.28
+9.86
+7.95
+4.86
+6.92
+4.96
+4.64
+3.09
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+2018
+48.38
+35.63
+24.92
+16.98
+11.33
+7.51
+6.18
+4.82
+4.89
+4.60
+4.48
+
+$
+$
+$
+$
+
+3.44
+3.50
+3.14
+2.68
+
+$
+$
+$
+$
+
+2.75
+4.10
+2.84
+2.32
+
+37 of 87
+
+Grand Total
+$
+122.85
+$
+106.00
+$
+67.90
+$
+43.23
+$
+31.30
+$
+21.87
+$
+17.58
+$
+15.12
+$
+14.40
+$
+13.97
+$
+10.82
+$
+$
+$
+$
+
+10.39
+10.38
+8.74
+7.84
+
+33
+
+ Self Pay Demographics
+
+Female
+
+Male
+
+Trans ge ride 1'
+Total
+
+African?Ame ricanfElack
+American IndiaanaL?ive Alaskan
+As ian
+
+Native Hawaiian?r?Paci?c Islander
+
+Dthe UTD
+White
+
+His anic Latino 5 anishD
+Non?His anic Latino 5 anishD
+Unlmow'n
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Self Pay Location a Wiciely Distributed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SeIf Fa}?
+
+Zip Code Patients Percent Cunlulative
+60 605 421 6.2% 6-2%
+60623 362 5-3% 12-0%
+60 629 325 4-6% 16-6%
+60504 292 4.2% 20-9%
+60 632 254 4.1% 24-9%
+60 609 239 3.4% 25.4%
+60639 233 3.3% 31-2%
+60 612 166 2.4% 34-1%
+60651 159 2.3% 36.4%
+60625 135 1.9% 35-3%
+60625 126 1.5% 40-1%
+60 615 124 1.5% 41-9%
+60620 122 1.2% 43-6%
+60619 115 1-2% 45-3%
+60636 112 1.2% 42-0%
+Rest 3,202 53.0% 100-0%
+
+ 
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+ 
+
+Self Pay Utilization (Total Visits)
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Self P52 Utilizati 55 Rate-5 per patients
+Tetal Visits Patients Percent [In [nu Iaiive
+1 1.552 25.555 25.555 Everyone Else
+2 1.121 15.555 51.555 T5151 ?sits 5,515 4:687
+5 515 11.255 55.555
+4- 555 5.555 52.555 .
+5 555 2.255 25.555 ?utpatmnt ?253 3?886
+5 555 5.555 25.555 ED Discharged 635 641
+2 555 5.555 55.555
+5 222 5.255 55.555
+5 155 2.555 55.155 T5151 Admi55i555 11!] 141
+15 151 2.255 55.255 Inpatient El] 89
+515 525 11.555 155.555
+?bsenratim 52
+Self Pay
+
+NuInIJ-er ef patients with enl?f 1 visit te- 
+
+ED Visits Patients Percent
+1 EH:
+
+ 
+
+ 
+
+COOK COUNTY
+
+HEALTH 400f87 36
+
+ 
+
+Charity Care Cohort
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Charity Care Cohort
+1. Definition / Process of Study
+Point in time Cohort Study of uninsured patients
+FY2018 cohort looking back through FY2016
+
+FY2016 cohort looking forward through FY2018
+2. Results & Observations
+
+Demographics
+Location
+
+Utilization vs Rest of CCH
+Utilization
+42 of 87
+
+38
+
+ Charity Care Cohort – Summary of Results / Observations vs Kaiser
+Family Foundation (KFF) Key Facts
+How many people are continuously in Charity Care? Why do people remain Charity Care? –
+
+15,238
+
+To be tested or surveyed
+
+KFF Research Findings - In 2017, 45% of uninsured adults said that they remained uninsured because
+the cost of coverage was too high.
+Many people do not have access to coverage through a job, and some people
+Some people who are eligible for financial assistance under the ACA may not know they can get help,
+and undocumented immigrants are ineligible for Medicaid or Marketplace coverage.
+
+Female 64%
+Age (45-64 ) making up 56%
+
+3. Who (demographics) remains in Charity care? -
+
+43 of 87
+
+White 71%
+non Hispanic/Latino 73%
+39
+
+ Charity Care Cohort – Summary of Results
+Observations vs. Kaiser Family Foundation Key Facts
+1. Quick Summary of Results
+How does not having coverage affect health care access?
+
+99% more Visits , 122% more outpatient
+visits, about 21% more observation stays
+
+A. People without insurance coverage have worse access to care than people who are insured?
+
+Not apparent in CCH population
+B. Studies repeatedly demonstrate that the uninsured are less likely than those with insurance to receive preventive care and
+services for major health conditions and chronic diseases.
+
+To be further interrogated
+What are financial implications for CCH serving the continuously uninsured?
+
+44 of 87
+
+40
+
+ Charity Care Cohort – Summary of Results
+Observations vs. Kaiser Family Foundation Key Facts
+What are financial implications for CCH serving the uninsured?
+
+Data below - Charges in $ millions
+399
+
+370
+
+349
+
+238
+206
+
+205
+
+2016
+
+Charity Care
+
+2017
+
+SelfPay
+
+2018
+
+Linear (Charity Care)
+
+45 of 87
+
+Linear (SelfPay)
+
+41
+
+ Charity Care- Top 15 Services by Charges (in millions $’s )
+Services
+GEN MED
+AMBULATORY SURG
+EMERGENCY ADULT
+MEDICINE
+FAMILY PRACTICE
+SURGERY
+GYNECOLOGY
+RADIATION THERA
+CHEMOTHERAPY
+OPHTHALMOLOGY
+CARDIOTHORACIC SURGERY
+LABORATORY
+RADIOLOGY (GENE
+RADIOLOGY IMAGI
+NEUROSURGERY
+
+2016
+51.02
+42.22
+22.87
+21.03
+15.52
+13.33
+12.36
+13.01
+12.47
+6.17
+6.81
+7.67
+3.50
+8.21
+5.13
+46 of 87
+
+2017
+59.93
+49.14
+21.75
+24.65
+22.16
+14.20
+12.64
+11.37
+14.00
+8.53
+6.76
+7.01
+6.31
+6.35
+5.86
+
+2018
+47.99
+49.85
+27.59
+26.18
+24.29
+16.29
+16.29
+16.90
+14.29
+9.81
+9.68
+6.32
+10.14
+4.27
+5.94
+
+Grand
+Total
+158.95
+141.21
+72.21
+71.85
+61.96
+43.82
+41.30
+41.27
+40.76
+24.51
+23.26
+21.00
+19.95
+18.83
+16.93
+
+42
+
+  
+
+Female
+
+Male
+
+Trans ge nde 1'
+Total
+
+African?AmericanfElack
+American Indiaanative Alaskan
+Asian
+
+Native Islander
+
+lUthe rf UTD
+White
+
+His anic Latino anishO
+Non?His anic Latino 5 anishD
+UI??iU?wn
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Charity Care Demographics
+
+CarelinkfFi nanci a1 Assist
+
+9,?01 63.?9?0
+
+5,532 36.39%:
+
+5 0.09%:
+15,238
+
+CarelinkfFi nanci a1 Assist
+
+1,163 
+226 1.59%:
+1,089 
+11 0.1911
+1,909 12.59%:
+10,840 
+
+CarelinkfFi nanci a1 Assist
+
+11,139 ?3.19fn
+4,099 26.99%
+0.09.30
+
+CarelinkfI-?i nanci a1 Assist
+
+0 0.09%
+29.99%
+
+55.69%:
+
+11.29%:
+
+
+
+47 of 87
+
+Charity Care Location
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Care-I iijkfIT-?iilanciai Ass-i 5t
+Zip Code Patients Cunlulative
+50 304 1,053- 5-9%
+50 529 1,013 5-5% 13-5%
+50523 952 5-3% 19-9%
+50 532 941 5-2% 25-0%
+50539 255 5.0% 31.1%
+50 509 423 3.1% 34.2%
+5054-1 425 2-3% 32-0%
+50508- 415- 39.2%
+50525 321 2.4% 42.1%
+50 51B- 343 2.3% 44.4%
+50411 335 2-2% 45-5%
+50 534 315 2.1% 45.2%
+50402 252 1.9% 50.5%
+50024 255 1-2% 52-3%
+50 512 251 1.2% 54.0%
+Rue-5t 2,010 45.0% 100.0%
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Charity Care Utilization (Total Visits)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Financial Assist
+Tetal Visits Patients Percent Cumulative
+
+1 1,599 2.2% 2.2%
+2 1,242 5.2% 15.4%
+3 1,229 5.1% 23.5%
+4 1,212 5.5% 31.4%
+5 1,222 5.1% 39.5%
+5 1,154 2.5% 42.1%
+2 1,522 5.2% 53.5%
+5 554 5.5% 59.5%
+9 524 5.4% 55.1%
+15 555 4.5% 59.5%
+515 4,539 35.4% 155.5%
+
+ 
+
+ 
+
+ 
+
+Financial Assist
+
+Number ef patients with enly 1 visit tn Emergency
+
+ED Visits Patients
+1 21 3
+
+ 
+
+Percent
+1.4%
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+ 
+
+Utilizatinn Rates per 1,555 patients
+
+ 
+
+Earelink Financial Assist
+
+ 
+
+ 
+
+Everyone Else
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T?tal 15553 9,325 4,687
+
+5utpatient 5,531 3,886
+
+El) Discharged 532 641
+
+Tntal Admissinns 145 1 4- 1
+
+Inpatient 55 8 9
+
+?bsewatinn I53 5 2
+49 of 87
+
+ 
+
+45
+
+Final Observations/Questions
+1. Does our process work?
+1. Culture?
+2. Practices?
+
+3. Improvements?
+2. Have we done all we can or should do for these groups?
+3. Are their utilization patterns different?
+
+4. Other Questions?
+50 of 87
+
+46
+
+ 
+Questions? 1
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Appendix?
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+Since the ACA, Fewer Adults Are Uninsured, but More Are Underinsured
+Percent of adults ages 19–64
+Insured all year, not underinsured
+Insured now, had a coverage gap
+
+Insured all year, underinsured
+Uninsured now
+
+100%
+90%
+80%
+70%
+
+56%
+
+55%
+
+22%
+
+23%
+
+10%
+
+10%
+
+16%
+
+12%
+
+12%
+
+2014
+
+2016
+
+56%
+
+54%
+
+55%
+
+16%
+
+16%
+
+17%
+
+8%
+
+10%
+
+13%
+
+65%
+
+63%
+
+30%
+
+9%
+
+9%
+
+20%
+
+9%
+
+9%
+
+10%
+
+17%
+
+18%
+
+20%
+
+19%
+
+2005
+
+2010
+
+2012
+
+60%
+50%
+40%
+
+0%
+
+2003
+
+2018
+
+Notes: “Underinsured” refers to adults who were insured all year but experienced one of the following: out-of-pocket costs, excluding premiums, equaled 10% or more of income; out-of-pocket
+costs, excluding premiums, equaled 5% or more of income if low-income (<200% of poverty); or deductibles equaled 5% or more of income. “Insured now, had a coverage gap” refers to adults who
+were insured at the time of the survey but were uninsured at any point in the 12 months prior to the survey field date. “Uninsured now” refers to adults who reported being uninsured at the time of
+the survey.
+Data: Commonwealth Fund Biennial Health Insurance Surveys (2003, 2005, 2010, 2012, 2014, 2016, 2018).
+
+53 ofInsurance
+87
+Source: Sara R. Collins, Herman K. Bhupal, and Michelle M. Doty, Health
+Coverage Eight Years After the ACA: Fewer Uninsured Americans and Shorter Coverage Gaps, But More
+Underinsured — Findings from the Commonwealth Fund Biennial Health Insurance Survey, 2018 (Commonwealth Fund, Feb. 2019).
+
+ Since the ACA, Gaps in People’s Coverage Have Been Shorter
+Percent of adults ages 19–64 insured now but had a coverage gap in past year
+Coverage gap of 6 months or less
+
+Coverage gap of 1 year or more
+
+80
+70
+
+65
+
+61
+
+60
+
+47
+
+50
+40
+
+39
+
+57
+
+35
+
+54
+55
+38
+38
+
+30
+20
+
+31
+25
+
+10
+0
+
+2001
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Data: Commonwealth Fund Biennial Health Insurance Surveys (2001, 2010, 2012, 2014, 2016, 2018).
+
+54 ofInsurance
+87
+Source: Sara R. Collins, Herman K. Bhupal, and Michelle M. Doty, Health
+Coverage Eight Years After the ACA: Fewer Uninsured Americans and Shorter Coverage Gaps, But More
+Underinsured — Findings from the Commonwealth Fund Biennial Health Insurance Survey, 2018 (Commonwealth Fund, Feb. 2019).
+
+ There Has Been Some Improvement in Long-Term Uninsured Rates
+Percent of adults ages 19–64 who are uninsured
+now
+Uninsured for 6 months or less
+
+Uninsured for more than 2 years
+
+80
+70
+60
+
+72
+62
+
+64
+
+63
+
+50
+
+53
+
+54
+
+21
+
+20
+
+2016
+
+2018
+
+40
+30
+20
+
+19
+11
+
+12
+
+13
+
+2010
+
+2012
+
+2014
+
+10
+0
+
+2001
+
+Data: Commonwealth Fund Biennial Health Insurance Surveys (2001, 2010, 2012, 2014, 2016, 2018).
+
+55 ofInsurance
+87
+Source: Sara R. Collins, Herman K. Bhupal, and Michelle M. Doty, Health
+Coverage Eight Years After the ACA: Fewer Uninsured Americans and Shorter Coverage Gaps, But More
+Underinsured — Findings from the Commonwealth Fund Biennial Health Insurance Survey, 2018 (Commonwealth Fund, Feb. 2019).
+
+ More Adults Are Underinsured, with the Greatest Growth Occurring Among Those with Employer Coverage
+Percent of adults ages 19–64 insured all year who were
+underinsured
+Total
+Employer-provided coverage
+
+Individual coverage^
+
+70
+
+60
+50
+
+45
+
+40
+
+44
+37
+
+37
+
+28
+
+30
+20
+
+17
+12
+
+10
+10
+
+19
+13
+
+22
+
+42
+
+23
+
+23
+
+29
+
+28
+24
+
+17
+
+20
+
+20
+
+2012
+
+2014
+
+12
+
+0
+
+2003
+
+2005
+
+2010
+
+2016
+
+2018
+
+Notes: “Underinsured” refers to adults who were insured all year but experienced one of the following: out-of-pocket costs, excluding premiums, equaled 10% or more of income; out-of-pocket costs, excluding premiums, equaled 5% or
+more of income if low-income (<200% of poverty); or deductibles equaled 5% or more of income. Total includes adults with coverage through Medicaid and Medicare. Respondents may have had another type of coverage at some point
+during the year, but had coverage for the entire previous 12 months. ^ For 2014 and 2016, includes those who get their individual coverage through the marketplace and outside of the marketplace.
+
+Data: Commonwealth Fund Biennial Health Insurance Surveys (2003, 2005, 2010, 2012, 2014, 2016, 2018).
+
+56 ofInsurance
+87
+Source: Sara R. Collins, Herman K. Bhupal, and Michelle M. Doty, Health
+Coverage Eight Years After the ACA: Fewer Uninsured Americans and Shorter Coverage Gaps, But More
+Underinsured — Findings from the Commonwealth Fund Biennial Health Insurance Survey, 2018 (Commonwealth Fund, Feb. 2019).
+
+ Cook County Health and Hospitals System
+Board of Directors Special Meeting
+July 18, 2019
+
+ATTACHMENT #2
+
+57 of 87
+
+  
+
+ 
+
+1"
+Focus Area 1
+Deliver 
+
+ 
+
+COOK COUNTY
+
+EALTH
+
+ 
+
+Objective 1.1
+Continuously improve clinical operations, practices and procedures across CCH to
+enhance quality, reliability, safety and efficiency.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.1 A Develop specific strategies and implementation plans related to the quality pillars
+(patient experience, readmissions, safe processes of care, clinical documentation,
+ambulatory pay for performance and mortality).
+
+Achieve targets established by the High Reliability Organization (HRO) Committees.
+Exceed average/median external rating.
+
+1.1 B Establish maternal/child health services at the community centers as key providers of
+maternal/child services. Assess and pilot additional strategies to support the continuum of
+maternal health services throughout the System.
+
+Implement new maternal health navigator program at every health center that provides
+prenatal care. Increase 3% year-over-year prenatal visits; deliveries; newborn visits from a
+FY18 baseline of 6,205 prenatal visits; 987 deliveries; and 1,087 newborn visits.
+
+1.1 C Enhance and reinforce organizational practices that improve a culture of safety and
+result in safe patient outcomes.
+
+10% reduction in harm index over next three years.
+
+1.1 D Improve the health status of patients by implementing the tenets of the medical
+home at CCH outpatient centers and practices that provide value.
+
+Achieve benchmarks for HEDIS and Pay for Performance.
+
+1.1 E Improve inpatient and ambulatory patient care by adopting strategies that move
+towards nursing Magnet® certification.
+
+Achieve nursing-sensitive safety outcomes and process metrics (NDNQI Metrics) to allow
+consistent and meaningful progress towards Magnet®.
+
+1.1 F Assure reliable supply chain to provide timely and safe clinical practice.
+
+Streamline procurement process to reduce time to enter into contracts.
+
+1.1 G Deploy appropriate emerging technology to improve portability and functionality.
+
+Achieve HIMSS for Infrastructure certification; Implement Voice Over Internet Protocol
+(VOIP) system-wide.
+
+60 of 87
+
+3
+
+ Objective 1.1 Continued
+Continuously improve clinical operations, practices and procedures across CCH to
+enhance quality, reliability, safety and efficiency.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.1 H Leverage IT in the clinical environment by using artificial intelligence and predictive analytics to improve
+patient care. Review the electronic medical record and determine if there are any untapped management tools
+to activate.
+
+Finalize a plan on using artificial intelligence and predictive analytics by the 2nd quarter of 2020 that includes
+areas of focus and relevant metrics. Complete assessment of the Cerner Electronic Medical Record platform for
+additional management tools.
+
+1.1 I Implement data governance model to improve data integrity and provide meaningful and timely reports to
+measure service performance against external benchmarks. Increase independent user access to data dashboards
+to improve knowledge, decision making and patient care.
+
+Establish definitions and requirements for data input and provide routine reporting and real-time dashboards
+available for managers and for quality/performance oversight activities. Ability to produce ad hoc reports and
+generate data within established timelines. Increase number of dashboard users. Increase number of standard
+Cerner reports useful to local managers.
+
+1.1 J Optimize health system integration and care transitions to benefit patients and the health system using an
+approach that is consistent with evidence-based practices.
+
+Improved discharge planning that includes engaging the Patient Support Center. Reduce length of stay and
+improved utilization of appropriately reimbursable admission status.
+
+1.1 K Modernize information technology infrastructure to improve the patient experience.
+
+Implement free guest Wi-Fi across CCH where practical; strengthen cybersecurity; Refresh network
+infrastructure enabling faster network speeds, high availability, and next generation technologies; Fully optimize
+existing technology such as Tele-Tracking, TIGR to enhance patient care. Implement systems to ensure external
+providers can easily refer patients to CCH and receive results following new and follow up appointments.
+
+1.1 L Assess contribution of Race, Ethnicity, and Language (REaL) factors to adverse events and develop
+mitigation strategies. Assess the contribution of disparities to health outcomes and adverse events. Determine if
+a patient’s cultural or racial factors contribute to adverse outcomes and evaluate the causes of these outcomes.
+Focus quality efforts in areas that are directly impacted by disparities.
+
+100% of intake staff are trained on how to accurately input race, ethnicity and language (REaL) data by 2022.
+Begin to validate and stratify outcomes data by REaL.
+
+1.1 M Deploy applications that enhance services and facilitate exchange of clinical and public health data.
+
+Analyses of clinical conditions informed by public health data sets to integrate into clinical practice strategies.
+
+1.1 N Launch culturally-tailored health promotion programming and interventions. Shape our health centers
+to be culturally and linguistically sensitive.
+
+Implement new health promotion program within community health centers by December 2020.
+
+61 of 87
+
+4
+
+ Objective 1.2
+Develop systems that meet or exceed expectations and enhance the patient experience.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.2 A Implement best practices to enhance patient experience
+using data from patient satisfaction surveys. Use improvement
+strategies and support leadership strategies at the unit,
+department and site levels.
+
+Continue to produce an annual patient experience plan informed
+by survey results. Improve patient ratings year-over-year.
+
+1.2 B Develop comprehensive cultural competency strategy.
+
+Train 100% of employees in cultural competency. Facilitate
+hiring of additional bi-lingual employees by increasing the
+number of bilingual job descriptions to 50, 75, 100 for 2020,
+2021 and 2022 respectively, from a current baseline of 20.
+
+1.2 C Launch initiatives focused on customer service, patient
+conveniences (e.g. Quiet Campaign).
+
+Increase “willingness to recommend” to 60th percentile by
+2022, up from the current 51st percentile.
+
+62 of 87
+
+5
+
+ Objective 1.3
+
+Improve the availability of and access to health care, especially preventive care, for
+Cook County residents.
+
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.3 A Enhance strategic partnerships with community providers.
+
+CCH patient population meets HEDIS Medicaid target for an agreed upon set of metrics.
+
+1.3 B Develop a roadmap of service needs by conducting a geographic analysis of providers, income,
+disease prevalence, etc., throughout the County to determine gaps in health services and recommend
+a service delivery plan.
+
+Finalize comprehensive review of health care services (in 2020) in the County by provider type and
+population that can be updated, but would also include model/formula to explore and evaluate
+various expansion and/or partnership opportunities. Develop a multi-year strategy to grow CCH
+specialty services to meet community needs in a financially viable manner. Establish effective
+strategies that meet community needs and bring value to CCH.
+
+1.3 C Complete a master facilities plan and make investments to make CCH more competitive.
+
+Complete master facilities plan. Open new health facilities at Hanson Park, North Riverside, Blue
+Island, Harrison Square and the new Provident facility. Identify additional locations for health
+center expansions or replacements.
+
+1.3 D Develop a comprehensive patient education strategy (e.g. diabetes prevention training,
+prenatal education, blood pressure self testing).
+
+Establish inter-professional Patient Education committee for the System and establish metrics first
+quarter of 2020. 100% of diabetic patients are offered diabetic education, and 30% of diabetic
+patients receive diabetes management education by 2022. 100% of prenatal patients are offered
+prenatal education, and 30% complete entire prenatal education curriculum by 2022.
+
+1.3 E Take advantage of state and federal initiatives to innovate care delivery services and programs,
+beneficial to patients and members.
+
+Implement Integrated Health Homes if approved by the state.
+
+1.3 F Mature behavioral health portfolio.
+
+Full integration of behavioral health into primary care. Enhance Medication Assisted Treatment
+(MAT) infrastructure with workflow/pathway creation of level 1, 2, and 3 Behavioral Health services.
+Secure grant funding for opioid treatment and engage law enforcement partners in the development
+of deflection to treatment programs.
+
+1.3 G Implement operational improvements to tap into unused capacity and create more access.
+
+Set target of “third next available” appointments to less than 14 days for new specialty referrals.
+Target increase in eConsult use by 10%. Increase in-care list by 25% from FY2019 baseline. Pilot use
+of in-home monitoring for selected patient population (e.g. diabetes and hypertension).
+
+63 of 87
+
+6
+
+ Objective 1.4
+Ensure a continuum of services to meet evolving needs to ensure continuity of care
+and meet patient needs at all stages of their lives.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.4 A Conduct analysis of services and identify gaps in the
+continuum of care to build valuable strategies for special
+populations (e.g. elderly, disabled, etc.).
+
+Complete analysis and implementation plans on service gaps
+with recommendations on services to be provided by CCH or
+through partner organizations. Develop recommendations
+including on long-term care (including nursing home care),
+embedded care coordinators and senior care services in
+outpatient centers, home-based connections, telehealth,
+community-based care in lieu of institutionalization for elderly
+and special needs populations.
+
+64 of 87
+
+7
+
+ Objective 1.5
+Integrate services with correctional health to improve health outcomes by ensuring
+continuation of care when individuals are released from correctional or detention
+facilities and reside in Cook County.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+1.5 A Improve transitions of care to the community through
+enhanced discharge planning.
+
+Increase discharge planning such as the Naloxone Program and
+other warm hand-offs in the community by 20%. Expand
+transitions into community-based services through partnerships
+with CCH care management and PCMH providers, including
+linkages to housing, community based mental health providers.
+Establish community care coordination for justice-involved
+youth.
+
+65 of 87
+
+8
+
+ Focus Area 2
+
+COOK COUNTY
+
+Cook
+
+0
+
+I 
+?w
+
+
+ 
+
+Objective 2.1
+Establish CCH as a provider of choice.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+2.1 A Grow services lines that are needed by the
+community and deploy them geographically, in a patient-centered way to ensure CCH is providing the
+“right care at the right time and right place.”
+
+Primary Care: Volume of primary care patients increase by 3% year-over-year from a baseline of 92,143
+primary care patients in FY2018. Specialty Care: Stroger Campus to provide for key specialties minimum 4
+days/week, evening and Saturday hours. Provident Campus to provide full array of specialties minimum 3
+days/week and evening hours. Provide selected specialties for new and expanded outpatient locations.
+Review all community locations to determine increased deployment of specialists for greater access to
+specialists.
+
+2.1 B Maximize use of services and overall utilization.
+
+Overall: Achieve 80% facility capacity utilization. Achieve 80% of primary care providers at productivity of
+10 patients per session by 2022.;
+Provident: Reinstitute ambulance runs; Average Daily Census increase from 12 by 1.3% each year. ER
+Growth by 1.3% in FY 2020, 1% increase in FY 2021, 1% increase in FY 2022.
+
+2.1 C Improve Stroger and Provident Hospital Emergency Department throughput.
+
+Create an operational efficiency dashboard to include: Average time from ED arrival to ED departure for
+admitted ED patients; Average time from admit decision to ED departure time for admitted patients;
+Average arrival to ED departure for discharged ED patients; Physician discharge orders before 9:00 am;
+ED Left Without Being Seen (LWBS) to 2% by 2022.
+
+2.1 D Market CCH services and strengthen the CCH brand.
+
+Position CCH providers/leadership as thought leaders on quality and population health management.
+Complete rebranding process. Conduct market research. Develop consumer and non-consumer facing
+strategies to raise awareness of specialty care. Develop sponsorship strategy. Develop strategies to
+maintain CountyCare market share.
+
+2.1 E Explore opportunities for CCH to be a provider for County employees as well as other employers.
+
+Collaborate with Cook County Risk Management Department to explore feasibility, timing, and tactics to
+make CCH services a health service alternative.
+
+2.1 F Minimize external referrals for care.
+
+Internal referrals increase; eConsults increase (including by CCH providers); third next available is less
+than 14 days for new and follow up.
+
+2.1 G Establish additional specific programs at Provident to maximize meeting the community needs.
+
+Create Centers of Excellence for women’s health (gynecology, cardiology, breast, endocrine), lifestyle
+center (dietary, fitness, chronic disease management), orthopedic center (podiatry, joints, hand), and
+men’s health programs (urology, cardiology, endocrine).
+
+2.1 H Maximize value of CCH resources (people, technology) to provide greater access to benefit patients.
+
+Create an operating room dashboard to include: first case start times (target 80%), growth targets (10%
+per year), case cancellations rates (less than 5%), block utilization (95%) and operating room hours (80%
+67 of utilization).Utilization
+87
+of operating rooms at Provident and Stroger (80% of all operating room capacity).
+Implement telemedicine/tele psychiatry.
+
+10
+
+ Objective 2.2
+Retain and grow CountyCare market share.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+2.2 A Explore options in acquiring additional members through
+changes in the marketplace.
+
+Gain auto-assignment for eligible justice-involved individuals in
+Cook County.
+
+2.2 B Continue to implement a strong member retention and
+growth strategy to retain market share. Advocate for state policy
+changes that result in a simpler redetermination process.
+
+Achieve plan redetermination at least 20% greater than the
+State.
+
+2.2 C Enhance incentive programs and member benefits for
+improved health outcomes and member retention.
+
+Offer a value-added benefit package that ties to quality
+outcomes, increases member engagement, and improves
+member retention.
+
+68 of 87
+
+11
+
+ Objective 2.3
+Grow market share in nontraditional CCH populations.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+2.3 A Execute Medicare Advantage strategy that includes
+Chronic Conditions Special Needs Plan (C-SNP) persons with
+HIV; Institutional Special Needs Plan (I-SNP); Institutional
+Equivalent Special Needs Plan (IE-SNP); Medicare-Medicaid
+Alignment Initiative (MMAI).
+
+Approval by CMS with Model of Care and Network for all three
+lines of business.
+
+2.3 B Migrate to managed care capability including accepting
+risk.
+
+Develop competencies in-house to evaluate and negotiate risk
+arrangements, and ensure CCH has the ability to accept
+managed care patients who are part of risk arrangements.
+
+69 of 87
+
+12
+
+ 11
+
+Foster Fiscal Stewardship
+
+Objective 3.1
+Optimize CCH revenue.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+3.1 A Maximize reimbursements from payors by continuing to improve operations,
+including revenue cycle improvements.
+
+Increase MCO revenue by 10% each year from FY2019 baseline. Achieve 60% Pay for
+Performance (P4p) targets and benchmarks; Increase provider empanelment for MCOs to
+80% of Medical Group Management Association (MGMA) or the FQHC benchmark.
+Reduce claims denials for managed care organizations by 80% from current levels and
+reduce accounts receivable. Improve authorization process for inpatient/observation care
+by Inpatient Care Coordination team for CountyCare members.
+
+3.1 B Maximize extramural grant sources in alignment CCH initiatives, including primary
+care, maternal/child health, workforce development, behavioral health, HIV, social
+determinants of health and capital improvements; capture 10% indirect cost. Continue to
+build out the grants administrative infrastructure and increase the funds managed by
+CCH.
+
+Increase extramural support by $5M annually, including capital. Increased alignment and
+coordination of extramural activities to improve impact.
+
+3.1 C Continually improve documentation through ongoing provider feedback and provider
+education to support timely, complete and accurate billing.
+
+Write and implement a three-year plan to improve documentation.
+
+3.1 D Maximize auto-assignment for CountyCare.
+
+Improve health plan quality and operational performance to assure maintaining and
+improving auto-assignments.
+
+3.1 E Increase CountyCare membership in the Integrated Care Program (ICP) by assisting
+members with disabilities attain Social Security Income/Social Security Disability Income
+(SSI/SSDI).
+
+Have RFP and procurement complete by 10/1/19 and vendor selection and engagement by
+FY2020. CountyCare will report on SSI/SSDI enrollment in Q2 2020.
+
+3.1 F Identification of Skilled Nursing Facility and Home Health Partners for CountyCare
+members.
+
+CountyCare SNF quality program requiring HFS approval has been submitted and is being
+reviewed by the State.
+
+3.1 G Advocate for local government financial support of unfunded mandates such as
+correctional health and public health services.
+
+Public and Correctional Health expenses continue to be covered by local taxpayer support.
+
+3.1 H Optimize information technology infrastructure to improve revenue capture and
+financial reporting.
+
+Successful implementation of patient accounting system, online bill payment, online
+71 of financial
+87
+counseling and routine financial reporting.
+
+14
+
+ Objective 3.2
+Control costs and maximize efficiencies.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+3.2 A CountyCare to continue implementation of Medical Cost Action Plan that all CountyCare departments
+participate in to reduce costs through a combination of operational efficiencies and recontracting.
+
+Achieve $30 million in savings to CountyCare plan, while preserving excellence in clinical services and plan
+operations.
+
+3.2 B Increasing full-time employees, reducing agency and overtime costs.
+
+Streamline and automate processes that reduce time to hire and expedite other human resource processes.
+Reduction in vacancies to 10% of workforce.
+
+3.2 C Maximize lab automation through cross-training and filling vacant positions.
+
+Achieve 98% error free rate.
+
+3.2 D Utilize data (volume, unit costs) to ensure staffing is in-line with appropriate best practices.
+
+Establish annual targets based on industry benchmarks for overall staffing, including overtime and agency
+staffing that align with volumes and clinical complexity.
+
+3.2 E Evaluate training programs to determine optimal size and CCH strategic and fiscal value.
+
+Assessment of 2 physician training programs with recommendations to leadership about strategic and financial
+attributes to inform organizational planning.
+
+3.2 F Conduct event review and overall analysis for all litigation and implement and communicate lessons learned
+to mitigate financial risks through employee training.
+
+With Risk Management, identify litigation trends and implement strategic interventions where appropriate to
+minimize risk. Continue trainings for staff across the organization on topics like litigation, informed consent,
+following event reporting and evaluation protocols in order to preserve privileges in litigation matters.
+
+3.2 G Reduce facility expenses.
+
+Complete close out of health system operations at the Oak Forest property and fully transferred Oak Forest
+maintenance to the County. Establish internal construction team to reduce facility rehab costs. Move all
+remaining employees out of the Polk Administration
+building to allow the County to proceed with building decommissioning. Integrate CORE facility maintenance
+into CCH portfolio. Review the structure of the building and maintenance division and leverage these resources
+across all of CCH locations.
+
+3.2 H Transition high volume network providers to value-based contracts for CountyCare.
+
+Execute at least one significant contract with a network provider that transfers risk while preserving excellence in
+member services in 2020.
+
+3.2 I Improve competition for CCH contracted work by increasing transparency of what we plan to procure each
+year.
+
+Establish Annual Buying Plan and increase MBE/WBE contract participation.
+
+72 of 87
+
+15
+
+ Objective 3.3
+Pharmaceutical Management.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+3.3 A Optimize pharmacy economics.
+
+Optimize Revenue: Identify contractual opportunities to
+increase pharmacy reimbursement for current formulary
+products. Insource specialty pharmaceuticals creating
+opportunity to generate revenue. Minimize Expenses: Maximize
+use of programs available that will reduce medication expense
+(such as 340B program) or that will allow eligible patients to
+obtain required medications through external programs (such as
+insurance Medication Assistance Programs). Reduce practice
+variation, especially around chronic disease management, to
+ensure prescriptions are evidence-based, decreasing variation of
+drug uses among expense classes.
+
+73 of 87
+
+16
+
+ 
+Focus Area 
+
+Laverne and Invest in Assets
+
+ 
+
+COOK COUNTY
+
+EALTH
+
+ 
+
+Objective 4.1
+Recruit, hire and retain the best employees, who are committed to CCH’s mission.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.1 A Finalize implementation of online performance
+evaluations.
+
+Performance evaluations done online for all personnel.
+
+4.1 B Develop an industry-based class and compensation strategy
+to recruit, hire and retain the best employees to support the
+continued transformation of the organization.
+
+Create performance-based pay plan for non-union employees.
+
+4.1 C Analyze and develop solutions for employee transportation
+needs.
+
+Complete analysis of actionable recommendations, considerate
+of other local employers.
+
+75 of 87
+
+18
+
+ Objective 4.2
+Strengthen the CCH Workforce.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.2 A Enhance workforce training opportunities.
+
+Develop curriculum for CCH employee to develop/enhance skill sets.
+Training catalogue created detailing all training available across CCH.
+
+4.2 B Conduct an analysis of organizational leadership by span of control,
+bench strength and develop an approach to succession planning.
+
+Complete analysis of actionable recommendations, considerate of other
+local employers.
+
+4.2 C Review of competency-based, “top of license” model of care across the
+System.
+
+Update Advanced Practice Provider job descriptions to have more defined
+requirements and clinical activity expectations. Implement plan to optimize
+roles of Community Health Workers and Psychologists.
+
+4.2 D Develop strategies that foster flexibility and career development for
+unionized employees.
+
+Establish career ladders within specialized technical positions. Increase
+online and interactive training courses to enhance supervisory skills.
+Develop opportunities for entry level positions to train for more technical
+positions (e.g. Building Service Worker to Medical Assistant).
+
+4.2 E Pursue partnerships with nursing schools to foster and grow
+recruitment of excellent and culturally-competent nurses to CCH.
+
+Establish one partnership and complete a cost/benefit analysis of a nursing
+residency program. Relevant metrics to gauge success are: nursing turnover
+rate by tenure, number of new hires by colleges and number of schools of
+nursing partnerships.
+
+4.2 F Improve the continuous learning environment of CCH and conduct an
+ongoing review of the effectiveness of academic affiliations.
+
+Identify benefits resulting to both CCH and University of Illinois with a
+finalized agreement with University of Illinois School of Public Health.
+Assess master affiliation agreements in alignment with clinical priorities.
+
+76 of 87
+
+19
+
+ Objective 4.3
+Leverage CCH workforce.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.3 A Develop and execute employee engagement action plans
+based on learnings from the employee engagement survey.
+Enhance collaboration with labor to further employee
+engagement.
+
+Establish employee recognition/awards program.
+
+4.3 B Strengthen inter-departmental communications and
+collaboration better-coordinated services and improved patient
+outcomes.
+
+Improve patient outcomes and Hospital Consumer Assessment
+of Healthcare Providers and System (HCAHPS) scores related to
+teamwork. Decrease in number of patient grievances and
+increase in employee satisfaction.
+
+4.3 C Support an environment of continuous process
+improvement by increasing managers’ competencies using
+process improvement and project management tools.
+
+Standardize process improvement approach to projects. Identify
+professional membership(s) to support ongoing process
+improvement. Train all managers on process improvement.
+
+4.3 D Support board development and leverage CCH Board of
+Directors as resources.
+
+Create an annual calendar that anticipates strategic
+presentations to the Board. Board to complete an annual selfassessment process regarding best governance practices and
+incorporates opportunities identified into changes in board
+practices.
+
+77 of 87
+
+20
+
+ Objective 4.4
+Utilize industry benchmarking and tools to improve quality, cost, utilization and
+patient outcomes.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.4 A Establish staffing productivity model to optimize efficiency and
+effectiveness for key areas (e.g. nursing, environmental services). Develop a
+predictive staffing model/variable workload staffing model.
+
+Reduce nursing overtime by 25%, decrease agency usage by 50% by 2021.
+
+4.4 B Develop the ability to analyze specific initiatives to determine mission
+alignment and attainment of outcomes.
+
+Establish defined process for approval of new programs and initiatives.
+
+4.4 C Evaluate outcome data and utilization patterns to determine the
+efficacy of various system strategies (e.g. care coordination).
+
+Provided actionable analysis of the efficacy of care coordination strategies.
+
+4.4 D Update Clinical, Administrative, Research and Teaching (CART)
+process to review and standardize expectations and that actuals are aligned
+with these expectations. Distribute dashboards to benchmark performance
+on CART and Relative Value Units (RVU) at the physician and department
+level.
+
+Annual review of CART expectations to be part of the annual performance
+appraisal of clinical chairs as a routine review of results against
+expectations. Provide and mature Relative Value Units (RVUs) reports for
+providers and managers. Establish RVU reporting with accurate
+information routinely reported using data in Cerner system.
+
+4.4 E Mature health plan network strategy to assure access, quality, and
+value.
+
+Develop and implement a managed care strategic roadmap to address
+payor prioritization/portfolio, matching the delivery system to managed
+care opportunities to increase year-over-year increase in utilization of CCH
+as a provider.
+
+78 of 87
+
+21
+
+ Objective 4.5
+Utilize CCDPH data and experience to address health inequities to conceptualize and
+plan robust interventions to improve population health.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.5 A Develop system-wide strategies to reduce transmissible
+infections.
+
+Pilot two mass screenings events in high-risk communities by
+2021. Institute expedited partner therapy in 100% of CCH
+community health centers by 2020. Establish media/social
+media campaign to raise awareness and promote testing of
+sexually active adolescents and adults. Establish walk-in
+diagnostic and treatment capacity at all CCH primary care sites
+with expedited results.
+
+4.5 B Maximize local health collaboration, partnership and
+alignment in Cook County to inform services, with local health
+departments such as City of Chicago Department of Public
+Health and local resources such as the University of Illinois
+School of Public Health.
+
+Continue collaborative work on public health initiatives and
+identify additional areas for collaboration and/or synergy of
+efforts at shared objectives.
+
+4.5 C Explore establishing additional injury-prevention
+partnerships and programs.
+
+Develop program to reduce injuries, improve population health
+and identify external funds.
+
+79 of 87
+
+22
+
+ Objective 4.6
+Increase community engagement.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.6 A Leverage outpatient health centers as community anchors
+by partnering with community organizations. Continue rolling
+out community advisory boards for all outpatient health centers.
+Develop a strategy to ensure community engagement across the
+county.
+
+Establish community advisory boards at all outpatient health
+centers.
+
+80 of 87
+
+23
+
+ Objective 4.7
+Align extramural funding efforts with core competencies and strategies.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+4.7 A Mature grant opportunity review process to include an
+evaluation of potential grants based on CCH strategy, expected
+cost/benefit and clinical or research alignment.
+
+Establish process to evaluate grant opportunities to ensure
+alignment with strategic priorities, organizational leadership
+and cost/benefit. Establish a minimum grant value.
+
+81 of 87
+
+24
+
+ 11
+
+Impact Social Determinants
+
+and Advocate for Patients
+
+Objective 5.1
+Tailor Social Determinant of Health strategies to achieve the most impact on CCH
+patients and Health Plan members.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+5.1 A Establish cross-departmental stakeholder group to create a plan to address social determinants of health for
+CCH populations.
+
+Create work group. Understand the needs of specific populations and develop tailored service plans.
+
+5.1 B Leverage CountyCare data, including Health Risk Assessments (HRAs) to identify needed value-added
+benefits to membership related to social determinants of health and serve that improve health status.
+
+Routine review of CountyCare data to make recommendations on additional value-added benefits that may be
+needed.
+
+5.1 C Partner with other organizations to address population health care needs outside of the health care system,
+including those related to food insecurity.
+
+Continue “Food as Medicine” program to all outpatient sites. Evaluation complete related to onsite food pantries.
+Increase clients receiving Women, Infants and Children (WIC) services by 3% year over year. Convene CCDPH
+Food Summit and develop and distribute CCDPH Food Summit report. Organize and facilitate quarterly Cook
+County Good Food Task Force meetings and implement recommendations.
+
+5.1 D Grow and mature the housing strategy to improve patient outcomes.
+
+Create criteria for long-term care (custodial) admissions to divert to housing with support services. Facilitate
+housing for CCH patients in CCH permanent supportive-housing models. Reduce unnecessary visits to the
+Emergency Department by homeless individuals by partnering with community-based organizations on
+innovative care solutions.
+
+5.1 E Educate local, state and federal officials on policies and practices that affect CCH populations.
+
+Gain auto-assignment for eligible justice-involved in Cook County.
+
+5.1 F Collaborate nationally with county government stakeholders and large urban health care systems to garner
+congressional support to garner support for legislation that furthers the mission of CCH on shared policy
+priorities and targeted advocacy efforts.
+
+Advocate for reinstating county eligibility in the National Health Services Corps (NHSC) loan forgiveness
+program.
+
+5.1 G Utilize CCH data and experience to address health inequities to conceptualize and plan robust interventions
+to improve population health and trauma-informed approaches.
+
+Successfully implement strategies identified in the CCH Trauma-Informed Approaches Taskforce report. Track
+the number of staff trained in trauma-informed approaches and the number of designated trauma champions in
+each department.
+
+5.1 H Develop focused program on populations that would benefit from better engagement in health care who are
+less likely to engage in appropriate preventive care.
+
+Expand pilot program to provide outreach and engagement of 100 African American men by 2023 on
+hypertension and apply lessons learned across all outpatient sites.
+
+83 of 87
+
+26
+
+ Objective 5.2
+Elevate organizational contributions to mitigate disparities.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+5.2 A Maximize external recognition of CCH best practices.
+
+Establish center for Health Equity and Innovation. Convene quarterly
+research and innovation summits. Present CCH correctional best practices
+to other correctional health departments (e.g. Naloxone distribution, dental
+health, women’s health).
+
+5.2 B Work with Cook County government to advance a Health in All
+Policies (HiAP) approach that incorporates health, equity and sustainability
+considerations into decision-making across sectors and policy areas to
+improve the quality of life of its residents.
+
+Convene internal CCDPH team to lead research and process development
+and implementation. Outreach to other local governments implementing
+HiAP to obtain lessons learned. Propose process to Cook County
+government to explore advancement of HiAP. Implement process with
+Cook County government to identify best mechanism to advance HiAP.
+
+5.2 C Support the Cook County Complete Count Census Commission in
+their efforts to ensure that all Cook County residents are counted in the
+2020 Census.
+
+Share CCH and CCDPH information with patients, providers, and
+community stakeholders on the importance of Census participation.
+
+5.2 D Increase MBE/WBE participation on contracts.
+
+Steadily increase MBE/WBE participation annually through an enhanced
+CCH outreach efforts and targeted programs with Group Purchasing
+Organizations (GPOs).
+
+84 of 87
+
+27
+
+ Objective 5.3
+Utilize CCH data and experience to address health inequities to conceptualize and
+plan robust interventions to improve population health.
+HIGHLIGHTED STRATEGIES
+
+EXPECTED OUTCOME
+
+5.3 A Advocate for the adoption of a Cook County Lead
+Poisoning Prevention Ordinance.
+
+Complete steps necessary for adoption, approval and
+implementation.
+
+5.3 B Expand the use of population and epidemiologic data to
+identify upstream drivers of chronic diseases and conditions,
+improve birth outcomes and enhance childhood
+development.
+
+Increase resources for patients and the community. Develop new
+partnerships to address key drivers of health inequity.
+
+5.3 C Identify opportunities to partner with other governments
+and organizations to address gun violence, opioid abuse, and
+sexually transmitted infections.
+
+Develop two initiatives that promote partnership with shared
+objectives.
+
+85 of 87
+
+28
+
+ Strategic Planning Timeline
+
+• Environmental
+Assessment:
+Epidemiology,
+Health status
+and disparities
+in Cook County
+• Information
+Technology
+
+• Financial
+Status and
+Pressures
+• State and
+Federal
+Issues
+
+•Human Resources
+•Pension Overview
+•Quality
+•Extramural Funding
+•Health Equity and Social
+Determinants
+•Correctional Health
+•Behavioral Health
+•Safety net strategies/
+vulnerabilities, local
+market realities,
+partnerships
+
+• Integrated Care
+• Medicaid Managed
+Care/Managed
+Populations
+• Research
+• Clinical Activity,
+Utilization &
+Operational
+Efficiency
+• Medical Practice/
+Medical Group
+
+•Nursing
+•Graduate
+Education
+•Capital Investment
+•Primary Care/
+Maternal Child
+Care
+•Diagnostic/
+Specialty Services
+•Marketing,
+Communications &
+Branding
+•Community Health
+Improvement
+Plans/CCDPH
+•Community/
+Employee
+Meetings
+
+• Community/
+Employee
+Meetings
+• Financial
+Forecasting
+Scenarios
+
+86 of 87
+
+•Special board meeting to
+present analysis of the
+uninsured and discuss the
+draft plan
+
+•Discussion of
+preliminary
+draft at full
+board meeting
+
+•Draft plan
+issued for
+employee and
+public review
+and comment
+
+UPCOMING
+
+COMPLETED
+
+• Population
+Overview and
+Projections
+
+•Anticipated approval of
+2020-2023 Strategic Plan
+
+•Inclusion of financial
+forecast and submission of
+plan to Cook County Board
+of Commissioners.
+
+ 11
+
+Thank you.
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

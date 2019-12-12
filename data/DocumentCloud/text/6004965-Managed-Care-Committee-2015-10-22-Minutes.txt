@@ -1,0 +1,2465 @@
+Minutes of the meeting of the Managed Care Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Tuesday, October 20, 2015 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Lerner called the meeting to order.
+Present:
+
+Chairman Wayne M. Lerner, DPH, LFACHE and Dorene P. Wiese (substitute Member) (2)
+Director Mary B. Richardson-Lowry
+
+Absent:
+
+Directors Emilie N. Junge and Carmen Velasquez (2)
+
+Additional attendees and/or presenters were:
+Douglas Elwell – Deputy CEO of Finance and
+Strategy
+Steven Glass – Executive Director of Managed
+Care
+
+II.
+
+Jeffrey McCutchan – Associate General Counsel
+Elizabeth Reidy – General Counsel
+Deborah Santana – Secretary to the Board
+
+Public Speakers
+Chairman Lerner asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none.
+
+III.
+
+Report on CountyCare Health Plan (Attachment #1)
+A. Metrics
+B. Consumer Assessment of Healthcare Providers and Systems (CAHPS) Survey Results
+Steven Glass, Executive Director of Managed Care, provided an overview of the Report on the CountyCare
+Health Plan; the Report included metrics and a deep dive discussion on the CAHPS Survey results. The
+Committee reviewed and discussed the information.
+During the discussion of the information on Slide 10 regarding Medicaid cancellations, Chairman Lerner
+posed a question – at what point is someone at risk of losing access to medical care due to cancellation of
+coverage and will really fall through the gap?
+As the Committee discussed cancellations due to
+redetermination, Chairman Lerner noted that any gains that a person has made in their own health care
+improvement could be lost as a result of losing this coverage.
+With regard to the metric for HIV patient medications filled at the CCHHS pharmacy and the metric to shift
+to 90-day prescriptions (Slide 15), Mr. Glass stated that one of the barriers that has been identified relates to
+the inability to fill a 90-day prescription for medications at the CORE Center pharmacy; this was due to some
+restrictions and cost control limits that prohibited the ability to get 90-day scripts in place. He has been told
+that the restrictions and limits have been lifted this month, so the administration hopes to see an increase in
+those metrics.
+
+Page 1 of 37
+
+ Minutes of the Meeting of the Managed Care Committee
+Tuesday, October 20, 2015
+Page 2
+
+III.
+
+Report on CountyCare Health Plan (continued)
+Director Richardson-Lowry inquired whether any comparisons are run with other competitors on risk
+management of the Affordable Care Act (ACA) adult membership category. Mr. Glass responded that the
+data is not publicly available. The State has made a single program that covers both Family Health Plan
+(FHP) and ACA adults, but they do not separately break out the data. He indicated that he can request data at
+the health plan level and see if they can provide it.
+In response to a question from Director Wiese regarding alcohol-related diagnoses, Mr. Glass stated that, by
+far, those total the highest number of visits to emergency departments (EDs) by CountyCare members. He
+noted that CountyCare’s clinical team has set a single utilization management objective to reduce ED visits;
+they are in the process of building that plan. Douglas Elwell, Deputy Chief Executive Officer of Finance and
+Strategy, stated that the administration has a workgroup assembled to focus on behavioral health. The
+administration had set aside in the budget about $10 million over and above what would normally be spent to
+start trying to address the issue. One project to address behavioral health issues that is coming to fruition is
+the community triage center; this is a pilot project expected to open early next year to provide prevention and
+diversion services for individuals who are at risk of arrest due to behavioral health conditions. It will operate
+24 hours per day/7 days per week/365 days per year. It will have staff there who can make an evaluation of
+the person and make a warm hand-off in the community where they live.
+During the discussion of Slide 27, Director Wiese inquired regarding the survey responses to the question
+relating to “getting needed care,” and asked whether access to care is a problem nationally. On a similar
+subject, she referenced an earlier request she had made for data on the time to next appointment. Mr. Elwell
+stated that he expects to have the data to respond to Director Wiese’s earlier request in time for the next
+Board Meeting. Additionally, he stated that the survey question relates to the member’s perception of
+getting the care needed. Chairman Lerner was not aware of any recent studies released regarding issues with
+access to care for Medicaid patients; he asked staff to be on the lookout for any studies that might relate to
+that subject. Mr. Glass noted that two (2) main drivers relating to that question were: 1) timeliness of care,
+relating to their own doctor; and 2) specialty care. Additionally, he clarified that these survey responses are
+not specifically relating to CCHHS as the provider; this survey was completed by CountyCare members and
+could be referring to any part of CountyCare’s network.
+During the discussion of Slides 30 and 31, Mr. Glass stated that the contract with the State requires
+CountyCare to obtain National Committee for Quality Assurance (NCQA) accreditation within two (2) years
+of becoming a health plan; therefore, July 2017 is the target time period for accreditation. The process for
+accreditation allows CountyCare to use its CAHPS results, as well as its Healthcare Effectiveness Data
+Information Set (HEDIS) quality measures, as part of the accreditation process. Staff are in the process of
+developing the job description for a position to head up the function relating to accreditation.
+
+IV.
+
+Action Items
+A. Minutes of the Managed Care Committee Meeting, September 17, 2015
+Director Wiese, seconded by Chairman Lerner, moved to accept the minutes of the
+meeting of the Managed Care Committee of September 17, 2015. THE MOTION
+CARRIED UNANIMOUSLY.
+B. Any items listed under Section IV
+
+Page 2 of 37
+
+ Minutes of the Meeting of the Managed Care Committee
+Tuesday, October 20, 2015
+Page 3
+
+V.
+
+Adjourn
+As the agenda was exhausted, Chairman Lerner declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Managed Care Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+Wayne M. Lerner, DPH, LFACHE, Chairman
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 3 of 37
+
+ Cook County Health and Hospitals System
+Managed Care Committee Meeting Minutes
+October 20, 2015
+
+ATTACHMENT #1
+
+Page 4 of 37
+
+ CountyCare Report &
+Deep Dive Discussion
+
+Prepared for: CCHHS BOD Managed Care Committee
+Steven Glass, Executive Director, Managed Care
+October 20, 2015
+
+Page 5 of 37
+
+ Report Format
+• Metrics Review
+• Deep Dive Discussion: CAHPS Survey Results
+
+2
+
+Page 6 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Membership
+
+Data as of: 10/05/2015   Source: Daily Membership (834) File
+
+Key Measures
+Monthly Membership
+ACA
+FHP
+SPD
+Home/Community Waiver (incl DD)
+LTC
+FYTD Member Months
+ACA
+FHP
+SPD
+
+Jul'15
+172,873
+82,058
+87,949
+2,866
+539
+174
+1,169,503
+668,043
+482,382
+19,078
+
+Aug'15
+170,834
+79,454
+88,333
+3,047
+565
+189
+1,340,337
+747,497
+570,715
+22,125
+
+Sep'15
+169,802
+78,058
+88,553
+3,191
+583
+185
+1,510,139
+825,555
+659,268
+25,316
+
+Oct'15
+168,749
+76,910
+88,538
+3,301
+593
+201
+1,678,888
+902,465
+747,806
+28,617
+
+Change From
+Prior Month Trend
+-0.6%
+--1.5% 
+0.0%
+-3.4% 
+1.7% 
+8.6% 
+
+FYTD'15
+Budget or
+% to
+Goal
+Budget/Goal
+158,349
+106.6%
+78,119
+98.5%
+74,506
+118.8%
+5,724
+57.7%
+
+1,631,305
+875,335
+706,048
+49,923
+
+102.9%
+103.1%
+105.9%
+57.3%
+>= Goal
+
+Key:
+
+Within 1% of Goal
+Within 5% of Goal
+< 5% of Goal
+
+3
+
+Page 7 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Membership Adds & Deletes
+Data as of: 9/2/2015   Source: Daily Membership (834) File
+
+Month Begin Membership
+ACA Adults
+FHP
+SPD
+Total Net Change
+Month End Membership
+
+4
+
+Apr'15
+149,301
+4,605
+23,180
+68
+27,853
+177,154
+
+May'15
+177,154
+1,272
+2,471
+65
+3,808
+180,962
+
+Page 8 of 37
+
+Jun'15
+Jul'15
+Aug'15 Sep'15
+180,962 174,917 172,183 170,957
+(4,483) (2,527) (2,189) (1,287)
+(1,594)
+(265)
+762
+(40)
+32
+58
+201
+138
+(6,045) (2,734) (1,226) (1,189)
+174,917 172,183 170,957 169,768
+
+Managed Care Cte   Oct 20, 2015
+
+ Membership Trend to Budget
+
+ 
+
+ 
+
+200,000
+
+130,000
+
+160,000
+
+140,000
+
+120,000
+
+100,000
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+0
+
+   
+
+CountyCare Membership
+YTD Budget vs Actual as of10/05/2015
+
+
+
+Dec'14 Jan' 15 Feb' 15 Mar' 15 Apr' 15 Par-J13: 15 Jun' 15 Jul' 15 Aug' 15 Sept' 15 Nuv?15
+
+97faf3
+
+ 
+
+ 
+
+Actual SPD YTD F5 1 Ectua FHP 15 Actual 15 Budget
+
+           
+ 
+
+Ca re
+
+PLAN
+
+2015
+
+  
+  
+
+Membership By Medicaid Category
+
+ 
+
+ 
+
+100CountyCare Membership by Medicaid Category
+as of 8/3/2015
+
+LAN
+
+Apr r'15 Ma a'ylS Ju'l15 Au ug'lS Se e'pt15
+lFHPAc?tu fa?p?ng?"; I37IACAAC tu al 2015
+
+ 
+
+ACA Membership Trend to Budget
+
+ 
+
+ 
+
+ 
+
+CountyCare ACA Membership
+Budget vs Actual as of 10/05/2015
+
+100,000
+90,000
+80,000
+?0,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+
+Ca re
+
+0 PLAN
+
+7 Dec'14 Jan'15 Feb'lS Mar'l? Apr'lS May'l? Jun'lS Jul'15 Aug'l? Sept'lS Oct'l? Nuu?l?
+Page 11 of 37 2015
+
+Actual Budget
+
+   
+ 
+
+FHP Membership Trend to Budget
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CountyCare FHP Membership
+Budget vs Actual as of 10/05/2015
+
+100,000
+90,000
+80,000
+TELUGU
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+
+Care
+
+0 A 
+
+8 De c'14 Apr r'15 Ma ay'15 l15 Au ug'15 Se ept'15
+_FHPAgeal ugd at 2015
+
+    
+
+SPD Membership Trend to Budget
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CountyCare FHP Membership
+Budget vs Actual as of 10/05/2015
+
+100,000
+90,000
+80,000
+TELUGU
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+
+Care
+
+0 A 
+
+9 De c'14 Apr r'15 Ma ay'15 l15 Au ug'15 Se ept'15
+_FHPAgeal ugd at 2015
+
+    
+
+10
+
+Medicaid Cancellations
+
+ 
+
+ 
+
+11,000
+10,500
+
+10,000
+
+Medicaid Coverage Cancellations for CountyCare Members by Month/Year
+For actions taken at DHS Home 51?. Office
+
+      
+  
+ 
+
+     
+ 
+
+ 
+
+           
+
+10,639
+10,103
+30%
+Completion
+64%
+7,117 Completion
+54%
+,354
+Completion 57% 5203
+Completion I
+40%
+Completion
+52%
+Completion
+Ca re
+Apr'lS Mav?lS Jun'15 Jul'15 Aug?lS Sep'lS Oct'lS A 
+
+Rede Cancellations (?afigejftions Rede Letters Mailed
+
+ 
+
+Medicaid Cancellations
+Illinois Medicaid
+Redetermination Project
+(IMRP) FY’15 Q4 Report:
+• 79% for failure to
+return information
+(34.8% of all
+cancellations)
+–
+
+1/3rd are reinstated
+within three months
+
+‘Medical Only’
+Cancellation rate = 44%
+• ‘Medical + SNAP (food
+stamps)’ Cancellation
+rate = 22%
+
+•
+
+11
+
+Page 15 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Health Plan Comparison: FHP/ACA
+Source: IL HFS, Greater Chicago Region
+
+FHP/ACA Adults, Greater Chicago Region
+Health Plan
+Family Health Network
+Blue Cross Blue Shield
+CountyCare
+IlliniCare Health Plan
+Harmony Health Plan
+Meridian Health Plan
+Aetna Better Health Inc.
+Advocate Accountable Care (ACE)
+SmartPlan Choice (ACE)
+MyCare Chicago (ACE)
+Community Care Partners (ACE)
+HealthCura (ACE)
+UI Health Plus (ACE)
+Better Health Network (ACE)
+Loyola Family Care (ACE)
+Next Level (CCE serving ACA only)
+
+Sponsoring Organization(s)
+Mt. Sinai, Norweigan, Resurrection, St. Anthony, St
+Bernard
+Health Care Services Corp.
+Cook County/CCHHS
+Centene, Inc.
+WellCare
+
+Jun'15
+#
+
+Jul'15
+#
+
+Sep'15
+#
+
+% Total
+
+# Change
+% Change
+Month Prior Month Prior
+
+193,306
+
+200,004
+
+203,455
+
+#DIV/0!
+
+(203,455)
+
+-100.0%
+
+179,617
+171,661
+142,898
+142,914
+119,387
+114,728
+89,542
+
+183,460
+167,837
+144,171
+143,055
+118,934
+116,923
+90,814
+
+185,267
+165,848
+143,461
+141,416
+117,940
+117,703
+90,713
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+(185,267)
+(165,848)
+(143,461)
+(141,416)
+(117,940)
+(117,703)
+(90,713)
+
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+
+68,413
+
+67,271
+
+65,247
+
+#DIV/0!
+
+(65,247)
+
+-100.0%
+
+58,993
+
+60,005
+
+59,669
+
+#DIV/0!
+
+(59,669)
+
+-100.0%
+
+40,851
+41,309
+36,134
+
+44,019
+43,935
+39,604
+
+44,001
+43,322
+39,767
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+(44,001)
+(43,322)
+(39,767)
+
+-100.0%
+-100.0%
+-100.0%
+
+34,947
+
+38,084
+
+38,741
+
+#DIV/0!
+
+(38,741)
+
+-100.0%
+
+26,442
+13,816
+
+27,515
+14,956
+
+27,134
+15,024
+
+#DIV/0!
+#DIV/0!
+
+(27,134)
+(15,024)
+
+-100.0%
+-100.0%
+
+#DIV/0!
+
+(3,417)
+
+-100.0%
+
+#DIV/0!
+
+(1,886)
+
+-100.0%
+
+0.0%
+
+-
+
+0.0%
+
+(1,504,011)
+
+-100.0%
+
+Data To Be Updated
+
+Advocate Physician Partners
+Presence Health Partners, Independent Phys Alliance of
+IL
+Lurie, Mercy, Norweigan, Swedish/Asian Human Svcs,
+Erie, Heartland HC, Mercy, Near North, PCC/C4
+NorthShore, Vista, Lake County Health Dept, Erie
+Access Community Health Network
+UI Health
+St Bernard's, Loretto, South Shore, Roseland/Aunt
+Martha's, Beloved
+Loyola Univ Health System
+
+Aug'15
+#
+
+Blessing Health System, Cadence, Decatur Memorial,
+Illinois Partnership for Health (ACE) KishHealth, Memorial Health, OSF, Riverside Medical
+3,521
+3,504
+3,417
+Ctr, Rockford Health System, Carle Fdn
+Lurie Children's Health Partners
+Lurie Childrens Hospital
+1,779
+1,860
+1,886
+(CSN CCE)
+LaRabida Coordinated Care Network
+La Rabida Childrens Hospital
+760
+737
+0
+(CSN CCE)
+Total 12
+Page 16 of 371,481,018 1,506,688 1,504,011
+
+0
+
+Managed Care Cte   Oct 20, 2015
+
+ Health Plan Comparison: ICP
+
+Source: IL HFS, Chicago Region (includes suburban Cook & Collar Counties)
+ICP Greater Chicago Region (SPD population)
+Health Plan
+Aetna Better Health Inc.
+IlliniCare Health Plan Inc.
+Community Care Alliance of IL
+Blue Cross/Blue Shield of Illinois
+Meridian Health Plan
+Humana Health Plan
+Cigna HealthSpring of Illinois
+Next Level (CCE)
+CountyCare
+Together4Health (CCE)
+Be Well (CCE)
+EntireCare (CCE)
+
+Sponsoring Organization(s)
+Centene Inc.
+Family Health Network
+Health Care Services Corp
+
+Jul'15
+#
+28,137
+26,361
+7,506
+6,955
+4,588
+4,529
+4,474
+4,018
+2,818
+1,967
+1,400
+
+Aug'15
+#
+28,315
+26,329
+7,544
+7,337
+4,854
+4,754
+4,544
+4,541
+3,021
+1,880
+1,380
+
+2,339
+
+0
+
+116
+
+94,381
+
+92,753
+
+94,615
+
+Data To Be Updated
+
+Cook County/CCHHS
+Heartland Health Outreach
+MADO Healthcare
+Healthcare Consoritum of IL (St Bernard, Chicago Family,
+St James, MFS, South Shore, Roseland, HRDI, Metro
+South)
+
+Total
+
+13
+
+Jun'15
+#
+28,241
+26,630
+7,527
+6,681
+4,548
+4,557
+4,443
+3,234
+2,776
+2,016
+1,389
+
+Page 17 of 37
+
+Sep'15
+#
+
+# Change
+% Change
+% Total Month Prior Month Prior
+#DIV/0!
+(28,315)
+-100.0%
+#DIV/0!
+(26,329)
+-100.0%
+#DIV/0!
+(7,544)
+-100.0%
+#DIV/0!
+(7,337)
+-100.0%
+#DIV/0!
+(4,854)
+-100.0%
+#DIV/0!
+(4,754)
+-100.0%
+#DIV/0!
+(4,544)
+-100.0%
+#DIV/0!
+(4,541)
+-100.0%
+#DIV/0!
+(3,021)
+-100.0%
+#DIV/0!
+(1,880)
+-100.0%
+#DIV/0!
+(1,380)
+-100.0%
+0.0%
+
+(116)
+
+0.0%
+
+(94,615)
+
+-100.0%
+
+Managed Care Cte   Oct 20, 2015
+
+ Health Plan Comparison: Cook County
+Source: IL HFS, Health Plans Operating in Cook County Only
+
+MCO Name
+Cook County Care
+Family Health Network/CCAI
+Blue Cross/Blue Shield of Illinois
+IlliniCare Health Plan
+Harmony Health Plan
+Aetna Better Health
+Meridian Health Plan
+Humana Health Plan
+Health Spring of Illinois
+Grand Total
+
+14
+
+Sponsoring Organization(s)
+CCHHS
+HCSC
+Centene
+WellSpring
+
+Cigna
+
+July'15
+#
+FHP/ACA
+174,437
+165,848
+146,495
+147,973
+120,859
+118,587
+111,226
+90,757
+112,344
+109,808
+92,559
+72,273
+80,845
+74,957
+4,228
+4,122
+847,115
+780,203
+
+Data To Be Updated
+
+Page 18 of 37
+
+August'15
+SPD
+#
+3,021
+168,869
+7,196
+155,169
+6,558
+125,145
+20,134
+110,891
+109,808
+21,397
+93,670
+4,371
+79,328
+4,190
+4,190
+4,171
+4,171
+71,038
+851,241
+
+% Change
+# Change
+% Total
+Month Prior Month Prior
+19.8%
+(5,568)
+-3.2%
+18.2%
+8,674
+5.9%
+14.7%
+4,286
+3.5%
+13.0%
+(335)
+-0.3%
+12.9%
+(2,536)
+-2.3%
+11.0%
+1,111
+1.2%
+9.3%
+(1,517)
+-1.9%
+0.5%
+(38)
+-0.9%
+0.5%
+49
+1.2%
+4,126
+0.5%
+
+Managed Care Cte   Oct 20, 2015
+
+ Risk Management
+Key Measures
+Risk Management
+ACA Adult Membership
+% 19-24 y/o
+% 25-34 y/o
+% 35-44 y/o
+% 45-54 y/o
+% 55+ y/o
+Pharmacy
+# Scripts filled
+% Utilizing Members
+# Scripts/Utilizer
+% Generic dispensing
+% Brand Single Source
+% Formulary
+% CCHHS HIV pt meds @ CCHHS pharmacy
+% Maintenance Rx on Extended Supply (>84 days)
+Reinsurance
+# Claims filed
+
+Jul'15
+
+Aug'15
+
+Sep'15
+
+Oct'15
+
+% Change
+From Prior
+Month
+
+Trend
+
+-0.6%
+1.3%
+0.3%
+-0.6%
+0.1%
+
+-
+----
+
+137,520
+28%
+2.90
+81%
+18%
+98%
+35.9%
+47.1%
+
+-1.9%
+0.0%
+0.0%
+-1.3%
+8.2%
+0.0%
+5.3%
+-15.6%
+
+
+--
+
+-
+
+
+0
+
+0.0%
+
+15.3%
+15.7%
+13.4%
+26.3%
+29.3%
+
+15.2%
+15.6%
+13.4%
+26.3%
+29.0%
+
+15.0%
+15.7%
+13.5%
+26.3%
+29.1%
+
+147,010
+28%
+3.00
+83%
+17%
+98%
+36.0%
+45.7%
+
+140,254
+28%
+2.90
+82%
+17%
+98%
+34.1%
+55.8%
+
+0
+
+0
+
+14.9%
+15.9%
+13.5%
+26.1%
+29.2%
+
+FYTD'15
+Budget or
+Goal
+
+% to
+Budget/Goal
+
+3/2014 Baseline
+17.0%
+14.8%
+13.5%
+27.6%
+27.0%
+
+98%
+80%
+85%
+
+-2.0%
+0.9%
+0.0%
+-1.3%
+2.1%
+
+0.0%
+-44.1%
+-37.9%
+
+>= Goal
+Key:
+
+Within 1% of Goal
+Within 5% of Goal
+< 5% of Goal
+
+15
+
+Page 19 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Pharmacy Expense by Population
+
+Data To Be Updated
+
+16
+
+Page 20 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Care Management
+Key Measures
+Care Management
+PCMH Assignment
+% Members Assigned to PCMH
+% Members Unassigned
+% Members Assigned to CCHHS/ACHN
+All
+ACA
+FHP
+SPD
+% Members Assigned to MHN/ACO
+All
+ACA
+FHP
+SPD
+% Members Assigned to ACCESS
+All
+ACA
+FHP
+SPD
+
+Jul'15
+
+Aug'15
+
+Sep'15
+
+Oct'15
+
+Change From
+Prior Month Trend
+
+-0.2%
+433.9%
+
+-
+
+18.4%
+27.7%
+10.2%
+20.9%
+
+1.6%
+2.2%
+3.2%
+5.2%
+
+
+
+
+
+
+49.3%
+32.9%
+65.7%
+NA
+
+49.2%
+33.7%
+64.6%
+NA
+
+-0.1%
+2.3%
+-1.6%
+NA
+
+-
+
+
+15.5%
+18.1%
+12.9%
+20.9%
+
+15.5%
+18.3%
+13.0%
+19.7%
+
+0.3%
+1.3%
+0.4%
+-5.6%
+
+-
+-
+
+99.6%
+0.4%
+
+99.9%
+0.1%
+
+99.7%
+0.3%
+
+19.1%
+28.8%
+10.1%
+15.4%
+
+18.4%
+28.0%
+9.9%
+17.1%
+
+18.1%
+27.1%
+9.9%
+19.9%
+
+45.8%
+30.5%
+66.0%
+NA
+
+48.5%
+33.1%
+64.0%
+NA
+
+15.3%
+17.6%
+12.9%
+21.2%
+
+15.6%
+18.4%
+12.8%
+20.8%
+
+FYTD'15
+Budget or
+Goal
+
+% to
+Budget/Goal
+
+>= Goal
+Key:
+
+Within 1% of Goal
+Within 5% of Goal
+< 5% of Goal
+
+17
+
+Page 21 of 37
+
+ Care Management
+Key Measures
+Member Risk Stratification
+Total Outreached Members YTD
+Health Risk Assessments/Screenings YTD (non-MHN ACO)
+YTD % High Risk Members
+Referral Management
+# Authorizations: Inpatient
+# Authorizations: Outpatient
+ACA Utilization Management (rolling 12 month)
+Admits/1,000 member months
+Bed Days/1,000 member months
+ED Visits/1,000 member months
+% 30-day Readmissions
+
+ACA CCHHS Utilization (since 7/1/2014)
+Emergency Room
+Hospital Inpatient
+Hospital Outpatient
+Other Medical
+Primary Care
+Specialist
+Total
+* Data incomplete pending claims run-out.
+
+Jul'15
+
+Aug'15
+
+Sep'15
+
+Oct'15
+
+% Change
+From Prior
+Month
+
+Trend
+
+75,089
+39,481
+3.6%
+
+73,618
+30,958
+4.2%
+
+70,943
+32,902
+4.5%
+
+-3.6%
+6.3%
+
+2,069
+3,234
+
+2,001
+3,277
+
+2,083
+3,405
+
+4.1%
+3.9%
+
+
+
+
+160
+156
+159
+702
+689
+695
+949
+926
+927
+22%
+22%
+21%
+YTD FY'15 Q1 YTD FY'15 Q2* YTD FY'15 Q3*
+Dec-Feb
+Mar-May
+Jun-Aug
+(N=321,297)
+(N=362,038)
+(N=306,623)
+16.8%
+12.3%
+10.4%
+8.5%
+6.7%
+6.3%
+28.8%
+32.2%
+30.6%
+1.3%
+1.5%
+1.3%
+41.1%
+36.1%
+34.2%
+10.6%
+4.7%
+2.5%
+19.5%
+15.9%
+14.1%
+
+1.9%
+0.9%
+0.1%
+-4.5%
+% Change
+from Q2 to
+Q3*
+-14.8%
+-6.4%
+-4.9%
+-12.0%
+-5.3%
+-47.8%
+-11.4%
+
+
+--
+
+FYTD'15
+Budget or
+Goal
+
+% to
+Budget/Goal
+
+
+
+2.0%
+
+
+
+
+
+
+
+
+
+-2.2%
+
+Nov'14 Baseline
+168
+-7.1%
+737
+-6.5%
+1,017
+-8.9%
+20%
+10.0%
+FY'14 Q4
+Benchmark
+(Sep-Nov)
+17.2%
+-4.9%
+10.9%
+-4.2%
+28.8%
+3.4%
+1.1%
+0.4%
+39.8%
+-3.7%
+6.8%
+-2.1%
+19.1%
+-3.2%
+>= Goal
+Key:
+
+Within 1% of Goal
+Within 5% of Goal
+< 5% of Goal
+
+18
+
+Page 22 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Operations
+Key Measures
+Operations
+Call Center
+Call Volume
+Abandonment rate
+Hold time
+Average speed to answer
+Claims Processing
+# Claims Paid
+# Claims Recv'd
+
+Jul'15
+
+Aug'15
+
+Oct'15
+
+26,274
+1.4%
+0:00:49
+0:00:14
+
+24,946
+2.2%
+0:00:53
+0:00:23
+
+24,328
+1.3%
+0:00:56
+0:00:14
+
+-2.5%
+-39.5%
+5.7%
+-39.1%
+
+79,358
+127,415
+
+135,382
+113,082
+
+54,707
+118,212
+
+-59.6%
+4.5%
+Change from
+Prior Q
+-20.0%
+-13.9%
+
+FY'15 Q1
+Avg # Days Received-to-Processed (non-adjusted)
+Avg # Days Received-to-Paid/Pend (non-adjusted)
+* Data incomplete pending claims run-out.
+
+Sep'15
+
+Change From
+Prior Month Trend
+
+FY'15 Q2
+5
+32
+
+FY'15 Q3
+5
+36
+
+4
+31
+
+
+
+
+
+
+FYTD'15
+Budget or
+Goal
+
+% to
+Budget/Goal
+
+Goal
+
+Goal Met
+
+<4%
+< :01:00
+< :00:45
+
+
+# Days
+
+
+
+<8
+< 35
+
+Key:
+
+19
+
+Page 23 of 37
+
+Y
+Y
+Y
+
+Goal Met
+Y
+Y
+
+Yes
+No
+
+Managed Care Cte   Oct 20, 2015
+
+ Health Plan
+Performance Management
+Operations
+•
+•
+•
+•
+•
+
+Membership
+Risk Management
+Care Management
+Operational Measures
+Delegated Vendor
+Oversight
+
+20
+
+Members &
+Providers
+
+Clinical Care
+• HEDIS
+• Quality of Care
+Reviews
+• Peer Review
+• Credentialing
+
+Page 24 of 37
+
+•
+•
+•
+•
+•
+•
+•
+
+Utilization
+Cost
+CAHPS
+Grievances
+Appeals
+Fraud, Waste & Abuse
+Network Development
+
+Managed Care Cte   Oct 20, 2015
+
+ CAHPS Survey
+• Consumer Assessment of Healthcare Providers
+and Systems (CAHPS)
+• Established and operated by US Department
+of Health and Human Services (HHS), Agency
+for Healthcare Research and Quality (AHRQ)
+• Many types of surveys:
+• Health Plan
+
+• Clinicians & Groups • Surgical Care
+
+• Amer Ind Hlth Svcs • Dental Plan
+
+• Home Health
+
+• Nursing Home
+
+• Dialysis
+
+• Hospital
+
+• Health Plan survey established in 1997
+Source: https://cahps.ahrq.gov/Surveys-Guidance/HP/index.html
+
+21
+
+Page 25 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ What’s Surveyed
+• CAHPS surveys ask patients to report on their
+experiences with a range of health care
+services at multiple levels of the delivery
+system.
+• CAHPS Health Plan Survey is a tool for
+collecting standardized information on
+enrollees' experiences with health plans and
+their services.
+Source: https://cahps.ahrq.gov/Surveys-Guidance/HP/index.html
+22
+
+Page 26 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Comparable Results
+• Different versions survey meet different needs
+– Population (adults or children)
+– Source of coverage (commercial insurance, Medicaid, or
+Medicare)
+– Use for health plan accreditation by the National
+Committee for Quality Assurance (known as the HEDIS
+version)
+
+• Commercial and Medicaid surveys are exactly the
+same except for the time referent:
+– Commercial questionnaire = previous 12 months
+– Medicaid questionnaire = previous 6 months
+Source: https://cahps.ahrq.gov/Surveys-Guidance/HP/index.html
+
+23
+
+Page 27 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ CAHPS Health Plan Measures
+1.
+2.
+3.
+4.
+
+Getting needed care
+Getting care quickly
+How well doctors communicate
+Health plan information and customer
+service
+
+Source: https://cahps.ahrq.gov/Surveys-Guidance/HP/index.html
+
+24
+
+Page 28 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ CountyCare 2015 CAHPS Survey
+• Annual requirement in MCCN
+• Surveys conducted January-May (pre-FHP
+mandatory implementation)
+Sample Size
+Valid Surveys
+Response Rate
+
+Required
+1,350
+411
+30.4%
+
+Actual
+1,755
+689
+39.3%
+
+% Difference
++30.0%
++67.6%
++29.0%
+
+– 52% Mail; 42% Phone; 6% Internet
+– 44 Spanish-language surveys completed (6%)
+25
+
+Page 29 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Respondent Profile
+
+ 
+
+Gender
+
+Male. 45.10%
+
+Female,51.90%
+
+ 
+
+Age Group
+
+18-34 yf?. 119%
+
+  
+
+55+ w?a, 311%
+
+35-44 w?o, 14.1%
+
+45?54 We, 
+
+ 
+
+ 
+
+Health Status
+
+ 
+  
+  
+
+ExcellenUVew
+
+FairfPaor, 34.4% Good, 323%
+
+Good, 32.9%
+
+Page 30 of 37
+
+Mental/Emotional Health Status
+
+FairfPoor, 21.4%
+
+  
+ 
+ 
+
+EXCEIIEHWEW
+Good, 513.6%
+
+Goad, 23.13%
+
+
+
+ 
+
+ 
+
+ 
+
+Trend & Benchmark Comparisons
+Composites, Attributes & Key
+Questions
+
+2015
+Comparison*
+
+2014 All
+Plans**
+
+(N=58)
+
+(N=147)
+
+Getting Needed Care
+
+476
+
+75.2%
+
+80.5%
+
+80.5%
+
+Getting Care Quickly
+
+455
+
+79.1%
+
+79.9%
+
+81.0%
+
+How Well Doctors Communicate
+
+406
+
+89.7%
+
+90.3%
+
+89.5%
+
+Customer Service
+
+299
+
+89.1%
+
+86.6%
+
+86.5%
+
+Shared Decision Making
+
+229
+
+76.6%
+
+78.9%
+
+NA
+
+Health Promotion & Education
+
+486
+
+76.5%
+
+71.2%
+
+71.6%
+
+Coordination of Care
+
+194
+
+83.5%
+
+81.3%
+
+79.2%
+
+Providing Needed Information
+
+207
+
+69.1%
+
+68.2%
+
+66.7%
+
+Ease of Filling Out Forms
+
+595
+
+94.1%
+
+93.2%
+
+94.2%
+
+Significance Testing (95% level)
+
+27
+
+2015 Valid # and
+Most Favorable
+Response %
+
+Significantly
+Higher Than
+Trend/
+Benchmark
+
+Significantly
+Lower Than
+Trend/
+Benchmark
+
+No Significant
+Difference
+
+Comparison Key
+* 2015 Comparison = All Medicaid plans with same vendor (N=58)
+** 2014 All Plans = All Medicaid adult samples submitted to NCQA in 2014 (N=147)
+
+Page 31 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Benchmark Comparisons
+CountyCare
+
+2015 Mean & Percentile**
+
+Most
+Favorable
+Response %
+
+Percentile
+
+Mean
+
+25th
+
+50th
+
+75th
+
+90th
+
+Getting Needed Care
+
+75.2%
+
+12th
+
+80.5%
+
+77.7%
+
+81.5%
+
+84.2%
+
+84.9%
+
+Getting Care Quickly
+
+79.1%
+
+35th
+
+79.9%
+
+77.5%
+
+80.9%
+
+83.2%
+
+84.5%
+
+How Well Doctors
+Communicate
+
+89.7%
+
+32nd
+
+90.3%
+
+89.4%
+
+90.6%
+
+91.6%
+
+92.5%
+
+Customer Service
+
+89.1%
+
+83rd
+
+86.6%
+
+84.6%
+
+87.1%
+
+88.6%
+
+90.0%
+
+Shared Decision Making
+
+76.6%
+
+23rd
+
+78.9%
+
+76.7%
+
+78.9%
+
+81.1%
+
+83.0%
+
+Health Promotion &
+Education
+
+76.5%
+
+92nd
+
+71.2%
+
+68.7%
+
+71.3%
+
+74.7%
+
+76.2%
+
+Coordination of Care
+
+83.5%
+
+67th
+
+81.3%
+
+78.3%
+
+81.3%
+
+84.7%
+
+86.6%
+
+Providing Needed
+Information
+
+69.1%
+
+60th
+
+68.2%
+
+66.3%
+
+68.6%
+
+71.2%
+
+74.1%
+
+Ease of Filling Out Forms
+
+94.1%
+
+69th
+
+93.2%
+
+92.6%
+
+93.4%
+
+94.3%
+
+95.9%
+
+Composites, Attributes
+& Key Questions
+
+Comparison Key
+*Ranking = Comparison to all Medicaid plans with same vendor (N=58)
+
+28
+
+**2015 Analytics = Analysis of all Medicaid plans with same vendor (N=58)
+
+Page 32 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ What Number Would You Use to
+Rate Your Health Plan? (Q35)
+0-10 Scale
+
+0=‘Worst health plan possible’, 10=‘Best health plan possible’
+
+29
+
+Page 33 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ Comparison With
+Illinois Plans
+•
+
+•
+•
+
+NCQA posts Health Insurance Plan
+Rankings on 5-point scale, using
+0.5 increments (1.0, 1.5, 2.0, etc.)
+CAHPS survey calculates results on
+a 3-point scale (1.0-3.0)
+For comparison, converted
+CountyCare’s 3-point scores to a 5point scale assuming equal
+proportion
+– E.g. Score 2.4/3 = 0.81*5 = 4.0; or
+– 2.4 = 81% of 3; 4.0 = 81% of 5
+
+•
+
+30
+
+Page 34 of 37
+
+5-point methodology likely to
+differ from NCQA
+
+Managed Care Cte   Oct 20, 2015
+
+ Calculated Comparison With NCQAReporting Illinois Medicaid Plans
+As Calculated
+Internally
+
+As Reported by NCQA
+
+Meridian
+
+Harmony
+
+Molina
+
+Aetna
+Better
+Health
+
+Consumer Satisfaction
+
+3.0
+
+1.5
+
+2.5
+
+3.0
+
+4.0
+
+Getting Care
+Getting Care Easily
+Getting Care Quickly
+
+2.5
+2.0
+3.0
+
+1.0
+1.0
+1.0
+
+2.0
+2.0
+2.0
+
+2.5
+2.0
+3.0
+
+3.8
+3.8
+3.9
+
+Satisfaction With Physicians
+
+3.5
+
+1.5
+
+3.0
+
+3.5
+
+4.1
+
+Rating of Primary-care doctor
+Rating of Specialists
+Rating of Care
+Coordination of Care
+Health Promotion and Education
+
+3.0
+5.0
+3.0
+2.0
+4.0
+
+1.0
+NA
+1.0
+NA
+2.0
+
+3.0
+3.0
+3.0
+3.0
+2.0
+
+2.0
+4.0
+2.0
+4.0
+5.0
+
+4.3
+4.2
+3.9
+4.2
+4.0
+
+Satisfaction with Health Plan Services
+
+3.5
+
+2.0
+
+3.0
+
+2.0
+
+4.2
+
+3.0
+4.0
+Key:
+
+2.0
+NA
+
+2.0
+4.0
+
+2.0
+2.0
+
+4.0
+4.3
+
+1.0, 1.5, 2.0
+
+2.5, 3.0, 3.5
+
+4.0, 4.5, 5.0
+
+Rating Health Plan
+Customer service
+31
+
+Page 35 of 37
+
+CountyCare
+
+Managed Care Cte   Oct 20, 2015
+
+ CAHPS 2015 In Summary
+• CountyCare had a high response rate to first survey @ 39.2%
+– Majority of respondents are likely ACA Adults
+
+• ‘Favorable’ scores are consistent with Medicaid health plans
+in all but two categories
+– Exceed in Health Promotion & Education; Below in Getting Needed
+Care
+
+• Percentile comparison puts us ahead in four of nine
+attributes, below in two and same in three
+• ‘Favorable’ rating of health plan is high @ 74%
+– ‘Non-Favorable’ rating only 4%
+
+• Comparison to IL plans appears favorable, but needs complete
+cycle for true comparison
+32
+
+Page 36 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ CAHPS Next Steps
+• Utilize upcoming Enrollee Advisory Committee
+(EAC) meetings as focus group sessions to
+obtain more depth of information
+• Identify performance improvement
+interventions and establish CAHPS targets
+• Incorporate measures into performance
+metrics
+
+33
+
+Page 37 of 37
+
+Managed Care Cte   Oct 20, 2015
+
+ 

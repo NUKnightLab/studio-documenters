@@ -1,0 +1,3705 @@
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+AGENDA
+Institutional Review Board
+August 15, 2018 (2:00 – 3:00 PM)
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, IL 60606
+
+I.
+II.
+
+Call to Order and Roll Call
+Approval of June 27, 2018 Meeting Minutes
+
+III.
+
+Applications for Review
+a. New applications:
+1. LGBTQ+ Victimization Survey (pp. 2 - 80)
+Dr. Jaclyn Houston-Kolnik & Amanda Vasquez
+b. Amendments:
+1. Victim and Family Member Interviews: Linking Systems of Care for Children,
+Youth, & Families (pp. 81-99)
+Amanda Vasquez & Dr. Jaclyn Houston-Kolnik
+
+IV.
+
+Old Business: None
+
+V.
+
+VI.
+VII.
+
+New Business:
+a. Expedited amendment to add staff:
+1. Outcome Evaluation of A Way Out Program
+Jessica Reichert
+Next IRB meeting – November 1st, 1 – 3 pm
+Adjourn
+
+This public meeting will be accessible to persons with disabilities in compliance with Executive Order #5 and pertinent State and Federal
+laws upon anticipated attendance. Persons with disabilities planning to attend and needing special accommodations should contact by
+telephone or letter John Klaer, Associate Director, Office of Administrative Services, Illinois Criminal Justice Information Authority, 300
+W. Adams St. Suite 200, Chicago, Illinois, 60606-5150 or at (312) 793-8550. TDD services are available at (312) 793-4170.
+Fax: (312) 793-8422 • TDD: (312) 793-4170 • www.icjia.state.il.us
+
+ Illinois Criminal Justice Information Authority
+Institutional Review Board Initial Application for Research Involving Human Subjects
+IRB Application Checklist
+Date: 8/9/2018
+Title of Proposal: LGBTQ+ Victimization Survey
+Principal Investigator: Dr. Jaclyn Houston-Kolnik; Amanda L. Vasquez
+
+☒ Application
+Title(s): Institutional Review Board
+Initial Application for Research Involving
+Human Subjects
+Page(s): 15
+☒ Recruitment flyer
+Title(s): Recruitment Flyers
+Page(s): 3
+☐ Recruitment script
+
+Page(s): Click here to enter text.
+☐ Focus group protocol
+Title(s): Click here to enter text.
+Page(s): Click here to enter text.
+☒ Survey
+Title(s): LGBTQ+ Full Survey
+Page(s): 46
+☐ Observation protocol
+
+Title(s): Click here to enter text.
+
+Title(s): Click here to enter text.
+
+Page(s): Click here to enter text.
+
+Page(s): Click here to enter text.
+
+☒ Contact script
+
+☐ Follow-up script
+
+Title(s): Contact Script
+
+Title(s): Click here to enter text.
+
+Page(s): 2
+
+Page(s): Click here to enter text.
+
+☒ Verbal or written consent
+
+☒ Payment protocol
+
+Title(s): Electronic and Written Consent
+
+Title(s): Payment
+
+Page(s): 3
+
+Page(s): 1
+
+☒ Intake form/screen
+Title(s): Screener
+Page(s): 3
+☐ Interview protocol
+Title(s): Click here to enter text.
+
+ Illinois Criminal Justice Information Authority
+Institutional Review Board Initial Application for Research Involving Human Subjects
+
+I.
+
+PROPOSAL INFORMATION
+
+1. Principal investigator(s): Dr. Jaclyn Houston-Kolnik; Amanda L. Vasquez
+2. Principal investigator(s) email(s): Jaclyn.kolnik@illinois.gov; Amanda.L.Vasquez@illinois.gov
+3. Office Address: 300 W Adams St Suite 200
+4. Office Phone: 312-793-8945; 312-793-8645
+5. Project staff:, Jennifer Hiselman, Paola Baldo, Megan Alderden
+6. Start date of project: 8/17/2018
+7. End date of project: 8/17/2019
+8. Title of proposal: LGBTQ+ Victimization Survey
+9. Initial approval type:
+☒ Full IRB
+
+☐ Expedited
+
+☐ Exempt
+
+10. Is this IRB linked to other IRB approval?
+☒ Yes
+
+☐ No
+
+a. If yes, please explain: The previous LGBTQ+ study titled: “Preliminary Study of LGBTQ Victimization and HelpSeeking” was designed to ensure select study measures were worded appropriately for use with an LGBTQ+
+population. The preliminary findings from that study have informed the survey items included in the present study.
+11. Will the data be primary or secondary?
+☒ Primary
+
+☐ Secondary
+
+a. If secondary, please briefly indicate the source of the data.
+
+II. Will
+VULNERABLE
+12.
+any of the SUBJECTS
+following groups potentially be included in your sample?
+☐ Adult prisoners or individuals in secure confinement
+
+☐ Developmentally disabled, intellectually disabled, or cognitively impaired
+☐ Individuals held in residential treatment, locked facilities, or hospitalized
+☐ Juveniles in correctional or detention facilities
+☐ Minors under age 18
+
+☐ Non-English speakers
+
+☐ Pregnant women, if focus of research
+☒ Probationers, parolees, or individuals under court or correctional supervision: Who are over 18 years old
+
+ ☒ Wards of the state: Who are over 18 years old
+☐ Other (please specify):
+13. For each project staff member, please list name, Human Subjects Research Certification date, and expiration
+date.
+Name
+
+Certification date
+
+Expiration date
+
+Jaclyn Houston-Kolnik
+
+7/17/2017
+
+7/16/2020
+
+Amanda Vasquez
+
+3/9/2017
+
+3/9/2019
+
+Jennifer Hiselman
+
+10/28/2015
+
+Paola Baldo
+
+2/01/2018
+
+Megan Alderden
+
+05/12/18
+
+01/31/2021
+
+III. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+14. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study and the procedures
+subjects will undergo.
+The purpose of the present study is to administer a survey tool to examine the experiences with harm (e.g., sexual,
+physical) and the help-seeking experiences of LGBTQ+ individuals in Illinois. Participants will be screened either
+electronically via an online screener or over the phone to determine their study eligibility. Eligible participants can
+choose to receive an email with a link to the online version of the survey, complete the online version immediately,
+or receive a paper copy of the survey by mail. The questions will ask about their experiences with harm, disclosure,
+and help-seeking experiences. Participants will be provided a list of community resources and the informed
+consent. This study will offer an understanding of the experiences with harm and the subsequent disclosure and
+help-seeking experiences of individuals identified as LGBTQ+.
+B. PROCEDURES
+15. Describe the procedures involving human subjects and list the steps you will take.
+a. Time involvement of subjects:
+The survey will take approximately 45 – 60 minutes to complete.
+b. Location(s) where the study will be conducted, including a description, if applicable:
+N/A. Surveys will be completed wherever the subject chooses to take our online or paper survey.
+c. Amount of payment, if any (consent form must note plan for payment if they withdraw voluntarily):
+3
+
+ Participants will receive a $25 gift card for completing the online survey or returning the paper copy via the
+mail.
+d. What subjects will experience or do:
+Prior to the screener, individuals will be informed about the content of the screener, what will be done with the
+information collected in the screener and how such information will be protected; participants will be asked if
+they would like to continue with the screener.
+Interested individuals will be screened into the study via a brief online screener or can call to be screened.
+Screening is estimated to take 5-10 minutes. Screening questions will ask the subjects about their age, sexual
+orientation, Illinois residency, and whether they have had experiences with harm at any point in their lifetime,
+along with contact information (e.g. phone number, email address, mailing address), and preferred contact
+method. Contact information will be used to send study materials and participant payments. Research staff will
+record participants’ names, addresses, phone numbers, and email addresses to send them the study materials,
+including a community resource list and either a link to the online study or a paper copy of the study (including
+the informed consent form), depending on the participant’s preferences as noted on the screener. All
+identifying information (participant names, addresses, phone numbers, and e-mail addresses) will be kept in a
+password protected document saved in a secure computer file accessible only to the assigned research staff. To
+ensure participant’s safety, researchers will ask if these methods of contact are safe and whether a message
+can be left.
+If the subject is not eligible for the survey and they completed the screener online they can download a
+community resource list at the end of the screener. If they are ineligible and screened by phone they can opt to
+have the community resource list emailed or mailed to them.
+If the subject is eligible for the survey, the participant may choose to receive an email with a link to the online
+version of the survey, complete the online version immediately, or receive a paper copy of the survey by mail.
+Individuals who choose to complete the online version immediately will be directed to the start of the survey.
+Researchers will send study materials to all other participants via their preferred contact method (either email
+or mail). Participants who select email will be sent an individualized study link that will direct them to the
+online survey. Participants who select mail will be sent a printed copy of the survey. All participants will
+receive the informed consent form and a list of community resources. Individuals participating by mail will also
+receive a postage paid envelope to return the completed survey in to ICJIA. The informed consent form
+includes the details and purpose of the study, information regarding ICJIA and the Center for Victim Studies,
+4
+
+ and their role and responsibilities as a participant of the study. On the informed consent form, participants will
+be instructed to click a button on the screen to confirm their consent to participating in the survey, if
+completing the survey online. For those who choose to receive a paper copy of the survey, there will be an
+informed consent form included with the materials mailed to the participant. The sheet informs the participant
+that in returning the completed survey to ICJIA they are consenting to participate in the study.
+Once informed consent is obtained, eligible participants will be directed to a screen to certify they have not
+previously completed the survey.
+Following this certification, participants will be directed to the full survey. Survey content will seek to learn
+more about participants’ experiences with harm and subsequent help-seeking, including questions about:
+•
+
+The types and characteristics of harm experienced
+
+•
+
+Disclosure and help-seeking following experiences with harm
+
+•
+
+Informal and formal reactions to disclosure and help-seeking
+
+•
+
+Well-being (e.g., mental health and coping)
+
+•
+
+Stressful life events, including discrimination experiences
+
+•
+
+Demographic information (e.g. age, race, ethnicity, income level, etc.)
+
+•
+
+Sexual and gender identity (e.g. sexual orientation, gender identity, gender expression)
+
+At the suggestion of allied professionals who the researchers have worked with to design the present study, we have
+also included a page in the middle of the survey reminding participants to pause or take a break if needed to selfregulate potential triggers from the survey questions, before continuing through the remainder of the survey.
+Research staff will follow-up, via phone or email, with eligible participants one week after the materials are sent to
+ensure participant receipt of materials. Researchers may follow up approximately 2 additional times to remind
+participants about the survey.
+Within 3 business days of the survey completion, participants will be mailed or emailed a $25 gift card.
+C. EQUITABLE SELECTION OF SUBJECTS
+16. Please enter the following information about your proposed sample:
+a. Anticipated total number of subjects in study: 1500
+b. Number of subjects under 18: 0
+c. Number of subjects 18 and older: 1500
+d. Number of prisoners or individuals in secure confinement: n/a
+e. Number of probationers, parolees, or other individuals under court or correctional supervision: Unknown
+5
+
+ f.
+
+Race of subjects (please provide number of subjects after description, if known):
+☐ African American
+☐ American Indian
+☐ Asian
+
+☐ Hispanic
+☐ White
+☐ Other
+
+☐ Bi-Racial
+☒ Unknown
+☒ Comments: We do not know the race of the subjects who will participate in this study.
+17. How will the subjects be recruited?
+Researchers will use the following methods to recruit eligible participants.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Distribution of recruitment materials (e.g., study flier, information cards) to LGBTQ+ specific and allied
+service agencies.
+Distribution of recruitment materials via email listservs.
+Distribution of recruitment materials in public aid and other social service offices.
+Distribution of recruitment materials to healthcare providers.
+Distribution of recruitment materials to universities.
+Distribution of recruitment materials at events, conferences, and meetings.
+Use of online resources, such as ICJIA’s website, social media accounts, Craigslist.
+Ask participants to share study information with others.
+Invitation of past ICJIA research participants who have expressed interest in future research opportunities.
+
+Recruitment materials will direct potential participants to the online screener or a phone number to call in order to be
+screened for eligibility to participate in the study.
+Participants will be screened via phone or online to determine their study eligibility. Participants in the present study
+are those who:
+1.
+2.
+3.
+4.
+
+Reside in Illinois;
+Identify as LGBTQ+
+Are 18 years or older; and
+Have experienced at least one form of sexual or physical harm at some point in their lifetime.
+
+18. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for them.
+Inclusion: Participants in the present study are those who:
+1. Reside in Illinois;
+2. Identify as LGBTQ+
+3. Are 18 years or older; and
+4. Have experienced a form of harm at any point in their lifetime.
+6
+
+ These criteria are necessary to better understand LGBTQ+ individuals’ experiences with harm and help-seeking
+following these experiences in Illinois.
+Given that the materials are written in English, participants will also be those who speak English.
+Exclusion: Excluded individuals are those not meeting the above criteria. These individuals are excluded because
+the present study seeks to better understand LGBTQ+ individuals’ experiences with harm and help-seeking
+following these experiences in Illinois.
+D. RISK/BENEFIT ASSESSMENT
+19. Briefly describe the potential benefits of the project to subjects and/or society. Note: Social science research
+typically does not provide a direct benefit to the subjects.
+Each participant will receive a $25 gift card. The study may benefit society by expanding knowledge of LGBTQ+
+identified individuals’ experiences with harm, help-seeking, and well-being. This study may also help to shape
+processes, trainings, and services that are sensitive and tailored to the experiences of LGBTQ+ -identified persons.
+20. Does the study involve any of the following?
+☐ Use of deception by researchers
+
+☐ Use of drugs by subjects for study purposes
+☐ Covert and/or participant observation
+
+☐ Induction of mental and/or physical stress to subjects by researchers
+☐ Procedures which risk physical harm to the subject
+
+☐ Materials or behaviors commonly regarded as socially unacceptable
+
+☐ Procedures by researchers that might be regarded as an invasion of privacy or cause a degree of discomfort
+☒ Possible/probable disclosure of information by subjects to researchers that may be harmful to the subject
+(e.g. child abuse, criminal behavior, immigration status)
+
+a. If you checked any of the above procedures, please explain in detail, as well as providing the methods being
+used to control or minimize the danger to the subjects.
+Participants will be asked to report if they have experienced harm at any point in their lifetime, and will be
+asked to think about their disclosure, help-seeking, and well-being following experiences with harm, which may
+be distressing. Researchers will provide participants with a list of community resources, including referral
+information for victim services and LGBTQ+ service providers they can contact if they experience distress. At
+the start of the survey, participants will be reminded of their ability to stop participation at any point, without
+affecting compensation or their relationship with ICJIA.
+7
+
+ Additionally, there will be potentially distressing questions asked regarding suicidal ideations and attempts.
+Provided the sensitivity of such questions, researchers will include the phone number and website for a suicide
+hotline in the survey.
+We will include a page in the middle of the survey reminding participants to pause or take a break if needed to
+self-regulate potential triggers from the survey questions, before continuing through the remainder of the
+survey. Participants will also be reminded that the survey does not need to be completed all at once. If they are
+completing the survey online, the survey platform will save their progress, and they can use the individualized
+link to return to the last question they answered.
+b. Please indicate the theoretical and/or methodological necessity for employing each procedure checked
+above.
+These procedures are necessary as this study seeks to better understand LGBTQ+ identified individuals’
+experiences with harm, to improve the state’s knowledge of this underserved victim population, and to
+improve victim service delivery.
+21. If the study involves deception, when and how will the subjects be debriefed? Generally, the nature of the
+deception and its necessity should be explained to the subjects.
+N/A, the study does not involve deception.
+22. Will other care or counseling be available or referrals made for the subject should he or she become physically
+injured, stressed, uncomfortable, angry, or experience psychological difficulties as a result of participating in the
+research?
+☒ Yes
+
+☐ No
+
+☐ Not Applicable
+
+If yes, please explain: Since participants will be responsible for self-administration of the survey (either through
+the online link or in a paper copy), researchers will not be able to explicitly see any potential signs of distress.
+However, participants will be provided with a list of community resources, including referral information for victim
+services and LGBTQ+ service providers. This list of resources will appear on the screen at the beginning, midway
+through the survey when participants are reminded to pause or take a break if needed, and at the end of the
+survey, for those who choose to take it electronically. For those who prefer to receive a paper copy, a hard copy of
+this list of resources will be included in the package mailed to them along with the survey. Additionally, there will
+8
+
+ be a page in the middle of the survey reminding participants to pause or take a break if needed to self-regulate
+potential triggers from the survey questions, before continuing through the remainder of the survey, along with a
+suicide hotline number that appears directly following the set of questions regarding suicidal ideations and
+attempts.
+23. Indicate whether subjects will be exposed to minimal or greater than minimal physical, psychological, or other
+(e.g. social, economic) risk. Risk is considered minimal where the probability and magnitude of harm or
+discomfort anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological examinations or tests.
+a. Degree of physical risk to the subject
+☐ Greater than minimal
+
+☒ Minimal
+
+☐ High
+
+Please explain why you chose this designation: Physical risk of taking the survey is no more than ordinarily
+encountered in daily life.
+b. Degree of psychological risk to the subject
+☐ Minimal
+
+☒ Greater than minimal
+
+☐ High
+
+Please explain why you chose this designation: Participants will be answering survey questions regarding
+prior experiences with harm (e.g., physical, sexual), which could pose moderate psychological risk that is not
+encountered otherwise in daily life.
+c. Degree of other (e.g. social, economic) risk to the subject
+☐ Greater than minimal
+
+☒ Minimal
+
+☐ High
+
+Please explain why you chose this designation: Other risk of taking the survey is no more than ordinarily
+encountered in daily life.
+
+E. COMPENSATION
+24. Will the participants be compensated monetarily for entering the study?
+☒ Yes
+
+☐ No
+
+a. If yes, what is the amount and source of the funds?
+Amount: $25 gift card
+Source of funds: Victims of Crime Act
+b. If yes, how will that money be distributed to subjects (e.g. gift cards, cash)? Please explain.
+9
+
+ Gift cards or e-gift cards will be mailed or emailed to participants as payment. Victims of Crime Act
+administrative funds have been earmarked for participant compensation. ICJIA staff will distribute these funds.
+25. Are there other inducements planned to recruit subjects?
+☐ Yes
+
+☒ No
+
+a. If yes, please explain:
+F. CONFIDENTIALITY
+26. Will any data be gathered through photographic, video, or audio recording devices?
+☐ Yes
+
+☒ No
+
+a. If yes, how will the confidentiality of the materials produced by such devices be protected? Note: A separate
+line of the consent form for the subjects to agree to be video/audio taped or photographed must be
+included.
+No such data will be collected.
+b. What will be done with the still photos, videos, or audio recordings after the study has been completed? Will
+this information be destroyed, kept xx number of years, used in publications, etc.? How does the investigator
+define “completion” of the study?
+No such data will be collected.
+27. Will names or individual identifiers of subjects be recorded?
+☒ Yes
+
+☐ No
+
+a. If yes, where will the names or other individual identifiers be recorded (e.g. on test protocols, on a separate
+list with code numbers, etc.)?
+Identifying information such as names, addresses, phone numbers, and email addresses will be stored in a
+master list in a password-protected document on password-protected computers accessible only to research
+staff. Each individual who contacts the study will be assigned a unique code. Only research staff will have
+access to this master list that links a participant’s identifying information to their unique code. This code will be
+used to track their participation in the study and to distribute payment. The master list will be maintained
+separately from all other study materials.
+b. If yes, describe project procedures for maintaining the security of these records at every point in the data
+collection process.
+Information about who has participated in our study will only be accessible to the research staff at ICJIA
+working on this project. Records with identifiable information (i.e., master list of participants) will be password
+10
+
+ protected files that will be stored on password protected computers accessible only to research staff working
+on this project. In this master list, participant will be assigned a unique identifier; this code will be used on all
+study materials and spreadsheets.
+c. If yes, would it be possible to conduct the proposed project without recording names or other individual
+identifiers? Please explain why or why not.
+No, it would not be possible to conduct the proposed project without recording names or other individual
+identifiers. Researchers need to record personally identifying information to send study materials, including
+payment.
+d. If yes, will access to names be under your exclusive control?
+☒ Yes
+
+☐ No
+
+i. If no, what will be done to protect the confidentiality of subjects? Who would have access to names or
+other individual identifiers? Describe the procedures for maintaining security of paper files, automated
+files, or other records.
+N/A
+ii. Will the names of subjects be included in any publication based on this study? If yes, please explain.
+No, names of subjects will not be included in any publication based on this study.
+28. Sometimes research findings are presented in a manner that permits knowledgeable readers to infer the identity
+of a person used as a subject, even if names are omitted. Do you expect to present finding that may possibly
+provide such clues?
+☐ Yes
+
+☒ No
+
+a. If yes, please explain: N/A
+G. INFORMED CONSENT
+29. Please indicate the type of consent you will collect.
+☒ Written (answer question d.)
+☐ Verbal (answer questions a-d.)
+☒ Electronic (answer questions a-d.)
+☐ No consent needed (answer questions a-d.)
+☒ Waiver of consent documentation (answer questions a-d.)
+11
+
+ a. Why do you not intend to use written forms?
+A waiver of consent is needed for the screener only, which is intended to be short, accessible, and gather initial
+information to determine eligibility. Prior to the screener, individuals will be informed about the content of the
+screener, what will be done with the information collected in the screener and how such information will be
+protected; participants will be asked if they would like to continue with the screener. “These questions will ask
+you about your age, sexual orientation or gender identity, whether you have had experiences with harm, and if
+you qualify, your contact information. This information will be kept in password protected files that will be
+stored on password protected computers accessible only to research staff working on this project. Participation
+in this screener is voluntary and you can stop your participation at any time; would you like to continue with
+the screening questions?”
+Written consent forms will be mailed to participants who prefer to receive the survey in a mailed paper format.
+The package that these participants receive will include the informed consent form, a list of community
+resources, the survey itself, and a postage paid envelope for returning the survey. Participants will be
+instructed in the consent form that by returning their survey to ICJIA they are consenting to participate in this
+research study.
+For those who choose to take the survey administered online, we cannot obtain written consent. Instead we
+will display an informed consent form at the start of the survey, following the screening questions, and by
+clicking the arrow to continue, participants will consent to participating in the study.
+b. In what manner and to what extend would potential subject be given advance information about the
+procedure in which they are asked to participate? If using a contact letter, please include it.
+For our screener, interested individuals will be given advance information about the content of the screener
+and the processes to maintain the confidentiality of the information collected in the screener. The language to
+be used is at the start of the screener.
+For our survey, potential participants will be given advance information about study procedures via our
+recruitment flyer, online recruitment mediums (e.g., website, social media), or phone calls to research staff.
+This information will also be displayed online after eligible participants have answered screening questions on
+the survey website, as well as in paper format along with the survey for those who choose to receive the
+materials in that format. Participants that call ICJIA for the screener, rather than completing it online, will also
+receive this information from the researcher they are screened by at that time. Participants will also be asked if
+they consent to participate in the study before the start of the survey.
+12
+
+ c. In what matter would potential subjects be advised that their participation and continuation in the project
+would be entirely voluntary? Please provide a copy of the text to be used.
+Prior to the screener, interested individuals will be advised that completing the screener is voluntary and they
+can stop anytime. Individuals will be asked if they would like to proceed: “Participation in this screener is
+voluntary and you can stop your participation at any time; would you like to continue with the screening
+questions?”
+The informed consent form provided to eligible participants for the survey portions of the study will tell
+individuals that their participation and continuation in the project is voluntary and that they can discontinue
+their participation or withdraw their consent at any time without penalty. Additionally, at the beginning of our
+survey, the online or paper survey will restate the following: “Participation in this study is voluntary; You may
+choose to not answer a question (e.g., select “prefer not to answer”), end the survey, or withdraw your consent
+at any time without penalty.”
+d. Please attach a copy of the script or the consent form you will use to the end of this document.
+All communication and recruitment materials have been attached.
+30. Please give a detailed description of the process that will be used to obtain consent and answer all applicable
+questions.
+a. Who will obtain consent?
+A waiver of consent is requested for the screener; participants will be asked if they would like to proceed with
+the screener after being information about the content and confidentiality of the screener.
+Research staff will obtain informed consent from survey participants, either electronically or in paper form.
+b. How will consent be obtained?
+For those that choose to complete the survey online, informed consent will be obtained electronically from the
+survey participant. They will be instructed to click an arrow on the bottom of the screen to progress to the
+study to indicate they consent to participate in the study.
+For those who choose to receive their survey as a paper copy in the mail, the informed consent form will be
+mailed to them along with the survey and the community resource list. The consent form will state that by
+returning the survey to ICJIA by email that they consent to participating in the research study.
+c. How often will consent be obtained (e.g. longitudinal or long-term field studies)?
+
+13
+
+ Consent will be obtained one time at the start of the survey. In the informed consent form text for the online
+survey and the paper format survey, participants will be told they can discontinue their participation or
+withdraw their consent at any time without penalty.
+d. How will you verify the subject fully understands the consent?
+All participants will be provided with contact information for the principal investigator and the Authority’s IRB
+secretary to request further information about the study and their rights as a research participant.
+
+e. How will project staff be trained to use the informed consent process?
+All Authority research staff are certified in human subjects research.
+31. Will the consent form be translated for non-English speaking participants?
+☐ Yes
+
+☒ No
+
+a. If no, please explain why.
+The participants of the survey are all expected to be English-speaking.
+b. If yes, please provide an explanation of who will translate the forms and their qualifications.
+N/A
+32. Does the consent form you have attached fully comply with ICJIA instructions for consent forms and general
+requirements outlines in the Code of Federal Regulations 46.116?
+☒ Yes
+
+☐ No
+
+a. If no, please explain why.
+N/A
+33. Will all project staff be IRB certified and trained to follow the basic guidelines for the ethical care of subjects?
+☒ Yes
+
+☐ No
+
+a. If no, please explain why.
+N/A
+
+TO BE COMPLETED BY PRINCIPAL INVESTIGATOR:
+Project Name:
+
+14
+
+  Wu aim/way
+
+Ma?a/11A ?Mi @?ii Nb
+
+Signa ure of Principgbj nvestigator Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request approved Request denied RB requests modifications
+
+Modifications, if requested:
+
+ 
+
+Signature of IRS Chair Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The IRB approval granted for this project expires:
+
+15
+
+Recruitment Flyers
+
+3 Pages
+
+Do you identify as lesbian, gay, bisexual,
+transgender, queer, or gender non-conforming?
+Have you experienced harm?
+
+We want to learn more about LGBTQ+ individuals’ experiences with harm in Illinois.
+To express your interest in a paid survey of your experiences of harm as a LGBTQ+
+identified person contact us or visit:
+[Insert Study Link]
+You will be asked a few questions so we can send invited individuals the survey.
+Participants who take the survey will receive a $25 gift card for their time.
+This study will help improve responses to and services for LGBTQ+ victims in Illinois.
+You can also contact the researchers @ the Center for Victim Studies
+XXX-XXX-XXXX or cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+Scan for more information
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+LGBTQ Study – Center
+for Victim Studies
+XXX-XXX-XXXX
+Cja.victimstudies@illinois.gov
+
+All correspondence is confidential
+
+ Do you identify as lesbian,
+gay, bisexual, transgender,
+queer, or gender nonconforming?
+
+Do you identify as lesbian,
+gay, bisexual, transgender,
+queer, or gender nonconforming?
+
+Do you identify as lesbian,
+gay, bisexual, transgender,
+queer, or gender nonconforming?
+
+Do you identify as lesbian,
+gay, bisexual, transgender,
+queer, or gender nonconforming?
+
+Do you identify as lesbian,
+gay, bisexual, transgender,
+queer, or gender nonconforming?
+
+Have you experienced
+harm?
+
+Have you experienced
+harm?
+
+Have you experienced
+harm?
+
+Have you experienced
+harm?
+
+Have you experienced
+harm?
+
+We want to learn more
+about LGBTQ+ experiences
+with harm in Illinois.
+
+We want to learn more
+about LGBTQ+ experiences
+with harm in Illinois.
+
+We want to learn more
+about LGBTQ+ experiences
+with harm in Illinois.
+
+We want to learn more
+about LGBTQ+ experiences
+with harm in Illinois.
+
+We want to learn more
+about LGBTQ+ experiences
+with harm in Illinois.
+
+To express your interest in
+a paid survey of LGBTQ+
+experiences with harm
+contact us or visit:
+
+To express your interest in
+a paid survey of LGBTQ+
+experiences with harm
+contact us or visit:
+
+To express your interest in
+a paid survey of LGBTQ+
+experiences with harm
+contact us or visit:
+
+To express your interest in
+a paid survey of LGBTQ+
+experiences with harm
+contact us or visit:
+
+To express your interest in
+a paid survey of LGBTQ+
+experiences with harm
+contact us or visit:
+
+[Insertlink]
+
+[Insertlink]
+
+[Insertlink]
+
+[Insertlink]
+
+[Insertlink]
+
+cja.victimstudies@illinois.gov
+
+cja.victimstudies@illinois.gov
+
+cja.victimstudies@illinois.gov
+
+cja.victimstudies@illinois.gov
+
+cja.victimstudies@illinois.gov
+
+Scan for
+for more
+more information
+information
+Scan
+
+Scan for more information
+
+Scan for more information
+
+Scan for more information
+
+Scan for more information
+
+312-793-XXXX
+
+312-793-XXXX
+
+312-793-XXXX
+
+312-793-XXXX
+
+312-793-XXXX
+
+ Do you identify as lesbian, gay,
+bisexual, transgender, queer, or
+gender non-conforming?
+Have you experienced harm?
+
+We want to learn more about LGBTQ+ individuals’
+experiences with harm in Illinois.
+To express your interest in a paid survey of your
+experiences with harm as a LGBTQ+ identified
+person contact us or visit:
+[Insert Study Link]
+You will be asked a few questions so we can send
+invited individuals the survey.
+Participants who take the survey will receive a $25
+gift card for their time.
+This study will help improve responses to and
+services for LGBTQ+ victims in Illinois.
+
+You can contact the researchers @ the Center for
+Victim Studies
+XXX-XXX-XXXX or cja.victimstudies@illinois.gov
+All correspondence is confidential
+
+ Contact Script
+2 Pages
+
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+Dear [Participant],
+Thank you for your interest in participating in our study to understand the experiences
+with harm (e.g., sexual, physical) and the help-seeking experiences of LGBTQ+. We are trying
+to learn more about LGBTQ+ individuals’ service needs and experiences with support sources
+(e.g., family, friends, agencies), following experiences with harm.
+We are asking you to participate in a 45-60 minute survey that will ask you questions
+about your experiences with harm, service needs, help-seeking, overall well-being, and some
+basic demographic information. You will be offered a $25 gift card for your participation. We
+will send the gift card to you within three business days of receiving the completed survey.
+Please read the enclosed materials. We have included an informed consent sheet, the
+survey, a postage paid envelope for you to return the survey, and a list of community resources.
+The consent form gives you some additional information about the study. The list of community
+resources may be helpful if you wish to contact someone regarding your experiences.
+Please contact us if you have any questions or if you need a replacement copy of the
+survey. You can reach research staff at 312-793-XXXX or via email at
+CJA.VictimStudies@illinois.gov.
+Thank you for your assistance!
+Center for Victim Studies
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+O: 312-793-8550
+F: 312-793-8422
+
+ ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+Dear [Participant],
+Thank you for your interest in participating in our study to understand the experiences
+with harm (e.g., sexual, physical) and the help-seeking experiences of LGBTQ+. We are trying
+to learn more about LGBTQ+ individuals’ service needs and experiences with support sources
+(e.g., family, friends, agencies), following experiences with harm.
+We are asking you to participate in a 45-60 minute survey that will ask you questions
+about your experiences with harm, service needs, help-seeking, overall well-being, and some
+basic demographic information. You will be offered a $25 gift card for your participation. We
+will send the gift card to you within three business days of receiving the completed survey.
+Please use the following link to access the survey
+[INSERT LINK]
+At the start of the survey, you will see an informed consent sheet, and a community
+resource list for you to download. The consent form gives you some additional information about
+the study. The list of community resources may be helpful if you wish to contact someone
+regarding your experiences.
+The link is customized to you, which means you can begin the survey and return to it at a
+later date or time to complete it. Please contact us if you have any questions or if you have any
+trouble accessing the survey using the link. You can reach research staff at 312-793-XXXX or
+via email at CJA.VictimStudies@illinois.gov.
+Thank you for your assistance!
+Center for Victim Studies
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+O: 312-793-8550
+F: 312-793-8422
+
+ Electronic and Written Consent
+
+3 Pages
+
+Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Study of LGBTQ+ Victimization and Help-Seeking
+You are being asked to participate in a research study conducted by researchers with the Illinois
+Criminal Justice Information Authority, a state agency that seeks to improve the administration
+of justice in the state. The agency’s Center for Victim Studies focuses specifically on exploring
+the experiences of victims. Researchers are required to provide a consent form such as this one to
+tell you about the research, to explain that taking part is voluntary, to describe the risks and
+benefits of participation, and to help you to make an informed decision. You should feel free to
+ask the researchers any questions you may have.
+Principal Investigators Name and Title:
+
+Amanda L. Vasquez
+Research Analyst, Center for Victim Studies
+Dr. Jaclyn Houston-Kolnik
+Research Manager, Center for Victim Studies
+
+Department and Institution:
+
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+
+Address and Contact Information:
+
+300 W. Adams St., Suite 200, Chicago, IL 60606
+Phone: 312-793-8550
+Email: Amanda.L.Vasquez@illinois.gov
+Jaclyn.Kolnik@illinois.gov
+
+Why am I being asked?
+You are being asked to be a subject in a research study to help the State of Illinois better
+understand the nature of lesbian, gay, bisexual, transgender, or queer/questioning (LGBTQ+)
+individuals’ experiences with harm, the service needs of LGBTQ+-identifying individuals and
+their experiences with agencies following harm. You have been asked to participate in this study
+because you are an LGBTQ+-identifying adult (i.e., aged 18 and up) who has experienced harm
+at some point in your life.
+Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future dealings with the Illinois Criminal Justice Information Authority
+(ICJIA). If you decide to participate, you are free to withdraw at any time without affecting
+that relationship.
+Approximately 700 subjects may be involved in this research.
+What is the purpose of this research?
+The purpose of this research is to better understand the nature of LGBTQ+ experiences with
+harm in Illinois, the service needs of LGBTQ+ individuals, and their experiences with agencies
+following harm. Researchers are seeking to increase the state’s knowledge of LGBTQ+
+LGBTQ+ Victimization Study, Online Survey, Version 1, 07/18/2018, Page 1 of 3
+
+ experiences with harm and the resulting impacts, including mental health, substance use, coping,
+and experiences with agencies following the harm. Researchers also want to learn how serviceseeking and -receiving for LGBTQ+ individuals differs from heterosexual and/or cisgender
+individuals, to inform future service provision for this target group.
+What procedures are involved?
+If you agree to participate, you will be invited to complete an online survey. You will be asked
+questions about the harmyou have experienced, service needs, experiences with agencies
+following these harmful experiences, and some basic demographic information. We will also ask
+for your contact information (i.e., name, phone or email address, and/or mailing address) to send
+you the survey and/or payment for participation.
+What are the potential risks and discomforts?
+Some questions may make you uncomfortable or may cause you some emotional or
+psychological distress. Please remember, it is up to you to decide whether to answer any of the
+questions. We have provided a community resource list of adult victim service providers you
+may contact if you experience discomfort or distress that can be downloaded from the on-line
+survey or as part of your mail survey packet.
+There may be other risks from the study that are not known at this time.
+Will I be told about new information that may affect my decision to participate?
+During the course of the study, you will be informed of any significant new research information
+(either good or bad), such as changes in the risks or benefits resulting from participation in the
+research or new alternatives to participation, that might cause you to change your mind about
+continuing in the research. If new information is provided to you, your consent to continue
+participating in this research may be re-obtained.
+Are there benefits to taking part in the research?
+You will receive no direct benefit from completing the survey. Although you will not directly
+benefit, your participation will help the state gain a better understanding of LGBTQ+
+experiences with harm, the service needs of LGBTQ+ individuals, and their experiences with
+agencies following harm.
+What other options are there?
+You have the option to not complete the survey. Even if you initially choose to participate you
+may change your decision at any time without penalty. You may also not answer a question at
+any time.
+What about privacy and confidentiality?
+
+LGBTQ+ Victimization Study, Online Survey, Version 1, 07/18/2018, Page 2 of 3
+
+ Only the research team will know that you are a research subject.
+If you agree to be contacted for the survey you will be asked to provide contact information (i.e.,
+name, phone number or email address, and/or mailing address). Your contact information will be
+separated from the survey responses and replaced with a unique code. Only research staff will
+have access to this master list that links a participant’s identifying information to their unique
+code. This master list will be kept in a separate password protected file on password-protected
+computers.
+The information collected in the study will be used to write a report. No potentially identifying
+information that can be linked directly to you will be included in the report or discussed with
+others.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+To our knowledge there are no expenses for participating in this research. You will be
+reimbursed with a $25 gift card for your participation.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation
+at any time.
+Who should I contact if I have questions?
+If you have any questions regarding this project you may contact Amanda L. Vasquez or Dr.
+Jaclyn Kolnik at 312-793-8550 or CJA.VictimStudies@illinois.gov
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may call the IRB secretary at 312-793-8550.
+Remember:
+Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future relations with ICJIA. If you decide to participate, you are free to
+withdraw at any time without affecting that relationship.
+
+LGBTQ+ Victimization Study, Online Survey, Version 1, 07/18/2018, Page 3 of 3
+
+ Screener
+
+3 Pages
+
+LGBTQ+ Victimization Survey Screener
+Thank you for your interest in helping us better understand the experiences of LGBTQ+
+individuals in Illinois who have experienced harm.
+First, we would like to ask a few questions to see if you qualify for the study.
+These questions will ask you about your age, sexual orientation or gender identity, whether you
+have had experiences with harm, and if you qualify, your contact information. This information
+will be kept in password protected files that will be stored on password protected computers
+accessible only to research staff working on this project.
+Participation in this screener is voluntary and you can stop your participation at any time; would
+you like to continue with the screening questions?
+o
+o
+
+Yes  Continue to Q1
+No  End of screener/end of call
+
+Q1. How did you hear about this study?
+a. Flyer
+b. Service provider
+c. Someone other than a service provider
+d. Email or listserv
+e. Social media (e.g. Facebook, Twitter)
+f. Other, please describe: ______________
+g. Not sure or don’t remember
+h. Prefer not to answer
+Q2. How old are you today? (Age in years)
+If <18 years old  Continue to Q6
+If 18 years or older, THEN:
+Q3. Do you currently live in Illinois?
+a. Yes
+b. No  Continue to Q6
+Q4. Do you consider yourself to be lesbian, gay, bisexual, transgender, queer or questioning, or
+gender non-conforming?
+a. Yes
+b. No  Continue to Q6
+Q5. Thinking about your whole life, have you ever been physically or sexually harmed?
+a. Yes
+b. No  Continue to Q6
+
+ Q6. Thank you for your interest in helping us better understand the experiences of LGBTQ+
+individuals who have experienced harm. Unfortunately, you do not meet the qualifications to
+take part in this study.
+If you have any questions regarding this project you may contact Amanda L. Vasquez or Dr.
+Jaclyn Kolnik at 312-793-8550 or CJA.VictimStudies@illinois.gov
+Go to  END SCREENER
+Q7. Would you be interested in participating in a paid survey?
+a. Yes  Continue to Q8
+b. No END SCREENER
+Q8. Invited participants can take part in this study by completing an online survey or by
+returning a completed paper survey.
+Participants who prefer an online survey have two options. We can email you a link that
+customized to you, which means you can begin the survey and return to it at a later date or time
+to complete it link. Participants can also choose to complete the full survey now, which will take
+approximately 45-60 minutes. If you do not have approximately 60 minutes to complete the
+survey now, we recommend selecting an emailed link or mailed paper survey.
+Participants who prefer a paper survey will be mailed a survey packet, including a postage paid
+envelope to return the survey.
+If invited, please select how you would like to participate in the study.
+a. Receive an emailed online survey link
+b. Complete the online survey now (approximately 45-60 minutes)
+c. Mailed paper survey
+Q9. Invited participants who return the survey will receive a $25 gift card or e-gift card. Gift
+cards can be mailed or emailed.
+If invited, please select how you would like to receive the gift card.
+a. Emailed e-gift card
+b. Mailed gift card
+Q10. Please provide your contact information in the space provided. If you are invited to
+participate in this study we will use this contact information to send you the survey and to send
+you payment in the form of a gift card.
+Name: (text box)
+Phone number: (text box)
+Email address: (text box)
+If “mailed paper survey” for Q9 or “mailed gift card” for Q10 selected THEN:
+
+ Street Address: (text box)
+City: (text box)
+State: (text box)
+Zip Code: (text box)
+If both phone number and email address provided THEN  Continue to Q11
+Q11. Please select how you prefer to be contacted. (Allow multiple response options)
+a. Email
+b. Phone
+If phone number provided in Q10 THEN  Continue to Q12
+Q13. Is it safe to leave a message at this phone number?
+a. Yes
+b. No
+Q14. Thank you for your interest in helping us better understand the experiences of LGBTQ+
+individuals who have been harmed by violence.
+Participants invited to take part in this study of LGBTQ+ individuals’ will be sent a survey. The
+survey will take 45-60 minutes to complete. Participants who return the survey will receive a $25
+gift card. This study will help to improve responses to and services for LGBTQ+ victims in
+Illinois.
+If you have any questions please contact researchers by email at
+CJA.VictimStudies@illinois.gov or phone at XXX-XXX-XXX.
+END SCREENER
+Thank you for your interest in helping us better understand the experiences of LGBTQ+
+individuals who have experienced harm.
+Online screen ONLY: Below is a link to victim service resources and LGBTQ+ providers that
+may be helpful to you or others.
+[CLICK HERE] for a downloadable PDF list of these resources.
+A new tab or window will open.
+Phone screen ONLY: If you would like, we can send you list of community resources that you
+may find helpful now or in the future. Would you like us to send you this information?
+If you have any questions please contact researchers by email at
+CJA.VictimStudies@illinois.gov or phone at XXX-XXX-XXX.
+
+  Full Survey
+46 Pages
+
+LGBTQ Victimization Survey
+Introduction
+Thank you for your interest in helping us better understand the experiences of LGBTQ
+individuals in Illinois who have been harmed by violence. Please continue to the next page.
+The following screen will give you more information about the study, including the goals of the
+study, your rights as a participant, and what to expect.
+Informed Consent
+[Insert Informed Consent]
+
+ Q1. To confirm, how old are you today? _____ (textbox)
+VICTIMIZATION EXPERIENCES
+Q2. The items listed below refer to experiences that may have taken place at any point in your life.
+Please indicate if you have had any of the following experiences when you were a child (under the
+age of 12 or youth (i.e., 12- 20 years old) or as an adult (i.e., at least 21 years old).
+Child
+Adult Older
+(under Youth (21- Adult
+12
+(12 59
+(60
+years
+20
+years years
+old)
+years old ) or
+old)
+older)
+1. Physical force was used
+against me in a robbery or
+mugging.
+2. An immediate family
+member, significant other,
+or very close friend died
+because of a serious injury or
+homicide.
+3. Someone (parent, other
+family member, significant
+other, friend, acquaintance,
+stranger, or someone else) used
+physical force against me to
+have intercourse, oral or anal
+sex against my wishes or when
+I was helpless (Ex: I was asleep
+or intoxicated).
+4. Someone touched private
+parts of my body, made me
+touch their body, or tried to
+make me have sex against my
+wishes.
+5. Someone has threatened me
+with a weapon like a knife or
+gun.
+6. Someone, through force,
+fraud, or coercion made me
+provide labor services or
+involved me in the commercial
+sex trade.
+
+I have not Not sure
+Prefer not
+had this
+or don’t
+to answer
+experience remember
+
+ 7. Someone held me captive
+against my will.
+8. Someone purposely set my
+house on fire.
+9. Someone repeatedly watched
+me, followed me, or made
+unwanted contacts towards me.
+10. I was hurt by someone's car
+when they were driving under
+the influence or were distracted.
+
+Q3. The items listed below refer to experiences that may have taken place at specific points in your
+life. Please indicate if you have any of the following experiences.
+
+Yes
+
+No
+
+Not sure
+Prefer
+or don’t
+not to
+remember answer
+
+1. As a child or youth (under the age of 21) a parent,
+caregiver, or other person slapped me repeatedly, beat,
+or otherwise attacked me.
+2. As an adult (over the age of 21), a significant
+other, date, family member, stranger, or someone else
+kicked, beat, slapped, or otherwise physically harmed
+me.
+3. As an older adult (over the age of 60), someone,
+such as a caregiver, child, or other person, physically
+abused, threatened, or tricked me to give them money.
+[SKIP LOGIC FOR ONLINE: If NO victimization experienced  End Survey Message
+If YES to Q2 or Q3 THEN display Q4]
+Q4. You indicated you have had the following experiences at some point in your life.
+[ONLINE: Display “Yes” responses to Q2 and Q3]
+Do you have any reason to suspect that any of the experiences you selected was a hate crime or
+crime of prejudice or bigotry?
+[CARRY FORWARD: “Yes” Selections from Q2 and Q3]
+
+ Yes
+
+No
+
+Not sure
+Prefer
+or don’t
+not to
+remember answer
+
+1. Physical force was used against me in a robbery or
+mugging.
+2. An immediate family member, significant other,
+or very close friend died because of a serious injury
+or homicide.
+3. Someone (parent, other family member, significant
+other, friend, acquaintance, stranger, or someone else)
+used physical force against me to have intercourse,
+oral or anal sex against my wishes or when I was
+helpless (Ex: I was asleep or intoxicated).
+4. Someone touched private parts of my body, made
+me touch their body, or tried to make me have sex
+against my wishes.
+5. As a child, a parent, caregiver, or other person
+slapped me repeatedly, beat, or otherwise attacked
+me.
+6. As an adult, a significant other, date, family
+member, stranger, or someone else kicked, beat,
+slapped, or otherwise physically harmed me.
+7. Someone has threatened me with a weapon like a
+knife or gun.
+8. As an older adult, someone physically abused,
+threatened, or tricked me to give them money.
+9. Someone, through force, fraud, or coercion made
+me provide labor services or involved me in the
+commercial sex trade.
+10. Someone held me captive against my will.
+11. Someone purposely set my house on fire.
+12. Someone repeatedly watched me, followed me, or
+made unwanted contacts towards me.
+13. I was hurt by someone’s car when they were
+driving under the influence or were distracted.
+[SKIP LOGIC FOR ONLINE: If NO to all items  Continue to Q5
+If YES to Q4 THEN display Q4a]
+Q4a. You indicated the following experience(s) was a hate crime or crime of prejudice or bigotry.
+An offender(s) can target people for a variety of reasons, but we are only going to ask you about a few
+today. Do you suspect the offender(s) targeted you because of:
+[CARRY FORWARD: “Yes” Selections from Q4]
+
+ Your Your Your
+race religion ethnic
+or
+national
+origin
+1. Physical force was used against
+me in a robbery or mugging.
+2. An immediate family member,
+significant other, or very
+close friend died because of a
+serious injury or homicide.
+3. Someone (parent, other family
+member, significant other, friend,
+acquaintance, stranger, or someone
+else) used physical force against
+me to have intercourse, oral or anal
+sex against my wishes or when I
+was helpless (Ex: I was asleep or
+intoxicated).
+4. Someone touched private parts
+of my body, made me touch their
+body, or tried to make me have sex
+against my wishes.
+5. As a child, a parent, caregiver,
+or other person slapped me
+repeatedly, beat, or otherwise
+attacked me.
+6. As an adult, a significant other,
+date, family member, stranger, or
+someone else kicked, beat, slapped,
+or otherwise physically harmed me.
+7. Someone has threatened me
+with a weapon like a knife or gun.
+8. As an older adult, someone
+physically abused, threatened, or
+tricked me to give them money.
+9. Someone, through force, fraud,
+or coercion made me provide labor
+services or involved me in the
+commercial sex trade.
+10. Someone held me captive
+against my will.
+11. Someone purposely set my
+house on fire.
+
+Any
+Your
+disability gender
+you may
+have
+
+Your
+Prefer
+sexual
+not to
+orientation answer
+
+ 12. Someone repeatedly watched
+me, followed me, or made
+unwanted contacts towards me.
+13. I was hurt by someone’s car
+when they were driving under the
+influence or were distracted.
+
+ Q5. You indicated you have had the following experiences at some point in your life.
+[Carry forward “Yes” Selections from Q2 and Q3]
+Please select the experience that was most recent.
+
+o
+o
+
+Physical force was used against me in a robbery or mugging.
+
+o
+
+Someone (parent, other family member, significant other, friend, acquaintance, stranger, or someone else)
+used physical force against me to have intercourse, oral or anal sex against my wishes or when I was
+helpless (Ex: I was asleep or intoxicated).
+
+o
+
+Someone touched private parts of my body, made me touch their body, or tried to make me have sex
+against my wishes.
+
+o
+o
+
+As a child, a parent, caregiver, or other person slapped me repeatedly, beat, or otherwise attacked me.
+
+o
+o
+o
+
+Someone has threatened me with a weapon like a knife or gun.
+
+o
+o
+o
+o
+
+Someone held me captive against my will.
+
+An immediate family member, significant other, or very close friend died because of a serious injury or
+homicide.
+
+As an adult, a significant other, date, family member, stranger, or someone else kicked, beat, slapped, or
+otherwise physically harmed me.
+
+As an older adult, someone physically abused, threatened, or tricked me to give them money.
+Someone, through force, fraud, or coercion made me provide labor services or involved me in the
+commercial sex trade.
+
+Someone purposely set my house on fire.
+Someone repeatedly watched me, followed me, or made unwanted contacts towards me.
+I was hurt by someone’s car when they were driving under the influence or were distracted.
+
+ Q5a. As you answer the next set of questions think of the most recent experience.
+You indicated this experience was: [INSERT MOST RECENT EXPERIENCE HERE].
+When did this experience happen?
+If this experience is ongoing, or happens often, please think of the last time this
+experience happened.
+Month _______(Dropdown menu)
+Year _______(Text box)
+Q5b. Did the experience occur more than once with the same person, or persons, over a period of
+time?
+o Yes
+o No  Continue to Q5d
+o Prefer not to answer  Continue to Q5d
+Q5c. How many times have you had this type of experience?
+o 1 time
+o 2-4 times
+o 5-10 times
+o More than 10 times
+o Prefer not to answer
+Q5d. How old were you when this experience happened, or if it happened more than once with
+the same person or persons, when did it first happen?
+______(Drop down list of ages 1-100, and prefer not to answer)
+Q5e. How many people did this?
+o One
+o Two
+o Three or more
+o Don’t know
+o Prefer not to answer
+Q5f. What was your relationship to the person(s) at the time who did this? (Check ALL that
+apply).
+Relative
+Intimate Partner
+
+ Well known or casual acquaintance (e.g., friends, dates, roommates, caregivers,
+coworkers)
+Police officer or other law enforcement official
+Stranger
+Other ____________________
+Prefer not to answer
+Q5g. What was the gender of the person(s) that did this? (Check ALL that apply).
+Cisgender male
+Cisgender female
+Transgender male
+Transgender female
+Gender non-confirming
+Don’t know
+Prefer not to answer
+Q5h. Where did this experience, [INSERT MOST RECENT EXPERIENCE HERE] happen?
+o In your home
+o Near your home
+o In or near a friend, relative, or neighbor’s home
+o While riding in any vehicle
+o In a commercial space (e.g. bank, store, dance club)
+o In a parking lot or garage
+o In an open area (e.g. park, sidewalk)
+o At school
+o At work
+o Other __________
+o Prefer not to answer
+Q5i. Did you experience any of the following forms of physical injury? (Check ALL that apply).
+None
+Bruises, black eye, cuts, scratches, swelling, chipped tooth
+Knocked unconscious
+Internal injuries
+Broken bones or teeth knocked out
+Gun shot, bullet wounds
+Knife or stab wounds
+Other __________
+Prefer not to answer
+
+ Q5j. Were you or the person(s) who did this using any alcohol or drugs when this happened? If
+the experienced happened more than once, were alcohol and drugs ever used?
+o Yes
+o No Continue to Q6
+o Prefer not to answer  Continue to Q6
+Q5k. You indicated that you or the person(s) had been using alcohol or drugs when this
+experience, [INSERT MOST IMPACTFUL EXPERIENCE HERE] happened.
+Please select who was using alcohol or drugs.
+If this experience happened more than once please select who was most likely to be drinking of
+using drugs when this type of experience happened. (Check ALL that apply).
+
+Alcohol
+
+1. I had been using
+2. The person(s) who did this had been using
+
+Drugs
+
+Neither
+
+Not sure
+Prefer
+or don’t
+not to
+remember answer
+
+ HELP-SEEKING
+Q6. As you answer the next set of questions think of the experience that impacted you most. You
+indicated this experience was: [INSERT MOST RECENT EXPERIENCE HERE].
+Have you ever talked with anyone about the experience? (Check one)
+
+o
+o
+o
+
+Yes
+No  Skip to QX
+Prefer not to answer  Skip to QX
+
+Q6a. We are interested in knowing who you talked to about this experience.
+People may learn about your experience in a variety of ways. For instance, you may have
+decided to tell them or due to some other circumstance you talked with them about your
+experience (e.g., accessing medical care, missing work, the police came to talk to you, someone
+witnessed the event and asked you about it).
+Please indicate if you ever talked to any of the following people about the most recent
+experience. You indicated this experience was: [INSERT MOST RECENT EXPERIENCE
+HERE].
+Yes
+1. A romantic partner
+2. A parent or step-parent
+3. A family member/relative other than parents
+4. A friend
+5. A minister, priest, rabbi, or other religious figure
+6. A psychiatrist or other mental health counselor
+7. A medical doctor, other medical person, or
+emergency room staff
+8. A police officer
+9. Victim service provider (not LGBTQ-specific), such
+as a victim advocate.
+10. LGBTQ specific service provider
+11. Employer
+12. Teacher, professor or coach
+13. Other school staff such as principals, school social
+workers, or administrative staff
+14. Community member
+15. Co-worker
+16. 1-800 number/hotline
+
+No
+
+Prefer not
+to answer
+
+  
+
+17. Attorney/other legal service provider
+
+ 
+
+ 
+
+18. Other person:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+You indicated you talked to another person, not listed above, about your experience. Please describe
+your relationship to this person.
+(Text box available for answer).
+Q6b. We are also interested in how individuals responded when you told them about the most recent
+experience. You indicated this experience was: [INSERT MOST RECENT EXPERIENCE HERE].
+Thinking about the first person you talked to in each category, please answer the following
+questions. For example, if you talked with more than one friend, tell us about the first friend you
+talked with.
+Was this person helpful?
+Very
+Somewhat
+unhelpful unhelpful
+
+1. A romantic partner
+2. A parent or step-parent
+3. A family member/relative other
+than parents
+4. A friend
+5. A minister, priest, rabbi, or
+other religious figure
+6. A psychiatrist or other mental
+health counselor
+7. A medical doctor, other medical
+person, or emergency room staff
+8. A police officer
+9. Victim service provider (not
+LGBTQ-specific)
+10. LGBTQ specific service
+provider
+11. Employer
+12. Teacher, professor or coach
+13. Other school staff such as
+principals, school social workers,
+or administrative staff
+14. Community member
+15. Co-worker
+16. 1-800 number/hotline
+
+Neither
+helpful
+nor
+unhelpful
+
+Somewhat Very
+helpful
+helpful
+
+Prefer
+not to
+answer
+
+ 17. Attorney/other legal service
+provider
+18. Other person
+Q5c. Listed below are the people you talked to about this experience: [INSERT MOST RECENT
+EXPERIENCE HERE].
+Who was the first person you talked to about this experience?
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+A romantic partner
+A parent or step-parent
+A family member/relative other than parents
+A friend
+A minister, priest, rabbi, or other religious figure
+A psychiatrist or other mental health counselor
+A medical doctor, other medical person, or emergency room staff
+A police officer
+Victim service provider (not LGBTQ-specific)
+LGBTQ specific service provider
+Employer
+Teacher, professor or coach
+Other school staff such as principals, school social workers, or administrative staff
+Community member
+Co-worker
+1-800 number/hotline
+Attorney/other legal service provider
+Other person
+
+Q5d. At what age did you first talk to this person?
+_________(Drop down list of ages 1-100, and prefer not to answer)
+Q5e. People may learn about your experience in a variety of ways. For instance, you may have
+decided to tell them or due to some other circumstance you talked with them about your experience
+
+ (e.g., accessing medical care, missing work, the police came to talk to you, someone witnessed the
+event and asked you about it).
+For the following questions, think about the first person you talked to in each category and select
+the response that best corresponds with how they learned about the most recent experience that you
+had: [INSERT MOST RECENT EXPERIENCE HERE].
+I wanted or
+needed to
+tell them.
+
+1. A romantic partner
+2. A parent or step-parent
+3. A family
+member/relative other
+than parents
+4. A friend
+5. A minister, priest,
+rabbi, or other religious
+figure
+6. A psychiatrist or other
+mental health counselor
+7. A medical doctor, other
+medical person, or
+emergency room staff
+8. A police officer
+9. Victim service provider
+(not LGBTQ-specific)
+10. LGBTQ specific
+service provider
+11. Employer
+12. Teacher, professor or
+coach
+13. Other school staff
+such as principals, school
+social workers, or
+administrative staff
+14. Community member
+15. Co-worker
+16. 1-800 number/hotline
+17. Attorney/other legal
+
+They learned
+about my
+experience
+and so I talked
+to them.
+
+They asked
+me what was
+wrong and I
+felt I had to
+tell them.
+
+I did not want
+to tell them, but
+had to in order
+to get what I
+needed.
+
+Prefer
+not to
+answer
+
+  
+
+service provider
+
+ 
+
+ 
+
+18. Other person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SOCIAL REACTIONS
+Q6. The following is a list of reactions that other people sometime have when responding to a
+person with this experience.
+Please indicate how often you experienced each of the listed responses from the first person you
+talked to about this experience, who you indicated was [INSERT MOST RECENT EXPERIENCE
+HERE].
+Never
+
+1. Told you that you were
+irresponsible or not cautious enough.
+2. Reassured you that you are a good
+person.
+3. Treated you differently in some
+way than before you told them that
+made you uncomfortable.
+4. Told you to go on with your life.
+5. Comforted you by telling you it
+would be all right or by holding you.
+6. Tried to take control of what you
+did/decisions you made.
+7. Has been so upset that they
+needed reassurance from you.
+8. Made decisions or did things for
+you.
+9. Told you that you could have
+done more to prevent this experience
+from occurring.
+10. Provided information and
+discussed options.
+11. Told you to stop thinking about
+it.
+12. Expressed so much anger at the
+offender that you had to calm them
+down.
+13. Avoided talking to you or
+spending time with you.
+
+Rarely
+
+Sometimes Frequently Always
+
+Prefer
+not to
+answer
+
+ 14. Treated you as if you were a
+child or somehow incompetent.
+15. Helped you get information of
+any kind about coping with the
+experience.
+16. Made you feel like you didn’t
+know how to take care of yourself.
+
+ SECONDARY VICTIMIZATION
+Q7. As part of this study, we are trying to understand how agencies in the community treat
+victims of violence.
+By agency, we mean an organization in your community such as a hospital, health clinic, police
+department, social services, victim services, university offices, property managers, or other
+groups in your community who provide services to or assist individuals.
+These next few questions will ask you whether or not you have experienced certain things.
+Please indicate if you had any of these experiences below when you connected with someone
+from an agency.
+Yes
+
+1. Someone seemed reluctant to provide
+services, take a report, or treat me
+2. Someone refused to provide services,
+take a report, or treat me
+3. Someone stated that or asked if I could
+have done anything to prevent or stop
+the victimization
+4. Someone asked me why my memory
+was vague or scattered
+5. Someone asked about my prior
+victimization history in a way that
+made me uncomfortable
+6. Someone told you the case was not
+serious enough to pursue or there was
+not enough evidence
+7. Someone seemed cold and
+unwelcoming
+8. Someone gave me information about
+the victimization I experienced or the
+impact of trauma
+9. Someone seemed to believe my story
+10. Someone supported my decisions
+11. Someone said there was nothing they
+could do
+12. Someone blamed me for the
+victimization
+13. Someone used a gender pronoun that
+does not match my gender identity
+
+No
+
+Not sure
+or don’t
+remember
+
+Not
+applicable
+
+Prefer
+not to
+answer
+
+ 14. Someone seemed to treat me unfairly
+or differently than others
+15. Someone gave me information on
+services for victims
+
+ PAUSE – BREATHE
+If you need a moment to pause, breathe, and return back to the study, please do so now.
+When you are ready to move on, please click the arrow on the right to continue.
+
+ LAW ENFORCEMENT REPORTING
+Q8. Did you report [INSERT MOST RECENT EXPERIENCE] to law enforcement/police?
+
+o
+o
+o
+o
+o
+
+Yes, I reported the incident
+Yes, someone else reported the incident
+No  Continue to Q9
+Don’t know  Continue to Q9
+Prefer not to answer  Continue to Q9
+
+Q8a. Why didn't you report [INSERT MOST RECENT EXPERIENCE] to the police?
+There is no right or wrong answer, we would just like to learn more about your decision to not
+report to the police. Please select all that apply.
+I feared retaliation against me or my family
+I feared I would have to tell them I identify as LGBTQ
+I didn’t want to get involved
+I reported my crime to someone else (e.g. guard, school official, pastor, counselor,
+etc.)
+I was concerned I would not be believed
+I was concerned I would be blamed
+I was incapacitated
+I wasn’t sure the crime took place
+I didn’t have time to attend trials
+I could not miss work
+I didn’t want the offender to get in trouble
+I didn’t trust the police
+I didn’t trust the State’s Attorney
+I didn’t think the police could do anything to help
+I didn’t think the police would help me
+Too young/I was a child/Did not know what to do
+Other (Specify) _______________
+Don’t know
+Prefer not to answer
+
+ SERVICES (NEED, SEEK, RECEIVE)
+Q9. We would also like to learn more about what services you may have needed and your
+experience in seeking or receiving these services.
+As a result of the experience you noted was most recent, which was: [INSERT MOST RECENT
+EXPERIENCE], did you need help or assistance with any of the following?
+
+Yes
+
+Child care: Someone to watch my child/ren while I take care of things
+regarding my victimization.
+Children’s services: Services to help my child/ren deal with directly
+experiencing or witnessing victimization.
+Civil legal assistance: Someone to help me with non-criminal legal issues
+such as: acquiring identification or replacing documents, family matters
+(e.g., divorce, custody, child support), financial matters (e.g., bill collection
+or credit counseling), immigration matters (e.g., visas), or orders of
+protection.
+Counseling: Someone who is trained and trustworthy to talk about what
+happened to me. You may talk with this person one-on-one, along with
+family members, or as part of a larger group who may have similar
+experiences.
+Crime scene services: Someone to help clean-up the space in which a crime
+occurred.
+Criminal/juvenile justice system information/advocacy: Information
+about the criminal/juvenile justice system and what I can expect will happen.
+Crisis intervention: Someone to talk to about how you are feeling on an
+immediate or short-term basis.
+Emergency shelter: A safe place to stay on a temporary/emergency basis.
+Emergency funds/loan: Financial help to pay for emergency costs such as
+hygiene/basic need products, rental assistance, utilities, and shelter/hotel
+stay, etc., resulting from my victimization.
+Funeral/burial services: Financial help to pay for the for the funeral/burial
+of a loved one who was murdered.
+Help applying for crime victim compensation: Someone to help apply for
+financial assistance due to costs resulting from my victimization.
+Housing: Someone to help me find a safe place to live permanently.
+Information/advocacy on public resources: Information about and help
+with seeking public resources and benefits (e.g., Medicare, welfare) that may
+be available to me.
+Language/translation services: Someone to explain things to me in my
+native language.
+
+No
+
+Prefer
+not to
+answer
+
+ Life skills (e.g., employment, education, financial): Someone to help me
+with finding a job, increasing my skills/education, or learning how to
+manage a budget on my own.
+Medical/health care services: Help for a physical injury resulting from my
+victimization.
+Mental health: Someone to provide therapy or to prescribe medication to
+improve my mood.
+Relocation: Someone to help me find a new safe place to live where the
+offender(s) does not know where I am.
+Substance abuse: Counseling or other services to help me deal with alcohol
+and/or substance addiction/abuse issues.
+Transportation: Someone to help me with getting to places that will help
+me deal with my victimization.
+Other (Specify) ____________________
+None of these
+Don’t know
+If NO to all items  Continue to Q9
+If YES to Q9 THEN display Q9a
+Q9a. You indicated that you needed help with the following services. Did you seek help for any
+of the following services?
+Yes
+
+Child care: Someone to watch my child/ren while I take care of
+things regarding my victimization.
+Children’s services: Services to help my child/ren deal with
+directly experiencing or witnessing victimization.
+Civil legal assistance: Someone to help me with non-criminal
+legal issues such as: acquiring identification or replacing
+documents, family matters (e.g., divorce, custody, child support),
+financial matters (e.g., bill collection or credit counseling),
+immigration matters (e.g., visas), or orders of protection.
+Counseling: Someone who is trained and trustworthy to talk about
+what happened to me. You may talk with this person one-on-one,
+along with family members, or as part of a larger group who may
+have similar experiences.
+Crime scene services: Someone to help clean-up the space in
+which a crime occurred.
+Criminal/juvenile justice system information/advocacy:
+Information about the criminal/juvenile justice system and what I
+can expect will happen.
+
+No
+
+Don’t
+Prefer
+know/Can’t not to
+remember
+answer
+
+ Crisis intervention: Someone to talk to about how you are feeling
+on an immediate or short-term basis.
+Emergency shelter: A safe place to stay on a
+temporary/emergency basis.
+Emergency funds/loan: Financial help to pay for emergency costs
+such as hygiene/basic need products, rental assistance, utilities,
+and shelter/hotel stay, etc., resulting from my victimization.
+Funeral/burial services: Financial help to pay for the for the
+funeral/burial of a loved one who was murdered.
+Help applying for crime victim compensation: Someone to help
+apply for financial assistance due to costs resulting from my
+victimization.
+Housing: Someone to help me find a safe place to live
+permanently.
+Information/advocacy on public resources: Information about
+and help with seeking public resources and benefits (e.g.,
+Medicare, welfare) that may be available to me.
+Language/translation services: Someone to explain things to me
+in my native language.
+Life skills (e.g., employment, education, financial): Someone to
+help me with finding a job, increasing my skills/education, or
+learning how to manage a budget on my own.
+Medical/health care services: Help for a physical injury resulting
+from my victimization.
+Mental health: Someone to provide therapy or to prescribe
+medication to improve my mood.
+Relocation: Someone to help me find a new safe place to live
+where the offender(s) does not know where I am.
+Substance abuse: Counseling or other services to help me deal
+with alcohol and/or substance addiction/abuse issues.
+Transportation: Someone to help me with getting to places that
+will help me deal with my victimization.
+Other (Specify) ____________________
+None of these
+Don’t know
+If YES to any items in Q9a  Continue to Q12
+If NO to any items in Q9a, THEN:
+
+ Q9b. Why didn’t you seek the services and support you needed? Please select all that apply.
+(Check box available).
+Did not know how or where to get support services
+Did not have child care
+Unsure of how to find services in one’s primary language
+Concerned that I would have to tell them my LGTBQ identity
+Concerned services would not be sensitive to one’s beliefs
+Concerned services would not be sensitive to one’s immigration status
+Concerned services would not be accessible due to a disability
+Assumed one did not qualify for services
+No transportation to reach service providers
+No service providers nearby
+Wait list for services was too long
+Worried about being blamed or not believed
+Wasn’t sure these services would be able to help
+Cost of counseling or services
+Did not have insurance to cover it
+Was a child or was too young
+Other (Specify) _______________
+Don’t know
+Q10. You indicated that you sought help for the following services listed below.
+Did you receive help you sought?
+If you received any help, regardless of how good the assistance was, please select "yes."
+We will ask about how well these needs were met later in the survey.
+[CARRY FORWARD from Q9a]
+Yes
+
+Child care: Someone to watch my child/ren while I take care of
+things regarding my victimization.
+Children’s services: Services to help my child/ren deal with
+directly experiencing or witnessing victimization.
+Civil legal assistance: Someone to help me with non-criminal
+legal issues such as: acquiring identification or replacing
+documents, family matters (e.g., divorce, custody, child support),
+financial matters (e.g., bill collection or credit counseling),
+immigration matters (e.g., visas), or orders of protection.
+
+No
+
+Don’t
+Prefer
+know/Can’t not to
+remember
+answer
+
+ Counseling: Someone who is trained and trustworthy to talk about
+what happened to me. You may talk with this person one-on-one,
+along with family members, or as part of a larger group who may
+have similar experiences.
+Crime scene services: Someone to help clean-up the space in
+which a crime occurred.
+Criminal/juvenile justice system information/advocacy:
+Information about the criminal/juvenile justice system and what I
+can expect will happen.
+Crisis intervention: Someone to talk to about how you are feeling
+on an immediate or short-term basis.
+Emergency shelter: A safe place to stay on a
+temporary/emergency basis.
+Emergency funds/loan: Financial help to pay for emergency costs
+such as hygiene/basic need products, rental assistance, utilities,
+and shelter/hotel stay, etc., resulting from my victimization.
+Funeral/burial services: Financial help to pay for the for the
+funeral/burial of a loved one who was murdered.
+Help applying for crime victim compensation: Someone to help
+apply for financial assistance due to costs resulting from my
+victimization.
+Housing: Someone to help me find a safe place to live
+permanently.
+Information/advocacy on public resources: Information about
+and help with seeking public resources and benefits (e.g.,
+Medicare, welfare) that may be available to me.
+Language/translation services: Someone to explain things to me
+in my native language.
+Life skills (e.g., employment, education, financial): Someone to
+help me with finding a job, increasing my skills/education, or
+learning how to manage a budget on my own.
+Medical/health care services: Help for a physical injury resulting
+from my victimization.
+Mental health: Someone to provide therapy or to prescribe
+medication to improve my mood.
+Relocation: Someone to help me find a new safe place to live
+where the offender(s) does not know where I am.
+Substance abuse: Counseling or other services to help me deal
+with alcohol and/or substance addiction/abuse issues.
+Transportation: Someone to help me with getting to places that
+will help me deal with my victimization.
+Other (Specify) ____________________
+None of these
+Don’t know
+If YES to any items in Q10  Continue to Q12
+
+ If NO to any items in Q10, THEN:
+Q10a. Why didn’t you receive the services and support you needed? Please select all that
+apply.
+Did not know how or where to get support services
+Did not have child care
+Did not have services in one’s primary language
+Services were not sensitive to one’s beliefs
+Services were not sensitive to one’s immigration status
+Services were not accessible due to disability
+Did not qualify for services
+No transportation to reach service providers
+No service providers nearby
+Wait list for services was too long
+Was blamed or not believed
+Cost of counseling or services
+Did not have insurance to cover it
+Was a child or was too young
+Scared
+Other (Specify) ____________
+Don’t know
+
+ Q11. Overall, how well do you think your needs were met?
+This
+need
+was
+not
+met
+Child care
+Children’s services
+Civil legal assistance
+Counseling
+Crime scene services
+Criminal/juvenile justice system
+information/advocacy
+Crisis intervention
+Emergency shelter
+Emergency funds/loan
+Funeral/burial services
+Help applying for crime victim
+compensation
+Housing
+Information/advocacy on public
+resources
+Language/translation services
+Life skills (e.g., employment,
+education, financial)
+Medical/health care services
+Mental health
+Relocation
+Substance abuse
+Transportation
+Other (Specify)
+____________________
+None of these
+Don’t know
+
+A
+little
+of this
+need
+was
+met
+
+Some
+of this
+need
+was
+met
+
+Most
+of this
+need
+was
+met
+
+All of
+this
+need
+was
+met
+
+Prefer
+not to
+answer
+
+ STRESSFUL LIFE EVENTS
+Q12. The items listed below refer to other stressful events that may have taken place at any
+point in your entire life, including early childhood. Please indicate if you have any of the
+following stressful experiences.
+Yes
+
+1. I have had a chronic illness or currently have a chronic illness,
+such as HIV/AIDS.
+2. I have been in a life-threatening accident.
+3. An immediate family member, significant other, or very close
+friend passed away because of suicide.
+4. A parent, significant other, or family member repeatedly
+ridiculed me, put me down, ignored me, or told me I was no
+good
+5. I was a witness when another person was killed, seriously
+injured, or sexually or physically assaulted.
+6. Someone used my identification without my permission for
+purchases or employment, or lied to me for financial gain.
+7. I have been in other situations in which I was seriously
+injured or my life was in danger (e.g., involved in military
+combat or living in a war zone).
+8. I have been homeless, evicted, or had to find different places
+to sleep for short periods of time, such as on a friend’s couch.
+9. I was kicked out of my family home or have run away from
+home.
+10. Others have teased or threatened me, have spread rumors
+about me, or hit, shoved, or otherwise hurt me, while I was at
+school or work, or electronically (e.g., via text, Instagram,
+Facebook, or other social media).
+11. Someone has threatened to out me, or tell others about my
+LGBTQ identity without my permission.
+12. I have been placed in the care of the Department of Children
+and Family Services or Child Protective Services, including
+foster care, group homes, or rehabilitation/treatment facilities.
+
+No
+
+Prefer
+not to
+answer
+
+ Q12a. Below are additional stressful events that may have taken place at any point in your
+entire life, including early childhood. Please indicate if you have had any of the following
+stressful experiences.
+Yes
+
+No
+
+Prefer
+not to
+answer
+
+13. At school or work, I was disciplined for fighting back against
+bullies, or was disciplined more harshly than others.
+14. A police officer or other law enforcement official refused to
+take a complaint, or arrested me for making a complaint.
+15. I have been unfairly denied medical care or provided medical
+care that was worse than what other people get.
+16. I have been unfairly denied a promotion or fired, or for
+unfair reasons have not been hired for a job.
+17. I have been unfairly prevented from moving into a
+neighborhood because the landlord or realtor refused to sell or
+rent me a house or apartment, or have moved into a neighborhood
+where neighbors unfairly made life difficult for me.
+Q12b. Have you been in other situations that were extremely distressing that have not been
+covered above.
+1. Yes (please describe):
+_____________________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+2. No
+3. Prefer not to answer
+If YES to Q12, THEN:
+Q13. Of the experiences you noted above, what do you think is the main reason for these
+experiences?
+1. Your Ancestry or National Origins
+2. Your Race
+3. Your Gender Identity
+4. Your Gender Expression
+5. Your Sexual Orientation
+6. Your Age
+7. Your Religion
+8. Your Height
+9. Your Weight
+10. Some other Aspect of Your Physical Appearance
+
+ 11. Your Education or Income Level
+12. Your Citizenship Status
+13. Other (please describe): _________________
+14. Prefer not to answer
+
+ DEPRESSION
+Q14. Below is a list of some of the ways you may have felt or behaved.
+Please indicate how often you have felt this way during the past week.
+Rarely
+or none
+of the
+time
+(less
+than 1
+day)
+1. I was bothered by things that usually don’t
+bother me.
+2. I had trouble by keeping my mind on what
+I was doing.
+3. I felt depressed.
+4. I felt that everything I did was an effort.
+5. I felt hopeful about the future.
+6. I felt fearful.
+7. My sleep was restless.
+8. I was happy.
+9. I was lonely.
+10. I could not “get going.”
+
+Some
+or a
+little of
+the
+time (12 days)
+
+Occasionally
+or a
+moderate
+amount of
+time (3-4
+days)
+
+All of
+the
+time
+(5-7
+days)
+
+Prefer
+not to
+answer
+
+ PSTD
+Q15.
+Below is a list of problems that people sometimes have in response to a very stressful
+experience.
+Please read each problem carefully and indicate if you have felt or experienced the following
+during the past month:
+Every
+day
+1. Had nightmares about
+the event(s) or thought
+about the event(s) when
+you did not want to.
+2. Tried hard not to think
+about the event(s) or
+went out of your way to
+avoid situations that
+reminded you of the
+event(s).
+3. Been constantly on
+guard, watchful, or easily
+startled.
+4. Felt numb or detached
+from people, activities, or
+your surroundings.
+5. Felt guilty or unable to
+stop blaming yourself or
+others for the event(s) or
+any problems the
+event(s) may have
+caused.
+
+Several
+times a
+week
+
+2-3
+times a
+month
+
+Once Never
+a
+Month
+
+Prefer
+not to
+answer
+
+ SUICIDE
+Q16. Have you seriously thought about killing yourself (e.g., thought about how you would do it,
+made a plan)? (Check one)
+
+o
+o
+o
+o
+
+No, never
+Yes, at some time in my life but not in the past 12 months
+Yes, in the past 12 months
+Prefer not to answer
+
+Q17. Have you ever tried to kill yourself? (Check one)
+
+o No, never
+o Yes, at some time in my life but not in the past 12 months
+o Yes, in the past 12 months
+o Prefer not to answer
+If you need someone to talk to about these experiences or thoughts, please call the Lifeline (800)
+273-TALK (8255), or visit their website at National Suicide Prevention Lifeline
+
+ COPING
+Q18. This set of questions also asks you to think about ways you've been dealing with stress in
+your life.
+Please select how often you've been doing the following to deal with stress in the past month.
+Every
+day
+1. I've been turning to work or other
+activities to take my mind off things.
+2. I've been concentrating my efforts on
+doing something about the situation
+I'm in.
+3. I've been saying to myself "this isn't
+real."
+4. I've been using alcohol or other
+drugs to make myself feel better.
+5. I've been getting emotional support
+from others.
+6. I've been giving up trying to deal
+with it.
+7. I've been taking action to try to make
+the situation better.
+
+Several 2-3 times a Once a Never Prefer
+times a
+month
+Month
+not to
+week
+answer
+
+ 8. I've been refusing to believe that it
+has happened
+9. I've been saying things to let my
+unpleasant feelings escape.
+10. I’ve been getting help and advice
+from other people.
+Q18a. This set of questions also asks you to think about ways you've been dealing with stress in
+your life.
+Please select how often you've been doing the following to deal with stress in the past month.
+Every
+day
+
+Several 2-3 times a Once a Never Prefer
+times a
+month
+Month
+not to
+week
+answer
+
+11. I've been using alcohol or other
+drugs to help me get through it.
+12. I've been trying to see it in a
+different light, to make it seem more
+positive.
+13. I’ve been criticizing myself.
+14. I've been trying to come up with a
+strategy about what to do.
+15. I've been getting comfort and
+understanding from someone.
+16. I've been giving up the attempt to
+cope.
+17. I've been looking for something
+good in what is happening.
+18. I've been doing something to think
+about it less, such as watching TV,
+reading, exercising, sleeping, playing
+video games, or shopping.
+19. I've been accepting the reality of the
+fact that it has happened.
+20. I've been expressing my negative
+feelings.
+
+Q18b. This set of questions also asks you to think about ways you've been dealing with stress in
+your life.
+Please select how often you've been doing the following to deal with stress in the past month.
+
+ Every
+day
+21. I've been trying to find comfort in
+my religion or spiritual beliefs.
+22. I’ve been trying to get advice or
+help from other people about what to
+do.
+23. I've been learning to live with it.
+24. I've been thinking hard about what
+steps to take.
+25. I’ve been blaming myself for
+things that happened.
+26. I've been praying or meditating.
+27. I’ve been working to hide my
+LGBT+ identity.
+28. I’ve been changing what I say or
+do to cover up my LGBT+ identity.
+29. I’ve been taking care to avoid
+places or people that are not LGBT+
+friendly.
+30. I’ve been seeking out places or
+people that support LGBT+
+identified persons.
+31. I’ve been doing things (i.e.
+cutting/scratching/burning myself,
+engaging in unsafe sex, driving
+recklessly, eating more or less than I
+should, etc.) to hurt my body.
+32. I’ve been doing things to put my
+physical health at risk.
+
+Several 2-3 times a Once a Never Prefer
+times a
+month
+Month
+not to
+week
+answer
+
+ SUBSTANCE USE
+Q19. Have you used alcohol or drugs in the past year?
+By drug use we mean (1) using prescribed or over-the-counter drugs in excess of the directions,
+and (2) any nonmedical use of drugs. These drugs may include cannabis (marijuana, hashish),
+cocaine, opioids (e.g. heroin), solvents (e.g., paint thinner), tranquilizers (e.g., Valium),
+barbiturates, stimulants (e.g., speed), or hallucinogens (e.g., LSD).
+o Yes
+
+o
+o
+
+No  Continue to Q20
+Prefer not to answer  Continue to Q20
+
+Q19a. For the following statements, please select whether you have done or felt the following in
+the past year:
+Please select all that apply, for instance select both alcohol and drugs if the statement is true for
+both substances.
+Alcohol
+
+3. Have you spent more time drinking or using drugs than
+you intended to?
+4. Have you ever neglected some of your usual
+responsibilities because of using alcohol or drugs?
+5. Have you felt you wanted or needed to cut down on your
+drinking or drug use?
+
+Drugs
+
+Neither
+
+Prefer
+not to
+answer
+
+ 6. Has your family, friend, or anyone, else ever told you
+they objected to your drinking or drug use?
+7. Have you found yourself thinking a lot about drinking or
+using drugs?
+8. Have you ever used alcohol or drugs to relieve emotional
+discomfort, such as sadness, anger, or boredom?
+
+ DEMOGRAPHICS
+This set of questions asks you for some additional information about yourself.
+Q20. How old are you today? _________ (Text box to insert age)
+Q21. What is your current relationship status?
+o Single/Not in a relationship
+
+o
+o
+o
+o
+o
+
+In a relationship/Living with significant other
+In a relationship/Not living with significant other
+Married or Civil Union
+Divorced/Separated/Widowed
+Prefer not to answer
+
+Q22. What is the highest level of education you have completed?
+o High school incomplete or less
+
+o
+o
+o
+o
+o
+
+High school graduate or GED
+
+o
+
+Prefer not to answer
+
+Some college or trade school
+Four-year college degree/bachelor’s degree
+Some postgraduate or professional schooling, no postgraduate degree
+Postgraduate or professional degree, including master’s, doctorate, medical, or law
+degree
+
+Q23. Last year, what was your total household income from all sources, before taxes?
+o Under $10,000
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+$10,000 to under $20,000
+$20,000 to under $30,000
+$30,000 to under $40,000
+$40,000 to under $50,000
+$50,000 to under $75,000
+$75,000 to under $100,000
+$100,000 to under $150,000
+$150,000 or more
+Prefer not to answer
+
+ Q24. What is your race or ethnicity? (Check ALL that apply)
+White
+Hispanic, Latino, or Spanish
+Black or African American
+Asian
+American Indian or Alaska Native
+Middle Eastern or North African
+Pacific Islander/Native Hawaiian
+Another race or ethnicity not listed (Please describe: __________________)
+Prefer not to answer
+Q25. What county do you currently live in?
+__________ (Drop down menu with all Illinois counties)
+Q25. How do you describe the area you reside in?
+o Urban
+
+o
+o
+o
+
+Suburban
+Rural
+Prefer not to answer
+
+Q26. Do you prefer to communicate in a language other than English?
+o Yes
+
+o
+o
+
+No
+Prefer not to answer
+
+Q27. Were you born in the United States?
+o Yes
+
+o
+o
+
+No
+Prefer not to answer
+
+Q28. As you answer this next question please remember that all answers to questions in this
+survey are confidential. You may also skip this next question.
+What is the status of your citizenship? (Check ALL that apply)
+I am a U.S. Citizen
+I have a Visa (e.g., student, tourist, etc.)
+
+ I am working to become a U.S. Citizen
+I am undocumented
+Other
+Prefer not to answer
+Q29. Do you have any medical or health-related disabilities, including physical, mental, or
+emotional conditions that interfere with daily living conditions?
+o Yes
+
+o
+o
+
+No
+Prefer not to answer
+
+Sexual Orientation
+Q30. Do you consider yourself to be:
+o Heterosexual or straight
+
+o
+o
+o
+
+Gay or lesbian
+Bisexual
+Prefer not to answer
+
+Q31. In the past year who have you had sex with?
+o Men only
+
+o
+o
+o
+o
+
+Women only
+Both men and women
+I have not had sex
+Prefer not to answer
+
+Q32. People are different in their sexual attraction to other people. Which best describes your
+feelings? Are you:
+o Only attracted to females
+
+o
+o
+o
+o
+o
+o
+
+Mostly attracted to females
+Equally attracted to females and males
+Mostly attracted to males
+Only attracted to males
+Not sure
+Prefer not to answer
+
+ Gender Identity
+Q33. What was your assigned sex at birth?
+
+o
+o
+o
+
+Male
+Female
+Prefer not to answer
+
+Q34. What is your current gender identity? (Check all that apply)
+Male
+Female
+Trans male/Trans man
+Trans female/Tran woman
+Genderqueer/Gender non-conforming
+Different identity (please describe): ____________
+Prefer not to answer
+Gender Expression
+Q35. A person’s appearance, style, or dress may affect the way people think of them.
+On average, how do you think people would describe your appearance, style, or dress?
+o Very feminine
+
+o
+o
+o
+o
+o
+o
+o
+
+Mostly feminine
+Somewhat feminine
+Equally feminine and masculine
+Somewhat masculine
+Mostly masculine
+Very masculine
+Prefer not to answer
+
+Q36. A person’s mannerisms (such as the way they walk or talk) may affect the way people
+think of them.
+On average, how do you think people would describe your mannerisms?
+o Very feminine
+
+o
+o
+o
+
+Mostly feminine
+Somewhat feminine
+Equally feminine and masculine
+
+ 0 Somewhat masculine
+0 Mostly masculine
+0 Very masculine
+
+Prefer not to answer
+
+RESEARCH FOLLOW-UP
+Q37. Our center regularly carries out studies to inform our understanding of victimization. May
+we contact you in the future regarding other research opportunities you may be eligible for?
+
+o
+o
+
+Yes
+No
+
+ Payment
+
+1 Page
+
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+Dear [Participant],
+Thank you for participating in our study that is trying to learn more about the experiences
+with harm and help-seeking of individuals who identify as LGBTQ+. Your participation is
+invaluable in informing our understanding of the experiences of LGBTQ+-identified individuals
+in Illinois who have experienced harm.
+We have enclosed a $25 gift card in appreciation for your participation in this research
+study.
+If you have any questions please feel free to contact us. You can reach research staff at
+312-793-XXXX or via email at CJA.VictimStudies@illinois.gov.
+Thank you for your assistance!
+Center for Victim Studies
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+O: 312-793-8550
+F: 312-793-8422
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+AMENDMENT APPLICATION: for Research Involving Human Subjects
+
+Any change to an approved research protocol, including the research plan, consent process and
+form, co-investigators, other research personnel, and/or methods of subject recruitment requires
+the submission of an Amendment. Please clarify the change(s) to be made and the rationale for
+the change(s). A cover letter or additional information may also be attached.
+Amendments to approved IRB applications must be submitted to the chair or co-chairs of the
+IRB and receive signed approval. Maintain for your records initial approvals and signatures.
+Amendments to protocols may not be initiated until IRB approval has been obtained.
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Amanda L. Vasquez & Jaclyn Houston-Kolnik
+
+Principal investigator(s) email:
+Unit:
+
+Amanda.L.Vasquez@illinois.gov; Jaclyn.kolnik@illinois.gov
+
+Center for Victim Studies, Research & Analysis Unit
+
+Office Address:
+
+300 W Adams St. Suite 200
+
+City, State, Zip code: Chicago, IL 60606
+Office phone:
+
+312-793-8550
+
+Initial start date of project:
+
+March 2018
+
+Initial end date of project:
+
+February 2019
+
+Title of proposal:
+
+Victim and Family Member Interviews: Linking Systems of Care for Children,
+Youth, & Families
+
+Date of initial approval:
+Initial approval
+type:
+
+March 29, 2018
+
+Full IRB:
+
+X
+
+Expedited:
+
+Exempt:
+
+AMENDMENT INFORMATION
+Amendment initiated by:
+
+Jaclyn Kolnik
+1
+
+ What elements of the approved project are you proposing to change?
+Investigators or research staff (I)
+Project advisors or consultants (II)
+X
+
+Protocol (e.g., instruments, data collection, recruitment procedures, compensation) (III)
+Consent procedures (IV)
+
+X
+
+Consent documents (V)
+
+X
+
+Project sites or study participants (VI)
+Changes in confidentiality, privacy, or security (e.g., data dissemination, storage,
+security, personnel, access) (VII)
+Funding/sponsorship (VIII)
+Start or end date change or modification (IX)
+Other (please specify) (X):
+Risk/benefits assessment (XI)
+
+I. INVESTIGATOR CHANGE
+Adding or
+
+Changes
+
+X
+
+No changes
+
+changing co-principal investigator
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Adding or
+
+changing research staff
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+Certification course:
+
+No
+Date certified:
+
+Certification number (if applicable)
+2
+
+ Other change(s) to personnel or staff
+Explanation:
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Have updated privacy certificates been filed?
+
+Yes
+
+X
+
+No (explain why):
+
+Privacy certificates filed with the Department of Justice, Office for Victims of Crime will be
+submitted in accordance with all outlined requirements.
+
+II. PROJECT ADVISORS OR CONSULTANTS
+Adding or
+
+Changes
+
+X
+
+No changes
+
+changing project advisor or consultant
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+No
+
+3
+
+ III. PROTOCOL CHANGE
+
+X
+
+Changes
+
+No changes
+
+1.) Please explain in detail what changes you plan to make to the study design or protocol (such
+as changes to instruments used, data collection, recruitment procedures, or compensation).
+To recruit individuals over the age of 18 who are in a juvenile corrections or detention facility,
+the proposed changes add additional recruitment strategies, including fliers that remove language
+about compensation to be sent to facilities and a study script that may be used to inform
+individuals who are in juvenile correctional or detention facilities about the opportunity to
+participate, the purpose of the study, and the criteria for participation. The researchers will work
+with correction and detention staff to set up specific days that the researchers will be at the
+facility to conduct interviews. Upon securing dates, the following script will be provided to the
+facility to invite interested individuals to participate in interviews on the day the researchers will
+be at the facility:
+On [INSERT DATE/TIME], researchers will be in [LOCATION/ROOM] and are
+interested in talking with individuals who are 18 and older about their experiences with
+verbal, physical, or sexual harm and contact they may have had with different agencies
+or organizations because they needed help after such experiences. This research is part
+of an effort to improve services for young persons who have experienced harm.
+If you are interested, you can visit [LOCATION] on [DATE/TIME] to answer a few
+questions to see if you are eligible to participate in a 60-90 minute interview. The
+questions will ask participants about their experiences with harm, needs, experiences
+with agencies and organizations after the harm, and recommendations for how agencies
+and organizations can better meet the need of young victims. All information given is
+private and confidential.
+Interested individuals may express their interest and/or meet with researchers on those days and
+will complete the screener (paper or if available, online). Should they be eligible, an interview
+will be conducted.
+2.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the amendment? Is the amendment the result of an adverse/negative
+event?
+Researchers seek to explicitly include individuals over the age of 18 who are in a juvenile
+corrections or detention facility in this study. To reach these populations researchers will need to
+contact juvenile correctional and detention facilities. Researchers will obtain permission from
+agency directors.
+
+3.) Does this amendment alter, in any way, the assessment of potential risks described in your
+approved protocol?
+
+4
+
+ Yes
+
+X
+
+No
+
+4.) If you answered yes to question 3, please explain in detail how this alters the assessment of
+potential risk and whether the benefits of the study outweigh the risks.
+
+IV. CONSENT PROCEDURES
+
+Changes
+
+X
+
+No changes
+
+5.) If you are changing your consent procedures, please explain these alterations in detail.
+
+6.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+5
+
+ V. CONSENT DOCUMENTS
+
+X
+
+Changes
+
+No changes
+
+7.) What types of changes are being made to the consent documents/forms?
+Adding or removing information from the consent form so that it is consistent with an
+already approved IRB statement (e.g., the cost section, or phone number change)
+Revising the consent form to reflect what was already approved in the protocol
+Defining a phrase(s) more clearly in lay language
+Incorporating in the consent form updated IRB-mandated language
+Minor editorial changes to the consent form which do not alter the meaning or procedures
+(e.g., spelling changes, revising a statement)
+Removal of questionnaires or instruments that required consent forms
+X
+
+Other (please specify): We are editing the language to compensation for individuals who
+are over the age of 18 in a juvenile correctional or detention facility.
+
+8.) Please explain in detail how you will alter the consent documents.
+The interview consent forms will be amended to remove the language about compensation for
+participants who are over the age of 18 in a juvenile correctional or detention facility.
+
+9.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+Individuals who participate in the study and who are in juvenile correctional or detention
+facilities will not be offered compensation because compensation could be coercive for
+individuals who are in correctional or detention environments.
+
+6
+
+ 10.) Please submit the original and altered consent documents and highlight the changes. If filing
+the amendment electronically, are these documents appended to this form or contained in a
+separate document?
+Appended
+
+X
+
+Attached form
+
+VI. PROJECT SITES OR STUDY PARTICIPANTS
+
+X
+
+Changes
+
+No changes
+
+11.) What types of changes are being made to the project sites or study participants?
+Changing who is included in the study sample
+X
+
+Inclusion of new or additional special populations as subjects
+Changing sites or programs
+Changing the number of subjects
+Other (please specify):
+
+12.) Please provide a detailed explanation of how you will change who will be included in your
+study sample, if applicable.
+Researchers propose the inclusion of individuals over the age of 18 who are in a juvenile
+corrections or detention facility.
+
+13.) Please provide the rationale for making these changes.
+Young adults with involvement in the juvenile justice systems have high rates of victimization
+and have had contact with one or more service provider groups. Thus, a study that seeks to
+understand the victimization experiences of young adults and their contact with providers
+following victimization must include these populations to truly inform the field’s understanding
+of how to improve services and supports for these populations. Failing to include these
+populations would lead to a gap in our understanding of young adults’ experiences in navigating
+different systems of care following victimization.
+
+14.) Will your study now include new or additional special populations? If yes, please indicate
+which ones:
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+
+7
+
+ X
+
+Juveniles in correctional or detention facilities: Who are over the age of 18
+Probationers, parolees, or individuals under court or correctional supervision
+Developmentally disabled, intellectually disabled, or cognitively impaired
+Individuals held in residential treatment, locked facilities, or hospitalized
+Pregnant women, if focus of research
+Non-English speakers
+Wards of the states
+Other—please specify:
+
+15.) Please provide an explanation of why you are changing the sites or program of study, if
+applicable.
+N/A, the site of study is not changing, but rather we are proposing expanding the populations of
+the study to include individuals who are over the age of 18 in juvenile corrections or detention
+facilities.
+
+16.) Please provide the rationale for making these changes.
+N/A
+
+17.) Are you changing the number of subjects that will be included in your sample?
+No
+Adding subjects to sample
+
+Reducing sample size
+
+18.) How many subjects will be added to or subtracted from your initial sample size and what
+will your final sample size be?
+N/A
+Initial sample
+size
+
+Number
+added
+
+Number
+reduced
+
+Final sample size
+
+19.) Pease provide the justification for making this increase/decrease.
+
+8
+
+ N/A
+
+20.) Please explain any other changes you are making to the project sites or study participants
+and provide the rationale or justification for these changes, if applicable.
+N/A
+
+VII. CONFIDENTIALITY, PRIVACY, OR SECURITY
+
+Changes
+
+X No changes
+
+21.) What changes are being made that may affect the confidentiality or privacy of the subjects,
+or security of the subjects or data?
+
+22.) Please provide the rationale for making these changes.
+
+23.) Please indicate what steps will be taken to ensure the privacy, confidentiality, and security
+of the study subjects or data.
+
+VIII. FUNDING OR SPONSORSHIP
+
+Changes
+
+X
+
+No changes
+
+9
+
+ 24.) How has the funding or sponsorship of this study changed?
+Funding added
+
+Funding
+decreased
+
+New funding
+source
+
+Funding
+restored
+
+25.) How will the changes in funding and/or sponsorship affect the protection of the human
+subjects in the study?
+
+IX. DATE CHANGE OR MODIFICATION
+
+Changes
+
+X
+
+No changes
+
+X
+
+No changes
+
+26.) What date changes are you making to the study?
+Start date
+
+End date
+
+Initial start date
+
+New start date
+
+Initial end date
+
+New end date
+
+27.) Please explain the necessity for these changes.
+
+X. OTHER CHANGES
+
+Changes
+
+10
+
+ 29.) Please provide the rationale for the changes and provide a statement as to how they may
+affect the protection of human subjects in your study?
+
+28.) Please provide a detailed explanation of other changes being made to the IRB that are not
+covered in previous sections.
+
+11
+
+ XI. RISK/BENEFIT ASSESSMENT
+30.) Discuss how these proposed changes may affect the risks posed to human subjects.
+The study’s overall risk has not changed because the procedures involved are the same, but we
+are proposing to expand recruitment to include a more vulnerable population, i.e., individuals
+who are over the age of 18 and in juvenile corrections or detention facilities. Expanding the
+inclusionary criteria to include individuals who are over the age of 18 and in juvenile corrections
+or detention facilities could increase risk to those participants. They represent a highly victimized
+population that has likely had considerable contact with systems following their experiences with
+victimization. However, involvement in this research study is voluntary and participants may
+discontinue their participation at any time without penalty. And in sharing their stories to help
+others they may feel a sense of empowerment that outweighs or mitigates risks of participating.
+31.) Discuss how these proposed changes may affect the potential benefits of the project to
+subjects and or society.
+Expanding the research study to include individuals who are over the age of 18 and in juvenile
+corrections or detention facilities will likely increase the study’s benefit to society. Incorporating
+these additional perspectives will increase the field’s understanding of victimization, and contact
+with providers following victimization informing our understanding of how to improve services
+and supports for young victims.
+
+12
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURE PAGE
+Victim and Family Member Interviews: Linking Systems of Care for Children, Youth, Families
+Presented to IRB on: 
+
+This page is to be signed by the principal investigator.
+
+ 
+
+gf/W
+
+ 
+
+ 
+
+ 
+
+tur of Principal Investigator Date
+IRB ACTION:
+Request Approved Request Denied
+
+IRB Requests Modi?cations (see explanation below)
+
+ 
+
+Signature of IRB Chair
+
+ 
+
+Date
+
+ 
+
+ 
+
+Modi?cations Requested by IRB:
+
+ 
+
+IRB Expiration:
+
+The approval granted for this project expires on
+
+ 
+
+Date
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+Are you a young
+adult aged 18-25?
+
+OR
+
+Are you the parent or
+caregiver of a child
+under 18 years old?
+
+We would like to talk to adults aged 18-25 who have
+been harmed by violence and parents/caregivers of
+children under 18 who have been harmed by violence.
+We hope to better understand their needs and
+experiences finding help.
+
+n
+
+If you are interested, the
+researchers will be here on
+[DATE/TIME] in [LOCATION]
+For questions, please contact:
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+All correspondence is
+confidential
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+As a study participant, you would complete a brief
+survey. Eligible participants will be invited for an
+interview.
+
+Center for Victim Studies
+872-276-3799
+cja.victimstudies@illinois.gov
+
+Young Adults & Caregivers Study
+[Date/Time]
+[Location]
+cja.victimstudies@illinois.gov
+
+This study will help guide a statewide initiative to
+better serve young victims of crime and their families.
+
+ Illinois Criminal Justice Information Authority
+Research Information and Consent for Participation in Research
+Victim and Family Member/Caregiver Interviews – Detention/Corrections:
+Linking Systems of Care for Illinois Children, Youth, & Families
+
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigators Name and Title:
+
+Amanda L. Vasquez
+Research Analyst, Center for Victim Studies
+Dr. Jaclyn Houston-Kolnik
+Research Manager, Center for Victim Studies
+
+Department and Institution:
+
+Research and Analysis Unit
+Illinois Criminal Justice Information Authority
+
+Address and Contact Information:
+
+300 W. Adams St., Suite 200, Chicago, IL 60606
+Phone: 312-793-8550
+Email: Amanda.L.Vasquez@illinois.gov
+Jaclyn.kolnik@illinois.gov
+
+Sponsor:
+
+Office for Victims of Crime: Linking Systems of
+Care for Children and Youth State Demonstration
+Project
+
+Why am I being asked?
+You are being asked to be a subject in a research study to help the state of Illinois better
+understand the nature of child and youth victimization, and the needs of children, youth, and
+their families and their experiences with systems of care following victimization. You have been
+asked to participate in this study because you are a young adult (i.e., aged 18-25) who has
+experienced victimization as a child or youth (i.e., under 21 years old) or you are the parent or
+primary caregiver of a child (i.e., under 18 years old) who has experienced victimization.
+Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future dealings with the Illinois Department of Juvenile Justice (IDJJ) or
+the Illinois Criminal Justice Information Authority (ICJIA). If you decide to participate, you
+are free to withdraw at any time without affecting that relationship.
+Approximately 100 subjects may be involved in this research at ICJIA.
+
+Young Victims Study, Interview, Version 2, 06/11/2018, Page 1 of 5
+
+ What is the purpose of this research?
+The purpose of this research is to better understand the nature of child and youth victimization,
+and the needs of children, youth, and their families and their experiences with systems of care
+following victimization. Specifically, researchers are seeking to increase the state’s knowledge
+of how systems of care are connected and whether they adequately meet the needs of child and
+youth victims, and their families.
+What procedures are involved?
+If you agree to participate, you will have the option to participate in the interview. We estimate
+that the interview will take approximately 60-90 minutes. The interview will be audio-recorded
+with your permission. You can choose not to be audio-recorded. If you choose not to be audiorecorded, we will simply document your responses using paper and pencil. You will be asked
+questions about different experiences from your childhood or your child’s experiences.
+Specifically, we will ask you about your or your child(ren)’s victimization experiences,
+your/your child(ren)’s needs and family members’ needs following victimization, the kinds of
+resources you or your child(ren) may or may not have received, and the agencies and
+organizations that you or your child(ren) had contact with.
+What are the potential risks and discomforts?
+Some questions may make you uncomfortable or may cause you some emotional or
+psychological distress. Please remember, it is up to you to decide whether to answer any of the
+questions. You will be provided with a community resource list of adult victim service providers
+you may contact if you experience discomfort or distress, and a separate list of child victim
+service providers.
+There may be other risks from the study that are not known at this time.
+Will I be told about new information that may affect my decision to participate?
+During the course of the study, you will be informed of any significant new research information
+(either good or bad), such as changes in the risks or benefits resulting from participation in the
+research or new alternatives to participation, that might cause you to change your mind about
+continuing in the research. If new information is provided to you, your consent to continue
+participating in this research may be re-obtained.
+Are there benefits to taking part in the research?
+You will receive no direct benefit from participation in the research.
+Indirect benefits include a better understanding of child and youth victimization, the needs of
+children, youth, and their families and their experiences with systems of care following
+victimization.
+
+Young Victims Study, Interview, Version 2, 06/11/2018, Page 2 of 5
+
+ What other options are there?
+You have the option to not participate in this study. Even if you initially choose to participate
+you may change your decision at any time without penalty. You may also not answer a
+question at any time.
+You will be asked to be audio-recorded. You may choose to participate in an interview but not be
+audio-recorded. If you choose not to be audio-recorded, the information will be collected using
+pencil and paper.
+What about privacy and confidentiality?
+The people who will know that you are a research subject are members of the research team.
+If you agree, interviews will be audio-recorded and saved on secure computers and/or servers in
+the Authority offices. Audio-recordings on the recording devices will be erased within 48 hours
+of recording. Interview transcriptions in computerized word processing files will be stored
+securely on the Authority’s computers and servers. Any information that might identify you will
+be removed from the interview transcripts. Only the researchers will have access to the audiorecording, transcripts, and notes.
+You may choose to participate in the study even if you do not want to be audio-recorded. In this
+case, we will simply take notes using pencil and paper. These notes will be later typed and stored
+securely on the Authority’s computers and servers. These notes will not contain any information
+that might identify you.
+The information collected in the study may be used to write a research report. No potentially
+identifying information that can be attributed directly to you will be included in the report or
+discussed with others.
+Out of a concern for the safety of yourself and others, if during the interview, you say you are
+going to cause serious harm to yourself or to someone else, the researcher may have to make a
+report. A description of different types of serious harm are below:
+a. Physical harm is any action that causes physical injury, pain, or leaves marks,
+such as hitting, shaking, or burning.
+b. Sexual abuse of a child includes any sexual contact with a child or youth. Sexual
+abuse of an adult is any unwanted sexual activity. Sexual abuse of an adult also
+includes any sexual activity with another person who is unable to understand or
+consent (e.g., are sleeping, have been using drugs or alcohol, have a mental
+disability).
+c. Emotional abuse is yelling, swearing, or criticizing another person repeatedly to
+make them feel bad about themselves.
+
+Young Victims Study, Interview, Version 2, 06/11/2018, Page 3 of 5
+
+ d. Neglect occurs when a parent or caregiver of a child or youth, or the caregiver of
+an elderly person or a person with disability, does not meet their basic needs (e.g.,
+food, clothing, medical care) or keep them safe.
+If you share about any current harm to someone who is a child, elderly, or disabled, the
+researcher may have to make a report. If the researcher needs to make a report, they may share
+your name and contact information, or information about the person causing the harm or being
+harmed, and a description of the harm to the appropriate agency such as the Department of Child
+and Family Services, Adult Protective Services, or local law enforcement.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+You will be not be reimbursed or paid for being in this study.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation
+at any time.
+Who should I contact if I have questions?
+If you have any questions regarding this project you may contact Amanda L. Vasquez or Dr.
+Jaclyn Kolnik at 312-793-8550 or CJA.VictimStudies@illinois.gov
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may call the IRB secretary at 312-793-8550.
+Remember:
+Your participation in this research is voluntary. Your decision whether to participate will not
+affect your current or future relations with IDJJ or ICJIA. If you decide to participate, you are
+free to withdraw at any time without affecting that relationship.
+
+Verbal consent (before the interview):
+Now that I have reviewed with you the information contained in the consent form, do you have
+any questions about the consent form or this project?
+
+Young Victims Study, Interview, Version 2, 06/11/2018, Page 4 of 5
+
+ If no: proceed below.
+If yes: answer all questions.
+Now that your questions have been answered, do you consent to participating in this research
+study?
+If no: thanked for your time (conversation ended).
+If yes: proceed below.
+Do you consent to being audio-recorded?
+If no: no problem. I will take handwritten notes during the interview instead.
+If yes: let me turn on the recorder and we will begin.
+
+Young Victims Study, Interview, Version 2, 06/11/2018, Page 5 of 5
+
+ 

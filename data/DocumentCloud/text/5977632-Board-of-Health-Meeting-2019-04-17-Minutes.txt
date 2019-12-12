@@ -1,0 +1,644 @@
+HEALTHY
+CHICAGO
+
+CHICAGO DEPARTMENT OF PUBLIC HEALTH
+
+ 
+
+Food Protection and Health
+Code Enforcement
+
+Gerrin Butler
+Director of Food Protection
+
+Food Protection
+Goal
+
+• To protect public health by using an
+integrated inspection program which
+includes standardized and trained
+staff, use of data-driven decision
+making, and standard operating
+procedures to ensure that
+establishments meet the minimum
+standards required by Law.
+
+ FP Inspects
+Food Establishments
+• Restaurants
+• Institutions
+• CACFP/Summer Feeding
+• Food Trucks
+Special Events (Food Festivals)
+• Taste of Chicago
+Swimming Pools and Spas
+• Outdoor Pools
+• Chicago Park District Pools and Spas
+Body Art (Tattoo) Establishments
+
+Tanning Establishments
+
+ Org Char
+
+ 
+
+Food Protection Program
+erg Chart Effective [1:15am]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vmnm}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sanitar'nn II
+E. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.I?x 
+5 it 
+T?fl ll'?l'l
+h?hint-n1 m; BLCnuk 
+mum mm unumuewzuu Mama runSanitar'nnll Earli'tar'nnll 
+m; e. Carla-Ella I. mm
+Em VACANT [Jr-tin - Sanitar'nnll 1'
+Sit-rial thin-l EWilmn
+I-Lll'l'l'p KBum WM Mm mm
+In. .A
+inn-h 1
+admin?I Eani'lil'hnll
+
+.. ?m I mm mm
+.1 
+
+swim-II T??n'l
+nun-1h wear-11m gaunt: nun:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Red-[In Leave
+Yellow-Vacant
+
+Funding Seurce Tntal Staff EB
+Blue?Cueperate :53]
+
+Grange?LHPG 
+
+Purple?Tehaece [2.25:
+
+Green? Emergency Preparedness 
+Gar-Bed? Art and Ta nningt?hT] 
+
+ 
+
+Inspection Report: Health Code
+Enforcement matrix:
+• Total Inspection by Year
+–
+–
+–
+–
+
+2015 (483)
+2016 (858)
+2017 (1106)
+2018 (1314)
+
+• 2018
+• Inspections by Type
+–
+–
+–
+–
+
+Body Art/Tattoo (643)
+Tanning(577)
+Smoking Complaints (26)
+Day Care License (68)
+
+ Inspection Report: Food Inspection
+Enforcement matrix:
+• Total Food Inspections
+–
+–
+–
+–
+
+2015 (22,002)
+2016 (22,572)
+2017 (21,658)
+2018 (17,461)
+
+• 2018
+• Food Inspections by Type
+–
+–
+–
+–
+–
+–
+–
+–
+
+Canvass/Routine (7,071)
+License/Preopening (2,234)
+Re-inspections (3,680)
+Complaint (1,914)
+Foodborne Illness (77)
+CACFP/SF (2,090)
+Pools (395)
+Special Events/Food Festivals
+
+ Taste of Chicago Inspection Summary
+2018
+
+Day
+WED
+THURSDAY
+FRIDAY
+SATURDAY
+SUNDAY
+Totals
+
+* Food cost are estimated by the operator.
+
+Food Inspection Summary 2017
+#Inspections Pounds of Discarded Cost of Food Discarded*
+212
+1628 $
+1,515.00
+213
+211 $
+1,235.00
+206
+428 $
+2,340.00
+212
+196 $
+611.00
+114
+117 $
+1,205.00
+957
+2580 $
+6,906.00
+
+ Inspection Frequency
+• Categorized based on annual risk assessment
+High- Extensive Food Handling
+• Cool/Reheat
+• Immuno-Compromised
+• Commissary Kitchens
+Medium- Limited Food Handling
+
+• Minimal Assembly
+• Limited hot foods
+Low- Pre-Packaged Foods
+• Prepares Non-TCS Foods
+
+Food Establishments by Type
+•
+•
+•
+•
+•
+
+Total 16,340
+Risk 1 (High) 6,540
+Risk 2 (Medium) 3,200
+Risk 3(Low) 4,600
+Institutions 2,000
+
+Inspection Interval
+• Risk 1 High (1/year)
+• Risk 2 Med (1/2years)
+• Risk 3 Low (Self Inspection)
+
+ Food Predictive Analytics
+Prioritize Inspections
+• Data Driven
+• Appropriately Allocate
+Limited Resources
+• Preventing Illness &
+Foodborne Outbreaks
+• Increase Efficiency
+
+ Inspection Prioritization
+Use predictive analytics:
+• Algorithm-determines which
+food establishments are likely to
+have a Priority Violation
+(Critical).
+• Use 13 data points from open
+data sources
+
+Data Points
+• Last inspection results
+• Previous critical or serious violations
+• Type of facility
+• Length of time establishment has been
+operating
+• Length of time since last inspection
+• Sanitation complaints
+• Garbage cart request
+• Burglary reports
+• Tobacco or liquor license
+• 3 day average temperature (weather)
+• Ward
+• Zip code
+• Sanitarian Assigned
+
+ Sanitarian Coefficient
+SAN ID#
+16654
+16673
+24409
+16875
+16679
+16698
+16646
+16695
+26887
+26888
+24414
+16641
+16648
+16658
+16642
+16651
+26891
+16653
+27071
+16665
+24410
+16662
+16694
+16672
+16688
+16656
+16650
+16692
+16657
+24412
+21368
+24413
+23580
+16655
+16660
+16678
+16683
+
+Coef
+1.672
+1.31
+1.302
+1.293
+1.152
+1.071
+1.045
+0.915
+0.626
+0.612
+0.475
+0.329
+0.325
+0.315
+0.268
+0.221
+0.189
+0.163
+0.048
+0.011
+0.004
+-0.086
+-0.107
+-0.158
+-0.284
+-0.286
+-0.456
+-0.466
+-0.512
+-0.682
+-0.685
+-0.72
+-0.843
+-0.883
+-1.218
+-1.261
+-1.614
+
+TOTAL INSPECTIONS
+813
+962
+624
+366
+729
+335
+720
+519
+412
+404
+573
+622
+948
+752
+925
+988
+498
+732
+448
+949
+566
+1000
+1226
+1336
+1007
+1044
+450
+818
+357
+801
+1392
+932
+417
+710
+664
+1160
+959
+
+TOTAL CRITICAL
+VIOLATIONS
+363
+348
+235
+130
+243
+101
+218
+146
+94
+93
+114
+98
+175
+122
+143
+158
+86
+110
+72
+118
+72
+119
+150
+150
+102
+101
+35
+68
+28
+51
+91
+63
+22
+37
+22
+38
+19
+
+11
+
+ Food Predictive Analytics
+
+Q1 2013 Q1 2014 Q1 2015 Q1 2016
+Number of
+Routine
+Inspections
+Number of FE w/
+Critical Violations
+% of FE with
+Critical Violations
+Number of
+Closures
+Closure Rate
+
+Q1 2017 Q1 2018
+
+2,863
+
+2,724
+
+2,520
+
+2,506
+
+2,648
+
+2,413
+
+365
+
+415
+
+420
+
+433
+
+484
+
+468
+
+12.7%
+
+15.2%
+
+16.6%
+
+17.28%
+
+19.2%
+
+19.4%
+
+22
+
+40
+
+37
+
+35
+
+32
+
+43
+
+.7%
+
+1.4%
+
+1.4%
+
+1.4%
+
+1.2%
+
+1.7%
+
+ Recent Program Achievements
+•
+•
+•
+•
+•
+•
+•
+
+Adopted FDA 2017 Food Code
+Sanitarian standardization
+Pop up license (11/1/2018)
+Increased Income (30%)
+Changed fees based on establishment size
+Increasing staffing capacity
+Increase licensing inspection pass rate from
+26% to 72%
+
+ @ChiPublicHealth
+
+HealthyChicago@CityofChicago.org
+
+/ChicagoPublicHealth
+www.CityofChicago.org/Health
+
+ 

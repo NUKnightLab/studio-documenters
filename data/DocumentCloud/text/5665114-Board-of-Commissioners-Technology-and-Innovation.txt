@@ -1,0 +1,342 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+Wednesday, September 26, 2018
+
+10:45 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Morrison, Butler, Daley, Deer, García, Goslin, Schneider and Silvestri (8)
+
+Absent:
+
+Fritchey (1)
+PUBLIC TESTIMONY
+
+Vice-Chairman Morrison asked the Secretary to the Board to call upon the registered public
+speakers, in accordancewith Cook County Code.
+
+1. George Blakemore, Concerned Citizen
+2. Mark Armstrong, Chicago Urban Fine Arts Commonwealth
+18-6050
+COMMITTEE MINUTES
+
+Approval of the minutes from the meeting of 9/12/2018
+A motion was made by Commissioner García, seconded by Commissioner Silvestri, to approve
+18-6050. The motion carried by the following vote:
+Ayes:
+
+Morrison, Butler, Daley, Deer, García, Goslin, Schneider and Silvestri (8)
+
+Absent:
+
+Fritchey (1)
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+18-5634
+Sponsored by: TONI PRECKWINKLE (President) and JOHN A. FRITCHEY, Cook County Board
+Of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+PROPOSED
+ORDINANCE
+AMENDMENT
+INFORMATION TECHNOLOGY CONSOLIDATION
+
+AND
+
+ORDINANCE
+
+REGARDING
+
+NOW, THEREFORE, BE IT ORDAINED, by the Cook County Board of Commissioners, that
+Chapter 2 ADMINISTRATION. Article XII - Cook County Information Technology Security, Division 1.
+- Cook County Information Technology Security, Sections 2-960, 2-963, 2-964 and reserved section
+numbers, of the Cook County Code is hereby amended as follows:
+ARTICLE XII. - COOK COUNTY INFORMATION TECHNOLOGY SECURITY
+DIVISION 1 - COOK COUNTY INFORMATION SECURITY
+Sec. 2-960. - Short title.
+
+This Article division shall be known and may be cited as the "Cook County Information Security
+Ordinance.”
+Sec. 2-961. - Purpose and policy.
+
+All separately elected County and State Officials, Departments, Office Institutions or Agencies
+funded by the Cook County Board of Commissioners, including, but not limited to, the offices and
+departments under the control of the County Board President, the Board of Commissioners, Cook County
+Health and Hospitals System, State's Attorney of Cook County, Cook County Sheriff, Cook County Public
+Defender, Illinois Clerk of the Circuit Court of Cook County, Cook County Treasurer, Cook County Clerk,
+Cook County Recorder of Deeds, Cook County Assessor, Chief Judge of the Circuit Court of Cook
+County, Board of Review, Cook County Public Defender, Cook County Independent Inspector General,
+Cook County Veteran's Assistance Commission and the Public Administrator (collectively, "Agency")
+shall take all appropriate precautions to protect the confidentiality, integrity, and availability of information.
+Such precautions shall be in accordance with applicable Federal and State laws and regulations and take
+into consideration industry standards and best practices.
+***
+Sec. 2-963. - Definitions.
+
+The following words, terms and phrases, when used in this Article division shall have the meanings
+ascribed to them in this Section, except where the context clearly indicates a different meaning:
+Page 2 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+Guideline means a recommendation to assist an Agency employee or contractor in making
+appropriate decisions or performing a particular task, which allows for latitude in interpretation and
+implementation.
+Plan means a comprehensive document that details strategic direction, which may also provide
+additional details, such as Standards used and so forth.
+Data Subject means an individual about whom information is collected or processed.
+Policy means a document that communicates leadership expectations to a business unit or
+department of an Agency, which may also be considered as mandatory business rules or organization
+specific directives and which are communication of management intent.
+Procedure means a document stating the manner in which a Policy shall be functionally
+implemented in an Agency's environment, which may define specific operation steps, manual methods, or
+instructions for compliance with a Policy.
+Standard means a document that contains a specification or describes minimum implementation
+that satisfies a Policy.
+Sec. 2-964. - Information security framework.
+
+(a) The Information Security Working Group shall assist the Chief Information Security Officer
+(CISO) in creating, and updating as necessary, comprehensive and written information security Plans,
+Policies, Procedures, Standards, and Guidelines for the Agencies (collectively, the "Information Security
+Framework") to reasonably protect the confidentiality, integrity, and availability of Agency information.
+(b) In creating and updating the Information Security Framework, the Chief Information Security
+Officer (CISO) shall seek the advice and recommendations of each Agency in order to ensure that the
+Information Security Framework addresses unique considerations of said Agency; all Agencies shall
+advise and collaborate with the Chief Information Security Officer (CISO) in the creation of the
+Information Security Framework.
+(c) The Information Security Framework shall:
+(1) Be in accordance with applicable Federal and State laws and regulations;
+(2) State all Agencies' minimum requirements and precautions to protect the confidentiality,
+integrity, and availability of Agencies' information;
+(3) Address the unique considerations of each Agency in a manner that does not unduly interfere
+with the operations of such Agency or any confidentiality or privilege required for such
+
+Page 3 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+operations; and
+(4) Take into consideration industry standards and best practices by including critical and
+necessary components of any such similar framework, for example, risk management
+processes, information security incident response plans, and data breach notification plans.
+(5) Include an Acceptable Use Policy compliant with Section 2-965 of this Article division.
+***
+Secs. 2-969. - Privacy Policy.
+
+The Information Security Working Group shall assist the Chief Information Security Officer (CISO) in
+creating, and updating as necessary, a comprehensive privacy policy (“Privacy Policy”) for the Agencies.
+The Privacy Policy shall govern the County’s handling practices, collection, and use of personal data, as
+well as the specific rights of Data Subjects.
+***
+Secs. 2-97069-2-9792-999. - Reserved
+
+***
+NOW, THEREFORE, BE IT ORDAINED, by the Cook County Board of Commissioners, that
+Chapter 2 ADMINISTRATION. Article XII - Cook County Information Technology, Division 2. - Cook
+County Information Technology Consolidation, Sections 2-980 through 2-999, of the Cook County Code is
+hereby enacted as follows:
+DIVISION 2 - COOK COUNTY INFORMATION TECHNOLOGY CONSOLIDATION
+Section 2-980. - Short title.
+
+This division shall be known and may be cited as the "Cook County Information Technology
+Consolidation Ordinance.”
+Section 2-981. - Purpose and Policy
+
+All separately elected County and State Officials, Departments, or Agencies funded by the Cook
+County Board of Commissioners, including, but not limited to, the offices and departments under the
+control of the County Board President, the Board of Commissioners, Cook County Health and Hospitals
+System, State's Attorney of Cook County, Cook County Sheriff, Cook County Public Defender, Illinois
+Clerk of the Circuit Court of Cook County, Cook County Treasurer, Cook County Clerk, Cook County
+Recorder of Deeds, Cook County Assessor, Chief Judge of the Circuit Court of Cook County, Board of
+
+Page 4 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+Review, Cook County Independent Inspector General, Cook County Veteran's Assistance Commission
+and the Public Administrator (collectively, "Agency") shall, except as otherwise provided in this Division,
+coordinate to deliver information technology services in an efficient and cost-effective manner consistent
+with County, State and Federal law and industry standards. Agencies not established under the Board of
+Commissioners or Office of the County Board President may elect, but are not required to, abide by the
+provisions of this Division.
+Section 2-982. - Consolidation Studies
+
+(a) The CIO shall, in collaboration with participating Agencies, conduct a study into the viability of
+consolidating the following technology functions:
+(1) Active directory, including a consolidated identity and access management system; and
+(2) Data center.
+(b) The CIO shall issue a report to the Cook County Board President and Cook County Board of
+Commissioners, Technology Committee regarding the viability of consolidating the above-referenced
+functions no later than January 1, 2020.
+Section 2-983. - Powers and Duties of the Cook County Chief Information Officer
+
+(a) The CIO shall, in collaboration with participating Agencies, develop policies and standards
+relating to technology that may be adopted by participating Agencies, including the following areas:
+(1) Procurement standards;
+(2) Productivity tools, including service desk and data center monitoring software;
+(3) Software development;
+(4) Hardware and architecture;
+(5) Asset management; and
+(6) Any other category of technology.
+(b) The CIO shall establish a change management process to coordinate all changes to
+information technology services or infrastructure that impact Countywide information technology
+operations.
+(c) The CIO shall create a multi-year, Countywide Technology Strategic Plan, which shall be
+presented to the President and the Cook County Board of Commissioners for receipt and file on an annual
+basis.
+(d) The CIO shall seek the advice and recommendations of each participating Agency to ensure
+that any shared service or policy adopted by the CIO addresses the unique considerations and legal
+mandates governing each participating Agency and does not unduly interfere with the operations of such
+
+Page 5 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+participating Agency.
+Section 2-984. - Powers and Duties of Participating Agencies
+
+(a) Chargebacks. Each participating Agency is responsible for its share of the cost of shared
+information technology products or services. The CIO shall determine the chargeback amount for shared
+products or services prior to delivery. The CIO shall ensure that the chargebacks are transparent and that
+the chargeback amount does not exceed the actual cost to the County of the information technology
+product or service.
+Section 2-985. - Consolidated Service Desk
+
+(a) The County shall establish a Countywide Service Desk (“County Service Desk”) managed by
+the CIO.
+(b) The County Service Desk shall provide Tier 1 support to the Offices under the President and,
+by agreement, any participating Agency.
+(1) Tier 1 support is a basic level of support, with customer representatives who possess a broad
+understanding of County IT environments.
+(2) Except as by agreement between BOT and participating Agencies, participating Agencies
+shall remain responsible for Tier 2 support.
+(c) The CIO shall implement a County Service Desk service catalogue and service levels
+consistent with industry standards.
+(d) The CIO and any participating Agency shall agree upon a project schedule to transfer Tier 1
+support to the County Service Desk, and if applicable, Agency-specific service level agreements.
+(e) The CIO shall implement all legally-mandated controls related to personal health information,
+criminal justice information, or any other sensitive data type prior to assuming Tier 1 support for any
+function that that may require access to such data.
+(f) The CIO shall provide a monthly report on County Service Desk metrics, including service
+level reports, to the participating Agencies. The CIO shall deliver the first County Service Desk report
+within 60 days of the establishment of the County Service Desk.
+Sec. 2-986. Adoption and Compliance.
+
+The adoption of any shared service or policy as set forth in this division shall not affect any rights
+and responsibilities arising under any law, including the Illinois Constitution, the Illinois Counties Code or
+the Code of Ordinances of Cook County, Illinois.
+
+Page 6 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+Secs. 2-987-2-999. - Reserved
+Effective date: This ordinance shall be in effect immediately upon adoption
+A motion was made by Commissioner García, seconded by
+recommend for approval 18-5634. The motion carried by the following vote:
+
+Commissioner
+
+Ayes:
+
+Morrison, Butler, Daley, Deer, García, Goslin, Schneider and Silvestri (8)
+
+Absent:
+
+Fritchey (1)
+
+Silvestri,
+
+to
+
+18-5657
+Presented by: F. THOMAS LYNCH, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Bureau of Technology
+Report Title: Information Security Framework Semi-Annual Report
+Report Period: 2/1/2018 - 7/31/2018
+Summary:
+Pursuant to Resolution 17-2732, the Chief Information Security Officer shall update the
+Board of Commissioners via the Technology Committee on the state of the information security in Cook
+County government. The Information Security Framework Semi-Annual Report will provide the status of
+all Agencies’ adoption and compliance of the Information Security Framework. Included in the report is a
+summary of all advice and recommendations of each Agency regarding their unique considerations.
+Additionally, updates will be provided regarding current security controls and the Vulnerability Threat
+Management Program.
+
+A closed meeting is requested, pursuant to an exception to the Open Meetings Act, 5 ILCS 120/2 (c) (8):
+“Security procedures, school building safety and security, and the use of the personnel and equipment to
+respond to an actual, a threatened, or a reasonably potential danger to the safety of employees, students,
+staff, the public, or public property.” Given the confidential nature of the Report, a closed meeting is
+necessary to maintain the safety and security of Cook County residents and stakeholders.
+A motion was made by Commissioner Daley, seconded by Commissioner García, to recommend
+for deferral 18-5657. The motion carried by the following vote:
+Ayes:
+
+Morrison, Butler, Daley, Deer, García, Goslin, Schneider and Silvestri (8)
+
+Absent:
+
+Fritchey (1)
+
+Page 7 of 8
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+September 26, 2018
+
+ADJOURNMENT
+
+A motion was made by Commissioner Daley, seconded by Commissioner Silvestri, to adjourn
+the meeting. The motion carried by the following vote:
+Ayes:
+
+Morrison, Butler, Daley, Deer, García, Goslin, Schneider and Silvestri (8)
+
+Absent:
+
+Fritchey (1)
+
+Respectfully submitted,
+
+Vice-Chairman
+
+Secretary
+
+A complete record of this meeting is available at https://cook county.legistar.com.
+
+Page 8 of 8
+
+ 

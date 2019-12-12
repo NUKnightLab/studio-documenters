@@ -1,0 +1,199 @@
+REPORT OF THE COMMITTEE ON
+INFORMATION TECHNOLOGY AND AUTOMATION
+
+July 17, 2008
+
+The Honorable,
+The Board of Commissioners of Cook County
+
+Present:
+Absent:
+
+Also Present:
+
+ATTENDANCE
+Chairman Beavers and Commissioners Butler, Daley, Moreno and Peraica (5)
+Vice Chairman Gorman, Commissioners Goslin, Scheider and Steele (4)
+
+Antonio Hylton Chief Information Officer, Bureau of TechnoIOQY: Joy
+Wykowski Deputy Clerk of the Cook County Board; Brittany Carminati 
+Senior Consultant/Software Engineer, Catalyst Consulting Group, Inc.; Anthony
+Del Santo Acting Chief Technical Officer. Cook County's Sheriff?s Of?ce; John
+Mason Exective Assistant to the Director of Planning and Development
+
+Ladies and Gentlemen:
+
+Your Committee on Information Technology and Automation of the Board of
+Commissioners of Cook County met pursuant to notice on Monday, July 17, 2008 at the hour of
+11:30 AM. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago,
+
+Illinois.
+
+Chairman Beavers announced that the following Item, Communication Number 294608, would
+be considered for the purpose of discussion only today.
+
+294608
+
+AUTOMATED BOARD AGENDA PROJECT. Transmitting a Communication
+from Todd H. Stroger, President and David Orr, Cook County Clerk:
+
+Dear Members of the Cook County Board of Commissioners:
+
+President Todd H. Stroger is committed to applying technology to improve
+performance and create efficiency in government. The Bureau of Technology's
+Vision 2010 Strategic Plan sets forth the guidelines for improvements.
+
+In keeping with this Vision, the Of?ce of the President and the County Clerk are
+developing a countywide web-based Automated Board Agenda (ABA) application
+to be implemented in partnership with the Bureau of Technology.
+
+The ABA tool in development will allow authorized users to create and submit
+automatic transmittals for inclusion on the County Board Agenda eliminating
+duplication of efforts and additional traffic on our email and network systems
+resulting in a seamless and integrated agenda creation process, with shared
+technology, from initiation to ?nal product.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+JULY 17, 2008
+
+PAGE 2
+
+For this to be successful, all elected of?cials, bureaus and departments of Cook
+County government that have business before the County Board must adopt the
+ABA system for processing agenda items. Execution of the ABA is scheduled for
+the beginning of FY2009 with the December 3, 2008 County Board Meeting.
+
+We are requesting to present a project overview and discuss technology
+requirements, training and implementation at a meeting of the Committee on
+Information Technology Automation.
+
+*Referred to the Committee on Information Technology and Automation on
+June 17, 2008.
+
+Antonio Hylton, Chief Information Officer, Bureau of Technology, delivered opening remarks on
+behalf of the Bureau of Technology and President Todd H. Stroger's Agenda on Technology.
+He noted that the program has significant potential for efficiencies, and that it provides the
+President with the ability to manage the agenda process with more efficiency and timeliness.
+
+Joy Wykowski, Deputy Clerk of the Cook County Board, delivered the following remarks:
+
+A demonstration of this program was conducted at the Draft Agenda Meeting on July 8. 2008.
+Today's demonstration is for Commissioners and department heads. Training for the program
+
+will be held in August.
+
+This is a web?based application. This program will preclude the need for paper documents. It
+will no longer be necessary to hand deliver to the Clerk's Of?ce those items with department
+head?s signatures. ltems will be created in the application and the whole process will go through
+an automated e-mail life cycle. It will be possible to follow an item from its initial typing to its
+
+final approval by the Board.
+
+The contract with Catalyst Corporation, the developer of this program, was approved on March
+7, 2008 by the Information Technology Automation Committee, and was approved by the full
+Board on March 18, 2008.
+
+For the last Board meeting of Fiscal Year 2008, on November 19, 2008, the Agenda will be
+created on the web application as well as through the current paper process. The web system
+will go live and replace the paper system on the ?rst meeting of the next ?scal year.
+
+Brittany Carmanetti, Senior Consultant/Software Engineer, Catalyst Corporation, conducted an
+extended demonstration of the system. Chairman Beavers asked her to show how to enter an
+item for submission onto the agenda, and Ms. Carmanetti demonstrated this, walking through
+
+the process.
+
+Commissioner Daley inquired as to the cost of this project.
+
+Ms. Wykowski replied that the web design cost $175,000.00 and that the project management
+cost $45,000.00, for a total cost of $220,000.00. She further stated that a cost/benefit analysis
+
+of the project yields a total annual reduction of $91,000.00 which includes one staff person; in
+2.4 years the cost of the project will be recouped.
+
+Chairman Beavers asked whether anyone in the audience had questions.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+JULY 17, 2008
+
+PAGE 3
+
+Anthony Del Santo, Acting Chief Technical Of?cer, Cook County's Sheriff's Office, inquired
+whether the system will email the person submitting the item as to whether the item was
+
+approved.
+
+Ms. Wykowski replied in the negative, and explained that that person could check the system for
+the disposition of the item.
+
+John Mason, ExeCutive Assistant to the Director of Planning and Development, inquired:
+Regarding the submission of items, will there be a summary screen showing all items that have
+been submitted?
+
+Ms. Wykowski replied in the af?rmative. She explained that on the change history item, once
+the submit button is pressed, it will show that you submitted an item to the clerk.
+
+Mr. Mason further inquired whether the system can retrieve text from Microsoft Word
+documents, Excell spreadsheets and the like.
+
+Ms. Wykowski replied that a person can copy and paste documents from these programs.
+
+294914 COOK COUNTY CLERK, David Orr by Jan Kralovec, Director of Elections,
+transmitting a Communication:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+ELECTION SYSTEMS AND SOFTWARE, Omaha, Nebraska, for software and
+database maintenance and support for the Election DivisiOn's Voter Registration
+Management System (VRMS).
+
+Reason: The VRMS software, used by the Clerk?s Election Division over the
+last nine (9) years, requires various modifications to comply with
+changes in election laws and procedures, as well as other
+enhancements. Election Systems and Software developed and
+implemented this customized software and is the only vendor capable
+of making these modifications and software enhancements.
+
+Estimated Fiscal Impact: $275,000.00 (FY 2008: $110,000.00; FY 2009:
+$110,000.00; and FY 2010: Contract period: August 1, 2008
+through November 30, 2010. (524-260 Account). Requisition No. 85240045.
+
+Sufficient funds are available in the County Clerk?s Election Division Fund.
+
+The Chief Information Officer has reviewed this item and concurs with this
+recommendation.
+
+*Referred to the Committee on Information Technology and Automation on
+July 1, 2008.
+
+Commissioner Daley, seconded by Commissioner Moreno, moved the approval of
+Communication Number 294914. The motion passed.
+
+INFORMATION TECHNOLOGY AUTOMATION COMMITTEE REPORT
+JULY 17, 2008
+PAGE 4
+
+Commissioner Daley moved to adjourn the meeting, seconded by Commissioner Butler.
+The motion carried and the meeting was adjourned.
+
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTERS NAMED HEREIN:
+
+Communication Number 294608 No Action Taken
+Communication Number 294914 Approved
+
+Respectfully submitted,
+Informatio Technology Automation
+
+ 
+
+Attest:
+
+26
+
+M?tjhew B. DeLeon, Secretary
+
+ 
+
+An audio tape of this meeting is available in the Office of the Secretary to the Board, 118 North
+Clark Street, Room 567, Chicago, IL 60602.
+

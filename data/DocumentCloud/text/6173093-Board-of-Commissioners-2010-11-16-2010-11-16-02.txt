@@ -1,0 +1,175 @@
+ITEM NO. A1
+
+November 10, 2010
+
+AUTHORIZATION TO ENTER INTO A CONTRACT WITH MODEL METRICS AND
+SALESFORCE.COM TO IMPLEMENT A CLIENT MANAGEMENT TRACKING
+SYSTEM
+To the Honorable Board of Commissioners:
+RECOMMENDATION
+It is recommended that the Board of Commissioners authorizes the Chief Executive Officer or
+his designee to enter into a contract with Model Metrics, Inc. and Salesforce.com to provide a
+Client Management Tracking System in the total fixed-fee project amount of $2,270,592 for the
+two year base term and the one year option term contemplated under the contract. The total
+funding request for $2,270,592 covers the base and option terms and includes: (1) funding for the
+implementation phase of the project in the fixed-fee amount of $990,780, and funding for
+optional Consulting Services in the amount of $137,280, totaling $1,128,060 for implementation
+phase services to be provided by Model Metrics, Inc.; and (2) funding for User License fees for
+the fixed-fee amounts of $780,612 for the two year base term and $361,920 for the option year
+term, for a total amount of $1,142,532 to be provided by Salesforce.com.
+FUNDING
+Funding: General Fund
+Specification No.:
+
+10-00479
+
+Vendors:
+
+Model Metrics
+600 West Chicago Avenue, Suite #750
+Chicago, IL 60654
+
+Salesforce.com
+The Landmark at One Market
+Suite 300
+San Francisco, CA 94105
+
+Contract Type:
+Contract Amount:
+Base Term:
+Additional Services
+Option Term:
+
+Fixed Fee (Including Option)
+$1,128,060
+Two (2) Years - $990,780
+
+Fixed Fee
+$1,142,532
+Two (2) Years
+
+TBD (Up to One (1) Year) - $137,280
+
+One (1) Year
+
+Date Advertised: 1/25/10
+Proposal Due Date: 3/3/10
+Date Proposal Opened: 3/3/10
+Pre-Proposal Conference: 2/11/10
+Advertisement Publication(s): Chicago Sun-times, Chicago Defender, El Dia, CHA Website &
+BuySpeed
+Number of Vendors Solicited: 106
+Number of Pick-ups: 80
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ M/W/DBE Participation:
+Direct
+MBE _10.0_% WBE _10.0_% DBE __%
+Indirect MBE __% WBE __% DBE __%
+Waiver
+____ (Yes/No)
+Section 3:
+_8_ (#) Hiring ____ ($) Subcontracting ____ ($) Other Economic Opportunities
+
+GENERAL BACKGROUND
+To support the Plan for Transformation in 2004, CHA Resident Services implemented the webbased software application, Salesforce.com, to meet the needs of its Service Connector program.
+Over time, and through the transition to the Family Works program, Resident Services has added
+significant components to the Salesforce.com implementation. Most of the day-to-day activities
+performed by CHA Resident Services providers are conducted through the Salesforce.com
+platform. In 2005, CHA’s Housing Choice Voucher program installed a separate instance of the
+Salesforce.com solution for its Call Center. The system allows HCV to track incoming phone
+calls through detailed notes and the creation of cases. These cases are then assigned to
+appropriate HCV personnel for resolution. Salesforce.com allows HCV to track the volume of
+cases, the percentage that are successfully resolved and any outstanding cases that should be
+escalated for proper resolution.
+Although both Resident Services and the HCV program were using the same technology
+solution, the implementations are distinct and not integrated. While the Salesforce.com platform
+provides many benefits to Resident Services and HCV, the implemented solution left some key
+needs unmet, particularly being able to understand all actions that were impacting a participant
+over the course of their participation in CHA programs.
+CHA began envisioning a new, comprehensive Client Management Tracking System (CMTS)
+that would provide a holistic overview of each resident and participant in CHA’s housing
+programs. Over time, the vision became solidified as an integrated solution that would meet the
+ongoing needs of Contract and Case Management Services for Resident Services, Housing
+Choice Voucher Call Center, and other Customer Contact Tracking (e.g. Corporate Relations and
+Grants). Market research was conducted to better understand what technologies are available
+“out-of-the-box” and with minimum customization.
+A variety of software vendors were contacted for information and product demonstrations. In
+addition, many internal interviews were conducted with current users of the Salesforce.com
+technology in the Housing Choice Voucher and Resident Services programs to understand how
+the software is being used and what new functionality might be beneficial to CHA. After
+reviewing the current market for Customer Relationship Management software technologies,
+including the product already in use by the CHA, a Request for Proposals (RFP) was issued by
+the CHA with detailed Business and Technical Requirements to ensure that potential vendors
+understood the complete business needs of the CHA.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ PROCUREMENT HISTORY
+On January 25, 2010 the CHA advertised Request for Proposal No. 10-00479 for Client
+Management Tracking System services. The solicitation sought both Software and
+Implementation Services for the CMTS initiative. Prior to release of the RFP, over 40 potential
+bidders were contacted to encourage them to review the RFP, and possibly submit a bid if they
+were interested. On February 11, 2010, CHA held a Pre-Proposal Conference where 28 potential
+vendors attended in person and via conference call.
+The initial due date for the proposals was March 1, 2010, however due to three addendums and
+two vendors requesting extensions, the due date was changed to March 3, 2010 at which time
+CHA received 8 separate proposals. The Evaluation Team, comprised of representatives from
+Information Technology Services, Resident Services, Housing Choice Voucher and Public
+Housing, reviewed each Proposal and provided their individual scoring results to Procurement.
+The Procurement Department set a competitive range that resulted in six of the eight vendors
+being selected. After Oral Presentations were completed, all scoring was submitted and the
+second competitive range was set that resulted in two finalists to move forward through the
+negotiation process. The CMTS Team worked with both finalists on the development of a
+Statement of Work (SOW), including a detailed project schedule and pricing information that
+would assist CHA in selecting the vendor who would implement the best solution.
+Upon careful evaluation of each of the vendor’s software products, implementation approaches
+and pricing, the CMTS Team recommended Model Metrics as the proposed awardee for the
+Client Management Tracking System project. The determination was based upon technical,
+pricing and other factors, and was the result of the evaluation team’s conclusion that Model
+Metrics’ proposal represented the best solution and overall value to the CHA for the CMTS
+project. Model Metrics’ Best and Final offer proposes Salesforce.com’s “Software as a
+Solution” (SAAS) product, which is a 100% outsourced, hosted solution. The Salesforce.com
+software solution was most cost effective with a less complicated pricing model and significantly
+lowers total cost of ownership. For the end user, the system is easier to navigate, very user
+friendly and appealing. For the power users and technical staff, the product is much easier to
+manage, configure and extend when changes are needed. Finally, Salesforce.com and Model
+Metrics are proven partners with the CHA with a demonstrated implementation history.
+Based on the foregoing, it is in the best interest of the CHA to enter a contract with Model
+Metrics, Inc. and Salesforce.com to provide a Client Management Tracking System in the total
+fixed-fee project amount of $2,270,592, which includes funding for the two year base and the
+respective options for: (i) Salesforce.com licensing for year 3 of the agreement; and (ii)
+additional consulting services from Model Metrics that would be expected to be completed
+within one year of the CHA’s exercise of the optional consulting services, when and if elected.
+Specifically, this request includes funding for the implementation phase of the project in the
+fixed-fee amount of $990,780 with optional Consulting Services in the amount of $137,280 with
+Model Metrics, Inc., and User License fees with Salesforce.com for a total fixed-fee amount of
+$780,612 for the two year base term and $361,920 for the option year term.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ RESOLUTION NO. 2010-CHA-137
+WHEREAS, the Board of Commissioners has reviewed Board Letter dated November 10, 2010
+entitled “AUTHORIZATION TO ENTER INTO A CONTRACT WITH MODEL
+METRICS AND SALESFORCE.COM TO IMPLEMENT A CLIENT
+MANAGEMENT TRACKING SYSTEM”
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+THAT
+
+It is recommended that the Board of Commissioners authorizes the Chief
+Executive Officer or his designee enter a contract with Model Metrics, Inc. and
+Salesforce.com to provide a Client Management Tracking System in the total
+fixed-fee project amount of $2,270,592, which includes funding for the two year
+base term and one option year. This authorization includes funding for the
+implementation phase of the project in the fixed-fee amount of $990,780, with
+optional Consulting Services in the amount of $137,280 with Model Metrics, Inc.,
+for a total of $1,128,060, and also includes funding for User License fees with
+Salesforce.com in the amount of $780,612 for the two year base term and
+$361,920 for the option year term, for a total fixed-fee amount of $1,142,532.
+
+.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ 

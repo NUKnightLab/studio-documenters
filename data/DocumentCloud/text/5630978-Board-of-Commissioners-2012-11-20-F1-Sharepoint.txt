@@ -1,0 +1,178 @@
+CHANGE.
+
+CHICAGO 1101.151th AUTHORFW
+
+November 14,2012 ITEM NO. Fl
+
+ 
+
+AUTHORIZATION TO ENTER INTO A CONTRACT WITH CATALYST
+CONSULTING GROUP TO IMPLEMENT A SHAREPOINT ENTERPRISE CONTENT
+MANAGEMENT SYSTEM
+
+To the Honorable Board of Commissioners:
+
+RECO NDATION
+
+It is recommended that the Board of Commissioners authorizes the Chief Executive Officer or his
+designee to enter into a contract with Catalyst for the implementation of a SharePoint Enterprise
+Content Management System in an amount not-to-exceed $4,231,168 for the implementation and
+two (2) one-year maintenance and support options.
+
+The Executive Vice President (EVP) of Finance, the Office of the General Counsel and the
+Office of Procurement have completed all necessary due diligence to support the submission of
+this initiative and recommend the approval of this item accordingly.
+
+CORPQRATE GOAL
+0 Streamline operations to make CHA more customer-focused and ef?cient.
+
+The CHA generates large amounts of electronic and paper records annually in support of its
+paper-driven, manual processes. This project will enable the CHA to leverage its investment in
+the Microsoft SharePoint platform by integrating a SharePoint Enterprise Content Management
+System (ECMS) solution to meet its growing content management and business process support
+needs. A new SharePoint ECMS solution will provide the complete functionality of automated
+records management systems and transform enterprise-based, manual processes into automated
+?ows.
+
+FUNDING: General Fund, Fiscal Year 2012 2013
+
+SOLICITATION SUMMARY
+
+Speci?cation No.: RFP 12-00934
+
+Vendor: Catalyst Consulting Group, Inc.
+Travis Bloom?eld
+211 West Wacker Drive, Suite 450
+Chicago, Illinois 60606
+
+Contract Type: Professional Services Solicitation Release Date: May 28, 2012
+Base Contract Amount: 3,735,000.00 Days Advertised: 30
+
+Base Contract Period: 2 Years (Implementation) Addendum/a: 3
+Maintenance/Support Options: Two (2) One Year Options
+
+Publication(s): Chicago Sun-times, Pre-Bid/Proposal Date: May 31, 2012
+Chicago Defender, Extra Solicitation Due Date: June 29, 2012
+Vendor List: Four Hundred (400) Assist Agencies: Sixty-Four (64)
+Pick-up List: Forty-Four (44) Respondents: Four (4)
+
+50 Van Bum: Street - Chicago, Illinois 56505-1207 - (312) 742-3580 - Mammary
+
+ Participation:
+
+Direct:
+
+MBE 
+Indirect:
+
+MBE 
+Waiver ?(Yes/No)
+
+Section 3:
+Hiring Subcontracting Other Economic Opportunities (S)
+
+GENERAL BACKGROUND
+
+Currently, the ileNet system is primarily used as a document repository. Quillix
+Capture Software is used with FileNet to capture, scan and index paper documents, such as
+forms, correspondence, applications, and customer?related information. The version of FileNet
+currently in use at the CHA (Version 3.0) has not been upgraded to the latest supported version.
+current maintenance plan is on a calendar year renewal. On two occasions the CHA has
+generated an RFP attempting to upgrade the FileNet system. The vendors? upgrade approach
+posed a high risk to the live data. The cost was also high and CHA subsequently pursued
+an alternative ECM solution based upon Microsoft?s SharePoint software.
+
+The business processes have evolved considerably since the initial document
+management implementation of the FileNet system and the system?s con?gured indexes no
+longer align optimally with changes to the business processes. As a result, the CHA
+reviewed the actual use of the document management system and solicited possible
+enhancements that might be needed and work ?ow requirements from the user
+community.
+
+In order to better manage its information assets and achieve ef?ciencies in its business processes,
+the CHA seeks to implement a new SharePoint Enterprise Content Management System solution
+that provides the complete functionality of automated records management systems (capture,
+index, store, track, retrieve, archive, dispose and report) and transforms enterprise-based, manual
+processes into automated ?ows. The recommendation is to move forward with the SharePoint
+ECMS solution that includes KnowledgeLake?s ECM and K2?s work ?ow software. This
+solution will provide the following:
+
+KnowledgeLake software includes:
+
+0 Imaging server software that will transform SharePoint into a production ECM system.
+
+0 Capture module is the low to high volume (batch) production-level scanning solution that
+makes it easy for employees to electronically share their documents securely.
+
+0 Capture sewer allows for easy and cost-effective scanning and saving of documents to
+SharePoint using o?ice copiers, multi-function devices, fax servers and network
+scanners.
+
+0 Connect module enables users to easily upload ?les in seconds, without having to open
+SharePoint.
+
+KnowledgeLake Unify module brings SharePoint content to business applications to
+enable users to search, reference and archive documents in SharePoint without leaving
+familiar business applications.
+
+1.9-3; 1T3 32 ?5538 - Wit-719' 
+
+ KnowledgeLake Advanced Capture module is an intelligent, accurate and scalable
+automated document processing solution that helps businesses across the industry
+spectrum.
+
+K2 blackpearl software includes:
+
+0 Visual tools to automate business processes, such as document approval, employee
+onboarding or inventory control.
+
+0 Complete work?ow and business process management platform that includes: designer,
+work?ow designer for K2 and SharePoint forms, K2 Studio and K2 Designer for Visual
+Studio.
+
+The Board action recommended in this item complies in all material respects with all applicable
+Chicago Housing Authority board policies and all applicable federal (HUD) procurement laws.
+
+The EVP of Finance concurs with the recommendation to enter into a two (2) year base term
+contract with Catalyst to implement a SharePoint Enterprise Content Management System
+solution, with up to two (2) one-year support and maintenance options.
+
+The CHA recommends the approval to enter into a contract with Catalyst for a two (2) year base
+term to implement a SharePoint Enterprise Content Management System solution, with up to two
+(2) one-year maintenance and support options reserved to the CHA.
+
+RESOLUTION NO. 2012-CHA-99
+
+WHEREAS, the Board of Commissioners has reviewed the Board Letter dated November 14,
+
+2012, entitled TO ENTER INTO A CONTRACT WITH
+CATALYST CONSULTING GROUP TO IMPLEMENT A SHAREPOINT
+ENTERPRISE CONTENT MANAGEMENT 
+
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+
+THAT
+
+the Board of Commissioners (?Board?) authorizes the Chief Executive Of?cer or
+his designee to enter into a contract with Catalyst Consulting Group to implement
+a SharePoint Enterprise Content Management System in an amount not to exceed
+$4,231,168.00, including two (2) one year maintenance and support options.
+
+These awards are subject to each Contractor?s compliance with the 
+
+Section 3 resident hiring, and bonding and insurance
+requirements.
+
+
+NOV 25 2mg
+
+     
+       
+   
+
+ 
+
+Board oi Commissioners
+
+69 Van Bum!) Street - Ohlcuga Illinois 66605-1207 - (312/ 742-8560- mom-Mary
+

@@ -1,0 +1,3018 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, June 16, 2015 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Gugenheim called the meeting to order.
+Present:
+
+Chairman Ada Mary Gugenheim and Directors Wayne M. Lerner, DPH, LFACHE and Erica
+E. Marsh, MD, MSCI (3)
+Board Chairman M. Hill Hammock (ex-officio), Director Emilie N. Junge and Patrick T.
+Driscoll, Jr. (non-Director Member)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Krishna Das, MD – System Chief Quality Officer
+John O’Brien, MD – Director of Professional
+Education
+Elizabeth Reidy – General Counsel
+
+II.
+
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+Sharon Welbel, MD – System Director of Infection
+Control
+
+Public Speakers
+Chairman Gugenheim asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report from Chief Quality Officer
+A. Report – Infection Control (Attachment #1)
+Dr. Sharon Welbel, System Director of Infection Control, provided an overview of the Report on Infection Control.
+The Committee reviewed and discussed the information.
+During the discussion of the information on Central Line Associated Blood Stream Infections (CLABSI), Dr.
+Welbel noted that the definition of CLABSI changed in 2015; basically, things that were not previously counted as
+a healthcare-associated central line infection are now being counted. Additionally, the Centers for Disease Control
+has not changed their standard infection rate to reflect the new definition; however, they are going to change it at
+the end of 2015. These two changes will likely affect the rates.
+Dr. Welbel provided information on interventions put in place to prevent these infections, including having only
+certain trained medical staff and attending physicians insert central lines. Director Lerner inquired if the goal in
+training staff is to have all healthcare professionals who associate with patients to have that core competency, or to
+have a small cadre of people who do that specialized task. Dr. Welbel responded that everybody who inserts
+central lines and peripherally-inserted central catheter (PIC) lines has to have specialized training.
+During the discussion of hand hygiene compliance, Chairman Gugenheim inquired regarding the rules for hand
+hygiene. Dr. Welbel responded that the rules are that staff are to clean their hands prior to going into the room,
+and are to clean their hands upon exit of the room. The Committee discussed the subject of technologies that are
+being developed, such as badge-associated sensors, monitors and dispensers of handgel. Dr. John Jay Shannon,
+Chief Executive Officer, noted that the administration has begun to review these types of technologies; however, in
+the absence of culture change, these may not be effective.
+Page 1 of 67
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 16, 2015
+Page 2
+
+III.
+
+Report from Chief Quality Officer
+A. Report – Infection Control (continued)
+During the discussion of the information presented on endoscopy-related infections, Dr. Welbel stated that, with
+regard to the frequency of use, she surmised that approximately two or more scopes are used per day at the System;
+in contrast, other hospitals use approximately two per month. The System constantly re-processes its scopes;
+management is in the process of purchasing more scopes. Dr. Shannon noted that recently, the Finance Committee
+and Board approved a multi-million dollar purchase of scopes and Steris cleaning machines.
+Board Chairman Hammock inquired how Infection Control information is communicated amongst the staff;
+additionally, he inquired how the policies are enforced, and whether units are rewarded for success. Dr. Welbel
+stated that there is an Infection Control intranet site available for staff that contains updated surveillance data and
+policies. Data is physically posted in the units; she noted that every unit is assigned an infection preventionist who
+communicates this information to the unit. With regard to a reward/recognition system, she stated that this has
+been done in the past; she noted that it is challenging to maintain while there are competing issues like Ebola and
+Middle East Respiratory Syndrome (MERS) that arise.
+Dr. Welbel provided a brief update on activities related to the recent Ebola outbreak. With the assistance of staff
+from Information Technology, an electronic screening tool was developed. Over 650,000 people were screened for
+Ebola. Of those, there were 9 people who were found to meet the screening criterion; 4 of the 9 people were true
+positives, meaning they said yes to all of the screening questions. Staff from the Division of Infectious Diseases
+examined those 4 patients; an alternative diagnosis was found in all 4 patients. Staff are now implementing
+something like that for MERS, which is probably the biggest new emerging problem.
+
+B. Regulatory and Accreditation Updates
+Dr. Krishna Das, Chief Quality Officer, provided a brief update on regulatory and accreditation matters. She stated
+that staff continue their preparations for the full accreditation survey by The Joint Commission (TJC) at Stroger
+Hospital; the survey will occur anytime between now and November.
+Dr. Das stated that efforts continue with the roll-out of the Primary Care Medical Home (PCMH) program in all of
+the Ambulatory settings; most of the clinics have kicked off very intense preparations for this.
+
+C. Metrics (Attachment #2)
+Dr. Das reviewed the presentation on Metrics. The Committee discussed the information.
+With regard to the measures relating to Operating Room (OR) Efficiency, Director Lerner indicated that he
+would appreciate having the director of that project come and make a presentation to the Committee; he
+inquired whether this can be scheduled soon. He noted that he does not want to do this after they have
+implemented it; rather, he would like to see pre- and post-implementation presentations. He would like to know
+the project plan and what they are trying to accomplish, along with the outcomes and the evaluation. Following
+its execution, the Committee can discuss the evaluation. Dr. Das stated that this should be feasible for the next
+month’s meeting.
+
+D. Report – Patient Experience (Attachment #3)
+Dr. Das reviewed the presentation on Patient Experience. The Committee discussed the information.
+Page 2 of 67
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 16, 2015
+Page 3
+
+III.
+
+Report from Chief Quality Officer
+D. Report – Patient Experience (continued)
+Director Junge inquired whether surveys go out to not only the patients of the CCHHS clinics, but also to
+patients of the network clinics. Dr. Das responded that, for this survey, when she refers to clinics, she is only
+referring to those 16 CCHHS Ambulatory Services clinics. Separately, the Managed Care operation needs to
+get feedback from all of its members, who may use the network clinics; Managed Care does survey its
+members, but that is a separate survey.
+Board Chairman Hammock inquired whether the System’s affiliation agreements require its partners to survey
+their own patients. He asked Elizabeth Reidy, General Counsel, whether there are quality reporting
+requirements in those agreements. Ms. Reidy responded in the affirmative; she stated that they are required
+under the System’s agreement with the State, and are included in those agreements, as well. Dr. Shannon stated
+that staff will follow-up on the question relating to patient satisfaction surveys conducted by the System’s
+partners. Director Lerner noted that this subject will also be discussed in the Managed Care Committee.
+Following the review of the presentation, Director Lerner inquired whether Dr. Das could estimate when the
+administration can start thinking about perhaps aspiring toward designation of Magnet status for nursing or
+working towards being considered for the Baldrige Award. Dr. Das stated that, most optimistically, changing a
+culture takes three years; additionally, it is critical to have extremely enlightened management at all levels.
+Board Chairman Hammock stated that perhaps the place to start is by setting standards at the 85th percentile
+across the board; once those standards are being met, that would seem to be the trigger that says - let’s go for it.
+Chairman Gugenheim indicated that if there is anything the Board can do to help reach this goal in terms of
+support or resources, the administration should let them know.
+
+IV.
+
+Action Items
+A. Request for the Committee’s recommendation to amend the clinical training affiliations approved by
+the CCHHS Board of Directors on May 31, 2015 (Attachment #4)
+Dr. John O’Brien, Director of Professional Education, provided an overview of the amended list of clinical
+training affiliations. The Board of Directors approved a group of affiliations on May 29, 2015; however, the
+affiliation with McGaw for OB/Gyne was inadvertently not included in that approved list. Therefore, the list is
+being re-presented with the inclusion of the McGaw OB/Gyne agreement; the Committee is respectfully asked
+to approve the list, as amended.
+Director Marsh recused herself from the discussion and consideration of the item.
+Director Lerner, seconded by Chairman Gugenheim, moved to approve the proposed list
+of clinical training affiliations presented for the Committee’s consideration, as amended.
+THE MOTION CARRIED.
+
+B. Executive Medical Staff (EMS) Committees of Provident Hospital of Cook County and John H.
+Stroger, Jr. Hospital of Cook County
+i. Receive reports from EMS Presidents
+There were no reports provided at this time.
+
+Page 3 of 67
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 16, 2015
+Page 4
+
+IV.
+
+Action Items
+B. Executive Medical Staff (EMS) Committees of Provident Hospital of Cook County and John H.
+Stroger, Jr. Hospital of Cook County (continued)
+ii. Approve Medical Staff Appointments/Re-appointments/Changes (Attachment #5)
+Director Marsh, seconded by Director Lerner, moved to approve the Medical Staff
+Appointments/Reappointments/Changes. THE MOTION CARRIED UNANIMOUSLY.
+
+C. Minutes of the Quality and Patient Safety Committee Meeting, May 12, 2015
+Director Lerner, seconded by Director Marsh, moved to accept the Minutes of the Quality
+and Patient Safety Committee Meeting of May 12, 2015. THE MOTION CARRIED
+UNANIMOUSLY.
+
+D. Any items listed under Sections IV and V
+
+V.
+
+Closed Meeting Items
+A. Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+The Committee did not convene into a closed meeting.
+
+VI.
+
+Adjourn
+As the agenda was exhausted, Chairman Gugenheim declared the meeting
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Ada Mary Gugenheim, Chairman
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 67
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 16, 2015
+
+ATTACHMENT #1
+
+Page 5 of 67
+
+ COOK COUNTY HEALTH 
+& HOSPITALS SYSTEM
+& HOSPITALS SYSTEM
+CCHHS Board of Directors
+CCHHS
+B d f Di
+Quality and Patient Safety Committee
+Infection Control Report
+Dr. Sharon Welbel
+Dr. Sharon Welbel
+
+June 16th, 2015
+
+Page 6 of 67
+
+ Description
+Catheter Associated Urinary Tract 
+Infections (CAUTI):
+• All adult ICUs, PICU, Peds, MedSurg
+surveillance
+• Uses NHSN criteria
+• Data reported to CMS
+• Part of TJC‐NPSG goals
+TARGET: Reduce CAUTI by 40% (SIR 
+0.6) by the end of 2015.
+
+Opportunity
+•Baseline Rate: SIR =1.4 (2012)
+•Target met (80% reduction, SIR=0.2) due
+to:      Strong collaboration with nurses
+• Use of approved indications on
+Cerner
+• Foley catheter use reduced
+• IPs monitor need for catheters
+•Needs improvement on catheter care
+•Need for consistent  use of CHG bath
+
+2
+
+Action Plan
+1.Provide CAUTI feedback to leadership 
+and units
+2.Implement automated stop order
+3.Staff and patient education
+4.Implement evidence‐based practices, 
+empower nurses
+5.Monitor CHG bath and cleaning of 
+catheters.
+
+Presentation Title in Footer  I  Date 
+
+Page 7 of 67
+
+ Description
+Central Line Associated Blood Stream 
+Infections (CLABSI):
+• All adult ICUs, PICU,NICU
+Peds,MedSurg surveillance
+• Uses NHSN criteria
+• Data reported to CMS
+• Part of TJC‐NPSG goals
+TARGET Reduce CLABSI by 40%
+TARGET: Reduce CLABSI by 40% 
+(SIR=0.6) by  the end of 2015.
+
+Opportunity
+
+Action Plan
+
+•Baseline Rate:  SIR =1.1(2011)
+•Target was  not met (SIR=1.3,  23 CLABSI cases)
+• Gap Analysis results;
+Gap Analysis results;
+• 30% (6/20) educated about central line
+• 13% (3/23) utilized checklist
+• 22% (5/23) femoral lines
+• 20%  (2/8) CHG bath in MedSurg
+• 77% ( 10/13) CHG bath in ICUs
+( / )
+•35%  CLABSI cases are in MedSurg , (8/23)
+• 39% (9/23) of CLABSI were from PICC 
+• Catheter hubs not disinfected
+• Median  time from line insertion to infection was
+14 days; suggests poor line care and maintenance
+
+1.Provide CLABSI feedback to leadership and 
+units.
+2 Educate staff /patients on best practices to
+2.Educate staff /patients on  best practices to 
+reduce CLABSI
+3.Reinforce CVC checklist use
+4.IPs will monitor
+• Use of CHG bath
+• Need for central lines
+• Access, care and maintenance of  central 
+lines
+5.Scrub the Hub campaign ( 3/2015)
+6.Restrict  residents from accessing central 
+lines
+
+3
+
+Presentation Title in Footer  I  Date 
+
+Page 8 of 67
+
+ Description
+Hand Hygiene Compliance 
+Hand
+Hygiene Compliance
+•Average compliance before
+and after patient &
+environmental contact
+TARGET: Improve hand hygiene 
+p
+yg
+compliance rate from baseline of 59% 
+to 90% by the end of 2015.
+
+Opportunity
+• Hand Hygiene compliance is insufficient, 
+Hand Hygiene compliance is insufficient,
+at 75% median.
+• Data validated;
+• do not represent all shifts and all 
+providers
+• reported inaccurately & untimely
+• time consuming data entry
+• Lack of consistent  staff/leadership
+commitment  and accountability
+
+Action Plan
+1.
+
+2.
+3.
+4.
+
+4
+
+Utilize The Joint Commission targeted 
+g
+solutions tools (TST)
+• Identifies defects/barriers
+• Ease of data entry, web based
+• Timely unit feedback
+Nursing leadership will lead improvement 
+initiatives
+Train new observers & coaches from  all 
+shifts/disciplines
+Pilot started in 6 South, ACHN, Core 
+Center
+
+Presentation Title in Footer  I  Date 
+
+Page 9 of 67
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jehn I-I. Stranger, {Seek ?aunt}:
+Hand H?iene er 5 Suuth
+Run Ch of Compliance
+33-5 I . .- -.
+MeanIf? {15?19" ?1?3 '19 a? ?72-.
+Date
+Records in Chart 123
+HDTICE: Just In Time Beach-e5 are not included in this chat
+Baseline Data
+
+ 
+
+ 
+
+ 
+
+COOK COUNTYHEALTH
+HOSPITALS SYSTEM
+
+CCH HS
+
+Dalv
+
+ 
+
+Page 10 of 67
+
+ 
+
+ 
+
+Jehn H. StringerJr Jr.Jr Heep-ital elf ?unk County-
+Hand Hygiene fer I5 Seuth
+Compari?un 
+
+ 
+
+ 
+
+ 
+
+1.3m:
+HE .3D9
+1
+HE
+f1 
+1..r'f
+.64? Ham 
+
+1 A Menn=? .1121
+eff! ll'w,
+. 1:?.42 3 x: ?a 
+
+
+If
+
+If
+
+?.954 . I I I I 
+CHISW IJi-e?l: Lab HA Either Hal-ed Observed
+Records in Chart 123
+
+Alpha 
+
+HDTICE: are net included in this chart
+Baseline Data
+
+ 
+
+ 
+
+Page 11 of 67
+
+COOK COUNTYHEALTH
+8: HOSPITALS SYSTEM
+
+CCH HS
+
+in Footvr Dato
+
+ 
+
+ 
+
+John Snug-2r, Hos sfpital of Cook Cmmtanr
+Hand Hygieneh or 650nm
+
+PIE Ch art
+
+GED-res 15.5 Equip Shared 13.5 
+
+   
+  
+   
+
+I?dation ?ve?a EB 
+
+2.3 1.
+Follow Exitl' Entry 2.3 Er;
+Hands Full Mods 2.3 
+
+Freq Entry 15.5! 5;
+
+Dim Location 132%; Hands Full 509922.72
+
+ 
+
+ 
+
+ 
+
+Defect 5-an Cum! Perm Defect ?rm Cunt Perm
+Handy. Full Supp - 11.? is Emlamn Area - 3 6.5 i.
+Disp Location I It! Adrrl'ssiuns 2.3 i
+FrquxitJ'Enty - ?.996 ExitI'Entry - I 2.3%
+- 3' I53 ?31; Hands Full Med-E. - I 2.3 '35
+Equip Shared a I3.6 '95
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dhservatiuns with Defects 38
+
+
+ 
+
+ 
+
+COOK COUNTYHEALTH
+8: HOSPITALS SYSTEM
+
+
+
+Presentation Title in Footer Date
+
+ 
+
+ 
+
+Page 12 of 67
+
+ENDOSCOPY Related Infections
+ENDOSCOPY Related Infections
+• February
+February 19
+19th, 2015 FDA released a Medical 
+2015 FDA released a Medical
+Device Safety communication on 
+duodenoscopes
+• This was in response to an outbreak of CRE*
+infections linked to reprocessed
+infections linked to reprocessed 
+duodenoscopes
+
+* CRE Carbapenem resistant Enterobacteriaceae
+* CRE Carbapenem‐resistant Enterobacteriaceae
+8
+
+Presentation Title in Footer  I  Date 
+
+Page 13 of 67
+
+ CCHHS Response
+CCHHS Response
+• Multidisciplinary
+Multidisciplinary group convened
+group convened
+• Endoscopy cleaning technique reviewed and 
+validated
+• All personnel assigned to reprocess 
+endoscopes are required to receive
+endoscopes are required to receive 
+competency training annually or sooner
+has requested such personnel be certified
+• IC* has requested such personnel be certified
+• IC reviews reprocessing technique weekly
+* IC Infection Control department
+9
+
+Presentation Title in Footer  I  Date 
+
+Page 14 of 67
+
+ CCHHS Response, cont’d.
+CCHHS Response, cont
+d.
+• IC
+IC receives daily list of patients who will have 
+receives daily list of patients who will have
+ERCPand compare to the XDRO* registry
+A procedure and policy for microbiological
+• A procedure and policy for microbiological 
+testing of scopes was created
+All scopes have been cultured and will be
+• All scopes have been cultured and will be 
+cultured monthly
+Continue work on validating other methods of
+• Continue work on validating other methods of 
+cleaning such as ATP+
+ ERCP Endoscopic procedure to view bile ducts and pancreas
+* XDRO Extensively drug resistant organisms
++ ATP chemical used to validate cleaning method
+10
+
+Presentation Title in Footer  I  Date 
+
+Page 15 of 67
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 16, 2015
+
+ATTACHMENT #2
+
+Page 16 of 67
+
+ COOK COUNTY HEALTH 
+& HOSPITALS SYSTEM
+& HOSPITALS SYSTEM
+CCHHS Board of Directors
+CCHHS
+B d f Di t
+Quality and Patient Safety Committee
+Dashboard Overview
+Dashboard Overview
+16 June 2015
+Krishna Das, MD, Chief Quality Officer
+
+1
+
+CCHHS Board QPS Committee
+
+Page 17 of 67
+
+ Dashboard Overview
+• Quality
+Quality measures 
+measures – process, outcome and 
+process outcome and
+efficiency
+• Safety measures
+Safety measures
+• Patient satisfaction
+• Hospitals and ambulatory are included
+
+2
+
+CCHHS Board QPS Committee
+
+Page 18 of 67
+
+ Quality Stroger
+
+EEHHS 0P5 Committee Dashboard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DataasufiJE-?Ei-2015 [21' 2am E?s 21:115
+mm {12 2014 {13 2014 {14 2014 {11 2015
+UAFIIAHEE 
+Apr Mary- June July Aug Sept Oct Nov Dec Jan Feb Mar Apr
+[Sane Measures
+1?renews. Th rembeem belism Prevention [9131 ?35
+Care fur Patients [9131 53 54 55 55 El}r El? El}r 53 El] 56 53 52 100
+In?uenza and Pneumececcel 1lirenxtinatiicin [95312i
+E?iiemy - ?pera?nq Roam
+{surgeryr Begins. at Scheduled Heem Turn Areund Time {minutesPage 19 of 67
+
+ 
+
+COOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+ 
+
+ 
+
+Quality Provident
+
+EEHHS DPS Committee Dashboard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nanasufnene?zma Dr 2:114 Dr 2:115
+C12 2014 C13 2014 {14 2014 [11 2015
+HAHIAHEE 
+Apr May June July Aug Sept NEW Del: Jan Feb Mar Apr
+EDIE 
+Freya-"tinElf-1- 100 100 05 ?30 4%
+In?uenza and Pneumececcal ?u'accinatiena [95E?iiemy - ?pem?nq Ream
+Begins at Scheduled 'I?In'le??Heem Turn Areund 35 na
+
+ 
+
+COOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+
+Page 20 of 67
+
+ 
+
+Safety Stroger
+
+EEHHS 0P5 Committee Dashboard
+
+Dataasuf05-05-2015 UT 2014 CV 2015
+{12 2014 {13 2014 {14 2014 {11 2015
+
+ 
+
+ 
+
+ 
+
+THREET 
+Apr May June July Aug Sept Oct Dec Jan Feb Mar Apr
+
+ 
+
+ 
+
+ 
+
+Safety
+
+HAE: Pressure Ulcer Stages E: W1
+HAE: Falls with lniurllr2
+
+HAI: sin.3
+
+HAI: EAUTI 5m.?
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hus-:4:-
+Hid-:4:-
+i?ii?nI-I-m
+
+HCIHCI
+Has-ho
+
+
+
+
+cums-Ln
+SEEM
+i?ii?nccum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+HAC: Hospital Acduired Conditions
+HAI: Hospital Acquired Infections
+
+ 
+
+CLABSI: Central line-associated blood stream infections
+CAUTI: Catheter-associated urinarytract infections
+
+ 
+
+ 
+
+ 
+
+FOOTNOTES 
+1 Adult discharges (2:18] with days,- per 1000
+2All medfsurg units and per 1000 patient-days
+5 Eligible units include all units with laboratory confirmed even'
+4Eligible units include all unitswith confirmed event.
+
+ 
+
+COOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+
+Page 21 of 67
+
+ 
+
+ 
+
+Patient Experience Stroger
+
+EEHHS DPS Committee Dashboard
+
+Damasufueue?zms Cir 2014 Dr 2015
+{12 2014 {13 2014 {14 2014 {11 2015
+
+ 
+
+ 
+
+ 
+
+
+Apr May- June July Aug Sept Oct New Del: Jan Feb Mar Apr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Patient Experieme
+
+IWilIing t5 Hecem mend H555 [55 turn Eemmu nicatien with Denture [25 tep hexEemmu nicatien with Nu r5e5 [25 ten hex2'25
+Cleanlin255 hexCOOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+Page 22 of 67
+
+ 
+
+Patient Experience Provident
+
+EEHHS DPS Committee Dashboard
+
+Damasufueue?zms CY 2014 Dr 2015
+{12 2014 {13 2014 {14 2014 {11 2015
+
+ 
+
+ 
+
+ 
+
+
+Apr May June July Aug Sept Oct Del: Jan Feb Mar Apr
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patient Eyerierme
+
+ 
+
+ 
+
+ 
+
+ 
+
+Willing to Hecnmmend Heap [9913 ten hexEemmunicatien with Denture [95 ten bexl ElEemmunicatien with NUIEEB [90 ten lam-:Cleanliness t?p hex] I55 02 33 56 4-4- ?1 i5] 65 Hi 3%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+
+Page 23 of 67
+
+ 
+
+ACHN
+
+EEHHS DPS Committee Dashboard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Damasufaeae?zme E?f 2am E?f 2u15
+{12 2014 {13 2014 {14 2014 {11 2015
+UAFIIAHEE 
+Apr May- June July Aug Sept Oct New Dec Jan Feb Mar Apr
+
+Diabetes. Central 9'6 with Alllmmunizatiena: Up ta datein children at 24 mentheml 5? 63 El] LLB SE SE. 
+Patient Experience: Maving Th raugh EB 63 I55 EB 63 25 Jib-E
+Patient Experience: Telephene Aeneas ElCOOK COUNTY HEALTH
+HOSPITALS SYSTEM
+
+
+
+
+Page 24 of 67
+
+ 
+
+Board anlity Dashboard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Committee Dashboard I Board Metrics - Qualitv
+Data as of osiaizms
+MEASURES 21114 or 1:115
+2:115 TARGET 
+1:114 2:114 3:114 4:114 1:115 Apr
+Stroger
+Core Measures Composite
+'v'enous Thromhoemholism Prevention {9-1333%
+Efficiency - Operating Room 36
+Surgerv Begins at the Scheduled Time {313) 34 44 3? 33 46 513 30%
+Safety Total it of Events
+Events: Ulcers, Falls, CLABSI and CRUTI 41 29 26 13 22 3'
+Patient Experience
+to Recommend Hosp {35 top boxProvident
+Core Measures
+'v'enous Thromhoemholism Prevention {34] 3'1 32 33 33 35 33% 
+Efficiency - Operating Room 36
+Surgerv Begins at the Scheduled Time {913) 32 I 44313%
+Patient Experience
+to Recommend Hosp (95 top box35313
+ACHN
+Diabetes Control 94 with th 141C 33% 
+Patient Experience: Moving Through Visit 63 E3 E3 E3 35% 
+Patient Experience: Telephone Access 63 ED 133 32 132 E4 35%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+81 HOSPITALS SYSTEM
+
+
+
+if?fill'?
+CLABSI: Central line-associated blood stream infections
+ICAUTI: Catheter-associated urinarvtract infections
+*variance is target to recent full quarter
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 25 of 67
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 16, 2015
+
+ATTACHMENT #3
+
+Page 26 of 67
+
+ COOK COUNTY HEALTH 
+& HOSPITALS SYSTEM
+CCHHS Board of Directors
+Quality and Patient Safety Committee
+Quality and Patient Safety Committee
+The Patient Experience Initiative
+JJune 16
+16th, 2015
+Krishna Das, MD
+Chief Quality Officer
+Chief Quality Officer
+
+1
+
+Page 27 of 67
+
+ Patient Experience
+Patient experience is defined as the 
+sum of all interactions, shaped by an 
+organization’s culture, that influence 
+patient perception across the 
+continuum of care
+‐The Beryl Institute
+
+2
+
+CCHHS Board of Directors
+
+Page 28 of 67
+
+ Goals of the Initiative
+• Attract
+Attract and retain patients as the provider of 
+and retain patients as the provider of
+choice for high quality healthcare
+• Attract and retain staff as the employer of 
+Attract and retain staff as the employer of
+choice for high quality healthcare
+• Commit to and demonstrate a patient centered 
+C
+i
+dd
+i
+d
+approach to the delivery of healthcare
+• Create a lasting, system wide culture of service 
+and respect for the patient and the family
+3
+
+CCHHS Board of Directors
+
+Page 29 of 67
+
+ Patient Satisfaction Data
+• Vendor conducts surveys per CMS guidelines
+–
+–
+–
+–
+
+Two hospitals 
+Ambulatory system ‐‐ 18 clinics
+Emergency department
+g y p
+Ambulatory surgery
+
+• Inpatient surveys
+– 15,000 mailings per year (Stroger)
+15,000 mailings per year (Stroger)
+– 1,150 mailings per year (Provident)
+
+• Ambulatory surveys
+– 25,920 mailings per year
+25 920 mailings per year
+
+• All surveys are sent in English and Spanish
+• Return rates ~ 15%
+4
+
+CCHHS Board of Directors
+
+Page 30 of 67
+
+ Overview of Survey Respondents*
+A Di ib i
+Age Distribution
+
+* Stroger only; Provident and ACHN are similar
+5
+
+CCHHS Board of Directors
+
+Page 31 of 67
+
+ Overview of Survey Respondents*
+Language
+
+* Stroger only; Provident and ACHN are similar
+6
+
+CCHHS Board of Directors
+
+Page 32 of 67
+
+ Overview of Survey Respondents*
+G d
+Gender
+
+* Stroger only; Provident and ACHN are similar
+7
+
+CCHHS Board of Directors
+
+Page 33 of 67
+
+ Provident Data – Willingness to Recommend 
+T B %
+Top Box %
+Target = 85% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+8
+
+CCHHS Board of Directors
+
+Page 34 of 67
+
+ Provident Data – Willingness to Recommend 
+T B % il
+Top Box % ile
+
+9
+
+CCHHS Board of Directors
+
+Page 35 of 67
+
+ Stroger Data – Willingness to Recommend 
+T B %
+Top Box %
+Target = 85% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+10
+
+CCHHS Board of Directors
+
+Page 36 of 67
+
+ Stroger Data – Willingness to Recommend 
+T B % il
+Top Box % ile
+
+11
+
+CCHHS Board of Directors
+
+Page 37 of 67
+
+ Willingness to Recommend
+LLocal Comparisons
+lC
+i
+RUSH
+
+82
+
+NORTHWESTERN
+
+80
+
+Medical Center
+
+UNIVERSITY OF CHICAGO
+
+77
+
+SWEDISH COVENANT
+
+71
+
+UNIVERSITY OF ILINOIS
+
+64
+
+STROGER
+
+62
+
+MT SINAI
+
+55
+
+NORWEGIAN
+
+48
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+% Top Box
+
+12
+
+CCHHS Board of Directors
+
+Page 38 of 67
+
+ Provident Data – Communication with Doctors 
+T B %
+Top Box %
+Target = 88% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013
+Q 1 2013
+Q 2 2013 Q 3 2013
+Q 3 2013 Q 4 2013
+Q 4 2013 Q 1 2014
+Q 1 2014 Q 2 2014
+Q 2 2014 Q 3 2014
+Q 3 2014 Q 4 2014
+Q 4 2014 Q 1 2015
+Q 1 2015
+
+Quarter
+
+13
+
+CCHHS Board of Directors
+
+Page 39 of 67
+
+ Stroger Data – Communication with Doctors 
+T B %
+Top Box %
+Target = 88% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+14
+
+CCHHS Board of Directors
+
+Page 40 of 67
+
+ Communication with Doctors
+LLocal Comparisons
+lC
+i
+RUSH
+
+82
+
+Medical Center
+
+NORTHWESTERN
+
+81
+
+UNIVERSITY OF CHICAGO
+
+80
+
+STROGER
+
+80
+
+MT SINAI
+
+78
+
+SWEDISH COVENANT
+SWEDISH COVENANT
+
+77
+
+NORWEGIAN
+
+76
+
+UNIVERSITY OF ILINOIS
+
+75
+70
+
+72
+
+74
+
+76
+
+78
+
+80
+
+82
+
+84
+
+% Top Box
+
+15
+
+CCHHS Board of Directors
+
+Page 41 of 67
+
+ Provident Data – Communication with Nurses 
+T B %
+Top Box %
+Target = 86% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+16
+
+CCHHS Board of Directors
+
+Page 42 of 67
+
+ Stroger Data – Communication with Nurses 
+T B %
+Top Box %
+Target = 86% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+17
+
+CCHHS Board of Directors
+
+Page 43 of 67
+
+ Communication with Nurses
+LLocal Comparisons
+lC
+i
+RUSH
+
+82
+
+Medical Center
+
+NORTHWESTERN
+
+76
+
+UNIVERSITY OF CHICAGO
+
+74
+
+SWEDISH COVENANT
+
+74
+
+UNIVERSITY OF ILINOIS
+
+72
+
+MT SINAI
+MT SINAI
+
+69
+
+STROGER
+
+64
+
+NORWEGIAN
+
+63
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+% Top Box
+
+18
+
+CCHHS Board of Directors
+
+Page 44 of 67
+
+ Provident Data ‐ Cleanliness 
+T B %
+Top Box %
+Target = 77% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+19
+
+CCHHS Board of Directors
+
+Page 45 of 67
+
+ Stroger Data ‐ Cleanliness 
+T B %
+Top Box %
+Target = 77% (90th %ile)
+90
+80
+70
+
+% Top Box
+
+60
+50
+40
+30
+20
+10
+0
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014 Q 4 2014 Q 1 2015
+
+Quarter
+
+20
+
+CCHHS Board of Directors
+
+Page 46 of 67
+
+ ACHN Data – Overall Assessment of Clinic 
+Q
+Quarterly Mean Score
+l M
+S
+Target = 75%
+80
+
+75
+
+Mean Score
+
+70
+
+65
+
+60
+
+55
+
+50
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014  Q 4 2014 Q 1 2015
+
+Quarter
+
+21
+
+CCHHS Board of Directors
+
+Page 47 of 67
+
+ ACHN Data – Ease of Getting Clinic on Phone 
+Q
+Quarterly Mean Score
+l M
+S
+Target = 75%
+80
+
+75
+
+Mean Score
+
+70
+
+65
+
+60
+
+55
+
+50
+Q 1 2013 Q 2 2013 Q 3 2013 Q 4 2013 Q 1 2014 Q 2 2014 Q 3 2014  Q 4 2014 Q 1 2015
+
+Quarter
+
+22
+
+CCHHS Board of Directors
+
+Page 48 of 67
+
+ ACHN Data – Moving Through your Visit 
+Q
+Quarterly Mean Score
+l M
+S
+Target = 75%
+80
+
+75
+
+Mean Score
+
+70
+
+65
+
+60
+
+55
+
+50
+Q 1 2013
+
+Q 2 2013
+
+Q 3 2013
+
+Q 4 2013
+
+Q 1 2014
+
+Q 2 2014
+
+Q 3 2014 
+
+Q 4 2014
+
+Q 1 2015
+
+Quarter
+
+23
+
+CCHHS Board of Directors
+
+Page 49 of 67
+
+ Overview of the Patient Experience Initiative
+• System wide involvement
+System wide involvement
+– Past efforts have been fragmented
+– Impetus from leadership
+Impetus from leadership
+
+• Evidence based interventions
+– Utilize best practices
+
+• Data driven performance improvement
+– Create access to data
+– Publicize targets to staff
+24
+
+CCHHS Board of Directors
+
+Page 50 of 67
+
+ Governance of the Patient Experience Initiative
+CCHHS Board of 
+Directors
+
+CCHHS 
+Leadership
+
+Provident EMS
+
+Provident 
+Quality 
+Committee
+
+Stroger EMS
+
+Ambulatory 
+Quality Council
+
+Stroger Quality 
+Committee
+
+Patient Experience 
+Council
+
+25
+
+Director of Patient 
+Experience
+CCHHS Board of Directors
+
+Page 51 of 67
+
+ Patient Experience Work Plan
+• Customer service training
+Customer service training
+– Developed internally; incorporating best practices
+– Utilize input and data from vendors
+p
+– New employee engagement sessions
+
+• Leadership and accountability
+Leadership and accountability
+– Demonstrate priority/ role modeling
+– Empower managers to track data and implement 
+p
+g
+p
+interventions
+
+• Operational enhancements
+26
+
+CCHHS Board of Directors
+
+Page 52 of 67
+
+ Customer Service Training
+• Three part training sessions
+Three part training sessions
+– Basic customer oriented behavior
+– Developing and expressing empathy
+p g
+p
+g
+p y
+– Basics of service recovery
+– ‘Train the trainer’ concepts built in
+p
+
+• Pilot complete with volunteer group (finance) 
+y
+g
+p g
+and key managers; program evaluation has 
+been excellent and interest in training is high
+y p
+y
+• Roll out by department and ambulatory site
+27
+
+CCHHS Board of Directors
+
+Page 53 of 67
+
+ Leadership and Accountability
+• Kick
+Kick off to demonstrate system priority 
+off to demonstrate system priority
+• Leadership ‘walk‐rounds’ to reinforce 
+concepts
+• Manager training in acquiring and displaying 
+data
+• Regular data presentations at quality 
+committees
+y
+p
+• System policies on customer service behavior
+28
+
+CCHHS Board of Directors
+
+Page 54 of 67
+
+ Operational Enhancements
+Telephone access
+Telephone
+access‐ call center
+call center
+Environmental service enhancement and oversight
+Plans to improve patient access to parking
+Plans to improve patient access to parking
+Greeters and volunteers for welcome and way‐
+fi di
+finding
+• Wheelchair access for subspecialty clinic patients
+• Plan patient and family engagement for feedback
+•
+•
+•
+•
+
+29
+
+CCHHS Board of Directors
+
+Page 55 of 67
+
+ Timeline
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Customer service training
+Establish and utilize council
+Develop and test training material
+Manager training/ train the trainers
+System wide training begins
+wide training begins
+
+Leadership and accountability
+Kick off initiative system‐wide
+Manager training in data analysis
+Leadership rounding
+Policy development and implementation
+
+Operational enhancements
+Call center, parking, greeters/guides
+
+30
+
+CCHHS Board of Directors
+
+Page 56 of 67
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 16, 2015
+
+ATTACHMENT #4
+
+Page 57 of 67
+
+  Affiliations
+Proposed Revised List of
+2015 Agreements
+
+June 16, 2015
+Meeting of the
+Quality and Patient Safety Committee
+
+Page 58 of 67
+
+ 
+
+ 
+
+.
+
+Apg??f?jED
+
+JUN ?25.1.3?
+
+BY OF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- .. COOK COUNTY
+WPITALS SYSTEM
+Program FTE residents Contract Length-Yrs Max. Ann. Reimbursed/i?weeoe
+Rush Emergency Medicine 8 3
+McGaw -Neurosurgery 2.5 2 $398,660.00
+Maw OBlene 15 2 $1,088,719
+Midwestern (Prov Emerg. Med) 6.36 1 $615,076.00
+St Francis-Ortho 2 1 $144,661.00
+St Francis-Trauma 1.6 1 $0.00
+Loyola Fam Medicine 33 1 $2,877,025.00
+Lutheran Gen. Hospital - Master 5 
+LGH Colon/Rectal Fellow 1 3 $0.00
+Christ - Master 
+Christ Anesthesia 1 3
+Christ Urology 2 3
+Christ Neonatology 0.3 3 $0.00
+UIC Pathology 5 1 $460,489.00
+UIC Adolescent Medicine 1 2 $0.00
+UIC Pharmacy Resident 0.14 2 $0.00
+Univ. of Chicago-Master 10
+St Anthony?Pediatrics 2 3
+- Emergency Med. 4 2
+Mount Sinai Master 5
+Lurie - Master 5
+Shawnee Black Lung Clinic <01 3
+
+ 
+
+ 
+
+ 
+
+Page 59 of 67
+
+This list of agreements was originally presented and recommended for approval at the May 12, 2015 QPS Committee
+Meeting; it received Board approval on May 31, 2015. This represents a request for approval, as amended
+(with inclusion of McGaw OB/Gyne Agreement).
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 16, 2015
+
+ATTACHMENT #5
+
+Page 60 of 67
+
+ COOK COUNTY HEALTH HOSPITALS SYSTEM
+
+ 
+
+Toni COOK OUNTY ALTH (?mnk County Health 8: Hospitals System
+Presulem a. HOSPITALS SYSTEM Board Members
+ka County Board of Cmnmissiuners CCH M. Hammad: Chairman
+John Jay Shannon. MD Cmnmissioner Jerry Butler - Vice Chairman
+Chief IEXeeutive Olliccr lewis Col lens
+Cook County Health 8: Hospitals System Ric Estrada
+
+Ada Mary Gugenhcim
+Emilie N. Jungc
+Wayne M. Lerner. DPH. FACH 
+
+Ozuru 0- 91mm: MD Erica E. Marsh, MD MSCI
+Pres1dent, Carmen Velasquez
+Executive Medical Staff Dome P- Wicsc. 
+john H. Stroger, Ir.
+Hospital of Cook County
+
+Date: June 10, 2015
+
+Dear members of the Quality and Patient Safety Committee of the Board:
+
+Please be advised that the Executive Medical Staff Committee of John H. Stroger, Jr.
+Hospital of Cook County, at its June 9, 2015 meeting, approved the attached list of
+medical staff action items for your consideration.
+
+Respectfully,
+
+Ozuru O. Ukoha, MD
+President, EMS
+
+Page 1 of 7
+
+- Ambulatory 1 Community Health Network - Cormok Health Services 0 Cook County Department ol Public ileoltll 
+- John H. Singer, in Hospital 0 Oolt Forest Heolth Center 0 Provident Hospital 0 Ruth M. Rollietoin CORE Center 0
+
+Page 61 of 67
+
+ 
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff and Non-Medical Staff Action Items Subject to Approval by the Quality and
+
+Patient Safety Committee
+
+Atty, Corinne E. DO
+Appointment Effective:
+
+Campbell-Lee, Sally, MD
+Appointment Effective:
+
+Hajrasouliha,Amir Reza, MD
+Appointment Effective:
+
+Jonsson, Martina C., MD
+Appointment Effective:
+
+Lee, Justin H., MD
+Appointment Effective:
+
+Raiji, Veena R., MD
+Appointment Effective:
+
+Schmidt, Mary Lou, MD
+Appointment Effective:
+
+INITIAL APPOJNTIIENT APPLICATIONS
+
+Radiology
+June 16, 2015 thru June 15, 2017
+
+Pathology/Blood Bank
+June 16, 2015 thru June 15, 2017
+
+Surgery/Ophthalmology
+June 16, 2015 thru June 15, 2017
+
+
+June 16, 2015 thru June 15, 2017
+
+Surgery/Pediatric Surgery
+June 16, 2015 thru June 15,2017
+
+Surgery/Ophthalmology
+June 16, 2015 thru June 15, 2017
+
+Pediatrics/Hematologlencology
+June 16, 201 5 thru June 15, 2017
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Consulting Physician
+
+Active Physician
+
+Voluntary Physician
+
+INITIAL APPOINTMENT NON-PHYSICIAN 
+
+Cook, Sara E., PA-C
+With Paul, Reena D., MD
+
+Alternate Holloway, Lillian F., MD
+
+Effective:
+
+Roberts, Kathy L., CNP
+With Irons, Sharon A., MD
+Appointment Effective:
+
+Department of Anesthesiology:
+
+Parsaei, Shekofeh, MD
+Reappointment Effective:
+
+Tyler, Serge, MD
+Reappointment Effective:
+
+Correctional Health 
+
+June 16, 2015 thru June 15, 2017
+
+Medicine/General Medicine
+
+June 16, 2015 thru June 15,2017
+
+APPLICATIONS
+
+Peds Anesthesia
+July 30, 2015 thru July 29,2017
+
+Anesthesia
+July 9,2015 thru July 8, 2017
+
+Department of Correctional Health Services:
+
+Makhael, Fayez, MD
+Reappointment Effective:
+
+Family Medicine
+July 28,2015 thru July 27,2017
+
+Physician Assistant
+
+Nurse Practitioner
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY
+
+Item Page 2 of 7
+Quality and Patient Safety Committee Meeting of June 16, 2015 ON JUNE 16? 20 1'5
+
+  
+
+ITTEE
+
+Page 62 of 67
+
+John H. Stroger. Jr. Hospital of Cook County
+Reaggointment Agglications (continued)
+
+Department of Emergency Medicine:
+
+Bailitz, John. MD
+Reappointment Effective:
+
+Couture, Eileen, DO
+Reappointment Effective:
+
+Kysia, Rashid, MD
+Reappointment Effective:
+
+Emergency Medicine
+July 09, 2015 thru July 08,2017
+
+Emergency Medicine
+Juiy 11, 2015 thru July 10, 2017
+
+Emergency Medicine
+July 11, 2015 thru July 10, 2017
+
+Degartment of Family a__n_c_l Commgnitv Medicine:
+
+Crawford, Tais, MD
+Reappointment Effective:
+
+Department of Medicine:
+
+Anoopa, Koshy, MD
+Reappointment Effective:
+
+Ezeokoli, Chukwudozie, MD
+Reappointment Effective:
+
+Garcia, Marlon, MD
+Reappointment Effective:
+
+Guerra, Yannis, MD
+Reappointment Effective:
+
+Muzzafar, Shirin, MD
+Reappointment Effective:
+
+Papiez, Gregory, MD
+Reappointment Effective:
+
+Rubinstein, Paul, MD
+Reappointment Effective:
+
+Family Medicine
+June 16, 2015 thru June 15, 2016
+
+Endocrinology
+August 14, 2015 thru August 13, 2017
+
+Hospital Medicine
+July 28, 2015 thru July 27,2017
+
+HOSpitai Medicine
+July 10, 2015 thru July 9,2017
+
+Endocrinology
+July 28, 2015 thru July 27,2017
+
+Pulmonary/Critical Care
+August 26, 2015 thru August 25, 2017
+
+General Medicine
+August 26, 2015 thru August 25, 2017
+
+Hematology/Oncology
+July 28, 2015 thru July 27,2017
+
+Degartment of Obstetrics and Gynecology:
+
+Burtch, Radha, MD
+Reappointment Effective:
+
+O'Neiil, Erica, MD
+Reappointment Effective:
+
+Degartment of Pathology:
+
+Alagiozian-Angelova, Victoria, MD
+Reappointment Effective:
+
+Senseng, Carmencita, MD
+Reappointment Effective:
+
+Shi, Feinan, MD
+Reappointment Effective:
+
+Item 
+Quality and Patient Safety Committee Meeting of June 16, 2015
+
+Ob/Gyne
+July 28, 2015 thru July 27,2017
+
+Ob/Gyne
+July 10, 2015 thru July 09,2017
+
+Anatomic Pathology
+July 30, 2015 thru July 29,2017
+
+Pathology
+July 28, 2015 thru July 27, 2017
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Pathology Affiliate Physi 
+July19,2015thru Juiy18,2017 corms
+Page 3 of 7 APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY COM
+on JUNE 16, 2015
+
+Page 63 of 67
+
+John H. Stroger, Jr. Hosgital of Cook County
+Rea ointment A lications continued
+
+Degartment of Pediatrics:
+
+Bandepalli, Chandrarekha, MD
+Reappointment Effective:
+
+Bandi, Sindhura, MD
+Reappointment Effective:
+
+Gafoor, Sabiha, MD
+Reappointment Effective:
+
+Ochoa?Lubinoff, Cesar, MD
+Reappointment Effective:
+
+Rastogi, Alok, MD
+Reappointment Effective:
+
+Severin, Paul
+Reappointment Effective:
+
+Shamsi, Tanveer, MD
+Reappointment Effective:
+
+Department of Radiology:
+
+Larson, John N., DO
+Reappointment Effective:
+
+Thakrar, Anupama, MD
+Reappointment Effective:
+
+Degartment of Surgegy:
+
+Adkins, Linda J., OD
+Reappointment Effective:
+
+Bove, Michiel, J., MD
+Reappointment Effective:
+
+Crawford, Clifford 8., MD
+Reappointment Effective:
+
+Houston, John T.B., MD
+Reappointment Effective:
+
+Kanard, Robert C., MD
+Reappointment Effective:
+
+Magnani, Jason J., MD
+Reappointment Effective:
+
+Neonatology
+July 10, 2015 thru July 9, 2017
+
+Allergy and Immunology
+Juiy 10, 2015 thru July 9, 2017
+
+Fed. Emergency
+July 1, 2015 thru June 30,2017
+
+Developmental-Behavioral
+July 28, 2015 thru July 27,2017
+
+Neonatology
+July 9, 2015 thru July 8, 2017
+
+Ped. Critical Care
+July 9, 2015 thru July 8,2017
+
+Ped. Emergency
+July 11, 2015 thru July 10. 2017
+
+General Radiology
+July 9, 2015 thru July 8,2017
+
+Radiation Oncology
+July 19, 2015 thru July 18, 2017
+
+Ophthalmology
+June 21, 2015 thru June 20, 2017
+
+Otolaryngology
+June 16, 2015 thru June 15, 2017
+
+General Surgery
+June 21, 2015 thru June 20,2017
+
+Urology
+June 21, 2015 thru June 20,2017
+
+Pediatric
+June 16, 2015 thru June 15,2017
+
+Orthopaedics
+June 21, 2015 thru June 20,2017
+
+Renewal of Privileges for Non-Medical Staff:
+
+Ellis, Pamela J., CRNA
+Effective:
+
+Jeudy, Myrline, CNP
+With Davidovich, Michael J., MD
+
+Effective:
+Item 
+
+Quality and Patient Safety Committee Meeting of June 16, 2015
+
+Anesthesiology
+June 16, 2015 thru June 15, 2017
+
+Medicine I General Medicine
+
+June 16, 2015 thru June 15, 2017
+Page 4 of7
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Affiliate Physician
+
+Active Physician
+
+Af?liate Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Nurse Anesthetist
+
+Nurse Practitioner
+CCHHI
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY Co EE
+on JUNE 16, 2015
+
+Page 64 of 67
+
+John H. Stroqer, Jr. Hospital of Cook County
+Renewal of Privileges for Non-Medical Staff (continued):
+
+Nwabudike, Sinchieze, PA-C
+With Gamble, Tondalaya, MD
+Alternate Abrego, Fidel, MD
+
+With Feldman, Elizabeth, MD
+Alternate Mekhael, Fayez M., MD
+Effective:
+
+Rescober, Teresita M., CNS
+With Nguyen, Tuan M., MD
+Effective:
+
+Rogers, Tracy, 
+Reappointment Effective:
+
+Sanchez, Luis M., PA-C
+
+With Richardson, Stamatia 2., MD
+Alternate Marasigan, Ligaya V., MD
+Effective:
+
+Strong, Shelby D., CNP
+With Smith, Patrika L., MD
+Effective:
+
+Szpur, Mary V., PA-C
+
+With Herrera, Patricia MD
+Alternate Schwartz, David, MD
+Effective:
+
+Prescrigtive Authority Only:
+
+Miller, Nicole A., PA-C
+With Keen, Richard, MD
+Alternate Farlow, Erin, MD
+Effective:
+
+Item 
+
+Quality and Patient Safety Committee Meeting of June 16, 2015
+
+OBIGYN
+
+Correctional Health Services
+June 16, 2015 thru June 15, 2017
+OBIGYN
+
+June 16, 2015 thru June 15, 2017
+
+Correctional Health Services
+July 10, 2015 thru July 09, 2017
+
+Correctional Health Services
+
+June 19, 2015 thru June 18, 2017
+
+Medicine General Medicine
+
+June 16, 2015 thru June 15, 2017
+
+Medicine Infectious Disease
+
+June 21, 2015 thru June 20,2017
+
+SurgeryNascular Surgery
+
+Physician Assistant
+
+Clinical Nurse Specialist
+
+Clinical 
+
+Physician Assistant
+
+Nurse Practitioner
+
+Physician Assistant
+
+Physician Assistant
+
+June 16, 2015 thru February 16, 2017
+
+Page 5 of 7
+
+corms
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY Comm
+
+Page 65 of 67
+
+ON JUNE 16, 2015
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+that les County Health It Hospitals System
+
+ 
+
+yf?rLeT ii Manners
+(tam timid N??wmissioners CCH m, um Hammock . Cinema
+John Jay Shanon. Ml) ('mnmmioner Jerry Butler 0 Vice Chaim?:
+Chief Executiw Ollie? [Ms Collette
+Cool: ?nely ?with Hospitals System Ric Estrada
+Ada Mary Gugenheim
+Emilie Ni lunge
+
+Wayne M, Lerner. DPH. FACHE
+Erica E. Marsh. MD 
+Carmen Velasquez
+Down: 1! Wine, Edi)
+
+Anwer Hussein, DO, FAAEM
+President,
+Medical Executive Committee
+Provident Hospital
+Of Cook County
+
+June 5, 2015
+Dear Members of the Quality and Patient Safety Committee:
+Please be advised that at the Credentials Meeting held on June 2, 2015 the Medical Executive
+
+Committee of Provident Hospital of Cook County recommended the actions on the enclosed list. It is
+being presented to you for your consideration.
+
+Respectfully,
+
+ 
+
+Anwer Hussein DO
+President, ME
+
+Page 6 of 7
+
+Ambulatory I. Community Health Hotwork 0 Council: Hum. 0 Cook County Department at Public 
+. John It. ?nger, .lr. Hospital 0 Oak Faust Health Cantor - Provident Hospital 0 Ruth M. Rottntotn CORE Center 0
+
+Page 66 of 67
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff Action Items Subject to Approval by the Quality and Patient Safety Committee
+
+Meeting
+
+INITIAL APPOINTMENT 
+Hajrasouliha, Amir Reza, MD Ophthalmology
+Appointment Effective: June 16, 2015 thru June 15, 2017
+
+APPLICATIONS
+
+Department of Clinical Labs and Pathology:
+Shi, Feinan, MD Pathology
+
+Reappointment Effective: July 19, 2015 thru July 18, 2017
+Department of Internal Megicine:
+
+Ezekokoli, Chukwudozie, MD Hospital Medicine
+
+Reappointment Effective:
+
+Fakhran, Sherene, MD
+Reappointment Effective:
+
+Hamb, Aaron, MD
+Reappointment Effective:
+
+Littleton, Stephen, MD
+Reappointment Effective:
+
+Muzzafar, Shirin, MD
+Reappointment Effective:
+
+Department of Surgeg:
+
+Crawford, Clifford S., MD
+Reappointment Effective:
+
+Item 
+
+Quality and Patient Safety Committee Meeting of June 16, 2015
+
+July 28, 2015 thru July 27, 2017
+
+Pulmonary Medicine
+August 14, 2015 thru August 13, 2017
+
+internal Medicine
+August 1, 2015 thru July 31, 201
+
+Pulmonary Medicine
+July 28, 2015 thru July 27,2017
+
+Pulmonary Medicine
+August 26, 2015 thru August 25, 2017
+
+General Surgery
+June 21, 2015 thru June 20,2017
+
+Affiliate Physician
+
+Active Physician
+
+Active Physician
+
+Af?liate Physician
+
+Active Physician
+
+Af?liate Physician
+
+Physician
+
+Active Physician
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY CO 
+
+Page 7 of 7
+
+Page 67 of 67
+
+on JUNE 16, 2015
+

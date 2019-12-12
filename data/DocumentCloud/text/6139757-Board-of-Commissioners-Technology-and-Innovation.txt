@@ -1,0 +1,234 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+
+Wednesday, June 28, 2017
+
+9:15 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+PUBLIC TESTIMONY
+
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+No Public Speakers.
+17-4033
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 6/6/2017
+A motion was made by Commissioner Morrison, seconded by Commissioner Schneider, to approve
+17-4033. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+ 17-3598
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Bureau of Technology and Various Cook County Agencies
+Vendor:
+
+System Solutions, Inc., Northbrook, Illinois
+
+Request:
+
+Authorization for the Chief Procurement Officer to extend and increase contract
+
+Good(s) or Service(s):
+
+Standard Specification Hardware (Lot A) and Hardware Maintenance (Lot C)
+
+Original Contract Period:
+
+7/1/2012 - 6/30/2015, with two (2), one (1) year renewal options5
+
+Proposed Contract Extension Period:
+
+7/1/2017 - 6/30/2018 (Lot A)
+
+Total Current Contract Amount Authority:
+
+$13,189,457.10 (Lot A); $3,894,976.56 (Lot C)
+
+Original Approval (Board or Procurement): 6/5/2012, $13,189,457.10 (Lot A); $1,424,976.56 (Lot C)
+Previous Board Increase(s) or Extension(s): 10/8/2014, $1,630,000.00 (Lot C); 4/13/2016 $840,000.00
+(Lot C), and 7/1/2016 - 6/30/2017 (Lot A & Lot C)
+Previous Chief Procurement Officer Increase(s) or Extension(s):
+(Lot A & Lot C)
+This Increase Requested:
+
+$530,000.00 (Lot C)
+
+Potential Fiscal Impact:
+
+FY 2017 $530,000.00
+
+Accounts:
+
+5/6/2015, 7/1/2015 - 6/30/2016
+
+499-441
+
+Contract Number(s):
+
+11-84-167A and 11-84-167C
+
+Concurrences:
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance via direct
+participation.
+The Chief Procurement Officer concurs.
+Summary: This one (1) year contract extension for Lot A and an increase to Lot C System Solutions,
+Inc. will continue to provide standard hardware and necessary maintenance services while the County
+transitions to a new maintenance agreement and allow adequate time to complete the Request for
+Proposer (RFP) process for Lot A items. Lots. Lot A allows County agencies to procure specification
+hardware while Lot C provides as-needed maintenance and repair of Countywide computer hardware
+equipment.
+These contracts were awarded through a competitive reverse auction procedure in accordance with the
+Cook County Procurement Code. System Solutions, Inc was the lowest, responsive and responsible
+Page 2 of 5
+
+ bidder.
+A motion was made by Commissioner García, seconded by Commissioner Morrison, to
+recommend for approval 17-3598. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+17-3478
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Enterprise Resource Planning
+Vendor:
+
+International Business Machines (IBM) Corporation
+
+Request:
+
+Authorization for the Chief Procurement Officer to increase contract
+
+Good(s) or Service(s):
+Suite ERP Software
+
+Software and System Integration and Managed Services for Oracle E-Business
+
+Original Contract Period:
+
+9/15/2015-9/14/2020
+
+Proposed Contract Extension Period: N/A
+Total Current Contract Amount Authority:
+
+$66,546,900.00
+
+Original Approval (Board or Procurement):
+
+9/9/2015, $66,546,900.00
+
+Previous Board Increase(s) or Extension(s):
+
+N/A
+
+Previous Chief Procurement Officer Increase(s) or Extension(s):
+This Increase Requested:
+Potential Fiscal Impact:
+Accounts:
+
+N/A
+
+$6,809,520.00
+FY 2017 $6,809,520.00
+
+11569.1029.17825.560227
+
+Contract Number(s):
+
+1418-14268
+
+Concurrences:
+The vendor has met the Minority and Women Owned Business Enterprise Ordinance via direct
+participation and partial MBE/WBE waiver.
+The Chief Procurement Officer concurs
+The Bureau of Technology concurs
+Page 3 of 5
+
+ Summary: This increase will allow additional Budgeting/CAFR requirements, Budget Amendment
+system (Implementation and Hypercare), Forest Preserves CAFR, additional Hypercare for Operating
+Budget and Budget Books, HR Data Cleansing, additional HCM (HR/Payroll/Benefits) requirements,
+additional OCM/Outreach Support, additional Support during HCM and Supply Chain UAT, Polaris
+Reporting Solution, and Infrastructure increase.
+Request for Proposals (RFP) procedures were followed in accordance with the Cook County
+Procurement Code. IBM was awarded based on established evaluation criteria.
+A motion was made by Commissioner Morrison, seconded by Commissioner García, to
+recommend for approval 17-3478. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+A motion was made by Commissioner Morrison, seconded by Commissioner Daley, to convene
+executive session. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to reconvene
+regular session. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+17-3378
+Presented by: MARK EDINGBURG, Interim Executive Director, Department of Homeland Security
+and Emergency Management
+REPORT
+Department:
+
+Homeland Security and Emergency Management
+
+Report Title: Information Security Framework Semi-Annual Report
+Report Period:
+
+Year to Date (YTD)
+
+Summary: Pursuant to Resolution 17-2732, the CISO shall update the Board of Commissioners via the
+Technology Committee on the state of the information security in Cook County government. The
+Information Security Framework Semi-Annual Report will provide the status of all Agencies’ adoption
+and compliance of the Information Security Framework. Included in the report is a summary of all advice
+and recommendations of each Agency regarding their unique considerations. Additionally, updates will
+be provided regarding current security controls and the Vulnerability Threat Management Program. A
+closed meeting is requested, pursuant to an exception to the Open Meetings Act, 5 ILCS 120/2 (c) (8):
+“Security procedures, school building safety and security, and the use of the personnel and equipment to
+respond to an actual, a threatened, or a reasonably potential danger to the safety of employees, students,
+staff, the public, or public property.” Given the confidential nature of the Report, a closed meeting is
+Page 4 of 5
+
+ necessary to maintain the safety and security of Cook County residents and stakeholders.
+A motion was made by Commissioner Morrison, seconded by Commissioner García, to
+recommend for approval receiving and filing 17-3378. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+ADJOURNMENT
+
+A motion was made by Commissioner Silvestri, seconded by Commissioner Schneider, to adjourn
+the meeting. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Butler, Daley, García, Goslin, Schneider and Silvestri (8)
+
+Respectfully submitted,
+
+__________________________________
+Chairman
+
+_________________________________
+Secretary
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+Page 5 of 5
+
+ 

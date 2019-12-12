@@ -1,0 +1,292 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+
+Wednesday, December 13, 2017
+
+9:30 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+PUBLIC TESTIMONY
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordancewith Cook County Code.
+No public speakers
+
+18-0991
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 11/14/2017
+A motion was made by Commissioner García, seconded by Commissioner Morrison, to approve
+18-0991. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+ 17-6199
+Sponsored by: JOHN A. FRITCHEY, Cook County Board of Commissioners
+PROPOSED RESOLUTION
+STATUS UPDATES ON MAJOR TECHNOLOGY PROJECTS
+WHEREAS, over the last several years the Cook County Board of Commissioners have approved major
+technology contracts that cost millions of dollars, but if properly implemented can improve the efficiency
+of County government; and
+WHEREAS, generally these contracts have verification components built in or even added on as
+additional contracts or increases to measure their progress and effectiveness; and
+WHEREAS, in order to ensure that these projects are implemented properly and in a timely fashion it
+has proven to be beneficial to have the County Board and public updated on a regular basis via periodic
+reports presented to the Board and considered in the Technology and Innovation Committee, such as the
+Automated Criminal Justice system and the ERP system;
+NOW, THEREFORE, BE IT RESOLVED, that the President and the Cook County Board of
+Commissioners does herby request that semi-annual status updates on progress being made towards the
+implementation of the following major technology projects be reported to the Board:
+·
+·
+·
+·
+
+IBM - ERP system
+Tyler Technologies- Clerk of the Circuit Court Case Management System
+Tyler Technologies- Integrated Property Tax and Mass Appraisal System
+Sentinel - VoIP
+
+BE IT FURTHER RESOLVED, that said status updates be delivered to the Board of Commissioners
+via the Technology and Innovation Committee beginning in January of the FY2018 fiscal year.
+Effective Date: This resolution shall take effect immediately upon adoption.
+A motion was made by Commissioner Morrison, seconded by Commissioner García, to
+recommend for approval 17-6199. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+ 17-5098
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: Clarity Partners, LLC, Chicago, Illinois
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Environmental Control Case Management System and Web Portal
+Contract Value: $1,269,250.00
+Contract period: 10/1/2017 - 9/30/2022
+Potential Fiscal Year Budget Impact: FY 2017 $25,200.00, FY 2018 $1,108,050.00 FY 2019
+$34,000.00, FY 2020 $34,000.00, FY 2021 $34,000.00, FY 2022 $34,000.00
+Accounts: 11569.1009.17825.560227, Project ID 21119
+Contract Number(s): 1790-15970
+Concurrence(s):
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance via direct
+participation.
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology requests Board approval of Contract No. 1790-15970 with Clarity
+Partners, LLC to implement and maintain a new case management system and web portal for the
+Department of Environmental Control.
+Clarity Partners, LLC was prequalified through the County’s Request for Qualifications (RFQ) process in
+accordance with the Cook County Procurement Code. The contract was awarded based on established
+evaluation criteria.
+A motion was made by Commissioner García, seconded by Commissioner Morrison, to
+recommend for approval 17-5098. The motion carried by the following vote:
+Ayes:
+
+Morrison, Daley, Deer, García and Goslin (5)
+
+Present:
+
+Fritchey (1)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+ 17-6095
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Bureau of Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 3rd Quarter 2017
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated
+Cook County Criminal Justice System.
+A motion was made by Commissioner Morrison, seconded by Commissioner García, to
+recommend for receiving and filing 17-6095. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+A motion was made by Commissioner Morrison, seconded by Commissioner García, to suspend the
+rules to take up supplemental agenda. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+17-5293
+Sponsored by: RICHARD R. BOYKIN, Cook County Board of Commissioners
+PROPOSED ORDINANCE
+SECONDHAND SALES OF WIRELESS COMMUNICATIONS DEVICES
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 54, Licenses, Permits
+and Miscellaneous Business Regulations, Article XIII Secondhand Sales of Wireless Communications
+Devices, Sections 54-421 to 54-423 of the Cook County Code is hereby enacted as Follows:
+Sec. 54-421. Definitions.
+Secondhand Dealer means any person who engages in the business of purchasing, selling, receiving,
+trading, consignment selling or otherwise transferring for value any secondhand property.
+Wireless communication device means any device through which personal wireless services, as defined
+in 47 U.S.C. 332(c)(7)(C)(i), are transmitted.
+
+ Secondhand property means any previously owned audio-video equipment; construction materials,
+including, but not limited to, plumbing, electrical, roofing, masonry and carpentry supplies; jewelry or
+watch made of precious metal or precious stone or gem; article made of precious metal or precious stone
+or gem; sporting or athletic gear or equipment, including a bicycle; or currency.
+Sec. 54-422. Registry Search Required.
+No secondhand dealer shall purchase, take or receive from any person in pawn or pledge, for money
+loaned, any cell phone whose make, model and serial number is identified in a stolen cell phone database.
+Before purchasing, taking or receiving from any person in pawn or pledge, for money loaned, any cell
+phone, the secondhand dealer shall check the stolen cell phone database to verify that the cell phone is not
+a stolen or lost cell phone, and shall record in an inventory log the date and time of such verification, the
+make, model and serial number of the cell phone, and a unique inventory number for each such cell phone.
+Sec. 54-423. Violation
+Any person who violates the provisions of this section, upon conviction thereof, shall be fined not less
+than $1000.00 nor more than $2,000.00 for each offense. All actions seeking the imposition of fines
+only shall be filed as quasi-criminal actions subject to the provisions of the Illinois Code of Civil Procedure,
+Illinois Revised Statutes, Chapter 110, Section 1-101, et seq. (1985), as amended. Each purchase, use,
+sale, gift or transfer of any such replica firearm shall be deemed a separate and distinct offense, and
+each day a person unlawfully engages in the business of selling or exhibits for sale any such replica firearm
+shall be deemed a separate and distinct offense.
+Effective date: This ordinance shall be in effect January 1, 2018
+A motion was made by Commissioner García, seconded by Commissioner Daley, to accept as
+substituted 17-5293. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+PROPOSED SUBSTITUTE TO FILE ID 17-5293
+PROPOSED ORDINANCE
+SECONDHAND SALES OF WIRELESS COMMUNICATIONS DEVICES
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 54, Licenses, Permits and
+Miscellaneous Business Regulations, Article XIII Secondhand Sales of Wireless Communications Devices,
+Sections 54-421 to 54-423 of the Cook County Code is hereby enacted as Follows:
+Sec. 54-421. Definitions.
+Secondhand Dealer means any person who engages in the business of purchasing, selling, receiving,
+trading, consignment selling or otherwise transferring for value any secondhand property. The term
+”Secondhand Dealer” shall not include persons or entities who have 10 or more locations in Cook County
+who acquire cell phones for the purpose of recycling or refurbishment and report sales electronically to
+
+ local law enforcement or a manufacturer of wireless communication devices that acquires the devices as
+part of a trade-in program, or a provider of commercial mobile service, as defined in 47 U.S.C. 332(d), and
+such provider’s authorized agents and retailers that have contractual relationships with the provider to sell
+the provider’s authorized products and services.
+Wireless communication device means any device through which personal wireless services, as defined in
+47 U.S.C. 332(c)(7)(C)(i), are transmitted.
+Serial number means, in reference to cell phones or other wireless communication devices, a Mobile
+Equipment Identifier (MEID), International Mobile Equipment Identity (IMEI) number or Electronic Serial
+Number (ESN)
+Secondhand property means any previously owned audio-video equipment; construction materials,
+including, but not limited to, plumbing, electrical, roofing, masonry and carpentry supplies; jewelry or
+watch made of precious metal or precious stone or gem; article made of precious metal or precious stone
+or gem; sporting or athletic gear or equipment, including a bicycle; or currency.
+Stolen Cell Phone Database means a stolen cell phone database into which the make, model and serial
+number of a stolen or lost cell phone is identified. At the time of the enactment of this amendatory ordinance
+of 2017, stolen cell phone database means any electronic service linked to Groupe Speciale Mobile
+Association (GSMA) database that is used to search a cell phones International Mobile Equipment Identity
+(IMEI) Number across international networks to determine whether the cell phone has been reported lost
+or stolen.
+Sec. 54-422. Registry Search Required.
+(a) No secondhand dealer shall purchase, take or receive from any person in pawn or pledge, for money
+loaned, or shall buy any property from a minor, or shall so take, receive or buy any such property, the
+ownership of which is in, or which is claimed by, any minor, or which may be in the possession or under
+the control of any minor
+(b) No secondhand dealer shall purchase, take or receive from any person in pawn or pledge, for money
+loaned, any cell phone whose make, model and serial number is identified in a stolen cell phone database.
+Before purchasing, taking or receiving from any person in pawn or pledge, for money loaned, any cell
+phone, the secondhand dealer shall check the stolen cell phone database to verify that the cell phone is not
+a stolen or lost cell phone, and shall record in an inventory log the date and time of such verification, the
+make, model and serial number of the cell phone, and a unique inventory number for each such cell phone.
+The inventory log and cell phone shall be made available at all reasonable times to inspection by authorized
+personnel of the County Sheriff Department or other Law Enforcement Agency.
+Sec. 54-423. Violation - Penalty
+Any person who violates the provisions of this section, upon conviction thereof, shall be fined not less than
+$1000.00 nor more than $2,000.00 for each offense. All actions seeking the imposition of fines only shall
+be filed as quasi-criminal actions subject to the provisions of the Illinois Code of Civil Procedure, Illinois
+Revised Statutes, Chapter 110, Section 1-101, et seq. (1985), as amended. Each purchase, use, sale, gift or
+transfer of any such replica firearm shall be deemed a separate and distinct offense, and each day a person
+unlawfully engages in the business of selling or exhibits for sale any such replica firearm shall be deemed
+a separate and distinct offense.
+
+ Effective date: This ordinance shall be in effect July 1, 2018
+A motion was made by Commissioner García, seconded by Commissioner Daley, to recommend for
+approval as substituted 17-5293. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+17-6014
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+REPORT
+Department: Enterprise Resource Planning
+Report Title: ERP Quarterly Status Report
+Report Period: 10/31/ 2017
+Summary: The Director of ERP will provide a comprehensive update to the Board of Commissioners via
+the Technology Committee on the status of all ongoing ERP projects. The status update will reflect
+progress being made toward achieving the goals of selecting and implementing a Countywide Enterprise
+Resource Planning (ERP) platform, configure and installing a Bio Metric based Time and Attendance
+system, and upgrading and migrating the JDEdwards HR/Payroll system to a cloud hosting environment.
+A motion was made by Commissioner Morrison, seconded by Commissioner Goslin, to recommend
+for receiving and filing 17-6014. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+ ADJOURNMENT
+A motion was made by Commissioner Goslin, seconded by Commissioner Daley, to adjourn the
+meeting. The motion carried by the following vote:
+Ayes:
+
+Fritchey, Morrison, Daley, Deer, García and Goslin (6)
+
+Absent:
+
+Butler, Schneider and Silvestri (3)
+
+Respectfully submitted,
+
+__________________________________
+Chairman
+
+_________________________________
+Secretary
+
+A complete record of this meeting is available at https://cook-county.legistar.com.
+
+ 

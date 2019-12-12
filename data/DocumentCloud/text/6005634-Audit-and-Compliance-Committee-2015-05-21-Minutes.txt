@@ -1,0 +1,913 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Thursday, May 21, 2015 at the hour of 8:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Velasquez called the meeting to order.
+Present:
+
+Chairman Carmen Velasquez and Directors Emilie N. Junge and Ada Mary Gugenheim (3)
+Gerald Bauman (non-Director Member)
+
+Present
+Telephonically: Board Chairman M. Hill Hammock (ex-officio)
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – Chief Corporate Compliance and
+Privacy Officer
+Douglas Elwell – Deputy Chief Executive Officer,
+Strategy and Finance
+Angela Espinosa – System Director of Health
+Management Services
+
+II.
+
+Randolph Johnston – Associate General Counsel
+Pat Kitchen – McGladrey LLP
+Ryan Lipinski – CountyCare Compliance Officer
+Elizabeth Reidy – General Counsel
+Deborah Santana – Secretary to the Board
+Tom Schroeder – Director of Internal Audit
+
+Public Speakers
+Chairman Velasquez asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+\
+
+III.
+
+Report from Director of Internal Audit
+A. Update on Hektoen Institute of Medicine
+Tom Schroeder, Director of Internal Audit, provided a brief update on the Hektoen Institute of Medicine. He
+stated that Hektoen is the fiscal administrative agent for some grants for the System; there are grants received
+primarily in two places – within the Stroger Campus and at the Cook County Department of Public Health.
+Hektoen primarily administers the grants for the Stroger Campus.
+Two documents were provided to the Committee in relation to Hektoen. The first is an external audit of
+Hektoen’s financial statements for the period ending August 31, 2014. He stated that this is a clean audit report;
+there were no issues raised. He noted that, on their balance sheet, under the liabilities section, there is a line that
+states “Due to Cook County Health and Hospitals System”; as of August 31, 2014, that amount was slightly more
+than $6 million. What that represents is funds that belong to CCHHS; that is for monies for reimbursement of
+primarily employee time that was spent performing under the grants. There are policies and procedures around
+the parameters under which those funds can be used; the funds are primarily used by physicians to further the
+mission of the System.
+
+Page 1 of 28
+
+ Minutes of the Meeting of the Audit and Compliance Committee
+Thursday, May 21, 2015
+Page 2
+
+III.
+
+Report from Director of Internal Audit (continued)
+With regard to the other document provided to the Committee, this pertains to the audit of Hektoen’s Federal
+Awards; in the grant portfolio that they manage for CCHHS there are a number of grants that come via federal
+agencies (example: National Institute of Health). The federal government requires that federal grants be audited
+by an independent accounting firm; there are a number of requirements that determine the depth and extent to
+which the grants are reviewed. With respect to this audit, there were no comments, and it was clean with respect
+to the internal controls around the accounting and financial reporting for the grants. Compliance was deemed to
+be without exceptions, as well.
+Every year, these audits are performed and are brought to this Committee. In prior years, Internal Audit has
+conducted additional internal audits diving into the issues that were of more specific concern, primarily around
+those dollars that are due to CCHHS and the use of those funds.
+
+IV.
+
+Report from Chief Corporate Compliance and Privacy Officer (Attachment #1)
+Cathy Bodnar, Chief Corporate Compliance and Privacy Officer, reviewed the information contained in her
+report; the report provided an overview of the current Corporate Compliance controls of the CountyCare
+Health Plan. Ryan Lipinski, CountyCare Compliance Officer, reviewed the information relating to
+grievances and appeals. The Committee discussed the information.
+With regard to the Fraud, Waste and Abuse investigation metrics included on slide 9 of the presentation,
+Board Chairman Hammock inquired whether cases are carried over from quarter to quarter; he noted that, if
+they are, there should be an additional metric that reflects the number of cases that were carried over to the
+next quarter. Ms. Bodnar responded affirmatively; she indicated that the metric for this will be included in
+future presentations.
+Following the review of the information contained in the report, Ms. Bodnar provided updates on some
+follow-up matters.
+Ms. Bodnar stated that Corporate Compliance learned that IlliniCare’s Medical Director, Dr. Neal Scharma,
+was arrested in March; IlliniCare is the System’s third party administrator for CountyCare. A criminal
+complaint was filed against Dr. Scharma alleging the receipt of illegal remunerations; the complaint alleges
+specifically that he received money from a company in exchange for directing enrollees to that company. It
+was learned quickly that this activity did not involve CountyCare or any of its members or providers; it
+allegedly took place completely outside of the County of Cook. However, it was Corporate Compliance’s
+responsibility to assess IlliniCare’s process in responding to and evaluating the situation. On the day of his
+arrest, Dr. Scharma was placed on administrative leave. All access to any of IlliniCare’s systems, including
+any of the CountyCare systems, was disabled and he was denied entry into the premises. An independent law
+firm was immediately engaged to investigate the allegations; on April 20th Dr. Scharma was terminated from
+IlliniCare for gross misconduct. Corporate Compliance reviewed the onboarding process at IlliniCare; their
+process included securing financial disclosures, credit checks, employment references, criminal background
+checks and licensure verifications, in addition to the routine interviews that are conducted for onboarding.
+She also understands that there are processes in place to monitor the Medical Director’s time. Right now,
+based on the information gathered, Corporate Compliance feels confident that IlliniCare has the appropriate
+processes in place; she noted that there are some areas that they could strengthen that they have addressed
+with IlliniCare, but this did not affect CountyCare. It did affect IlliniCare, and IlliniCare does have processes
+in place to address something like this happening. This does not appear to be an issue with IlliniCare as a
+whole, it appears to be an issue of an individual working alone.
+
+Page 2 of 28
+
+ Minutes of the Meeting of the Audit and Compliance Committee
+Thursday, May 21, 2015
+Page 3
+
+IV.
+
+Report from Chief Corporate Compliance and Privacy Officer (continued)
+On a separate matter, Ms. Bodnar stated that, at the Quality and Patient Safety Committee Meeting last
+month, Dr. John O’Brien, Director of Professional Education, talked about resident activity and cap sharing
+agreements. There were some questions that arose after that meeting, so Corporate Compliance reviewed the
+matter. It was determined that Stroger Hospital may enter into resident cap sharing arrangements and
+redistribute its residents to affiliated hospitals. That is absolutely appropriate. Rules and regulations are
+silent as to whether or not a hospital can receive payment from another hospital, or within a group, when it is
+transferring those unused resident slots; that silence is not interpreted as prohibitive.
+
+V.
+
+Action Items
+A. Proposed revisions to CCHHS Conflict of Interest Policy (Attachment #2)
+Ms. Bodnar presented the proposed revisions to the CCHHS Conflict of Interest Policy.
+Director Gugenheim, seconded by Director Junge, moved to approve the proposed
+revisions to the CCHHS Conflict of Interest Policy. THE MOTION CARRIED
+UNANIMOUSLY.
+
+B. Minutes of the Audit and Compliance Committee Meeting, March 19, 2015
+Director Gugenheim, seconded by Director Junge, moved to accept the minutes of the
+Audit and Compliance Committee Meeting of March 19, 2015. THE MOTION
+CARRIED UNANIMOUSLY.
+
+C. Any items listed under Sections V and VI
+
+VI.
+
+Closed Meeting Items
+A. Discussion of preliminary draft FY2014 CCHHS Audited Financial Statements with external auditors
+B. Report from Director of Internal Audit
+C. Report from Chief Corporate Compliance and Privacy Officer
+D. Discussion of Personnel Matters
+Director Gugenheim, seconded by Director Junge, moved to recess the open meeting
+and convene into a closed meeting, pursuant to the following exceptions to the Illinois
+Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the appointment, employment,
+compensation, discipline, performance, or dismissal of specific employees of the
+public body or legal counsel for the public body, including hearing testimony on a
+complaint lodged against an employee of the public body or against legal counsel for
+the public body to determine its validity,” and 5 ILCS 120/2(c)(29), regarding
+“meetings between internal or external auditors and governmental audit committees,
+finance committees, and their equivalents, when the discussion involves internal
+control weaknesses, identification of potential fraud risk areas, known or suspected
+frauds, and fraud interviews conducted in accordance with generally accepted auditing
+standards of the United States of America.”
+THE MOTION CARRIED
+UNANIMOUSLY.
+Page 3 of 28
+
+ Minutes of the Meeting of the Audit and Compliance Committee
+Thursday, May 21, 2015
+Page 4
+
+VI.
+
+Closed Meeting Items (continued)
+Chairman Velasquez declared that the closed meeting was adjourned. The Committee
+reconvened into the open meeting.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Velasquez declared that the meeting was
+ADJOURNED.
+
+Respectfully submitted,
+Audit and Compliance Committee of the Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Carmen Velasquez, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 28
+
+ Cook County Health and Hospitals System
+Minutes of the Audit and Compliance Committee Meeting
+May 21, 2015
+
+ATTACHMENT #1
+
+Page 5 of 28
+
+ Page 6 of 28
+
+May 21 2015
+May 21, 2015
+
+Corporate Compliance Report
+
+AUDIT & COMPLIANCE 
+COMMITTEE OF THE CCHHS
+COMMITTEE OF THE CCHHS 
+BOARD OF DIRECTORS
+
+ Page 7 of 28
+
+2
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Follow Up on Matters Raised by the Board
+
+Examine Current Corporate Compliance Controls of 
+the CountyCare Health Plan through
+the CountyCare Health Plan through,
+CountyCare Oversight Meetings
+Grievances and Appeals Monitoring
+Grievances and Appeals Monitoring
+Fraud, Waste, and Abuse Activity
+
+Meeting Objectives
+
+ Page 8 of 28
+
+3
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Eighteen (18) Committees have been established to ensure 
+p p
+proper oversight and monitoring of CountyCare’s operations, 
+g
+g
+y
+p
+,
+policies and compliance with contractual terms.
+
+CountyCare Oversight Structure
+
+ Page 9 of 28
+
+4
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Provides a mechanism for Members to file complaints or 
+Providers to file appeals when a request for a medical item or 
+service is denied by CountyCare.
+Allows for tracking of grievances and appeals by category, 
+volume and resolution
+volume and resolution.
+Contributes to identify program improvement opportunities, 
+which may reduce the issues that prompt grievances and 
+appeals.
+Represents a primary mechanism for CCHHS Corporate 
+Compliance and CountyCare operations to exercise oversight
+Compliance and CountyCare operations to exercise oversight 
+of the third party administrator (TPA) and other vendor 
+operations.
+
+Grievances & Appeals Process
+
+ Page 10 of 28
+
+5
+
+Q1 Total = 60
+CC Mbrs = 88,894
+
+56
+
+4
+111
+
+Q2 Total = 118
+Q3 Total = 175
+CC Mbrs = 96,618 CC Mbrs = 179,393
+
+55
+
+47
+
+16
+
+50
+
+13
+
+1
+
+Q4
+
+July 2014 – June 2015
+
+State Fiscal Year
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Grievances
+
+Appeals
+
+Expedited
+Appeals
+
+External
+Independent Review
+Independent Review
+
+Fair
+Hearing
+
+Grievances & Appeals Metrics
+
+ Page 11 of 28
+
+6
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Achieved by establishing:
+o Training programs for CountyCare employees, vendors, 
+gp g
+y
+p y ,
+,
+and subcontractors.
+o Defining methods to identify, prevent, review and initiate 
+corrective actions against any Provider/Member suspected
+corrective actions against any Provider/Member suspected 
+of participating in Fraud, Waste, and/or Abuse (FWA) 
+activities.
+o Developing policies and procedures, including outlining the 
+workflow to be followed in the event that a potential issue 
+or overpayment is identified.
+o Reporting identified issues, including 
+referrals to state and local authorities.
+
+The Goal: To protect the member in the delivery of healthcare 
+services through timely detection, investigation and prosecution.
+
+Fraud, Waste and Abuse Program
+
+ Page 12 of 28
+
+7
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+o Local and National Conferences;
+o CCHHS annual education to incorporate FWA training.
+CCHHS annual education to incorporate FWA training
+
+attendees: CountyCare staff, third party administrator 
+(IlliniCare) compliance staff CCHHS staff with oversight
+(IlliniCare) compliance staff, CCHHS staff with oversight, 
+Cook County Office of Inspector General (OIIG)
+
+Initial onboarding for staff and providers.
+CountyCare workforce training includes:
+y
+g
+o Focused HFS OIG FWA in‐person training;
+
+FWA Training
+
+ Page 13 of 28
+
+8
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Define a cohesive process across all delegated vendors with 
+centralized reporting to Corporate Compliance and hold vendors 
+accountable.
+Monitor Payment Integrity and Special Investigations Unit 
+Activities.
+Activities
+Develop an annual work plan focusing on vulnerable 
+areas/services.  
+F
+For example, the 2015 work plan includes,
+l th 2015
+k l i l d
+o Adult Day Services;
+o Transportation;
+o High Cost Drugs;
+o Hospice;
+o Home & Community Based Waiver Programs;
+o Flexibility to respond to emerging issues.
+
+FWA Methods
+
+ Page 14 of 28
+
+9
+
+Q2 Total = 5
+Q2 Total = 5
+Providers* = 318
+Mbr = 96,618
+
+Q3 Total = 3
+Q3 Total = 3
+Providers* = 325
+Mbr = 179,393
+
+3
+
+1
+
+Q4
+
+* The Provider count is based upon the Taxpayer Identification Number (TIN).  
+There is a many to one ratio. 
+
+Q1 Total = 0
+Q1 Total = 0
+Providers* = 285
+Mbr = 88,894
+
+0
+
+5
+
+1
+
+July 2014 – June 2015
+
+State Fiscal Year
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Open
+
+Closed
+
+FWA Investigation Metrics
+
+ Page 15 of 28
+
+10
+
+State Fiscal Year 2015 Metrics
+Q1 – 1 member
+Q2 – 0 (no members)
+Q3 – 3 members
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+CountyCare Pharmacy Lock‐In Program Participants
+
+Pharmacy “Lock‐In Program”
+Designed to detect and prevent abuse of the pharmacy benefit 
+g
+p
+p
+y
+by restricting Members to one specific pharmacy for 1 year.
+Referrals come from two sources: 
+o Members who were previously restricted in Medicaid’s Fee‐
+M b
+h
+i l
+i d i M di id’ F
+for‐Service Program
+o CountyCare’s criteria 
+
+FWA  Member Restriction Programs
+
+ Page 16 of 28
+
+11
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Process flow for claims review.  Goal is uniformity with each 
+delegated vendor.  FWA processes assure consistency.
+
+FWA Policies & Procedures
+
+ Page 17 of 28
+
+12
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Monthly meetings are coordinated through Corporate 
+Compliance and involves CountyCare as a whole. 
+Agenda topics include review of:
+o Monthly FWA Log; 
+o Work Plan and Payment Integrity Activities;
+W k Pl
+dP
+I
+i A i ii
+o Recipient Restriction/Lock In Program Activity;
+o Adverse actions and involuntary terminations;
+Adverse actions and involuntary terminations;
+o OIG sanctions, payment suspensions, sanctions and 
+integrity agreements; and
+o Current topics, trends, fraud schemes, and program 
+vulnerabilities.
+
+HFS OIG Program Oversight Meetings
+
+ Page 18 of 28
+
+13
+
+Action: Review and Approve 
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+Updates:
+Strengthens to incorporate the latest industry standards;
+g
+p
+y
+;
+Integrates CountyCare and incorporate specific contractual 
+requirements;
+B d
+Broadens to include additional required reporters; and
+i l d ddi i
+l
+i d
+d
+Modifies the frequency requirement for certain medical staff 
+members.
+
+Conflict of Interest Policy Update
+
+ Page 19 of 28
+
+14
+
+Audit & Compliance Committee of the Board  I  May 21, 2015 
+
+FWA Disclosure of Ownership Requirement
+
+  
+
+Follow UP
+
+page 20 of 28
+
+  
+
+COOK COUNTYHEALTH
+HOSPITALS SYSTEM
+
+CC: 
+
+ 
+
+ 
+
+Closed Session
+
+page 21 of 28
+
+  
+
+COOK COUNTYHEALTH
+HOSPITALS SYSTEM
+
+a? CC: 
+
+ 
+
+Cook County Health and Hospitals System
+Minutes of the Audit and Compliance Committee Meeting
+May 21, 2015
+
+ATTACHMENT #2
+
+Page 22 of 28
+
+ Category:
+
+SYSTEM-WIDE POLICY
+Subject:
+ADMINISTRATIVE OPERATIONS
+
+Page
+
+Policy #:
+
+Title:
+
+Approval Date:
+
+Posting Date:
+
+CONFLICT OF INTEREST (COI)
+
+04/23/2013
+
+04/24/2013
+
+1 of 6
+
+00.02.00
+
+PURPOSE
+The purpose of this policy is to help ensure that the business and professional activities of the Cook County
+Health & Hospitals System (CCHHS) are conducted free of actual conflicts of interest, or the appearance of any
+conflicts of interest, and to protect the interests of CCHHS when it is contemplating entering into a transaction or
+arrangement.
+AFFECTED AREAS
+This Policy affects Covered Persons within all CCHHS affiliated operating units including John H. Stroger, Jr.
+Hospital of Cook County, Provident Hospital of Cook County, Oak Forest Health Center, Ruth M. Rothstein
+CORE Center, Ambulatory & Community Health Network, Cermak Health Services of Cook County, and Cook
+County Department of Public Health, and CountyCare.
+DEFINITIONS
+A. Conflict of Interest: A Conflict of Interest may exist when:
+a. a Covered Person, or his/her Personal Relationships, is doing business with CCHHS or any
+of its operating units;
+b. a Covered Person, or his/her Personal Relationships, has an interest in any issue, item,
+matter or transaction that involves CCHHS or its operating units or that is under
+consideration by CCHHS or its operating units;
+c. a Covered Person, or his/her Personal Relationships, is in a position to influence business
+or other decisions including patient access or care of CCHHS in ways that could lead or
+appear to lead to the personal gain or advantage of such person, his/her Personal
+Relationships, or outside entities.
+B. Covered Person: All officers, directors, Board committee members, advisory councils, employees,
+members of the CCHHS medical staff or house staff, researchers, students and contractor personnel
+carrying out the business or professional activities of the CCHHS.
+C. Doing Business:
+Having or negotiating the creation of a contract or agreement, whether verbally or in
+writing, that involves the commitment of (either in a single transaction or a combination of transactions)
+$2,500 or more of CCHHS funds or funds controlled by CCHHS.
+D. Gift: Any gratuity, discount, entertainment, hospitality, loan, forbearance, or other tangible or
+intangible item having monetary value including, but not limited to, cash, food and drink, and honoraria
+for speaking engagements related to or attributable to a person’s status as a Covered Person.
+E. Interest: Any professional, personal, financial, legal or equitable economic interest (whether or not
+subject to an encumbrance or a condition), activity, arrangement, or relationship, which is beneficial in
+nature and is owned or held, either directly or indirectly, by a Covered Person (or through a Personal
+Relationship or Person of Influence) with any entity with which CCHHS has or may in the future be doing
+business. The term “Interest” includes, but is not limited to the following examples,
+
+Page 23 of 28
+
+ Title:
+
+Page
+
+Policy #
+
+CONFLICT OF INTEREST
+
+2 of 6
+
+00.02.00
+
+a. An ownership interest; serving as a member, officer, director, committee member, partner, paid
+consultant, or employee of the same or a related business, or having a financial interest in the same
+or a related business;
+b. Participation in any outside activity that could interfere significantly with the Covered Person’s work
+time obligation;
+c. Receipt of fees, or other compensation or remuneration from an entity as a result of professional
+services, consulting, speaking engagements, royalties, patents, copyrights, or other intellectual
+property rights.
+F. Personal Relationships: Covered Person’s spouse, children, parents, siblings, grandchildren, and their
+spouses; the Covered Person’s spouse’s parents, siblings, children, grandchildren, and their spouses;
+and any Person of Influence.
+G. Person of Influence: A person with a close personal or business connection with a Covered Person who
+would likely influence the decisions of the Covered Person.
+POLICY
+Covered Persons shall not be involved in any situation or circumstance that would cause the Covered Person to
+have a Conflict of Interest. This prohibition includes the Personal Relationships of the Covered Person.
+No Covered Person shall accept any gift from any entity, or an employee, contractor or agent of an entity, with
+which CCHHS or its operating units is doing business or with which CCHHS has done business within the past
+three years.
+Covered Persons are responsible for addressing Conflicts of Interest, whether actual or those that have the
+appearance of a Conflict of Interest. Covered Persons must comply with the provisions of this Policy.
+Covered Persons have a duty to disclose the existence of a possible Conflict of Interest and all material facts
+relating to the possible Conflict of Interest, as provided in the policy.
+No Covered Person who has or may have a Conflict of Interest with respect to a transaction or decision shall
+participate in the transaction or decision, unless authorized to participate by CCHHS Corporate Compliance.
+The CCHHS Conflicts of Interest Policy covers the following areas:
+1. Conflicts of Interest in Day-to-Day Business Operations of CCHHS Affiliates
+1.2. Conflicts of Interest in Day-to-Day Business Operations of CountyCare
+2.3. Conflicts of Interest in Patient Care
+3.4. Conflicts of Interest in Research Activities
+4.5. Conflicts of Interest in Educational Activities
+All Covered Persons shall preserve and protect the interests and assets of CCHHS. The business and
+professional activities of CCHHS must be conducted in the best interests of CCHHS, without favoritism or
+preference based on personal considerations. Accordingly, each Covered Person must avoid situations, which
+may give rise to a Conflict of Interest or the appearance of a Conflict of Interest.
+CCHHS has adopted a Standard of Conduct (Code of Ethical Conduct)Code of Ethics that supplements the
+Cook County Ethics Ordinance. This defines CCHHS' standards for ethical behavior by CCHHS Personnel in
+Page 24 of 28
+
+ Title:
+
+Page
+
+Policy #
+
+CONFLICT OF INTEREST
+
+3 of 6
+
+00.02.00
+
+carrying out CCHHS operations. Among other things, the Code of Ethical ConductEthics is designed to protect
+the integrity of clinical decision-making. Patient care decisions must be based on the healthcare needs of the
+patient, independent of compensation, financial arrangement or favor that may benefit the healthcare provider or
+CCHHS.
+Research activities at CCHHS must be carried out with the utmost integrity. All research activities must be
+approved in advance by the Institutional Review Board of the Cook County Health and Hospitals System and by
+CCHHS management.
+Educational activities (including professional and public education) at CCHHS must be free from bias and carried
+out in a manner that serves the educational component of CCHHS’ Mission and responsibilities as a public
+health system, and not the personal interests of any Covered Person.
+Duty to Disclose: Covered Persons have a duty to disclose the existence of a possible Conflict of Interest and all
+material facts relating to the possible Conflict of Interest, as provided in this Policy. No Covered Person who has
+or may have a Conflict of Interest with respect to a transaction or decision shall participate in the transaction or
+decision unless authorized to participate by Corporate Compliance.
+PROCEDURE
+A. The Conflict of Interest process for CCHHS, including Disclosure Statements and conflict resolution,
+shall be coordinated by the CCHHS Corporate Compliance, in consultation with the Office of General
+Counsel. Questions regarding the Conflict of Interest Policy should be directed to the Corporate
+Compliance Office.
+B. Duty to Disclose: All Covered Persons have a duty to disclose the existence of a possible Conflict of
+Interest and all material facts relating to the possible Conflict of Interest.
+1. CountyCare Requirements: Covered Persons specifically involved in CountyCare operations
+have a duty to disclose any possible Conflict of Interest to Corporate Compliance within twentyfour (24) hours of discovering such possible Conflict of Interest, so that CCHHS may adequately
+meet the conflict of interest requirements of the County Managed Care Community Network
+(MCCN) contract with HFS.
+2. No Covered Person who has or may have a Conflict of Interest with respect to a transaction or
+decision shall participate in the transaction or decision unless authorized to participate by
+Corporate Compliance
+C. Required Reporters: The following Covered Persons are required to complete disclosure forms on an
+annual basis:
+1. Board of Directors members and committee members appointed by the Board;
+2. Management and individuals in leadership positions;
+3. Supply Chain Management personnel, members of committees charged with selection of
+products or services to be purchased and/or anyone in a position to influence purchasing
+decisions (e.g. case management, social workers);
+4. Any Covered Persons who are specifically involved in CountyCare operations;
+5. Any CCHHS personnelCovered Persons who works more than or equal to twenty (20) hours per
+week or forty (40) hours per pay period and have commitments or relationships with competing
+other organizations;
+a. Medical staff members that work less than twenty (20) hours per week or forty (40)
+hours per pay period must submit an Accounting of Disclosures survey during the
+credentialing/re-credentialing process.
+Page 25 of 28
+
+ Title:
+
+Page
+
+Policy #
+
+CONFLICT OF INTEREST
+
+4 of 6
+
+00.02.00
+
+4.6. Any CCHHS personnel who have outside employment relationships with businesses that seek
+to do business with CCHHS
+5.7. Any CCHHS personnel who previously had a conflict identified.
+C. Disclosure Statement (Conflict of Interest Disclosure Statement): Annually, a Covered Person who is a
+Required Reporter must accurately complete a Disclosure Statement and affirm that they: (i) have
+received a copy of this Conflict of Interest Policy; (ii) have read and understand this Policy; and (iii) agree
+to comply with this Policy. Covered Persons will submit the Disclosure of Interests Statement on a
+timely basis to the CCHHS Corporate Compliance Office.
+D. Duty to Update Disclosure Statement: It will be the continuing duty of each Covered Person who is sent
+such a Disclosure Statement to advise the Chief Compliance Officer within 10 business days of the
+occurrence of any event that would have been described in the Conflict of Interest (COI) Disclosure
+Statement had it occurred or been known at the time the COI Disclosure Statement was originally
+completed.
+E. Addressing a Potential Conflict of Interest:
+1. If the Covered Person who may have a Conflict of Interest is a Board or Board Committee
+member or a member of executive management, the Covered Person shall report the Conflict to
+the Chief Compliance Officer immediately. The Chief Compliance Officer, in consultation with
+the CCHHS Office of General Counsel, will review the facts of the situation and make a
+recommendation to the Chief Executive Officer (or his/her designee), or in the case of a Board
+member, the Chairman of the Board (or his/her designee), as to whether a potential Conflict
+exists.
+2. The Chief Executive Officer (CEO) (or his/her designee), for those Covered Persons who are
+subject to his/her supervision, shall decide whether the potential Conflict of Interest that has
+been disclosed amounts to an actual Conflict of Interest. If it is determined that an actual
+Conflict of Interest exists then the following procedures shall be taken:
+a. The CEO (or his/her designee), shall direct that the Covered Person refrain from
+participating in the transaction or decision.
+b. The CEO (or his/her designee), may impose additional safeguards concerning the
+transaction or decision in order to protect CCHHS’ interests. These may include,
+without limitation, (i) appointing a disinterested person or committee to oversee or
+review the proposed transaction or arrangement, or (ii) deciding not to pursue the
+transaction or arrangement.
+3. In the case of a Board member, the Chairman of the Board shall allow the Board member to
+disclose the facts surrounding the potential Conflict of Interest to the Board of Directors in
+executive session if he/she so desires. Thereafter, the Board member with the potential conflict
+shall leave the room while the Board of Directors decides whether an actual Conflict of Interest
+exists. If it is determined that an actual Conflict of Interest exists then the following procedures
+shall be taken:
+a. The Chairman of the Board shall direct that the Board member refrain from participating
+in the transaction or decision.
+b. The Chairman of the Board may impose additional safeguards concerning the
+transaction or decision in order to protect CCHHS’ interests. These may include,
+Page 26 of 28
+
+ Title:
+
+Page
+
+Policy #
+
+CONFLICT OF INTEREST
+
+5 of 6
+
+00.02.00
+
+without limitation, (i) appointing a disinterested person or committee to oversee or
+review the proposed transaction or arrangement, or (ii) deciding not to pursue the
+transaction or arrangement.
+4. Failure to comply may result in disciplinary action up to and including termination/severance of
+relationship (employment, contract, volunteer status).
+5. Where necessary, for potential conflicts of interests that involve CountyCare operations, CCHHS
+Corporate Compliance will disclose in writing any Conflicts of Interest to the Department of
+Healthcare and Family Services (HFS) no later than seven (7) days after learning of the Conflict of
+Interest.
+a. In these cases, HFS is responsible for determining whether a Conflict of Interest exists
+or whether CCHHS failed to make any required disclosure.
+b. HFS will also determine the appropriate remedy for a Conflict of Interest. Available
+remedies include, but are not limited to, the elimination of the Conflict of Interest or the
+non-renewal or termination of the MCCN Agreement between CCHHS and the County
+of Cook for CountyCare operations.
+F.
+
+Complete and accurate records shall be maintained of all investigations and determinations under this
+Policy.
+
+POLICY UPDATE SCHEDULE
+At least every three (3) years, or more often as appropriate.
+REGULATORY REFERENCES
+Cook County Ethics Ordinance; Section 2-578 (Conflicts of Interest)
+Federal Sentencing Guidelines
+Federal Anti-Kickback Statute (Stark)
+National Institute of Health Guidance
+American Medical Association Guidance
+PhRMA Code on Interactions with Healthcare Professionals
+OIG Self Disclosure Protocol
+Physician Payment Sunshine Act
+Fraud Enforcement and Recovery Act of 2009
+Joint Commission Standard LD.04.02.01
+POLICY REFERENCES
+CCHHS Standards of Conduct (Code of Ethical Conduct)Code of Ethics
+
+Page 27 of 28
+
+ Title:
+
+Page
+
+Policy #
+
+CONFLICT OF INTEREST
+
+6 of 6
+
+00.02.00
+
+POLICY LEAD
+
+Cathy Bodnar, MS, RN, CHC
+CCHHS, Chief Compliance and Privacy Officer
+
+REVIEWERS
+
+Audit & Compliance Committee of the Board of Directors
+Office of General Counsel
+Human Resources
+
+APPROVAL PARTY
+
+John Jay Shannon, MD
+CCHHS, Chief Executive Officer
+Electronically Approved: April 24, 2013
+
+POLICY HISTORY
+Replaces: Oak Forest Hospital COI Policy 2009 Jan
+Written:
+2011 June 6
+Approved:
+2011 Jul 13
+Posted: 2011 Aug 25
+Updated:
+2013 Feb 11 OFH to OFHC
+Reviewed/Revised:
+.2013 April 24
+Posted: 2013 April 24
+
+Page 28 of 28
+
+ 

@@ -1,0 +1,477 @@
+Illinois HIV Integrated Planning Council (IHIPC) Meeting Minutes
+June 28, 2019, 8:30 am – 1:30 pm
+8:30 am: Committee breakouts: Discuss IHIPC Input/Reach Consensus on Proposed 2020 Changes to Prioritized Populations, Risk definitions, and I&S Guidance
+Each IHIPC committee conducted in-person meetings before the full body IHIPC meeting.
+9:15 am: Welcome; Introductions; Review of agenda/meeting objectives; Moment of silence
+Co-Chairs J. Nuss and M. Benner welcomed all members/guests to the meeting. The Co-Chairs reviewed webinar instructions and housekeeping instructions.
+Following this, the group was led in a moment of silence for all people living with HIV past and present and for all those working to end the epidemic in Illinois.
+All in-person participants introduced themselves, and webinar participants were announced.
+The Co-Chairs reviewed the meeting objectives, meeting agenda, and the IHIPC concurrence checklist.
+9:30 am: Presentation/Discussion/Vote on Proposed 2020 Changes to Integrated Plan Components (30 minutes)
+After discussion at its Day 2 committee meeting, the Epi/ NA Committee announced that it was moving forward with its motion to accept recommendations
+presented on Day 1 for the 2020 Priority Populations and 2020 Risk Group Definitions. Voting members were provided with copies of the draft 2020 prioritized
+populations document.
+Vote: At 9:45, the motion was made by N. Holmes and seconded by S. Fletcher to accept the 2020 Priority Populations as recommended and presented by the
+Epi/ NA Committee on Day 1. The motion carried with 31 “yes” votes, 1 “abstain” vote, and 3 members not present.
+Vote: At 9:49, the motion was made by J. Charles and seconded by J. Filicette to accept the 2020 Risk Group Definitions as recommended and presented by the
+Epi/ NA Committee on Day 1. The motion carried with 23 “yes” votes, 8 “no” votes, 1 “abstain” vote, and 3 members not present.
+10:00 am: Presentation/Discussion: Cluster Detection and Response Plan
+F. Ma and C. Hicks presented on behalf of C. Ward on IDPH’s HIV Cluster Detection and Response. The following topics were reviewed: key terms for cluster
+detection and response; processes in which cluster analysis is used to help focus HIV prevention efforts; information about how groups of related infections are
+identified; time-space clusters; how to prioritize and respond to groups of related infections; how Illinois protects HIV information during cluster detection and
+response; and how community members can participate in cluster detection and response activities. Please see the presentation slides for more detailed information.
+Discussion:
+Q: I know that a genotype test is performed to determine drug resistance at diagnosis. Is it correct that genetic testing is done as a secondary/ compliment test
+to drug resistance testing? This testing helps to identify related cases, or clusters. Many HIV criminalization groups have been meeting around the nation regarding this
+topic. Although there is no direct evidence of the transmission pattern of the HIV (i.e. it cannot be determined who passed HIV onto others), is it not true that
+information could be used as circumstantial evidence against a person living with HIV if a person believed they acquired the virus from a particular person? It is a
+concern for people living with HIV that privacy is not respected and that this information is being shared without consent. This seems like a repurposing of health data.
+Only a few countries (the United States and Canada) are using these methods in surveillance efforts due to ethical concerns. With that said, what is being done by IDPH
+to protect our information? What kind of authorization methods are being used to ensure that people living with HIV understand and consent to these activities,
+especially when contacting partners in as part of a cluster response effort?
+
+ A: C. Hicks responded: Yes, the main purpose of a genotype test is to test drug resistance. The same sequencing that is identified for the drug resistance testing
+is used for genetic testing. The AIDS Confidentiality Act includes many safeguards for protecting HIV information. Drug resistance testing is done to better the
+individual’s health, and that information is also used to better community health by identifying and allocating specific, impactful resources/efforts when clusters occur.
+The concerns about repurposing of data and criminalization laws are very important and are very seriously considered by IDPH when protecting health data. This HIV
+section is continuing to make policy changes to ensure that health information is completely safeguarded. To date, there has never been an incident in which there was a
+breach in HIV data to legal entities. The Attorney General and the IDPH lawyers partner with the HIV Section to ensure that the information is never illegally released/
+abused by any legal or law enforcement entity.
+Q: Has there ever been a time that IDPH was subpoenaed to release personal HIV health information in a prosecution case?
+A: C. Hicks responded: I am not aware of this ever happening. C. Ward might better able to answer that question.
+Q: I believe that there are lawyers out there that will push IDPH for this information in specific cases. When agencies tell clients that their information is totally
+confidential, it seems deceptive to repurpose information for cluster response. It jeopardizes the trust that clients have in services organizations. For example, what if a
+person is called to be notified of their relation to a cluster but they have only had one partner? They now automatically know that that one partner exposed them to
+HIV. The person living with HIV has now lost all confidentiality. If the partner acquires HIV, they could work with a lawyer to use genetic testing information to
+support their case. Political climates are not stable and could change the way that this data is protected by IDPH in the future.
+A: C. Hicks responded: In regard to partner notification, there is really no difference between how partner service and cluster detection procedures would play
+out in this scenario.
+C: There is a difference because of consent and the repurposing of data for cluster detection purposes. The client’s consent is for HIV testing, not for their
+DNA. Some clients really do believe that the government is after their DNA. By not being completely transparent about genetic testing, we are making this real for
+clients, especially for clients who only have one partner. Consent remains a huge issue for both people living with HIV and their partners.
+A: C. Hicks responded: The genetic testing data only examines a very limited portion of the HIV virus’s DNA to determine clusters. It is impossible to use this
+information to make conclusion about transmission patterns. In order for partners to be notified of their potential exposure to HIV, the client must identify/ name them
+for testing. When this occurs and the partner is notified, the name of the client is never disclosed. This procedure is followed in partner services and in cluster response.
+In a cluster response, the local health department never receives all of the names of the people living with HIV in the cluster, but only those relevant to their jurisdiction.
+If contacted, people living with HIV have the right to not provide information about partners and to decide not to pursue services like linkage to care that might be
+offered to them through cluster response. Additionally, information about partners whose HIV status is unknown can only be collected when they are voluntarily
+identified by people living with HIV in the cluster. The consent to contact these partners comes from the person living with HIV who voluntarily identified them.
+C: As a person who has done disease investigation, I can say that during clusters, I was only ever informed of the need for a partner service notification and the
+partner’s corresponding contact information. I was never told the name of the person living with HIV who identified them. Many named partners were surprised by the
+visit, and they also have the right to accept or decline testing services. All of this was done in a confidential manner with no issues. As public health professionals and
+advocates, we need to keep in mind that our job is to protect the health of the community. This must be balanced with consideration for personal well being of clients. I
+will share that I once had a client who was being pursued legally by a partner who believed the client had exposed them to HIV. At the time, it was determined that the
+law does state that records can be given to a judge in a sealed manner. A State Attorney took the case at that time and handled it appropriately.
+C: I want to remind everyone, when a person living with HIV goes to their medical provider for services, they are allowing their medical provider to share
+information for surveillance activities under HIPAA. It’s a part of federal law, which supersedes state laws. People need to know that when they sign HIPAA releases,
+they are consenting to use of information for surveillance activities.
+Q: I have a scenario that I would like to ask a question about. Say there is a cluster that breaks out, and a partner is contacted by the LHD. If the partner has
+only had contact with one person and knows who exposed them, they might hire an attorney to seek a law suit for harm or endangerment. I trust IDPH protects the
+information, but I don’t trust that there will not one day be a lawyer who finds a way to force IDPH to give out information as circumstantial evidence.
+A: C. Hicks responded: In this scenario, the person who would be trying to seek a law suit would automatically know who they acquired the disease from at their
+HIV diagnosis. Cluster response information would not be needed for this person to try to pursue a lawsuit. Even if a lawyer tried to get this information, they would
+not be able to.
+Q: Does Prevention need to more thoroughly examine/do a better job of clarifying what molecular surveillance and clusters are to clients seeking services? This
+might help with concerns around consent. Even explaining general surveillance more thoroughly might be helpful for clients.
+A: C. Hicks responded: If someone is tested at an IDPH funded site, that information is in the testing consent. Legally, we could just get an oral consent, but we
+wanted to make sure that people had access to it in plain language. Hopefully test counselors are explaining this thoroughly as well. For non-IDPH testing programs,
+
+ clients may or may not get good or clear information about this. In almost all cases, they will sign a medical release, but the complexity of those releases may vary and are
+unknown to IDPH. We could look into implementing a structural intervention that better educations the public on confidentiality.
+Time for discussion concluded. J. Nuss suggested that an additional meeting/webinar should be conducted to continue this specific conversation. It was also
+suggested that legal representation should be on the call to answer technical questions. The Surveillance Unit will be tasked with scheduling and announcing this
+additional meeting. J. Nuss will make sure the information is disseminated to IHIPC members, client reps, and interested community stakeholders.
+10:45 am: IHIPC Membership Demographic Survey Analysis/Membership Gap Analysis for 2020 Recruitment/Opening of 2020 New Membership Cycle
+M. Andrews-Conrad presented on the IHIPC Member Gap Analysis and 2020 New Membership Cycle. First, the membership gap analysis was reviewed (i.e. a
+weighted analysis of HIV prevalence (50%) and incidence (50%) data by transmission category and race was compared to the self-identified demographic information of
+current IHIPC members). Other considerations for the membership gap analysis were also identified and included personal/professional expertise categories (as listed in
+the bylaws) and regional representation. Based on these categories, the following were identified current gaps priorities for new member recruitment and selection:
+- People from Region 1
+- Young adults (aged 18-24)
+- People who are Black, Hispanic, or identify as an “Other” minority race, specifically:
+- Black people representing MSM and/or PWID
+- Hispanic people representing MSM and/or PWID
+- People of “Other” race representing MSM
+Lastly, components of the membership application and the membership selection process were reviewed. It was announced that applications for 2020 IHIPC
+membership will be accepted now through 9/15/19.
+Discussion:
+Q: When this planning body was formed, we had looked at other planning bodies to shape the bylaws and procedures for membership. My concern is that
+current members work for agencies and can represent their agencies in this way. What about people who are unaffiliated with an agency and are community members?
+How can the group get our input if we are not sitting at the table? I have been on CAHISC, and we have always had a policy to have 33% of our members be
+unaffiliated community members.
+A: M. Andrews-Conrad responded: I would like to clarify that regardless of affiliation with an agency, all IHIPC members come to the table to represent the
+communities that they serve and/or personally represent. The IHIPC also welcomes all community members to apply for membership regardless of their current
+affiliations. I also want to clarify that there are differences in the procedures for CAHISC and IHIPC as they are differing RW Part A and B planning bodies,
+respectfully. Although the IHIPC does not have a goal for unaffiliated members, everyone is encouraged to apply and people living with HIV are engaged in the process
+through membership, planning group meetings, and other activities.
+A: J. Nuss responded: Yes, CAHISC requires a certain proportion of unaffiliated members because the planning group makes decisions about resource
+allocation for care services for the EMA. The IHIPC does not do this for the state. Community input is important, needed, and collected from many people beyond
+IHIPC members through a variety of needs assessment activities and community engagement meetings.
+A: The Membership Committee is working on recruitment strategies for the coming year to make sure that membership gaps can be filled. None of these goals
+prioritize either affiliated or unaffiliated members, but there is a need for membership to have a certain skill set in order to participate and bring voices to the table.
+Currently, the Membership Committee would like to look into recruiting at rehabilitation facilities, schools, re-entry organizations, etc. We ask that everyone helps us to
+meet these goals and disseminate information about membership. We will keep working to do our best as a committee.
+C: Please change the term youth to young adult.
+Q: Can young adults apply from any region? Do we explicitly target transgender people or non-binary people for membership?
+A: J. Nuss responded: Yes, young adults can be from any region. The IHIPC bylaws also prioritizes for voting membership a representative of the transgender
+community.
+Q: Thank you, Membership Committee, for this information. I also think there is a need to prioritize unaffiliated members. This was discussed last year but did
+not move forward. Just because we are not required to have unaffiliated members does not mean that it is not important. In the presentation, it was noted that people
+
+ identified professionally or personally with certain transmission categories. Do we have data that shows how many members personally represent these communities?
+People with these lived experiences have perspectives that need to be considered in planning and should be prioritized as members on the IHIPC.
+A: M. Andrews-Conrad responded: We collect information on IHIPC members’ personal representation of transmission categories, but that information isn’t
+shared for confidentiality reasons. We include all members in the gap analysis, so that is why we ask them to select one group that they either personally or professionally
+most represent. The scoring matrix used for the selection process prioritizes people who personally identify with one of the transmission categories by giving them a
+higher score for that criteria on their application. It also prioritizes people living with HIV or people who have significant relationships with people living with HIV.
+Q: I would like to ask the Membership Committee to consider designating a certain number of PLWH membership positions for unaffiliated members.
+A: Thank you. If there are more comments/concerns, please also fill out the meeting surveys as the Membership Committee reviews those after each meeting.
+11:15 am: Presentation/Discussion: Policy/Legislative Update
+A.Singh presented the AFC June Policy Update. Updates on the following bills were presented: HB 2259 - the Medicaid Drug and Therapeutics Board
+Transparency Bill; HB 2665 – the Youth PrEP Bill; HB 465 - Copay Accumulators; and SB 132 – Medicaid Omnibus Bill. Information about the state’s FY20 budget
+relevant to HIV related services was also shared. Please see the presentation for more information.
+There was no discussion on this topic at the meeting.
+11:45 am: Working Lunch: Present an Overview of HIV Continuum of Care Health Disparities Root Cause Analyses Project
+J. Nuss reviewed the HIV Care Continuum Root Cause Analysis Project in which the following steps have been completed:
+- Step 1: Engage in conversations with planning group members and community stakeholders to identify priorities: low utilization of PrEP among
+people of color; lower rates of viral suppression among people of color; and lower rates of linkage to care among youth.
+- Step 2: Identify and explore factors that influence or control prioritized disparities.
+- Step 3: Acknowledge the impact of systemic policies and practices to explore the root causes ( as displayed in fishbone diagrams).
+Participants were then charged with completing Step 4 of the process: To use the planning group and community stakeholder to actively inform
+decisions about or develop plans to address the root causes of each disparity. To achieve this, participants were instructed to review the barriers listed in the fishbone
+diagrams, and to then identify tangible solutions for each barrier. Webinar participants were instructed to do this on their own, and in-person participants were assigned
+to complete this activity in breakout groups. Each in-person breakout group focus on one disparity. Breakout groups were instructed to take notes and to identify the
+top 1-2 strategies in each category.
+There was no further discussion/questions about the activity.
+12:30 pm: Breakout Groups: Review Root Cause Analyses Cause/Effect Diagrams and Identify Tangible Strategies to Address the Disparities
+In-person participants broke out into three groups to complete the activity described above.
+1:15 pm: Public Comment Period/RECAP- There were no requests for public comment at the meeting. Participants were reminded to complete the meeting survey, and
+IHIPC members were reminded to submit travel vouchers as applicable.
+1:30 pm: Adjourn- The meeting adjourned at 1:30 pm.
+2019 Illinois HIV Integrated Planning Council (IHIPC) Vote Log: June 28 Meeting
+Member Name
+
+Member
+Type
+
+IHIPC Voting Members
+
+Date: April 26, 2019 Time: 5:00 pm
+
+Date: June 28, 2019 Time: 9:45am
+
+Date: June 28, 2019 Time: 9:49am
+
+Motion 1: A motion was made by Janet Nuss on 4/19/19 at 8:19 am and
+seconded by C. Tucker at 9:36 am to adopt the agendsa for the June 2728, 2019 IHIPC meeting as approved by the Steering Committee. The
+motion was sent to the full IHIPC at 1:12 pm on April 19, 2019. Members
+were given until 5:00 pm on April 26, 2019 to submit their votes.
+
+Motion 2: A motion was made by N.
+Holmes and seconded by S. Fletcher to
+accept the 2020 Prioritized Populations for
+Targeted Prevention Services as
+recommended and presented on behalf of
+the IHIPC Epi/NA Committee.
+
+Motion 3: a motion was made by J. Charles
+and seconded by J. Filicette to accept the
+2020 Risk Group Definitions for the
+Prioritized Populations as recommended
+and presented by the IHIPC Epi/NA
+Committee.
+
+Y: In favor;
+N: Opposed;
+A: Abstain;
+X: Absent or No
+vote
+cast/received
+TS: temporarily
+suspended
+
+ Benner, M.
+
+Voting
+
+Bradley, W.
+
+Voting
+
+Charles, J.
+
+Voting
+
+Choat, L.
+
+Voting
+
+Crause, C.
+
+Voting
+
+DeLaFuente, J.
+
+Voting
+
+Dispenza, J.
+
+Voting
+
+Erdman, J.
+
+Voting
+
+Filicette, J.
+
+Voting
+
+Fletcher, S.
+
+Voting
+
+Frank, S.
+
+Voting
+
+Gaines, M.
+
+Voting
+
+Guzman, L.
+
+Voting
+
+Hendry, C.
+
+Voting
+
+Holmes, N.
+
+Voting
+
+Hoots, C.
+
+Voting
+
+Hunt, D.
+
+Voting
+
+Johnson, R.
+
+Voting
+
+Jones, S.
+
+Voting
+
+Laskowski, C.
+
+Voting
+
+Lewis, K.
+
+Voting
+
+Maginn, M.
+
+Voting
+
+Meirick, A.
+
+Voting
+
+Meyer, L.
+
+Voting
+
+Nuss, J.
+
+Voting
+
+Olayanju, B.
+
+Voting
+
+Paesani, T.
+
+Voting
+
+Rehrig, S.
+
+Voting
+
+Roeder, L.
+
+Voting
+
+Stevens-Thome, J.
+
+Voting
+
+St. Julian, S.
+
+Voting
+
+Tucker, C.
+
+Voting
+
+Williams, M.
+
+Voting
+
+Williamson, M.
+
+Voting
+
+Zamor, S.
+
+Voting
+
+Type of Vote: Hand
+Count, voice, electronic
+Results:
+Carried/Defeated
+Results: Vote Count
+
+Y
+Y
+Y
+Y
+Y
+
+Y
+Y
+Y
+Y
+Y
+X
+X
+
+Y
+Y
+TS
+Y
+Y
+Y
+Y
+X
+Y
+X
+Y
+Y
+Y
+Y
+Y
+
+X
+X
+Y
+Y
+Y
+Y
+Y
+Y
+A
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+
+X
+Y
+Y
+
+Y
+Y
+Y
+Y
+N
+X
+X
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+X
+
+X
+
+Y
+Y
+
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+
+N
+Y
+Y
+Y
+N
+Y
+N
+N
+Y
+A
+Y
+N
+
+electronic
+
+voice
+
+voice
+
+X
+Y
+Y
+Y
+Y
+X
+Y
+X
+
+carried
+26 in favor , 0 opposed, 0 abstentions, 8 members absent or "no
+vote cast/received"
+
+carried
+
+carried
+
+31 in favor , 0 opposed, 1 abstention, 3
+members absent or "no vote
+cast/received"
+
+23 in favor, 8 opposed, 1 abstention, 3
+members absent or "no vote
+cast/received"
+
+ 

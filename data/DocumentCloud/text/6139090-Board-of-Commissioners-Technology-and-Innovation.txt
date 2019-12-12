@@ -1,0 +1,194 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY & AUTOMATION
+February 25, 2009
+The Honorable,
+The Board of Commissioners of Cook County
+ATTENDANCE
+Present:
+
+Chairman Beavers, Commissioners Butler, Daley, Goslin, Moreno, Peraica and
+Steele (7)
+
+Absent:
+
+Vice Chairman Gorman and Commissioner Schneider (2)
+
+Also Present:
+
+Antonio Hylton – Chief Information Officer, Bureau of Technology; Keyla Ware –
+Business Manager, Bureau of Technology; Anthony Del Santo – Acting Chief
+Technical Officer, Office of the Sheriff; James Beligratis – Assistant State’s
+Attorney; Richard Velàzquez – Special Counsel to the President
+
+Ladies and Gentlemen:
+Your Committee on Information Technology & Automation of the Board of Commissioners
+of Cook County met pursuant to notice on Wednesday, February 25, 2009 at the hour of 10:00
+A.M. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois.
+Your Committee has considered the following items and upon adoption of this report, the
+recommendations are as follows:
+Commissioner Goslin, seconded by Commissioner Butler, moved Items Nos. 298617,
+298618, 298619 and 298815 for discussion. The motion carried.
+298617
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated October 28, 2008:
+requesting authorization for the Purchasing Agent to enter into a contract with
+CDW GOVERNMENT, INC., (CDW-G), Vernon Hills, Illinois, for the Active
+Directory assessment of the County's network structure currently supported by
+Microsoft Premier Software Services.
+Reason: The Bureau of Technology's Active Directory network has grown
+significantly since it was first designed and is in need of a
+reassessment to allow stable growth for the future. An assessment
+will check for vulnerabilities and point out a weakness that
+can threaten our environment. Exposing vulnerabilities and
+correcting them before they cause a problem will reduce the overall
+support costs to maintain our network and provide a secure structure
+which will allow the County to grow. Microsoft Premier support
+services are only performed by Microsoft Corporation or its affiliates.
+CDW-G is an authorized affiliate of Microsoft Services. CDW-G has
+been appointed by Microsoft Services to perform the assessment.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE REPORT
+FEBRUARY 25, 2009
+PAGE 2
+Estimated Fiscal Impact: $68,760.00. Contract period: November 1, 2008
+through October 31, 2009. (009-260 Account). Requisition No. 80090027.
+Approval of this item would did commit Fiscal Year 2008 funds.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+Referred to the Committee on Information Technology and Automation on
+02-04-09.
+Commissioner Daley, seconded by Commissioner Goslin, moved to change the word
+“would” to “did” in Communication No. 298617. The motion carried.
+Commissioner Daley, seconded by Commissioner Goslin,
+Communication No. 298617 as amended. The motion carried.
+298618
+
+moved
+
+to
+
+approve
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated January 14, 2009:
+requesting authorization for the Purchasing Agent to extend for four (4) months,
+Contract No. 07-43-349 with CDW GOVERNMENT, INC., (CDW-G), Vernon
+Hills, Illinois, for countywide Microsoft software and software support services.
+Reason: The extension is needed for the continued ability to purchase
+necessary Microsoft software during the evaluation and award
+period of a new countywide hardware/software Request for Proposal
+(RFP). The expiration date of the current contract was December
+17, 2008. Approximately $311,041.87 remains on this contract.
+Estimated Fiscal Impact:
+through April 17, 2009.
+
+None.
+
+Contract extension:
+
+December 18, 2008
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+Referred to the Committee on Information Technology and Automation on
+02-04-09.
+Commissioner Goslin, seconded by Commissioner Daley, moved the approval of
+Communication No. 298618. The motion carried.
+298619
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated January 14, 2009:
+requesting authorization for the Purchasing Agent to extend for four (4) months,
+Contract No. 07-43-351 with SYSTEM SOLUTIONS, INC., Northbrook, Illinois,
+for computer hardware, software, peripheral equipment and support services.
+Reason: The extension is needed for the continued ability to purchase
+necessary computer hardware during the evaluation and award
+period of a new countywide hardware/software Request for Proposal
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE REPORT
+FEBRUARY 25, 2009
+PAGE 3
+(RFP). The expiration date of the current contract was December
+15, 2008. Approximately $589,032.00 remains on this contract.
+Estimated Fiscal Impact:
+through April 15, 2009.
+
+None.
+
+Contract extension: December 16, 2008
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+Referred to the Committee on Information Technology and Automation on
+02-04-09.
+Commissioner Goslin, seconded by Commissioner Daley, moved the approval of
+Communication No. 298619. The motion carried.
+298815
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated November 21, 2008:
+requesting authorization for the Purchasing Agent to enter into a contract with
+IRON MOUNTAIN, Hanover Park, Illinois, for data protection and recovery
+services.
+Reason:
+
+Iron Mountain is our current data disaster recovery vendor. We will
+be exploring on-network capability in replacement of physical
+cartridge delivery. Iron Mountain provides comprehensive records
+management and data protection solutions, along with the expertise
+and experience to address complex information challenges such as
+rising storage costs, litigation, regulatory compliance and disaster
+recovery. Iron Mountain has been chosen because of the unique
+feature of real time encryption key modification that is a feature not
+provided by any other competitor. The funds for this contract have
+been encumbered from the FY2008 Budget. The contract period
+corresponds with the fiscal year twelve (12) month period.
+
+Estimated Fiscal Impact: $90,720.00. Contract period: December 1, 2008
+through November 30, 2009. (009-260 Account). Requisition No. 80090022.
+Approval of this item would did commit Fiscal Year 2008 funds.
+Referred to the Committee on Information Technology and Automation on
+02-18-09.
+James Beligratis, Assistant State’s Attorney, agreed to report back to Chairman Beavers
+regarding whether Iron Mountain would be barred from entering into a contract with Cook
+County under Ordinance 34-154, “Contracts For Consulting and Auditing Services.”
+Commissioner Goslin, seconded by Commissioner Daley, moved to change the word
+“would” to “did” in Communication No. 298815. The motion carried.
+Commissioner Goslin, seconded by Commissioner Daley, moved the approval of
+Communication No. 298815 as amended. The motion carried.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE REPORT
+FEBRUARY 25, 2009
+PAGE 4
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speakers,
+in accordance with Cook County Code, Sec. 2-108(dd):
+1.
+
+George Blakemore – Concerned Citizen
+
+Commissioner Butler moved to adjourn the meeting, seconded by Commissioner Daley.
+The motion carried and the meeting was adjourned.
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTERS NAMED HEREIN:
+Communication Number 298617
+Communication Number 298618
+Communication Number 298619
+Communication Number 298815
+
+Approved as Amended
+Approved
+Approved
+Approved as Amended
+Respectfully submitted,
+Committee on Information Technology
+& Automation
+
+____________________________
+William M. Beavers, Chairman
+
+Attest:
+
+_________________________________
+Matthew B. DeLeon, Secretary
+
+*The audio recording for this meeting is available from the Office of the Secretary to the Board,
+118 North Clark Street, Room 567, Chicago, IL 60602.
+
+ 

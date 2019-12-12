@@ -1,0 +1,360 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY
+and AUTOMATION
+April 19, 2010
+Recessed and Reconvened on April 20, 2010
+The Honorable,
+The Board of Commissioners of Cook County
+ATTENDANCE
+Present:
+
+Chairman Beavers, Commissioners Daley, Moreno and Schneider (4)
+
+Absent:
+
+Vice Chairman Gorman, Commissioners Butler, Goslin, Peraica and Steele (5)
+
+Also
+Present:
+
+R. Steve Edmonson – Chief Information Officer, Cook County Bureau of
+Technology; Mary Jo Horace – Director of Geographical Information Systems
+Department, Cook County Bureau of Technology
+
+Ladies and Gentlemen:
+Your Committee on Information Technology and Automation of the Board of
+Commissioners of Cook County met pursuant to notice on Monday, April 19, 2010 at the hour of
+12:00 p.m. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago,
+Illinois.
+The Secretary informed Chairman Beavers that a quorum was not present.
+The Chairman informed the Commissioners present that the Committee would hear testimony at
+this time.
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speaker,
+in accordance with Cook County Code, Sec. 2-108(dd):
+1. George Blakemore – Concerned Citizen
+Chairman Beavers recessed the meeting to Tuesday, April 20, 2010 at 9:30 a.m.
+APRIL 20, 2010
+Present:
+
+Chairman Beavers, Vice Chairman Gorman, Commissioners Daley, Goslin and
+Schneider (5)
+
+Absent:
+
+Commissioners Butler, Moreno, Peraica and Steele ( 4)
+
+Your Committee has considered the following items and, upon adoption of this report,
+the recommendations are as follows:
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 2
+
+303349
+
+RECORDER OF DEEDS, Eugene “Gene” Moore, transmitting a Communication,
+dated September 30, 2009:
+requesting authorization for the Purchasing Agent to enter into a contract with
+Fidlar Technologies, Inc., Rock Island, Illinois, for the property Fraud Alert system,
+the Disaster Recovery System and the Tapestry/Laredo Data Sales program. The
+Property Fraud Alert system will serve as an early notification for Cook County
+property owners, allowing them to intervene in the event of fraudulent transactions.
+The Disaster Recovery System will allow the office to resume operating within
+hours of any interruption of service, whether natural or otherwise.
+The
+Tapestry/Laredo Data Sales program is expected to increase revenue from the
+sale of Recorder of Deeds information beyond the current levels.
+Reason:
+
+Fidlar Technologies, Inc. provides the industry's only proactive land
+fraud notification system that functions in harmony with third party
+recording systems. The system requires no additional modifications to
+existing Recorder of Deeds operation. The Fidlar Disaster Recovery
+system feeds the Tapestry/Laredo Data Sales program with recorded
+information, which provides an additional level of network security for
+the Recorder of Deeds office.
+
+Estimated Fiscal Impact: $322,000.00 (FY 2009: $131,613.00; and FY 2010:
+$190,387.00). Contract period: November 1, 2009 through October 31, 2010.
+(527-260 Account). Requisition No. 95270035.
+Sufficient funds are available in the Recorder of Deeds Document Storage Fund.
+The Purchasing Agent concurs.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology and Automation on
+11/04/09.
+**Deferred on 11/17/09.
+Commissioner Daley, seconded by Commissioner Goslin, moved to receive and file
+Communication No. 303349. The motion carried.
+304170
+
+CLERK OF THE CIRCUIT COURT,
+Communication, dated December 1, 2009:
+
+Dorothy
+
+Brown,
+
+transmitting
+
+a
+
+requesting authorization for the Purchasing Agent to amend and increase by
+$200,000.00, Contract No. 08-41-318 with AMCAD, LLC, Broadway, Virginia, for
+the imaging of documents and records for the Board of Review.
+Board approved amount 07-22-08: $6,332,064.10
+Increase requested:
+200,000.00
+Adjusted amount:
+$6,532,064.10
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 3
+
+Reason:
+
+The original item was a Request for Proposal (RFP) that had all
+required qualifications for the imaging of past and current records and
+documents. The Board of Review is requesting authorization to
+implement a pilot program with the approved funds similar to the Clerk
+of the Circuit Court. The expiration date of the current contract is June
+30, 2010.
+
+Estimated Fiscal Impact: $200,000.00. (717/050-579 Account).
+This equipment was included in the 2009 Capital Equipment Program approved by
+the Board of Commissioners on June 2, 2009. (Items #458 and 459).
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology and Automation on
+12/15/09.
+Commissioner Daley, seconded by Commissioner Goslin, moved to receive and file
+Communication No. 304170. The motion carried.
+305990
+
+BUREAU OF TECHNOLOGY, by R. STEVE EDMONSON, Chief Information
+Officer, transmitting a Communication, dated March 11, 2010:
+requesting authorization for the Purchasing Agent to advertise for bids for the
+purchase of Adobe Acrobat Connect pro and Captivate hosted web
+communications solution that enables live, interactive web meetings; virtual
+classes; on-demand presentations and courses; and group collaboration.
+One time purchase. (545-260 Account). Requisition No. 05450014.
+Sufficient funds are available in the Geographical Information Systems Fund.
+*Referred to the Committee on Information Technology and Automation on
+04/06/10.
+
+Chairman Beavers requested that R. Steve Edmonson, Chief Information Officer, Cook County
+Bureau of Technology, provide an overview of this matter.
+Mr. Edmonson requested that Mary Jo Horace, Director of the Geographical Information
+Systems (GIS) Department, Cook County Bureau of Technology, address this matter.
+Ms. Horace stated that this bid would enable the Cook County Bureau of Technology to be able
+to do online training with its land information groups and to do presentations for all County
+agencies that share documents within geographic information systems; this can be done
+remotely over the County’s intranet.
+Commissioner Daley, seconded by Commissioner Goslin, moved the approval of
+Communication No. 305990. The motion carried.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 4
+
+305991
+
+BUREAU OF TECHNOLOGY, by R. STEVE EDMONSON, Chief Information
+Officer, transmitting a Communication, dated March 11, 2010:
+requesting authorization for the Purchasing Agent to enter into an
+intergovernmental agreement with U.S. GEOLOGICAL SURVEY (USGS) and
+NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA) for urban areas of
+Chicago and Urbana, Illinois, for the acquisition of orthoimagery photography for
+the Chicago, Illinois footprint defined as part of the Federal 133 Urban Areas
+Program.
+Reason:
+
+As part of a regional project for the acquisition of aerial imagery for data
+acquisition and sharing at county borders, regional partners, Cook,
+DuPage, Kane, Kendall, Lake, McHenry and Will Counties as well as
+the Chicago Metropolitan Agency for Planning and the United States
+Geological Survey have agreed to contribute financially for the cost of
+the project. This project also supports the National Spatial Data
+Infrastructure (NSDI) by advancing USGS and Federal Geographic
+Data Committee (FGDC) efforts related to Geospatial One-Stop, The
+National Map, and Imagery for the nation. Since Cook County has the
+largest, most complex territory in the region composed of dense urban
+areas, airports and shore line environments, it is acting as the lead
+government project manager for the initiative. The joint purchasing
+agreement with U.S Geological Survey and National GeospatialIntelligence Agency will allow us to receive their $200,000.00 funding
+for the project.
+
+Estimated Fiscal Impact: None. Estimated Revenue generating: Geographic
+Information System (GIS) will receive $200,000.00. Contract period: May 1, 2010
+through April 30, 2011. (545-260 Account).
+*Referred to the Committee on Information Technology and Automation on
+04/06/10 as Amended.
+Ms. Horace stated the following: The County Board approved a fly-over for part of a regional
+GIS project with the following counties: DuPage, Kane, Kendall, McHenry and Will. As part of
+that project, which will supply aerial photography over the northeastern geographic area, the
+U.S. Geospatial Survey has contacted us and stated that they are willing to submit funding to
+Cook County for the project as well. In order to comply, Ms. Horace needs to demonstrate that
+she has the County Board’s support for applying and receiving funding for this project. After she
+receives approval from the County Board she will complete the application process, and will
+then return to the County Board for final execution of the contract with the U.S. Geological
+Survey.
+Commissioner Daley inquired as to what the goal of this project is.
+Ms. Horace replied that the fly-over is done every year, and is utilized in the County’s map
+making process.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 5
+Commissioner Daley, seconded by Commissioner Goslin, moved the approval of
+Communication No. 305991 as amended. The motion carried.
+305992
+
+BUREAU OF TECHNOLOGY, by R. Steve Edmonson, Chief Information Officer,
+transmitting a Communication, dated March 11, 2010:
+requesting authorization for the Purchasing Agent to enter into an
+intergovernmental agreement with LAKE COUNTY, ILLINOIS, for the acquisition
+of orthoimagery for the Northeastern Illinois region.
+Reason:
+
+As part of a regional project for the acquisition of aerial imagery for data
+acquisition and sharing at county borders, regional partners, Cook,
+DuPage, Kane, Kendall, Lake, McHenry and Will Counties as well as
+the Chicago Metropolitan Agency for Planning and the United States
+Geological Survey have agreed to contribute financially for the cost of
+the project. Since Cook County has the largest, most complex territory
+in the region composing of dense urban areas, airports and shoreline
+environments, it is acting as the lead government project manager for
+this initiative. The joint purchasing intergovernmental agreement with
+Lake County will allow us to receive their 1st year funding for the
+project.
+
+Estimated Fiscal Impact: None. Estimated Revenue generating: Geographic
+Information System (GIS) will receive $100,346.64 for 2010. Contract period:
+February 22, 2010 through August 21, 2011. (545-260 Account).
+*Referred to the Committee on Information Technology and Automation on
+04/06/10, as Amended.
+Mary Jo Horace stated: This is the start of a contract with Lake County, Illinois in order to
+receive $100,000 in funding from them this year toward the regional aerial project. Some
+government agencies, including Lake County, require authorization from the County Board
+before they will send a contract and agreement.
+Commissioner Daley, seconded by Commissioner Goslin, moved the approval of
+Communication No. 305992 as amended. The motion carried.
+305993
+
+BUREAU OF TECHNOLOGY – TRANSFER OF FUNDS. Transmitting a
+Communication, dated March 11, 2010 from R. Steve Edmonson, Chief
+Information Officer:
+requesting approval by the Board of Commissioners to transfer funds totaling
+$425,000.00 from Account 545-260, Professional and Managerial Services to
+Account 545-441, Maintenance and Repair of Data Processing Equipment and
+Software for the coverage of a contract for ground imagery maintenance which
+includes acquisition of parcel images, ground control, data collection and Federal
+Geographic Data Committee compliance metadata Board approved on December
+15, 2009.
+Reason:
+
+The transfer is needed to cover funding that was originally budgeted for
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 6
+2009, but due to contract processing, the contract period was moved to
+2010.
+From Account:
+545-260
+
+Total $425,000.00
+
+To Account:
+545-441
+1.
+
+Total $425,000.00
+
+On what date did it become apparent that the receiving account would
+require an infusion of funds in order to meet current obligations? What was
+the balance in the account on that date, and what was the balance 30 days
+prior to that date?
+On February 22, 2010, it became apparent that the Maintenance and Repair
+of Data Processing Equipment and Software Account 545-441 would require
+an infusion of funds in order to meet outstanding maintenance obligations.
+At this time, the balance of the account had $422,812.00, not including the
+outstanding contract expenditures of $475,650.00.
+
+2.
+
+How was the account used for the source of transferred funds identified?
+List any other accounts that were also considered (but not used) as the
+source of the transferred funds.
+Account 545-260 was identified as the source of transferred funds because
+of the reduction of some of the geospatial projects which was realized via the
+Request for Proposal process and cooperative acquisitions on a regional
+level.
+
+3.
+
+Identify any projects, purchases, programs, contracts, or other obligations
+that will be deferred, delayed, or canceled as a result of the reduction in
+available spending authority that will result in the account that funds are
+transferred from 545-260 Professional Services.
+Savings in the account will occur in two ways:
+1) Since the County Board authorized us to participate in a regional aerial
+orthoimagery project with the seven neighboring counties, the Chicago
+Metropolitan Agency for Planning and the United States Geological Survey,
+we realized a projected savings of over $300,000.00.
+2) The department will postpone the upgrade of an existing application,
+Mapviewer that County agencies use internally to quickly produce map
+displays.
+
+4.
+
+If the answer to the above question is “none” then please explain why this
+account was originally budgeted in a manner that caused an unobligated
+surplus to develop at this point in the fiscal year.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 19, 2010 RECESSED AND RECONVENED ON APRIL 20, 2010
+PAGE 7
+The funding for the contract was originally planned to be incurred as part of
+fiscal year 2009. However due to the lengthy process of contract review and
+negotiations and the end of the year account closeout, the contract funding
+was carried into the 2010 fiscal year budget. The timing of the contract
+processing was too late to add the contract into the 2010 fiscal budget and
+not finalized enough to have the funds encumbered from 2009.
+*Referred to the Committee on Information Technology and Automation on
+04/06/10 as Amended.
+Ms. Horace stated: The transfer of funds is needed to ensure that the GIS Department has
+funding for all of its projects this year. One GIS Department project went before the County
+Board in 2009, but the contract negotiations continued into 2010. The funding was initially for
+2009. The GIS Department will have funding for this project because of the revenue which the
+GIS Department will be receiving from other government agencies who are working with the GIS
+Department.
+Commissioner Daley, seconded by Commissioner Goslin, moved the approval of
+Communication No. 305993 as amended. The motion carried.
+Commissioner Goslin moved to adjourn the meeting, seconded by Commissioner
+Schneider. The motion carried and the meeting was adjourned.
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTER NAMED HEREIN:
+Communication Number 303349
+Communication Number 304170
+Communication Number 305990
+Communication Number 305991
+Communication Number 305992
+Communication Number 305993
+
+Receive and File
+Receive and File
+Approve
+Approve as Amended
+Approve as Amended
+Approve as Amended
+Respectfully submitted,
+Committee on Information Technology
+and Automation
+
+____________________________
+William M. Beavers, Chairman
+Attest:
+
+_________________________________
+Matthew B. DeLeon, Secretary
+
+ 

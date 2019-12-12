@@ -1,0 +1,4272 @@
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+
+1
+
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+AGENDA
+Institutional Review Board
+February 1, 2018 (1:00 – 3:00 PM)
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, IL 60606
+
+I.
+II.
+III.
+
+IV.
+V.
+
+VI.
+VII.
+
+Call to Order and Roll Call
+Approval of December 7, 2017 Meeting Minutes
+Applications for Review
+a. New applications:
+1. Survey on Response to Opioid Use Disorders in Jail and Probation (pp. 2-50)
+Jessica Reichert
+b. Amendments:
+1. Evaluation of Dual Diagnosis Program in Logan Correctional Center (pp. 51-64)
+Jessica Reichert
+2. Evaluation of Pathway to Enterprise for Returning Citizens (pp. 65-90)
+Jessica Reichert and Justin Escamilla
+Old Business: None
+New Business
+a. Exempt IRB applications:
+1. Opioid Prescribing in Illinois: Examining Prescription Drug Monitoring
+Program Data
+Jessica Reichert and Alysson Gatens
+b. Expedited IRB applications:
+1. Illinois Department of Juvenile Justice Recidivism Study
+Lily Gleicher
+2. Study of Adult Redeploy Illinois Outcomes by Demographics and Region
+Lynne Mock
+Next IRB meeting: May 3rd, 1:00 – 3:00 PM
+Adjourn
+
+This public meeting will be accessible to persons with disabilities in compliance with Executive Order #5 and pertinent State and Federal
+laws upon anticipated attendance. Persons with disabilities planning to attend and needing special accommodations should contact by
+telephone or letter John Klaer, Associate Director, Office of Administrative Services, Illinois Criminal Justice Information Authority, 300
+W. Adams St. Suite 200, Chicago, Illinois, 60606-5150 or at (312) 793-8550. TDD services are available at (312) 793-4170.
+Fax: (312) 793-8422 • TDD: (312) 793-4170 • www.icjia.state.il.us
+
+ 2
+
+Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s) email: Jessica.Reichert@Illinois.gov
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 West Adams, Suite 200
+
+City, State, Zip
+code:
+Office phone:
+
+Chicago, IL 60606
+312-793-8550
+
+Project staff and affiliation: Sharyn Adams, Research Analyst, ICJIA; Lily Gleicher, Research
+Analyst, ICJIA
+Start date of project:
+
+February 2, 2018
+
+End date of project:
+
+February 2, 2019
+
+Title of proposal: Survey on Response to Opioid Use Disorders in Jail and Probation
+Initial approval
+type:
+
+Full IRB:
+
+X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+X
+
+Primary
+
+Secondary
+
+If SECONDARY, please briefly indicate the source of the data:
+
+How is the end date of the study defined?
+The publication of one or more evaluation reports on the
+(Authority) website and/or journal.
+
+1
+
+ 3
+
+I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+
+No
+
+Minors under age 18
+
+X
+
+Adult prisoners or individuals in secure confinement
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+ICJIA researchers will survey staff from Illinois probation departments and jails on their use of
+medication-assisted treatment and safe withdrawal for opioid use disorders. The research will
+assist the state in understanding barriers to use and training needs in these areas of the
+criminal justice system.
+
+2
+
+ 4
+
+B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+a.) Time involvement of subjects: Participants will be asked to complete a 10 to 15 minute
+on-line survey documenting information related to responses to opioid use disorders,
+with a focus on medication-assisted treatment.
+
+b.) Location(s) the study will be conducted with subjects, including a description, if
+applicable: Participants will be able to complete the survey using a PC or mobile
+device.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): No compensation will be offered.
+d.) What subjects will experience or do: After reviewing the informed consent form and
+agreeing to participate in the study by clicking agree, participants will be asked
+questions about current use, barriers to use and training needs of medication assisted
+treatment for opioid use disorders. Participants will be informed that they may choose to
+answer any question and may stop the survey at any time.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study:
+b.) Number in age ranges:
+
+204
+
+Under 18
+
+18 and older
+
+204
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American X
+
+American Indian
+
+X
+
+Asian X
+
+Hispanic X
+
+White X
+
+Other
+
+Unknown
+
+Bi-racial
+
+X
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n):
+
+0
+
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+0
+
+3
+
+ 5
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+Recruitment
+
+X
+
+A list of e-mails for all sheriff's and probation directors will be obtained from The Illinois
+Probation and Court Services Association and the Illinois Sheriffs Association. ICJIA staff will
+use those lists to generate an invitation e-mail asking one person who is the appropriate
+representative from each agency to answer the survey questions and participate in the study
+(see attached e-mail recruitment language). Subjects will then be given a link to the online
+survey. Follow-up calls will be made to increase response rates.
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+The study’s research questions focus on the practices in Illinois’ county jails and probation
+departments. Researchers will attempt to include all probation department directors and
+sheriffs in Illinois in the study. Only these departments will be examined as the purpose is to
+learn more about current use, barriers to use and training needs of medication assisted
+treatment in probation departments and jails.
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+There are no direct benefits for participating in this study. This study, however, will document
+barriers and training needs that may help participants further refine their programs. The information
+may also help guide program development and implementation decisions in other Illinois
+jurisdictions interested in medication-assisted treatment for opioid use disorder programs.
+
+7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+4
+
+ 6
+
+X
+
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+Does not apply
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+
+5
+
+ High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study.
+
+7
+
+Risks and benefits that would result even if the research weren’t undertaken should not be
+considered.
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+X
+
+a.) If YES, what is the amount and source of the funds?
+Amount $
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+6
+
+ 8
+
+F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+No
+
+X
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+b.) What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in publications,
+etc? How does the investigator(s) define “completion” of the study?
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc)?
+Individual identifiers will be recorded on the survey. This information will include current job
+title and county where probation department or jail is located. This information is necessary
+in order to document response rates and generalizability of the survey responses.
+
+b.) Describe project procedures for maintaining the security of these records at every point in
+the data collection process.
+A list of all sheriffs and probation directors will be compiled using an excel spreadsheet. That
+spreadsheet will be used to create an electronic mailing list to send out the initial request for
+participation. Staff will track response to the request and use the spreadsheet to track
+participation and follow-up efforts.
+The online survey data will be collected using Qualtrics. Qualtrics safeguards all customer
+data and uses secure data centers to ensure the highest protection as per HITECH
+requirements. HITECH (Health Information Technology for Economic and Clinical Health Act)
+complies with HIPAA rules to ensure that data are properly protected and best security
+practices followed. Once the data have been collected, it will be downloaded from Qualtrics
+to either excel or SPSS, which will be kept on secure, password protected servers and
+computers accessible only to the research staff.
+
+7
+
+ c.) Would it be possible to conduct the proposed project without recording names or other 9
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+The purpose of the research is to understand barriers to use and training needs for opioid
+use disorder responses and medication assisted treatment within the criminal justice
+system. This information is needed in order to compare the barriers and needs between
+counties and between probation departments or jails and to document the survey’s
+response rate.
+
+d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have access
+to names or other individual identifiers? Describe the procedures for maintaining security of
+paper files, automated files, and other records.
+
+e.) Will names of subjects be included in any publication based on this study? If YES, for what
+reason(s)?
+Yes
+
+No
+
+X
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+X
+
+Responses from the survey will be aggregated. Researchers will not report information in a
+manner that may identify participants or participating counties.
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+X
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+
+8
+
+ Verbal
+
+Written
+
+No consent needed
+
+10
+Waiver of consent
+documentation
+
+X
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+Our survey will be administered online thus we cannot obtain written consent on a paper form.
+Instead researchers will offer an information sheet before survey questions are displayed and
+by clicking a button to continue, subjects will consent to the study.
+
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+Survey information will be provided at the beginning of the survey as an information sheet (see
+attached), prior to any survey questions.
+
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+Survey information prior to the beginning of the actual survey will include information about
+participation and continuation in the survey as completely voluntary, and what to do if they do
+not want to continue on with the survey (see attached information sheet and survey).
+
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+Unable to provide
+
+Not applicable
+
+X
+
+a.) If you are unable to provide the script or consent form, please explain why
+
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent?
+For the online survey, consent will be obtained through the participant clicking the arrow
+to continue to the survey content.
+
+b.) How will consent be obtained?
+For the online survey, consent will be obtained through the subject being supplied an
+information sheet with the details of the study they can consent to participate in (see
+attached). Subjects will be instructed to click to the next screen to begin the survey if
+
+9
+
+ they consent to the study.
+
+11
+
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Consent will only be obtained once at the start of the survey.
+
+d.) How will you verify the subject fully understands the consent?
+The online consent form is written in a 9th grade or lower reading level. The consent
+form will provide contact information for the principal investigator, the Authority’s
+attorney/IRB secretary to request further information about the studies, their rights as a
+research participant, and the initiative. The subjects will be instructed to click to the next
+screen to begin the survey if they consent to the study.
+
+e.) How will your investigators be trained to use the informed consent process?
+All Authority research staff are certified in the National Institutes of Health Office of
+Extramural Research’s web-based training course “Protecting Human Research
+Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+All subjects, probation directors and sheriffs, are expected to be English speakers.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+
+24. Does the consent form you have attached fully comply with ICJIA instructions for consent forms
+that are in compliance with general requirements as outlined in the Code of Federal Regulations
+46.116 and the Authority’s IRB procedures? Please refer to the checklist. N/A
+Yes
+
+X
+
+No
+
+a.) If NO, please explain why.
+
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+10
+
+ 12
+
+SIGNATURE PAGE
+
+Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+PROJECT NAME: Survey on Response to Opioid Use Disorder in Jail and Probation
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+12
+
+ 13
+
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+Dear [AGENCY NAME],
+The Illinois Criminal Justice Information Authority (Authority) is a state agency
+dedicated to improving the administration of criminal justice. The Authority brings
+together key leaders from the justice system and the public to identify critical issues
+facing the criminal justice system in Illinois, and to propose and evaluate policies,
+programs, and legislation that address those issues.
+The Authority is conducting a study to better understand if and how Medication-Assisted
+Treatment (MAT) is incorporated or used for individuals detained in jails and those
+individuals on probation supervision. You will be asked to answer survey questions
+related to Medication-Assisted Treatment (MAT) in your jurisdiction as it relates to your
+agency (jail or probation). Your input is invaluable to learning about and assessing the
+status of Medication-Assisted Treatment (MAT) throughout the state of Illinois with
+regard to jails and probation supervision.
+Your participation in this study is completely voluntary and should take approximately 10
+to 15 minutes. Responses from the survey will be aggregated and researchers will not
+report information in a manner that may identify your agency or the county you work in.
+You may decide not to participate and this decision will not impact current or future grant
+funding from our agency, nor our relationship with you in any other way.
+Should you decide to participate, please follow the link below: INSERT LINK
+
+Thank you for your time and consideration.
+Cordially,
+
+Jessica Reichert, Manager
+Center for Justice Research and Evaluation
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+Phone: 312-793-8550
+
+Fax: (312) 793-8422 • TDD: (312) 793-4170 • www.icjia.state.il.us
+
+ 14
+
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+Dear [AGENCY NAME],
+Approximately 2 weeks ago your agency was sent a link to participate in a study being
+conducted by the Illinois Criminal Justice Information Authority. The purpose of this
+study is to better understand if and how Medication-Assisted Treatment (MAT) is
+incorporated or used for individuals detained in jails and those individuals on probation
+supervision.
+For this study you will be asked to answer survey questions related to MedicationAssisted Treatment (MAT) in your jurisdiction as it relates to your agency (jail or
+probation). Your participation in this study is completely voluntary and should take
+approximately 10 to 15 minutes. Researchers will not report information in a manner that
+may identify your agency or the county you work in.
+Your input is invaluable to learning about and assessing the status of Medication-Assisted
+Treatment (MAT) throughout the state of Illinois with regard to jails and probation
+supervision. Should you decide to participate, please follow the link below: INSERT
+LINK
+
+Thank you for your time and consideration.
+Cordially,
+
+Jessica Reichert, Manager
+Center for Justice Research and Evaluation
+Illinois Criminal Justice Information Authority
+300 W. Adams St., Suite 200
+Chicago, IL 60606
+Phone: 312-793-8550
+
+Fax: (312) 793-8422 • TDD: (312) 793-4170 • www.icjia.state.il.us
+
+ 15
+
+Survey on Opioid Medication-Assisted
+Treatment Use in Criminal Justice
+Start of Block: General Information
+
+Illinois Criminal Justice Information Authority Research Information and Consent for
+Participation in Research
+Survey on Opioid Medication-Assisted Treatment Use in Criminal Justice
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigator: Jessica Reichert, Senior Research Analyst
+Department and Institution: Center for Justice Research and Evaluation, Illinois Criminal Justice
+Information Authority, 300 W. Adams St., Suite 200, Chicago, IL 60606 or (312) 793-8550.
+Why am I being asked?
+You are being asked to participate in this survey as an administrator of a jail or probation
+agency on the scope of Medication-Assisted Treatment (MAT) practices, policies, and
+procedures. You will be asked to answer questions related to Medication-Assisted Treatment
+(MAT) policies, practices, and procedures in your jurisdiction as it relates to your agency (jail or
+probation). The survey will take approximately 10 minutes to complete.
+Your participation is voluntary. Your decision whether or not to participate will not affect your
+current or future dealings with the Illinois Criminal Justice Information Authority (ICJIA). If you
+decide to participate, you are free to withdraw at any time without affecting that
+relationship.
+What is the purpose of this research?
+Researchers at the Illinois Criminal Justice Information Authority are looking to assess the
+scope and status of practices, policies, and procedures regarding Medication-Assisted
+Treatment (MAT) throughout the state of Illinois for individuals detained in jails and supervised
+on probation.
+What procedures are involved?
+You will be asked to complete this survey, taking approximately 10 minutes of your time.
+What are the risks and discomforts?
+
+Page 1 of 36
+
+ 16
+
+To the best of our knowledge, the things you will be asked on the survey will have no more risk
+of harm than you would experience in everyday life. All information provided through the survey
+will be reported in aggregate form so that it does not specifically identify your agency or the
+county you work in.
+Will I be told about new information that may affect my decision to participate?
+During the course of the study, you will be informed of any significant new research information
+(either good or bad), such as changes in the risks or benefits resulting from participation in the
+research or new alternatives to participation that might cause you to change your mind about
+continuing in the research. If new information is provided to you, your consent to continue
+participating in this research may be re-obtained.
+What are the potential benefits to taking part in the research?
+There are no direct benefits. However, the survey responses will be vital to enhancing the
+collective understanding and landscape of Medication-Assisted Treatment (MAT) practices
+across the state related to jail and probation supervision.
+What other options are there?
+You have the option not to participate in the survey.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for my participation in this
+research?
+You will not be offered payment for being in this survey.
+Can I withdraw or be removed from the study?
+Your participation is completely voluntary. You are free to skip questions or stop answering the
+survey at any time. If you want to stop taking the only survey, you can simply leave the website.
+If you do not click the "Submit" button at the end of the survey, your answers will not be saved.
+Who should I contact if I have questions?
+Contact the researcher, Jessica Reichert, Senior Research Analyst, at (312) 793-8550 or
+Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or, if
+you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns,
+complaints, or to offer input, you may call the IRB secretary, Simeon Kim, Associate General
+Counsel, at (312) 793-8550 or Simeon.Kim@Illinois.gov.
+
+Page 2 of 36
+
+ 17
+
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future relations with ICJIA. If you decide to participate, you are free to
+withdraw at any time without affecting that relationship.
+I have read (or someone has read to me) the above information. I have been given an
+opportunity to ask questions and my questions have been answered to my satisfaction. I agree
+to participate in this research.
+If you understand the statement above, and freely consent to complete the survey, check "I
+agree."
+
+o I agree to participate in this survey
+o I DO NOT agree to participate in this survey.
+
+IMPORTANT
+For this survey, Medication-Assisted Treatment (MAT) is defined as the use of medications
+(buprenorphine, methadone, and/or naltrexone), generally used in conjunction with evidencebased therapies, as part of the recovery and rehabilitation process for individuals with opioid
+use disorders.
+This does not include medical detoxification. Some of these medications may also treat alcohol
+use disorders (naltrexone); however, for the purpose of this study we are asking about their use
+for MAT with opioid use disorders.
+
+For the survey, researchers will be using the following terms:
+Buprenorphine: This is any buprenorphine/buprenorphine-naloxone medication used for
+individuals with opioid use disorders.
+Buprenorphine brand names include Suboxone®, Subutex®, Zubsolv®, Bunavail®,
+Butrans®, Buprenex®, Probuphine®, Belbuca®.
+Naltrexone: This is a full antagonist medication used for those with opioid use disorders.
+Brand Name: Vivitrol®, ReVia®.
+Naloxone: This is the revival medication used for individuals who are overdosing on opioids.
+Brand Names: Narcan®, EVZIO®
+Page 3 of 36
+
+ 18
+
+Methadone: This is the full agonist medication used for those with opioid use disorders.
+Brand Names: Methadose®, Dolophine®, Diskets®, Methadone Intensol®.
+
+General Information
+
+o Your agency: ________________________________________________
+Which county does your agency serve? (select all that apply)
+*hold down Ctrl to select multiple counties*
+
+▢
+
+*County Dropdown List*
+
+To what extent is heroin or other opioid misuse (e.g. fentanyl, prescription pills) a problem in
+your county?
+
+o Not a problem at all
+o A slight problem
+o A moderate problem
+o A serious problem
+What is your current field of work?
+
+o Jail
+o Probation
+End of Block: General Information
+Start of Block: Probation
+
+Page 4 of 36
+
+ 19
+
+What is your current job title?
+
+o Chief or Director
+o Assistant Director
+o Supervisor or Manager
+o Probation officer
+o Pre-sentence investigator or pre-trial officer
+o Field supervision officer
+o Program coordinator
+o Other (please specify) ________________________________________________
+How familiar are you with the use and purpose of the following medications used for
+Medication-Assisted Treatment (MAT)?
+Not familiar
+at all
+Methadone
+
+Buprenorphine
+Naltrexone
+(Vivitrol®)
+
+o
+o
+o
+
+Slightly
+familiar
+
+o
+o
+o
+
+Moderately
+familiar
+
+o
+o
+o
+
+Very familiar
+
+o
+o
+o
+
+Extremely
+familiar
+
+o
+o
+o
+
+Page 5 of 36
+
+ 20
+
+How familiar are you with the effectiveness of the following medications used for MedicationAssisted Treatment (MAT)?
+Not familiar
+at all
+Methadone
+
+Buprenorphine
+Naltrexone
+(Vivitrol®)
+
+o
+o
+o
+
+Slightly
+familiar
+
+o
+o
+o
+
+Moderately
+familiar
+
+o
+o
+o
+
+Very familiar
+
+o
+o
+o
+
+Extremely
+familiar
+
+o
+o
+o
+
+How familiar are you with the administration of the following medications used for MedicationAssisted Treatment (MAT)?
+Not familiar
+at all
+Methadone
+
+Buprenorphine
+Naltrexone
+(Vivitrol®)
+
+o
+o
+o
+
+Slightly
+familiar
+
+o
+o
+o
+
+Moderately
+familiar
+
+o
+o
+o
+
+Very familiar
+
+o
+o
+o
+
+Extremely
+familiar
+
+o
+o
+o
+
+Page 6 of 36
+
+ 21
+
+How familiar are you with how each of the medications used for Medication-Assisted
+Treatment (MAT) work?
+Not familiar
+at all
+Methadone
+
+Buprenorphine
+Naltrexone
+(Vivitrol®)
+
+o
+o
+o
+
+Slightly
+familiar
+
+o
+o
+o
+
+Moderately
+familiar
+
+o
+o
+o
+
+Very familiar
+
+o
+o
+o
+
+Extremely
+familiar
+
+o
+o
+o
+
+Page Break
+
+Page 7 of 36
+
+ 22
+
+How much training have you received about each of the medications that may be used for
+clients who participate in Medication-Assisted Treatment (MAT) programs?
+None at all
+
+A little
+
+A moderate
+amount
+
+A lot
+
+A great deal
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Was the training you received offered by your agency or sought out on your own?
+
+o Provided by the agency
+o Sought out on my own
+o By outside consultants
+o Other ________________________________________________
+o Don't know
+Page Break
+
+Page 8 of 36
+
+ 23
+
+How much training have staff in your agency received about each of the medications that
+may be used for clients who engage in Medication-Assisted Treatment (MAT)?
+None at all
+
+A little
+
+A moderate
+amount
+
+A lot
+
+A great deal
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Were staff in your agency generally provided training by the agency, seek out training on their
+own, or by outside consultants?
+
+o Provided by the agency
+o Sought out on their own
+o By outside consultants
+o Other ________________________________________________
+o Don't know
+Page Break
+
+Page 9 of 36
+
+ 24
+
+How knowledgeable are you about where staff can refer an eligible client to receive any of
+the following medications used for Medication-Assisted Treatments (MAT)?
+Not
+knowledgeab
+le at all
+
+Slightly
+knowledgeab
+le
+
+Moderately
+knowledgeab
+le
+
+Very
+knowledgeab
+le
+
+Extremely
+knowledgeab
+le
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphi
+ne (e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Page Break
+
+Page 10 of 36
+
+ 25
+
+Does your agency allow individuals to use (or allow prescriptions for) the following
+medications approved for Medication-Assisted Treatment (MAT) while under probation
+supervision?
+Yes
+Methadone
+Buprenorphine (e.g.
+Suboxone®)
+Naltrexone (Vivitrol®)
+
+o
+o
+o
+
+No
+
+o
+o
+o
+
+Don't know
+
+o
+o
+o
+
+Page Break
+
+Page 11 of 36
+
+ 26
+
+How open are you to referring clients to any treatment programs or services that offer the
+following options for Medication-Assisted Treatment (MAT):
+Not open
+at all
+
+Slightly
+open
+
+Moderately
+open
+
+Very open
+
+Extremely
+open
+
+Don't
+know
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Page Break
+
+Page 12 of 36
+
+ 27
+
+How open is staff within your agency to referring clients to treatment programs or services
+that offer the following options for Medication-Assisted Treatment (MAT):
+Not open
+at all
+
+Slightly
+open
+
+Moderately
+open
+
+Very open
+
+Extremely
+open
+
+Don't
+know
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Page 13 of 36
+
+ 28
+
+What do you see as barriers for client access to medications for Medication-Assisted
+Treatment (MAT)? (Select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+
+Stigma
+Cost to client
+Waiting lists/Available slots
+Insurance that only partially covers cost
+No insurance
+Drug testing for probation compliance
+Concern about diversion of medications
+Limited knowledge of medications
+Rejection of medication by 12-step community
+Medication adherence
+Don't know
+
+Are clients on staff caseloads with a substance use disorder(s) required to participate in
+recovery support groups?
+
+o Yes
+o Only certain populations (please specify)
+________________________________________________
+
+o Don't know
+o No
+Page 14 of 36
+
+ 29
+
+Page 15 of 36
+
+30
+
+Are clients on staff caseloads with a substance use disorder(s) specifically required to attend
+12-step recovery support groups [e.g. Alcoholics Anonymous (AA), Narcotics Anonymous
+(NA)]?
+
+o Yes
+o Only certain populations (please specify)
+________________________________________________
+
+o Don't know
+o No
+Are clients with a substance use disorder(s) allowed to attend recovery support groups other
+than (or in lieu of) 12-step recovery support groups (e.g. SMART Recovery, Double Trouble
+in Recovery, other peer-support services) to meet conditions of supervision?
+
+o Yes
+o Only certain populations (please specify)
+________________________________________________
+
+o Don't know
+o No
+
+Page 16 of 36
+
+ 31
+
+What peer recovery support groups are probationers allowed to attend to meet conditions of
+supervision? (Select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+
+Narcotics Anonymous (NA)
+Alcoholics Anonymous (AA)
+Cocaine Anonymous (CA)
+Other 12-step
+SMART Recovery
+
+Double Trouble in Recovery (for Co-Occurring Mental Health and Substance Abuse
+disorders)
+
+▢
+▢
+▢
+
+Peer recovery coaches
+Don't know
+Other ________________________________________________
+
+Does your agency currently provide probation staff with naloxone, the opioid overdose
+reversal medication (e.g. Narcan, EVZIO)?
+
+o Yes
+o Don't know
+o No
+
+Page 17 of 36
+
+ 32
+
+Does your agency currently require probation staff to carry naloxone in the office and/or out
+in the field?
+
+o Yes, in the office
+o Yes, in the field
+o Yes, both the office and the field
+o Don't know
+o No
+Does your agency currently provide probation staff with naloxone (the opioid overdose
+reversal medication, e.g. Narcan) to distribute to clients and/or clients' family members/loved
+ones?
+
+o Yes
+o Don't know
+o No
+End of Block: Probation
+Start of Block: Jail
+
+Page 18 of 36
+
+ 33
+
+What is your current job title?
+
+o Sheriff
+o Deputy Sheriff
+o Sergeant
+o Lieutenant
+o Correctional officer or Detention deputy
+o Program coordinator
+o Jail physician or jail medical provider
+o Other (please specify) ________________________________________________
+Does your jail currently have protocol to respond to individuals experiencing withdrawal from
+opioids or other substances?
+
+o Yes
+o No
+o Don't know
+What is your jail's current withdrawal management protocol?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+Page 19 of 36
+
+ 34
+
+What is currently provided, if anything, to individuals going through withdrawal from opioids or
+other substances?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+Is medical detoxification offered within the jail for persons with opioid dependence and/or
+opioid use disorders?
+
+o Yes
+o No
+o Don't know
+
+Page 20 of 36
+
+ 35
+
+Which medications does the jail currently offer for medical detoxification? (select all that
+apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+
+Methadone
+Clonidine
+Buprenorphine
+Lofexidine
+Benzodiazepine (e.g. Clonazepam, trazodone, Zolpidem)
+Levo-alpha-acetyl-methadol (LAAM)
+Other ________________________________________________
+Don't know
+
+Is Medication-Assisted Treatment (MAT) offered within the jail for persons with opioid use
+disorders and/or opioid dependence?
+
+o Yes
+o Yes, but only for women who are pregnant
+o No
+o Don't know
+Page Break
+
+Page 21 of 36
+
+ 36
+
+Does the jail currently provide methadone as part of Medication-Assisted Treatment (MAT)?
+
+o Yes
+o Yes, but only to women who are pregnant
+o No
+o Don't know
+What is the method of administration for methadone within the jail? (select all that apply)
+
+▢
+▢
+▢
+▢
+
+Pill
+Liquid
+Wafer
+Don't know
+
+Is there a certified Opioid Treatment Program (OTP) within the jail?
+
+An OTP is a certified, accredited, and licensed program that provides methadone treatment.
+
+o Yes
+o No
+o Don't know
+
+Page 22 of 36
+
+ 37
+
+How is Medication-Assisted Treatment with methadone funded/paid for? (select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+
+Medicaid/Medicare
+Private insurance
+Out of pocket
+Pharmaceutical company
+Grant funds
+DHS/DASA
+Don't know
+Other ________________________________________________
+
+Are those detainees on methadone connected to an Opiate Treatment Program (OTP) in the
+community prior to or upon release?
+
+o Connected prior to release
+o Connected once released
+o Can continue to receive methadone at jail OTP
+o Not connected to a provider by agency staff/not connected to a provider
+o Don't know
+Page Break
+
+Page 23 of 36
+
+ 38
+
+Does the jail provide Medication-Assisted Treatment with buprenorphine (e.g. Suboxone®)?
+
+o Yes
+o Yes, but only to women who are pregnant
+o No
+o Don't know
+What is the method of administration for buprenorphine (e.g. Suboxone®)? (select all that
+apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+
+Pill
+Patch
+Buccal (film)
+Injection
+Implant
+Don't know
+
+Page 24 of 36
+
+ 39
+
+How is buprenorphine (e.g. Suboxone®) maintenance funded/paid for? (select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+
+Medicaid/Medicare
+Private insurance
+Out of pocket
+Pharmaceutical company
+Grant funds
+DHS/DASA
+Other ________________________________________________
+Don't know
+
+Are those detainees on buprenorphine (e.g. Suboxone®) connected to a buprenorphine
+provider in the community prior to or upon release?
+
+o Connected prior to release
+o Connected once released
+o Not connected to a provider by agency staff/not connected to a provider
+o Don't know
+Page Break
+
+Page 25 of 36
+
+ 40
+
+Are individuals entering the jail, who are already prescribed methadone or buprenorphine
+(e.g. Suboxone), allowed to continue with those medications during their time in jail?
+
+o Yes
+o No
+o It depends (please specify) ________________________________________________
+o Don't know
+Are detainees on methadone or buprenorphine (e.g. Suboxone®) required to taper off their
+medication at any point while in custody?
+
+o Yes
+o No
+o Don't know
+What reasons would require a current detainee to taper off of methadone or buprenorphine
+(e.g. Suboxone®)?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+Page 26 of 36
+
+ 41
+
+What is the protocol for pre-trial detainees that may potentially be sentenced to the Illinois
+Department of Corrections who come into the jail facility on methadone or buprenorphine (e.g.
+Suboxone®)?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+Are detainees in the jail allowed/able to begin methadone or buprenorphine (e.g.
+Suboxone®)?
+
+o Yes
+o No
+o Don't know
+What is the protocol for detainees in your agency who have been through full opioid withdrawal
+inducted onto methadone and/or buprenorphine (Suboxone®)?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+Page Break
+
+Page 27 of 36
+
+ 42
+
+Does your agency provide Medication-Assisted Treatment with naltrexone (Vivitrol®)?
+
+o Yes
+o Yes, but only to women who are pregnant
+o No
+o Don't know
+What is the method of administration for naltrexone (Vivitrol®)? (select all that apply)
+
+▢
+▢
+▢
+
+Pill
+Injection
+Don't know
+
+Who administers naltrexone (Vivitrol®) in your agency? (select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+
+Doctor
+Nurse
+Nurse Practitioner
+Correctional staff
+Other ________________________________________________
+Don't know
+
+Page 28 of 36
+
+ 43
+
+How is naltrexone (Vivitrol®) funded/paid for? (select all that apply)
+
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+▢
+
+Medicaid/Medicare
+Private insurance
+Out of pocket
+Pharmaceutical company
+Grant funds
+DHS/DASA
+Other ________________________________________________
+Don't know
+
+Are those detainees on naltrexone (Vivitrol®) connected to a provider in the community prior
+to or upon release?
+
+o Connected prior to release
+o Connected once released
+o Individual may come back to the jail to receive follow-up naltrexone
+o Not connected to a provider by the agency/not connected to a provider
+o Don't know
+Page Break
+
+Page 29 of 36
+
+ 44
+
+Is your agency considering expanding the availability of the following for Medication-Assisted
+Treatment (MAT):
+Not considering
+it at all
+
+Undecided on
+expanding
+
+May consider
+expanding
+
+Definitely
+considering
+expanding
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+In your agency, what is the likelihood of expanding Medication-Assisted Treatment (MAT) in
+the next two years?
+
+o Very unlikely
+o Unlikely
+o Undecided
+o Likely
+o Very likely
+
+Page 30 of 36
+
+ 45
+
+How open is your agency to offering the following for Medication-Assisted Treatment (MAT):
+Not open
+at all
+
+Slightly
+open
+
+Somewhat
+open
+
+Moderately
+open
+
+Extremely
+open
+
+Undecided
+
+Methadone
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Buprenorphine
+(e.g.
+Suboxone®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Naltrexone
+(Vivitrol®)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+What is the likelihood of introducing Medication-Assisted Treatment (MAT) in the next two
+years?
+
+o Very unlikely
+o Unlikely
+o Undecided
+o Likely
+o Very likely
+Is naloxone (e.g. Narcan®, EVZIO®) provided to individuals with opioid use disorders upon
+release from your agency's facility?
+
+o Yes
+o No
+o No, but planning to in the near future
+o Don't know
+Page 31 of 36
+
+ 46
+
+Is naloxone (e.g. Narcan®, EVZIO®) provided to the family members and/or friends of an
+individual with an opioid use disorder who is being released from your agency's facility?
+
+o Yes
+o No
+o No, but planning to in the near future
+o Don't know
+Are correctional officers and other jail staff provided access to naloxone?
+
+o Yes
+o No
+o Don't know
+Are correctional officers and other jail staff required to carry naloxone while working in the
+jail?
+
+o Yes
+o No
+o Don't know
+End of Block: Jail
+Start of Block: MAT Barriers
+
+Page 32 of 36
+
+ 47
+
+To what extent are barriers present in your agency's ability to currently offer MedicationAssisted Treatment OR potential ability to offer Medication-Assisted Treatment.
+
+o Not at all
+o Slightly
+o To a moderate extent
+o To a great extent
+o To a very great extent
+
+Page 33 of 36
+
+ 48
+
+Please answer the following questions regarding barriers to the current use OR potential use of
+Medication-Assisted Treatment (MAT) in your agency.
+
+Page 34 of 36
+
+ 49
+
+Strongly
+disagree
+
+Disagree
+
+Neither
+agree nor
+disagree
+
+Agree
+
+Strongly
+agree
+
+Clinical staff at
+your agency
+object to the use
+of MAT.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Administration in
+your agency
+object to the use
+of MAT.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Your agency
+favors
+medication/drugfree treatment
+over MAT.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Your agency has
+liability issues
+(e.g. potential
+medication
+diversion/misuse)
+about MAT.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Your agency has
+concerns about
+the cost of
+MAT/not enough
+funding.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+There is not
+enough guidance
+on how to begin
+a MAT program
+or sustain a MAT
+program.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+There is not
+enough
+institutional
+knowledge of
+medications and
+how they work.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+There is a lack of
+access to
+medical
+personnel with
+expertise in
+delivering MAT.
+
+o
+
+o
+
+o
+
+o
+
+o
+Page 35 of 36
+
+ 50
+
+Regulations
+prohibit use of
+MAT at the
+agency.
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Are there any additional barriers to Medication-Assisted Treatment within your agency?
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+How interested would you be in any/further training regarding Medication-Assisted Treatment
+(MAT) for justice-involved individuals with opioid use disorders?
+
+o Not interested at all
+o Slightly interested
+o Somewhat interested
+o Moderately interested
+o Extremely interested
+End of Block: MAT Barriers
+
+Page 36 of 36
+
+ 51
+
+Illinois Criminal Justice Information Authority
+IRB
+
+AMENDMENT APPLICATION: for Research Involving Human Subjects
+
+Any change to an approved research protocol, including the research plan, consent process and
+form, co-investigators, other research personnel, and/or methods of subject recruitment requires
+the submission of an Amendment. Please clarify the change(s) to be made and the rationale for
+the change(s). A cover letter or additional information may also be attached.
+Amendments to approved IRB applications must be submitted to the chair or co-chairs of the
+IRB and receive signed approval. Maintain for your records initial approvals and signatures.
+Amendments to protocols may not be initiated until IRB approval has been obtained.
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s) email: Jessica.Reichert@Illinois.gov
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation:
+Sharyn Adams, Research Analyst ICJIA
+Alysson Gatens, Research Analyst ICJIA
+Christine Head, Research Intern, ICJIA; Graduate student, UChicago Social Service Administration
+Title of proposal: Evaluation of Dual Diagnosis Program in Logan Correctional Center
+Date of initial approval:
+Initial approval
+type:
+
+December 7, 2017
+
+Full IRB:
+
+X
+
+Expedited:
+
+Exempt:
+
+AMENDMENT INFORMATION
+Amendment initiated by:
+
+Jessica Reichert
+1
+
+ 52
+
+What elements of the approved project are you proposing to change?
+Investigators or research staff (I)
+Project advisors or consultants (II)
+X
+
+Protocol (e.g., instruments, data collection, recruitment procedures, compensation) (III)
+Consent procedures (IV)
+Consent documents (V)
+Project sites or study participants (VI)
+Changes in confidentiality, privacy, or security (e.g., data dissemination, storage,
+security, personnel, access) (VII)
+Funding/sponsorship (VIII)
+Start or end date change or modification (IX)
+Other (please specify) (X):
+Risk/benefits assessment (XI)
+
+I. INVESTIGATOR CHANGE
+Adding or
+
+Changes
+
+X
+
+No changes
+
+changing co-principal investigator
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Adding or
+
+changing research staff
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+Certification course:
+
+No
+Date certified:
+
+Certification number (if applicable)
+2
+
+ 53
+
+Other change(s) to personnel or staff
+Explanation:
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+Have updated privacy certificates been filed?
+
+Yes
+
+II. PROJECT ADVISORS OR CONSULTANTS
+Adding or
+
+No (explain why):
+
+Changes
+
+X
+
+No changes
+
+changing project advisor or consultant
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+III. PROTOCOL CHANGE
+
+No
+
+X
+
+Changes
+
+No changes
+
+1.) Please explain in detail what changes you plan to make to the study design or protocol (such
+as changes to instruments used, data collection, recruitment procedures, or compensation).
+Proposed change #1: Data collected: In the initial design study, ICJIA researchers were
+examining Wells Center Treatment files including:
+• Names and dates of birth of program participants
+• Names and dates of birth of individuals on the program waiting list who did not receive
+the program
+Researchers would like to examine the following:
+• IDOC #
+• Date of admission/ date of interview for the program
+• Mandated for treatment
+• Date of discharge
+• Type of discharge
+• Race
+• Age at admission (not DOB)
+• Marital Status
+3
+
+ 54
+
+•
+•
+•
+•
+
+Primary & Secondary Drugs of choice, Methods used
+Age of first use
+# of treatment episodes
+Education level
+
+Proposed change #2: Method of data collection: Researchers would like to conduct the staff
+interviews (n=3) by phone rather than in person.
+
+2.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the amendment? Is the amendment the result of an adverse/negative
+event?
+Proposed change #1: Researchers learned from that the Wells Center files contained
+additional variables that were available to examine. Examining additional variables will offer a
+richer understanding of client characteristics that impact outcomes. This change is not due to
+any adverse/negative events.
+Proposed change #2: Researchers would like to conduct phone interviews in order to
+accommodate the schedules of the staff and researchers. In order to use time at the correctional
+center wisely, researchers will spend five days focusing on conducting in person interviews
+with clients, rather than staff. The same questions will be asked but only not in person. This
+change is not due to any adverse/negative events.
+
+3.) Does this amendment alter, in any way, the assessment of potential risks described in your
+approved protocol?
+Yes
+
+X
+
+No
+
+4.) If you answered yes to question 3, please explain in detail how this alters the assessment of
+potential risk and whether the benefits of the study outweigh the risks.
+
+4
+
+ 55
+
+IV. CONSENT PROCEDURES
+
+Changes
+
+X
+
+No changes
+
+5.) If you are changing your consent procedures, please explain these alterations in detail.
+
+6.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+5
+
+ 56
+
+V. CONSENT DOCUMENTS
+
+Changes
+
+X
+
+No changes
+
+7.) What types of changes are being made to the consent documents/forms?
+Adding or removing information from the consent form so that it is consistent with an
+already approved IRB statement (e.g., the cost section, or phone number change)
+Revising the consent form to reflect what was already approved in the protocol
+Defining a phrase(s) more clearly in lay language
+Incorporating in the consent form updated IRB-mandated language
+Minor editorial changes to the consent form which do not alter the meaning or procedures
+(e.g., spelling changes, revising a statement)
+Removal of questionnaires or instruments that required consent forms
+Other (please specify):
+8.) Please explain in detail how you will alter the consent documents.
+
+9.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+10.) Please submit the original and altered consent documents and highlight the changes. If filing
+the amendment electronically, are these documents appended to this form or contained in a
+separate document?
+6
+
+ 57
+
+Appended
+
+Attached form
+
+VI. PROJECT SITES OR STUDY PARTICIPANTS
+
+Changes
+
+X No changes
+
+11.) What types of changes are being made to the project sites or study participants?
+Changing who is included in the study sample
+Inclusion of new or additional special populations as subjects
+Changing sites or programs
+Changing the number of subjects
+Other (please specify):
+12.) Please provide a detailed explanation of how you will change who will be included in your
+study sample, if applicable.
+
+13.) Please provide the rationale for making these changes.
+
+14.) Will your study now include new or additional special populations? If yes, please indicate
+which ones:
+7
+
+ 58
+
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+Juveniles in correctional or detention facilities
+Probationers, parolees, or individuals under court or correctional supervision
+Developmentally disabled, intellectually disabled, or cognitively impaired
+Individuals held in residential treatment, locked facilities, or hospitalized
+Pregnant women, if focus of research
+Non-English speakers
+Wards of the state
+Other—please specify:
+15.) Please provide an explanation of why you are changing the sites or program of study, if
+applicable.
+
+16.) Please provide the rationale for making these changes.
+
+17.) Are you changing the number of subjects that will be included in your sample?
+
+8
+
+ 59
+
+Adding subjects to sample
+
+Reducing sample size
+
+18.) How many subjects will be added to or subtracted from your initial sample size and what
+will your final sample size be?
+Initial sample
+size
+
+Number
+added
+
+Number
+reduced
+
+Final sample size
+
+19.) Pease provide the justification for making this increase/decrease.
+
+20.) Please explain any other changes you are making to the project sites or study participants
+and provide the rationale or justification for these changes, if applicable.
+
+9
+
+ 60
+
+VII. CONFIDENTIALITY, PRIVACY, OR SECURITY
+
+Changes
+
+X No changes
+
+21.) What changes are being made that may affect the confidentiality or privacy of the subjects,
+or security of the subjects or data?
+
+22.) Please provide the rationale for making these changes.
+
+23.) Please indicate what steps will be taken to ensure the privacy, confidentiality, and security
+of the study subjects or data.
+
+10
+
+ 61
+
+VIII. FUNDING OR SPONSORSHIP
+
+Changes
+
+X
+
+No changes
+
+24.) How has the funding or sponsorship of this study changed?
+Funding added
+
+Funding
+decreased
+
+New funding
+source
+
+Funding
+restored
+
+25.) How will the changes in funding and/or sponsorship affect the protection of the human
+subjects in the study?
+
+IX. DATE CHANGE OR MODIFICATION
+
+Changes
+
+X
+
+No changes
+
+26.) What date changes are you making to the study?
+Start date
+
+End date
+
+Initial start date
+
+New start date
+
+Initial end date
+
+New end date
+
+27.) Please explain the necessity for these changes.
+
+11
+
+ 62
+
+X. OTHER CHANGES
+
+Changes
+
+X
+
+No changes
+
+28.) Please provide a detailed explanation of other changes being made to the IRB that are not
+covered in previous sections.
+
+29.) Please provide the rationale for the changes and provide a statement as to how they may
+affect the protection of human subjects in your study?
+
+12
+
+ 63
+
+XI. RISK/BENEFIT ASSESSMENT
+30.) Discuss how these proposed changes may affect the risks posed to human subjects.
+This research is minimal risk.
+The changes made by adding additional data variables collected or method of data collection
+(phone interview rather than in-person) will not affect risks posed to human subjects.
+
+31.) Discuss how these proposed changes may affect the potential benefits of the project to
+subjects and or society.
+Examining additional variables will offer a richer understanding of client characteristics that
+impact outcomes.
+Conducing phone interviews will help ensure that the input of staff is collected. This will utilize
+the limited resources of researchers and program staff wisely.
+Both proposed changes will help aid in the understanding of the program and can help offer
+suggestions to improve this and future programs.
+
+13
+
+ 64
+
+Illinois Criminal Justice Information Authority
+IRB
+
+Amendment Application
+
+SIGNATURE PAGE
+Evaluation of Dual Diagnosis Program in Logan Correctional Center
+Last presented to IRB on: December 7, 2017
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+14
+
+ 65
+
+Illinois Criminal Justice Information Authority
+IRB
+
+AMENDMENT APPLICATION: for Research Involving Human Subjects
+
+Any change to an approved research protocol, including the research plan, consent process and
+form, co-investigators, other research personnel, and/or methods of subject recruitment requires
+the submission of an Amendment. Please clarify the change(s) to be made and the rationale for
+the change(s). A cover letter or additional information may also be attached.
+Amendments to approved IRB applications must be submitted to the chair or co-chairs of the
+IRB and receive signed approval. Maintain for your records initial approvals and signatures.
+Amendments to protocols may not be initiated until IRB approval has been obtained.
+
+PROPOSAL INFORMATION
+Co-Principal investigator(s):
+
+Jessica Reichert, Senior Research Analyst
+Justin Escamilla, Research Analyst
+
+Co-Principal investigator(s) email:
+
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Jessica.Reichert@illinois.gov
+Justin.Escamilla@Illinois.gov
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation: Alysson Gatens, Research Analyst, ICJIA
+Dr. Maureen Hillhouse, Senior Research Scholar, and Michelle Straubel, Assistance Project Director
+(added on this amendment application)
+Start date of project:
+
+December 7, 2017
+
+End date of project:
+
+December 7, 2018
+
+Title of proposal: Evaluation of PERC (Pathway to Enterprise for Returning Citizens)
+Initial approval type:
+
+Full IRB: X
+
+Expedited:
+
+Exempt:
+
+1
+
+ 66
+
+AMENDMENT INFORMATION
+Amendment initiated by:
+
+PIs: Jessica Reichert and Justin Escamilla
+
+What elements of the approved project are you proposing to change?
+X
+
+Investigators or research staff (I)
+
+X
+
+Project advisors or consultants (II)
+
+X
+
+Protocol (e.g., instruments, data collection, recruitment procedures, compensation) (III)
+
+X
+
+Consent procedures (IV)
+Consent documents (V)
+Project sites or study participants (VI)
+Changes in confidentiality, privacy, or security (e.g., data dissemination, storage,
+security, personnel, access) (VII)
+Funding/sponsorship (VIII)
+Start or end date change or modification (IX)
+Other (please specify) (X):
+
+X
+
+Risk/benefits assessment (XI)
+
+I. INVESTIGATOR CHANGE
+Adding or
+
+X
+
+Changes
+
+No changes
+
+changing co-principal investigator
+
+Name:
+Title:
+Reason for change
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+X Adding or
+
+changing research staff
+
+Name:
+
+Alysson Gatens
+
+Title:
+
+Research Analyst, Illinois Criminal Justice Information Authority
+
+Reason for change
+
+Ms. Gatens will assist on the project
+2
+
+ 67
+
+IRB certified
+
+X
+
+Yes
+
+Certification course:
+
+No
+NIH
+
+Certification number (if applicable)
+
+Date certified: 10/16/17
+
+2533813
+
+Other change(s) to personnel or staff
+Explanation:
+IRB certified
+
+Yes
+
+No
+
+Certification course:
+
+Date certified:
+
+Certification number (if applicable)
+
+II. PROJECT ADVISORS OR CONSULTANTS
+X Adding or
+
+X
+
+Changes
+
+No changes
+
+changing project advisor or consultant
+
+Name:
+
+Maureen Hillhouse, PhD
+
+Title:
+
+Senior Research Scholar, Litmus Program, BetaGov, The Marion Institute of Urban
+Management, New York University
+
+Reason for change
+
+Dr. Hillhouse will provide research assistance
+
+IRB certified
+
+X
+
+Yes
+
+No
+
+Name:
+
+Michelle Straubel
+
+Title:
+
+Assistant Project Director, Litmus Program, BetaGov, The Marion Institute of Urban
+Management, New York University
+
+Reason for change
+
+Ms. Straubel will provide research guidance
+
+IRB certified
+
+X
+
+Yes
+
+No
+
+3
+
+ 68
+
+III. PROTOCOL CHANGE
+
+X
+
+Changes
+
+No changes
+
+1.) Please explain in detail what changes you plan to make to the study design or
+protocol (such as changes to instruments used, data collection, recruitment
+procedures, or compensation)
+Researchers are conducting an evaluation of the PERC program. PERC offers entrepreneurial
+training and coaching to formerly incarcerated/returning citizens and the opportunity to
+receive a business loan to start their own business. The initial IRB application was approved
+for researchers to administer an informed consent form to participate in the study. Only those
+who consented to participation in the research study will be in the program. Two components
+of the study will be added at this time to further understand and evaluate the program. They
+are detailed below and related forms are attached to this application.
+Component 1: Intake form (n=125)
+a.)
+
+Time involvement of subjects: 15 minutes
+
+b.)
+
+Location(s) the study will be conducted with subjects, including a description, if
+applicable: At one of the five training agency locations. All agencies in the PERC
+program are non-profit, community agencies in the City of Chicago. Training staff from
+the five training agencies will be asked to use this intake form. They will share the forms
+with researchers.
+
+c.)
+
+Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None
+
+d.)
+
+What subjects will experience or do: Subjects will be asked questions about themselves
+including demographics and information related to entrepreneurial experience and needs.
+The program focuses more narrowly on entrepreneurial training rather than broader
+general business training.
+
+Component 2: Pre- and post-test (n=125)
+a.)
+
+Time involvement of subjects: Total 60 minutes—30 minutes at the beginning of the
+training course and another 30 minutes at the end of the training course.
+
+b.)
+
+Location(s) the study will be conducted with subjects, including a description, if
+applicable: At one of the five training agency locations. All are non-profit, community
+agencies in the City of Chicago. Training staff from the five training agencies will be
+asked to use and administer the pre- and post-test. They will share the paper forms with
+researchers.
+
+c.)
+
+Amount of payment to subject, if any (consent form must note plan for payment if they
+4
+
+ 69
+
+withdraw voluntarily): None
+d.)
+
+What subjects will experience or do: Subjects will be given a consent form outlining the
+purpose of the pre- and post-test and their rights as a research participant. The test will ask
+questions to gauge entrepreneurial knowledge.
+
+2.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the amendment? Is the amendment the result of an
+adverse/negative event?
+This amendment was proposed to add study components of the evaluation to further
+understand and evaluate the PERC program. There have been no adverse or negative
+events with the research study to date. The rationale for each additional component are
+below.
+Component 1: Intake form
+Rationale: To collect base-line data on all program participants to know more detailed
+information on who participated in PERC.
+Component 2: Pre- and post-test
+Rationale: To measure program effectiveness by learning changes in entrepreneurial knowledge
+before and after the training course.
+
+3.) Does this amendment alter, in any way, the assessment of potential risks described in your
+approved protocol?
+Yes
+
+X
+
+No
+
+4.) If you answered yes to question 3, please explain in detail how this alters the assessment of potential
+risk and whether the benefits of the study outweigh the risks.
+
+5
+
+ 70
+
+IV. CONSENT PROCEDURES
+
+X
+
+Changes
+
+No changes
+
+5.) If you are changing your consent procedures, please explain these alterations in detail.
+The pre- and post-test will have a consent form (attached). Researchers are requesting to obtain
+verbal consent by reading a consent form which serves as a detailed script.
+a.) Who will obtain consent? ICJIA researchers will provide consent forms to the five PERC
+training agencies who will obtain consent.
+b.) How will consent be obtained? Research staff with instruct the PERC training agencies to
+read the consent form. Subjects will not be asked to sign the consent form. Completing the
+survey and providing it to the trainer will indicate consent.
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Twice total—once for pre-test and once for post-test.
+d.) How will you verify the subject fully understands the consent? The consent form is written in
+a 9th grade or lower reading level. The consent form will provide contact information for the
+principal investigator, the Authority’s attorney/IRB secretary to request further information
+about the studies, their rights as a research participant, and PERC.
+e.) How will your investigators be trained to use the informed consent process?
+The trainers will be provided instruction on reading the consent form. Researchers have
+periodic meetings with trainers to describe the research study procedures.
+6.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+6
+
+ 71
+
+The rational is to have consent for the pre- and post-test that is being added with this amendment.
+Since the pre- and post-test is a research tool, as well as programmatic tool, it will explain about
+the test and their rights as a research participant. This is not due to an adverse/negative event.
+
+V. CONSENT DOCUMENTS
+
+Changes
+
+X
+
+No changes
+
+Note: researchers are adding forms not changing exiting forms.
+7.) What types of changes are being made to the consent documents/forms?
+Adding or removing information from the consent form so that it is consistent with an
+already approved IRB statement (e.g., the cost section, or phone number change)
+Revising the consent form to reflect what was already approved in the protocol
+Defining a phrase(s) more clearly in lay language
+Incorporating in the consent form updated IRB-mandated language
+Minor editorial changes to the consent form which do not alter the meaning or procedures
+(e.g., spelling changes, revising a statement)
+Removal of questionnaires or instruments that required consent forms
+Other (please specify):
+8.) Please explain in detail how you will alter the consent documents.
+
+7
+
+ 72
+
+9.) Please explain in detail the rationale for the above change(s). What prompted the
+investigators to propose the change? Is this change the result of an adverse/negative event?
+
+10.) Please submit the original and altered consent documents and highlight the changes. If filing
+the amendment electronically, are these documents appended to this form or contained in a
+separate document?
+Appended
+
+Attached form
+
+VI. PROJECT SITES OR STUDY PARTICIPANTS
+
+Changes
+
+X No changes
+
+11.) What types of changes are being made to the project sites or study participants?
+Changing who is included in the study sample
+Inclusion of new or additional special populations as subjects
+Changing sites or programs
+Changing the number of subjects
+Other (please specify):
+
+8
+
+ 73
+
+12.) Please provide a detailed explanation of how you will change who will be included in your
+study sample, if applicable.
+
+13.) Please provide the rationale for making these changes.
+
+14.) Will your study now include new or additional special populations? If yes, please indicate
+which ones:
+Minors under age 18
+Adult prisoners or individuals in secure confinement
+Juveniles in correctional or detention facilities
+Probationers, parolees, or individuals under court or correctional supervision
+Developmentally disabled, intellectually disabled, or cognitively impaired
+Individuals held in residential treatment, locked facilities, or hospitalized
+Pregnant women, if focus of research
+Non-English speakers
+Wards of the state
+Other—please specify:
+15.) Please provide an explanation of why you are changing the sites or program of study, if
+
+9
+
+ 74
+
+applicable.
+
+16.) Please provide the rationale for making these changes.
+
+17.) Are you changing the number of subjects that will be included in your sample?
+Adding subjects to sample
+
+Reducing sample size
+
+18.) How many subjects will be added to or subtracted from your initial sample size and what
+will your final sample size be?
+Initial sample
+size
+
+Number
+added
+
+Number
+reduced
+
+Final sample size
+
+19.) Pease provide the justification for making this increase/decrease.
+
+10
+
+ 75
+
+20.) Please explain any other changes you are making to the project sites or study participants
+and provide the rationale or justification for these changes, if applicable.
+
+VII. CONFIDENTIALITY, PRIVACY, OR SECURITY
+
+Changes
+
+X No changes
+
+Note: researchers will maintain confidentiality and privacy consistent with the initial IRB
+application.
+21.) What changes are being made that may affect the confidentiality or privacy of the subjects,
+or security of the subjects or data?
+
+11
+
+ 76
+
+22.) Please provide the rationale for making these changes.
+
+23.) Please indicate what steps will be taken to ensure the privacy, confidentiality, and security
+of the study subjects or data.
+
+VIII. FUNDING OR SPONSORSHIP
+
+Changes
+
+X
+
+No changes
+
+24.) How has the funding or sponsorship of this study changed?
+Funding added
+
+Funding
+
+New funding
+
+Funding
+12
+
+ 77
+
+decreased
+
+source
+
+restored
+
+25.) How will the changes in funding and/or sponsorship affect the protection of the human
+subjects in the study?
+
+IX. DATE CHANGE OR MODIFICATION
+
+Changes
+
+X
+
+No changes
+
+X
+
+No changes
+
+26.) What date changes are you making to the study?
+Start date
+
+End date
+
+Initial start date
+
+New start date
+
+Initial end date
+
+New end date
+
+27.) Please explain the necessity for these changes.
+
+X. OTHER CHANGES
+
+Changes
+
+28.) Please provide a detailed explanation of other changes being made to the IRB that are not
+covered in previous sections.
+
+13
+
+ 78
+
+29.) Please provide the rationale for the changes and provide a statement as to how they may
+affect the protection of human subjects in your study?
+
+14
+
+ 79
+
+XI. RISK/BENEFIT ASSESSMENT
+30.) Discuss how these proposed changes may affect the risks posed to human subjects.
+There is minimal risk.
+Individual identifiers will be collected on the forms (intake and pre- and post-test) which are
+needed to link to other program and outcome data. Once the data have been linked, the data will
+be stripped of the identifiers. Only the unique study ID number will remain. Only the final, deidentified dataset will be used to analyze the data.
+The master list containing the personally identifying information and study ID will be
+maintained on secure, password protected servers and computers accessible only to the research
+staff. The final de-identified dataset will also be kept on secure, password protected servers and
+computers accessible only to the research staff separate from the master list.
+31.) Discuss how these proposed changes may affect the potential benefits of the project to
+subjects and or society.
+These changes will enhance the potential benefits to subjects and society. These additions make
+the evaluation more rigorous and informative. They will allow researchers to answer additional
+research questions to understand which training programs/curriculums affect outcomes.
+Researchers can offer elements associated with successful outcomes and help enhance current
+and future programming. The knowledge gained can help better serve clients of this and similar
+programs in the future.
+
+15
+
+ 80
+
+Illinois Criminal Justice Information Authority
+IRB
+
+Amendment Application
+
+SIGNATURE PAGE
+Evaluation of PERC (Pathway to Enterprise for Returning Citizens)
+Last Presented to IRB on: December 7, 2017
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+16
+
+ PATHWAY TO ENTERPRISE FOR RETURNING CITIZENS APPLICATION
+
+81
+
+Please allow 15 minutes to answer all questions fully – please do not to leave any blank!
+
+CONTACT INFORMATION
+
+First name
+
+Last name
+
+_____________________________________________________
+List aliases used in the past 10 years
+
+Current street address, Unit/Apartment number
+
+City
+
+State
+
+Zip Code
+
+Phone number
+
+Email address
+
+Emergency contact name
+
+Emergency contact phone number
+
+DEMOGRAPHIC INFORMATION
+1. Gender:
+Man ☐ Woman ☐ Transgender ☐ Other ☐
+
+2. Date of birth (dd/mm/yy)
+____ ____ / ____ ____ / ____ ____
+
+3. Are you a legal U.S. resident?
+
+☐ Yes
+
+☐ No
+
+4. Is English your primary language?
+
+☐ Yes ☐ No
+
+5. Is your ethnicity Hispanic, Latino/a, or Spanish?
+
+☐ Yes
+
+6. What best describes your race?
+☐ White
+☐ Black/African-American
+☐ American Indian/Alaskan Native
+
+☐ Asian
+☐ Native Hawaiian/Pacific Islander
+☐ Other:_____________________
+
+☐ No
+
+7. Which of these best describes your highest level of completed education?
+☐ Less than high school
+☐ Some high school
+☐ High school diploma or GED
+☐ Some college
+☐ Associates degree
+
+☐ Vocational school/apprenticeship
+☐ Bachelor’s degree
+☐ Graduate degree
+
+1
+
+ 82
+
+8. What is your current marital status?
+☐ Never married
+☐ Married
+☐ Separated
+
+☐ Divorced
+☐ Widowed
+☐ Other:__________________
+
+8. In total, how many people depend on you for their basic needs (e.g. housing, food, healthcare)?
+☐ 1 (Just me)
+☐2
+☐3
+9. Have you ever served in the U.S. military? Yes ☐
+
+☐4
+☐5
+☐ 6+
+No ☐
+
+10. Are you receiving government/public assistance (e.g. TANF, welfare, unemployment, etc.)?
+Yes ☐ No ☐
+11. Are you currently covered by medical health insurance? Yes ☐
+
+No ☐
+
+If yes, please specify the type of health insurance:
+☐ Under Affordable Care Act (ACA)/ "Obamacare"
+☐ Medicaid
+☐ Medicare (over age 65)
+☐ Private health insurance (typically employer-based)
+☐ Other (specify):____________
+12. Do you think you may need extra help during the training (due to a disability or other reason)?
+Yes ☐ No ☐
+BUSINESS INFORMATION
+12. Do you have a personal checking or savings
+account with a bank?
+13. Do you currently owe any money to a bank,
+a friend, a family member, or other lender?
+13. Have you ever worked as a manager or
+supervisor?
+14. Do you know your current credit score?
+15. Do you own a reliable, working car?
+16. Do you have access to a working computer?
+17. Do you have access to the Internet?
+
+Yes ☐
+
+No ☐
+
+Yes ☐
+
+No ☐
+
+Yes ☐
+
+No ☐
+
+Yes ☐
+Yes ☐
+Yes ☐
+Yes ☐
+
+No ☐
+No ☐
+No ☐
+No ☐
+
+2
+
+ 83
+
+Illinois Criminal Justice Information Authority
+Pathways to Enterprise for Returning Citizens (PERC) Assessment
+Consent Form
+You are being asked to take an assessment as part of the research study. The assessment will be
+administered before the PERC training course (often called a pre-test) and after the training
+course (often called a post-test).
+Researchers are required to provide a consent form such as this one to tell you about the
+research, explain that taking part is voluntary, describe the risks and benefits of participation, and
+help you make an informed decision. You should feel free to ask the researchers any questions
+you have.
+Principal Investigator:
+Agency and Funding:
+
+Jessica Reichert, Manager, Center for Justice Research and
+Evaluation
+Illinois Criminal Justice Information Authority, 300 W. Adams St.,
+Suite 200, Chicago, IL 60606 or (312) 793-8550.
+The research project was funded by a federal Justice Assistance
+Grant.
+
+Why am I being asked?
+As a participant of the Pathway to Enterprise for Returning Citizens (PERC) program, you are
+being asked to agree to take an assessment. The assessment will measure knowledge of
+entrepreneurial skills before and after the training course of. The questions will be multiple
+choice and open-ended and will focus on basic entrepreneurial skills that will be covered during
+the training course.
+How will the information be used?
+The information will be used by researchers to understand how well the program helped and
+informed program participants.
+Will anyone know that I am taking part in this study?
+The PERC training staff will know you completed the assessment. However, information about
+you or your responses will not be shared outside of the program or research team.
+What are the potential benefits?
+There are no direct benefits to you. You may also learn what areas you are personally most
+knowledgeable in. However, you can help the program and the trainers learn how well they
+trained you and other participants to improve this and future programs.
+What are the potential risks and discomforts?
+To the best of our knowledge, participating in this research study will put you at no more risk of
+harm than in everyday life.
+What about privacy and confidentiality?
+Your participation in the research will not be known to individuals other than the researchers
+outside the PERC trainers who gave you this sheet and the assessment.
+
+ 84
+
+The research team will keep your personal information confidential. We will do so by making
+sure your personal information is stored securely. Only the research team will have access to this
+information. Researchers will not report any data or findings in a manner that identifies you in
+any way.
+You will be asked to complete the assessment if you decide to participate in this study. We will
+ask that you include your name on it. Your name is needed so that we can link your assessment
+before and after you take the classes and to other program information. We need your name only
+for those purposes and will remove your name once linking is complete
+The information we collect about you and other participants will be used for a report on the
+helpfulness of the program. Researchers will publish the results from the study on our agency’s
+website. We may also share the results at meetings or other public forums. When the results of
+the research are published or talked about in conferences, no information will be included that
+reveals your identity. You may request a copy of the report if you like.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for participating?
+You will not be offered payment for taking the assessment.
+How long is this authorization valid?
+The information will be obtained for the entire time of the study.
+May I withdraw my consent to participate in this study or share my information with
+researchers at a future date?
+Taking the assessment is voluntary. You have the right, at any time, to withdraw from
+participating in this study. The study will not affect future services that you are otherwise entitled
+to receive from the state or your relationship with those agencies. This includes the Illinois
+Department of Corrections, PERC training agencies, or the Illinois Criminal Justice Information
+Authority.
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or,
+if you have questions, concerns or complaints about the research. If you have questions about
+PERC, contact your PERC trainer or Randy Kurtz at (312) 793-8550
+or Randy.Kurtz@Illinois.gov.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+
+ 85
+
+Entrepreneurship Assessment
+To the best of your ability, please read and answer the following questions about starting your own business.
+Some questions will ask you to write an answer and others will ask you to mark your answer with an “X” or
+circle. This isn’t a test that will affect you in any way and we don’t expect you to know everything asked. This
+just allows us to better understand what you may know at this point.
+1.
+
+First name:__________________________________ Last name:____________________________________
+
+2.
+
+Please select when you are taking this assessment (Check one.)
+ Before training starts (pre)
+ After training ends (post)
+
+3.
+
+Please briefly describe the business you want to start:
+_________________________________________________________________________________________
+
+4.
+
+Do you currently have a written business plan? (Check one.)
+
+ Yes
+ No
+3.
+
+What are three important ways a business plan helps to start a business? (Write in answers.)
+1. ___________________________________________________________________________
+
+Commented [EJ1]: + 1 point for each correct answer (3
+possible)
+
+2. ___________________________________________________________________________
+3. ___________________________________________________________________________
+4.
+
+Which of the following sections go into a complete business plan? (Check all that apply)
+
+
+
+
+
+
+
+5.
+
+Financial
+Executive Summary
+Sales Projections
+Marketing
+Bankruptcy details
+Product details
+
+True or False? A good business plan should tell lenders how they will get their money back. (Check one.)
+
+Commented [EJ2]: + 1 point for each correct answer, -1
+point for each incorrect answer (4 point total?)
+
+Commented [EJ3]: +1 point for true
+
+ True
+ False
+6.
+
+7.
+
+What does the abbreviation LLC stand for?
+__________________________________________________________________
+
+Commented [EJ4]: +1 point for completely correct
+answer
+
+Which of the following is not a type of business? (Circle one.)
+A. “S” Corp
+B. LLC
+C. “D” Corp
+D. “C” Corp
+E. I don’t know
+
+Answer: Limited Liability Company/Corporation
+Commented [EJ5]: +1 point for correct answer
+
+ 86
+
+8.
+
+How much money do you think it will cost to start your business?
+$_______________
+
+9.
+
+What are the four parts of a S.W.O.T. analysis? (Check all four.)
+
+
+
+
+
+
+
+
+
+
+Commented [EJ6]: Informational, but could be compared
+from pre to post.
+Can also be used to break up factual questions, which might
+be nice if they don’t know any of the answers so far.
+Commented [EJ7]: + 1 for each correct answer, -1 for
+each incorrect answer (4 possible)
+
+Strengths
+Workforce
+Timeline
+Opportunities
+Ownership
+Weaknesses
+Threats
+Strategy
+
+10.
+
+What is a business profit? (Circle one.)
+A. The money that comes in from customers that day.
+B. The money that is used to buy supplies.
+C. The money that is leftover after all expenses are paid.
+D. The money from wages.
+E. I don’t know
+
+Commented [EJ8]: +1 for correct answer
+
+11.
+
+What is a profit margin? (Circle one.)
+A. The amount by which revenue from sales exceeds costs.
+B. The amount which you pay to your suppliers.
+C. The total assets of your business.
+D. Your monthly budget allowance.
+E. I don’t know
+
+Commented [EJ9]: +1 for correct answer
+
+12.
+
+Which of the following would be the best personal credit score? (Circle one.)
+A. 300
+B. 430
+C. 510
+D. 720
+E. I don’t know
+
+Commented [EJ10]: +1 for correct answer
+
+13.
+
+Which of the following directly affects your credit score? (Check all that apply.)
+
+Commented [EJ11]: + 1 for each correct answer, -1 for
+each wrong answer (3 possible)
+
+Paying a loan back late
+Paying off a credit card
+Saving money at home in a safe
+Applying for a credit card
+14.
+
+True or False? My business credit history is always the same as my personal credit history. (Check one.)
+
+ True
+ False
+
+2
+
+Commented [EJ12]: +1 point for false
+
+ 87
+
+15.
+
+What is cash flow? (Circle one.)
+A. The amount of cash in your register.
+B. The total amount of assets your business can claim on your taxes.
+C. The amount of cash you pay your employees.
+D. The total amount of money being transferred into and out of a business.
+
+Commented [EJ13]: +1 point for correct answer
+
+E. I don’t know
+16.
+
+What is a microloan? (Circle one.)
+A. A large loan that must be paid back in full within 30 days.
+B. A small, short-term loan.
+C. An investment by an angel donor that does not need to be paid back.
+D. A small loan paid back over twenty years.
+E. I don’t know
+
+17.
+
+Which four of the following terms are important in marketing? These are also known as the “Four P’s” of
+marketing. (Check all four.)
+ Product
+ Performance
+ Profitability
+ Place
+ Progress
+ Price
+ Promotion
+ Planning
+
+18.
+
+Please list up to 6 specific ways a new business could promote their product or service. (e.g. radio
+advertisement). (Write in answers.)
+1. ____________________________
+
+Commented [EJ14]: +1 point for correct answer
+
+Commented [EJ15]: + 1 point for each correct answer, -1
+for each incorrect answer. (4 possible)
+
+Commented [EJ16]: +1 point for each correct answer (6
+possible, + 0.5 for radio advertisement)
+
+2. ____________________________
+3. ____________________________
+4. ____________________________
+5. ____________________________
+6. ____________________________
+19.
+
+Which of the following must you do when trying to understand the market for your product or service?
+(Check all that apply.)
+ Define the target market
+ Gather market data
+ Travel to different cities
+ Evaluate and Analyze market data
+ Meet with suppliers
+ Determine if the market is ready
+ Talk to lawyers about the market
+3
+
+Commented [EJ17]: +1 point for each correct answer, -1
+for each incorrect answer (4 possible)
+
+ 88
+
+20.
+
+Please name three types of people an entrepreneur would want to make a business pitch to. (Write in
+answers).
+
+Commented [EJ18]: +1 point for each correct answer. (3
+total)
+
+1. ________________________________
+2. ________________________________
+3. ________________________________
+21.
+
+Please briefly describe the purpose of insurance for your business (1-2 sentences). (Write your answer.r)
+___________________________________________________________________________________
+
+Commented [EJ19]: +1 point for complete and correct
+answer.
+
+___________________________________________________________________________________
+___________________________________________________________________________________
+
+22.
+
+23.
+
+Which one of the following things would an entrepreneur focus on to make their product or service more
+appealing than the competition? (Circle one.)
+A. Supplier contracts
+B. Employee wages
+C. Customer Experience
+D. Technology
+E. I don’t know
+Please list up to 6 potential sources of funding for someone who wants to start a business. (Write your
+answers.)
+1. ____________________
+
+Commented [EJ20]: +1 for correct answer
+
+Commented [EJ21]: +1 point for each correct answer (6
+possible)
+
+2. ____________________
+3. ____________________
+4. ____________________
+5. ____________________
+Commented [AJ22]: 48 total points available
+
+4
+
+ 89
+
+Thoughts about Starting your own Business
+1. For each of the following statements, please circle one response that best fits.
+Strongly
+Disagree
+
+Disagree
+
+Neutral
+
+Agree
+
+Strongly
+Agree
+
+a. I know how to start my own business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+b. I have a clear business idea
+
+1
+
+2
+
+3
+
+4
+
+5
+
+c. I know how to set my prices to make a profit
+
+1
+
+2
+
+3
+
+4
+
+5
+
+d. I know how to grow my business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+e. I know how to market to people
+
+1
+
+2
+
+3
+
+4
+
+5
+
+f. I know who my target customers are
+
+1
+
+2
+
+3
+
+4
+
+5
+
+g. I know how to talk to other people about my
+business plan
+
+1
+
+2
+
+3
+
+4
+
+5
+
+h. Anyone can start a business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+i. Starting a business is difficult
+
+1
+
+2
+
+3
+
+4
+
+5
+
+j. Running a business could be fun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+k. Entrepreneurs are lazy
+
+1
+
+2
+
+3
+
+4
+
+5
+
+l. People who want to start a business are inspiring
+
+1
+
+2
+
+3
+
+4
+
+5
+
+m. I want to start a business within the next 12
+months
+
+1
+
+2
+
+3
+
+4
+
+5
+
+n. I know how to manage a business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+o. I know where to get money to start a business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+p. I have a network of people who can help me start a
+business if I wanted to
+
+1
+
+2
+
+3
+
+4
+
+5
+
+q. I know how to improve my credit
+
+1
+
+2
+
+3
+
+4
+
+5
+
+5
+
+ 90
+
+2. Please choose how clear you are about each part of the business you want to start.
+Not Clear
+at All
+
+Somewhat
+Unclear
+
+Neutral
+
+Somewhat
+Clear
+
+Totally
+Clear
+
+Does not
+apply
+
+r. What my main product or service is
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+s. The location of my business
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+t. The hours my business will be available
+for customers
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+u. What equipment I will need to buy
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+v. How many employees I need
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+w. Who my suppliers will be
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+x. My business plan
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N/A
+
+Thank you for completing the assessment!
+
+6
+
+ 

@@ -1,0 +1,5988 @@
+Office of the County Auditor
+Cook County Auditor
+69 West Washington, Suite 2200  Chicago, Illinois 60602  (312) 603-1500
+
+January 18, 2019
+TONI PRECKWINKLE
+PRESIDENT
+Cook County Board
+of Commissioners
+BRANDON JOHNSON
+
+The Honorable Thomas J. Dart, Sheriff
+Cook County Sheriff’s Office
+50 W. Washington
+Chicago, Illinois 60602
+
+1st District
+DENNIS DEER
+2nd District
+BILL LOWRY
+3rd District
+STANLEY MOORE
+4th District
+DEBORAH SIMS
+5th District
+DONNA MILLER
+6th District
+ALMA E. ANAYA
+7th District
+LUIS ARROYO, JR.
+8th District
+
+Dear Sheriff Dart:
+The Office of the Cook County Auditor (OCA) has completed the requested audit of the
+Cook County Department of Correction’s (DOC) Commissary system for the period from
+December 1, 2016 through November 30, 2017. The audit was requested to comply
+with The Illinois Department of Corrections requirement of Commissary System Annual
+Audits as part of the County Jail Inspections to be performed by the Jail and Detention
+Standards Unit. Our audit was performed in accordance with the amended
+requirements of the Illinois County Jail Standards, Section 701. 250 - Commissary.
+The scope and objectives of our audit were designed to determine the DOC’s
+compliance with the amended requirements of the Illinois Jail Standards, Section
+701.250 - Commissary. Our audit scope also included providing the required accounting
+of the total purchases, sales and expenditures of the DOC’s commissary for the period
+December 1, 2016 through November 30, 2017 as well as the total commissions
+received from commissary sales and a detailed listing of how the commissions were
+used for the benefit of the DOC inmates.
+
+PETER N. SILVESTRI
+9th District
+BRIDGET GAINER
+
+Please refer to following audit report for the results of our audit. The Executive
+Summary of our report provides an overview of the audit and the conclusion(s) reached.
+
+10th District
+JOHN P. DALEY
+11th District
+BRIDGET DEGNEN
+12th District
+
+We express our appreciation for the assistance of the Department’s staff extended to
+Mr. Damon Howell during the course of our audit.
+Respectfully Submitted,
+
+LARRY SUFFREDIN
+13th District
+SCOTT R. BRITTON
+14th District
+KEVIN B. MORRISON
+15th District
+JEFFREY R. TOBOLSKI
+16th District
+SEAN M. MORRISON
+17th District
+
+William J. Carroll
+Deputy Auditor
+
+ COOK COUNTY GOVERNMENT
+OFFICE OF THE COUNTY AUDITOR
+
+Inmate Commissary Services 
+Internal Audit Report
+Report Date: January 2019
+
+Issued By:
+William J. Carroll, Deputy Auditor
+Audit Conducted By:
+Damon Howell, Field Auditor V
+
+ EXECUTIVE SUMMARY
+We have completed the audit of the Cook County Department of Correction’s (DOC) Commissary system
+for the period from December 1, 2016 through November 30, 2017. The audit was performed to comply
+with The Illinois Department of Corrections requirement of Commissary System Annual Audits as part of
+the County Jail Inspections to be performed by the Jail and Detention Standards Unit. Our audit was
+performed in accordance with the amended requirements of the Illinois County Jail Standards, Section 701.
+250 - Commissary.
+The scope and objectives of our audit were designed to determine the DOC’s compliance with the amended
+requirements of the Illinois Jail Standards, Section 701.250 - Commissary. The scope of the audit also
+included providing the required accounting of the total purchases, sales and expenditures of the DOC’s
+commissary for the period December 1, 2016 through November 30, 2017 as well as the total commissions
+received from commissary sales and a detailed listing of how the commissions were used for the benefit of
+the DOC inmates.
+Based on the results of our audit procedures it was concluded that the Commissary Services offered to the
+detainees at the CCDOC complies with each of the revised requirements of the Illinois Jail Standards,
+Section 701.250. Using the financial information provided by both the commissary vendor and the Cook
+County Sheriff’s staff, we provided an accounting of the total sales and expenditures of the DOC’s
+commissary for the period December 1, 2016 through November 30, 2017 as well as the total commissions
+received from commissary sales and a detailed listing of how the commissions were used for the benefit of
+the DOC inmates. Please refer to Exhibit A, B and C at the end of our audit report.
+
+BACKGROUND
+The Cook County Department of Corrections contracted with the Keefe Commissary Network, LLC to
+establish and maintain a commissary system offering a full range of services and products to detainees at
+the DOC. The agreement between the DOC and the Keefe Commissary Network, requires that scheduled
+weekly commissary services be available to all DOC detainees.
+Each detainee at the DOC has a trust account. The detainees can purchase items from the commissary using
+the available funds in their trust accounts. The items available for purchase from the commissary include
+clothing, stamped envelopes, toiletries, stationery and food items. The commissary sales at the DOC are
+grouped in to two categories; microwavable sales and general sales. Per the contract the commission rate
+for microwavable sales is 49.1% and the commission rate for the general sales is 43.5%. The commissions
+from both types of sales are paid monthly and deposited into the Inmate Welfare Fund.
+The Inmate Welfare Fund is administered by the Sheriff of Cook County for the direct benefit, welfare or
+education of the individual and general inmate population and to enhance inmate activities and programs.
+The funds in the Inmate Welfare Fund are to be used at the discretion of the Executive Director of the DOC
+for the direct benefit of persons who are inmates in the Cook County Department of Corrections.
+
+ AUDIT SCOPE AND OBJECTIVE
+The objective of our audit was to determine the DOC’s compliance with the amended requirements of the
+Illinois Jail Standards, Section 701.250 – Commissary. Our audit procedures were designed to obtain,
+examine and test sufficient supporting documentation to reach a conclusion on the DOC’s compliance with
+each of the amended requirements of the Illinois Jail Standards, Section 701.250. The scope of our audit
+was for the period from December 1, 2016 through November 30, 2017. The requirements we evaluated
+for compliance were:
+•
+•
+•
+•
+•
+•
+
+The establishment and maintenance of a commissary system to provide detainees with items or
+access to services approved by the Sheriff.
+No member of the jail staff gained personal profit, directly or indirectly, as a result of the
+commissary system.
+Prices charged detainees shall not exceed those for the same articles if sold in local community
+stores nor shall the prices charged for postal supplies exceed those for the same articles sold at
+local post offices.
+Commissary access shall be provided on a regular basis and not less than once weekly.
+Net profits from the commissary system shall be used for education, recreation or other purposes
+within the jail for the benefit of detainees, as deemed appropriate by the Sheriff. Profits may be
+used for record keeping expenses of the commissary.
+Accurate accounting for all purchases, sales and expenditures of the commissary system, including
+phone services and, if provided, email access, is maintained.
+
+Additionally, our audit scope will include providing an accounting of the total purchases, sales and
+expenditures of the DOC’s commissary for the period December 1, 2016 through November 30, 2017 as
+well as the total commissions received from commissary sales and a detailed listing of how the commissions
+were used for the benefit of the DOC inmates.
+
+AUDIT RESULTS
+In order to reach a conclusion on our objectives, we performed our audit procedures which were designed
+to obtain, examine and test sufficient supporting documentation to reach a conclusion on the DOC’s
+compliance with each of the amended requirements of the Illinois Jail Standards, Section 701.250. Based
+on our audit work we have reached the following conclusions:
+•
+•
+
+•
+
+The DOC along with the contracted services of Keefe Commissary Network, LLC have established
+and maintain a commissary system offering a full range of services and products to the detainees
+at the DOC.
+It appears that no personal gain via the operation of the commissary system has been received
+either directly or indirectly by any personnel including jail staff or other key members. This was
+concluded based our review of the current service agreement, the current commissary practices,
+the expenditures and approval procedures as well as discussions with Sheriff personnel and the
+management of the commissary vendor.
+Considering the fluctuations in the size of the item and the brand name compared, our review of
+price comparisons performed by the commissary vendor as well as our own sample of price
+comparisons indicated the majority of the items sold in the commissary system are sold at a price
+lower than a compatible item sold in a local store. While our review did indicate examples where
+the items sold in the commissary system were priced slightly higher than a compatible item sold in
+a local store our overall conclusion is that the prices charged the inmates at the DOC are consistent
+with the prices charged at local stores in Cook County.
+
+ AUDIT RESULTS - CONTINUED
+•
+•
+
+•
+
+•
+
+Our review of the prices charges for the postal supplies offered through the commissary system at
+the DOC indicated that the prices charged did not exceed the price of the same article/similar item
+sold at the local post office.
+Commissary services are provided on a weekly basis to the detainees at the DOC. Per the
+agreement between the DOC and the Keefe Commissary Network, it is required that scheduled
+weekly commissary services be available to all DOC detainees. Based on our review of weekly
+sales reports it appears that commissary is offered to the detainees at the DOC on a weekly basis.
+Commissions from the commissary sales are deposited into the Inmate Welfare Fund maintained
+at the DOC. The DOC has established and issued a Policy and Procedure for the Administration
+of the Inmate Welfare Fund directive that clearly outlines how the fund is to be administered and
+what the funds are to be used for. Our review of the expenditures from the Inmate Welfare Fund
+indicated that the commissions received were appropriately used for education, recreation or
+other prior authorized purposes meant to benefit the detainees.
+Daily and monthly commissary sales reports are maintained and produced by the commissary
+vendor for each sale type, general or microwavable. The reports clearly breakout the amount of
+phone card sales as well as the commission amounts by sales type. Based on our review and
+testing of the sales reports, we concluded that the reports appeared accurate and a reliable source
+of information regarding both the commissary and phone card sales and commissions due to the
+Inmate Welfare Fund.
+
+Based on the results of our audit procedures it was concluded that the Commissary Services offered to the
+detainees at the CCDOC complies with each of the revised requirements of the Illinois Jail Standards,
+Section 701.250.
+Using the financial information provided by both the commissary vendor and the Cook County Sheriff’s
+staff, we provided an accounting of the total sales and expenditures of the DOC’s commissary for the period
+December 1, 2016 through November 30, 2017 as well as the total commissions received from commissary
+sales and a detailed listing of how the commissions were used for the benefit of the DOC inmates. Please
+refer to the following exhibits at the end of our report.
+
+Exhibit A - Commissary Sales and Commission Summary for the period December 1, 2016
+through November 30, 2017.
+
+Exhibit B - Summary of Expenses by Category - Inmate Welfare Fund
+Exhibit C - Detailed Summary of Expenses - Inmate Welfare Fund
+
+ Exhibit A
+
+Cook County Department of Corrections
+Commissary Sales and Commissions Summary
+December 1, 2016 - November 30, 2017
+
+Commissary Sales
+General Sales
+Microwavable Sales
+Total Commissary Sales
+
+5,958,466.93
+3,665,259.36
+9,623,726.29
+
+Commissary Expenditures
+Vendor Commissions
+Phone Card Sales
+Sales Tax
+Total Commissary Expenditures
+Commissions/Profits Due Inmate Welfare Fund
+
+4,422,703.16
+1,389,470.00
+265,829.34
+6,078,002.50
+3,545,723.79
+
+ Exhibit B
+Cook County Department of Corrections
+Summary of Expenses by Category - Inmate Welfare Fund
+December 1, 2016 - November 30, 2017
+
+Account Description
+
+Total
+
+Armored Car Charge
+
+13,481.02
+
+Audio/Video Equipment/Supplies
+
+32,761.60
+
+Bank Check / Supplies
+
+5,979.46
+
+Bank Service Charge
+
+36,930.50
+
+Barber/Beauty Equip/Supply
+
+20,178.60
+
+Cable Expense
+
+43,770.08
+
+Clothing & Toiletries
+
+2,125.80
+
+Educational
+
+8,800.58
+
+Eyeglasses
+
+21,113.78
+
+Garden/Greenhouse Project
+
+480.07
+
+IL Dept. Rev-Farmers Mkt Tax
+
+102.06
+
+Indigent Carfare/Postage
+
+126,000.00
+
+Inmate Payroll
+
+347,894.00
+
+Lawnmowers & Equipment
+Library Books / Materials / Supplies
+Miscellaneous Expense
+Other Equipment / Supplies
+Pizza Expense
+
+4,760.42
+89,407.80
+3.00
+68,352.51
+714.95
+
+Postage
+
+20,522.50
+
+Recreation Equipment / Games
+
+37,609.82
+
+Special Meals / Snacks
+Special Projects
+
+2,935.03
+143,172.49
+
+Total Inmate Welfare Fund Expenditures - FY17
+
+1,027,096.07
+
+FY17 Commissions received but not expended
+
+2,518,627.72
+
+Commissions/Profits Inmate Welfare Fund
+
+3,545,723.79
+
+Note:
+Revenue for the Inmate Welfare Fund is derived from several sources including net profits (commissions) from the
+operations of the DOC Jail Commissary. Expenses incurred by the fund are paid from the total revenue received by the
+fund including the net profits (commissions) from the operation of the DOC jail commissary.
+
+ Exhibit C
+INMATE WELFARE FUND
+Detailed Expenses
+For the Period from Dec 1, 2016 to Nov 30, 2017
+
+Account
+5009
+
+Account Description
+PIZZA EXPENSE
+
+Date
+11/27/17
+
+Reference
+106087
+
+Jrnl
+
+Trans Description
+
+CDJ
+
+ECOLAB EQUIPMENT CARE CHARGES FOR DIAGNOSIS
+AND REPAIR OF RECIPE FOR
+CHANGE PROGRAM MIXER
+
+5009
+Total
+
+Amount
+714.95
+
+714.95
+LSE ENTERPRISES - BARBER
+BEAUTY EQUIPMENT AND
+MTCE
+PK INTERNATIONAL BARBER BEAUTY SUPPILES
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+1/9/17
+
+105330
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+2/7/17
+
+105378
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+3/13/17
+
+105498
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+4/26/17
+
+105584
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+6/5/17
+
+105677
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+6/9/17
+
+105713
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+6/29/17
+
+105750
+
+CDJ
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+9/8/17
+
+105865
+
+CDJ
+
+PK INTERNATIONAL, INC BARBER/BEAUTY SUPPLIES
+
+1,051.79
+
+5020
+
+BARBER/BEAUTY
+EQUIP/SUPPLY
+
+10/13/17
+
+105985
+
+CDJ
+
+LSE INTERPRISES - BARBER
+BEAUTY SUPPLIES
+
+5,013.00
+
+5020
+Total
+
+LSE ENTERPRISES BARBER/BEUTY EQUIPMENT
+LSE ENTERPRISES BARBER/BEAUTY SUPPLIES
+AND REPAIRS
+PK INTERNATIONAL BARBER/BEAUTY SUPPLIES
+LARRY OWENS BARBER/BEAUTY CHAIR
+REPAIRS
+LSE ENTERPRISES - BARBER
+CLIPPER REPAIRS
+
+834.45
+2,495.00
+2,095.00
+2,854.36
+365.00
+2,396.00
+
+20,178.60
+USA TODAY - VEWSPAPER
+FOR DETAINEES
+USA TODAY - NEWSPAPER
+FOR DETAINEES
+LANGUAGE LINE SERVICES,
+INC - VIDEO/SIGN LANGUAGE
+INTERPRETATION
+USA TODAY - NEWSPAPERS
+FOR DETAINEES
+
+5033
+
+EDUCATIONAL
+
+12/30/16
+
+105290
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+1/13/17
+
+105339
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+1/13/17
+
+105346
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+2/7/17
+
+105380
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+3/13/17
+
+105507
+
+CDJ
+
+USA TODAY
+
+CDJ
+
+CONSTRUCTION SAFETY
+COUNCIL - OSHA
+CONSTRUCTION AND LEAD
+HAZARD AWARENESS
+CLASSES
+
+5033
+
+3,074.00
+
+EDUCATIONAL
+
+3/27/17
+
+105537
+
+516.00
+516.00
+1,222.99
+593.40
+516.00
+1,920.00
+
+ 5033
+
+EDUCATIONAL
+
+4/12/17
+
+105570
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+5/11/17
+
+105633
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+6/9/17
+
+105710
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+6/29/17
+
+105751
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+8/14/17
+
+105809
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+9/8/17
+
+105862
+
+CDJ
+
+5033
+
+EDUCATIONAL
+
+10/13/17
+
+105983
+
+CDJ
+
+5033
+Total
+5040
+5040
+5040
+5040
+5040
+
+5040
+
+USA TODAY - NEWPAPERS
+FOR DETAINEES
+USA TODAY - NEWSPAPER
+FOR DETAINEES
+USA TODAY - NEWSPAPERS
+FOR DETAINEES
+USA TIDAY - NEWSPAPER
+FOR DETAINEES
+USA TODAY - NEWSPAPERS
+FOR DETAINEES
+MARLENA JENTZ REIMBURSEMENT(SUPPLIES)
+EDUCATION PROGRAM
+USA TODAY - NEWSPAPERS
+FOR DETAINEES
+
+516.00
+645.00
+516.00
+490.20
+619.20
+239.59
+490.20
+8,800.58
+
+OTHER
+EQUIPMENT/SUPPLIES
+OTHER
+EQUIPMENT/SUPPLIES
+OTHER
+EQUIPMENT/SUPPLIES
+OTHER
+EQUIPMENT/SUPPLIES
+OTHER
+EQUIPMENT/SUPPLIES
+OTHER
+EQUIPMENT/SUPPLIES
+
+2/28/17
+
+105448
+
+CDJ
+
+8/14/17
+
+105812
+
+CDJ
+
+8/14/17
+
+105813
+
+CDJ
+
+9/8/17
+
+105863
+
+CDJ
+
+10/24/17
+
+105991
+
+CDJ
+
+11/8/17
+
+106031
+
+CDJ
+
+5040
+Total
+
+TRIBUNE PRODUCTS CO DISH DRYING MATS
+TRIBUNE PRODUCTS, CO. TAMPER RESISTANT BAGS
+TRIBUNE PRODUCTS, CO. 250 MICROWAVE OVENS
+HARRIS COMMUNICATIONS 3 CAPTIONED TELEPHONES
+MARRA FORNI - PIZZA OVEN
+REPAIRS
+DUE TO INMATE TRUST CHRISTOPHER COLEMAN
+20160810079 -REIMB OF
+PROPERTY (BBQ SAUCE AND
+SEASONED SALT)
+
+938.00
+493.50
+64,997.50
+225.00
+1,692.97
+
+5.54
+
+68,352.51
+
+5043
+
+CLOTHING & TOILETRIES
+
+2/16/17
+
+105430
+
+CDJ
+
+5043
+
+CLOTHING & TOILETRIES
+
+6/5/17
+
+105678
+
+CDJ
+
+5043
+
+CLOTHING & TOILETRIES
+
+11/8/17
+
+106004
+
+CDJ
+
+5043
+Total
+
+BOB BARKER COMPANY INC.
+- ORANGE KNIT SKULL CAPS
+ANCHORTEX CORPORATION
+- SHOWER SANDALS FOR
+DETAINEES
+BOB BARKER, CO INC - TAN
+SLIP ON SANDALS
+
+384.48
+950.40
+790.92
+2,125.80
+
+5045
+
+INDIGENT
+CARFARE/POSTAGE
+
+12/30/16
+
+105322
+
+CDJ
+
+5045
+
+INDIGENT
+CARFARE/POSTAGE
+
+4/12/17
+
+105541
+
+CDJ
+
+5045
+
+INDIGENT
+CARFARE/POSTAGE
+
+7/17/17
+
+105794
+
+CDJ
+
+5045
+
+INDIGENT
+CARFARE/POSTAGE
+
+9/28/17
+
+105879
+
+CDJ
+
+CHICAGO TRANSIT
+AUTHORITY - 10000 VENTRA
+FARE CARDS @ $3.00 EA
+CHICAGO TRANSIT
+AUTHORITY - VENTRA CARD10000 @3.00EA
+CHICAGO TRANSIT
+AUTHORITY - 10000
+VERNTRA CARDS
+CHICAGO TRANSIT
+AUTHORITY - 12000 VENTRA
+CARDS @ $3 EACH
+
+5045
+Total
+
+30,000.00
+30,000.00
+30,000.00
+36,000.00
+126,000.00
+
+5047
+
+INMATE PAYROLL
+
+12/1/16
+
+IP
+
+GENJ
+
+PR53
+
+2,152.00
+
+5047
+
+INMATE PAYROLL
+
+12/2/16
+
+IP
+
+GENJ
+
+PR53
+
+4,409.00
+
+5047
+
+INMATE PAYROLL
+
+12/5/16
+
+IP
+
+GENJ
+
+PR53
+
+2,907.00
+
+ 5047
+
+INMATE PAYROLL
+
+12/7/16
+
+IP
+
+GENJ
+
+PR 1
+
+4,159.00
+
+5047
+
+INMATE PAYROLL
+
+12/8/16
+
+IP
+
+GENJ
+
+PR01
+
+1,021.00
+
+5047
+
+INMATE PAYROLL
+
+12/9/16
+
+IP
+
+GENJ
+
+PR01
+
+566.00
+
+5047
+
+INMATE PAYROLL
+
+12/12/16
+
+IP
+
+GENJ
+
+PR01
+
+759.00
+
+5047
+
+INMATE PAYROLL
+
+12/14/16
+
+IP
+
+GENJ
+
+PR02
+
+1,815.00
+
+5047
+
+INMATE PAYROLL
+
+12/16/16
+
+IP
+
+GENJ
+
+PR02
+
+1,195.00
+
+5047
+
+INMATE PAYROLL
+
+12/19/16
+
+IP
+
+GENJ
+
+PR02
+
+2,466.00
+
+5047
+
+INMATE PAYROLL
+
+12/20/16
+
+IP
+
+GENJ
+
+PR02
+
+935.00
+
+5047
+
+INMATE PAYROLL
+
+12/21/16
+
+IP
+
+GENJ
+
+PR03
+
+2,851.00
+
+5047
+
+INMATE PAYROLL
+
+12/22/16
+
+IP
+
+GENJ
+
+PR03
+
+3,043.00
+
+5047
+
+INMATE PAYROLL
+
+12/27/16
+
+IP
+
+GENJ
+
+PR03
+
+622.00
+
+5047
+
+INMATE PAYROLL
+
+12/28/16
+
+IP
+
+GENJ
+
+PR4
+
+1,993.00
+
+5047
+
+INMATE PAYROLL
+
+12/29/16
+
+IP
+
+GENJ
+
+PR4
+
+3,038.00
+
+5047
+
+INMATE PAYROLL
+
+1/3/17
+
+IP
+
+GENJ
+
+PR04
+
+830.00
+
+5047
+
+INMATE PAYROLL
+
+1/4/17
+
+IP
+
+GENJ
+
+PR05
+
+1,722.00
+
+5047
+
+INMATE PAYROLL
+
+1/5/17
+
+IP
+
+GENJ
+
+PR05
+
+2,617.00
+
+5047
+
+INMATE PAYROLL
+
+1/6/17
+
+IP
+
+GENJ
+
+PR05
+
+853.00
+
+5047
+
+INMATE PAYROLL
+
+1/9/17
+
+IP
+
+GENJ
+
+PR05
+
+1,446.00
+
+5047
+
+INMATE PAYROLL
+
+1/10/17
+
+IP
+
+GENJ
+
+PR05
+
+856.00
+
+5047
+
+INMATE PAYROLL
+
+1/11/17
+
+IP
+
+GENJ
+
+PR06
+
+3,003.00
+
+5047
+
+INMATE PAYROLL
+
+1/12/17
+
+IP
+
+GENJ
+
+PR06
+
+1,737.00
+
+5047
+
+INMATE PAYROLL
+
+1/19/17
+
+IP
+
+GENJ
+
+PR07
+
+2,492.00
+
+5047
+
+INMATE PAYROLL
+
+1/20/17
+
+IP
+
+GENJ
+
+PR07
+
+3,596.00
+
+5047
+
+INMATE PAYROLL
+
+1/24/17
+
+IP
+
+GENJ
+
+PR07
+
+1,746.00
+
+5047
+
+INMATE PAYROLL
+
+1/25/17
+
+IP
+
+GENJ
+
+PR08
+
+1,379.00
+
+5047
+
+INMATE PAYROLL
+
+1/26/17
+
+IP
+
+GENJ
+
+PR08
+
+1,988.00
+
+5047
+
+INMATE PAYROLL
+
+1/27/17
+
+IP
+
+GENJ
+
+PR08
+
+2,398.00
+
+5047
+
+INMATE PAYROLL
+
+1/30/17
+
+IP
+
+GENJ
+
+PR08
+
+761.00
+
+5047
+
+INMATE PAYROLL
+
+2/1/17
+
+IP
+
+GENJ
+
+PR09
+
+1,762.00
+
+5047
+
+INMATE PAYROLL
+
+2/2/17
+
+IP
+
+GENJ
+
+PR09
+
+2,573.00
+
+5047
+
+INMATE PAYROLL
+
+2/3/17
+
+IP
+
+GENJ
+
+PR09
+
+1,188.00
+
+5047
+
+INMATE PAYROLL
+
+2/6/17
+
+IP
+
+GENJ
+
+PR09
+
+996.00
+
+5047
+
+INMATE PAYROLL
+
+2/8/17
+
+IP
+
+GENJ
+
+PR10
+
+1,556.00
+
+5047
+
+INMATE PAYROLL
+
+2/9/17
+
+IP
+
+GENJ
+
+PR10
+
+2,745.00
+
+5047
+
+INMATE PAYROLL
+
+2/10/17
+
+IP
+
+GENJ
+
+PR10
+
+719.00
+
+5047
+
+INMATE PAYROLL
+
+2/14/17
+
+IP
+
+GENJ
+
+PR10
+
+789.00
+
+5047
+
+INMATE PAYROLL
+
+2/15/17
+
+IP
+
+GENJ
+
+PR11
+
+2,543.00
+
+5047
+
+INMATE PAYROLL
+
+2/16/17
+
+IP
+
+GENJ
+
+PR11
+
+1,911.00
+
+5047
+
+INMATE PAYROLL
+
+2/17/17
+
+IP
+
+GENJ
+
+PR11
+
+387.00
+
+5047
+
+INMATE PAYROLL
+
+2/21/17
+
+IP
+
+GENJ
+
+PR11
+
+515.00
+
+5047
+
+INMATE PAYROLL
+
+2/22/17
+
+IP
+
+GENJ
+
+PR12
+
+1,643.00
+
+5047
+
+INMATE PAYROLL
+
+2/23/17
+
+IP
+
+GENJ
+
+PR12
+
+1,969.00
+
+5047
+
+INMATE PAYROLL
+
+2/24/17
+
+IP
+
+GENJ
+
+PR12
+
+1,173.00
+
+ 5047
+
+INMATE PAYROLL
+
+2/27/17
+
+IP
+
+GENJ
+
+PR12
+
+609.00
+
+5047
+
+INMATE PAYROLL
+
+2/28/17
+
+IP
+
+GENJ
+
+PR12
+
+1,117.00
+
+5047
+
+INMATE PAYROLL
+
+3/2/17
+
+IP
+
+GENJ
+
+PR13
+
+2,327.00
+
+5047
+
+INMATE PAYROLL
+
+3/3/17
+
+IP
+
+GENJ
+
+PR13
+
+2,834.00
+
+5047
+
+INMATE PAYROLL
+
+3/7/17
+
+IP
+
+GENJ
+
+PR13
+
+723.00
+
+5047
+
+INMATE PAYROLL
+
+3/8/17
+
+IP
+
+GENJ
+
+PR14
+
+1,409.00
+
+5047
+
+INMATE PAYROLL
+
+3/9/17
+
+IP
+
+GENJ
+
+PR14
+
+2,152.00
+
+5047
+
+INMATE PAYROLL
+
+3/10/17
+
+IP
+
+GENJ
+
+PR14
+
+956.00
+
+5047
+
+INMATE PAYROLL
+
+3/13/17
+
+IP
+
+GENJ
+
+PR14
+
+649.00
+
+5047
+
+INMATE PAYROLL
+
+3/15/17
+
+IP
+
+GENJ
+
+PR15
+
+2,345.00
+
+5047
+
+INMATE PAYROLL
+
+3/16/17
+
+IP
+
+GENJ
+
+PR15
+
+2,048.00
+
+5047
+
+INMATE PAYROLL
+
+3/17/17
+
+IP
+
+GENJ
+
+PR15
+
+1,074.00
+
+5047
+
+INMATE PAYROLL
+
+3/21/17
+
+IP
+
+GENJ
+
+PR15
+
+1,903.00
+
+5047
+
+INMATE PAYROLL
+
+3/22/17
+
+IP
+
+GENJ
+
+PR16
+
+1,640.00
+
+5047
+
+INMATE PAYROLL
+
+3/23/17
+
+IP
+
+GENJ
+
+PR16
+
+2,161.00
+
+5047
+
+INMATE PAYROLL
+
+3/24/17
+
+IP
+
+GENJ
+
+PR16
+
+819.00
+
+5047
+
+INMATE PAYROLL
+
+3/27/17
+
+IP
+
+GENJ
+
+PR16
+
+764.00
+
+5047
+
+INMATE PAYROLL
+
+3/28/17
+
+IP
+
+GENJ
+
+PR16
+
+153.00
+
+5047
+
+INMATE PAYROLL
+
+3/29/17
+
+IP
+
+GENJ
+
+PR17
+
+1,870.00
+
+5047
+
+INMATE PAYROLL
+
+3/30/17
+
+IP
+
+GENJ
+
+PR17
+
+2,274.00
+
+5047
+
+INMATE PAYROLL
+
+3/31/17
+
+IP
+
+GENJ
+
+PR17
+
+2,247.00
+
+5047
+
+INMATE PAYROLL
+
+4/3/17
+
+IP
+
+GENJ
+
+PR17
+
+369.00
+
+5047
+
+INMATE PAYROLL
+
+4/6/17
+
+IP
+
+GENJ
+
+PR18
+
+2,303.00
+
+5047
+
+INMATE PAYROLL
+
+4/7/17
+
+IP
+
+GENJ
+
+PR18
+
+2,622.00
+
+5047
+
+INMATE PAYROLL
+
+4/10/17
+
+IP
+
+GENJ
+
+PR18
+
+580.00
+
+5047
+
+INMATE PAYROLL
+
+4/11/17
+
+IP
+
+GENJ
+
+PR18
+
+316.00
+
+5047
+
+INMATE PAYROLL
+
+4/12/17
+
+IP
+
+GENJ
+
+PR19
+
+1,810.00
+
+5047
+
+INMATE PAYROLL
+
+4/13/17
+
+IP
+
+GENJ
+
+PR19
+
+2,953.00
+
+5047
+
+INMATE PAYROLL
+
+4/14/17
+
+IP
+
+GENJ
+
+PR19
+
+1,249.00
+
+5047
+
+INMATE PAYROLL
+
+4/17/17
+
+IP
+
+GENJ
+
+PR19
+
+1,000.00
+
+5047
+
+INMATE PAYROLL
+
+4/19/17
+
+IP
+
+GENJ
+
+PR20
+
+1,077.00
+
+5047
+
+INMATE PAYROLL
+
+4/20/17
+
+IP
+
+GENJ
+
+PR20
+
+1,181.00
+
+5047
+
+INMATE PAYROLL
+
+4/21/17
+
+IP
+
+GENJ
+
+PR20
+
+2,505.00
+
+5047
+
+INMATE PAYROLL
+
+4/24/17
+
+IP
+
+GENJ
+
+PR20
+
+1,270.00
+
+5047
+
+INMATE PAYROLL
+
+4/26/17
+
+IP
+
+GENJ
+
+PR21
+
+2,187.00
+
+5047
+
+INMATE PAYROLL
+
+4/27/17
+
+IP
+
+GENJ
+
+PR21
+
+2,462.00
+
+5047
+
+INMATE PAYROLL
+
+4/28/17
+
+IP
+
+GENJ
+
+PR21
+
+944.00
+
+5047
+
+INMATE PAYROLL
+
+5/1/17
+
+IP
+
+GENJ
+
+PR21
+
+1,069.00
+
+5047
+
+INMATE PAYROLL
+
+5/2/17
+
+IP
+
+GENJ
+
+PR21
+
+670.00
+
+5047
+
+INMATE PAYROLL
+
+5/3/17
+
+IP
+
+GENJ
+
+PR22
+
+1,613.00
+
+5047
+
+INMATE PAYROLL
+
+5/4/17
+
+IP
+
+GENJ
+
+PR22
+
+2,448.00
+
+5047
+
+INMATE PAYROLL
+
+5/5/17
+
+IP
+
+GENJ
+
+PR22
+
+1,173.00
+
+5047
+
+INMATE PAYROLL
+
+5/8/17
+
+IP
+
+GENJ
+
+PR22
+
+2,121.00
+
+ 5047
+
+INMATE PAYROLL
+
+5/9/17
+
+IP
+
+GENJ
+
+PR22
+
+424.00
+
+5047
+
+INMATE PAYROLL
+
+5/10/17
+
+IP
+
+GENJ
+
+PR23
+
+1,956.00
+
+5047
+
+INMATE PAYROLL
+
+5/11/17
+
+IP
+
+GENJ
+
+PR23
+
+2,386.00
+
+5047
+
+INMATE PAYROLL
+
+5/12/17
+
+IP
+
+GENJ
+
+PR23
+
+629.00
+
+5047
+
+INMATE PAYROLL
+
+5/15/17
+
+IP
+
+GENJ
+
+PR23
+
+1,036.00
+
+5047
+
+INMATE PAYROLL
+
+5/16/17
+
+IP
+
+GENJ
+
+PR23
+
+867.00
+
+5047
+
+INMATE PAYROLL
+
+5/17/17
+
+IP
+
+GENJ
+
+PR24
+
+2,411.00
+
+5047
+
+INMATE PAYROLL
+
+5/18/17
+
+IP
+
+GENJ
+
+IP24
+
+2,692.00
+
+5047
+
+INMATE PAYROLL
+
+5/19/17
+
+IP
+
+GENJ
+
+PR24
+
+1,414.00
+
+5047
+
+INMATE PAYROLL
+
+5/22/17
+
+IP
+
+GENJ
+
+PR24
+
+1,265.00
+
+5047
+
+INMATE PAYROLL
+
+5/23/17
+
+IP
+
+GENJ
+
+PR24
+
+380.00
+
+5047
+
+INMATE PAYROLL
+
+5/25/17
+
+IP
+
+GENJ
+
+PR25
+
+4,387.00
+
+5047
+
+INMATE PAYROLL
+
+5/26/17
+
+IP
+
+GENJ
+
+PR25
+
+1,667.00
+
+5047
+
+INMATE PAYROLL
+
+5/30/17
+
+IP
+
+GENJ
+
+PR25
+
+585.00
+
+5047
+
+INMATE PAYROLL
+
+6/1/17
+
+IP
+
+GENJ
+
+PR26
+
+2,733.00
+
+5047
+
+INMATE PAYROLL
+
+6/2/17
+
+IP
+
+GENJ
+
+PR26
+
+820.00
+
+5047
+
+INMATE PAYROLL
+
+6/5/17
+
+IP
+
+GENJ
+
+PR26
+
+3,416.00
+
+5047
+
+INMATE PAYROLL
+
+6/8/17
+
+IP
+
+GENJ
+
+PR26
+
+2,586.00
+
+5047
+
+INMATE PAYROLL
+
+6/9/17
+
+IP
+
+GENJ
+
+PR27
+
+2,658.00
+
+5047
+
+INMATE PAYROLL
+
+6/12/17
+
+IP
+
+GENJ
+
+PR27
+
+1,216.00
+
+5047
+
+INMATE PAYROLL
+
+6/13/17
+
+IP
+
+GENJ
+
+PR27
+
+88.00
+
+5047
+
+INMATE PAYROLL
+
+6/14/17
+
+IP
+
+GENJ
+
+PR28
+
+2,201.00
+
+5047
+
+INMATE PAYROLL
+
+6/15/17
+
+IP
+
+GENJ
+
+PR28
+
+2,508.00
+
+5047
+
+INMATE PAYROLL
+
+6/16/17
+
+IP
+
+GENJ
+
+PR28
+
+252.00
+
+5047
+
+INMATE PAYROLL
+
+6/19/17
+
+IP
+
+GENJ
+
+PR28
+
+805.00
+
+5047
+
+INMATE PAYROLL
+
+6/20/17
+
+IP
+
+GENJ
+
+PR28
+
+724.00
+
+5047
+
+INMATE PAYROLL
+
+6/21/17
+
+IP
+
+GENJ
+
+PR29
+
+2,118.00
+
+5047
+
+INMATE PAYROLL
+
+6/22/17
+
+IP
+
+GENJ
+
+PR29
+
+2,471.00
+
+5047
+
+INMATE PAYROLL
+
+6/23/17
+
+IP
+
+GENJ
+
+PR29
+
+516.00
+
+5047
+
+INMATE PAYROLL
+
+6/26/17
+
+IP
+
+GENJ
+
+PR29
+
+2,199.00
+
+5047
+
+INMATE PAYROLL
+
+6/28/17
+
+IP
+
+GENJ
+
+PR30
+
+2,467.00
+
+5047
+
+INMATE PAYROLL
+
+6/29/17
+
+IP
+
+GENJ
+
+PR30
+
+1,056.00
+
+5047
+
+INMATE PAYROLL
+
+6/30/17
+
+IP
+
+GENJ
+
+PR30
+
+2,738.00
+
+5047
+
+INMATE PAYROLL
+
+7/5/17
+
+IP
+
+GENJ
+
+PR31
+
+1,839.00
+
+5047
+
+INMATE PAYROLL
+
+7/6/17
+
+IP
+
+GENJ
+
+PR31
+
+2,092.00
+
+5047
+
+INMATE PAYROLL
+
+7/7/17
+
+IP
+
+GENJ
+
+PR31
+
+2,540.00
+
+5047
+
+INMATE PAYROLL
+
+7/10/17
+
+IP
+
+GENJ
+
+PR31
+
+1,284.00
+
+5047
+
+INMATE PAYROLL
+
+7/11/17
+
+IP
+
+GENJ
+
+PR31
+
+153.00
+
+5047
+
+INMATE PAYROLL
+
+7/12/17
+
+IP
+
+GENJ
+
+PR31
+
+1,887.00
+
+5047
+
+INMATE PAYROLL
+
+7/13/17
+
+IP
+
+GENJ
+
+PR32
+
+2,654.00
+
+5047
+
+INMATE PAYROLL
+
+7/14/17
+
+IP
+
+GENJ
+
+PR32
+
+707.00
+
+5047
+
+INMATE PAYROLL
+
+7/17/17
+
+IP
+
+GENJ
+
+PR32
+
+1,407.00
+
+5047
+
+INMATE PAYROLL
+
+7/18/17
+
+IP
+
+GENJ
+
+PR32
+
+52.00
+
+ 5047
+
+INMATE PAYROLL
+
+7/19/17
+
+IP
+
+GENJ
+
+PR33
+
+2,036.00
+
+5047
+
+INMATE PAYROLL
+
+7/20/17
+
+IP
+
+GENJ
+
+PR33
+
+3,506.00
+
+5047
+
+INMATE PAYROLL
+
+7/21/17
+
+IP
+
+GENJ
+
+PR33
+
+850.00
+
+5047
+
+INMATE PAYROLL
+
+7/26/17
+
+IP
+
+GENJ
+
+PR34
+
+2,450.00
+
+5047
+
+INMATE PAYROLL
+
+7/27/17
+
+IP
+
+GENJ
+
+PR34
+
+2,781.00
+
+5047
+
+INMATE PAYROLL
+
+7/28/17
+
+IP
+
+GENJ
+
+PR34
+
+1,656.00
+
+5047
+
+INMATE PAYROLL
+
+7/31/17
+
+IP
+
+GENJ
+
+PR34
+
+1,121.00
+
+5047
+
+INMATE PAYROLL
+
+8/2/17
+
+IP
+
+GENJ
+
+PR35
+
+1,787.00
+
+5047
+
+INMATE PAYROLL
+
+8/3/17
+
+IP
+
+GENJ
+
+PR35
+
+2,588.00
+
+5047
+
+INMATE PAYROLL
+
+8/4/17
+
+IP
+
+GENJ
+
+PR35
+
+864.00
+
+5047
+
+INMATE PAYROLL
+
+8/7/17
+
+IP
+
+GENJ
+
+PR35
+
+834.00
+
+5047
+
+INMATE PAYROLL
+
+8/9/17
+
+IP
+
+GENJ
+
+PR36
+
+2,272.00
+
+5047
+
+INMATE PAYROLL
+
+8/10/17
+
+IP
+
+GENJ
+
+PR36
+
+2,781.00
+
+5047
+
+INMATE PAYROLL
+
+8/11/17
+
+IP
+
+GENJ
+
+PR36
+
+1,168.00
+
+5047
+
+INMATE PAYROLL
+
+8/14/17
+
+IP
+
+GENJ
+
+PR36
+
+1,405.00
+
+5047
+
+INMATE PAYROLL
+
+8/15/17
+
+IP
+
+GENJ
+
+PR36
+
+14.00
+
+5047
+
+INMATE PAYROLL
+
+8/16/17
+
+IP
+
+GENJ
+
+PR37
+
+1,764.00
+
+5047
+
+INMATE PAYROLL
+
+8/17/17
+
+IP
+
+GENJ
+
+PF37
+
+822.00
+
+5047
+
+INMATE PAYROLL
+
+8/18/17
+
+IP
+
+GENJ
+
+PR37
+
+837.00
+
+5047
+
+INMATE PAYROLL
+
+8/21/17
+
+IP
+
+GENJ
+
+PR37
+
+238.00
+
+5047
+
+INMATE PAYROLL
+
+8/22/17
+
+IP
+
+GENJ
+
+PR37
+
+2,680.00
+
+5047
+
+INMATE PAYROLL
+
+8/23/17
+
+IP
+
+GENJ
+
+PR38
+
+2,059.00
+
+5047
+
+INMATE PAYROLL
+
+8/25/17
+
+IP
+
+GENJ
+
+PR38
+
+3,936.00
+
+5047
+
+INMATE PAYROLL
+
+8/28/17
+
+IP
+
+GENJ
+
+PR38
+
+664.00
+
+5047
+
+INMATE PAYROLL
+
+8/30/17
+
+IP
+
+GENJ
+
+PR39
+
+2,646.00
+
+5047
+
+INMATE PAYROLL
+
+9/1/17
+
+IP
+
+GENJ
+
+PR39
+
+2,725.00
+
+5047
+
+INMATE PAYROLL
+
+9/5/17
+
+IP
+
+GENJ
+
+PR39
+
+928.00
+
+5047
+
+INMATE PAYROLL
+
+9/6/17
+
+IP
+
+GENJ
+
+PR40
+
+2,703.00
+
+5047
+
+INMATE PAYROLL
+
+9/11/17
+
+IP
+
+GENJ
+
+PR40
+
+1,709.00
+
+5047
+
+INMATE PAYROLL
+
+9/12/17
+
+IP
+
+GENJ
+
+PR40
+
+3,041.00
+
+5047
+
+INMATE PAYROLL
+
+9/13/17
+
+IP
+
+GENJ
+
+PR41
+
+1,392.00
+
+5047
+
+INMATE PAYROLL
+
+9/14/17
+
+IP
+
+GENJ
+
+PR41
+
+2,808.00
+
+5047
+
+INMATE PAYROLL
+
+9/15/17
+
+IP
+
+GENJ
+
+PR41
+
+1,162.00
+
+5047
+
+INMATE PAYROLL
+
+9/18/17
+
+IP
+
+GENJ
+
+PR41
+
+699.00
+
+5047
+
+INMATE PAYROLL
+
+9/20/17
+
+IP
+
+GENJ
+
+PR42
+
+1,982.00
+
+5047
+
+INMATE PAYROLL
+
+9/21/17
+
+IP
+
+GENJ
+
+PR42
+
+2,686.00
+
+5047
+
+INMATE PAYROLL
+
+9/22/17
+
+IP
+
+GENJ
+
+PR42
+
+1,562.00
+
+5047
+
+INMATE PAYROLL
+
+9/25/17
+
+IP
+
+GENJ
+
+PR42
+
+1,204.00
+
+5047
+
+INMATE PAYROLL
+
+9/26/17
+
+IP
+
+GENJ
+
+PR42
+
+174.00
+
+5047
+
+INMATE PAYROLL
+
+9/27/17
+
+IP
+
+GENJ
+
+PR43
+
+1,862.00
+
+5047
+
+INMATE PAYROLL
+
+9/28/17
+
+IP
+
+GENJ
+
+PR43
+
+837.00
+
+5047
+
+INMATE PAYROLL
+
+9/29/17
+
+IP
+
+GENJ
+
+pr43
+
+5047
+
+INMATE PAYROLL
+
+10/2/17
+
+IP
+
+GENJ
+
+PR43
+
+2,464.00
+912.00
+
+ 5047
+
+INMATE PAYROLL
+
+10/3/17
+
+IP
+
+GENJ
+
+PR43
+
+52.00
+
+5047
+
+INMATE PAYROLL
+
+10/4/17
+
+IP
+
+GENJ
+
+PR44
+
+2,448.00
+
+5047
+
+INMATE PAYROLL
+
+10/5/17
+
+IP
+
+GENJ
+
+PR44
+
+2,888.00
+
+5047
+
+INMATE PAYROLL
+
+10/6/17
+
+IP
+
+GENJ
+
+PR44
+
+944.00
+
+5047
+
+INMATE PAYROLL
+
+10/10/17
+
+IP
+
+GENJ
+
+PR44
+
+65.00
+
+5047
+
+INMATE PAYROLL
+
+10/11/17
+
+IP
+
+GENJ
+
+PR45
+
+2,258.00
+
+5047
+
+INMATE PAYROLL
+
+10/12/17
+
+IP
+
+GENJ
+
+PR45
+
+2,575.00
+
+5047
+
+INMATE PAYROLL
+
+10/13/17
+
+IP
+
+GENJ
+
+PR45
+
+935.00
+
+5047
+
+INMATE PAYROLL
+
+10/16/17
+
+IP
+
+GENJ
+
+PR45
+
+359.00
+
+5047
+
+INMATE PAYROLL
+
+10/17/17
+
+IP
+
+GENJ
+
+PR45
+
+446.00
+
+5047
+
+INMATE PAYROLL
+
+10/18/17
+
+IP
+
+GENJ
+
+PR46
+
+4,539.00
+
+5047
+
+INMATE PAYROLL
+
+10/23/17
+
+IP
+
+GENJ
+
+PR
+
+1,561.00
+
+5047
+
+INMATE PAYROLL
+
+10/25/17
+
+IP
+
+GENJ
+
+PR47
+
+4,095.00
+
+5047
+
+INMATE PAYROLL
+
+10/26/17
+
+IP
+
+GENJ
+
+PR47
+
+723.00
+
+5047
+
+INMATE PAYROLL
+
+10/27/17
+
+IP
+
+GENJ
+
+PR47
+
+812.00
+
+5047
+
+INMATE PAYROLL
+
+11/1/17
+
+IP
+
+GENJ
+
+PR48
+
+3,623.00
+
+5047
+
+INMATE PAYROLL
+
+11/2/17
+
+IP
+
+GENJ
+
+PR48
+
+1,762.00
+
+5047
+
+INMATE PAYROLL
+
+11/3/17
+
+IP
+
+GENJ
+
+PR48
+
+1,277.00
+
+5047
+
+INMATE PAYROLL
+
+11/7/17
+
+IP
+
+GENJ
+
+PR48
+
+35.00
+
+5047
+
+INMATE PAYROLL
+
+11/8/17
+
+IP
+
+GENJ
+
+PR49
+
+4,569.00
+
+5047
+
+INMATE PAYROLL
+
+11/9/17
+
+IP
+
+GENJ
+
+PR49
+
+771.00
+
+5047
+
+INMATE PAYROLL
+
+11/14/17
+
+IP
+
+GENJ
+
+PR49
+
+35.00
+
+5047
+
+INMATE PAYROLL
+
+11/15/17
+
+IP
+
+GENJ
+
+PR50
+
+4,053.00
+
+5047
+
+INMATE PAYROLL
+
+11/16/17
+
+IP
+
+GENJ
+
+PR50
+
+1,719.00
+
+5047
+
+INMATE PAYROLL
+
+11/17/17
+
+IP
+
+GENJ
+
+PR50
+
+142.00
+
+5047
+
+INMATE PAYROLL
+
+11/22/17
+
+IP
+
+GENJ
+
+PR51
+
+4,723.00
+
+5047
+
+INMATE PAYROLL
+
+11/27/17
+
+IP
+
+GENJ
+
+PR561
+
+1,015.00
+
+5047
+
+INMATE PAYROLL
+
+11/29/17
+
+IP
+
+GENJ
+
+PR52
+
+4,250.00
+
+5047
+
+INMATE PAYROLL
+
+11/30/17
+
+IP
+
+GENJ
+
+PR52
+
+505.00
+
+5047
+Total
+
+347,894.00
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+12/15/16
+
+105226
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+1/27/17
+
+105374
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+2/16/17
+
+105429
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+2/28/17
+
+105440
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+3/16/17
+
+105508
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+4/12/17
+
+105542
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+5/19/17
+
+105639
+
+CDJ
+
+LEXIS NEXIS - LAW LIBRARY
+SOFTWARE UPDATES
+LEXIS NEXIS - LAW LIBRARY
+UPDATES
+LEXIS NEXIS - SOFTWARE
+UPDATES AND LICENSE
+RENEWAL
+LAW BULLETIN PUBLISHING
+CO - LAWYERS HANDBOOK
+2017
+LEXIS NEXIS - LAW LIBRARY
+UPDATES
+LEXIS NEXIS - UPDATES FOR
+LAW LIBRARY SOFTWARE
+LEXIS NEXIS - RENEWAL OF
+14 LEXIS LICENSES FOR 1
+YEAR
+
+7,381.00
+7,381.00
+7,381.00
+835.80
+7,381.00
+7,381.00
+7,381.00
+
+ 5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+6/26/17
+
+105744
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+7/17/17
+
+105796
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+8/14/17
+
+105810
+
+CDJ
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+10/10/17
+
+105981
+
+CDJ
+
+LEXIS NEXIS - LAW LIBRARY
+SOFTWARE UPDATES
+
+7,381.00
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+10/24/17
+
+105997
+
+CDJ
+
+LEXIS NEXIS - SOFTWARE
+EQUIP FOR LAW LIBRARY
+
+7,381.00
+
+5050
+
+LIBRARY
+BOOKS/MAT'LS/SUPPLIES
+
+11/27/17
+
+106083
+
+CDJ
+
+LEXIS NEXIS - LAW LIBRARY
+UPDATES
+
+7,381.00
+
+5050
+Total
+LAWNMOWERS &
+EQUIPMENT
+
+1/13/17
+
+105341
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+2/7/17
+
+105382
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+2/28/17
+
+105439
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+3/13/17
+
+105504
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+4/24/17
+
+105574
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+8/14/17
+
+105849
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+10/13/17
+
+105984
+
+CDJ
+
+5057
+
+LAWNMOWERS &
+EQUIPMENT
+
+11/8/17
+
+106032
+
+CDJ
+
+RECREATION
+EQUIP/GAMES
+
+1/9/17
+
+105328
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+1/27/17
+
+105376
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+2/28/17
+
+105441
+
+CDJ
+
+3/13/17
+
+105506
+
+CDJ
+
+5/11/17
+
+105629
+
+CDJ
+
+5065
+
+7,381.00
+7,381.00
+
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+TONY'S LAWNMOWER &
+TOOL - LAWMOWER REPAIR
+AND MTCE
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER MTCE
+AND REPAIR
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+TONY'S LAWNMOWER AND
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+TONY'S LAWNMOWER &
+TOOL - LAWNMOWER
+REPAIR AND MTCE
+
+296.51
+284.56
+1,475.75
+982.94
+229.91
+875.17
+253.91
+361.67
+4,760.42
+
+5065
+
+5065
+
+7,381.00
+
+89,407.80
+
+5057
+
+5057
+Total
+
+LEXIS NEXIS - LAW LIBRARY
+SOFTWARE
+LEXIS NEXIS - SOFTWARE
+UPDATES AND EQUIP FOR
+LAW LIBRARY
+LEXIS NEXIS - LAW LIBRARY
+UPDATES
+
+RECREATION
+EQUIP/GAMES
+RECREATION
+EQUIP/GAMES
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+5/11/17
+
+105630
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+6/5/17
+
+105676
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+6/5/17
+
+105679
+
+CDJ
+
+BOB BARKER - CHESS SETS,
+BOARD GAMES
+GRAINGER - 1 SET OF
+BASKETBALL NETS,
+BACKBOARDS AND POLES
+TRIBUNE PRODUCTS INC XBOX360 KINECT SPORTS
+ULTIMATE
+DAVIS DISTRIBUTORS CARD AND BOARD GAMES
+DAVIS DISTRIBUTORS INC BASKETBALL BACKBOARDS
+BSN SPORTS - 240
+BASKETBALLS SPAULDING
+BRAND
+US CHESS FEDERATION
+SALES - MAGNETIC CHESS
+SETS
+TRIBUNE PRODUCTS PUZZLE BOOKS
+
+1,787.00
+2,235.18
+470.00
+4,422.00
+919.98
+4,987.20
+74.40
+846.00
+
+ 5065
+
+RECREATION
+EQUIP/GAMES
+
+6/5/17
+
+105680
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+6/9/17
+
+105711
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+6/29/17
+
+105752
+
+CDJ
+
+5065
+
+RECREATION
+EQUIP/GAMES
+
+11/8/17
+
+106033
+
+CDJ
+
+5065
+Total
+
+DAVIS DISTRIBUTORS, INC GAMES AND PLAYING
+CARDS
+EFOOTBRIDGE - FIRST TRAM
+SPORTS POWER MONUT
+STEEL BACKBOARD (8)
+BSN SPORTS - 12 GARED
+STEEL FAN BACKBOADS AND
+GOAL
+BOB BARKER CO, INC BOARD GAMES FOR
+DETAINEES
+
+1,680.00
+8,392.00
+7,526.16
+4,269.90
+37,609.82
+
+5067
+
+EYEGLASSES
+
+12/20/16
+
+105288
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+1/13/17
+
+105337
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+2/28/17
+
+105443
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+3/16/17
+
+105509
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+5/11/17
+
+105637
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+5/19/17
+
+105640
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+6/9/17
+
+105712
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+7/17/17
+
+105759
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+8/14/17
+
+105848
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+9/22/17
+
+105868
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+11/8/17
+
+106006
+
+CDJ
+
+5067
+
+EYEGLASSES
+
+11/14/17
+
+106057
+
+CDJ
+
+5067
+Total
+
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL IND
+- EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES AUG/2017
+ILLINOIS CORRECTIONAL EYEGLASSES FOR
+DETAINEES
+ILLINOIS CORRECTIONAL EYGLASSES FOR DETAINEES
+
+898.16
+2,216.82
+1,926.02
+717.58
+350.94
+2,106.28
+113.84
+3,361.80
+192.82
+1,173.42
+3,016.52
+5,039.58
+21,113.78
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+2/7/17
+
+105381
+
+CDJ
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+2/16/17
+
+105431
+
+CDJ
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+3/13/17
+
+105500
+
+CDJ
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+3/16/17
+
+105510
+
+CDJ
+
+KEEFE COMMISSARY
+NETWORK - INCENTIVE FOR
+MH INMATES
+KEEFE COMMISSARY
+NETWORK - INCENTIVES
+FOR MH INMATES
+KEEFE COMMISSARY
+NETWORK - COMMISSARY
+FOR INDIGENT
+KEEFE COMMISSARY
+NETWORK - SHOES READING
+
+282.92
+395.91
+395.91
+1,244.50
+
+ GLASSES AND THERMAL
+SHIRTS
+5070
+
+SPECIAL MEALS/SNACKS
+
+4/24/17
+
+105578
+
+CDJ
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+6/5/17
+
+105681
+
+CDJ
+
+5070
+
+SPECIAL MEALS/SNACKS
+
+7/19/17
+
+105798
+
+CDJ
+
+5070
+Total
+
+KEEFE COMMISSARY
+NETWORK - INCENTIVE FOR
+IMH MAX SECURITY INMATES
+KEEFE COMMISSARY
+NETWORK - INCENTIVES
+FOR MH INMATES
+KEEFE COMMISSARY
+NETWORD - INCENTIVE
+SPECIAL MEALS FOR
+MENTAL HEALTH DETAINEES
+
+366.59
+109.20
+
+140.00
+2,935.03
+
+5095
+
+AUDIO/VIDEO
+EQUIPMENT/SUPPLIES
+
+2/28/17
+
+105449
+
+CDJ
+
+5095
+
+AUDIO/VIDEO
+EQUIPMENT/SUPPLIES
+
+2/28/17
+
+105450
+
+CDJ
+
+5095
+
+AUDIO/VIDEO
+EQUIPMENT/SUPPLIES
+
+5/23/17
+
+105648
+
+CDJ
+
+5095
+
+AUDIO/VIDEO
+EQUIPMENT/SUPPLIES
+
+7/17/17
+
+105795
+
+CDJ
+
+5095
+Total
+
+TRIBUNE PRODUCTS, CO 200 AM/FM CD CLOCK
+RADIOS
+PROTECTIVE ENCLOSURES
+CO. LLC - PROTECTIVE
+ENCLOSURES FOR TV'S
+ANCHOR TEX CORPORATION
+- 400 REMOTE CONTROL
+FOR TV'S
+WAREHOUSE DIRECT - 20
+50'TVS
+
+4,362.00
+16,099.60
+1,700.00
+10,600.00
+32,761.60
+
+5096
+
+CABLE EXPENSE
+
+12/30/16
+
+105324
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+1/27/17
+
+105375
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+3/13/17
+
+105505
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+3/27/17
+
+105538
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+4/26/17
+
+105582
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+5/19/17
+
+105638
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+6/29/17
+
+105749
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+7/19/17
+
+105797
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+9/8/17
+
+105864
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+10/13/17
+
+105986
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+11/3/17
+
+106000
+
+CDJ
+
+5096
+
+CABLE EXPENSE
+
+11/30/17
+
+106088
+
+CDJ
+
+5096
+Total
+
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLTY
+CABLE FEES
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLY CABLE
+FEE
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLY CABLE
+FEES
+COMCAST - MONTHLY CABLE
+FEE
+COMCAST - MONTHLY CABLE
+FEES
+
+3,640.56
+3,651.59
+3,642.09
+3,651.59
+3,642.09
+3,651.59
+3,642.10
+3,651.60
+3,642.10
+3,651.60
+3,651.58
+3,651.59
+43,770.08
+
+6100
+
+SPECIAL PROJECTS
+
+12/1/16
+
+105219
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/6/16
+
+105222
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/6/16
+
+105223
+
+CDJ
+
+CHRISTOPHER JACOBS
+PROD, INC - PROD EQUIP,
+PROPS, THEATRE
+INSTRUCTION
+NOSHEEN HYDARI, LMFT MENTAL HEALTH THERAPY
+SERVICES
+JOHN G MURPHY CONSULTING SERVICES
+
+1,904.40
+
+224.00
+1,772.50
+
+ 6100
+
+SPECIAL PROJECTS
+
+12/6/16
+
+105224
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/20/16
+
+105282
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/20/16
+
+105283
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/20/16
+
+105286
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/20/16
+
+105287
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+12/30/16
+
+105323
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+1/9/17
+
+105325
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+1/13/17
+
+105338
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+1/13/17
+
+105340
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+2/7/17
+
+105383
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+2/28/17
+
+105438
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+3/13/17
+
+105496
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+3/27/17
+
+105535
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+4/12/17
+
+105543
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+4/12/17
+
+105569
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+4/24/17
+
+105579
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+4/26/17
+
+105581
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+4/26/17
+
+105583
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+5/11/17
+
+105632
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+5/11/17
+
+105634
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+5/11/17
+
+105635
+
+CDJ
+
+JOHN G MURPHY CONSULTING SERVICES
+DR MIKHAIL KORENMAN CHESS INSTRUCTION FOR
+DETAINEES
+DR MIKHAIL KORENMAN CHESS INSTRUCTION FOR
+DETAINEES
+ADLER UNIVERSITY MENTAL HEALTH PROVIDER
+CHRISTOPHER JACOBS
+PRODUCTION - TRAINING
+FOR DETAINEE IN MHTC
+PROGRAM
+DR MIKHAIL KORENMAN CHESS INSTRUCTION FOR
+DETAINEES
+PURPLE COMMUNICAITONS
+INC - ASL AND DCI
+INTERPRETAITION SVCS FOT
+THE DEAF INMATE
+POPULATION
+JOHN G MURPHY CONSULTING FEES
+DR KENNETH A RAY,
+DBH,MED - CONSULTING
+SVCS FOR JAIL MGMT AND
+ACCOUNTABILITY
+JOHN G MURPHY CONSULTING FEES
+DR KENNETH A RAY DBH
+MED - CONSULTING
+SERVICES
+JOHN G MURPHY CONSULTING FEES
+ADLER UNIVERSITY MENTAL HEALTH
+PROVIDERS-2ND QUARTER
+SERVICES
+BLICK ART MATERIALS DRAWING PAPER AND
+SUPPLIED (INCENTIVE
+PROGRAM)
+JOHN G MURPHY CONSULTING FEES
+NOSHEEN JYDARI,LMFT MENTAL HEALTH THERAPY
+FEES
+DR KENNETH A RAY,
+DBH,MED - CONSULTING
+SVCS ON IMPROVING JAIL
+OPERATIONS FOR 1YR
+PERIOD
+BLICK ART MATERIALS RECIPE FOR CHANGE
+PROGRAM
+BLICK ART MATERIALS - ART
+SUPPLIES FOR RECIPE FOR
+CHANGE PROGRAM
+JOHN G MURPHY CONSULTING FEES
+THE CHANGE COMPANIES 200 PERSONAL JOURNALS
+
+2,878.75
+300.00
+900.00
+18,000.00
+729.08
+
+800.00
+
+198.00
+
+2,921.25
+3,828.65
+4,205.00
+9,879.68
+4,162.50
+13,500.00
+
+411.28
+4,285.00
+448.00
+
+13,024.02
+
+119.50
+91.28
+3,412.50
+1,494.25
+
+ 6100
+
+SPECIAL PROJECTS
+
+5/11/17
+
+105636
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+6/5/17
+
+105707
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+6/9/17
+
+105715
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+6/26/17
+
+105741
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+7/17/17
+
+105769
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+8/1/17
+
+105802
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+8/1/17
+
+105804
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+8/1/17
+
+105805
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+8/14/17
+
+105814
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+9/29/17
+
+105913
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+10/2/17
+
+105932
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+10/10/17
+
+105975
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+10/10/17
+
+105977
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+10/10/17
+
+105979
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+10/24/17
+
+105996
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+11/8/17
+
+106003
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+11/8/17
+
+106056
+
+CDJ
+
+6100
+
+SPECIAL PROJECTS
+
+11/27/17
+
+106085
+
+CDJ
+
+6100
+Total
+
+STEPHANIE S COVINGTON,
+PHD,LCS - REIMBURSEMENT
+FOR ADDITIONAL
+JOURNALS/BOOKS
+REQUESTED
+PURPLE COMMUNICATIONS,
+INC - INTERPRETATION
+SERVICES FOR DEAF
+DETAINEES
+KEEFE COMMISSARY
+NETWORK - INCENTIVES
+FOR MH DETAINEES
+JOHN G MURPHY CONSULTING FEES
+JOHN G MURPHY CONSULTING SERVICES
+DEBORAH BOECKER RECEIPT REIMBURSEMENTAMAZON
+FACILITIES MANAGEMENT - 4
+SOUND SYSTEM SET-UPS
+DIV 4 GYM
+CHRISTOPHER JACOBS REIMBURSEMENT FOR
+PHOTOGRAPHY PROGRAM
+SUPPLIES
+JOHN G MURPHY CONSULTING FEES
+BLICK ART MATERIALS RECIPE FOR CHANGE
+PROGRAM SUPPLIES
+NATIONAL RESRAURANT
+ASSN SOLUT - MATLS FOR
+THE FOOD HANDLER & FOOD
+MGT CERTIFICATION
+PROGRAM
+CHRISTOPHER JACOBS MHTC SUMMER2017
+SUPPLIES REIMBURSEMENT
+JOHN G MURPHY CONSULTING SERVICES
+FEES (AUG)
+DR KENNTH A RAY DBH, MED
+- MAY- AUG PROFESSIONAL
+FEES AND EXPENSES FOR
+CCDOS COMPLIANCE AND
+SUSTAINABLITY WORK
+JOHN G MURPHY CONSULTING FEES
+JOHN G MURPHY CONSULTING SERVICES
+FEES
+STEPHANIE S COVINGTON,
+PH.D,LC - 2-FACILITATOR'S
+GUIDE- A HEALING JOURNEY
+FOR WOMEN-"THRIVE"
+PROGRAM
+CIVIC LEADERSHIP
+FOUNDATION - PILOT
+PROGRAM FOR
+SUCCESSFUL TRANSITION
+
+2,455.20
+
+99.00
+
+761.16
+3,515.00
+3,901.25
+163.17
+1,659.60
+
+696.27
+3,550.00
+146.66
+
+8,591.61
+
+858.41
+5,592.50
+
+9,518.88
+
+2,387.50
+3,528.75
+
+197.89
+
+6,060.00
+143,172.49
+
+ 6105
+
+GARDEN/GREENHOUSE
+PROJECT
+
+6/26/17
+
+105742
+
+CDJ
+
+6105
+
+GARDEN/GREENHOUSE
+PROJECT
+
+7/19/17
+
+105800
+
+CDJ
+
+6105
+
+GARDEN/GREENHOUSE
+PROJECT
+
+10/10/17
+
+105980
+
+CDJ
+
+6105
+Total
+
+CARLIN HORTICULTURAL
+SUPPLIES - GROWING MIX
+FOR PLANTING
+KELLY BAKER - EMPLOYEE
+REIMBURSEMENT GARDEN
+PROJECT
+CARLIN HORTICULTURAL
+SUPPLIES - GARDEN
+SUPPLIES
+
+249.48
+105.89
+124.70
+480.07
+
+6110
+
+ARMORED CAR CHARGE
+
+12/15/16
+
+105225
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+3/13/17
+
+105501
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+5/19/17
+
+105641
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+6/9/17
+
+105716
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+6/29/17
+
+105748
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+8/1/17
+
+105806
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+8/1/17
+
+105807
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+8/1/17
+
+105808
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+9/8/17
+
+105861
+
+CDJ
+
+6110
+
+ARMORED CAR CHARGE
+
+10/10/17
+
+105976
+
+CDJ
+
+GARDA ACL GREAT LAKES,
+INC - ARMORED CAR
+SERVICES/TRUST DEPT
+GARDA CL GREAT LAKES ARMORED CAR SERVICE
+TRUST DEPT
+GARDA CL GREAT LAKES,
+INC - COURIER AND ARMED
+CARED SERVICE
+GARDA CL GREAT LAKES,
+INC - MONTHLY TRUST DEPT
+COURIER CHARGES
+GARDA CL GREAT LAKES,
+INC - MONTHLY COURIER
+FEES TRUST DEPT
+GARDA CL GREAT LAKES,
+INC - MONTHLY ARMORED
+CAR SVCS TRUST
+GARDA CL GREAT LAKES,
+INC - MONTHLY ARMORED
+CAR SVCS TRUST
+GARDA CL GREAT LAKES,
+INC - MONTHLY ARMORED
+CAR SVCS TRUST
+GARDA CL GREAT LAKES,
+INC - ARMORED CAR
+COURIES SERVICESSEVERAL WEEKS
+GARDA CL GREAT LAKES,
+INC - ARMORED CAR
+COURIER SERVICE/TRUST
+DEPT
+
+6110
+Total
+
+1,103.98
+1,787.96
+966.83
+1,103.98
+413.45
+1,021.22
+1,000.53
+1,021.22
+
+3,471.88
+
+1,589.97
+13,481.02
+
+6120
+
+BANK SERVICE CHARGE
+
+12/1/16
+
+12/01/16
+
+GENJ
+
+Service Charge
+
+132.86
+
+6120
+
+BANK SERVICE CHARGE
+
+1/3/17
+
+01/03/17
+
+GENJ
+
+Service Charge
+
+120.73
+
+6120
+
+BANK SERVICE CHARGE
+
+2/28/17
+
+02/28/17
+
+GENJ
+
+Service Charge
+
+112.38
+
+6120
+
+BANK SERVICE CHARGE
+
+3/1/17
+
+03/01/17
+
+GENJ
+
+Service Charge
+
+133.98
+
+6120
+
+BANK SERVICE CHARGE
+
+4/3/17
+
+04/03/17
+
+GENJ
+
+Service Charge
+
+126.88
+
+6120
+
+BANK SERVICE CHARGE
+
+5/31/17
+
+05/31/17
+
+GENJ
+
+Service Charge
+
+99.36
+
+6120
+
+BANK SERVICE CHARGE
+
+6/1/17
+
+06/01/17
+
+GENJ
+
+Service Charge
+
+114.93
+
+6120
+
+BANK SERVICE CHARGE
+
+7/31/17
+
+07/31/17
+
+GENJ
+
+Service Charge
+
+122.38
+
+6120
+
+BANK SERVICE CHARGE
+
+7/31/17
+
+SC
+
+GENJ
+
+TRUST JULY BANK CHARGES
+
+6120
+
+BANK SERVICE CHARGE
+
+8/31/17
+
+08/31/17
+
+GENJ
+
+Service Charge
+
+6120
+
+BANK SERVICE CHARGE
+
+8/31/17
+
+SC
+
+GENJ
+
+TRUST AUGUST BANK
+CHARGES
+
+4,814.61
+119.61
+4,023.45
+
+ INMATE TRUST FUND - BANK
+CHARGES JUNE/2017
+INMATE TRUST FUND - BANK
+CHARGES MAY 2017
+INMATE TRUST FUND - BANK
+CHARGES APRIL 2017
+
+6120
+
+BANK SERVICE CHARGE
+
+9/29/17
+
+105910
+
+CDJ
+
+6120
+
+BANK SERVICE CHARGE
+
+9/29/17
+
+105911
+
+CDJ
+
+6120
+
+BANK SERVICE CHARGE
+
+9/29/17
+
+105912
+
+CDJ
+
+6120
+
+BANK SERVICE CHARGE
+
+9/30/17
+
+09/30/17
+
+GENJ
+
+Service Charge
+
+6120
+
+BANK SERVICE CHARGE
+
+9/30/17
+
+SC
+
+GENJ
+
+TRUST SEPTEMBER BANK
+CHARGES
+
+6120
+
+BANK SERVICE CHARGE
+
+10/31/17
+
+10/31/17
+
+GENJ
+
+Service Charge
+
+6120
+
+BANK SERVICE CHARGE
+
+10/31/17
+
+SC
+
+GENJ
+
+TRUST OCTOBER BANK
+CHARGES
+
+6120
+
+BANK SERVICE CHARGE
+
+11/30/17
+
+11/30/17
+
+GENJ
+
+Service Charge
+
+GENJ
+
+TRUST NOVEMBER BANK
+CHARGES
+
+6120
+
+BANK SERVICE CHARGE
+
+11/30/17
+
+SC
+
+6120
+Total
+BANK CHECK/SUPPLIES
+
+4/12/17
+
+105546
+
+CDJ
+
+6121
+
+BANK CHECK/SUPPLIES
+
+5/1/17
+
+105605
+
+CDJ
+
+6121
+
+BANK CHECK/SUPPLIES
+
+10/24/17
+
+105992
+
+CDJ
+
+6121
+Total
+POSTAGE
+
+1/9/17
+
+105335
+
+CDJ
+
+6340
+
+POSTAGE
+
+6/5/17
+
+105708
+
+CDJ
+
+6340
+
+POSTAGE
+
+9/28/17
+
+105881
+
+CDJ
+
+6340
+Total
+
+6360
+
+4,198.73
+124.87
+5,643.69
+115.19
+3,985.13
+131.11
+4,142.32
+
+DELUXE - CK
+REPLENISHMENT-15000
+MULTIPURPOSE CHECKS
+DELUXE - REPLENISH CHECK
+STOCK
+DELUXE - MULTI PURPOSE
+CHECKS
+
+2,797.30
+384.86
+2,797.30
+5,979.46
+
+6340
+
+6356
+Total
+
+4,207.45
+
+36,930.50
+
+6121
+
+6356
+
+4,460.84
+
+U.S. POSTMASTER - 5 CASES
+OF PRESTAMPED
+ENVELOPES
+U.S. POSTMASTER - 5 CASES
+OF PRESTAMPED
+ENVELOPERS
+POSTMASTER OF CHICAGO 8 CASES OF PRE-STAMPED
+ENVELOPES
+
+6,757.50
+6,757.50
+7,007.50
+20,522.50
+
+IL Dept. Rev-Farmers Mkt
+Tax
+
+2/7/17
+
+105379
+
+CDJ
+
+IL DEPT OF REVENUE RETILER'S OCCUPATION TAX
+FY2017
+
+102.06
+102.06
+
+MISCELLANEOUS
+EXPENSE
+
+8/6/17
+
+ERROR
+
+GENJ
+
+ERROR N ISSUED TO
+2017070704055 PENA
+
+6360
+Total
+
+3.00
+3.00
+
+Grand Total
+
+$1,027,096.07
+
+Per established Inmate Welfare policies and procedures, the Inmate Welfare Funds (including Commissary System net
+profits) are to be used for the direct benefit, welfare or education of the individual and general inmate populations,
+enhancing inmate activities and programs. The funds are used at the discretion of the DOC Executive Director, subject to
+approval of the Sheriff’s CFO or Budget Director. The Sheriff’s Inmate Welfare Fund Committee is designated to provide
+oversight of the Inmate Welfare Fund administration and fund disbursements. The Committee is required to meet and
+approve expenditures in excess of $10,000.00. In addition, the Committee is required to review fund activity to evaluate
+the actual benefits inmates receive from the Fund revenues.
+
+ Per our review of the Inmate Welfare Fund’s cash disbursements journal, bank statements and sample testing of select
+fund disbursements it appears that appropriate review and approval was given by authorized personnel prior to any fund
+disbursements. Appropriate supporting documentation was included with reviewed disbursement requests. It appears that
+net profits of the commissary system are appropriately used for education, recreation or other prior authorized purposes
+meant to benefit the detainees.
+
+ 

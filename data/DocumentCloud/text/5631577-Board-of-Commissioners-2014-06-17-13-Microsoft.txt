@@ -1,0 +1,209 @@
+ 
+ 
+ 
+ 
+ 
+
+           
+ 
+ June 11, 2014 
+             
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item No. 13 
+
+   
+AUTHORIZATION TO ENTER INTO A COOPERATIVE PURCHASING AGREEMENT 
+WITH THE STATE OF ILLINOIS TO UTILIZE AND ENROLL UNDER ITS 
+MICROSOFT SELECT AGREEMENT FOR THE SUPPLY AND 
+DELIVERY OF MICROSOFT SOFTWARE, AND TO UTILIZE AND ENROLL UNDER 
+ITS MICROSOFT ENTERPRISE AGREEMENT FOR MAINTENANCE, 
+UPGRADE AND SUPPORT SERVICES 
+ 
+To the Honorable Board of Commissioners: 
+ 
+RECOMMENDATION 
+It  is  recommended  that  the  Board  of  Commissioners  authorizes  the  Chief  Executive  Officer  or  his 
+designee to enter into a cooperative purchasing agreement with the State of Illinois, acting by and 
+through  the  Illinois  Central  Management  Services  department,  (hereinafter  referred  to  as  the 
+"State")  to  utilize  and  enroll  under  the  Microsoft  Enterprise  Agreement  between  the  State  and 
+Microsoft  (the  "Microsoft  Enterprise  Agreement")  for  the  provision  of  software  maintenance, 
+support and upgrade services for Microsoft software in an amount not to exceed $2,017,440 for the 
+requested  three  (3)  year  term  of  cooperative  purchasing  arrangement,  and  further  to  utilize  and 
+enroll  under  the  Microsoft  Select  Agreement  between  the  State  and  Microsoft  (the  "Microsoft 
+Select  Agreement")  for  the  supply  and  delivery  of  Microsoft  software  for  the  not‐to‐exceed 
+compensation amount of $40,000 for the requested three (3) year term of cooperative purchasing 
+arrangement. 
+ 
+The Chief Financial and Administrative Officer, the Office of the General Counsel and the Office of 
+Procurement have completed all necessary due diligence to support the submission of this initiative 
+and recommend the approval of this item accordingly. 
+ 
+CORPORATE GOAL 
+Streamline operations to make CHA more customer‐focused and efficient.   
+ 
+FUNDING 
+General Fund, Fiscal Year 2014/2015 
+ 
+CONTRACT SUMMARY  
+Specification No.:     
+ 
+ 
+(Microsoft Select Agreement) 
+(Microsoft Enterprise Agreement) 
+Vendor:    
+ 
+ 
+ 
+Microsoft 
+Contract Type:    
+ 
+ 
+Cooperative Purchasing Agreement   
+ 
+Contract Term:   
+ 
+ 
+3 years (36 months)   
+Base Contract Amount:    
+ 
+$ 2,057,440 (NTE) 
+ 
+ 
+ 
+
+ GENERAL BACKGROUND /EXPLANATION 
+The  Chicago  Housing  Authority  (“CHA”)  extensively  utilizes  Microsoft  software  in  its  daily 
+operations.    The  CHA's  computers  interchange  information  via  software  operating  systems, 
+electronic  mail  and  word  processing  programs.  Microsoft  productivity  applications  (Word,  Excel, 
+PowerPoint,  Outlook),  MS  Exchange  and  Windows  Professional  are  some  of  the  standard  licensed 
+software  programs  used  by  the  CHA  staff  to  perform  their  duties  in  an  efficient manner.  Through 
+the  requested  cooperative  agreement,  the  CHA  gains  rights  and  benefits  available  under  the 
+Microsoft Enterprise and Select Agreements, such as cost consideration for application licenses not 
+included  in  the  standard  portfolio  and  annualized  software  assurance,  which  is  a  form  of 
+maintenance and support for licensed software. Based upon the CHA’s current schedule of licensed 
+Microsoft software products and historical usage trends, the CHA anticipates annual expenditures of 
+$672,480  for  maintenance  and  support  services  under  the  Microsoft  Enterprise  Agreement, 
+resulting in a total of $2,017,440   in not‐to‐exceed funding requirements for the requested three (3) 
+year term of the Enterprise Agreement. 
+ 
+As CHA replaces or adds new computer systems, additional Microsoft software and licenses may be 
+periodically required. The CHA must also purchase additional software licenses periodically over the 
+next several years to maintain its data network infrastructure, and comply with software copyright 
+laws. Therefore, the CHA requests approval of funding for acquisition of new software and licenses 
+under the Microsoft Select Agreement in an amount not‐to‐exceed $40,000 for the requested three 
+(3) year term of the Select Agreement. 
+ 
+The CHA will be able to purchase software through the State Agreement between CDW and State of 
+Illinois  under  the  Enterprise  Agreement.  The  contract  terms  between  CDW  and  State  of  Illinois  is 
+from  October  1,  2011 and  expires  September  30,  2015.  However,  the  contract  that  the  CHA  will 
+enter into will be with Microsoft and will be for a standard 3 year term which will extend past the 
+September  30,  2015  expiration  date  of  CDWs  contract  with  State  of  Illinois.  If  option  years  are 
+exercised  between  CDW  and  Microsoft,  then  CDW  will  remain  Large  Account  Reseller  (“LAR”)  for 
+the CHA’s contract with Microsoft. If another State Approved LAR is award the State Contract as an 
+Outsourcer, then the CHA’s contract with Microsoft will then be transferred to that LAR.  
+ 
+Microsoft  does  not  sell  its  products  directly  to  state  and  local  Governments  ("SLG").  When  a  SLG 
+entity  enters  into  a  Microsoft  Volume  Licensing  Agreement,  such  as  the  State’s  Master  Select 
+Agreement, that SLG entity must choose a Large Account Reseller ("LAR") to fulfill the procurement 
+of Microsoft software and licenses. There are approximately 15 LARs throughout North America that 
+are  authorized  to  distribute  Microsoft  software  products.  For  purposes  of  the  Microsoft  Select 
+Agreement,  a  LAR  is  defined  by  Microsoft  as  a  reseller  or  distributor  who  Microsoft  authorizes  to 
+offer licenses to end‐users under Select Agreements and Enterprise Agreements. The State selected 
+CDW  Government,  Inc.  (“CDW”)  as  its  Microsoft  Certified  LAR.  Due  to  the  structure  of  the  Select 
+Plus agreement and the system that support it, the agreement does not display the expiration date 
+but will expire after 72 months unless it is renewed in writing.  The Agreement between CHA and 
+Microsoft will be for a period of three (3) years.  The agreement has 3 year cycles but will extend 
+past the 3 year mark for the start date.  Licenses will be retained past the 3 year cycle, if Software 
+Assurance  is  purchased  on  the  Select  Plus  agreement  it  will  have  a  3  year  term  based  on  the 
+anniversary date of the agreement.  
+2 
+ 
+
+  
+The  State's  Microsoft  Agreements  are  renewable,  multi‐year  contracts.  The  discount  level  for 
+Microsoft  software  under  the  State's  Microsoft  Select  Agreement  is  Level  D  and  is  the  highest 
+discount level that is offered by Microsoft (through its resellers) to SLGs and is approximately 25% 
+below  standard  retail  pricing.  Although  the  CHA  could  enter  into  its  own  Microsoft  Select 
+Agreement, due to the much smaller volume of software products and licenses required, the CHA 
+could  not  achieve  the  same  advantageous  discount  level  that  has  been  obtained  by  the  State 
+through its volume license procurement. 
+ 
+Based upon the foregoing, it is in the best interest of the CHA to enter into a cooperative purchasing 
+agreement  with  the  State  of  Illinois  so  that  the  CHA  can  enroll  as  an  affiliate  under  the  State's 
+Microsoft Select and Microsoft Enterprise Agreements for respective terms of up to 36 months for 
+an amount not‐to‐exceed $2,057,440. 
+ 
+The  CEO/President  recommends  the  approval  to  enter  into  a  cooperative  purchasing  agreement 
+with the State of Illinois so that the CHA can enroll as an affiliate under the State's Microsoft Select 
+and Microsoft Enterprise Agreements for respective terms of up to 36 months for an amount not‐to‐
+exceed $2,057,440. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+3 
+ 
+
+  
+RESOLUTION NO. 2014‐CHA‐66 
+ 
+WHEREAS,  
+
+the  Board  of  Commissioners  has  reviewed  the  Board  Letter  JUNE  11,  2014 
+entitled  “AUTHORIZATION  TO  ENTER  INTO  A  COOPERATIVE  PURCHASING 
+AGREEMENT  WITH  THE  STATE  OF  ILLINOIS  TO  UTILIZE  AND  ENROLL  UNDER 
+ITS  MICROSOFT  SELECT  AGREEMENT  FOR  THE  SUPPLY  AND    DELIVERY  OF 
+MICROSOFT  SOFTWARE,  AND  TO  UTILIZE  AND  ENROLL  UNDER  ITS 
+MICROSOFT  ENTERPRISE  AGREEMENT  FOR  MAINTENANCE,  UPGRADE  AND 
+SUPPORT SERVICES”. 
+
+ 
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY 
+ 
+THAT 
+the  Board  of  Commissioners  authorizes  the  Chief  Executive  Officer  or  his 
+designee to enter into a cooperative purchasing agreement with the State of 
+Illinois  so  that  the  CHA can  enroll  as  an  affiliate  under  the  State's  Microsoft 
+Select and Microsoft Enterprise Agreements for respective terms of up to 36 
+months for an amount not‐to‐exceed $2,057,440. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+4 
+ 
+
+ 

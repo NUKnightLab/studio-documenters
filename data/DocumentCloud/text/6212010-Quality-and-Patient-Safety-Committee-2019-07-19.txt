@@ -1,0 +1,1178 @@
+Cook County Health
+Process of Care
+Metrics for the Quality Domain
+Dr. Krzysztof Pierko, MD, FACP
+Associate Chair, Division of Hospital Medicine
+
+Dr. Beth Vaclavik, DNP, RN, OCN, NEA-BC
+Director, Ambulatory Procedures
+
+ Process of Care Metrics
+Rate of Excess Days
+
+• Heart Failure
+• Pneumonia
+• Myocardial
+Infarction
+Excess days are the
+number of days
+spent:
+
+1. Emergency dept
+2. Observation stay
+3. Unplanned
+inpatient readmission
+2
+
+Hospital Acquired
+Conditions
+
+• C difficile Infection
+• CAUTI (Catheter
+associated urinary
+tract infection)
+• Total Hip/Knee
+Complications
+
+PSI-90 Composite
+(Patient Safety
+Indicator)
+• PSI-03 (pressure ulcer)
+• PSI-06 (Pneumothorax )
+• PSI-09 (Periop
+hemorrhage)
+• PSI-11 (Post op
+respiratory failure)
+• PSI-12 (PE/DVT)
+• PSI-13 (Postop sepsis)
+
+ED Left without being
+seen
+• Median ED Time
+(admit)
+• Median ED Time
+(discharge)
+• Admit Decision to ED
+Depart
+
+ Excess Days in Acute Care
+Dr. Poushali Bhatthacharjee, MD, MS
+Attending Physician, Division of Hospital Medicine
+
+Darleen Vlahovic, RN, MBA, BSN
+Director, Medical Surgical Nursing
+
+ Excess Days in Acute Care (days spent in ED, observation, or unplanned
+readmission)
+
+Excess Days per 100 Index Encounters
+28.54
+24.96
+
+25.00
+
+23.79
+
+22.34
+
+23.15
+
+22.16
+20.66
+
+20.61
+
+20.36
+
+2018 Q3
+
+2018 Q4
+
+favorable
+
+Excess Days per 100 Index Encounters
+
+30.00
+
+20.00
+
+15.00
+
+10.00
+
+5.00
+
+0.00
+2017 Q1
+
+2017 Q2
+
+2017 Q3
+Stroger
+
+4
+
+2017 Q4
+Baseline (21.71)
+
+2018 Q1
+
+2018 Q2
+
+Target (19.10)
+
+2019 Q1
+
+Stretch (18.45)
+
+Data Source: Vizient Clinical Data Base
+Baseline Period: July 2017 to June 2018
+Preliminary Data: March 2019
+Readmissions, Observation Stays, and ED Visits within 30 days of index visit discharge
+
+ Excess Days in Acute Care – Heart Failure
+Heart Failure
+
+Pneumonia
+
+40.00 236 Cases
+
+37.78
+
+50.00
+
+25.00
+
+225 Cases
+24.82
+
+20.00
+15.00
+
+198 Cases
+10.74
+
+219 Cases
+11.98
+
+200 Cases
+142 Cases
+16.20
+236 Cases14.64
+11.62
+
+10.00
+
+40.00
+
+72 Cases
+25.57
+
+30.00
+20.00 104 Cases
+10.00
+
+60 Cases 5.80
+0.58
+
+0.00
+-10.00
+
+0.00
+
+-20.00
+
+43 Cases
+79 Cases
+-13.83
+2017 -15.47
+2017 2017 2017 2018 2018 2018 2018 2019
+Q1
+
+5
+
+61 Cases
+48 Cases11.42
+
+12.04
+
+5.00
+
+2017 Q1 2017 Q2 2017 Q3 2017 Q4 2018 Q1 2018 Q2 2018 Q3 2018 Q4 2019 Q1
+
+98 Cases
+38.28
+
+66 Cases
+36.82
+
+favorable
+
+30.00
+
+235 Cases
+28.09
+
+248 Cases
+29.34
+
+Excess Days per 100 Index Encounters
+
+Excess Days per 100 Index Encounters
+
+35.00
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Data Source: Vizient Clinical Data Base
+Preliminary Data: March 2019
+Readmissions, Observation Stays, and ED Visits within 30 days of index visit discharge
+
+ Excess Days – Plan• Top Performing Measures
+
+• Opportunity for Improvement
+
+• Pneumonia
+
+• Heart Failure: 3 domains
+1. Inpatient management
+(targeting high risk and advanced
+heart failure)
+
+2. Discharge process
+(Cardiology APN for discharge)
+3. Transitions of care
+(4 Flex (inpatient unit) piloting
+post-discharge calls)
+6
+
+ Our plan to decrease excess days for patients with
+Heart Failure
+
+Review data –look for
+opportunities related
+to unit specific needs
+
+7
+
+Review data from
+phone calls-look for
+opportunities specific
+to discharge planning
+and teaching
+
+Develop the plan to
+address opportunities
+found in data
+
+ Hospital Acquired Conditions
+Dr. Sharon Welbel, MD
+
+CAUTI – catheter associated urinary tract infection
+CDI – clostridium Difficile Infection
+THNC – Total hip & Knee complications
+
+System-wide Director of Infection Control & Hospital Epidemiology
+
+Dr. Jeannette White, DNP, RN, NE-BC
+Director of Nursing Professional Development and Education
+
+ Cook County Preventable Harm Index
+Total Harm Events per 1,000 Patient Days= # of CAUTI + # CDI + THNC
+Total Patient Days
+1.60
+1.40
+1.20
+
+favorable
+
+CAUTI=Catheter Associated Urinary Tract Infections
+CDI=Clostridium Difficile Infections
+THNC=Total Hip & Knee Complications
+
+1.41
+
+Preventable Harm Index
+
+X 1,000
+
+1.12
+
+1.00
+
+0.80
+
+0.80
+
+0.76
+
+0.73
+0.63
+
+0.71
+
+0.69
+
+0.61
+
+0.57
+
+0.60
+
+0.78
+
+0.71
+
+0.53
+
+0.44
+
+0.43
+
+0.34
+
+0.40
+
+0.23
+
+0.22
+0.20
+0.00
+Oct 2017 Nov 2017 Dec 2017 Jan 2018 Feb 2018 Mar 2018 Apr 2018
+
+9
+
+Stroger
+
+May
+2018
+
+Jun 2018 Jul 2018 Aug 2018 Sep 2018 Oct 2018 Nov 2018 Dec 2018 Jan 2019 Feb 2019 Mar 2019
+
+Baseline (0.68)
+
+Target (0.58)
+
+Stretch (0.51)
+
+Data Source: Vizient Clinical Data Base and CDC-NHSN/BI Tableau
+Preliminary Data: March 2019
+
+ Cook County Preventable Harm Index
+14
+
+1.60
+
+12
+
+1.40
+
+1.20
+
+10
+
+1.00
+8
+
+6
+
+11
+1
+
+6
+2
+
+6
+4
+
+1
+5
+
+2
+0
+
+0
+
+0
+
+CAUTI
+
+10
+
+0.80
+
+1
+
+4
+
+0
+
+Top Performing Metric:
+*Catheter Associated UTI
+
+0
+
+0
+
+C Diff
+
+1
+
+6
+4
+
+1
+
+0.60
+
+4
+
+6
+
+2
+1
+
+10
+
+2
+
+1
+
+5
+
+0
+
+4
+
+1
+
+THK Complications
+
+6
+
+4
+
+0
+
+2
+
+3
+
+2
+0
+
+1
+
+Opportunities for Improvement:
+*C. diff infection
+*Total Hip & Knee Complications
+
+favorable
+
+Preventable Harm Index
+
+Total Harm Events per 1,000 Patient Days
+
+1
+
+1
+
+0.40
+0.20
+
+1
+
+0.00
+
+Preventable Harm Index
+
+Data Source: Vizient Clinical Data Base and CDC-NHSN/BI Tableau
+Preliminary Data: March 2019
+
+ Planning
+
+What we are currently doing
+
+• Enhance Nursing Education regarding
+C. diff infections, etiology and impact
+
+•
+•
+•
+• Develop a nurse driven protocol enabling
+•
+a nurse to send specimens for a C. diff
+test without an order within the first 48
+•
+hours of admission based on RN
+assessments and patient report
+• Expand hand hygiene campaign with
+further monitoring for both hand
+hygiene and applying/removing personal
+protective equipment
+11
+
+Electronic rounds
+Physical rounds
+Soap & water signs
+Placing patients on isolation quickly
+Environmental awareness
+
+ Our Plan
+
+Nursing Education
+on C. diff awareness
+
+12
+
+Goal is to decrease C. diff infections by 40% (SIR 0.6) by 12/19
+
+Nurse Driven
+Protocol to order C.
+diff testing within
+72 hours of
+admission
+
+Handwashing and
+PPE monitoring
+
+ PSI-90 Composite
+(patient safety indicator)
+Dr. Steve Bonomo, MD
+Associate Chair, Department of Surgery
+
+Margaret Carroll, MS, MBA, RN
+Associate Nurse Executive, Nursing Quality,
+Professional Development and APRN Practice
+
+ Patient Safety and Adverse Events Composite (PSI-90)
+1.800
+
+1.571
+
+1.600
+
+1.486
+
+1.419
+
+1.372
+
+1.400
+
+1.310
+
+1.216
+1.131
+
+1.102
+
+1.090
+
+1.094
+
+1.013
+1.000
+
+0.917
+
+1.008
+0.917
+
+1.068
+0.962
+
+0.896
+
+favorable
+
+PSI-90 Composite
+
+1.200
+
+0.962
+
+0.800
+0.600
+0.400
+0.200
+0.000
+Nov 17
+
+Dec 17
+
+Jan 18
+
+Feb 18
+
+Mar 18
+
+Apr 18
+
+Stroger
+
+14
+
+May 18
+
+Jun 18
+
+Baseline (1.467)
+
+Jul 18
+
+Aug 18
+
+Sep 18
+
+Target (1.148)
+
+Oct 18
+
+Nov 18
+
+Dec 18
+
+Jan 19
+
+Feb 19
+
+Mar 19
+
+Apr 19
+
+Stretch (1.000)
+Data Source: Vizient Clinical Data Base
+Baseline Data: July 2017 to June 2018
+Preliminary Data: March and April 2019
+
+ PSI -90 Composite (Cook County PSI-90 includes 6/10
+identified in the CMS PSI-90)
+• Top Performing Metrics
+
+• Opportunities for Improvement
+
+• PSI-06 (pneumothorax)
+
+• PSI-03 (Pressure Ulcer)
+
+• PSI-09 (periop hemorrhage)
+
+• PSI-12 (Perioperative Pulmonary
+embolism/deep venous thrombosis,
+known as VTE-venous
+thromboembolism)
+
+• PSI-11 (respiratory failure)
+
+• PSI-13 (post op sepsis)
+15
+
+ O/E Ratio
+
+O/E Ratio
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+
+1
+0.99
+
+PSI-13
+1
+1.11
+0
+0.00
+
+1
+1.03
+
+1
+1.07
+
+O/E Ratio
+
+2
+2.13
+
+0
+0.00
+
+1
+1.36
+
+1
+1.50
+
+1
+1.73
+
+0
+0.00
+
+2
+2.36
+0
+0.00
+
+Post Op Sepsis by Discharge Month
+O/E Ratio
+
+Risk Adjusted Rate Per 1000 Cases
+
+favorable
+
+Risk Adjusted Rate per 1,000 Cases
+
+Apr 19
+
+Risk Adjusted Rate Per 1000 Cases
+
+0
+0.00
+
+0
+0.00
+
+15.00
+
+1
+1.20
+
+0
+0.00
+
+Nov 17 Dec 17 Jan 18 Feb 18 Mar 18 Apr 18 May 18 Jun 18 Jul 18 Aug 18 Sep 18 Oct 18 Nov 18 Dec 18 Jan 19 Feb 19 Mar 19 Apr 19
+
+16
+
+Mar 19
+
+Feb 19
+
+Jan 19
+
+Dec 18
+
+DVT/PE by Discharge Month
+
+Risk Adjusted Rate Per 1000 Cases
+
+1
+1.40
+
+0
+0.00
+
+10.00
+5.00
+0.00
+
+Risk Adjusted Rate per
+1,000 Cases
+
+Pressure Ulcer Discharge Month
+
+Nov 18
+
+May Jul 18 Sep 18 Nov Jan 19 Mar
+18
+18
+19
+
+0.00
+
+14.00
+12.00
+10.00
+8.00
+6.00
+4.00
+2.00
+0.00
+
+2
+1.75
+
+1
+1.07
+
+0
+0.00
+Oct 18
+
+0.00
+
+1
+0.96
+
+Sep 18
+
+1.00
+
+1
+0 0.96
+0.00
+
+1 1
+0.930.85 0
+1.00
+0.00
+2.00
+
+Aug 18
+
+2.00
+
+Jul 18
+
+0 0
+0.00
+0.00
+
+1
+1
+2.83
+0 0 2.07
+0.00
+0.00
+
+4 18.00
+4.30 16.00
+
+4
+3.79
+
+2
+2
+2.51
+2.19
+
+2
+1.60
+
+Jun 18
+
+Nov Jan 18 Mar
+17
+18
+
+1 1 1
+3.01
+2.96
+2.80
+
+3.00
+
+May 18
+
+0.00
+
+1
+2.61
+
+2 3.00
+4.47
+
+Apr 18
+
+2.00
+
+0
+0.00
+
+2
+5.61
+
+4.00
+
+20.00
+
+PSI-12
+
+4
+3.55
+
+Mar 18
+
+1
+4.00 2.51
+
+4.00
+
+4
+4.04
+
+5.00
+
+Feb 18
+
+6.00
+
+5.00
+
+Jan 18
+
+8.00
+
+PSI-03
+
+5
+4.79
+
+6.00
+
+Dec 17
+
+O/E Ratio
+
+10.00
+
+6.00
+
+Nov 17
+
+12.00
+
+4
+4
+5
+11.68 12.05 12.87
+3
+8.07
+
+O/E Ratio
+
+14.00
+
+Risk Adjusted Rate per 1,000 Cases
+
+O/E Ratio and Risk Adjusted Rate per 1,000 Cases
+
+Data Source: Vizient Clinical Data Base
+Baseline Data: July 2017 to June 2018
+Preliminary Data: March and April 2019
+*Stage III or IV hospital acquired; O/E Ratio above 1.000 indicates performance worse than reference population
+
+ Current Processes for VTE and HAPI prevention
+• Quarterly Prevalence surveillance with action planning (Incidence surveillance
+to be added in September)
+• Braden Assessment and VTE(venous thromboembolism) Risk Assessment
+• Inclusion of at risk patients and prevention strategies during hand off
+• Optimization of mechanical devices such as sequential compression devices
+(SCD) to prevent VTE
+• Turning Clock and Turning Schedules
+• Wound/Ostomy nurses serving as consultants to physicians and staff receiving
+notification of all at risk patients
+
+17
+
+ Planned Interventions-VTE
+Current State:
+Future State:
+*Inpatient units have sequential compression
+*Evaluate use of sequential compression
+devices for inpatients
+devices for outpatients
+*a risk assessment tool for VTE
+undergoing procedures > 1 hour or
+requiring anesthesia
+*Create a standard VTE prevention plan
+for all areas such as endoscopy
+
+Identify all areas with
+patients at risk for VTE
+
+18
+
+Implement process for
+assessment of risk and
+implementation of
+sequential compression
+devices or
+pharmacologics
+
+Provide processes for
+continuous quality
+improvement
+
+ Planned Interventions-Pressure Ulcer
+Project aim: To recommend, develop and implement evidence-based practices relative to skin care
+and pressure injury prevention and intervention at Cook County Health System
+GOAL: Decrease HAPI by 15% by 11/2019
+Reduce all HAPI to meet unit-specific NDNQI Benchmark for 3 out of 4 quarters in FY 19-20
+
+4 Eyes
+documentation to
+eliminate missing
+wounds on
+admission
+
+19
+
+Developing quality
+champions at the
+unit level,
+INCLUDING
+perioperative
+
+Patient specific
+nurse care planning
+
+ Left without Being Seen
+Dr. Lauren Smith, MD, MBA
+Chair of the Division of Observation & Quality Department
+
+of Emergency Medicine
+
+Dr. AnnMarie McDonagh, DNP, RN, MBA
+Director, Emergency Room Nursing
+
+ Left without Being Seen
+Patient Encounters in ED that Ended with Patient Leaving Before Being Seen by Certified Physician
+6.8%
+
+7.0%
+
+6.4%
+5.8%
+
+6.0%
+5.0%
+
+6.0%
+
+5.9%
+
+5.7%
+
+favorable
+
+Percent of Patients Left without Being Seen
+
+8.0%
+
+4.9%
+
+4.8%
+4.4%
+
+4.3%
+
+4.0%
+
+3.8%
+
+3.5%
+
+3.3%
+
+3.0%
+2.0%
+1.0%
+0.0%
+May 18
+
+Jun 18
+
+Jul 18
+
+Aug 18
+Stroger
+
+21
+
+Sep 18
+
+Oct 18
+
+Baseline (5.3%)
+
+Nov 18
+
+Dec 18
+Target (4.3%)
+
+Jan 19
+
+Feb 19
+
+Mar 19
+
+Apr 19
+
+May 19
+
+Stretch (4.0%)
+Data Source: BI
+Baseline Period: Aug 2018 to Jan 2019
+
+ ED
+Three Metrics to Review
+
+Median ED Time
+from Arrival To
+Depart (admit)
+
+Median ED Time
+from Arrival To
+Depart (discharge)
+
+Left Without Being
+Seen
+22
+
+ Left Without Being Seen
+• Have exceeded our stretch!
+
+How did we do it?
+Our list of interventions:
+1. Focus on throughput by staff
+2. Internal Waiting rooms helped with gaining more space and our new yellow team and
+green team changes
+3. Education of clerks
+4. Charge RN Education
+5. Shift change report with charge RNs and Coordinators daily to review metrics in real
+time
+23
+
+ Our Plan
+
+Review data for
+timing from arrival
+to departure for
+discharges
+
+24
+
+Review data for
+timing from arrival
+to departure for
+admissions
+
+Plan for
+opportunities
+discovered to
+decrease the timing
+
+ Questions?
+
+ 
+

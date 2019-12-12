@@ -1,0 +1,153 @@
+OCTOBER 24, 2008
+NOTICE
+There will be a meeting of the Information Technology & Automation Committee of the
+Board of Commissioners of Cook County on Thursday, October 30, 2008 at the hour of 10:30
+A.M. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois
+to consider the following:
+296772
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer, transmitting a
+Communication:
+requesting authorization for the Cook County Board of Commissioners to amend the
+following item, which was previously approved at the July 22, 2008 Board Meeting (Agenda
+Item #42). The transmittal does not reflect the upgrade dates and should be amended to
+reflect the upgrade period of February 29, 2008 through July 31, 2008.
+The amendment is indicated by the underscored language.
+Transmitting a Communication from
+ANTONIO HYLTON, Chief Information Officer, Bureau of Technology
+requesting authorization for the Purchasing Agent to enter into a contract with SAS
+INSTITUTE, INC., Cary North Carolina, to continue utilization of software provided and to
+pay for maintenance fee as a result of the upgrade of the Z-Series server.
+Reason:
+
+This software is vital to the continued operation of the offices of the Chief
+Judge and Assessor. This software is used for statistical analysis of data.
+This proprietary software is only available through this vendor.
+
+Estimated Fiscal Impact: $141,590.83. Contract period: August 1, 2008 through July 31,
+2009. Upgrade period: February 29, 2008 through July 31, 2008. (012-441 Account).
+Requisition No. 80120031.
+Approval of this item would commit Fiscal Year 2008 and future year funds.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+296773
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer, transmitting a
+Communication:
+requesting authorization for the Purchasing Agent to enter into a contract with COMPUTER
+ASSOCIATES, Islandia, New York, to continue utilization of software provided. This
+contract covers seven (7) separate products. These products provide source library
+maintenance, ad-hoc reporting and system console support.
+Reason:
+
+This is proprietary software only available through this vendor.
+
+Estimated Fiscal Impact: $570,986.00 ($285,493.00 per year). Contract period: May 24,
+2008 through May 23, 2010. (012-441 Account). Requisition No. 80120047.
+Approval of this item would commit Fiscal Year 2008 and future year funds.
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+OCTOBER 24, 2008
+PAGE 2
+296774
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer, transmitting a
+Communication:
+requesting authorization of the Purchasing Agent to extend for one (1) year, Contract No.
+06-41-776 with Environmental Systems Research Institute, Inc. (ESRI), St. Paul,
+Minnesota, for application development and consulting services. The resulting deliverables
+will include projects such as a second phase of the County Board Mapmaker viewing tool,
+supportive applications of the assessment process, a general public health data viewing
+and analysis tool, a parcel sketch tool for the Recorder of Deeds, a Forest Preserve data
+viewing tool, and other consulting services.
+Reason:
+
+This request is necessary to allow utilization of remaining funds.
+Approximately $100,100.00 remains on this contract. The expiration date of
+the current contract was June 30, 2008.
+
+Estimated Fiscal Impact: None. Contract extension: July 1, 2008 through June 30, 2009.
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+296775
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer, transmitting a
+Communication:
+requesting authorization of the Purchasing Agent to increase by $420,000.00 and extend
+for six (6) months, Contract No. 05-41-596 with Sentinel Technologies, Inc., Downers
+Grove, Illinois, to provide technical, consulting, management and staffing services for the
+Cook County wide area network (WAN). The Cook County WAN provides, voice, data and
+internet connections to all county locations as well as municipal public safety locations.
+Board approved amount 04-06-05:
+Increase requested:
+Adjusted amount:
+Reason:
+
+$1,625,000.00
+420,000.00
+$2,045,000.00
+
+A contract extension and increase is being requested in order to cover wide
+are network (WAN) maintenance during the time that a Request for Proposal
+(RFP) is being performed. This increase will cover the monthly charges for the
+wide area network monitoring and the installation of new/replacement
+communication devices for attaching County locations to the WAN. The
+expiration date of the current contract was September 28, 2008.
+
+Estimated Fiscal Impact: $420,000.00. Contract extension: September 29, 2008 through
+March 28, 2009. (012-499-220 Account).
+Approval of this item would commit Fiscal Year 2008 and future year funds.
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+296776
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer. Transmitting a
+Communication, dated September 23, 2008:
+requesting approval of payment in the amount of $96,353.00 to Computer Associates,
+Islandia, New York, for a usage fee and upgrade fee as a result of the upgrade of the ZSeries Server. This software consists of source library maintenance, ad hoc reporting and
+system console support products.
+Reason:
+
+This payment covers the maintenance period of March 1, 2008 through May
+23, 2008. On December 4, 2007 the County Board approved the lease of a
+new Z-Series server increasing the size and capacity. This payment is a result
+of that action.
+
+Estimated Fiscal Impact: $96,353.00. (012-441 Account).
+Approval of this item would commit Fiscal Year 2008 funds
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+OCTOBER 24, 2008
+PAGE 3
+296777
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer. Transmitting a
+Communication, dated September 23, 2008:
+requesting approval of payment in the amount of $391,317.00 to Computer Associates,
+Islandia, New York, for the annual maintenance agreement for its software consisting of
+source library maintenance, ad-hoc reporting and system console support products.
+Reason:
+
+This payment covers the maintenance period of May 24, 2007 through May
+23, 2008, during that period the 2006 contract was being negotiated. The
+delay was due to Computer Associates going through a reorganization of its
+corporate structure. During this period we researched alternative solutions but
+found the alternatives were inferior to existing capabilities and would have had
+a negative effect on our production.
+
+Estimated Fiscal Impact: $391,317.00. (012-441 Account).
+Approval of this item would commit Fiscal Year 2008 funds.
+*Referred to the Committee on Information Technology and Automation on 10-15-08.
+
+____________________________
+Matthew B. DeLeon, Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Beavers
+Gorman
+Butler, Daley, Goslin, Moreno, Peraica, Schneider, Steele
+
+ 

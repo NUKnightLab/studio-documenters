@@ -1,0 +1,144 @@
+CHANGE.
+
+CHICAGQ HGUSING 
+
+a;
+
+December 12,2012 ITEM NO. B3
+
+AUTHORIZATION TO ENTER INTO A ONE (1) YEAR CONTRACT WITH ORACLE
+CORPORATION FOR RENEWAL OF SUPPORT AND MAINTENANCE SERVICES
+
+To the Honorable Board of Commissioners:
+
+RECOMMENDATION
+
+It is recommended that the Board of Commissioners (?Board?) authorizes the Chief Executive
+Of?cer or his designee to enter into a one (1) year contract with Oracle Corporation for the
+renewal of support and maintenance services of Oracle database software, Oracle Business
+Intelligence software and Primavera software for the period of January 1, 2013 through
+December 31, 2013, in an amount not-to-exceed $239,282.18.
+
+The Executive Vice President of Finance, the Of?ce of the General Counsel and the
+Office of Procurement have completed all necessary due diligence to support the submission of
+this initiative and recommend the approval of this item accordingly.
+
+W: Streamlining Operations to make CHA more customer Focused and
+Ef?cient.
+
+General Fund
+AITON MMARY
+Vendor: Oracle Corporation
+233 S. Wacker, Floor 45
+Chicago, IL 60606
+Contract Type: Fixed Rate/Schedule (Maintenance Support Renewal)
+Contract Term: January I, 2012 through December 31, 2012
+Contract Amount: $239,282.18 (Not-to-Exceed)
+Option Period: None
+Patti i ati n: Pending
+Direct:
+MBE 
+Indirect:
+MBE 
+Waiver: (Yes/No)
+Section 3: Pending
+
+Hiring Subcontracting (S) Other Economic Opportunities (3)
+
+an 1-: Van Bumn Street- Chicago, Illinois 60605-1207- (322) 742?35270. men-.Memamg
+
+GENERAL BACKGROUND
+The Board action recommended in this item complies in all material respects with all applicable
+Chicago Housing Authority board policies and all applicable federal (HUD) procurement laws.
+
+To support the Plan for Transformation and the process of relocating the Chicago Housing
+Authority families, the Information Technology Services Department 
+developed and implemented numerous applications based on an Oracle centralized database.
+This provides the CHA with access to reliable data on a real-time basis to support executive
+decision making. Among the many CHA systems and applications that rely upon Oracle
+databases and other applications, the CHA developed the Resident Management Tracking
+System which tracks and manages residents as they move in and out of their
+temporary housing, or into their new permanent housing. Two additional core CHA applications
+that also utilize the Oracle databases and systems are the Housing Offer Program and
+Yardi Systems. Prudent business practices dictate having maintenance agreements established on
+all essential software applications. The Oracle maintenance and support agreement is necessary
+to provide access to product enhancements, upgrades and updates for supported products, as well
+as telephone and electronic support from Oracle?s quali?ed product technicians.
+
+In June of 2001 ITS purchased Oracle products to replace the legacy systems and to serve as the
+core database platform for CHA applications. At the time CHA purchased Oracle database
+systems, maintenance costs and services were negotiated in the agreement and were provided for
+the ?rst year. Support and maintenance services for the so?ware products have been
+continuously provided directly to the CHA from Oracle for each of the subsequent years since
+the initial purchase of the Oracle database products on a sole-source basis. Product support,
+enhancements, upgrades and updates are available only from Oracle. Given Oracle?s status as
+the developer, licensor and owner of the database software (and the exclusive provider of
+comprehensive support and maintenance services), the software maintenance and support
+services were originally procured from Oracle on a sole-source basis. The same prevailing terms
+and conditions have remained substantially in effect since the original acquisition of Oracle
+database software, subject only to periodic updates and revisions to Oracle?s standard terms and
+conditions applicable to all customers of its maintenance and support services.
+
+As the result of the periodic additions or modi?cations to the schedule of supported
+software systems and products licensed by Oracle, the maintenance coverage
+requirements were subject to different coverage periods and renewal dates. Consequently, the
+CHA previously determined it would be in its best interest to consolidate maintenance and
+support arrangements for multiple Oracle systems into a single agreement, and administer
+support and maintenance for all Oracle systems on a common ?scal year basis.
+
+Due to the continuing reliance of technology operations upon the Oracle software
+platforms, ITS is seeking to renew maintenance and support services for a one (1) year period
+with Oracle Corporation for support and maintenance of the following systems and applications:
+Oracle Database, Primavera, and Oracle Data Warehouse.
+
+The EVP of Finance concurs with the recommendation to enter into a one (1) year contract with
+Oracle Corporation for the renewal of support and maintenance services for Oracle database
+software, Oracle Business Intelligence software and Primavera software for the period of January
+I, 2013 through December 31, 2013, in an amount not?to-exceed $239,282.18.
+
+The CEO/President recommends the approval to enter into a one (1) year contract with Oracle
+Corporation for the renewal of support and maintenance services for Oracle database software,
+Oracle Business Intelligence software and Primavera software for the period of January 1, 2013
+through December 31, 2013, in an amount not-to-exceed $239,282.18.
+
+52;? E. Van Burr? Sinist- Oil/mgr: If A.-. mm; Mac/1.9.09:
+
+RESOLUTION NO. 
+
+WHEREAS, The Board of Commissioners of the Chicago Housing Authority has reviewed the
+
+memorandum dated December 12, 2012 titled TO
+ENTER INTO A ONE (1) YEAR CONTRACT WITH ORACLE
+CORPORATION FOR RENEWAL OF SUPPORT AND MAINTENANCE
+
+
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+
+THAT,
+
+the Board of Commissioners hereby authorizes the Chief Executive Of?cer or his
+designee to enter into a one (1) year contract with Oracle Corporation for the
+renewal of support and maintenance services for Oracle database software, Oracle
+Business Intelligence software and Primavera software, for the period of January
+1, 2013 through December 31, 2013, in an amount not-to-exceed $239,282.18.
+
+These awards are subject to each Contractor?s compliance with the 
+Section 3 resident hiring, and bonding and insurance
+requirements.
+
+. 1111mm]!
+
+1
+
+     
+  
+
+
+Board of Commissioners
+
+ 
+ 
+   
+
+at Van ?are? Sim-2e?! - Chicago, Illinois S?605-f207 - (312) 7421~8530 mm. fireman/g
+

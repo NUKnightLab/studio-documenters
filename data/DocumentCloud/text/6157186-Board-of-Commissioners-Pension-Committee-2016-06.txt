@@ -1,0 +1,232 @@
+Board of Commissioners of Cook County
+Pension Committee
+Wednesday, June 8, 2016
+
+9:15 AM
+
+Cook County Building, Board Room, 569
+118 North Clark Street, Chicago, Illinois
+
+NOTICE AND AGENDA
+There will be a meeting of the Committee or Subcommittee of the Board of Commissioners of Cook County at the
+date, time and location listed above to consider the following:
+
+PUBLIC TESTIMONY
+Authorization as a public speaker shall only be granted to those individuals who have submitted in writing, their
+name, address, subject matter, and organization (if any) to the Secretary 24 hours in advance of the meeting. Duly
+authorized public speakers shall be called upon to deliver testimony at a time specified in the meeting agenda.
+Authorized public speakers who are not present during the specified time for public testimony will forfeit their
+allotted time to speak at the meeting. Public testimony must be germane to a specific item(s) on the meeting agenda,
+and the testimony must not exceed three minutes; the Secretary will keep track of the time and advise when the time
+for public testimony has expired. Persons authorized to provide public testimony shall not use vulgar, abusive, or
+otherwise inappropriate language when addressing the Board; failure to act appropriately; failure to speak to an
+item that is germane to the meeting, or failure to adhere to the time requirements may result in expulsion from the
+meeting and/or disqualify the person from providing future testimony.
+
+16-2929
+Sponsored by:
+Commissioners
+
+TONI PRECKWINKLE, President, JOHN P. DALEY and GREGG GOSLIN, County
+
+PROPOSED ORDINANCE AMENDMENT
+AMENDMENT TO TAXING DISTRICT DEBT DISCLOSURE ORDINANCE
+WHEREAS, the terminology describing the reporting of pensions is updated according to accounting
+pronouncements recently issued by the Governmental Accounting Standards Board (GASB); and
+WHEREAS, to improve the timeliness of reporting, taxing districts are required to submit financial data to the
+Office of the Cook County Treasurer within 30 days of issuance, rather than the previous static deadline of the last
+Tuesday in December; and
+WHEREAS, to expedite the initial reporting of important pension information, taxing districts are required to
+initially electronically provide to the Office of the Cook County Treasurer by July 29, 2016 the most recent actuarial
+report(s) prepared for their Pension Plan(s).
+NOW, THEREFORE, BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 2
+Administration, Article IV Officers and Employees, Division 4 Treasurer, Subdivision 1 In General, Section 2-243
+of the Cook County Code is hereby amended as follows:
+
+ Sec. 2-243. Taxing district debt disclosure.
+(a) Definitions.
+Actuarial accrued liability (AAL), other postemployment benefits (OPEB), unfunded actuarial accrued liability
+(UAAL), total pension liability (TPL), net pension liability (NPL), fiduciary net position (FNP) and healthcare cost
+trend rate shall have the same meanings ascribed to such terms under the generally accepted accounting principles
+for governmental accounting promulgated from time to time by the Governmental Accounting Standards Board.
+Actuarial cost method, amortization method, asset valuation method, investment rate of return, and any other
+actuarial terms used and not defined herein shall have the same meanings as defined by Actuarial Standards of
+Practice, as promulgated from time to time by the Actuarial Standards Board.
+Audited financial statements, current debt, current liabilities, long term debt, long term liabilities and any other
+accounting terms used and not defined herein shall have the same meanings as defined by Generally Accepted
+Accounting Principles, as promulgated from time to time by the American Institute of Certified Public Accountants,
+and shall conform with the accounting principles and auditing standards generally accepted in the United States,
+including without limitation those generally accepted accounting principles for governmental accounting as are set
+forth in publications of the Governmental Accounting Standards Board.
+Taxing District shall have the same meaning as defined by 35 ILCS 200/1-150.
+Total Pension Liability shall mean the sum total of all liabilities of a public pension fund established in the
+Illinois Pension Code and associated with employees of a Taxing District in respect of the pension and retirement
+obligations of such Taxing District. Total Pension Liability includes both AAL the TPL for pension benefits and
+AAL for OPEB benefits.
+Total Unfunded Pension Liability shall mean the sum total of all unfunded liabilities of a public pension fund
+established in the Illinois Pension Code and associated with employees of a Taxing Distrit in respect of the pension
+and retirement obligations of such Taxing District. Total Unfunded Pension Liability includes the NPLUAAL for
+pension benefits and UAAL for OPEB benefits.
+Total OPEB Liability shall mean the sum total of all reported liabilities of a Taxing District in respect to OPEB
+obligations as reported for such Taxing District, whether the OPEB is provided by the Retirement Fund associated
+with the Taxing District or the Taxing District itself. Total OPEB Liability includes the AAL for OPEB, whether
+provided by the Retirement Fund associated with the Taxing District or the Taxing District itself.
+Total Unfunded OPEB Liability shall mean the sum total of all reported unfunded liabilities of a Taxing
+District in respect to OPEB obligations as reported for such Taxing District, whether the OPEB isprovided by the
+Retirement Fund associated with the Taxing District or the Taxing District itself. Total Unfunded OPEB Liability
+includes the UAAL for OPEB, whether provided by the Retirement Fund associated with the Taxing District or the
+Taxing District itself.
+(b) Duty of Taxing Districts to disclose all debt. Each Taxing District shall, on or before thirty days after such
+Taxing District’s most recent audited financials have been issued, the last Tuesday in December, provide to the
+Office of the Cook County Treasurer, in the electronic format required by Office of the Cook County Treasurer, a
+full, complete, unabridged and unedited copy of such Taxing District's most recent audited financial statement
+(along with any and all auditor's reports notes and comments on such audited financial statements), accompanied
+by such Taxing District's written disclosure of the following information:
+(1)
+(2)
+
+Sum total of all debts and liabilities from such financial statement(s);
+The portion of the total amount reported in Subsection (b)(1) above that represents the total NPL for
+all pension benefits;
+Page 2 of 5
+
+ (32)
+
+Sum total of gross tax levy for the most recent tax year;
+
+(43)
+
+Gross operating budget revenue for the most recent fiscal year;
+
+(54)
+
+Total Pension Liability;
+
+(65)
+
+Total Unfunded Pension Liability, which shall be denoted as a separate line item below Total Pension
+Liability;
+
+(7)
+
+Total OPEB Liability as reported;
+
+(8)
+
+Total Unfunded OPEB Liability as reported, which shall be denoted as a separate line item below Total
+OPEB Liability;
+
+(96)
+
+Actuarial cost method utilized by the Taxing District in its calculations of Total Pension Liability and
+Total Unfunded Pension Liability;
+
+(107) Asset valuation method utilized by the Taxing District in its calculation of Total Unfunded Pension
+Liability;
+(118) Each of the following actuarial assumptions underlying the Taxing District's calculations of Total
+Pension Liability, and Total Unfunded Pension Liability, Total OPEB Liability and Total Unfunded
+OPEB Liability as applicable:
+a. Investment rate of return;
+b. Annual rate of salary increases;
+c. Participant mortality rate; and
+d. Healthcare cost trend rate for OPEB benefits;
+(129) Total agency employees or full time equivalents (FTE), as of the most recent fiscal year;
+(13)
+
+An electronic copy of the most recent actuarial valuation(s) prepared in accordance with the
+provisions of GASB 67/68 for all taxing district Pension Liabilities;
+
+(1410) Total pension fund retirees and the beneficiaries of said retirees receiving pension benefits, as of the
+most recent fiscal year;
+(1511) Name and contact information (including telephone number, fax number, and email address, if
+available) for the chief elected official of the Taxing District and for the chief finance official of the
+Taxing District; and
+(1612)
+
+If the Taxing District is a county, city, village, or incorporated town, the current total population of
+such Taxing District.
+
+(c) In the event that a Taxing District does not have an audited financial statement for the most recent fiscal
+year, such Taxing District shall in lieu thereof provide to the Office of the Cook County Treasurer the most recent
+unaudited financial statement of such Taxing District, provided in all events that such unaudited financial statement
+shall include disclosures of the subject Taxing District's actual or contingent current debt, current liabilities, long
+term debt and long term liabilities. A Taxing District, whose financial statements are included or consolidated in
+the financial statements of another Taxing District, is not required to separately provide the required financial
+statements in the event said other Taxing District is in compliance with the requirements of this Ordinance.
+(d) Independent of the duty of Taxing Districts to make annual disclosures pursuant to Subsection (b) above,
+Page 3 of 5
+
+ within 60 days following notification by the Office of the Cook County Treasurer, via United States Postal Service
+first class prepaid mail, each Taxing District shall initially provide to the Office of the Cook County Treasurer, in
+the electronic format required by the Office of the Cook County Treasurer, a written disclosure containing the
+information required under Subsections (b)(139) and (b)(10) above by July 29, 2016.
+(e) Duty of Treasurer to make available disclosure of debt. The Office of the Cook County Treasurer shall:
+(1) Create an electronic repository for the storage of all financial disclosures made by such Taxing Districts;
+and
+(2) Cause to be published on each regularly issued real estate tax bill the website address which provides, to
+taxpayers and other interested parties, electronic access to such financial disclosures by such Taxing
+Districts.
+(f) Publication of disclosures. The Office of the Cook County Treasurer may, in the sole discretion of the
+Cook County Treasurer:
+(1) Publish on the Cook County Treasurer's official website the names of any Taxing Districts that have failed
+to comply fully with the requirements of this Ordinance; and,
+(2) Publish from time to time (but in no event more frequently than twice per calendar year) in one or more
+newspapers having a circulation within Cook County (i) any disclosures provided by Taxing Districts
+pursuant to this Ordinance or otherwise and/or (ii) the names of any Taxing Districts that have failed to
+comply fully with the requirements of this Ordinance.
+(g) Duty of Taxing District to provide and maintain contact information. In the event of any change to the
+contact information provided by a Taxing District pursuant to Subsection (b)(151), the Taxing District shall forthwith
+provide revised and up-to-date contact information to the Office of the Cook County Treasurer.
+Effective Date: This Ordinance shall take effect immediately upon its passage and approval.
+Legislative History : 5/11/16 Board of Commissioners referred to the Pension Committee
+
+16-3195
+Sponsored by: BRIDGET GAINER, County Commissioner
+PROPOSED RESOLUTION
+CALLING A PENSION COMMITTEE MEETING TO DISCUSS THE FISCAL YEAR 2015
+ACTUARIAL VALUATION REPORTS FOR THE COOK COUNTY AND FOREST PRESERVE
+EMPLOYEES’ AND OFFICERS’ ANNUITY AND BENEFIT FUNDS; AN UPDATE ON THE IMPACT
+OF RECENT SUPREME COURT DECISIONS ON PENSION REFORM AND TO DISCUSS THE
+ESTIMATED PAYMENT FROM THE COOK COUNTY SALES TAX REVENUE IN 2017 TO THE
+COOK COUNTY PENSION FUND.
+WHEREAS, actuarial reports for the Cook County Employees’ Annuity and Benefit Fund and the Forest
+Preserve District Employees’ Annuity and Benefit Fund of Cook County as of December 31, 2015 are expected to
+be released Summer 2016; and
+WHEREAS, these reports will highlight the funded status and total unfunded pension liability of the Cook County
+Pension Fund and Forest Preserve Pension Fund as of December 31, 2015; and
+
+Page 4 of 5
+
+ WHEREAS, in 2015 the Cook County Board passed an increase in the Cook County Sales Tax with the intent to
+devote “90% of the funding to paying down the pension and the remaining 10% to debt service and infrastructure
+investments,” based on an alternative proposed pension funding schedule drafted by the Chief Financial Officer;
+and
+WHEREAS, the Illinois Supreme Court issued opinions regarding pension reform legislation in Illinois that may
+impact the Cook County Employees’ Annuity and Benefit Fund and the Forest Preserve District Employees’
+Annuity and Benefit Fund of Cook County; and
+THEREFORE, BE IT RESOVLED, upon their release the Cook County Pension Committee shall meet for the
+purpose of discussing the actuarial valuation reports for the Cook County Employees’ Annuity and Benefit Fund
+and the Forest Preserve District Employees’ Annuity and Benefit Fund of Cook County as of December 31, 2015;
+and
+BE IT FURTHER RESOLVED, the Cook County Pension Committee shall call a meeting to hear a report from
+the Chief Financial Officer on the expected payment based on the proposed alternative pension funding schedule
+for 2017; and
+BE IT FURTHER RESOLVED, the Cook County Pension Committee shall call a meeting to discuss the impact
+of recent Illinois Supreme Court decisions and its impact on Cook County Employees’ Annuity and Benefit Fund
+and the Forest Preserve District Employees’ Annuity and Benefit Fund of Cook County.
+Legislative History : 5/11/16 Board of Commissioners referred to the Pension Committee
+
+______________________________________
+Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Gainer
+Goslin
+Murphy, Schneider, Steele, Suffredin, Tobolski
+
+Page 5 of 5
+
+ 

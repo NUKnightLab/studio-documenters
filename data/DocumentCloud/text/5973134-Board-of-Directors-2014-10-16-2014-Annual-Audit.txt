@@ -1,0 +1,503 @@
+Chicago Infrastructure Trust
+
+Financial Statements and
+Independent Auditor's Report
+
+December 31, 2014 and 2013
+
+Chicago Infrastructure Trust
+
+Didi
+Egg
+Independent Auditor's Report 2
+Financial Statements
+Statements of Financial Position 4
+Statements of Activities 5
+Statements of Cash Flows 6
+
+Notes to Financial Statements 7
+
+CohnReznick LLP
+
+
+
+At otiNi?iNt.? - TAX - ADVISORY
+
+cohnreznickcom
+
+Independent Auditor?s Reoort
+
+To the Board of Directors
+Chicago infrastructure Trust
+
+We have audited the accompanying financial statements of the Chicago Infrastructure Trust,
+which comprise the statements of financial position as of December 31, 2014 and 2013, and
+the related statements of activities and cash flows for the year ended December 31, 2014 and
+the period April 24, 2012 (commencement of operations) through December 31, 2013, and the
+related notes to the financial statements.
+
+Management?s Responsibility for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of these financial
+statements in accordance with accounting principles general accepted in the United States of
+America; this includes the design, implementation, and maintenance of internal control relevant
+to the preparation and fair presentation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+
+Auditor's Responsibility
+
+Our responsibility is to express an opinion on these financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally accepted in the
+United States of America. Those standards require that we plan and perform the audits to
+obtain reasonable assurance about whether the financial statements are free of material
+misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and
+disclosures in the financial statements. The procedures selected depend on the auditor's
+judgment, including the assessment of the risks of material misstatement of the financial
+statements, whether due to fraud or error. In making those risk assessments, the auditor
+considers internal control relevant to the entity's preparation and fair presentation of the
+financial statements in order to design audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the
+entity's internal control. Accordingly, we express no such opinion. An audit also includes
+evaluating the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluating the overall
+presentation of the financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit Opinion.
+
+Opinion
+
+In our opinion, the financial statements referred to above present fairly, in all material respects,
+the financial position of the Chicago Infrastructure Trust as of December 31, 2014 and 2013
+and the changes in its net assets and cash flows for the year ended December 31, 2014 and
+the period April 24, 2012 (commencement of operations) through December 31, 2013, in
+accordance with accounting principles generally accepted in the United States of America.
+
+Emphasis of Matter
+
+The accompanying financial statements have been prepared assuming that Chicago
+infrastructure Trust will continue as a going concern. As discussed in Note 2 to the financial
+statements, the Trust is pursuing plans to fund ongoing operations. If the Trust is unable to
+successfully implement these plans, there is substantial doubt about the ability of Chicago
+Infrastructure Trust to continue as a going concern. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.
+
+Chicago, Illinois
+DATE
+
+Chicago Infrastructure Trust
+
+Statements of Financial Position
+
+December 31, 2014 and 2013
+
+Assets
+
+ 
+
+Current assets
+Cash 
+Grants receivable
+Prepaid expenses
+
+ 
+
+Total current assets
+
+ 
+
+Fixed assets
+Furniture and fixtures
+Machinery and equipment
+
+ 
+
+Total fixed assets
+Less: Accumulated depreciation
+
+ 
+
+Net fixed assets
+
+ 
+
+Total assets 
+
+ 
+
+Liabilities and Net Assets
+
+ 
+
+Current liabilities
+Bank overdraft 
+Accounts payable
+Capital lease obligations
+Accrued expenses
+Deferred revenue
+
+ 
+
+Total current liabilities
+
+ 
+
+Long-term liabilities
+Capital lease obligations
+
+ 
+
+Net assets
+Unrestricted net assets
+
+ 
+
+Total liabilities and net assets 
+
+2014 2013
+838 32,335
+213,035 77,806
+2,558 1,525
+216,431 111,666
+12,822 
+48,642 -
+61,464 -.
+(6,687) -
+54,777 -
+271,208 111,666
+2014 2013
+4,359 -
+117,529 87,849
+15,207 -
+62,298 22,775
+- 1,042
+199,393 111,666
+27,103 
+44,712 
+271,208 111,666
+
+ 
+
+See Notes to Financial Statements.
+
+Chicago Infrastructure Trust
+
+Statements of Activities
+For the Year Ended December 31, 2014 and the Period April 24, 2012
+(commencement of operations) through December 31, 2013
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2014 2013
+Revenue
+Grant revenue 1,000,000 522,751
+Service fee revenue 150,000 
+Total revenue 1,150,000 522,751
+Expenses
+Supporting activities
+Salaries and wages 315,636 168,039
+Employee taxes and benefits 58,800 28,686
+Professional fees: consultants 369,645 89,040
+Professional fees: audit and accounting 89,128 40,205
+Professional fees: IT support 76,315 29,500
+Professional fees: website design 28,511 48,750
+General and administrative 13,899 12,900
+Office supplies and expenses 30,073 14,683
+Committee expenses 7,253 17,052
+Computer and software 5,988 12,136
+Telephone and internet 7,899 4,041
+Travel and meals 29,048 19,275
+Occupancy 23,932 
+Insurance 42,474 38,444
+Depreciation 6,687 
+Total expenses 1,105,288 522,751
+Change in unrestricted net assets 44,712 
+Unrestricted net assets, beginning of period - -
+Unrestricted net assets, end of period 44,712 
+
+ 
+
+See Notes to Financial Statements.
+
+Chicago Infrastructure Trust
+
+Statements of Cash Flows
+
+For the Year Ended December 31, 2014 and the Period April 24, 2012
+
+(commencement of operations) through December 31, 2013
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2014 2013
+Cash flows from operating activities
+Change in unrestricted net assets 44,712 -
+Adjustments to reconcile the change in unrestricted
+net assets to net cash provided by operating activities
+Depreciation 6,687 -
+Increase in assets:
+Grants receivable (135,229) (77,806)
+Prepaid expenses (1,033) (1,525)
+increase (decrease) in liabilities:
+Bank overdraft 4,359 -
+Accounts payable 29,680 87,849
+Accrued expenses 39,523 22,775
+Deferred revenue (1,042) 1,042
+Net cash (used in) provided by operating
+activities (12,343) 32,335
+Cash flows from investing activities
+Purchase of fixed assets (61 ,464) 
+Net cash used in investing activities (61,464) -
+Cash flows from financing activities
+Capital lease obligation 42,310 -
+Net cash provided by financing activities 42,310 -
+Net (decrease) increase in cash (31,497) 32,335
+Cash, beginning of period 32,335 
+Cash, end of period 838 32,335
+
+ 
+
+See Notes to Financial Statements.
+
+Chicago Infrastructure Trust
+
+Notes to Financial Statements
+December 31, 2014 and 2013
+
+Note 1 - Organization
+The Chicago Infrastructure Trust (the "Trust") was incorporated as a non-profit organization
+on April 24, 2012 under executive order of the Mayor and City Council resolution. The Trust
+operates exclusively for civic and charitable purposes in the Chicago Metropolitan area and
+is a tax exempt entity pursuant to Section 501(c)(3) of the Internal Revenue Code.
+
+The Trust assists the people of the City of Chicago, the City government and its sister
+agencies in providing alternative financing and project delivery options for transformative
+infrastructure projects. To accomplish this, the Trust hopes to structure innovative financing
+strategies and attract capital from diverse groups of investors. The Trust also hopes to
+achieve and demonstrate real risk transfer to third-party investors, and to stimulate cross-
+agency financing while creating efficient capital structures.
+
+Note 2 - Status of operations
+The Trust was established in 2012 under the support of the City of Chicago, who agreed to
+supply the initial funding to commence operations. The initial funding was set at $2.5 million
+in grants, after which the Trust was expected to procure alternative sources of revenue. As
+of December 31, 2014, the Trust has drawn a total of $1.4 million of the initial funding.
+
+Should the City of Chicago discontinue funding the Trust, and the Trust not receive other
+awarded grants, the Trust will require additional sources of financing. This factor indicates
+that the Trust may be unable to continue as a going concern for a reasonable period of
+time. The accompanying financial statements do not include adjustments, if any, that might
+be necessary, should the Trust be unable to continue as a going concern.
+
+Note 3 - Summary of significant accounting policies
+
+Basis of presentation
+
+The Trust presents its financial statements in accordance with the accounting guidance for
+nonprofit entities. Under this guidance, the Trust is required to report information regarding
+its financial position and activities according to three classes of net assets: unrestricted net
+assets, temporarily restricted net assets, and permanently restricted net assets.
+Furthermore, information is required to segregate program service expenses from support
+and fundraising expenses.
+
+Use of estimates
+
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+Revenue recognition
+
+Grants received are recorded as unrestricted, temporarily restricted or permanently
+restricted support, depending on the existence and/or nature of any donor restrictions.
+Conditional promises to give are not recognized until they become unconditional: that is,
+
+7
+
+Chicago Infrastructure Trust
+
+Notes to Financial Statements
+December 31, 2014 and 2013
+
+when the conditions on which they depend are substantially met. Service revenues are
+recognized at project completion.
+
+Accounts receivable
+
+Receivables are reported net of an allowance for doubtful accounts, if any. Management's
+estimate of the allowance is based on historical collection experience and a review of the
+current status of tenant accounts receivable. It is reasonably possible that management's
+estimate of the allowance will change.
+
+Capitalization and depreciation
+
+Fixed assets are recorded at cost. Improvements are capitalized, while expenditures for
+maintenance and repairs are expensed. The assets are depreciated over their estimated
+service lives. The estimated service lives of the assets for depreciation purposes may be
+different than their actual economic useful lives.
+
+ 
+
+Estimated
+
+Useful Life Method
+Furniture and fixtures 5 years Straight-line
+Machinery and eqiupment 3 years Straight-line
+
+Impairment of long-lived assets
+
+The Trust reviews its property for impairment whenever events or changes in
+circumstances indicate that the carrying value of an asset may not be recoverable. If the
+fair value is less than the carrying amount of the asset, an impairment loss is recognized for
+the difference. No impairment losses were recognized during 2014.
+
+Prepaid expenses
+Advance payments for expenses related to subscriptions and insurance policies are
+classified as prepaid expenses.
+
+Net assets
+The Trust classifies net assets as unrestricted, temporarily restricted or permanently
+restricted.
+
+Unrestricted net assets are neither permanently restricted nor temporarily restricted by
+donor-imposed stipulations.
+
+Temporarily restricted net assets represent resources for which use has been temporarily
+restricted by the donor as to its usage or by the passage of time. When a donor restriction
+has been satisfied, temporarily restricted net assets are reclassified to unrestricted net
+assets.
+
+Permanently restricted net assets represent resources that are limited by donor-imposed
+stipulations that neither expire by passage of time nor can be fulfilled or otherwise removed
+by actions of the Company. The Trust has no permanently restricted net assets.
+
+Chicago Infrastructure Trust
+
+Notes to Financial Statements
+December 31, 2014 and 2013
+
+Leases
+
+Lease expenses are recorded based on the payments required by the lease agreement.
+Accounting principles generally accepted in the United States of America require that the
+lease payments be straight-lined over the life of the lease; however, the effect of using
+actual lease payments is not materially different from the results that would have been
+obtained under the straight-line method.
+
+Income taxes
+
+The Trust has applied for and received a determination letter from the Internal Revenue
+Service to be treated as a tax exempt entity pursuant to Section 501(c)(3) of the
+Internal Revenue Code and did not have any unrelated business income for the year ended
+December 31, 2014 and the period April 24, 2012 (commencement of operations) through
+December 31, 2013. Due to its tax exempt status, the Trust is not subject to income taxes,
+but is required to file and does file tax returns with the IRS and other taxing authorities.
+Accordingly, these financial statements do not reflect a provision for income taxes and the
+Trust has no other tax positions which must be considered for disclosure. Income tax
+returns filed by the company are subject to examination by the Internal Revenue Service for
+a period of three years. While no income tax returns are currently being examined by the
+Internal Revenue Service, tax years since inception remain open.
+
+Note 4 - Grants
+
+In 2012, the City of Chicago issued an ordinance establishing the Trust. The ordinance
+included grants of funds for infrastructure projects subject to the availability of funds duly
+apprOpriated, in a total amount not to exceed $2,500,000. During the year ended December
+31, 2014, the Trust was awarded cost reimbursement grants in the amount of $1,000,000,
+of which $900,000 was received. As of December 31, 2014, grant funds of $113,035
+remain receivable, of which $100,000 was approved by the City of Chicago and $13,035
+represents accrued compensated absences.
+
+During the period April 24, 2012 (commencement of operations) through December 31,
+2013, the Trust was awarded grants from the City of Chicago in the amount of $653,350, of
+which $450,000 was received by December 31, 2013 and $63,729 was received by
+December 31, 2014. A portion of the remaining 2012 2013 award, totaling $139,621, was
+to be postponed until 2014. Ultimately, this amount went unfunded during 2014. As of
+December 31, 2013, grant funds of $77,806 remained receivable, of which $63,729 was
+approved by the City of Chicago and $14,077 represents accrued compensated absences.
+
+Note 5 - Concentration
+A substantial portion of the Trust's revenue was received from the City of Chicago.
+Substantial revenue is defined as revenue earned from any source that is in excess of 10%
+of the total revenue of the company. For the period ended December 31, 2014 and the
+period April 24, 2012 (commencement of operations) through December 31, 2013, revenue
+earned from the City of Chicago was $1,000,000 and $522,751, respectively, or 87% and
+100%, respectively, of total revenue.
+
+Chicago Infrastructure Trust
+
+Notes to Financial Statements
+December 31, 2014 and 2013
+
+Note 6 - Leases
+The Trust leases office space in Chicago, Illinois in the amount of $2,558 per month, which
+escalates annually on August 1. The lease expires on July 31, 2017. The Trust also leases
+office equipment under one capital lease and one operating lease, both with initial lease
+terms in excess of one year. Accumulated amortization on the capital lease as of
+December 31, 2014 was $6,332.
+
+Future minimum lease payments under these commitments are as follows:
+
+Years ending
+
+ 
+
+ 
+
+December 31 Office space Equipment Total
+2015 32,661 21,831 54,491
+2016 38,366 21,831 60,197
+2017 24,791 19,296 44,087
+2018 - 6,624 6,624
+2019 - 3,864 3,864
+
+95,817 73,446 169,263
+
+ 
+
+ 
+
+Note 7 - Subsequent events
+
+Events that occur after the statement of financial position date, but before the financial
+statements were available to be issued, must be evaluated for recognition or disclosure.
+The effects of subsequent events that provide evidence about conditions that existed at the
+statement of financial position date are recognized in the accompanying financial
+statements. Subsequent events which provide evidence about conditions that existed after
+the statement of financial position date require disclosure in the accompanying notes.
+Management evaluated the activity of Chicago Infrastructure Trust through DATE (the date
+the financial statements were available to be issued) and concluded that no subsequent
+events have occurred that would require recognition in the financial statements or
+disclosure in the notes to financial statements.
+
+10
+

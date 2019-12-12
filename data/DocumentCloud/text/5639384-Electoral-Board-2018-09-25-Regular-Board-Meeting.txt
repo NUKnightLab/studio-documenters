@@ -1,0 +1,499 @@
+Commissioners
+
+Marisel A. Hernandez. Chairwoman
+William J. Kresse, Commissioner/Secretary
+Jonathan T. Swain. Commissioner
+
+Lance Gough. Executive Director
+
+Board of ElecUoo Commissioners
+
+Board of Election Commissioners for the City of Chicago
+Minutes of Regular Board Meeting
+September 2S, 2018, 9:30 a.m.
+
+69 West Washington Street, 8th Floor Conference Room, Chicago, Illinois 60602
+Board Members:
+
+Marisel A. Hernandez, Chairwoman
+
+William J. Kresse, Commissioner/Secretary
+Jonathan T. Swain, Commissioner
+Staff:
+
+Lance Gough, Executive Director
+Adam W. Lasker, General Counsel
+
+Charles Holiday, Assistant Executive
+James P. Allen, Communications Director
+
+Bill Perez, Coordinator Hispanic Outreach
+Peter Peso, Deputy Chief Administrative Officer
+Lorel Blameuser, Purchasing Agent
+Sarita Villarreal, Consultant
+Matthew Lin, IT Department Manager
+
+Gary Rycyzyn, Consultant
+Rahul Patel, Information Security Officer
+
+Trupti Patel
+Michal Czech, Videographer
+
+Irish Sheehy
+Guests:
+
+Sandy Hed, Election Works
+
+Helene Gabelnick, League of Women Voters of Chicago(LWV Chicago)
+Judd Ryan, ES&S
+
+C. Betty Magness, Rainbow PUSH Coalition
+I.
+
+Call to Order: The Chairwoman called the meeting to order at 9:44 a.m.
+
+II.
+
+Roll Call: All Board Members were present.
+
+III.
+
+Consideration of Agenda: The agenda was accepted as presented
+
+IV.
+
+Approval of Minutes:
+
+A.
+Minutes of the Regular Board Meeting of August 14, 2018: Commissioner Swain moved
+to approve the Minutes of the Regular Board Meeting of August 14, 2018. Commissioner Kresse
+seconded the motion. The motion passed and the Minutes were approved by a 3:0 vote of the
+Board.
+
+V.
+
+Executive Director's Report
+
+69 West Washington Street, Suites 600/800, Chicago IL 60602• 1.312.269.7900 •fax 1.312.263.3649•TTY 1.312.269.0027
+chicago8lections.com • email: cboe@chicagoelections.net
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September 25,2018
+Executive Director Lance Gough reported as follows:
+
+• Mr. Gough introduced the Board's new Election Information Security Officer, Rahul Patel, and
+presented his credentials.
+
+o
+
+Mr. Patel has been working with our office since April 2"^, 2018.
+
+o He has been working on many fronts to defend, detect and protect election information,
+beginning with cybersecurity and physical security.
+o
+
+He has been monitoring security and coordinating use of the Multi-State Information
+Sharing & Analysis Center's(M-ISAC)advisories to guard against malicious IP address,
+suspicious domains and to secure commonly used software.
+
+o
+
+Mr. Patel has been working with state and federal cyber authorities including the
+Department of Homeland Security(DHS), Federal Bureau of Investigation (FBI) and the
+State of Illinois and the Illinois State Board of Elections (ISBE). Mr. Patel has met with all
+parties 3-4 times already.
+
+o
+
+Mr. Patel holds several degrees including a PhD,several management certificates, and is
+credentialed as a CISM and a CISSB. He has worked in IT security since 2007, including
+working at the Federal Reserve Bank of Chicago handling their cybersecurity system for
+approximately 10 years
+
+o
+
+We are sharing the expense and services of Mr. Patel with the Cook County Clerk's Office.
+Approximately 23 applications were reviewed before hiring Mr. Patel.
+
+• Mr. Gough had Consultant Gary Rycyzyn provide a report regarding ballots:
+o
+
+Card A ballot printing has been completed.The last delivery of Chinese and Hindi ballots
+will be today
+
+o
+
+We are about 30% printed on the Retention of Judge ballot on Card B,and should have
+delivery to our warehouse and SxData by the end of week.
+
+o
+
+Production of our Specimen Ballots have begun. Assistant Executive Director Charles
+Holiday should begin receiving them this afternoon or tomorrow.
+
+o
+
+We released for production the S ballots and chips for pre-LAT(pre-election Logistics and
+Accuracy Testing); the warehouse should receive those by the weekend.
+
+• Mr. Gough reported on the status of the preparations of the Early Voting supersite at 175 West
+Washington:
+
+o
+
+The supersite should be ready by Thursday.
+
+o
+
+We will have the 175 W.Washington site for the next couple of elections.
+
+o
+
+Compared to last facility, 175 is larger and flow should be better. Lines will be Inside
+rather than on the street.
+
+o
+
+Impressed with incredible job staff has done.
+
+o
+
+The City inspection is scheduled for today.
+
+• 3xData will begin mailing the Vote By Mail ballots. Reports show that we have over 50,000 Vote
+By Mail ballots in the system. After 3xData begins mailing we will meet with them to see how
+many they are mailing per day. We met the deadline for Military and Overseas Ballots. This is the
+earliest we have ever done.
+
+Page 2 of7
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September 25,2018
+
+• County budget hearing will be on October 24^^
+
+• City budget hearing will be either the morning of the 16*'' or the morning of the 17*''.
+A.
+
+Assistant Executive Director {Charles Holiday)
+• Assistant Executive Director Holiday reported as follows:
+
+o Mr Holiday reported that he just received a text from Dean Ftikas informing
+him that the Supersite at 175 W.Washington passed the City inspection.
+o IT is proofing chips for the opening of Grace Period at the other 50 Early
+Voting sites.
+
+o
+
+Vote By Mail(VBM) mailing will begin this weekend
+
+o Our registration department has 12,500 registrations to process: 10,000
+online registrations and 2,500 in house.The registrations have picked up due
+to social media and other campaigns.
+o
+
+Mail canvass is complete. IT is proofing and matching the file we received
+from the Jury Commission. If a record does not match we will send a 2"*',
+forwardable mailing.
+
+o Status of electronic poll books (E-poll books): the test data and change data
+has been given to ES&S. ES&S is in the process of preparing production data
+for the e-poll books for Election Day.
+
+Commissioner Swain inquired to the status of the Americans with Disabilities Act(ADA)
+project. Mr. Gough stated that we are waiting for the Chicago Public Schools(CPS). A
+large number of our polling places are in CPS properties. Mr. Gough hopes to meet with
+B.
+
+CPS at the end of this week or early next week
+Communications Director (Jim Allen)
+Communications Director Allen reported as follows:
+• National Voter registration day.
+
+o Today on social media (Twitter, Facebook, etc.) and large corporations are
+pushing the registration message, with links to state registration sites.
+We have a large amount of VBM (Vote By Mail) applications this year. We should
+break our own 115,000 VBM record.
+
+Work on the pre-election mailing continues.
+
+The Chairwoman stated that she has seen the Board's posts on Twitter with on target
+messages.
+
+The Chairwoman said it's heartening to see not only organizations, but companies
+trying to get their employees and students to register and vote.
+
+The BIGIO voter registration challenge:the 14 BIGIO schools are competing to get
+most innovative way to get freshman to register. So far, Northwestern is one of the
+most successful. There are efforts to get the entire NCAA involved.
+
+Commissioner Kresse had also seen items regarding recruiting Judges of Election. Mr.
+Allen said that we had some items and did a news release last week. We have a lot of
+
+positions to fill and the new judges will need time to get training.
+Page 3 of 7
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September 25,2018
+
+We have met with United States Postal Service(USPS) regarding the post marks and
+timely deliveries,
+
+o The USPS would like us to use labeling rather than indicia - basically putting
+stamp on return envelope
+
+o
+
+Would like to have legislation changed to allow the use of the intelligent post
+mark that USPS prints and scans as soon as mail enters the postal system.
+The equipment has been consistently reading the intelligent bar code, but
+we would need legislation to allow us to use it to determine late ballots. On
+the Thursday after the election we start to look at the certification in the
+absence of postmarks.(Note: if a voter puts no date, or a date after the
+election then it is not counted.) We are going to include in the email that we
+send when we are mailing out the ballot a message on the importance of
+filling out the certification.
+
+We do not have data as to how the unemployment rate ties to Judges of Election
+recruitment, but it appears that an increase in of pay to the Judges does have an
+impact. We have raised this issue with the Budget department.
+The Secretary of State needs to have "REAL ID" in place before automatic voter
+
+registration (AVR)can be rolled out. The REAL ID program verifies citizenship through
+either birth certificates or naturalization papers. Right now the Secretary of State has
+the "opt-in" program in effect. We are currently getting electronic records instead of
+paper records from the Secretary of State, but it's not fully automatic yet. The
+Secretary of State Is to have AVR implemented by May or June 2019,although other
+reports say "late Spring". General Counsel Lasker pointed out that AVR will not be
+available for either of our 2019 elections.
+
+There was a discussion on a post-election audit of Vote By Mail(VBM)envelope
+signatures to the Board's voter registration system (VRXG)
+o A web conference last week on risk limiting audits discussed conducting such
+audits. Specifically, VBM envelopes would be randomly sampled and an
+independent group of 3-4 people would do a comparison examination of
+signatures. The person who led the video conference said that they could do
+approximately 1,000 items per hour.
+
+o
+
+VI.
+
+Commissioner Kresse thinks it's imperative to test the controls because of
+increase of VBM popularity.
+
+Old Business
+
+Infrastructure Projects and Changes in Election Administration:
+Nothing new to report at this time.
+Electronic Poll Books:
+
+ES&S representative Judd Ryan was called upon to report. Mr. Ryan stated that Mr.
+Holiday had summed up the progress in his report and that everything is going well
+regarding the e-poll books.
+Page 4 of7
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September 23,2018
+C.
+
+Voting Equipment:
+
+We will return to this subject after the election.
+
+D.
+
+Legislation:
+
+,
+
+Mr. Lasker reported that there have been no new developments In the legislation that we
+have been following. Additionally:
+• The pre-trial detainee bill was vetoed.
+
+• Regarding mail in ballots, our VBM Supervisor has mentioned the Agllis machine has
+the ability to do automatic signature comparison. Mr. Lasker and his predecessor,Jim
+Scanlon, agree that the statute does not allow for this-it requires in-person
+verifications. We are looking at some legislative change that might allow that only
+those signatures rejected by Agllis be reviewed by staff. There may be a fee to have
+this Agllis feature, possibly $15,000 per election. The increase to Agllis would be
+saved by a reduction in election overtime. Right now the law says that it must be
+reviewed by humans,so a legislative change would be necessary.
+• Mr. Gough pointed out that we would also have to update our "signature clips". If
+authorized by law, we could select from the voter's ballot signature.
+• We do not receive signatures from the Secretary of State, unless we get from them a
+Paperless Online Voter Application (POVA),then the signature Is sent.
+•
+
+Mr. Allen added that this could have an advantage during Petition Records exam if
+we use a composite of a voters signatures.
+
+Vli.
+
+New Business:
+
+A.
+Approval to renew and amend the contract between the Chicago Board of Elections and
+Ellen Mulcrone Schuetzner for Forensic Examiner Consultant(Handwriting Expert): Extend
+through April 30,2019 and Elimination of the Compensation cap.
+General Counsel Adam Lasker provided details regarding this requestfor approval to
+renew and amend the contract with the Forensic Examiner Consultant(handwriting
+Expert):
+• The original bid was only for the 2018 elections,the contract allows us to extend for
+the 2019 cycle.
+
+• It is difficult to put a cap on the compensation because we do not know how many
+signatures will be needed. Previous expert Hayes said it was customary not to put a
+cap on the compensation.
+
+There was discussion as to whether or not two handwriting experts would be sufficient
+for the 2019 elections. It was determined that if needed, additional professionals could
+
+be subcontracted. Though the Board is not required to bid for these service it may do so
+again in the future, but would bid for two or more experts during the bid process.
+Commissioner Kresse moved to approve the renewal and amend the contract with Ellen
+Mulcrone-Schuetzner for Forensic Examiner Consultant services. Commissioner Swain
+
+seconded the motion. The motion was approved by unanimous vote of the Board.
+Page 5 of7
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September 25,2018
+
+B.
+
+Approval of Contract with 3X Data for Provisional and Absentee'Ballot Fulfillment, 2018
+
+Election.
+
+•
+
+Purchasing Agent Lorel Blameuser stated that the recommendation was made for
+
+continuation of services by Sxdata for packaging and assembly of envelopes for VBM
+mailings.
+
+• This is a no-bid contract. 3xData was selected due to their past experience,the security
+of information they provide,their location and because they are only vendor certified by
+the State of Illinois to do this work.
+Commissioner Kresse said we will need to review this for 2019 elections.
+
+Commissioner Kresse moved to approve the contract in the amount of $393,764, with the
+term of September 24,2018 through November 30,2018 for Absentee and Provisional ballot
+fulfillment for the November 2018 General Election. Commissioner Swain seconded the
+
+motion and the motion was passed by a 3:0 vote of the Board.
+
+C.
+Approval of Lease Agreement with Meeting Tomorrow for Laptop Lease,2018 General
+Election, Early Voting & Election Day:
+• Purchasing Agent Blameuser presented the information regarding this lease:
+
+o This was a small phone bid.She reached out to a few vendors. Meeting Tomorrow is
+the only vendor that could commit the number of laptops we need,for the amount
+of time we use them.
+
+o The computers are "clean" when we receive them, and Matt Lin and his staff then
+wipe the computers clean again before we return them.
+o
+
+This vendor was recommended by the City of Chicago because we were unable to
+find a company that would lease the number of laptops for the length oftime we
+need them.
+
+o
+
+A few other vendors that had approached by us, but they all conceded that they
+could not provide the number needed.
+
+o
+
+We used Meeting Tomorrow for the last two elections.
+
+o
+
+The prices are the same as they were for the last election.
+
+o
+
+The vendor is very timely.
+
+• IT Director Linn stated that our office reformats and "cleans" the laptops when we receive
+them from the vendor. When we return the laptops the vendor also cleans them and sends
+us a certificate saying that they have been completely cleaned/wiped.
+
+Commissioner Swain moved to approve the Lease Agreementfor the term of September 21,
+2018 through November 30,2018 in the amount of $29,534.25. Commissioner Kresse seconded
+the motion. The motion passed by unanimous vote of the Board.
+
+D.
+Approval of increase to Judge of Election Compensation by $10.00:
+Mr. Gough had met with the County,and after looking at our budgets said that both the City
+Board of Elections and the County could Increase the judge of election compensation to a flat
+
+$200. The County has already decided that they will be at $200. Mr. Gough is talking to the City
+regarding this matter for next year's elections.
+
+Page6 of7
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of September IS, 2018
+
+Commissioner Kresse moved to approve the increase to the Judge of Election Compensation by
+$10.00 each from $190 to $200.00 per Judge of Election. Commissioner Swain seconded the
+motion. The motion passed by a unanimous vote ofthe Board.
+VIII.
+
+Legal Report
+
+• Mr. Lasker attended the Annual Conference of the Illinois Municipal League and was on a panel
+dealing with referenda law. The panel was moderated by Burt Odelson. Others on the panel were
+Illinois State Board of Election General Counsel Ken Menzel, Election Attorneys Jim Nally and Ross
+Seclar, and Pat Bond,the General Counsel for DuPage.
+
+• Attorney Joan Agnew and Mr. Lasker plan to meet with Judge Sullivan, Presiding Judge of the
+County Division,to discuss some issues that have arisen regarding dealing with the Circuit Court's
+new mandatory e-filing. As an examples of Issues that have arisen, when we had a Judicial Review
+stemming from an Electoral Board decision, our statutory obligation is to create a "record on
+
+appeal" and turn It over to the Court; when we attempted to actually file the original nominating
+petitions or referenda to the Clerk of the Court,the Clerk will not allow us to hand paper over the
+counter. There are also issues such as getting in to see the Judge regarding keeping polling places
+open late on emergency basis, or filing for the appointment of Judges of Election; these are not
+options on the e-filing system. We hope that the meeting with Judge Sullivan will lead to the Clerk
+of the Court's office to make the needed adjustments.
+
+• Friday received a court filing from the Metropolitan Water Reclamation District(MWRD)that
+they had a vacancy because Commissioner Bradford passed away.The County Clerk certified the
+vacancy after getting the Attorney General's recommendation.There was a write-in campaign for
+that office in the primary,and Democrat Cam Davis won that contest, and he is a named party In
+the lawsuit. Jeffery Cubbage has been appointed by the Green Party as its candidate for
+November. Mr. Cubbage is a defendant, as well as David Walsh who is currently a MWRD
+Commissioner and was appointed by the Governor to fill the vacancy. The Governor made Mr.
+Walsh's appointment to last through November 2020, but some argue that the statute limits the
+appointment until the next election. MWRD is asking the Court to rule on which side is correct.
+
+IX.
+
+Financial Report: None
+
+X.
+
+Public Comment: None
+
+XI.
+
+Executive Session: None needed
+
+XII.
+Adjournment: Commissioner Swain moved to adjourn until a Special Meeting on October 2"*^ at
+9:00 a.m. Commissioner Kresse seconded the motion. The motion passed by 3:0 vote ofthe Board. The
+meeting was adjourned at 10:34 a.m.
+Submitted,
+c
+
+Commissigrfer Willlam J. Kresse
+Secretary
+Page 7 of7
+
+ 

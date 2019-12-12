@@ -1,0 +1,1131 @@
+Chairman: Jay Stewart
+Members: Ed Bedore, Ricardo Morales, Larry Ivory, Bill Black
+
+Minutes – May 15, 2014 Meeting
+Present in Springfield:
+
+Jay Stewart
+Ed Bedore
+Bill Black
+Larry Ivory
+
+Absent:
+
+Rick Morales
+
+The Board started the meeting by confirming attendance at 10:10 a.m.
+The first item on the agenda is the approval of the Board meeting minutes from April 10, 2014. Member
+Bedore made the motion that we accept the minutes as printed with Member Black seconding the motion. The
+motion was unanimously approved.
+Next item on the agenda is follow up from the last meeting. Director Carter stated that at the urging of
+Member Bedore he included a document that outlines all of the points of follow up for questions the Board
+had from the last meeting, included in all of the packets, just a couple things, a conflict of interest for Chicago
+State that we looked last time. CPO Bagby concurred with the Board recommendation and voided that
+contract based on a Potential Conflict of Interest; his letter is in your packet for review. Some other items,
+Will Walker followed up on the contracts for the Enterprise Rent-A-Car and the Zip Car Program, as well as
+some reasoning for the exclusion of ISP and IDOT and the CMS Vehicle Usage Policy. The last few items are
+from the Department of Human Services, some follow up on how long the Feds pay 100% of Medicare
+enrollees and so forth, those items are in your packet. Member Bedore replied that he thinks it’s a very good
+idea to have a follow up report every month, the Board makes inquiries, and to have the follow up is great.
+One other item he would like to include in the follow up is an audit report by Mr. Holland. As most people in
+this room and our Board knows, we have been talking to CMS over the last year or so about emergency
+purchases, which when we hit a record last year and now it is confirmed everything that we suspected. Mr.
+Holland states, “CMS was circumventing the normal procurement process routinely. When we look at an
+emergency purchase, we determine the only thing that was an emergency about it was the name that they put
+on it. They were not, in fact, emergency purchases.” Here’s the most telling line of all, CMS agrees with the
+Auditor’s findings, so that just tells us that this Board was absolutely correct in raising the issue of emergency
+purchase orders. He’s glad to see that there will hopefully be great improvement in that area, so as much as
+the former Director of CMS kept criticizing us for going after emergencies, obviously the Auditor General
+found the same conclusions, came up with the same conclusions and CMS agreed with it. So he just wanted
+to commend each Board member for following up on bringing this matter before the attention of everybody.
+Chairman Stewart thanked Member Bedore and he agrees that the Board will continue to monitor that. At his
+agency the auditors, typically when you get the next audit, always look at whatever was in the prior audit, so
+he is sure CMS is, it’s audit season again so he’s sure that CMS will be talking to the Auditor General about
+this issue in the future, it happens at his agency, if there is an audit finding it is guaranteed something that the
+auditor is talking about in the next audit cycle.
+The next item on the agenda was the Multi- State locomotive Procurement. Chairman Stewart stated that this
+was actually on the agenda at the last meeting of the Board and he thinks the parties and some of the Board
+members wanted a little more time to evaluate the materials – quite a bit of materials. He thinks the parties
+wanted some additional time, so the Board agreed to put it off until this meeting, but at this point the Board is
+M:140109
+222 SOUTH COLLEGE STREET, SUITE 231, SPRINGFIELD, IL 62704
+Telephone: (217) 785-3988 Fax: (217) 557-9927 TTY: (888) 642-3450
+
+ ready to hear this matter and move forward on it. He knows we’ve got a cast of thousands here from the
+various parties and it’s public record and the Board is aware of ongoing litigation on this matter, what he
+would like to do is, because there is a lot of a material that has been provided previously and even at today’s
+meeting from various parties, if we could perhaps have EMD come up and make a presentation of its points,
+he would ask, we’re not oral arguments in front of an appellate court, if you could cut to the heart of the
+matter, try not to just repeat prior items but summarize it as to what you think is the most compelling or
+probative points and then we’ll ask CPO Grunloh if he could also come up. Then once they’re done if you
+could give forth your view of this particular matter, and then the Board can ask any questions at that point, so
+if in terms of the presentations take as much time you need but if we could maybe limit it to 15 minutes as a
+nice target to shoot for, he’s not going to cut you off at 15 minutes and a second but, same thing for Mr.
+Grunloh, we have received the written materials and I think the Board has had time to review it so in interest
+of time let’s try to get to the core of the issue. Chairman Stewart asked Director Carter to give a very brief
+overview of the matter, and then let the parties discuss it at greater length.
+Director Carter responded that Electro-Motive Diesel Corporate, EMD, is alleging multiple violations of the
+Illinois Procurement Code by the Illinois Department of Transportation and its award of locomotives to
+Siemens Industry, and the violations of the Code stem from the evaluation of Siemens’ proposal and EMD’s
+assertion that Siemens did not reply with the requirements of the specifications and should have been
+dismissed. We can go into greater detail but that’s a summary of the main points. Chairman Stewart thanked
+Director Carter and asked EMD to introduce themselves, he’ll let everyone on the panel just introduce
+themselves and then we will start with EMD. Bill Grunloh, Chief Procurement Officer for IDOT introduced
+himself, followed by Scott McCaleb, Wiley Rein, representing EMD, Electro Motive Diesel, who had with
+him, his colleague John Burd and also Rich Chudoba from EMD, who is the lead technical engineer for any
+technical questions that may come up. Chairman Stewart thanked the presenters and asked Mr. McCaleb to
+proceed.
+Mr. McCaleb thanked the Chairman and Members of the Board and stated that they appreciate the opportunity
+to appear before the Board to discuss with the PPB what they think there are several plain errors that IDOT
+made in its evaluation of the Siemens proposal in connection with the procurement of high-speed
+locomotives. He is quite certain that many of you are more technically facile than he is, but you don’t need to
+know anything about trains or train engineering or locomotive engineering, to understand the issues that they
+are complaining about. All that you need to do is 1) read the requirements of the RFP that stated the bidders
+had to demonstrate that they could sustain operations at speeds of up to 125 miles per hour using specified
+formula and conditions, and 2) read the Siemens proposal that shows facially non-compliance with those
+requirements and a resulting failure to demonstrate compliance with the 125 mile per hour requirement. We
+are not asking the Board to substitute its judgment for the judgment of IDOT, because on this matter there
+was no exercise of judgment that was either required or permitted, the plain language of the RFP required the
+exclusion of Siemens. With that as kind of an introductory comment, he doesn’t intend to take long and
+would be surprised if he hit the fifteen minutes because he thinks the issues are relatively simple. What I
+might ask the Board is whether they have the slides that they had submitted to work from, if not they can
+distribute them. If there is any member, or staff member that doesn’t have them they have extra copies as it
+might be easiest to work from those slides to try and make their points. If we start with the second slide and
+we just talk about the genesis of the program, what we’re talking about is a program that is run by the Federal
+Rail Administration (FRA), which is part of the Federal Department of Transportation and they administrator
+grant funds to state and regional governments for high-speed rail. There is an act that Congress passed called
+the Passenger Rail Investment Improvement Act, which basically requires integrated national rail planning,
+and to do that Congress said that there needed to be a formation of a committee called the Next Generation
+Equipment Committee that is composed of experts both from among from the states and federal government
+and they have developed what is relevant, or what is the technical specification for high speed passenger
+locomotives. This is the document that is part of the solicitation and that is required to be complied with in
+order to receive the funding from FRA. The funding itself that’s at issue comes from the American Recovery
+and Reinvestment Act (ARRA) which provides about eight billion dollars for high speed intercity passenger
+rail. Of those eight billion dollars, the procurement that is before this Board right now, can account for up to
+and maybe exceeding one billion dollars. Moving to the next slide which talks about the incorporation in the
+solicitation of that technical specification, and there is no dispute that that technical spec is included,
+incorporated as a requirement that must be used in this procurement. The solicitation, which is excerpted in
+2
+M:140109
+
+ relevant part in Exhibit A to our April 22nd filing states expressly that it forms the basis for the procurement
+and must be used when developing offers. So there is no discretion here, it has to be used. Of additional
+importance is the amendment or addendum 7 to the solicitation which also states expressly, that all offers
+must demonstrate that their product will be compliant with the technical spec. He doesn’t think there is any
+dispute that the technical spec and compliance with it had to be a condition of award. In terms of evaluation,
+the solicitation at Section B10 sets forth 7 pass/fail evaluation categories and again here, it says that failure to
+satisfy any of them will result in the rejection of the proposal and no further evaluation will take place.
+Again, they’re not talking about a discretionary decision – this is a mandatory decision that is mandated and
+compelled by the terms of the solicitation itself and when you look at Addendum 7, that specially includes as
+one of the pass/fail categories, the confirmation of compliance with 125 miles per hour capabilities under the
+loads that are identified in the stack, and what the load is that they are talking about is two locomotives and
+eight trailing cars. As we move to the next slide, what they highlight here, again, the speed and power
+requirements that are at issue here because they work and operate in tandem and it is critical for the Board to
+understand that. The speed and the power requirements operate in tandem. The speed requirements laid out
+multiple times that you have to demonstrate a sustained speed, not just hit it, you have to have a train that is
+going to go 125 miles per hour for a sustained period also referred to as an operating speed. That operates in
+tandem with HEP, Head End Power, and he knows that the parties that he’s sure submitted their briefs that
+discuss HEP, but in short, HEP is nothing more than the power that is required to actually operate the
+electricity in the passenger cars themselves, heating, air conditioning, lighting, power and electricity for cell
+phones or computers and that the assumption that had to be and the capability that had to be established was
+an ability to divert where you have 600 kW of power for the HEP feature. For purposes of evaluation and for
+purposes of running stimulations that number later, in Amendment 1, was reduced to a total of 360 kW of
+power. What that means when we’re talking about diverting 360 kW of locomotive power from the
+locomotive engine, that translates into about 480 horsepower, so if you were talking about a zero sum game,
+you have X amount of horsepower, some of it can be used or will be used to propel the trains forward, and
+some of it will be used to generate power for the passenger cars, and when you look at that requirement, the
+360 kW, that translates to a loss of propulsion of about 480 horsepower. As we move forward to the next
+slide, which is number 5 at the right bottom, we get into what may be the most important part of the of the
+technical spec and that’s Section 9.2, which sets forth the service and performance requirements. As far as
+the requirements themselves go, and they’re laid out in Appendix B2 of our April 22nd submission, it requires
+a complete and comprehensive description of the proposed locomotive and the language there is “shall”
+language, there “shall” be this description and among the things that has to be shown and demonstrated is
+acceleration with three different train sets, one of which is what you’ve already seen, the two locomotives and
+the eight trailing cars. In addition, in terms of all simulations that Section 9.2 makes plain, that there is one
+formula, and one formula only that will be used so that the government would be able to conduct an apples to
+apples comparison of the capabilities of all of the offers and the government designated that as the Davis
+formula. That was designated by the Next Generation Committee, this is not something that IDOT
+developed, this is a mandatory compliant formula that was developed and is a part of the Next Generation
+Committee’s technical spec, they had to use the Davis formula. Mr. McCaleb continued, in addition, 9.2 says,
+this is where it lays out, you have to use 360 kW of Head End Power, power for the passenger train itself, and
+then finally 9.2 talks about additional simulations that were intended to demonstrate speed and power at
+various root points on a simulation track in Pueblo, Colorado and what these simulations demonstrate is,
+power and speed at any given point on a route. We’re talking about a relatively small track – it’s thirteen
+and half miles that goes up and down, there are significant gradations and change in gradations so what this is
+intended to show is speed and power at individual points on a given route, not necessarily the ability to
+sustain a speed of 125 over an extended period of time. When we move to next slide which is labeled 6, this is
+where is becomes very plain so, at this point members and Mr. Chairman and members of the Board, we have
+identified and laid out what the requirements are. Now we’re going to turn to what did the Siemens proposal
+show, and what we have here is the acceleration charts that Siemens’ proposal included, showed that it did not
+meet IDOT’s and FRA’s requirements period, this is plain on its terms. What they proposed was an engine
+that had 4200 horsepower. By comparison, the other two offerors, EMD and the GE engine for the third
+offeror, generated about 5,000 horsepower. What Siemens proposed in using its Cummins engine is that
+recognizing that 4200 might be would be a low amount of horsepower, is that we also have a “boost mode”
+and this “boost mode” would be available for quote “a controlled period of time”. They don’t know and
+IDOT doesn’t, there’s no explanation in the record that they’ve seen, what the “boost mode” is and how it
+operates and for what duration and whatever the duration we can say, he thinks definitively, that a controlled
+3
+M:140109
+
+ period of time does not constitute a sustained period of operations, especially when you consider that it takes
+about anywhere from 4 to 20 minutes just to get up to 125 miles per hour. The important part here is Siemens’
+locomotive wouldn’t achieve and sustain 125 miles per hour even if with this “boost mode” at 4400
+horsepower. So the acceleration simulation, and probably on this point this is the magic language, the magic
+language in the proposal, it shows that they did not use any, zero Head End Power, remember the
+requirements are 360 kW, they used zero and they didn’t use the Davis formula for train resistance in
+calculating the acceleration simulations. The quote from their proposal is on the bottom bullet and it says
+acceleration simulations are performed with maximum diesel power at 4400 horsepower without HEP load in
+a driving resistance formula, Sauthoff instead of Davis, and the parameters for the coaches as shown below.
+The Board need look no further then that page of their proposal to find that Siemens’ proposal did not
+demonstrate compliance with the requirements of the specification. But there’s more. If your turn to the next
+page, which is page 7, we show you how Siemens says it conducted its simulations, we talked about the TTCI
+simulations, and these are the simulations run using the track in Pueblo, Colorado, what you can see in the
+excerpt from their proposal in Section 2.3 is that they identify the Davis formula at the top of the page and
+they say here is the Davis formula, but then you have to read the fine print and when you read the fine print
+that we circled in red, they say that they didn’t use the Davis formula at all. What they used is a different
+formula that you see circled and when you look at the page before in paragraph 2.2 that’s the formula that
+they identify as the Sauthoff formula. In reality it’s probably a modified Sauthoff formula, but it not the
+Davis formula, so here is yet a second form on the Siemens proposal that IDOT did not identify in conducting
+its evaluation. Now, did it matter? Did the errors that they’ve identified matter? We think there is a plain
+answer and the answer is yes, these were material errors. The Sauthoff formula that they’ve use versus the
+Davis formula, we think it’s well settled that, number one, the technical specs required Davis, the Davis
+formula is the standard in the Unites States, it is a more conservative formula. Sauthoff, when you use it,
+relaxes the horsepower that is needed to achieve high speeds and the bottom line is if Siemens had used the
+Davis formula as required, and we’ve had our own engineers and third party engineers look at this, if they had
+used the David formula as required the acceleration simulations would not reach the 125 miles per hour. The
+second error, of course, that is material is zero HEP load. They assume zero power going to keep the
+passenger car cool, lit, warm, whatever it may be, that’s why the technical specs require 45 kW per car, and it
+does no passenger any good to have a train that’s going 125 miles an hour if it’s dark and 5 degrees, you have
+to have that power and in generating that power reduces the horsepower up to or maybe greater than 480
+horsepower. The bottom line, if Siemens had generated, used the 360 kW for HEP, then they would not have
+sufficient power to sustain 125 miles per hour. They’ve tried to, and it’s a complicated chart, and he’s not
+going to belabor it but on the next slide, they try to summarize how this translates mathematically and
+simulation-wise. The bottom line is if you look at the chart that we show on page 9, it has an X-axis that
+shows speed and you can see out to the far right between 120 and 140 – that’s where you would find the 125
+miles per hour. Train resistance is on the Y axis and that represents what the effective weight is that the
+locomotive has to pull, and as you know from holding your hand out of the window of your car when you’re
+driving, the faster you go the more resistance there is, and so the faster the train goes the more resistance there
+is. It’s the same principal and so to be able to pull that higher resistance you need more horsepower. So if
+you look, probably the best thing to do is to look at the dark blue top curve, which is the Davis formula for
+train resistance as specified in the calculations and the coefficients provided by IDOT. That’s the curve you
+get if you use those parameters. By the same token if you look at the bottom curve, the red curve, that is the
+curve that you get when you use the modified Sauthoff formula chosen by Siemens with no passenger HEP
+and all of the lights turned out. The difference between at the 125 mile per hour intersection of the X-axis, the
+difference you get is basically a difference in horsepower of about 1300, just by virtue of using a different
+formula and not using Head End Power, so it matters, it matters significantly and it causes a different
+evaluation. There simply was never an apples to apples comparison here between the offerors. Slide 10
+provides a little bit of a conclusion and that is the Siemens proposal, as he mentioned, was non-compliant. It
+says it can hit 125 if it hits to 4400 horsepower in a “boost mode” for a controlled period of time, but it
+doesn’t use the more conservative Davis formula, it doesn’t have any HEP, and if they had included both of
+those, if they had used Davis and included the HEP, they would not have been able to meet the 125 mile per
+hour requirement. Under the terms of the solicitation, there was no discretion for IDOT to exercise. They
+had to be excluded. The consequences of the errors, there are at least three major consequences to the errors
+that they have identified. One, IDOT effectively relaxed the key technical requirement. We are talking about
+high-speed rail. High speed matters. The federal government has said to get funding, that high speed has to
+be 125 miles per hour at a sustained rate. They have relaxed that requirement, which undermines the fairness,
+4
+M:140109
+
+ the individual competition, and the integrity of Illinois procurement process. it certainly doesn’t fulfill the
+public interest in high-speed rail. The second thing that is a by-product of that failure, it permitted Siemens to
+propose illusory price savings. The ability to offer a much smaller engine is both it yields significant savings
+but from a procurement perspective and an operation maintenance perspective because they have more
+cylinders, they’re more expensive to build, the larger engines, the 5000 plus horsepower engine that EMD and
+that GE proposed, so it caused really a distortion of the overall basis for the technical decision because there
+is a illusory price gap that is attributed to this failure. Then finally, there is a significant risk, maybe even a
+likelihood, that as a result of selecting this Siemens non-compliant proposal, that FRA will not provide the
+funding, which would be probably the worst of all possible cases. So what is it that they are asking this Board
+to do? They are asking this Board to issue a recommendation that declares that IDOT erred in accepting the
+proposal of Siemens, and either remand it back to IDOT for a new decision among the remaining competitors,
+or to demand or to request and recommend a re-bidding that complies with the overall terms of the
+solicitation.
+Chairman Stewart thanked Mr. McCaleb. Mr. James Montana, on behalf of Siemens, stated that they have
+not received and do not have copies of these charts that have been passed out to the Board members. Mr.
+McCaleb states that they will happily distribute them. Director Carter mentioned that just so the Board is
+aware, besides CPO Grunloh, the subject matter expert employed by IDOT from Interfleet Technology, Mr.
+Richard Stegner is in Chicago so if he gets up to speak that who is speaking to you. CPO Grunloh responded
+that he appreciates the opportunity to address the Board and always values their guidance and policy and
+welcome this Procurement review. Your staff requested and has received his response to their questions
+regarding the multi-state locomotive procurement. This procurement was done under his jurisdiction and as
+his response indicates, he believes this procurement was advertised, evaluated, and awarded fairly and fully
+transparent. His review and oversight of the actions of the selection committee, along with the subject matter
+experts, were proper with a final selection resulting in the highest technical scoring offer also being the lowest
+priced offer, not a result that you often see. Any revisions or clarifications to the RFP were done by
+addendum posted to the Transportation Procurement Bulletin and were in accordance with the Next
+Generation Corridor Equipment Pool Committee, the Passenger Rail Improvement Act, the Illinois
+Procurement Code, and the administrative rules that govern his jurisdiction. If the Board would allow I
+would just like to answer a few questions, and ask the questions, and answer those that seem central to this
+procurement. Chairman Stewart asked CPO Grunloh to proceed. Did Siemens use the Davis formula? Yes,
+all offers were evaluated using the Davis formula. Siemens also included the Sauthoff formula as
+supplemental information for comparison purposes but that information was not evaluated. Number two, did
+Siemens include charts using the Davis formula? Yes, and he has many page numbers that he can give you,
+but he won’t give those to you, he thinks they have already given them to staff to show that the charts
+included in the proposal do supply the charts using the Davis formula. Number three, can Siemens achieve
+and sustain 125 miles per hour without the “boost”? Yes, independent review and calculations confirm that
+the Siemens locomotives can achieve and maintain 125 miles an hour based on the Davis formula. The
+alternate formula, Sauthoff, results included by Siemens were not evaluated, as a matter of fact, all offerors
+were very similar when evaluated using the Davis formula. Did Siemens use the required HEP load for
+simulation testing? Yes, and they used the HEP load that was revised by the Next Gen Committee down to
+the 45 kW number. Where does Siemens’ proposal… were they used to promote…the HEP load is shown in
+the charts that were included with the information provided to staff and the Board should have those as well.
+As always, he is here to answer any questions the Board may have to the extent that he can, in light of
+pending litigation he needs to be measured in his response. Thank you and he’ll try to answer all the questions
+the Board may have.
+Chairman Stewart asked if any member of the Board had questions for either party. Member Bedore stated to
+CPO Grunloh that you keep referring to the select committee, how is this committee chosen? CPO Grunloh
+replied that the committee was chosen with some input by himself and IDOT, two individuals from Caltrans
+because this was a joint procurement with the State of California, also three individuals from the Rail
+Division, in the Chicago office. Along with that, they had subject matter experts that assisted the committee,
+one requested to, as you can see, it is a very technical RFP and it was very critical that we had good subject
+matter experts to assist them. Member Bedore stated that so when you say that they complied, it’s not just
+you speaking, this group of evaluators agreed with that. CPO Grunloh replied absolutely. The evaluators and
+more so the subject matter experts who evaluated raw data that was asked to be provided by, according to the
+5
+M:140109
+
+ RFP, raw data was asked to be provided with the proposal so that independent reviews and independent audits
+could be done of the numbers and the formulas, but not necessary rely on what a proposer was telling them,
+but that their subject matter expert can take those numbers, run those numbers in the Davis formula and come
+up with the needed answer to meet the pass/fail requirement.
+Chairman Stewart asked if any other Board member has a question. Member Ivory stated that he just has a
+couple of quick questions. Obviously, EMD has stated that there are some key factors that they looked at and
+that they have evaluated, that’s why you’re in litigation now, and obviously, from the Board’s side, they want
+a fair a transparent procurement. Are you confident, based upon their allegations, that IDOT didn’t break any
+Procurement Codes at all in terms of creating a fair and transparent transaction because that’s his hot button
+when it comes to procurement. He wants it to be fair no matter who it is and to be transparent and fair and so
+it’s your assertion at this point, CPO Grunloh, that you said IDOT has complied and feels comfortable that
+every one of these issues that they have brought up have been complied with and IDOT has done everything
+that they’re supposed to do for the procurement process. CPO Grunloh replied that he’ll answer that by
+saying his creditability and his reputation is on the line, and he has full faith in what the evaluation committee
+did, the calculations that the subject matter experts did, and he relies on those and he can answer your
+question that yes, he has full faith that this was done properly and transparently.
+Chairman Stewart stated that CPO Grunloh was asked a lot of questions and he would like to give EMD a
+brief chance to respond. Mr. McCaleb thanked the Chairman Stewart and the Board. At the outside, he thinks
+it’s important to recognize that they ascribe no malevolent motive or ill will towards the IDOT officials
+engaged in the procurement. The fact of the matter is these sorts of mistakes happen, unfortunately, regularly,
+especially at the federal level. They see them all the time and not because people weren’t trying to do their job
+and weren’t trying to follow the rules, but just because they just made mistakes and there is no dispute that…
+there is a dispute, but there is no real question that there were mistakes made here. One thing he wanted the
+Board to be cognizant of is it is true that there is litigation that is pending, but it is important for the Board to
+understand that the Judge in that case is waiting for an update on what the Board’s recommendation is. So it’s
+not as if…the court wants to know what this Board’s thoughts are on the allegations that they’ve raised. Mr.
+McCaleb stated that CPO Grunloh mentioned that Siemens was the low price, technically high-scored offeror.
+It is true that in their evaluation that is what happened, it is equally true that those scores and prices are
+distorted by the errors that they have identified and in a fair evaluation, a fair competition, those would
+change even if there were a re-evaluation instead of simply a disqualification of Siemens. There is also no
+doubt that Siemens did not use the Davis formula as much as IDOT may wish to come before this Board and
+trumpet that they did, the language of their proposal is plain, it is crystal clear, they did not use it period. They
+simple did not use it. The Board can look at Exhibit C on page 8 of their proposal, they didn’t use it. Mr.
+McCaleb stated that CPO Grunloh also mentions that he did not and his team did not evaluate anything
+having to do with the Sauthoff formula. That’s a shame because they should have. They should have looked at
+the fact that in order to meet the 125 mile per hour requirement the only way that Siemens showed that they
+could do it was to a) use a formula that was not permitted by the solicitation, and (b) to decide not to use and
+to assume that there would be no HEP, no power that needed to be generated for the passenger cars. Had they
+looked at what Siemens put in its proposal to demonstrate that it could meet a 125 miles per hour instead of
+ignoring it, they would have seen that the way that they showed compliance or tried to show compliance was
+not permitted by the ground rules of the competition. With that, he thinks he has addressed the major points
+and he would be happy to be to answer any questions that any of the members of the Board have.
+Member Bedore stated that the Board just heard IDOT’s CPO say that they followed the recommendations of
+the evaluation team and it states IDOT reviewed, confirms that Siemens simulation calculations were in fact,
+performed with the Davis formula and they have sufficient horsepower to achieve and maintain 125 miles per
+hour. They have a group of experts and IDOT saying they did and you’re saying that they don’t. Member
+Bedore stated that he doesn’t understand. Mr. McCaleb replied that he can understand the Board’s
+predicament because he understands what the Board is reading and he understands what CPO Grunloh’s
+testimony before the Board was. All he can do is point the Board to their proposal and he has tried to excerpt
+it in relevant part where they establish that they did not use it. There are two places where they run
+simulations, one is the acceleration charts. On the page dealing with acceleration charts, which is page 6 of
+their proposal, they say we used the Sauthoff formula, they did not use Davis. When the Board looks at the
+next page where they talk about doing the driving resistance formula for simulations they cite the Davis
+6
+M:140109
+
+ formula on page 8, but they then in fine print tell you that the formula that they actually used to run the
+simulations it’s the exact same formula that they show you on the prior page, the Sauthoff formula. So he
+understands the Board’s predicament. The Board wants to defer to a representation of what the experts saw,
+but the fact of the matter is that once the final proposals went in this was an expedited evaluation process that
+took place over a course of a couple weeks and at the end of the day they missed this. They either missed it or
+just did not account for it, but the fact of the matter is they did not use the Davis formula, it is as plain as day
+in their proposal. Member Bedore stated that it goes on to further state that references to the Sauthoff formula
+in Siemens final offer where included only as comparison between specific values and it was there for info.
+Mr. McCaleb replied that he doesn’t know what you’re reading from, but he knows what the solicitation calls
+for and in Section 9.2 of the technical specs, here’s what it says. It says, the contractor shall provide a
+complete and comprehensive description of the proposed locomotive to be built, at the minimum the
+contractor shall, mandatory shall, provide charts, plots, or tables for the following as part of the bid proposal.
+The forth bullet: acceleration with the trailing cars weighing no more than an average of 170,000 using 2
+locomotives and 8 trailing cars. This is not nice to have information, this not supplemental information, this
+was mandated by the terms of the solicitation.
+CPO Grunloh stated that he wanted to just address a couple of things. It was said that they should be maybe
+ashamed of themselves because they didn’t evaluate using the Sauthoff formula. IDOT didn’t evaluate it
+because it was supplemental information. They evaluated it using the Davis formula as he said before, and
+that’s what the specifications, the RFP asked for and he’ll read again from the RFP. It says, all offers must
+include sufficient detail of the methods and values used in the simulation calculations shall be provided to
+enable an accurate assessment of the data provided by proposed offer. Key to the simulation is evidence that
+the locomotives being operated are capable of achieving 125 miles per hour consistent with the specifications.
+IDOT may audit the offerors proposed simulations. IDOT took the raw data, ran the simulations based on
+that raw data. The proposal was evaluated and scored based on the Davis formula.
+Mr. McCaleb stated that CPO Grunloh tolls the Board that IDOT did not review this information, it was just
+nice to have information, that it was supplemental information. That is not what the State of Illinois charges
+of its procurement officials. You cannot stick your head in the sand when you have information that is
+available to you that suggests that a proposal can’t meet the requirements. Siemens included it in their
+proposal, they didn’t have to according to CPO Grunloh. They think the language is plain that they did, but
+you cannot, whatever the language is in the proposal, you cannot just ignore it and choose not to evaluate it,
+and if they had, they would have seen that this would not meet the requirements of the RFP.
+Member Ivory stated that he has another question and he thinks that there is a subject matter expert in
+Chicago. One of the things that he is thinking about is how much emphasis we put on pricing in terms of the
+evaluation because obviously at 4200 horsepower and the other competitors used 5,000 because whatever the
+reason, rationale, because it would meet the requirements that we put in the RFP. Can the subject expert
+speak to the fact, will this engine at 4200 or 4400 with Cummins meet the 125 miles per hour for the question
+that he has? And then the other question is that if it does meet that, well quite frankly, it has to because he is
+sure that’s what you’re going to tell him, but go ahead and tell him if it does meet that.
+Mr. Richard Stegner replied yes, it meets it. Our independent calculation shows that, also please note that
+none of the subject matter experts were around for the commercial scoring so they didn’t even have any idea
+what the commercial score was going to be when technical score was tabulated. CPO Grunloh stated to
+reiterate what Mr. Stegner was saying, the technical proposal scored first, the price proposal was sealed and
+opened separately later.
+Mr. McCaleb asked that since Member Ivory asked their technical expert to opine, could EMD have their
+technical expert offer their view, they have done the calculation using the information in the Siemens
+proposal. Chairman Stewart stated that they will allow that and it will conclude the testimony. Mr. Rich
+Chudoba from EMD stated that they had taken the data that was included in both the RFP, the ground rules
+under which the calculations were to have been done and the input perimeters that were specified in Section
+9.2 of that document. They ran those calculations themselves, but of course, they wouldn’t want to present
+their conclusion of a competitor’s information as the definitive. So they had both, their calculations and then
+they asked several outside firms to do a similar calculation and everyone came to same conclusion, that if you
+7
+M:140109
+
+ use a Davis formula, if you use the specified train resistance parameters and run the calculation with a 4200 or
+even a 4400 horsepower engine, the train could never accelerate up to 125 miles per hour given a piece of
+railroad that would support sustained operation at that kind of speed. If you turn off the power to the people in
+the cars and redirect that power to the propulsion system and if you use the more favorable, less challenging
+formula to do the calculations, then yes the conclusion is that the train would make the speed, but those were
+not the ground rules as specified in Section 9.2 of the PRIAA specification.
+Director Carter stated that at this point the Board really has two options, they can motion to vote on a
+recommendation to void this contract and the recommendation goes to CPO Grunloh. If the Board feels they
+heard enough evidence that there were violations of the Code. The other option is we simply take no vote and
+he will respond in kind that the Board did not feel that there was substantial evidence to warrant a vote to
+recommend voiding the contract. Chairman Stewart asked if anyone on the Board wants to take a vote or do
+we want to just take no action and let the contract stand? He doesn’t see enough to go forward with a vote.
+Seeing no motion the Board is not going to take action on this matter and will respond to the CPO
+accordingly. With that the matter is concluded in front of the Board. Chairman Stewart thanked everybody for
+taking the time to come down here.
+Next on the agenda was the Lease Review – Lease #110613DC at 616 E. Green and 627 S. Wright in Urbana.
+In attendance for the University of Illinois were Dan Crawmer, Associate Director of Real Estate Services,
+Dr. Sandra Burke, Director of Nursing, Brett Stillwell, Campus Architect for Capital Planning and Bruce
+Walden, Deputy Director of Real Estate. Mr. Walden stated that he also wanted to point out that Mike Bass,
+Deputy Comptroller and Associate Vice President was also in attendance from the University. Mr. Walden
+stated that with the Chair’s indulgence he like to give the Board a brief overview of the project and what they
+have done to date, the procurement process and then have each of their representatives give a brief discussion
+of some of the things that they think the Board might be interested in. Their goal is to provide the Board with
+as much helpful information as possible so that the Board can better understand what this project does for the
+University. Mr. Walden stated that each year more than 1200 nursing students attend one of their five
+campuses at the University of Illinois either at the Chicago main campus, Peoria campus, Quad Cities
+campus, Rockford or the Urbana campus. This project involves the Urbana campus where they have 173
+graduate and undergraduate students that are registered to attend this fall. The current space that they now
+utilize for the nursing program at UIUC is inadequate and has been on the demolition list for a while and will
+not be available to house this program as of this fall. That building will be razed and will be used as a location
+for another University use in the future. There is no available space for this program within the existing UIUC
+facilities at the Urbana campus. Mr. Walden stated that having that information early last fall they began a
+planning process to determine where they could locate the nursing program and to develop a program space
+that they felt was appropriate for the program. They initiated the RFI solicitation process and published that in
+the Bulletin on November 6, 2013. Mr. Walden stated that he would note that the geographic area as noted in
+the publication was limited to one mile of the Illini Union. The reason for that is that the ability to walk to
+campus and to walk and use other campus facilities was a primary criteria for the location of the nursing
+program. There was only one submittal that met the space needs that they had advertised and the location
+requirements, which turns out to be immediately adjacent to the campus about 150 feet from the alma mater in
+fact. Immediately following the committee’s recommendation to proceed with the project and with JSM,
+negotiations were taken to not only negotiate the lease cost, but also the necessary build-out that would
+support the University programs. At the completion of that they published in the Procurement Bulletin on
+April 16, 2014 the award, which he believes the Board has. Their schedule has been somewhat tight on this
+project. They hope to occupy this space at the beginning of the fall semester on August 15, 2014. There is
+about a million dollars worth of work, both the lessor share and the lessee share, to get this space ready to
+house students on August 15, 2014. Consequently, if everything goes according to schedule they will start
+construction next week. Mr. Walden stated that also there was a parallel process that they needed to use to
+approve this project through the University. That process involved not only their internal approvals at the
+administrative level, but also to take a number of steps for approval through the University of Illinois Board
+of Trustees. The University of Illinois Board of Trustees Healthcare System Committee, as well as the Audit,
+Budget and Finance and Facilities Committee both reviewed the lease and the recommendation to proceed on
+May 5, 2014. Following that, that recommendation was made to the full Board of Trustees, who approved the
+lease yesterday. The University has provided significant information and provided documentation as they
+normally do to the PPB staff, but they also thought it would be helpful and are trying to be as helpful as they
+8
+M:140109
+
+ can as they try to explain this project to provide to the Board additional supplemental information. What they
+would like to do now is to focus on three things that they believe would be of interest to the Board. Mr.
+Walden stated that they would like to move to the next section, which is Market Rent Information and at this
+point, Dan Crawmer will make a brief presentation on the information that they have regarding market rent.
+Mr. Crawmer stated that the proposed lease space is located in two adjacent buildings at 616 Green and 627
+Wright and they will be connected by a second floor corridor. The buildings are owned by the same
+developer, but are listed under different legal entities so they had to do two different leases. The owners
+elected to show different rates in each building. They negotiated, to begin with, with one lease until they
+found out that they had two different legal entities and the original lease rate was $23 a square foot. Since
+they were divided into two leases they show one lease at $10.88 a square foot and the other at $28 a square
+foot. Mr. Crawmer stated that he believes the reason they did that was because the 627 Wright Street is a new
+building they just purchased it and they probably wanted to make sure that the rent roll had an increased rental
+rate and that the appraisal for that building would be higher so that they could borrow more money for that
+building they purchased, but they always considered the blended lease rate, the rate that they were working
+with and that was $23 a square foot. If you look at the sheet that was provided to you that compares the lease
+rental rates you will see that in those buildings the rent roll for 627 Wright you will see that the University is
+going to lease the space for $28 a square foot and the other spaces in the building are leased at $36 and $33 a
+square foot respectively. At 616 Green, the University is going to rent space for $10.88. The University
+already leases space in that building for $15 a square foot and $16 and the other tenants are leasing space for
+anywhere from $27 to $32 a square foot. Down the street a few doors down, Busey Bank is renting space for
+$27.26 a square foot and just so the Board knows that in Urbana the University is renting medical space for
+$45 and $27 per square foot. Mr. Crawmer stated that the University feels that at $23 blended square foot rate
+is in the market and they have negotiated a good market rate for their facility for the College of Nursing. Mr.
+Walden stated that the next presenter would be Dr. Sandra Burke.
+Dr. Burke thanked to the Board for the opportunity. She has some short points to make and there is a
+document in front of the Board that elaborates a little bit about this, but she really has some critical pieces to
+add to this and for them the critical issue for their college is space. The first point is that simulation is
+necessary for the students. Their faculty in nursing is charged with insuring the graduates of their program
+will provide safe and high quality care to all patients before and once they graduate. To do this they must have
+sufficient space and that space must be equipped for high fidelity clinical simulation. The second point is that
+distance-learning space is critical to their mission. Classroom space that they will have in this facility will
+allow their graduate students in particular to connect with their fellow students through distance learning and
+connect them to all of the other regional campuses. The third critical point is that faculty continues to need a
+safe environment as well as sufficient space to conduct their work. The work of faculty and staff includes
+preparation and delivery of all instructional materials and, of course, putting all of their students and all of the
+learning needs. And the fourth critical issue from her standpoint is location. Their undergraduate students are
+admitted in their junior year and those students have classes in many different locations on the UrbanaChampaign campus and so the students need to be able to walk in a reasonable time limit in a safe
+environment from their building to any other location on campus. The bottom line for them is that they need
+to have space for the students that they have and sufficient space to grow the program as well. Dr. Burke
+stated that she is sure the Board is aware that there is a critical nursing shortage and for them they educate not
+only undergraduate students, but graduate students and having a facility to be able to continue their mission is
+important. Mr. Walden stated that next he would like to have Brett Stillwell, the Campus Architect, explain
+and give some information on the type of build-out that is necessary to support the nursing program.
+Mr. Stillwell stated that he put some brief information in the Board’s packet. This is a unique build-out. The
+fact that it is for the College of Nursing and not just general classrooms, that there are simulations involved
+and other things creates a unique space. In general they reviewed the fit out costs and think they are
+appropriate for this type of build-out and in fact they think it is very appropriate. The improvement costs
+Bruce alluded to, $639,050 for the tenant improvement portion of it and then another $339,243 to be paid by
+the developer so virtually a million dollars worth of work, but in 10,715 square feet of space so that equates to
+$92.50 a square foot, which is a very reasonable number for that type of build-out. Industry standards for an
+interior fit out of an open space like that would be approximately $91.30 for an office/classroom open-type
+setting and $138 a square foot for a clinic space. In fairness this is not a full-blown operating clinic so he
+9
+M:140109
+
+ thinks that $138 is not appropriate, but certainly the $92.50 is a correct number for this type of fit out of that
+space. Mr. Stillwell stated that UIC did do their due diligence, originally the proposal, they cut almost
+$200,000 out of it to try and get that number down to a more suitable number that the Board is looking at
+now. This isn’t the first figure that they got and passed it through. Mr. Stillwell stated that he noted some of
+the unique items as well underneath there and he will touch on those quickly, large number of restroom
+fixtures because of the classroom use and for the simulation spaces. This is in relation to what that space
+would typically be fit out as an office. So a large number of toilet rooms and an inclusive toilet which is
+required by campus policy, three state of the art flexible classrooms with sophisticated technology and audio
+visual, creation of hospital simulation type rooms. If you look through the drawings they have beds and
+curtains and appropriate fit out, two hospital exam rooms, a control room to observe that, additional HVAC
+because they have a greater population in there than they would typically have for an office so they have
+greater numbers so they need greater air conditioning and heating requirements, additional exits because of
+the numbers of people again, and extensive plumbing, nurses station as well. Based on that and also based on
+the fact that they are doing a very fast turnaround he thinks that they are getting a very reasonable price. Mr.
+Walden stated that this concludes their presentation and they would be happy to answer any questions the
+Board might have.
+Member Bedore stated that he is in full agreement that the nursing program needs a new facility and
+everything else. He is going down tomorrow to MIZZOU where his granddaughter is graduating from
+nursing. Every other grandchild went to the U of I, but she felt that the U of I nursing program left something
+to be desired due to the facilities and everything. So he has no argument with the nursing program getting
+some help from UIC or whatever else. What he does have a problem with is the rate and the lack of planning
+by the U of I. Where are your planners? Didn’t you know that you were needed something? So now all of a
+sudden the U of I needs to spend $3.5 million. See this sign – Capital Development Board. The Capital
+Development Board says at the high end its $300 a square foot, the average is about $220 a square foot for
+build-out. U of I could do that, build a building for $2.5 million, but no you’re going to spend $3.5 million.
+What are you going to have and the end of the 10 years? U of I will have a lot of rent receipts in your hands.
+Where is the planning? Where is this great U of I, the engineering, the architecture? Isn’t this supposed to be a
+great school, the flagship of the State of Illinois? Where is the planning? There is no planning, it is easier to
+do this, and you’re comparing the rates with commercial places, Panera Bread, Spoonhouse. This is a great
+deal for this owner. He is going to have over 200 people in this building that now can go to Subway and
+everyplace else. This is the Follet Building, right? Ok this is really great – he’s never seen anything like this.
+Talk about not looking ahead. This didn’t come up overnight. Member Bedore stated that he doesn’t
+understand this. U of I did their one mile from the Union. Do you do any work at Carle Hospital? Dr. Burke
+replied yes they did. They have students that have clinical…Member Bedore asked if they would consider
+doing a mile from the Carle Hospital. Dr. Burke replied that their students take other classes on the University
+of Illinois campus. Member Bedore stated that he understands that. Dr. Burke replied that they need to be able
+to walk to the campus. Member Bedore stated that not one of his grandchildren could walk to their classes.
+They all had bikes, particularly the engineering student. You’ve set the parameters so it almost has to be the
+Follet Building. The Carle Hospital is really going to be where their center is. Dr. Burke replied no sir it is
+not. They also have students who have clinical agency assignments in Decatur and…Member Bedore
+interjected stating that they could have picked besides the Union they could have picked Carle Hospital. There
+is such a lack of planning here and then you come, oh we’ve got to get this, and we’ve got to put it through
+because we want to be ready by August. That is poor planning. That is the oldest excuse in the book. Oh, if
+we don’t get this the nursing program is going down the tubes. Where have you been for the last two years?
+This isn’t something new. You knew that you had to get out of this building. To him the U of I just has a lack
+of planning, a lack of foresight and you gentlemen right here are responsible for that. So U of I wants to spend
+$3.5 million and wind up with rent receipts or you could build your own building for $2.5 million. Oh, it’s
+just taxpayers’ money, what’s the difference, you don’t care. This rate of $28, the Board just approved months
+ago a lease at State and Madison in Chicago, Illinois for $24 a square foot. State and Madison for $24. South
+Michigan Avenue – prime overlooking the lake for $20 a square foot. West Adams right in the heart of the
+Loop for $18.25 a square foot. You are comparing your rate with commercial. Member Bedore stated that he
+doesn’t care what the bank pays. They have hundreds of people going in and out – wear and tear on the
+building. To him this is a total lack of planning and foresight by the U of I and it is a disgrace and you are
+holding up the taxpayers with a gun and this gentleman is doing the same. That’s what you want and then you
+are going to blame this Board just like you did with some other project a year ago. We’ve got to get this
+10
+M:140109
+
+ project going to we can get the students in there by August. Where have you been for the last two years?
+Where is your planning? You’re the Director, where have you been? Chairman Stewart asked if any other
+Board members had questions.
+Member Black stated that on occasion when Member Bedore raises issues he has noticed over the months that
+the University doesn’t generally respond and he would think in order to get a handle on what you are doing
+and what the costs are and the Board hasn’t had a lease before them in several months that didn’t have a one
+year termination by either party. He is very familiar with that because there was a lease in Danville that was
+renewed and then cancelled very quickly. Member Black stated that he has a great deal of respect for the
+University and a great deal of respect for his colleague Member Bedore. What are your answers to…because
+it is not just this Board, they often hear from people. They have substandard facilities, they knew that and so
+why didn’t they plan ahead to say well, we can do this or we can do that or we can build our own building it’s
+not like there is any construction going on the University campus. They could have gone to the Board or to
+the President’s Office or whatever office they go to and say that we need space, can we include it in the new
+science building, can we include it in some of those buildings, but when there is no response to some
+questions that not only Member Bedore raises, but people in the community and they call the Board and ask
+what is going on. If there is no response what is the Board supposed to say. Member Black stated that he has a
+lot of respect for the University and he doesn’t want to go back and tell people, well that’s the University,
+that’s just the way they do business. That question doesn’t fly anymore. He means that response doesn’t
+satisfy people anymore. No, it is not just the University, he wants to know why we are spending this money.
+Mr. Walden stated that he was going to try taking a shot at part of this. As far as the planning for this project,
+from start to finish it is about a year. Obviously, from a planning point of view, construction of a new facility
+for this use has not been considered the highest priority for capital requests of the University. He is obviously
+not the authority on that to explain what the priorities of the University are, but obviously this project and
+space for this program, for a number of reasons he is sure, part of it is combining program between two
+campuses and other factors that compete for limited and scarce capital dollars. This project did not surface as
+one that was a top priority for a new construction project. He is not sure that he could answer the question
+beyond that so in the absence of a capital project for this project here, nursing, they are forced with trying to
+find space. Finding space in and around and adjacent to the University is a very difficult task. The University,
+since he does real estate for the University at Chicago and Champaign and Springfield, the property values for
+University of Illinois land values per square foot adjacent to the University campus in Champaign are higher
+than those near UIC obviously. The demand for space, there is very limited commercial office space in and
+adjacent to the campus that isn’t taken for the most part. They were very fortunate that this developer was
+able to put spaces in two buildings together to satisfy their need within that area. It is the only space within at
+least one mile that is available and while they are not the same uses as some of the commercials spaces that
+they provided comps on those are the competition for the space. Why would an owner who, this is upper story
+and in this particular dense area, upper story is also restaurant. There is a restaurant on the first floor and a
+restaurant on the second floor so this is extremely dense, probably the densest urban development south of the
+Chicago Loop. So the competition for very limited space is with the commercial sector and the commercial
+sector drives the market. The market is what it is and the market is $30 a square foot and it’s not their opinion
+that it is $30 a square foot where as the comps from what Associate Director Crawmer’s provided, they are in
+fact what is currently the rent roll within that building and those buildings adjacent to them. In terms of
+planning, all he could address is that this wasn’t the highest priority of the University. They have been
+planning this for a year. In terms of the cost of space in and adjacent to the University all he can attest to is
+what exists. Mr. Walden stated that he is hopeful as least that goes part of the way in answering your
+questions. Member Black stated that he appreciates that. There is no question that the campus area, nonUniversity area, has changed dramatically. When he was a student back in the 60’s that area didn’t look
+anything then like it does now. There were some storefronts along Green Street that could probably have been
+picked up for $5 a square foot. Because he noticed when he was there, there was a store there or restaurant
+one month then another restaurant the next month and a for lease sign the next month now it’s completely
+different, high rises, everything is different and he understands that. Several years ago when he was still in
+the General Assembly they met with President Stukel and with representatives of the Danville Area
+Community College, they were desperate for accommodating more BSN students because of the
+demonstrated need and that is where he gets confused about the University. U of I is in a regional health
+center and he has always wondered why, unlike Illinois State seemed to notice in the Bloomington area the
+11
+M:140109
+
+ need for nursing education 10-15 years ago and all we were trying to do at that time was to say if you could
+take some of your faculty and come over to the community college where they have all of the labs and
+everything you need we could accommodate more students etc, etc, etc. The University didn’t think that was a
+very good idea, but the University also, when their students wanted to commute to get the BSN, they weren’t
+too excited about that either. Member Black stated that he thinks that Member Bedore raised a very
+interesting question and he is not sure the Board will get an answer today, but obviously the U of I is in a
+community that understands healthcare, you know the shortage of nursing and now there is something on the
+drawing boards that may be a multi-hundred million dollar project for medical education. He has no idea
+where that building will be built, but he can assure you…Mr. Walden interjected that they didn’t either.
+Member Black stated that he lives in an area that if you continue to get push back on property taxes, on where
+you are going to put it, Danville will welcome you over there and never charge you a nickel for property tax
+or any other issue and they won’t blame Carle or they won’t burn the University of Illinois, but it goes back to
+what Member Bedore said, you can’t come in here in three months out and say, we need some help in buying
+land and building this hundred million dollar clinic. He just doesn’t understand why, located where the U of I
+is, and he knows President Stukel and his advisors back then clearly understood the shortage of nurses. They
+couldn’t get anything worked out, but that was a long time ago and gone now, but Member Bedore raises
+some interesting questions about, and he understands market rate, but you also understand people are looking
+at the University of Illinois more closely than in the past and they say, wow $30 a square foot, you know.
+Maybe we should have built off some space for you in Lincoln Hall.
+Member Ivory stated that he had a few comments. He also wanted to echo what Member Black said that he
+has an enormous amount of respect for Member Bedore in terms of his expertise in this subject matter. Your
+response to him was that somewhere along the line it was not a priority to the University and that is why
+perhaps the planning was perhaps, from a capital budget side, not at the highest level, but then you ask the
+Board to make it a priority right now to do something immediately. It’s not a priority to you, but it should be a
+priority to the Board to approve this and move it forward. Member Ivory stated that he would have
+appreciated it even more if someone would have said, you know what, we just missed this and here is the
+reason we missed this and have someone assume some responsibility for the lack of planning and the
+oversight or something. He would have been perhaps a little more sensitive to the subject matter, but he thinks
+that at the end of the day is that when they take a look at what the options are and at this point in time you are
+going to have to move out of the facility as it stands right now and we can’t change the past, but it’s going
+to…so you are forced to move out no matter what so that is clear and decisive so you have to find a space
+somewhere. Then to make space convenient to the students who you represent and need to make it convenient
+and this is the best space you could come up and you negotiated the best price you think you could negotiate
+on the lease at this point. Mr. Walden replied that is correct. Member Ivory stated that he is also slightly
+disappointed that the planning was not as…was not done ahead of time because it seems like it would make a
+lot more sense to have built a building and had the equity and all the other things that go along with it instead
+of having rent receipts also and he guesses the Board will do what they have to under these conditions, but he
+does think it speaks to some internal challenges and he thinks that you need to look at it internally and figure
+out why did you made this mistake, how do you avoid that from happening again because he thinks we can
+agree that it was a mistake if you can build a building for $3 million instead of renting the building for a long
+period of time and have enough after that period of time it seems to be the best use of taxpayers’ money at the
+end of the day. Member Ivory stated that he will listen to the rest of his colleagues and the Chairman and at
+that point in time they will make a decision as to what they do or don’t do.
+Chairman Stewart asked what the consequence will be if this lease is not approved – what happens next to the
+program, to the University. Hypothetically, if this doesn’t move forward what happens next at the University?
+What happens to the program? Mr. Walden replied that if the Board is asking if they have a plan B, they do
+not at this point in time. Given the space requirements of the program, the location requirements of the
+program, and the time to build this, anywhere they go in lease spaces they are going to have to build-out the
+space to meet the needs of the nursing program including all of the particular specialty things that they need.
+So they really don’t have time to do that elsewhere. That is the best he can do in terms of an answer. He
+wishes he did, but they do not. Chairman Stewart asked then what happens. Mr. Walden replied that he thinks
+that they would probably try to delay the other project as long as they could where they are currently at for the
+demolition, but short of that he would have to turn to Dr. Burke to see what happens if they discontinue the
+program at UIUC.
+12
+M:140109
+
+ Dr. Burke stated that they will not discontinue the program at UIUC. Worst-case scenario would be they do
+stay where they are and where they have been for nearly 20 years. She would like to mention that they have
+grown the program at Urbana-Champaign and would also like to mention that part of the problem from her
+perspective is that the planning that goes on with a project like theirs involves two campuses and that adds a
+layer of complexity for her that she has been involved in the last eight years as director of the program in
+Champaign-Urbana. Their colleges are located in Chicago, the main campus is located in Chicago so it is part
+of the University of Illinois system and they are physically located on the Urbana-Champaign campus so they
+are the University of Illinois Chicago at Urbana and that is where they have been for many years. They started
+in 1974 as a BSN completion program. They began their masters program in the 80’s and they began their
+bachelor program in 1996. When they started their bachelor program they started with 12 students and she
+was there for that year and is still in touch with many of those graduates. Over the years they increased their
+enrollment to 48 undergraduate students, they admit as juniors, and they did until 2008 when they increased
+their enrollment to 56 and then the following year to 64. The reason they stopped at 64 is because that is what
+the community can handle. They can’t put any more students in the community because there are not clinical
+placement sites available. Additional to that they don’t have faculty to support that. There is an incredible
+faculty shortage in this country. So they have multiple problems about growing their program, but at the same
+time they plan to grow the program and they cannot do that where they are right now. They just can’t.
+Chairman Stewart stated that the proposed build-out would be to, as he understands, provide some more
+modern facilities, but are you saying also to help perhaps increase enrollment. Dr. Burke replied absolutely.
+Chairman Stewart stated that he noted that in the materials that were submitted that at one point talking about
+the background of the facility, that stated on an accreditation visit the conditions of the existing facility were
+noted as a significant concern by the accreditation team. Can you just describe what that was all about and
+particularly when did that occur. Dr. Burke replied that they were accredited by the American Association of
+Colleges of Nursing and at their last accreditation visit in 2009 they had a site visit. The accreditors spent the
+vast majority of their time in Chicago, but because they have at this time the last accreditation visit included
+their bachelor program, which they have in Urbana and so the site visit was to their place. At the time the site
+visitor came down with one of their associate deans and it was a March visit, no winter visit, and she drove
+her over to their lab, which is in a 100 year old house about two blocks from their office building and at that
+time the building had not been painted in 17 years, it needed a new roof, it needed a new hot water heater, it
+was deplorable. When the accreditor got out of the van she looked at the building and all she said was, oh my
+god. It was the only black mark on their accreditation report that year and so it stood out. That was nearly five
+years ago. Their accreditation requires that they give a mid-term report and they did receive full accreditation
+with that black mark and they said that they expect that in 10 years that this will be taken care of and on their
+five year report, which is due in December they hope that they could say, yes they are not only planning for,
+but have sufficiently dealt with the situation involving student learning in the lab.
+Chairman Stewart replied also on some of the materials presented, again speaking about the background of
+the situation, the statement there were not dedicated classrooms for instruction, the CON as a UIC institution
+received the lowest priority for UIUC classroom allocations are often spread throughout the campus, is that is
+a fair and accurate statement. Dr. Burke replied that it is a fair and accurate statement and it has to do with a
+number of different factors not least of which is the fact that we are UIC but we’re not in the UIUC timetable
+so we’re not afford the opportunity to bid for classrooms in the same way that other colleges are on campus,
+more importantly we’re on a different kind of time block schedule. Our students are in class for anywhere
+from one to three hours at a time block – on the UIC campus they use block scheduling, and so once all of the
+other assignments for classrooms are made, then the classroom scheduler does everything she possibly can to
+put us in reasonable spaces. We do have the space available that we need but our students might be walking
+from the engineering quad to the Armory within 15 minutes. Chairman Stewart thanked Dr. Burke for
+answering those questions and continued that he shares everyone respect for U of I, all of the campuses in the
+system, and yes he is aware of the issues regarding nursing at large, the nursing shortage and the lack of
+educators for nurses, and he’s certainly sensitive to that too. He thinks to Member Bedore’s point, and
+Member Ivory’s point, it seems like, at least internally, perhaps the College of Nursing could work with its
+parent institution and maybe move a little with a priority list as opposed to the Board is being asked to take
+action here. Despite the statement of it’s the lowest priority for a classroom, that’s something that is obviously
+not going to get fixed overnight. Self-help is always the best help. In the planning perspective, and he
+13
+M:140109
+
+ understands capital budgets, but again, advocacy internal is probably a good effort when it sounds like some
+of issues have been identified for quite some time. He knows this lease is coming up now but it sounds like
+the accreditation visit was back in 2009 and he’s assuming some of these concerns were due to flooding and
+infestations weren’t something that just manifested in the last year or so. To the planning point, whether it
+would make it into a capital budget or not, just from the planning perspective, the Board is often put into a
+situation where we are the last ones, and then he’s sensitive that there’s only so much assets and resources to
+go around, and he’s sensitive to that working at an agency, it does put us under the gun a little bit too which
+makes it challenging for us. Chairman Stewart asked if any other member have any further questions or
+comments for members of the University. Member Bedore replied yes, who’s going to be taking over your
+present space that you have today? Dr. Burke responded that she can’t speak to that it. Mr. Walden replied
+that it’s scheduled for demolition, the existing buildings that they’re in right now, and I’ll say proposed for
+demolition. Member Bedore asked that you’re saying you’re having difficulty in getting faculty if you’re
+going to expand the program. Do you have the faculty lined up for August? Dr. Burke replied that they have
+sufficient faculty for August. If they were expanding the program, they can’t expand the program this year.
+Their plan is to expand the program with the enrollment of 2016 academic year, they would open up a new
+program called the Graduate Entry Program, beginning with the fall of 2015. Member Bedore responded so
+you’re not really going full blown in this facility this August. Dr. Burke replied that they’re filling it up, sir.
+Member Bedore replied yes, but you just said you don’t have the faculty to handle 173. Dr. Burke replied
+that oh yes, they do, they have to faculty to handle what they have, they absolutely have the faculty to handle
+what they have. Member Bedore asked and they’re in this present building? Dr. Burke responded that yes
+sir, some are in offices that are 78 square feet and some are in offices that are larger than that. Member
+Bedore responded that to him, and he’s not critical of the nursing program at all, he’s going to a graduation
+tomorrow, nursing, he has the very highest esteem there is, but he doesn’t understand the planning side of
+this, and he doesn’t understand you, Bruce. You said it is what it is, you said it three times, it is what it is.
+Five years ago you knew you had a problem with your accreditation. Where have you been for five years,
+Bruce? Member Bedore stated that he is serious you sit there and smile, and he doesn’t think there is
+anything to smile at, where have you been? They said in ten years it will all be taken care of. Now don’t tell
+me you couldn’t have built that building, in that ten year period, and you wouldn’t have to pay the prices
+today, if you built that five years ago. You’re asking the taxpayers of the State of Illinois to come up with an
+extra million dollars for your incompetence, that’s what is happening here. There’s no planning you knew
+that there was an accreditation problem. This is not surprise, the building is collapsing, it’s going to be
+demolished, you’re making off like this just happened, well it didn’t just happen. You folks here are the
+planners for the University, for the facilities. So we’re going to spend three and half million dollars and all
+we get for it is a rent receipt. Five years ago in 2009 you were told this building isn’t going to make it, then
+you come here and the nursing program is going to collapse if we don’t do something right now. Where have
+you been, Bruce, for five years, and he doesn’t like the answer it is what it is. Member Black asked if you do
+not get this space what is your plan, to continue operating in inadequate facilities? Dr. Burke responded that
+for the foreseeable future yes, certainly we have to look forward to the future and determine what our next
+steps will be. She will tell you that she’s been sitting at her desk since 2008, and she has been advocating for
+new space since 2008, but during that time, please understand that this has also been a time of great financial
+challenge for the State of Illinois, and for certainly the University, that during her tenure they had one of their
+deans retire, they had another dean as interim, their current dean has been in place for, this is her fourth year,
+and upon taking her position she began to advocate for space as well. The challenges of combining the
+priorities of our two major Universities have really been substantial, and she’s not trying to excuse it, she
+really is not, but she lives with this every day. She has a foot on both campuses, it’s complicated, and this
+seems to have been the best solution that they could come up with for the short term. For the long term this is
+lease is for five years with an option for five more. A discussion she had with her dean not a week ago was
+that now that we have a Director of Development, she just hired on within the last two weeks, and whom she
+has a phone call with tomorrow afternoon, the first thing on our list is what are we going to do for Capital
+Planning for Nursing in Urbana? That’s got to be on our list. In order to grow the program, it does have to be
+on the list, but again it’s balancing the needs of a very small program – Urbana is in the grand scheme of
+things, a small program when you look at the University of Illinois in Urbana-Champaign, with all of the
+other needs that are there. She’s met with over the years President Easter, when he was Interim Chancellor,
+she’s met with Chancellor Wise, she’s met with Chancellor Meares in Chicago, with Provost Kaufman in
+Chicago, certainly Jane Weaver has met with all of these administrators multiple times, so we have been
+advocating for what we need, and what we need is really about the student but she would ask you please to,
+14
+M:140109
+
+ look beyond the student to the end user. Our students have in their hands, when they graduate the public
+health and that’s what she’s trying to advocate for right now, is to put us on par with the other schools.
+Someone mentioned Illinois State, she would love to have the same kind of facilities that Illinois State has.
+They have a 10,000 square foot lab, our plan is for a 3,000 square foot lab for the short term. We will make
+that work. That’s almost 3 times the space that we currently enjoy. Member Black replied that he doesn’t
+pretend to understand the bureaucracy at the University of Illinois, he’s not sure anybody does. He registered
+at the Armory which was just mass confusion, and you finally get to the head of the line, he’d liked to have
+this class, he needed it to graduate – no, that’s closed. But if you could find the professor, and then you ran
+all over the campus, maybe miles to find the professor – I need to get in this class. Oh, okay, I’ll call over
+there tell them to hold a spot, and then when you get back over there, and then you can get in the class. Then
+when you get back over there you were 340th in line in that department, so he doesn’t pretend to understand
+the bureaucracy of the University of Illinois, but do you fill out annually a resource allocation and
+management plan, a ramp document, that every year gets reviewed as to where it should be on any kind of
+campus hierarchy list? He thinks that’s what Member Bedore is talking about. Where do you go to get some
+administrative staffer to say, you know this is constantly moving up the resource allocation management plan.
+We don’t have sufficient square feet for the students. We’re not able to accommodate all the students that
+want into the program and eventually it gets to the top of the list, sometimes more slowly. Community
+colleges have to file that every year with the Community College Board and they have to explain, you have
+more square feet then you need for this program according to your enrollment, you don’t have enough square
+feet for this program that you do have a student load and that is how they move up on the allocation list. He
+doesn’t know if the University does that or if it is just a crisis management plan. Oh, good lord, we are in
+trouble of losing accreditation what are we going to do? Member Black stated that he doesn’t want to see that
+and that is why he asked what they are faced with come August if they are still in inadequate space. Will the
+accreditation agency come back and say hey, we told you several years ago we didn’t like this and now at the
+end of the academic year, next year, we’re going to pull your accreditation.
+Dr. Burke replied that their accreditation is solid until 2018. They have an interim report that is due in
+December and they will have to explain that they are still in the inadequate facilities and that they are in those
+facilities…Member Black interjected and asked how they work within the campus to get the attention of the
+administrative staff and/or the Board that this is inadequate and they have been saying this now, when are we
+going to be addressed in the decision making process at the University? Dr. Burke replied that she would love
+to give a really good answer for that, but she is a very small voice. She gives her information to her associate
+dean and she follows a very structured chain of command. She brings up their needs with whomever she can
+at whatever opportunity she has. Has she filled out papers? She has created documents for years and sent them
+to deans and directors and department heads and then the dean or the director or the department head retires
+and then she sends the next person the list of things that they have. She feels very comfortable and confident
+that she has now a dean who has her back, who knows exactly what they need and who is carrying their
+message forward and who has conversations at the highest level for her. Member Black stated somehow there
+must be a process in the University and how those things work up to the top and he knows they don’t have
+thousands of students, but you are one of the few who….he bets that none of their graduates this year are
+without a job. Even in the Champaign newspaper there must be 100 advertisements every Sunday for nursing
+BSN, MSN, you name it. Even prior to BSN and not just in the Champaign area, Bloomington, Peoria,
+Rockford so he would say that they are one of the few departments that probably has everybody employed
+shortly after their graduation. He knows that it isn’t 10,000 students or the engineering colleges, he just
+doesn’t understand what goes wrong in the University, how does something get to the top and somebody says
+hey, we have sub-standard inadequate facilities, we have been put on notice by the accreditation. What are we
+going to do? Member Bedore is right when he says that the Board will become the bad guys when someone at
+the campus says, they didn’t approve that lease? Well, how dare they? He always gets a kick out of
+somebody coming to the Board in May and saying, we have to have this done by August.
+Mr. Stillwell responded that he would like to address a couple of the points. The fact that this is a blended
+situation does make it more difficult and they have spoken to that and he thinks that it is important here. The
+fact that it is blended between UIC and the Urbana campus makes it more difficult. First of all and to address
+your point, as far as building a building that they would build on the Urbana campus that’s primarily funded
+through UIC and stuff that it’s a blended situation and makes that more difficult. While the timing is being
+questioned and stuff if they were to extend the process they would end up at the exact same place. He thinks
+that they would be proposing this leased space for the development of nursing because it fits the scenario and
+15
+M:140109
+
+ the need that they have right now. He is doesn’t think that they would run out and build a building, although
+he thinks that is a great idea if it is a fit, in this particular case he doesn’t think it is a very good fit. Not
+discounting any of the comments but he thinks timing is being questioned, but he thinks the result is that they
+would end up at this exact same point.
+Mr. Bass stated so let’s take a couple of things, one, he thinks it has been explained that there are interesting
+dynamics when you have a program that is bi-located on the two large campuses. Let’s say over time and
+leadership of the college has expressed it there has been a lot of discussion if someone wishes to excoriate
+someone about over poor planning on this tell it to him because this comes under his domain. How it gets to
+his domain is an evaluation of the process, the relative merit of it between competing interests on the
+campuses. Have they talked about it, indeed they have. Have they been able to get to a situation where you
+would have an equal partnership on both campuses to see the need of what they are trying to do with nursing,
+he doesn’t think that he needs to go through that and what the need for nursing is. He would say that one of
+the positive things is, that at least at this one, which is new for them, both campuses are supportive of this. So
+now they have at least got, as small as it may be, an understanding that there is accountability on both sides
+and you just can’t ignore something. Mr. Bass stated that from his standpoint, do they believe in the program
+and the lease, obviously he did and he vetted it, the Board agreed with it, but he thinks in the long term should
+there be a different arrangement for them in a facility? He thinks they need to work through that, but he thinks
+you have got a different arrangement in the short term that he thinks is positive, which is that both of the
+campuses, regardless of where the mother house is for the program, understand the need for moving forward
+in the most effective way that they can and to support the nursing program. Small steps, incremental steps,
+better understanding between the leadership and better ownership as they go through. Five year lease, he
+thinks day one message here is working with Dean Weaver and others and the Chancellors to say ok, we have
+put aboard, and he has a great deal of respect for the Board as you all know, in a position where if the Board
+doesn’t do it then you are asking them where they are going to be, they will be in the same crappy space that
+they are in and they are not going to move forward with the program and they are put at risk in the long run,
+even their ability to do some of the exceptional work that they have been able to do. So, it’s not perfect, it
+rarely is. Mr. Bass stated that he has sat on the other side of this table for a long time and ate a lot of stew at
+times for people because when you are the last link in the chain it’s a hard deal, but he respects that. The
+questions that the Board asked were reasonable and it is up to them to come back and prove up to the Board
+that they at least did plan. That doesn’t mean that it gets to the top – that’s a different situation. But at least
+that there was work being done that would allow them to at least to advocate in a much better way about what
+their needs are. It doesn’t go away yet. They are in the midst of…he means their situation in the University of
+Illinois is one of constant growth, change and even on the college of medicine side. That is a glint in the eye,
+Member Black. Mr. Bass stated that there is a lot of hard work they would have to do to even to consider
+where they would move forward on that, but it is very supported, it’s a new idea and those deserve the
+opportunity. In the end, obviously the Board knows where he is standing and they need to get the lease done
+and they need to go forward and need to move hard on their capital development and try and get out of there
+as quickly as they can. Right now they have a five year lease, it’s probably a good time considering how long
+it takes them to go through programmatic review, but he doesn’t believe they could have gotten what they
+needed, he knows they couldn’t have gotten what they needed in the end even from the Board’s point of view
+if you are pressured into doing something that you believe it could have been a better deal than what they
+presented. Thank you for the time.
+Member Bedore asked if he is saying that they will be coming up with some type of plan to…Mr. Bass
+interjected saying that what he thinks is incumbent on them is that nursing needs to work with their dean, he
+will be supportive with working, pushing up from his point of view, and he thinks the Urbana campus should
+as well the importance of it, and start putting together and ask for a facility for them in a non-lease
+environment. Member Bedore stated that you see the situation the Board is in. Mr. Bass replied he does.
+Member Bedore stated that everybody knows, everybody at this table knows, including Mr. Walden back
+there, knew five years ago they were under the watch of accreditation for your facility and yet, and he
+understands the two campuses and he understands the politics of the two, but it just bothered him the attitude
+of one of your project people is, it is what it is. He just doesn’t understand that he really doesn’t. Mr. Bass
+replied that what he would say to that, people, how they articulate things is not meant to be off the beam or
+anything like that. Mr. Walden does a great job at what he does, but Mr. Walden is real estate. What comes to
+Mr. Walden is a reflection of what the campus’ desire that they need to do and how do they then execute it in
+16
+M:140109
+
+ the best way that they can. Mr. Bass stated that facility planning is a different part of his domain and that part
+is one where they sit on the top, they develop the policies and procedures, but the essence of the ranking and
+the relative importance is left at the campuses and when you have a bi-located program you have to not only
+get your mother house to see the importance of it, but you have to get where you sit as integrated as before.
+For him and he knows he was being very frank with the Board, but for him in the long term the fact that they
+actually took an item in this way where both campuses were joined seeing the need for this to happen is
+progress, it is one step. Then the second question is how do you elevate though those chains the relative need
+for nursing at a facility or as part of a larger facility that has a comprehensive clinic. Member Bedore asked if
+they have assurances that this will have a priority. Mr. Bass replied he will take that back he has heard that
+message and he gets it. It helps in a way, well it actually helps nursing, there are a lot of priorities, but the
+Board’s expression has been heard and it will be communicated to their leadership and he will take that on.
+Member Bedore stated that when you look at the numbers, the pure numbers, it’s cheaper to build in this case
+than to lease. The numbers are there. Mr. Bass replied that he doesn’t disagree. He is asking for approval and
+will not be shy about it. He thinks they need to get it done, but he has heard what the Board has said and they
+need to come back to the Board and better answer the questions for them. More importantly take what the
+Board said as a Board and take that to their leadership to understand that these are people who are in a
+position where they are making hard decisions, and the Board knows he understands that, he has sat there and
+done it, and that they need to think more when they have something like this on how do they get together
+collectively to see how they can help them in the long run. Member Bedore made a motion to accept the lease
+as presented and was seconded by Member Ivory. It was noted that no vote was necessary for this lease to
+move forward. The motion was withdrawn.
+Next on the agenda was CMS – Facilities. In attendance was Susan Florence, with CMS Bureau of Property
+Management. Ms. Florence stated that she doesn’t really have anything to report as far as facilities unless the
+Board has questions. Chairman Stewart asked if any Board member had any questions. Member Black asked
+for his own edification, she is not in charge of vehicle fleet, right? Ms. Florence replied correct. Member
+Black stated that he is still trying to get a few questions answered there, but for another day. Member Ivory
+stated that he knows the Peoria lease that the Board turned down, can you tell the Board the status of that right
+now. Ms. Florence replied that they are still working with Illinois Central College on a couple of IGA’s. They
+had hoped to have that done by now, but they are sill haggling over some legal language and still diligently
+working on that, so hopefully within a short amount of time they will have some resolution. Member Bedore
+asked if at the next meeting if possible could she give the Board an update on the Franklin Life Building. Ms.
+Florence replied sure. Member Bedore asked how many are in there, what they anticipate, etc., etc. Ms.
+Florence replied sure. There were no further questions or comments.
+Next on the agenda was CMS – Calculating CMS Indirect Cost. Mr. Neil Scott, CFO for the Bureau of
+Property Management at CMS was present. Mr. Scott stated that he was not here at the last meeting, but he
+understands that the Board has questions on indirect costs. He put together a little paragraph basically
+describing, which he believes was provided in the Board’s packet. He would be happy to answer any
+questions the Board might have. Member Bedore stated in our last minutes, he had asked a question about a
+lease in Glen Ellyn that was $1.6 million and your indirect cost was $1.62 and then CMS had a lease for
+$60,000 and you charge $1.82. Twenty cents more for $1.6 million and then a $60,000 lease. He just couldn’t
+comprehend that. Mr. Scott replied that he can explain that. You have two types of indirect costs 1) you have
+the Statewide cost, which is in FY14 it is about $0.10 a square foot per month. That would be mine and
+Susan’s salary, we are allocated on a Statewide basis, but you also have employees such as property
+managers, leasing reps who only work a region. They aren’t allocated across the whole State, they don’t go to
+Cook County or to southern Illinois. So, their costs are only allocated regionally and the square footage is…so
+there are different calculations. Everyone at the Statewide is going to be one cost, but as two components.
+Southern region has the highest cost, central region the second highest and the northern region has the least
+cost because they have more square footage to spread those indirect costs around. Does that make sense?
+Member Bedore stated that obviously the Glen Ellyn lease at $1.6 million, it’s got to be a larger lease even
+though it is up in the northern region. Mr. Scott replied it is so much per square foot. It doesn’t matter the size
+of the lease if it is a $1,000…Member Bedore interjected that he would assume that $1.6 million is going to
+have more square footage than you are going to have for the $60,000 lease over the life. Mr. Scott replied
+again, it’s not to that building, it’s to the region. It’s a regional cost, it’s not for that…the indirect cost is not
+17
+M:140109
+
+ for that building. If it is for that building it is a direct cost. Member Bedore asked but it is based on square
+footage? Mr. Scott replied of the region. Ms. Florence replied total square footage of the region.
+Chairman Stewart asked if it would be fair to say, to just put on a hypothetical, there are three regions in the
+State. Region 1 has the most square footage, region 3 has the least amount of square footage. Assuming
+approximately the same staff, regional staff, the per square foot cost would be higher in region 3 because
+there is less square foot to spread it out over. Mr. Scott replied that is exactly correct. Chairman Stewart asked
+in terms of the calculation, phones, employee expenses, how often, it says here the rates are developed by
+Maximus, so it’s an annual calculation in terms of the indirect cost. Mr. Scott replied that is correct. Chairman
+Stewart stated that Maximus basically comes up with what the number is at the end of the day. Mr. Scott
+replied they do based upon what CMS provides them. Chairman Stewart stated that he has a general question
+that may not be something that can be answered at this time, but it sounds like the Statewide costs are for
+Executive staff, the property management headquarters as it were, spread out equally then you have the
+regional costs. Is there any, he knows that they factor out the regional costs and obviously square footage is
+going to vary how much cost gets allocated per square foot, does CMS periodically engage, if a region, he
+means over the past many years they have consolidated a lot of space so we have less square footage overall
+to drive the cost over, but does CMS go through and figure out at what point does enough consolidation occur
+that maybe you don’t need the same amount of regional staff to administer the space. Has CMS, as it’s done a
+very good job in consolidating space the last five years in particular perhaps, has the agency, not on the real
+estate side, but from the management HR side, is there an analysis of the break point, do you need the same
+level of staffing if you have a much smaller footprint through the total square foot. Ms. Florence replied that
+those are decisions that would be made above her, quite frankly. They certainly can provide the Board some
+information on that. Chairman Stewart stated that he is not looking for specific answer it’s just a question,
+particularly with our tough budgets and where we are spending our dollars. He works at an agency and knows
+that HR is the driver of the vast majority of the costs. Mr. Scott replied that he not in operations either, but as
+people retire and as people leave he thinks they will be reviewed and there are a lot of positions. He had a
+staff of 20 and now has a staff of 12. Leasing he has seen shrink and he thinks they are half of where they use
+to be so, as you say, about consolidation, he was looking back this morning when he came to this bureau there
+were 500 buildings that CMS managed and now there is 300 and some, with all of these lease consolidations.
+They’ve paid over $9 million a month in base rent and they are now paying about $6.5 million. Now keep in
+mind that rents have gone up so that $6.5 million is more comparable probably to $10 million, so that gives an
+indication of how much consolidating has been done. Chairman Stewart asked is your basic standard indirect
+cost just the typical overhear? Is there something unique? Typically it is phone, electric, is your standard
+indirect costs or is it…Ms. Scott replied that the simple explanation is anything that can’t be costed directly to
+a building so the answer is yes. It’s going to be not only him, but his telephone expense, his computer
+expense, his office expense everything related to him or Ms. Florence. Chairman Stewart asked if there are
+any questions or comments.
+Member Black stated that he doesn’t mean for this to sound political, but it will. How is CMS handling the
+payments that a former Governor instituted that many agencies absolutely went ballistic over. CMS is going
+to charge IDOT, for example, a building in his old district, a building that had been paid for over 30 years.
+CMS sends back to them $40,000 for their oversight and responsibilities and all they ever said down at the
+IDOT headquarters, what is this for? Mr. Scott asked if it was the indirect costs or the total
+building…Member Black responded that it was in the total building and nobody ever really understood it very
+well. Mr. Scott replied that there has been some confusion for State owned buildings. IDOT has retained
+ownership of their buildings, CMS, again, manages them, but they are the middleman. They pay all of the
+bills, they pay the utilities, they pay the janitors, they pay everyone. They’re just the middleman, but they
+flow those costs through. When they, take the Hanley building for example, that is a regional cost and his
+salary is allocated Statewide so whatever portion the Hanley building is attributed to that, but the property
+managers, when they have orders that their salaries are going to begin on a regional basis attributed to Hanley,
+it’s the same rate as for a leased building or the AIG building or any other building in the central region. The
+square foot rate is going to be identical. Member Black stated that he knows all of those people down in Paris
+have long since retired, but they used to send him things, computer maintenance, $23 per unit per month.
+What is this? Mr. Scott replied that they don’t charge for computer maintenance. Member Black stated that
+they were being charged for janitorial, you name it. Mr. Scott replied now janitorial yes, but not computer
+maintenance. Member Black stated but that had always been absorbed by IDOT and then on top of that some
+18
+M:140109
+
+ entities were being asked to forward even more money for advisory management, any number of things and
+he thought when he moved to Colorado maybe some of that would stop, but he guesses not. Mr. Scott replied
+that he thinks he is pretty well versed in the building and doesn’t know of any advisory fees that they have
+ever billed for. Member Black stated that he knows that when it first happened that it was extremely
+confusing and particularly on a State building that had been built back in the 30’s, long since paid for. They
+kept coming up to his office and asking what is this and he was say, if you guys don’t know, how is he
+supposed to know? Mr. Scott replied that he thinks that their billing sheets that go out are pretty selfexplanatory. It says right on there janitorial, utilities, you know the indirect cost might be the only thing that
+could be…Member Black interjected and asked who then does the direct cost go to, would it be IDOT’s
+budget or out of your budget? Mr. Scott replied that they paid all of those costs and then they bill them
+monthly. He has heard that you guys tend to think of it as a rent expense. Well you are not renting, all you are
+really doing is reimbursing their cost. At the beginning of the year they develop the rates and figure out how
+much it is going to cost to maintain that building and it if is $100,000 a month they will bill you $100,000 a
+month. Now some months it probably costs them $120,000, like snow removal months or something, and
+some months it might cost them $80,000. At the end of the year when they get done and they realize that
+they’ve overbilled you by $20,000 for the whole year that gets adjusted in the future rates. So, it’s not like
+you lose that $20,000, you get credit for it and it is continually adjusted. Member Black stated that there was
+an interesting development when that happened and there was a great deal of confusion when it first….Mr.
+Scott stated that he imagines that there probably was. He wasn’t here for the initial, he came afterwards.
+Member Black stated that he missed all of the excitement.
+Member Bedore asked if they hire the janitorial firm or does IDOT hire the janitorial firm. Mr. Scott replied
+he believes that it would be the CMS procurement division. Mr. Scott stated that actually it depends, he
+believes at the Hanley building they have employees on staff in that particular case. That is a little bit
+different, they are not actually hiring janitorial, they’re employees. Chairman Stewart stated that he has
+worked in the Thompson Center and 320 and correct, they do not do the direct hiring, it’s through CMS and
+they get charged back. They have a court reporting thing, which is off of…most agencies maybe IDOT
+because it so large, but most agencies, a lot of those common goods and services are procured through master
+contracts at CMS and then they just piggyback off of it and pay a percentage. If there is a unique procurement
+then that is done through the agency. Member Bedore asked Mr. Scott if he and his employees are line item in
+CMS’s budget. Mr. Scott replied their payroll, yes. They are paid from the payroll lines. All facilities
+management employees would be. Member Bedore stated so you are a line item by job title? Mr. Scott replied
+that he didn’t understand the question. Again, everyone that is on the payroll, him, Ms. Florence, Mr.
+Schierholz, facility managers, leasing reps, is one payroll. Chairman Stewart stated that it’s the personal
+services line item. His agency has a PIC fund, an indirect cost fund. They have multiple funds and some staff,
+executive staff, he and others are paid off the PIC fund and it is just a line item. It would say personal services
+and all…Member Bedore asked but is does list? Chairman Stewart replied it doesn’t say Jay Stewart
+or…Member Bedore replied no he means title? Chairman Stewart replied no, it’s an all in. He thinks in the
+budget it’s just says personal services. Underneath that you have to have the supporting documents and OMB
+and the approps committees, but…Member Bedore replied that is what he was trying to get at is the numbers,
+the number of people. Chairman Stewart stated that if they have a personal services line of $5 million they
+have to have a breakout of where does the $5 million go. It is typically not listed in a budget document or
+appropriation document, but OMB and everyone else, yes, you have to prove up.
+Mr. Scott stated that as far as allocating the indirect costs they keep separate spreadsheets on that. Its extra
+work, but one of their staffers, his budget manager, he goes in and he allocates people so that again, he would
+be Statewide and every year they send out notification to the various operations and say, last year you said
+this electrician worked 30% here and 20% there, is that still correct or do you need to adjust that. So those
+allocations are pretty much manual. They’re done on Excel spreadsheets and then that is provided to
+Maximus. Chairman Stewart stated that he had the same process at his agency and Maximus does it for them
+also. Mr. Scott asked since he was there if there was a question on the rate development. Chairman Stewart
+replied no he was assuming it’s the normal indirect cost, employee costs and all that direct so there is no
+unique...Mr. Scott replied no. Chairman Stewart stated that he had no further questions, but it’s helpful about
+the regional breakdown and if there is at some point in the future if there is an indirect cost included in some
+of the material provided to the Board, if there could be a breakdown, we will just talk about it and maybe a
+sub-breakdown like the Statewide is $0.10 and the regional is…just so they could maybe see the documents.
+19
+M:140109
+
+ Mr. Scott replied that he does have those documents if the Board would like that now. Chairman Stewart
+stated it could be for leases that the Board will be reviewing in the future perhaps. We can talk about it, he
+doesn’t want to create more work. To the extent that they are looking at a specific lease if you could break it
+down so that it might explain why the indirect costs are slightly different on this one versus that one. Ms.
+Florence replied sure. No further questions or comments were made.
+Next on the agenda was Legislation. Director Carter stated that he didn’t have any hard and fast bills or
+language to report on. The Board sponsored bill, HB5491, has the pouring rights fixed as well as agencies
+must consult with CMS about what’s available. That language is, we were on our way to passing both Houses
+but he is hearing now that our bill, HB5491, will probably be the vehicle for the omnibus bill so that is why it
+hasn’t completely passed and been sent to the Governor yet. He doesn’t have anything hard and fast for them
+and he knows that in the remaining days of session we are going to have some language that the CPO General
+Services worked with CMS, worked with the Chamber on and he does anticipate something from Higher
+Education. How much or to what extent he does not know yet. He guesses that they will find out during the
+next 8 session days. Member Bedore asked that since the CPO from Higher Ed was in attendance, if he had
+any information regarding the pending legislation or regarding Higher Ed getting out from under Senate Bill
+51.
+The CPO for Higher Education, Ben Bagby, stated that he thinks Director Carter is correct. The PPB bill is
+likely to be used as an omnibus bill to add some of the language that has been negotiated primarily Matt
+Brown, General Services CPO and the Chamber and the Caucasus have worked together to try and get a few
+things adjusted that might be useful and helpful. As to the University side of things, he is not aware of any
+discussions that have been had about that, except for a meeting that he was in yesterday or the day before, and
+he believes there are some elements of the Universities’ proposal that have some favor and he thinks there are
+still some items that are on the table for discussion. A lot of that is beyond where he is working. His hope is
+that the first part of the University’s proposal that changed the organizational structures such that the, he
+guesses that he would retire in a year based upon that, will go away and not actually be part of any package
+that goes forward. The rest of the proposal, there are actually a number of things that probably are beneficial
+to the Universities. He supports a number of them perhaps with some modifications. They really haven’t had
+a lot of discussion, that is he and the Universities on that. He did express his position that exemptions, some
+are ok, some maybe not or could be modified. CPO Bagby stated that he typically would say that he would
+prefer to stay within the Code, then allowing exceptions, waivers on an individual basis. There are some
+things that just make sense to say it does not apply. The Universities are trying to find a location in another
+University or setting so they can provide student internships, clinical rotations and the like. He doesn’t see
+that as a procurement issue at all, they should be picking whomever they want to deal with. Obviously, in the
+medical area he doesn’t want to be the one to say they can’t have this particular device and then have
+somebody not have good treatment because of a technicality of procurement. He thinks there are things like
+that that could be lightened up and they could still have, he will call it medical choice, but still have some
+degree of compliance with the Procurement Code, SB51 and the like and he thinks those could be worked out.
+There are various ways that it could be done. There are extremes either way and there are compromise
+positions. Chairman Stewart asked if there were any other Board questions.
+Member Black stated that he could do this on a phone call, but perhaps could the Director get the Board some
+information. There have been a lot of ink and a lot of video and a lot of audio about the State Police, after
+years of trying, finally got a program where they can access new patrol cars on a fairly regular basis without
+going to the budget and then all of a sudden they can’t get on the road because we don’t have money or
+personnel or whatever to put in the radios, the lights and all of that equipment. He thinks that when people
+read that and hear that they think, what is going on, you have 400 new police cars and you can’t put them on
+the road. He followed that with great interest because they worked a long time to get that purchase agreement
+and now we can’t get cars on the roads. No further questions or comments were made.
+With no further business for discussion a motion to adjourn was made by Chairman Stewart and was
+seconded by Member Bedore. The motion was unanimously approved.
+
+20
+M:140109
+
+ 

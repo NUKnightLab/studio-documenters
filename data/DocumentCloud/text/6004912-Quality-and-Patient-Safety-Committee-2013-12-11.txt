@@ -1,0 +1,4066 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Wednesday, December 11, 2013 at the hour of 8:30 A.M. at 1900 W.
+Polk Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Collens called the meeting to order.
+Present:
+
+Chairman Lewis M. Collens and Director Luis Muñoz, MD, MPH (2)
+
+Director M. Hill Hammock
+Present
+Telephonically: Director Wayne M. Lerner, DPH, FACHE (1)
+Absent:
+
+None (0)
+
+Chairman Collens stated that Director Lerner was unable to be physically present, but was able to participate in
+the meeting telephonically.
+Chairman Collens, seconded by Director Muñoz, moved to allow Director Lerner to
+participate as a voting member for this meeting telephonically. THE MOTION
+CARRIED UNANIMOUSLY.
+Director Lerner indicated his presence telephonically.
+
+Additional attendees and/or presenters were:
+Peter Daniels – Chief Operating Officer, HospitalBased Services
+Krishna Das, MD – System Director of Quality,
+Patient Safety, Regulatory and Accreditation
+Jesus (Manny) Estrada – Cermak Health Services
+of Cook County
+Randolph Johnston –System Associate General
+Counsel
+Cindy Kienlen – Cermak Health Services of Cook
+County
+Concetta Mennella, MD – Cermak Health
+Services of Cook County
+
+II.
+
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief of Clinical
+Integration
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+Pierre Wakim, MD – Provident Hospital of Cook
+County
+
+Public Speakers
+Chairman Collens asked the Secretary to call upon the registered speakers.
+The Secretary responded that there were none present.
+
+Page 1 of 77
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, December 11, 2013
+Page 2
+
+III.
+
+Report from System Director of Quality, Patient Safety, Regulatory and Accreditation
+A. Regulatory and Accreditation Updates
+B. Publicly Reported Ratings
+There were no updates to report regarding these matters at this time.
+
+C. Update on patient and staff vaccinations for influenza
+Dr. John Jay Shannon, Chief of Clinical Integration provided an update on the status of the influenza
+vaccinations for the 2013/2014 influenza season. This year’s influenza vaccine became widely available for
+both CCHHS staff and patients in the first week of October 2013. With regard to vaccination of patients, he
+stated that there is not a single standard for reporting that is utilized industry-wide. At the System, what has
+been devised is a mechanism for following opportunities for vaccination of patients that takes into account
+the different areas where the patients enter the System, including the Emergency Department (ED), inpatient
+environment, and primary and specialty care areas. At the end of November, approximately 21% of
+potential patients had been vaccinated across all of those different encounters – there were a lower
+proportion of patients being vaccinated in the ED milieu, and a far higher proportion of patients being
+vaccinated in the primary care milieu. Overall performance, as of the end of November, is that
+approximately 23-24% of potential patient encounters resulted in an influenza vaccination.
+Chairman Collens inquired regarding the total number of patients that were offered the vaccination. Dr.
+Shannon responded that that question is one of the issues on which staff is working. One of the activities
+for this year is to create standardized standing orders - this is an order that can be signed off by the medical
+director for an area that does not require a conscious act at every encounter in those different areas. There
+are standing orders in certain parts of the organization, but not across the board. Creating standardized
+standing orders is a joint effort of staff from the Quality, Nursing, and Information Technology departments.
+With regard to the subject of influenza vaccinations of staff, Dr. Shannon stated that there has been a
+growing movement for the expectation of health care workers to be vaccinated in the influenza season;
+however, it has not yet reached the level of being a regulation of the federal or state government. He noted
+that trends are being seen in that direction, both at the national and local levels, but currently, the
+recommendations for seasonal influenza vaccination are mostly just strong recommendations, not a legal
+requirement. He stated that, currently, influenza vaccination is not a condition of employment that has
+been put into the System’s collective bargaining agreements; however, he noted that the administration
+signed a policy in 2012 that clarifies that it is the expectation that personnel employed by CCHHS receive
+influenza vaccination.
+Dr. Shannon stated that, historically, the high point of staff vaccination performance for this organization
+was in 2009; this was when the H1N1 outbreak occurred. CCHHS had documentation of vaccination for
+over 5,000 employees that year; that was against a background of some 7,200 total budgeted full-time
+equivalent employees (FTEs) that year. The staff vaccination performance has declined in the years since
+then – from the first week of October to the last week of November (the reporting period beginning with
+when the vaccine first became available), the administration has documented vaccination for over 3,000
+(roughly 50%) of the employees across the organization. The majority of those vaccinations were provided
+by CCHHS; there is also a procedure that allows staff to come in with documentation reflecting that they
+received the vaccination elsewhere. Dr. Shannon stated that, because CCHHS does not have a sophisticated
+employee management system or employee health application, the administration relies largely on a
+Page 2 of 77
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, December 11, 2013
+Page 3
+
+III.
+
+Report from System Director of Quality, Patient Safety, Regulatory and Accreditation
+C. Update on patient and staff vaccinations for influenza (continued)
+paper-based system and manual entry into a database maintained by Employee Health Services; data is fed
+back to the departmental level – the information contains performance at a proportion level, not at the
+individual staff level. The employee is to bring documentation of vaccination to their manager, and the
+accountability resides at the local manager level. Dr. Shannon pointed out two areas that have achieved
+over 90% performance – the Pharmacy Department and the Ruth M. Rothstein CORE Center of Cook
+County.
+Dr. Shannon stated that, moving forward, the administration would like to put more accountability in place,
+with improvements in both the tracking of employees and around the opportunities for vaccinating patients.
+Additionally, in the upcoming year, he indicated that the administration will be bringing the seasonal
+influenza vaccination requirement to the bargaining table to make it a condition of employment. He stated
+that he cannot predict how that negotiation will go, but that will be the stance the administration is taking.
+Chairman Collens expressed his concerns regarding the low rates of seasonal influenza vaccinations of staff;
+he believed that the hospital’s position is that this is a medically necessary and required vaccination in order
+to protect the safety of the patients. Elizabeth Reidy, System General Counsel, stated that staff are currently
+reviewing the question of whether there is actually a duty to bargain. This is an evolving area of case law;
+there are states that are currently litigating it. She stated that the administration would like to further review
+the issue and return with a response1.
+Following discussion, Dr. Shannon stated that evidence has shown that the seasonal influenza vaccine
+improves safety for patients, improves safety for the person who gets vaccinated, reduces absenteeism and
+improves community health; it is also a safety measure for the family members of the person who gets
+vaccinated.
+
+D. Report on Cermak Health Services (Attachment #1)
+Peter Daniels, Chief Operating Officer for Hospital-Based Services, provided a brief introduction to the item.
+The following individuals from Cermak Health Services of Cook County reviewed the presentation and
+overview of Cermak Health Services: Dr. Concetta Mennella – Interim Chief Medical Officer; Jesus (Manny)
+Estrada – Interim Chief Operating Officer; and Cindy Kienlen – Chief Nursing Officer.
+The presentation included information on the following subjects: Mission Statement; Overview of Services;
+Cermak at the Juvenile Temporary Detention Center (JTDC); Trends; Activity; Residential Treatment Unit;
+Nursing Care; Pharmacy Services; Mental Health Services; Infection Control; Department of Justice – Agreed
+Order; Accomplishments and Areas of Improvement 2013; and Moving Forward – 2014 Goals. The
+Committee reviewed and discussed the information.
+During the discussion of the information on the newly built Residential Treatment Unit, Director Hammock
+inquired regarding how the building was financed. Mr. Estrada indicated that the cost of the building was $90
+million but was unsure as to the question regarding financing. Director Hammock noted that he will follow-up
+on the question with John Cookinham, System Chief Financial Officer.
+
+Page 3 of 77
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, December 11, 2013
+Page 4
+
+IV.
+
+Action Items
+A. FY2014 Quality and Performance Improvement Plan (Attachment #2)
+This item was taken out of order.
+Dr. Krishna Das, System Director of Quality, Patient Safety, Regulatory and Accreditation, reviewed the
+presentation regarding the proposed FY2014 Quality and Performance Improvement Plan.
+The presentation contained information on the following subjects: Regulatory Framework; Hospital-Wide
+Quality Improvement and Patient Safety (HQuIPS) Committee; Governance-Reporting; Patient Safety;
+Sentinel and Adverse Events; Performance Improvement Requirements; Addressing High-Risk, High
+Volume Areas; EMS Committee Reports; Key Indicators-Inpatient, Outpatient, Nursing; Department
+Indicators; and Use of Data in Performance Improvement. The Committee reviewed and discussed the
+information.
+Chairman Collens inquired whether the Committee will be seeing the chart in this form going forward, with
+an indication in each of the boxes. Dr. Das responded affirmatively. She stated that, although staff have
+been following the indicators, they have not been charting them in a graphical way that makes the direction
+of the activities very explicit.
+Dr. Das noted that, on page sixteen of the presentation, she will need to submit a correction to the plan – the
+Trauma Department has an additional indicator of negative laparotomy rate, as well as an indicator for time
+to operating room for trauma cases.
+Following the presentation, Chairman Collens stated that this is a very impressive start for a program of
+reporting to the Board. This plan underscores the commitment that everyone has to quality; he would
+expect that by communicating this commitment, not only within the hospital generally but also to patients, it
+might very well impact the score in patient satisfaction, as well.
+Director Lerner, seconded by Director Muñoz, moved to approve the proposed FY2014
+Quality and Performance Improvement Plan.
+THE MOTION CARRIED
+UNANIMOUSLY.
+
+B. Minutes of the Quality and Patient Safety Committee Meeting, November 20, 2013
+This item was taken out of order.
+Director Muñoz, seconded by Director Lerner, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of November 20, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+
+C. **Medical Staff Appointments/Re-appointments/Changes (Attachment #3)
+This item was taken out of order.
+
+Page 4 of 77
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, December 11, 2013
+Page 5
+
+IV.
+
+Action Items
+C. **Medical Staff Appointments/Re-appointments/Changes (continued)
+The Committee was informed of a revision to an initial appointment included on page one of the materials –
+the proposed period for the appointment of Dr. Salman Khan was changed from a two year appointment to a
+one year appointment.
+Director Muñoz, seconded by Director Lerner, moved to approve the Medical Staff
+Appointments/Reappointments/Changes, as amended.
+THE MOTION CARRIED
+UNANIMOUSLY.
+
+D. Any items listed under Sections IV, V and VI
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+
+Dr. Aaron Hamb, Medical Director of Provident Hospital of Cook County, indicated that there was no report
+to be provided at this time; he spoke on behalf of Dr. Pierre Wakim, President of the Executive Medical
+Staff (EMS) of Provident Hospital of Cook County.
+Dr. Ozuru Ukoha, President of the EMS of John H. Stroger, Jr. Hospital of Cook County, presented his
+report. He stated that the EMS met the previous evening. At that meeting, Dr. Das presented the FY2014
+Quality and Performance Improvement Plan; it was approved unanimously.
+At last month’s Quality and Patient Safety Committee meeting, Dr. Ukoha had said that in order for the
+medical staff to play its part in the system-wide attention to quality and patient safety, it would need to begin
+with a framework. This framework is being created through the remodeling of the hospital’s quality
+committee. Changes to the Bylaws of the Medical Staff are being proposed to change the name, function,
+composition and duties of the hospital’s committee, to ultimately be able to provide the information that the
+System Board will need going forward. The proposed revisions to the Bylaws will go to the medical staff at
+large for their approval; following that, they will be presented to the System Board for approval.
+
+VI.
+
+Closed Session Items
+A. **Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+The Committee did not recess the regular session and convene in closed session.
+
+Page 5 of 77
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, December 11, 2013
+Page 6
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Collens declared that the meeting was
+ADJOURNED.
+
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Lewis M. Collens, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+1
+
+Follow-up: response regarding question of whether there is a duty to bargain relating to staff influenza
+vaccinations. Page 3.
+
+Page 6 of 77
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+December 11, 2013
+
+ATTACHMENT #1
+
+Page 7 of 77
+
+ CERMAK HEALTH SERVICES
+
+CORRECTIONAL HEALTH SERVICES AT
+COOK COUNTY JAIL
+
+AND THE
+JUVENILE TEMPORARY DETENTION CENTER
+
+Board of Directors
+Quality and Patient Safety Committee
+December 11th, 2013
+
+ 
+
+Page 8 of 77
+
+Mission Statement
+ Provide constitutionally required quality, timely and cost 
+
+efficient medical services in accordance with acceptable 
+community standards accreditation and regulatory
+community standards, accreditation and regulatory 
+requirements
+ Early detection and prevention of communicable diseases
+
+2
+Page 9 of 77
+
+ Overview of Services: Cermak
+ Collective Responsibility: Cook County Sheriff, Department 
+
+of Facilities Management, and Cermak Health Services
+ Provided on 96 acre campus of Cook County Jail
+ Current average daily population > 10,000
+ 100,000
+100,000+ intake screenings annually
+intake screenings annually
+
+ 5% County Care participants enrolled during intake process
+
+ Providing on‐site care (173,000 combined visits annually)
+ Urgent care
+Urgent care
+ Infirmary (not a hospital)
+ Primary care and specialty care clinics
+ Diagnostics
+ Pharmacy Services
+3
+Page 10 of 77
+
+ Cermak at JTDC
+ Average daily population = 295
+ Medical, Nursing, Dental, Medical Observation Unit, 
+
+Medication administration and Health Service Requests
+Medication administration and Health Service Requests
+ National Commission on Correctional Healthcare accreditation 
+
+since December 2012
+ Work plan for 2014:
+ Governor Quinn signed House Bill HB2404 to include 17 year 
+
+olds, projected increase in population by 30%.
+,p j
+p p
+y
+ Begin Electronic Medical Records Project
+ Consultation Room
+ Pharmacy services: blister packs
+Pharmacy services: blister packs
+4
+Page 11 of 77
+
+ Cermak Health Services:  trends
+Intake Assessments
+
+* 2013 clinic visits annualized
+5
+Page 12 of 77
+
+ A ti it
+Activity
+
+9500
+140000
+9400
+
+Year
+
+Budgeted 
+Budgeted
+Expenses
+
+120000
+
+9300
+
+100000
+
+2010
+
+9200
+
+$41,278,000
+
+9100
+
+80000
+
+2011
+
+$41,238,000
+
+9000
+60000
+8900
+
+2012
+
+$40,080,000
+
+40000
+8800
+
+2013
+
+$40,700,000
+
+20000
+
+8700
+
+0
+
+2014
+
+8600
+2010
+
+$46,600,000
+
+2011
+
+2012
+
+I k  S
+Intake Screenings
+i
+
+Cli i /U
+Clinic/Urgent Care Visits
+ C  Vi i
+
+Infirmary Patient Days
+
+Average Inmate Census
+
+6
+Page 13 of 77
+
+ Activity (continued)
+ Chronic Disease Management
+
+ Opiate Withdrawal: approximately 550 inmates are treated monthly 
+
+y p
+for withdrawal symptoms
+ Methadone Program: An average of 98 inmates are registered in the 
+Methadone Program monthly
+ Varying levels of care
+T
+f
+ Transfers
+ Average daily census of inmates at Stroger or outlying hospitals = 20
+ Average daily transport of inmates to Stroger Emergency 
+Department 
+Department = 5
+5
+ Average daily transport of inmates to Specialty Care Clinic (Stroger, 
+Core, Fantus) = 18
+
+7
+Page 14 of 77
+
+ Residential Treatment Unit
+ Access to 24/7 Nursing (Intermediate Care)
+ Dose by Dose Medication
+ Adds 979 additional beds for Intermediate Levels of care
+Adds 979 additional beds for Intermediate Levels of care
+ Male: 274 medical, 274 mental health, 157 detox
+ Female: 274 medical and mental health
+ Intake Screening and Medical/Mental Health Assessments
+I t k S
+i
+d M di l/M t l H lth A
+t
+
+8
+Page 15 of 77
+
+ Nursing Care
+Nursing Care
+ Access to Health Care
+ Process 6500+ Health Service Requests Monthly
+Process 6500+ Health Service Requests Monthly
+ Inmates must be seen by a nurse for all symptom based complaints within 48 hours of 
+
+receipt of health service request form
+ >60% will require additional medical, dental, or mental health intervention
+
+ Daily Bed Control (130 weekly interventions)
+ Increases patient safety
+ Housing movement based on medical and mental health orders for transfer in and out of 
+
+infirmary or other housing need
+infirmary
+or other housing need
+ Additionally, incorrectly housed inmates identified by nursing using a query based on 
+medical and mental health classification
+ Nursing coordinates with CCDOC transfer of these inmates to appropriate housing
+
+ Medication Administration
+ On average, 50% or 5000 patients require medication
+
+
+
+1750 patients receive dose‐by‐dose medication administered by a nurse on the tier
+3000 ti t
+3000 patients self‐administer a weekly supply of medications transported to the patient by the 
+lf d i i t
+kl
+l f
+di ti
+t
+t d t th
+ti t b th
+Medication Delivery Team
+9
+Page 16 of 77
+
+ Pharmacy Services
+ Prescription Volume
+Prescription Volume
+ 630,000 New prescriptions annually
+ 5,781,000 Doses filled annually
+
+ Distribution Methods
+ Nurse administered: daily = 7,750 doses 
+ Detainee self
+Detainee self‐administered
+administered medication: number of 
+medication: number of
+
+prescriptions daily = 800
+ 31 Automated Dispensing Cabinets:  number of doses 
+dispensed monthly = 5800 
+dispensed monthly 
+5800
+ Other Services:
+ Opioid Treatment Program (Methadone)
+ Anticoagulation Clinics and monitoring
+A i
+l i Cli i
+d
+i i
+10
+Page 17 of 77
+
+ Mental Health Services
+ 40% of females and 20% of males at intake have positive 
+
+mental health findings
+ Growing Mental Health Caseload: 2010 = 1100 patients, 
+
+currently nearly 2000 out of 10,000
+currently nearly 2000 out of 10,000
+ Varying levels of care
+
+11
+Page 18 of 77
+
+ M t l H lth S i
+Mental Health Services
+Programming Hours Per Patient Per Week: Intermediate Care
+16
+
+14
+
+Department of Justice Target
+
+# of Programm
+ming Hours
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+Series1
+
+2011
+
+2012
+
+Jan 13
+Jan‐13
+
+Feb 13
+Feb‐13
+
+Mar 13
+Mar‐13
+
+Apr 13
+Apr‐13
+
+May 13
+May‐13
+
+Jun 13
+Jun‐13
+
+Jul 13
+Jul‐13
+
+Aug 13
+Aug‐13
+
+Sep 13
+Sep‐13
+
+5
+
+10.15
+
+10.1
+
+10.4
+
+10.2
+
+8.6
+
+10.7
+
+11.5
+
+11.2
+
+15.2
+
+14.9
+
+12
+Page 19 of 77
+
+ Infection Control
+ Monitor jail compound for outbreaks of communicable diseases
+Monitor jail compound for outbreaks of communicable diseases
+ Conducts annual health maintenance for Tb screenings on an average of 
+
+250 detainees per month with 100% capture rate
+ Provides 67 Infection Control training sessions annually, reaching >3,000 
+Provides 67 Infection Control training sessions annually reaching >3 000
+Cook County Department of Corrections Officers
+ Activity:
+ Flu Shots Administered: 4,551
+Flu Shots Administered: 4 551 (January 2012 –
+(January 2012 March 2013)
+March 2013)
+ Employee Annual Tb Screening 100% compliance reaching 650 employees
+ Ectoparasite assessments: 380 (January – August 2013)
+ Acute gastroenteritis and influenza‐like illness assessments: 125
+Acute gastroenteritis and influenza like illness assessments: 125 (January –
+(January
+
+August 2013)
+ Hepatitis B Vaccine Grant with CDPH: vaccinated 755 detainees since 
+/ /
+07/15/2013
+
+13
+Page 20 of 77
+
+ Department of Justice: Agreed Order
+ Collective Responsibility: Cook County Sheriff, Department of 
+
+Facilities Management, and Cermak Health Services
+ Agreement signed 2010
+Agreement signed 2010
+ 48 separate provisions 
+ Medical Monitoring
+ 9 provisions are in Substantial Compliance
+ 12 provisions are in Partial Compliance
+
+ Mental
+Mental Health Monitoring
+Health Monitoring
+ 1 provisions are in Compliance
+ 12 provisions are in Substantial Compliance
+ 24 provisions are in Partial Compliance
+24
+ii
+i P ti l C
+li
+14
+Page 21 of 77
+
+ Accomplishments and Areas of
+Accomplishments and Areas of 
+Improvement 2013
+ Medical:
+
+ Mental Health:
+
+ Intake Screening
+
+ Intake Screenings
+
+ Medical Facilities
+Medical Facilities
+
+ Programing hours increase
+P
+i h
+i
+
+ Staff, Training, Supervision 
+
+
+
+
+
+
+
+and Leadership
+Urgent Care
+Urgent Care
+Record Keeping
+Mortality Reviews
+Access To Care 
+Acute Care Infirmary
+Medication Administration 
+Process
+
+ Timely and clinically 
+
+
+
+
+
+appropriate treatment
+24/7 Psychiatric Coverage
+Crisis Services
+Suicide Prevention Policy 
+S i id P
+ti P li
+and Committee
+Suicide Risk Assessments 
+and Precautions
+15
+
+Page 22 of 77
+
+ Moving Forward: 2014 Goals
+ Structures:
+ Operational implementation and staffing of the Residential 
+Treatment Unit (Intermediate Medical/Mental Health Services)
+(
+)
+ Processes:
+ Full implementation of Electronic Medication Administration 
+Record
+ Decrease off site movement by securing specialized clinical 
+services, i.e., Orthopedic Services
+ Population Health Management
+Population Health Management
+ Outcomes:
+ Continued progress in achieving substantial compliance of the 
+Department of Justice Agreed Order
+16
+Page 23 of 77
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+December 11, 2013
+
+ATTACHMENT #2
+
+Page 24 of 77
+
+ Quality Assessment and 
+Quality
+Assessment and
+Improvement Plan FY 2014:
+OVERVIEW
+
+CCHHS Board of Directors
+Q lit
+Quality and Patient Safety Committee
+d P ti t S f t C
+itt
+December 11th, 2013
+1
+Page 25 of 77
+
+ Presentation Goals
+• Provide the regulatory framework guiding the 
+g
+y
+g
+g
+development of a quality plan
+• Describe the structure and reporting 
+responsibilities of quality committees
+responsibilities of quality committees
+• Describe the requirements and details of the 
+patient safety program, including specific
+patient safety program, including specific 
+indicators and targets
+• Describe required quality reporting and priorities 
+f
+for performance improvement
+f
+i
+• Discuss the preferred approach to data handling 
+and clinical performance improvement
+and clinical performance improvement 
+2
+Page 26 of 77
+
+ Regulatory Framework
+CMS CoP: The hospital must develop, implement, and maintain an effective, ongoing,         
+hospital‐wide, data driven quality assessment and performance improvement program. 
+LD.01.03.01
+The governing body is ultimately accountable for the safety and quality of care, treatment, 
+and services.
+MS.05.01.01
+The organized medical staff has a leadership role in organization performance 
+improvement activities to improve quality of care, treatment, and services and patient 
+safety.
+f
+LD.04.04.01
+Leaders establish priorities for performance improvement. 
+LD.04.04.05
+The hospital has an organization‐wide, integrated patient safety program within its 
+performance improvement activities.
+p
+p
+LD.03.01.01
+Leaders create and maintain a culture of safety and quality throughout the hospital.
+Page 27 of 77
+
+3
+
+ Hospital Wide Quality Improvement and Patient 
+Safety (HQuIPS) Committee*
+Infection 
+Control
+
+Nursing 
+Specific 
+Indicators/ 
+OR and ED
+
+Environmen
+t of Care
+t of Care 
+Committee
+
+Ambulatory 
+Indicators
+
+Committee 
+on Cancer
+
+Patient 
+Satisfaction 
+and 
+Grievances
+
+Core 
+Measures
+
+Hospital Quality 
+Improvement and 
+Patient Safety
+Patient Safety 
+Committee
+Medical 
+Records
+
+Critical Care 
+and 
+resuscitatio
+n
+
+Department 
+Quality 
+Reviews
+
+Surgical
+Surgical 
+Function 
+Review
+
+Department Chairs
+Key Administration
+
+Blood Bank 
+and 
+Transfusion
+s
+
+Hospital 
+Oversight 
+/
+Committee/ 
+M&Ms
+
+Representation:
+Chair‐
+Chair‐ appointed by EMS 
+president + COO
+
+Drug 
+&Formulary
+// Adverse 
+Drug Events
+
+•Chief Nursing Officer
+•Executive Medical Director
+•COO
+•Finance
+•IT 
+•Quality
+
+Ex Officio Members
+
+* For Stroger Hospital. Provident and ACHN committees have similar structure
+Page 28 of 77
+
+4
+
+ Governance: Reporting
+Board of Directors 
+CCHHS
+
+Board QPS 
+Board
+QPS
+Committee
+
+Executive Medical 
+Staff Stroger 
+Hospital*
+
+Quality Committee 
+Stroger Hospital
+
+Cermak Health 
+Services Quality 
+Committee
+
+Executive Medical 
+Staff Provident 
+Hospital*
+
+ACHN Quality 
+Committee
+
+Provident Quality 
+Committee
+
+* Reporting may occur through the Chief Quality Officer, the Executive Medical Director, the Affiliate Chief Operating Officer, or directly by 
+5
+the President of the respective Medical Staff or their designees.
+Page 29 of 77
+
+ Patient Safety
+• Address all adverse events and sentinel events in a 
+th
+thorough and systematic fashion
+h d t
+ti f hi
+• Address high risk, high volume areas
+• Safety priorities for 2014:
+Safety priorities for 2014:
+–
+–
+–
+–
+
+Discharge transitions
+Procedural safety, particularly outside the OR
+M di ti
+Medication safety; adverse drug reactions
+f t d
+d
+ti
+Critical laboratory and pathology results, focusing on 
+timely reporting of malignant pathology
+
+• Responsibility is allocated to committees, departments 
+and task forces
+• Hospital must measure and improve culture of safety
+Hospital must measure and improve culture of safety
+6
+Page 30 of 77
+
+ Sentinel and Adverse Events
+• All serious events will be referred immediately to the 
+respective facility leadership and departmental oversight
+respective facility leadership and departmental oversight 
+committees
+• All sentinel events will have urgent (within 7 days) root 
+cause analysis (RCA) using the approach outlined by the
+cause analysis (RCA) using the approach outlined by the 
+Joint Commission 
+• A ‘just culture’ algorithm will be utilized to determine 
+accountability in cases of adverse outcomes
+bili i
+f d
+• Results are reported to the Hospital Quality Committee 
+and the medical staff
+• The oversight committee or RCA committee will direct 
+performance improvement activities as required
+• The oversight committees will make referrals to peer 
+The oversight committees will make referrals to peer
+review committees as required
+7
+Page 31 of 77
+
+ Performance Improvement Requirements
+JOINT COMMISSION
+JOINT COMMISSION
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Operative procedures
+Discrepancies between preop and postop
+Discrepancies between preop
+and postop diagnoses
+Adverse events related to moderate or deep sedation
+Use of blood transfusions & transfusion reactions
+Results of resuscitation & response to changes in a patient’s 
+condition
+Behavior management/ restraint use
+Behavior management/ restraint use
+Significant medication errors and adverse drug reactions
+Fall reduction activities
+O
+Organ procurement conversion rate
+t
+i
+t
+Patient perceptions of treatment
+Staff opinions, needs & perception of risk to individuals
+p
+,
+p
+p
+8
+Page 32 of 77
+
+ Address High Risk, High Volume Areas
+• Discharge Transitions
+– Medication reconciliation
+M di ti
+ili ti
+– Patient education
+– Post discharge appointments
+
+• Procedural safety
+Procedural safety
+– Presedation assessment
+– Time outs
+
+• Medication safety
+Medication safety
+– Increase reporting of ADRs
+– Use of trigger tools for proactive identification of potential events
+– FMEA for medication administration process
+p
+
+• Reporting of malignant pathology
+– Monthly reporting of all malignant pathology and cytology
+– Feedback to clinicians 
+9
+Page 33 of 77
+
+ EMS Committee Reports
+STROGER HOSPITAL
+STROGER HOSPITAL
+Committee
+
+Indicators
+
+Data Source
+
+Reporting
+Frequency
+
+Blood Bank & 
+T
+Transfusion
+f i
+
+Transfusion
+R ti
+Reactions
+
+Red Cells ‐‐
+A
+Appropriate
+i t
+
+Platelets ‐‐
+A
+Appropriate
+i t
+
+Chart review
+
+Biannually
+
+Critical Care & 
+Resuscitation
+
+Ventilator 
+complication rate
+
+Restraint prevalence 
+& complications
+
+Resuscitation 
+Results
+
+Inf Control data
+Nursing review
+Chart review
+
+Biannually
+
+Drug Usage Evaluation
+Drug Usage
+
+## ADRs reported 
+ADRs reported
+monthly
+
+Allergy alerts 
+Allergy
+alerts
+overridden by user
+
+Drug lab alerts 
+Drug‐lab
+alerts
+overridden
+
+Incident Reporting 
+Reporting
+system; Cerner
+
+Quarterly
+
+Environment of Care
+
+Fire Safety
+
+Integrity Fire Doors
+
+Hospital
+Environment
+
+EOC rounds
+
+Quarterly
+
+Infection Control
+
+CAUTI rate
+
+CLABSI rate
+
+Handwashing
+compliance
+
+Infection control dept
+
+Biannually
+
+Medical Education
+
+Medication 
+reconciliation 
+performed
+
+Enunciate knowledge 
+re DC safety
+
+Satisfaction with 
+doctors
+
+Cerner
+HCAHPS
+Survey
+
+Biannually
+
+Medical Information
+Medical Information
+
+DC summary
+DC
+summary
+completed 30 days
+
+Operative notes 
+Operative
+notes
+completed
+
+Admission H&P 
+Admission
+H&P
+signed 48 hours
+
+Cerner reports
+Cerner reports
+
+Quarterly
+
+Operating Room
+
+Intra‐operative
+Deaths
+
+Reoperation in 7 days
+
+On time starts
+
+Chart reviews
+Incident reports
+
+Quarterly
+
+Surgical
+g
+Function 
+Review
+
+Discrepancies pre 
+p
+p
+and post op 
+diagnoses
+
+%
+% Malignant
+g
+Path 
+reported in 7 days
+
+%
+% PAP smears F/U 
+/
+in one month
+
+Lab system reports
+y
+p
+
+Quarterlyy
+Q
+
+10
+Page 34 of 77
+
+ Key Indicators
+• Hospitalwide indicators describe areas of focus for 2014
+• Includes type and source of data, and baseline and target 
+performance
+• Reflects priorities:
+Reflects priorities:
+– Access to care
+– Quality of care
+– Patient satisfaction
+
+• Will be reported quarterly to quality committees and the 
+Board
+• Full set of indicators is as reflected in CMS reporting 
+requirements and described in the Quality Plan
+11
+Page 35 of 77
+
+ Key Indicators: Inpatient Services
+Indicator
+
+Target
+Performance
+
+Baseline
+Performance
+
+Data Source
+
+Reporting
+Interval
+
+ED Registration
+ED
+R i t ti
+to Discharge 
+(outpatient)
+
+240 i t
+240 minutes
+
+347 i t
+347 minutes
+
+Cerner 
+C
+Lighthouse
+
+Q t l
+Quarterly
+
+ED Registration
+ED
+Registration
+to Inpatient 
+(inpatients)
+
+480 minutes
+480 minutes
+
+620 minutes
+620 minutes
+
+Cerner 
+Cerner
+Lighthouse
+
+Quarterly
+
+Core Measures
+Core
+Measures
+HF, MI, PN and 
+SCIP*
+
+100%
+
+97%, 99%, 90%,
+97%,
+99%, 90%, Cerner 
+Cerner
+98%
+Lighthouse
+
+Quarterly
+
+Patient 
+Satisfaction:
+Recommend
+Hospital
+
+71%
+
+61%
+
+Quarterly
+
+HCAHPS
+
+HF=heart failure, MI=myocardial infarction or heart attack, PN=pneumonia, 
+SCIP=surgical care improvement program
+Page 36 of 77
+
+12
+
+ Key Indicators: Outpatient
+Indicator
+
+Target
+Performance
+
+Baseline
+Performance
+
+Data Source
+
+Reporting
+Interval
+
+Ease of moving 
+through the clinic 
+‘ d’
+‘good’
+
+75%
+
+63%
+
+HCAHPS
+
+Quarterly
+
+Ease of reaching 
+75%
+clinic on the phone 
+‘good’
+good
+
+59%
+
+HCAHPS
+
+Quarterly
+
+Children with UTD  > 71%
+immunization at 24 
+months
+
+68%
+
+CMApp
+
+Quarterly
+
+Diabetics with A1C  < 29%
+> 9%
+
+24%
+
+CMApp
+
+Quarterly
+
+13
+Page 37 of 77
+
+ Key Indicators: Nursing
+Indicator
+
+Target
+Performance
+
+Baseline
+Performance
+
+Data Source
+
+Reporting
+Interval
+
+Communication
+with nurses 
+‘ d’
+‘good’
+
+73%
+
+63%
+
+HCAHPS 
+survey
+
+Quarterly
+
+Fall rate/ falls
+with injury
+
+Decrease by 
+25%
+
+Cerner/IView
+Chart review
+
+Quarterly
+
+Hospital 
+H
+i l
+acquired 
+pressure ulcers
+
+Decrease by 
+D
+b
+25%
+
+Cerner/IView
+C
+/IVi
+Chart review
+
+Q
+Quarterly
+l
+
+14
+Page 38 of 77
+
+ Departmental Indicators
+Department
+
+Indicators
+
+Data Source(s) Frequency
+
+Anesthesia
+
+•SCIP measure: VTE prophylaxis
+•Handoff to PACU staff
+to PACU staff
+•Moderate sedation assessment and 
+complications
+
+Cerner Lighthouse
+Cerner IView
+Cerner IView
+Cerner Report
+
+Quarterly
+
+Emergency Med
+
+•Left without being seen
+Registration to
+to provider (outpt)
+provider (outpt)
+•Registration
+•Registration to decision to admit
+
+Cerner Lighthouse
+
+Quarterly
+
+Family Med
+
+•Heart Failure measure
+•Pneumonia measure
+•Med records‐ admission and DC 
+completion
+
+Cerner Lighthouse
+
+Quarterly
+
+Internal Med
+
+•Heart Failure measure
+•Pneumonia measure
+•Med records‐ admission and DC 
+completion
+
+Cerner Lighthouse
+
+Quarterly
+
+Obstetrics/
+Gynecology
+
+•Caesarean section rate
+•Elective delivery 37‐39 weeks
+•Breast feeding initiation
+
+OB database
+
+Quarterly
+
+15
+Page 39 of 77
+
+ Departmental Indicators, contd.
+Department
+
+Indicators
+
+Data Source
+
+Frequency
+
+Pathology
+
+•Turnaround time – inpatient
+•Critical results reported –
+Cii l
+l
+d outpatient
+i
+•Critical results reported ‐‐ inpatient
+
+Lab system
+
+Quarterly
+
+Pediatrics
+
+•Mortality in v. low birthweight infants
+•Pediatric immunization rates
+•Appropriate asthma care
+•Appropriate asthma care
+
+VON network
+CMApp
+Cerner
+
+Quarterly
+
+Psychiatry
+
+•Outpatient clinic show rates
+•Completion of postnatal depression 
+screen
+
+TBD
+
+Quarterly
+
+Radiology
+
+•Critical result reporting
+•Contrast: abdominal CT
+•Contrast: thoracic CT
+
+TBD
+
+Quarterly
+
+Surgery
+
+•SCIP: antibiotic choice
+SCIP tibi ti h i
+•SCIP: glucose control
+•H&P completion 48 hours
+•Operative note completion 30 days
+
+Cerner Lighthouse
+C
+Li hth
+Cerner reports
+
+Q t l
+Quarterly
+
+T
+Trauma
+
+•Organ procurement
+•Organ
+procurement
+•TBD
+
+Gift of Hope
+Gift of Hope
+
+Quarterly
+
+16
+Page 40 of 77
+
+ Departmental Indicators, contd.
+• Each department reviews its performance on a range 
+p
+p
+g
+of indicators under the leadership of the Chair of the 
+Department
+• Departments may have additional indicators which are 
+D
+t
+t
+h
+dditi
+l i di t
+hi h
+reported biannually to the Quality Committee
+• All departments will report compliance with clinical 
+All departments will report compliance with clinical
+contracts affecting their department
+• All departments will report OPPE and FPPE for 
+inclusion in personnel files
+• All departments will report results of oversight 
+activities as noted below
+activities as noted below
+17
+Page 41 of 77
+
+ Use of Data in Performance Improvement
+• Current evaluation methods:
+• Plan‐Do‐Check‐Act PI method
+Plan‐Do‐Check‐Act PI method
+• Data display – dashboard format
+• Proposed
+Proposed evaluation methods:
+evaluation methods:
+• Data display – run charts to show improvement over time
+• Performance improvement activity is reported to the Quality 
+Committee 
+Committee
+• Proposed improvement methodology: transition to lean/six sigma
+• Intermediate steps: introduce concept of variation and statistical 
+process control to display of QI data
+process control to display of QI data
+• Increase staff training in lean/six sigma concepts
+• Use selected projects to apply concepts
+
+18
+Page 42 of 77
+
+ Questions
+
+Page 43 of 77
+
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+ 
+
+John H. Stroger, Jr. Hospital Quality Plan 
+Outline 
+ 
+I.
+II.
+III.
+
+IV.
+V.
+
+VI.
+VII.
+
+ Introduction 
+ 
+Background, Scope and Purpose 
+ 
+Governance and Leadership 
+a. Role of the Governing Board 
+b. Role of the Executive Medical Staff 
+c. Role of the Hospitals Quality Committees 
+d. Role of the Quality Department and the Chief Quality Officer 
+ 
+Transparency 
+ 
+Patient Safety 
+a. Adverse and Sentinel Events  
+b. Event Awareness and Notification 
+c. Evaluation of Adverse and Sentinel Events 
+i. Referral for Evaluation 
+ii. Root Cause Analysis 
+iii. Just Culture 
+d. Event Resolution and Action Plans 
+e. Proactive Risk Assessments 
+i. Medical Staff Committees Which Measure and Improve Patient Safety 
+(a) Blood Bank Committee 
+(b) Critical Care and Resuscitation Committees 
+(c) Drug and Formulary and Drug Use Evaluation Committees 
+(d) Environment of Care Committee 
+(e) Infection Control Committee 
+(f) Operating Room Committee 
+(g) Surgical Function Review Committee 
+ii. Failure Modes and Effects Analysis 
+iii. Priorities Patient Safety Projects 
+f. Culture of Safety 
+i. Assessment 
+ii. Intervention 
+ 
+Patient Complaints and Patient Satisfaction 
+ 
+Quality Metrics 
+a. Description 
+b. Data Abstraction 
+c. Performance Targets 
+d. PQRS‐ Physician Quality Reporting System 
+ 
+
+Page 44 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+VIII.
+
+IX.
+X.
+XI.
+XII.
+
+ 
+ 
+ 
+
+System Quality Priorities 
+a. Inpatient Metrics 
+b. Outpatient and Population Based Metrics 
+c. Nursing Specific Indicators 
+d.  Medical Staff and Quality Priorities 
+ 
+Data Acquisition and Analysis 
+ 
+Performance Improvement 
+ 
+Confidentiality 
+ 
+APPENDICES 
+a. Appendix A:  CMS Regulation for Quality Plan 
+b. Appendix B:  Joint Commission Leadership Standards 
+c. Appendix C:  Joint Commission Performance Improvement Standards 
+d. Appendix D:  Quality Reporting Structure  
+e. Appendix E:  Hospital Wide Quality Improvement and Patient Safety Committee 
+f. Appendix F:  Recognition and Reporting of Adverse Events  
+g. Appendix G:  Sentinel Events (Joint Commission) 
+h. Appendix H:  Never Events (NQF)   
+i. Appendix I:   Med Staff Committees 
+j. Appendix J:  IQR metrics 
+k. Appendix K:  OQR Metrics 
+l. Appendix L:  System Quality Priorities 
+m. Appendix M:  Departmental Quality Indicators 
+n. ATTACHMENT:  Hospital Inpatient Quality Reporting Program Measures 
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+Page 45 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+John H. Stroger, Jr. Hospital of CCHHS 
+Quality Assessment and Performance Improvement Plan 2014 
+ 
+ 
+I.
+
+II.
+
+Purpose:  The Mission of the Cook County Health and Hospitals System (CCHHS) is to 
+provide a comprehensive program of quality healthcare, with respect and dignity, to all 
+residents of Cook County, regardless of their ability to pay.  To support this mission, the 
+System develops a Quality Assessment and Performance Improvement Plan for each 
+affiliate, to specify the approach to quality improvement and to enunciate achievement 
+targets for performance improvement, and to assure approval of the plan by the leaders of  
+the organization including the Board of Directors and the Executive Medical Staff.  The 
+purpose of this document is to set forth the Quality Assessment and Performance 
+Improvement Plan for John H. Stroger, Jr. (‘Stroger’) Hospital for FY 2014. 
+ 
+Background and Scope: A comprehensive quality improvement plan supports the Cook 
+County Health and Hospitals System’s and John H. Stroger, Jr. Hospital’s goals to provide 
+excellent, high quality patient care and outlines the specific mechanisms to achieve this 
+goal.  The plan is a requirement under the Conditions of Participation of the Centers for 
+Medicare & Medicaid Services (CMS) (APPENDIX A) and fulfills specific requirements of The 
+Joint Commission (APPENDIX B and APPENDIX C), the accrediting organization for the 
+Hospital and the System.  The plan is designed to be approved by the governing body of 
+CCHHS which is the Board of Directors, upon the recommendation of its committee on 
+Quality and Patient Safety, and upon approval by the Executive Medical Staff of Stroger 
+Hospital and System Leadership.  By approving the plan, the Board of Directors, the System 
+Leadership and the Executive Medical Staff are: 
+a. Overseeing the quality and patient safety activities within the organization 
+b. Ensuring that the organization takes a proactive approach to planning for 
+patient safety and quality patient care 
+c. Ensuring that an integrated safety program exists within the organization 
+d. Setting priorities for performance improvement, evaluating the performance 
+improvement practices in the organization and ensuring that performance 
+improvement strategies and methodologies are implemented throughout the 
+organization 
+e. Ensuring data collection and monitoring in diverse areas as specified below 
+f. Ensuring that the hospital analyzes and compares the data it collects using 
+statistical techniques and that data and other information are used 
+systematically for decision making. 
+ 
+This plan reflects  institutional patient safety and quality priorities for FY 2014 for Stroger 
+Hospital and provides substantial guidance for quality priorities for all entities within the 
+health System.  The written plan allows the hospital’s Executive Medical Staff and the Board 
+of Directors to ensure that the program reflects the complexity of the hospital’s 
+organization and services and involves all departments and services. The plan enumerates 
+the indicators related to improved health outcomes and describes the hospital’s process to 
+prevent and reduce medical errors. This plan provides direction for the ongoing hospital‐
+wide, data driven quality assessment and performance improvement program.   
+3
+
+ 
+
+ 
+
+Page 46 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+III.
+
+ 
+The structure of the Quality Assessment and Performance Improvement Plan is derived 
+from the Triple Aim enunciated by the national quality strategy within the Affordable Care 
+Act.  This directs health care providers to improve the care for individuals, assess and 
+improve the care of populations and to lower per capita costs in health care.  In addition, as 
+outlined by the Institute of Medicine Report, ‘To Err is Human’, quality improvement efforts 
+in health care should ensure that patient care is safe, timely, effective, efficient, equitable 
+and patient centered.  CCHHS and Stroger Hospital are committed to addressing all of these 
+dimensions of quality within the Quality Improvement Plan. 
+ 
+At CCHHS and Stroger Hospital, quality assessment and performance improvement 
+functions are divided into three major domains.  Thus the Quality Improvement plan is 
+divided into sections to address each of the following: 
+a. Patient safety involves the recognition, assessment and mitigation of adverse 
+patient events, including sentinel events, and involves retroactive as well as 
+proactive risk assessment (described further below).   
+b. Quality assessment and reporting of quality metrics include the ‘core measures’ 
+or process measures required for reporting to CMS and the Joint Commission; 
+outcome measures such as mortality, readmission rates, and rates of hospital 
+acquired conditions; and measures of patient satisfaction with care.   
+c. Performance improvement efforts focus on high risk, high volume activities and 
+problem prone areas and set specific performance targets for these areas.  
+Performance improvement projects may arise from tracking medical errors and 
+adverse patient events which require corrective actions for risk mitigation.  
+Interdisciplinary processes are used for performance improvement as described 
+below.  After implementing improvement projects, the performance is tracked 
+over time to assess the sustainability of improvement efforts.  
+ 
+Governance and Leadership: Oversight of the quality plan for CCHHS and Stroger Hospital is 
+provided by its governing body, the Board of Directors; by the medical staff through its 
+elected representatives, the Executive Medical Staff Committee; and by the leadership of 
+CCHHS.  The plan is to be approved by the Quality Committee of the hospital known as the 
+Hospital Wide Quality Improvement Committee;  by the Executive Medical Staff Committee 
+of the Hospital; by the Quality and Patient Safety Committee and the Board of Directors of 
+the CCHHS. Results of patient safety assessments, quality metrics and results of 
+performance improvement projects are also reported to the Executive Medical Staff and the 
+Board of Directors in the same manner as described in APPENDIX D.   
+ 
+Implementation of the Quality Plan is the responsibility of the Department of Quality and 
+Patient Safety led by the Chief Quality Officer and executed in collaboration with the 
+Hospital Quality Committee, departmental quality committees, hospital and system 
+leadership and the System Departments of Risk Management, Legal, and Compliance. 
+ 
+The Hospital Wide Quality Improvement Committee is to be renamed the Hospital Quality 
+and Patient Safety Committee through an amendment in the Medical Staff bylaws and will 
+serve the dual function of oversight of the Quality Program as well as the Patient Safety 
+4
+
+ 
+
+ 
+
+Page 47 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+IV.
+
+V.
+
+Program.  The composition and leadership of this committee is presented in APPENDIX E. 
+This committee meets monthly and reviews all quality metrics, departmental and 
+committee quality data, and prioritizes performance improvement projects.  The committee 
+chair or designee reports the activities of the committee to the Executive Medical Staff on a 
+monthly basis and the Medical Staff approves the minutes and activities of the committee 
+prior to presentation to the Board of Directors. 
+ 
+Transparency:  CCHHS is committed to transparency in the abstraction and reporting of 
+quality metrics. These metrics, together with the performance targets set by the leadership, 
+are to be disseminated widely among leadership and staff and will be available for viewing 
+internally on the CCHHS website.  In FY 2014 there will be efforts to develop the CCHHS 
+public website to allow the reporting of quality data for public review.  
+ 
+Patient Safety Program:  The Stroger Hospital Quality Improvement and Patient Safety 
+Committee (‘Quality Committee’) is the multidisciplinary committee (APPENDIX E) which 
+provides guidance and leadership for the Hospital’s patient safety program under the 
+direction of the Patient Safety Officer.  The Quality Committee receives reports from 
+medical staff committees as well as of reports of adverse and sentinel events. The Quality 
+Committee determines the priorities for corrective action plans or performance 
+improvement projects arising from the evaluation of such events as well patient safety 
+hazards identified by the medical staff committees which assess such risks.  
+ 
+a. Adverse and Sentinel Events:  The definition, reporting and evaluation of adverse events 
+are dictated by regulation and hospital policy.  The initial reporting process is outlined in 
+APPENDIX F.  All significant events are evaluated by departmental and hospital wide 
+oversight committees. Root cause analyses are performed for all sentinel events as 
+defined by hospital policy and the Joint Commission (APPENDIX G).  Other serious 
+adverse events are defined by the National Quality Foundation (APPENDIX H). These are 
+known as ‘Never Events’ and may have serious consequences to the health and 
+outcomes of patients under the care of the hospital.  All reported incidents and adverse 
+events are tracked, analyzed and preventive actions are identified and instituted 
+committees. The results of investigations and recommendations for performance 
+improvement are presented to the Quality Committee which prioritizes performance 
+improvement activities and monitors progress toward the achievement of the plans.  All 
+significant events and the results of the evaluation of such events are reported to the 
+Executive Medical Staff. 
+ 
+b. Event Awareness and Notification:  Adverse events may be reported using a variety of 
+systems.   
+i. Electronic event reporting system: Electronic reporting systems such as MERS, 
+function within a PSO (patient safety organization), and the events reported into 
+this system have protection from disclosure in litigation; this feature allows 
+honest and timely reporting which supports efforts to evaluate and mitigate 
+potential risks. 
+ii. Phone calls: confidential phone reports may be made by care providers to the 
+Quality Improvement/Patient Safety department, to Risk Management, or to 
+5
+
+ 
+
+ 
+
+Page 48 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+the Executive Medical Director.  These reports are also entered into the event 
+reporting system by quality and risk and this allows tracking of all reported 
+events. 
+iii. Departmental reports: Medical and Nursing departments have internal review 
+processes to assess the quality of care provided by members of the respective 
+department.  This includes oversight activities, case conferences, mortality and 
+morbidity reviews,  reviews performed for OPPE or FPPE (ongoing or focused 
+professional practice evaluation), or evaluations conducted by the Medical Staff 
+Peer Review Committee. 
+iv. Referrals from outside agencies: Although rare, events may be identified during 
+review by the QIO (Quality Improvement Organization) affiliated with the 
+hospital, or by state or national regulators (IDPH; Illinois Department of Public 
+Health, CMS; Centers for Medicare & Medicaid Services, The Joint Commission).  
+All of the above events, regardless of the method of identification, are reported 
+internally as described in APPENDIX F and evaluated as described below. 
+ 
+c. Evaluation of Adverse and Sentinel Events:  The management of adverse and sentinel 
+events is described in hospital policy.  Serious events are evaluated expeditiously and 
+thoroughly with a goal to understand the contributory factors and to mitigate the risk to 
+of future events. 
+i. Referral for Evaluation:  All reported adverse events are reviewed by Patient 
+Safety staff to determine the severity of the event and the urgency of 
+evaluation.  Stroger Hospital is committed to performing a timely, thorough and 
+credible root cause analysis (RCA) on all sentinel events and ‘Never Events’, as 
+well as all adverse events which do not fit either criteria but are deemed to 
+require further investigation.  This determination is made by the Executive 
+Medical Director with the input of the Hospital’s oversight committee or the 
+Quality Committee. Events which do not require an RCA are referred to 
+departmental oversight committees for further investigation. Results of 
+departmental oversight reviews are presented to the Hospital Wide Oversight 
+committee which then reports its findings to the Quality Committee. 
+ii. Root Cause Analysis:  The root cause analysis includes participation by hospital 
+leadership, and the individuals most closely involved with the event or with the 
+systems which contributed to the event.  The framework for the RCA is the one 
+developed by the Joint Commission; focuses on systems, and not individuals; 
+evaluates both system and human factors which contributed to the event; 
+progresses from special causes to more common causes in the organization; 
+and, is exhaustive in asking ‘Why?’ serially and exhaustively to identify a 
+complete set of risk points and potential contributors to the event. 
+iii. Just Culture and Accountability:  Stroger Hospital uses a ‘Just Culture’ approach 
+to determine the level of individual accountability for adverse events.  The focus 
+is on system factors but if there is an issue of individual accountability it will be 
+referred to the management of that individual’s department as appropriate. 
+ 
+d. Event Resolution and Action Plans:  The RCA should identify a series of changes in 
+systems and processes to reduce the risk of recurrence of similar and should result in an 
+6
+
+ 
+
+ 
+
+Page 49 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+action plan. The action plan will identify the person(s) responsible for the 
+implementation of the plan, and define measures of success for the plan. Responsibility 
+for monitoring the effectiveness of the action plan is delegated to the Quality 
+Committee. 
+ 
+e. Proactive Risk Assessments: Stroger Hospital conducts proactive risk assessments in 
+several high risk areas.  Some of these assessments are conducted by the Medical Staff 
+committees which evaluate specific clinical processes, as listed below (also, APPENDIX 
+I).   One high risk process is selected annually for an in‐depth analysis of risk points 
+utilizing the methods of failure modes and effects analysis (FMEA).  Several additional  
+high‐risk, high‐volume areas are targeted by the hospital for special projects in FY 2014 
+and these are described below. 
+i. Medical Staff Committee Which Measure and Improve Patient Safety: Medical 
+Staff committees are required to collect and report data related to high‐risk 
+processes in patient care.  These committees define priorities for process 
+improvement and engage in improvement activities which are reported to the 
+Quality Committee. 
+1. Blood Bank Committee:  collects data on the appropriateness of the use 
+of blood and blood products and on all reported and confirmed 
+transfusion reactions.  The Blood Bank committee is prioritizing the 
+safety of ordering and administration of blood products through a 
+process redesign in collaboration with Nursing, Blood Bank staff and the 
+Information Technology (IT) departments. 
+2. Critical Care and Resuscitation Committees:  the Critical Care committee 
+collects data on diverse indicators related to intensive care.  FY 2014 
+priorities for this committee include standardizing the approach to 
+prevention of ventilator associated complications (VACs), monitoring 
+restraint prevalence and improving the reporting of resuscitation 
+results.  This committee also plans and monitors the responses to 
+changes in patients’ conditions (‘rapid response’) and is engaged in 
+process redesign efforts to optimize the rapid response process. 
+3. Drug and Formulary and Drug Use Evaluation Committees: recognition 
+and mitigation of ADRs (adverse drug reactions) and medication errors 
+is a major safety priority for the hospital.  The Drug Use Evaluation 
+Committee monitors the reported ADRs and conducts proactive risk 
+assessment using indicators within the electronic medical record. In FY 
+2014 the scope of this committee will be expanded  to include 
+additional risk assessments using trigger tools known to predict patient 
+safety events. 
+4. Environment of Care committee: Evaluates environmental and life 
+safety hazards, monitors the response to product safety and device 
+alerts and recalls, and provides oversight of the Emergency Response 
+Plan. 
+5. Infection Control Committee: Priorities for this committee for FY 2014 
+include reducing the risks of catheter associated urinary tract infections 
+and monitoring and improving compliance with hand hygiene. 
+7
+
+ 
+
+ 
+
+Page 50 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+f.
+
+6. Operating Room Committee: works collaboratively with the 
+Departments of Surgery, Anesthesia and Nursing to improve procedural 
+safety and to decrease reoperations and surgical complications. 
+7. Surgical Function Review Committee: a high priority for FY 2014 (see 
+below) is to improve the timeliness of reporting of serious pathology 
+results and to assure appropriate care for such patients. This committee 
+also monitors for significant discrepancies between preoperative and 
+postoperative diagnoses. 
+ii. FMEA, or Failure Modes and Effects Analysis:  This is a multidisciplinary process 
+which utilizes process mapping, identifies potential failure modes and examines 
+the impact of these failure modes on patient care. A risk scoring system is used 
+for identifying and evaluating improvement opportunities.  Stroger Hospital has 
+selected the medication administration process for further evaluation with an 
+FMEA and intends to structure process improvement initiatives to improve the 
+timeliness and accuracy of medication administration, to include, but not 
+limited to, the implementation of a bar‐code medication administration 
+program. 
+iii. Priority Patient Safety Projects: Stroger Hospital has prioritized four high‐risk, 
+high‐volume clinical processes for robust multidisciplinary process improvement 
+initiatives.  These are described below: 
+1. Medication Safety: as described above, an FMEA will be continued 
+through FY 2014 for the medication administration process.  Education 
+will be provided to all hospital staffs to increase understanding and 
+appreciation for the importance of reporting latent errors, or near 
+misses; ADR reports will be tracked and evaluated.  
+2. Procedural Safety: in addition to the monitoring by the Operating room 
+committee, bedside procedures will be monitored for the performance 
+of pre‐sedation assessments, time outs and the full application of the 
+universal protocol.  In FY 2014 there are planned policy changes and 
+educational activities pertinent to these goals. 
+3. Discharge Transitions: discharge from the inpatient setting is a 
+particularly vulnerable time for patients and even more so when there 
+are limited financial, family and social resources available to the patient. 
+To optimize the safety of the discharge transition in FY 2014, Stroger 
+Hospital will reinforce and measure compliance with medication 
+reconciliation, and optimize processes for patient education and post 
+discharge appointing for patients. 
+4. Reporting of Malignant Pathology: Stroger Hospital provides care for a 
+large and vulnerable group of cancer patients. Early diagnosis and 
+enrollment in care is a priority for the hospital.  A systematic process 
+using computerized reporting is to be implemented to expedite the 
+early recognition of new malignant diagnoses and to reinforce and 
+expand outreach efforts to enroll patients in care. 
+ 
+Culture of Safety:   Stroger Hospital is taking steps to improve the culture of safety in 
+the organization by implementing structures and processes known to improve the 
+8
+
+ 
+
+ 
+
+Page 51 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+VI.
+
+culture of safety.  Culture reflects the beliefs and attitudes of the hospital’s staffs, and is 
+measured using a validated survey.  A positive culture of safety is associated with 
+increased reporting of adverse events and reporting behaviors strengthen patient safety 
+efforts.   
+i. Assessment:  An assessment tool (developed and validated by AHRQ) which 
+allows comparison to benchmark data is used at CCHHS for the assessment of  
+safety culture.  It is administered at all CCHHS affiliates and is analyzed using 
+national benchmark data.  It is expected that a repeat survey will be performed 
+in the Fall of 2014. 
+ii. Interventions:  Several  interventions based on the culture of safety survey 
+results are implemented to enhance the culture of safety at CCHHS.  These 
+include: 
+1. Leadership walk rounds:  allows leaders to directly communicate safety 
+priorities, support reporting behaviors and to hear staff concerns. 
+2. Interdisciplinary rounds:  allow robust interdisciplinary planning of 
+patient care, including pain management, infection prevention and 
+discharge planning; these utilize a structured format and are led by unit 
+based staff. 
+3. Unit based safety programs provide opportunities for all staff to 
+participate in quality improvement programs. 
+ 
+Patient Complaints and Patient Satisfaction:  Patient feedback and perceptions of the 
+safety and quality of care are vitally important to the development of a responsive, patient 
+centered organization.  Stroger Hospital welcomes feedback, comments and complaints 
+from patients and recognizes that patients and their families have the right to have 
+complaints reviewed by the hospital. An established complaint resolution process 
+implemented by the Office of Patient Satisfaction receives, prioritizes and responds to all 
+complaints from patients.  Serious consideration is given to every complaint, and hospital 
+policy is established regarding timeliness of resolution.  These processes are designed not 
+only to enhance patient satisfaction but to also identify conditions which may impact on 
+patient safety. 
+
+ 
+
+VII.
+
+Structured surveys of selected samples of discharged patients are administered by an 
+independent organization and the results are reported to hospital leadership.  This type of 
+feedback from patients is used to restructure processes to support patient safety, 
+communication and patient education. 
+ 
+Quality Metrics:  Quality measures are collected and reported to monitor and enhance 
+quality of care; to report to the federal state and county governments; for legal and 
+regulatory purposes and to support reimbursement and pay for performance initiatives.   
+Currently reported metrics and performance reports for FY 2012 (the last fiscal year of data 
+available) are displayed in APPENDIX  J for inpatients and APPENDIX  K for outpatients and 
+are also described below. This section describes the metrics, the methods of abstraction and 
+performance targets for FY 2014. 
+ 
+
+9
+
+ 
+
+ 
+
+Page 52 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+a. Description of Metrics:  Under the inpatient and outpatient quality reporting (IQR and 
+OQR) programs of CMS the metrics reported in APPENDIX J and APPENDIX K are 
+abstracted and reported on a quarterly basis to CMS.  A subset of these measures are 
+reported to the Joint Commission.  These measures are reported publicly on the site 
+Hospital Compare and constitute a key portion of the CCHHS quality dashboard.  
+i. Process Measures:  Evidence based process measures reflect good clinical 
+practice and high levels of achievement in these areas correlate with good  
+patient outcomes.  These processes include the care of patients with myocardial 
+infarction, heart failure, pneumonia and those who undergo surgery.  Recently, 
+measures of thromboembolism prophylaxis and stroke care were added to the 
+required measures.  The hospital’s performance in these areas is  used to 
+determine the priorities for  performance improvement projects. 
+ii. Outcome Measures ‐ Mortality and Readmissions: CMS uses administrative data 
+to calculate overall mortality, readmission rates to the hospital and rates of 
+hospital acquired conditions.  
+iii. Outcome Measures‐ Hospital Acquired Conditions:  Hospital acquired infections 
+represent a major, and preventable, source of morbidity in the hospital. Several 
+types of hospital acquired infection rates must be reported by law and are listed 
+in APPENDIX J and the Attachment.  
+iv. Outcome Measures – Emergency Department(ED) Throughput:  Wait times in 
+the ED for both inpatients and outpatients are monitored. ED wait times reflect 
+hospital throughput and a hospital wide capacity management. 
+ 
+b. Data Abstraction:  CCHHS uses computer supported data abstraction through the 
+electronic medical record (EMR) system for all process measures. Abstractors are given 
+a menu of cases which are sampled using the logic in the abstraction program 
+(denominator) as well as data and links to support manual abstraction. Numerator data 
+are assessed case by case after chart review by the abstractor and compliance is 
+measured as a percentage.  Data is abstracted monthly for all process measures but is 
+reported quarterly; reporting to the Joint Commission occurs concurrently with CMS 
+reporting.  Data submission is through a third party.  Data for outcome measures may 
+be abstracted by hospital abstractors (ED data), reported to CMS via alternative 
+channels (infection control data which is first reported to the Centers for Disease 
+Control ) or abstracted by CMS directly from its administrative database (mortality, 
+readmissions and hospital acquired conditions). 
+ 
+c.  Performance Targets:  These are determined  by the type of data (process or outcome) 
+and by indicator.  A subset of process measures have been selected for the Hospital’s 
+and System’s quality priorities for FY 2014 (see below).  Performance targets are set at a 
+higher threshold for these metrics, to the top decile (or > 90th %ile) of achievement. One 
+set of outcome measures,  ED throughput, has also been selected as a quality priority 
+(see below).  For all other process measures, the achievement target for FY 2014 is 
+above median performance (> 50th %ile).  For outcome measures, the achievement 
+threshold is to have all measures above the national average. 
+ 
+
+10
+
+ 
+
+ 
+
+Page 53 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+d. Physician Quality Reporting System (PQRS): CCHHS and Stroger Hospital Clinics will be 
+reporting through the PQRS program for physician specific outpatient quality measures.  
+The metrics will reflect the burden of disease and major risk factors in our ambulatory 
+population but the exact indicators are yet to be determined. 
+ 
+VIII.
+
+System Quality Priorities/ Stroger Hospital Quality Priorities:  The System and Hospital 
+quality priorities are to improve access to care, demonstrate excellence in the delivery of 
+care and to improve patient satisfaction.  These priorities are divided into Inpatient, 
+Outpatient and Nursing priorities, listed in APPENDIX L and discussed below.  APPENDIX L 
+also displays the baseline and target performance for each indicator.  The baseline 
+measurement is Q3 of 2013 and the achievement of targets will be assessed in Q3 of 2014.  
+Data on progress toward the targets will be reported quarterly to the Board of Directors. 
+ 
+a. Inpatient:  Delays in ED throughput may result in ED overcrowding and admission 
+delays.  A comprehensive program to reduce ED wait times and improve hospital 
+throughput is planned for FY 2014 and a Capacity Management workgroup has been 
+convened.  Moderate targets reflect the complexity of the task of reducing wait times.  
+The selected quality indicators reflect the major disease processes seen in the inpatient 
+population; this includes myocardial infarction, heart failure, pneumonia and surgical 
+care. Top decile performance, which is synonymous with the achievement of 100% 
+compliance with these measures is the Stroger Hospital target for FY 2014.  This is an 
+aggressive goal which will require a comprehensive multidisciplinary effort including 
+nursing, pharmacy and IT. Patient satisfaction with hospital care is reflected in the 
+summary measure of ‘willingness to recommend the hospital’. 
+ 
+b. Outpatient:  Outpatient metrics focus on clinic throughput and patient satisfaction with 
+care and measures of accessibility of the clinic. Diabetes management, and the measure 
+of the effectiveness of treatment of diabetes is one of two priority quality indicators for 
+the outpatient setting, and reflects the degree to which diabetes is driver for 
+cardiovascular disease in our population.  The second is the accomplishment of 
+childhood immunization. Both of these goals represent a focus on population health and 
+prevention. 
+ 
+c. Nursing Sensitive Indicators: Nursing sensitive indicators include fall rates and hospital 
+acquired pressure ulcer rates.  Accurate data collection systems are being set in place 
+for these indicators harnessing the reporting capabilities in the electronic medical 
+record (EMR) system;  target performance is reduction of these outcomes by 25%.  The 
+nursing indicator of communication with patients reflects the hospital’s goal to provide 
+excellent customer service and to enhance patient satisfaction.  
+ 
+d. Role of Medical Staff in Achieving Quality Priorities:  The department chairs and medical 
+staff are responsible to the Executive Medical Staff Committee and the Quality 
+Committee for maintaining a consistently high level of patient care.  Each department 
+has identified quality priorities which support the institutional goals as outlined above 
+and has selected high priority indicators for regular reporting to the Quality Committee.  
+These indicators are listed by department in APPENDIX M. 
+11
+
+ 
+
+ 
+
+Page 54 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+ 
+IX.
+
+Data Acquisition and Analysis:  The hospital collects data in a variety of settings to support 
+the quality enterprise.  The Board of Directors along with System Leadership and the 
+Executive Medical Staff set the priorities for data collection as well as the frequency of data 
+collection.  The Board of Directors assures adequate resources to accomplish data 
+acquisition and analyses required for the quality program.  The priorities and requirements 
+for data collection for FY 2014 are summarized in the tables in APPENDICES I, L and M. Data 
+is compared to external benchmarks whenever these are available and the significance of 
+the comparison is evaluated using statistical techniques.  Data is displayed using run charts 
+which show the evolution of performance over time and is correlated with performance 
+improvement initiatives.  The data will be assessed using statistical process control 
+techniques which can differentiate between special and common causes of variation; this 
+information will be used to describe the nature of performance improvement initiatives 
+which can best address variation.  The goal is to achieve high reliability in quality measures. 
+ 
+Performance Improvement:  Priorities for performance improvement are established by the 
+organizations leadership, which includes the Quality Committee, Executive Medical Staff, 
+System Leadership and the Board of Directors.  High‐risk, high‐volume or problem prone 
+areas are prioritized for performance improvement projects after consideration of the 
+incidence, prevalence and severity of problems in these areas and whether these problems  
+are known to affect  health outcomes, patient safety and quality of care. Performance 
+improvement projects are proportional to the scope and complexity of the hospital’s 
+services, as outlined in APPENDICES I, L and M. 
+
+X.
+
+ 
+
+XI.
+
+The hospital’s approach to performance improvement projects is in a transitional phase 
+from P‐D‐C‐A to a Lean/Six Sigma Approach.  This choice reflects the emphasis on value in 
+health care operations and the alignment of Lean concepts with value and the reduction of 
+waste.  This approach accurately reflects the multidisciplinary nature of health care and the 
+processes under study.  The Lean approach also supports the possibility of rapid cycle 
+performance improvement which may be used in selected cases, particularly in unit based 
+improvement programs.  Six Sigma addresses the variation in quality measurement which  
+reflects the stability of the process under study. Performance improvement projects will 
+address variation by designing high‐reliability interventions which are known to create 
+sustained changes.  This includes system redesign, forcing functions, checks and 
+redundancies and consideration of human factors.  Monitoring of performance 
+improvement activities will be provided by the hospital Quality Committee.  Staff in the 
+Department of Quality and Patient Safety will process data required for performance 
+improvement projects and provide facilitation for these projects as required. 
+ 
+Confidentiality:  All information, data, reports, minutes or memoranda relating to the 
+implementation of this Quality Assessment and Performance Improvement Plan are solely 
+for use in the course of internal quality control for the purpose of reducing morbidity and 
+mortality and improving patient care. As such, they are strictly confidential under the Illinois 
+Medical Studies and Hospital Licensing Act. The confidentiality of patient specific data will 
+be protected in observance of HIPAA regulations and aggregated, de‐identified data will be 
+used whenever possible for quality data reporting. 
+12
+
+ 
+
+ 
+
+Page 55 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+XII.
+APPENDIX A 
+CMS (Centers for Medicare and Medicaid Services) Regulations Guiding Quality Plans 
+ 
+ 
+Regulation (CFR 482.21 sections A‐0263 ‐  A‐0267): 
+ 
+The hospital must develop, implement and maintain an effective, ongoing, hospital‐wide, data‐driven 
+quality assessment and performance improvement program.  The hospital’s governing body must 
+ensure that the program reflects the complexity of the hospital’s organization and services, involves all 
+hospital departments and services (including those services furnished under contract or arrangement), 
+and focuses on indicators related to improved health outcomes and the prevention and reduction of 
+medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review 
+by CMS. 
+ 
+(a)Standard: Program Scope 
+ 
+i. The program must include, but not be limited to, an 
+ongoing program that shows measurable improvement 
+in indicators for which there is evidence that it will 
+improve health outcomes and identify and reduce 
+medical errors. 
+ii. The hospital must measure, analyze, and track quality 
+indicators, including adverse patient events and other 
+aspects of performance that assess processes of care, 
+hospital service and operations. 
+(b)Standard: Program Data 
+ 
+(1) The program must incorporate quality indicator 
+data including patient care data and other relevant 
+data, eg information submitted to or received from 
+the hospital’s Quality Improvement Organization. 
+(2) The hospital must use the data collected to (i) 
+monitor the effectiveness and safety of services and 
+quality of care and (ii) identify opportunities for 
+improvement and changes that will lead to 
+improvement. 
+(3) The frequency and detail of data collection must be 
+specified by the hospital’s governing body. 
+ 
+(c)Standard: Program Activities 
+ 
+(1) The hospital must set priorities for its performance 
+improvement activities that: (i) focus on high‐risk, high‐
+volume, or problem‐prone areas; (ii) consider the 
+incidence, prevalence, and severity of problems in those 
+
+13
+
+ 
+
+ 
+
+Page 56 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+areas and (iii) affect health outcomes, patient safety 
+and quality of care. 
+(2) Performance improvement activities must track 
+medical errors and adverse patient events, analyze their 
+causes, and implement preventive actions and 
+mechanisms that include feedback and learning 
+throughout the hospital. 
+(3)  The hospital must take actions aimed at 
+performance improvement and after implementing 
+those actions the hospital must measure its success and 
+track performance to ensure that improvements are 
+sustained. 
+ 
+(d)Standard: Performance Improvement Projects 
+As part of its quality assessment and performance improvement program the hospital must cnduct 
+performance improvement projects. 
+ 
+(1) The number and scope of distinct improvement 
+projects conducted annually must be proportional to 
+the scope and complexity of the hospital’s services and 
+operations. 
+(2) A hospital may.. develop and implement an 
+information technology system explicitly designed to 
+improve patient safety and quality of care. 
+(3) The hospital must document what quality 
+improvement projects are being conducted, the reasons 
+for conducting these projects and the measurable 
+progress achieved on these projects. 
+ 
+(e)Standard: Executive Responsibilities 
+The hospital’s governing body, medical staff, and administrative officials are responsible and 
+accountable for ensuring the following: 
+ 
+(1) That an ongoing program for quality improvement, 
+and patient safety, including the reduction of 
+medical errors, is defined, implemented, and 
+maintained. 
+(2) That the hospital‐wide quality assessment and 
+quality improvement efforts address priorities for 
+improved quality of care and patient safety and that 
+all improvement actions are evaluated. 
+(3) That clear expectations for safety are established. 
+(4) That adequate resources are allocated for 
+measuring, assessing, improving and sustaining the 
+hospital performance and reducing risk to patients. 
+(5) The determination of projects is conducted annually
+14
+
+ 
+
+ 
+
+Page 57 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX B: 
+Joint Commission Leadership Standards 
+ 
+ 
+LD.01.03.01 
+The governing  body is ultimately accountable for the safety and quality of care, treatment and services. 
+The governing body defines in writing its responsibilities 
+ 
+LD.02.03.01 
+The governing body, senior manager and leaders of the organized medical staff regularly communicate 
+with each other on issues of safety and quality. Leaders discuss issues that affect the hospital and the 
+population it serves, including performance improvement activities, reported safety and quality issues, 
+proposed solutions and their impact on resources, reports on key quality measures and safety 
+indicators, safety and quality issues specific to the population served. 
+ 
+LD.03.01.01 
+Leaders create and maintain a culture of safety throughout the hospital. Leaders regularly evaluate the 
+culture of safety and quality using valid and reliable tools and prioritize and implement changes 
+identified by the evaluation. 
+ 
+LD.03.02.01 
+The hospital uses data and information to guide decisions and to understand variation in the 
+performance of processes supporting safety and quality. 
+ 
+LD.03.05.01 
+Leaders implement changes in existing processes to improve the performance of the hospital. Structures 
+for managing change and performance improvement exist. The hospital has a systematic approach to 
+change and performance improvement.  Leaders provide resources required for performance 
+improvement and change management. 
+ 
+LD.04.04.01 
+Leaders establish priorities for performance improvement; set priorities for performance improvement 
+activities and patient health outcomes, and give priority to high‐volume, high‐risk or problem prone 
+processes for performance improvement activities. 
+ 
+LD.04.04.03 
+New or modified services and processes are designed incorporating multiple factors (i.e. patient/staff 
+needs, results of quality activities, information about patient risks, and sentinel event information) 
+ 
+LD.04.04.05 
+The hospital has an organization‐wide, integrated patient safety program within its performance 
+improvement activities.  The leaders implement a hospital‐wide patient safety program.  One or more 
+qualified individuals or an interdisciplinary group manages the safety program.  The scope of the safety 
+program includes the full range of safety issues, from potential or no‐harm errors to hazardous 
+conditions and sentinel events.  All departments, programs and services within the hospital participate 
+in the safety program. 
+ 
+15
+
+ 
+
+ 
+
+Page 58 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX C: 
+Joint Commission Performance Improvement Standards 
+ 
+ 
+PI.01.01.01, EP 1‐8, 11, 12, 14‐16, 30, 38 
+The hospital collects data to monitor its performance.  Leaders set priorities for data collection. The 
+leaders identify the frequency for data collection.  The hospital collects data on 
+ the performance improvement  priorities identified by leaders 
+ operative and other procedures that place the patient at risk of disability or death 
+ all significant discrepancies between preoperative and postoperative diagnoses, including 
+pathologic diagnoses 
+ adverse events related to using moderate or deep sedation 
+ use of blood and blood components 
+ all reported and confirmed transfusion reactions 
+ results of resuscitation 
+ behavior management and treatment 
+ significant medication errors 
+ significant adverse drug reactions 
+ patient perception of the safety and quality of care, treatment, and services 
+ effectiveness of fall reduction activities 
+ effectiveness of response to change or deterioration in a patient’s condition 
+ 
+ 
+PI.02.01.01, EP 1‐8 
+The hospital compiles and analyzes data.  The hospital compiles data in usable formats, identifies the 
+frequency for data analysis, uses statistical tools and techniques to analyze and display the data, 
+analyzes and compares internal data over time to identify levels of performance, patterns, trends and 
+variations, and compares data with external sources, when available. 
+ 
+PI.03.01.01, EP 1‐4 
+The hospital improves performance on an ongoing basis.  Leaders prioritize the identified improvement 
+opportunities. The hospital takes action on improvement priorities.  The hospital evaluates actions to 
+confirm that they resulted in improvements. 
+ 
+ 
+
+16
+
+ 
+
+ 
+
+Page 59 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX D: 
+CCHHS Quality Reporting Overview 
+ 
+ 
+ 
+ 
+Board of Directors 
+CCHHS
+
+Board QPS 
+Committee
+
+Executive Medical 
+Staff Stroger 
+Hospital*
+
+Quality Committee 
+Stroger Hospital
+
+Executive Medical 
+Staff Provident 
+Hospital*
+
+Cermak Health 
+Services Quality 
+Committee
+
+ACHN Quality 
+Committee
+
+Provident Quality 
+Committee
+
+ 
+ 
+ 
+ 
+ 
+*Reports to the Board may be provided by the Chief Quality Officer, the Executive Medical Director, the 
+Chief of Clinical Integration, the affiliate Chief Operating Officer or directly by the President of the 
+respective medical staffs or their designees. 
+ 
+ 
+ 
+
+17
+
+ 
+
+ 
+
+Page 60 of 77
+
+ 
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX E: 
+Hospital Wide Quality Improvement and Patient Safety Committee Description 
+ 
+Committee Reports Received: 
+
+Infection 
+Control
+
+Nursing 
+Specific 
+Indicators/OR 
+and ED
+
+Environment 
+of Care 
+Committee
+
+Patient 
+Satisfaction 
+and 
+Grievances
+
+Committee on 
+Cancer
+
+Hospital Quality 
+Improvement and 
+Patient Safety 
+Committee
+
+Medical 
+Records
+
+Core 
+Measures
+
+Critical Care 
+and 
+Resuscitation
+
+Department 
+Quality Reviews
+
+Hospital 
+Oversight 
+Committee/ 
+M&Ms
+
+Drug 
+&Formulary/ 
+Adverse Drug 
+Events
+
+Surgical 
+Function 
+Review
+
+ 
+ 
+ 
+ 
+ 
+ 
+Committee Membership:  
+ 
+Committee Chair co‐appointed by EMS President and COO 
+Medical Department Chairs 
+ 
+ 
+ 
+ 
+Executive Medical Director (System)   
+ 
+ 
+Chief Quality Officer (System)   
+ 
+ 
+ 
+Chief Operating Officer (Stroger Hospital) 
+ 
+ 
+Chief Operating Officer (ACHN)   
+ 
+ 
+ 
+ 
+ 
+Chief Nursing Officer (Stroger Hospital)   
+Chief Financial Officer (Stroger Hospital)  
+ 
+ 
+Director of Supply Chain Management (System) 
+Chief Clinical Informatics Officer 
+Director of Health Information (System) 
+Director of Patient Experience (System) 
+Director of Pharmacy (System) 
+Director of Infection Control (System) 
+18
+
+ 
+
+ 
+
+Page 61 of 77
+
+ 
+ 
+
+Ex Officio  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chief of Clinical Integration 
+Chief Business Officer 
+Executive Director of Nursing 
+Director of Multicultural Affairs 
+Chief Financial Officer (System) 
+Chair, Quality and Patient  
+ 
+Safety Subcommittee, 
+CCHHS Board of Directors 
+ 
+
+ 
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX F: 
+Recognition and Reporting of Adverse Events 
+ 
+ 
+
+Clinical Adverse Event or 
+Near Miss Event
+
+Clinical Adverse Event
+
+Near Miss Event: No 
+Patient Harm
+
+Attending Physician 
+Notified
+
+Sentinel Event
+
+Not Sentinel Event
+
+Significant Risk
+
+No Critical Factors per 
+Attending Physician
+
+Patient or Family Concern
+
+Notify Risk Management 
+Immediately
+
+Enter into On‐Line Event 
+Reporting System
+Notify Supervisor
+
+Notify Department Chair 
+or Oversight Committee
+
+Notify Chief Medical 
+Officer/Executive Medical 
+Director
+
+Notify Quality
+
+Leadership Notification: 
+COO, Executive Medical 
+Director, Quality
+
+Disclosure to Patient 
+and/or Representative
+
+Disclosure to Patient 
+and/or Representative
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+Page 62 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX G: 
+Sentinel Events (Joint Commission) 
+ 
+The event has resulted in an unanticipated death or major permanent loss of function not related to the 
+natural course of the patient’s illness or underlying condition§    
+ 
+or 
+ 
+1. The event is one of the following (even if the outcome was not death or major permanent loss 
+of function not related to the natural course of the patient’s illness or underlying condition): 
+2. Suicide of any patient receiving care, treatment and services in a staffed around the‐clock care 
+setting or within 72 hours of discharge 
+3. Unanticipated death of a full‐term infant Abduction of any patient receiving care, treatment, 
+and services 
+4. Discharge of an infant to the wrong family 
+5. Rape, assault (leading to death or permanent loss of function), or homicide of any patient 
+receiving care, treatment, and services# 
+6. Rape, assault (leading to death or permanent loss of function), or homicide of a staff member, 
+licensed independent practitioner, visitor, or vendor while on site at the health care 
+organization  
+7. Hemolytic transfusion reaction involving administration of blood or blood products having major 
+blood group incompatibilities (ABO, Rh, other blood groups) 
+8. Invasive procedure, including surgery, on the wrong patient, wrong site, or wrong procedure** 
+9. Unintended retention of a foreign object in a patient after surgery or other invasive procedures 
+10. Severe neonatal hyperbilirubinemia (bilirubin >30 milligrams/deciliter) 
+11. Prolonged fluoroscopy with cumulative dose >1,500 rads to a single field or any delivery of 
+radiotherapy to the wrong body region or >25% above the planned radiotherapy dose 
+** 
+_________________________________________________________________________ 
+§A distinction is made between an adverse outcome that is primarily related to the natural course of the 
+patient’s illness or underlying condition (not reviewed under the Sentinel Event Policy) and a death or 
+major permanent loss of function that is associated with the treatment (including “recognized 
+complications”) or lack of treatment of that condition, or otherwise not clearly and primarily related to 
+the natural course of the patient’s illness or underlying condition (reviewable under the Sentinel Event 
+Policy). In indeterminate cases, the event will be presumed reviewable and the hospital’s response will 
+be reviewed under the Sentinel Event Policy according to the prescribed procedures and time frames 
+without delay for additional information such as autopsy results. 
+  Major permanent loss of function means sensory, motor, physiologic, or intellectual impairment not 
+present on admission requiring continued treatment or lifestyle change. When major permanent loss of 
+function cannot be immediately determined, applicability of the policy is not established until either 
+the patient is discharged with continued major loss of function or two weeks have elapsed with 
+persistent major loss of function, whichever is the longer period. 
+#Sexual abuse/assault (including rape), as a reviewable sentinel event, is defined as unconsented sexual 
+contact involving a patient and another patient, staff member, or other perpetrator while being treated 
+or on the premises of the hospital, including oral, vaginal or anal penetration or fondling of the 
+patient’s sex organ(s) by another individual’s hand, sex organ, or object. One or more of the following 
+must be present to determine reviewability: 
+n Any staff‐witnessed sexual contact as described above 
+n Admission by the perpetrator that sexual contact, as described above, occurred on the premises 
+n Sufficient clinical evidence obtained by the hospital to support allegations of unconsented sexual contact 
+20
+
+ 
+
+ 
+
+Page 63 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX H: 
+Never Events (National Quality Foundation) 
+ 
+Surgical or Invasive Procedures 
+1A. Surgery or other invasive procedure performed on the wrong site 
+1B. Surgery or other invasive procedure performed on the wrong patient 
+1C. Wrong surgical or other invasive procedure performed on a patient  
+1D. Unintended retention of a foreign object in a patient after surgery or other invasive procedure  
+1E. Intraoperative or immediately postoperative/postprocedure death in an ASA Class 1 patient 
+ 
+Product or Device Events 
+2A. Patient death or serious injury associated with the use of contaminated drugs, devices, or biologics 
+provided by the healthcare setting  
+2B. Patient death or serious injury associated with the use or function of a device in patient care, in 
+which the device is used or functions other than as intended  
+2C. Patient death or serious injury associated with intravascular air embolism that occurs while being 
+cared for in a healthcare setting  
+ 
+Patient Protection Events 
+3A. Discharge or release of a patient/resident of any age, who is unable to make decisions, to other than 
+an authorized person  
+3B. Patient death or serious injury associated with patient elopement (disappearance)  
+3C. Patient suicide, attempted suicide, or self‐harm that results in serious injury, while being cared for in 
+a healthcare setting  
+ 
+Care Management Events 
+4A. Patient death or serious injury associated with a medication error (e.g., errors involving the wrong 
+drug, wrong dose, wrong patient, wrong time, wrong rate, wrong preparation, or wrong route of 
+administration)  
+4B. Patient death or serious injury associated with unsafe administration of blood products  
+4C. Maternal death or serious injury associated with labor or delivery in a low‐risk pregnancy while 
+being cared for in a healthcare setting  
+4D. Death or serious injury of a neonate associated with labor or delivery in a low‐risk pregnancy  
+4E. Patient death or serious injury associated with a fall while being cared for in a healthcare setting  
+4F. Any Stage 3, Stage 4, and unstageable pressure ulcers acquired after admission/presentation to a 
+healthcare setting 
+4G. Artificial insemination with the wrong donor sperm or wrong egg  
+4H. Patient death or serious injury resulting from the irretrievable loss of an irreplaceable biological 
+specimen  
+4I. Patient death or serious injury resulting from failure to follow up or communicate laboratory, 
+pathology, or radiology test results  
+ 
+ 
+ 
+ 
+ 
+21
+
+ 
+
+ 
+
+Page 64 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX H, cont’d: 
+Never Events (National Quality Foundation) 
+ 
+Environmental Events 
+5A. Patient or staff death or serious injury associated with an electric shock in the course of a patient 
+care process in a healthcare setting  
+5B. Any incident in which systems designated for oxygen or other gas to be delivered to a patient 
+contains no gas, the wrong gas, or are contaminated by toxic substances  
+5C. Patient or staff death or serious injury associated with a burn incurred from any source in the course 
+of a patient care process in a healthcare setting  
+5D. Patient death or serious injury associated with the use of physical restraints or bedrails while being 
+cared for in a healthcare setting  
+ 
+Radiologic Events 
+6A. Death or serious injury of a patient or staff associated with the introduction of a metallic object into 
+the MRI area 
+ 
+Potential Criminal Events 
+7A. Any instance of care ordered by or provided by someone impersonating a physician, nurse, 
+pharmacist, or other licensed healthcare provider   
+7B. Abduction of a patient/resident of any age  
+7C. Sexual abuse/assault on a patient or staff member within or on the grounds of a healthcare setting  
+7D. Death or serious injury of a patient or staff member resulting from a physical assault (i.e., battery) 
+that occurs within or on the grounds of a healthcare setting 
+
+ 
+ 
+ 
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+Page 65 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX I: 
+Medical Staff Committees and Patient Safety Indicators 
+ 
+Committee  
+
+Indicators  
+
+Data Source  
+
+Reporting 
+Frequency  
+
+Blood Bank & 
+Transfusion  
+
+Transfusion 
+Reactions  
+
+Red Cells ‐‐ 
+Appropriate  
+
+Platelets ‐‐ 
+Appropriate  
+
+Chart review  
+
+Biannually  
+
+Critical Care & 
+Resuscitation  
+
+Ventilator 
+complication rate  
+
+Restraint 
+prevalence & 
+complications  
+
+Resuscitation 
+Results  
+
+Inf Control data 
+Nursing review 
+Chart review  
+
+Biannually  
+
+Drug Usage 
+Evaluation  
+
+# ADRs reported 
+monthly  
+
+Allergy alerts 
+overridden by 
+user  
+
+Drug‐lab alerts 
+overridden  
+
+Incident Reporting 
+system; Cerner  
+
+Quarterly  
+
+Environment of 
+Care  
+
+Fire Safety  
+
+Integrity Fire 
+Doors  
+
+Hospital 
+Environment  
+
+EOC rounds  
+
+Quarterly  
+
+Infection Control  
+
+CAUTI rate  
+
+CLABSI rate  
+
+Handwashing 
+compliance  
+
+Infection control 
+dept  
+
+Biannually  
+
+Medical 
+Education  
+
+Medication 
+reconciliation 
+performed  
+
+Enunciate 
+knowledge re DC 
+safety  
+
+Satisfaction 
+with doctors  
+
+Cerner 
+HCAHPS 
+Survey  
+
+Biannually  
+
+Medical 
+Information  
+
+DC summary 
+completed 30 
+days  
+
+Operative notes 
+completed  
+
+Admission H&P 
+signed 48 hours  
+
+Cerner reports  
+
+Quarterly  
+
+Operating Room 
+     
+
+Intra‐operative 
+Deaths  
+
+Reoperation in 7 
+days  
+
+On time starts  
+
+Chart reviews 
+Incident reports  
+
+Quarterly  
+
+Surgical Function 
+Review  
+
+Discrepancies pre 
+and post op 
+diagnoses  
+
+% Malignant 
+Path reported in 
+7 days  
+
+% PAP smears 
+F/U in one 
+month  
+
+Lab system 
+reports  
+
+Quarterly  
+
+ 
+ 
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+Page 66 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX J: 
+Inpatient Quality Reporting Metrics: Process Measures 
+Baseline: 2012 
+
+ 
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+Page 67 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX J, cont’d: 
+Inpatient Quality Reporting Metrics: Outcome Measures 
+Baseline: 2012 
+
+ 
+
+ 
+25
+
+ 
+
+ 
+
+Page 68 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+ 
+
+APPENDIX J, cont’d: 
+Inpatient Quality Reporting Metrics: Hospital Acquired Infections 
+Baseline: 2012 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+26
+
+ 
+
+ 
+
+Page 69 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX J, cont’d: 
+Inpatient Quality Reporting Metrics: Patient Satisfaction Measures 
+Baseline: 2012 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+Page 70 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX K: 
+Outpatient Quality Reporting Metrics 
+Baseline: 2012 
+ 
+
+ 
+
+ 
+
+ 
+
+28
+
+ 
+
+ 
+
+Page 71 of 77
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX L: 
+System Quality Priorities: 2014 
+ 
+Key Indicators: Inpatient Services  
+Indicator  
+
+Target 
+Performance * 
+
+Baseline 
+Performance * 
+
+Data Source  
+
+Reporting 
+Interval  
+
+ED 
+Registration 
+to 
+Discharge (outpatient)  
+
+240 minutes 
+
+347 minutes 
+
+Cerner 
+Lighthouse  
+
+Quarterly  
+
+ED 
+Registration 
+Inpatient (inpatients)  
+
+480 minutes 
+
+620 minutes 
+
+Cerner 
+Lighthouse  
+
+Quarterly  
+
+Core Measures 
+HF, MI, PN and SCIP*  
+
+100%  
+
+97%,  99%,  90%, 
+98%  
+
+Cerner 
+Lighthouse  
+
+Quarterly  
+
+Patient Satisfaction 
+Recommend Hospital  
+
+71%  
+
+61% 
+
+HCAHPS 
+
+Quarterly  
+
+to 
+
+Key Indicators: Outpatient Services  
+Indicator  
+
+Target 
+Performance  
+
+Baseline 
+Performance  
+
+Data Source 
+
+Reporting 
+Interval  
+
+Ease  of  moving  through 
+the clinic ‘good’  
+
+75%  
+
+63% 
+
+HCAHPS 
+
+Quarterly  
+
+Ease  of  reaching  clinic  on 
+the phone ‘good’  
+
+75%  
+
+59% 
+
+HCAHPS 
+
+Quarterly 
+
+Children 
+with 
+UTD 
+immunization at 24 mo 
+
+> 71%  
+
+68% 
+
+CMApp 
+
+Quarterly 
+
+Diabetics with A1C > 9%  
+
+< 29%  
+
+24% 
+
+CMApp 
+
+Quarterly  
+
+Data Source 
+
+Reporting 
+Interval  
+
+HCAHPS 
+survey  
+
+Quarterly  
+
+Key Indicators: Nursing Services  
+Indicator  
+Communication 
+nurses ‘good’  
+
+Target 
+Performance  
+with 
+
+Baseline 
+Performance  
+
+73%  
+
+63% 
+
+Fall rate/ falls with injury  
+
+Decrease 
+25%  
+
+by 
+
+Cerner/IView  
+Chart review  
+
+Quarterly  
+
+Hospital acquired pressure 
+ulcers  
+
+Decrease 
+25%  
+
+by 
+
+Cerner/IView  
+Chart review  
+
+Quarterly  
+
+ 
+* Baseline reflects Q3, 2013; target performance to be evaluated Q3, 2014 
+
+29
+
+ 
+
+ 
+
+Page 72 of 77
+
+ 
+
+ 2014 
+John H. Stroger, Jr. Hospital of CCHHS Quality Assessment and Performance Improvement Plan 
+
+ 
+
+APPENDIX M: 
+Departmental Quality Indicators 
+ 
+Department  
+
+Indicators  
+
+Data Source(s)  
+
+Frequency  
+
+Anesthesia  
+
+•
+•
+•
+
+SCIP measure: VTE prophylaxis 
+Handoff to PACU staff 
+Moderate sedation assessment  
+
+Cerner 
+Lighthouse 
+Cerner IView  
+
+Quarterly  
+
+Emergency Med  
+
+•
+•
+•
+
+Registration to provider (outpt) 
+Registration to decision to admit  
+AMI door to needle time 
+
+Cerner 
+Lighthouse  
+
+Quarterly 
+
+Family Med  
+
+•
+•
+
+Heart Failure and Pneumonia measures 
+Med records‐ admission and discharge  
+
+Cerner 
+Lighthouse 
+
+Quarterly 
+
+Internal Med  
+
+•
+•
+
+Heart Failure and Pneumonia measures 
+Med records‐ admission and DC 
+completion  
+
+Cerner 
+Lighthouse 
+
+Quarterly 
+
+Obstetrics/ 
+Gynecology  
+
+•
+•
+•
+
+Caesarean section rate 
+Elective delivery 37‐39 weeks 
+Breast feeding initiation  
+
+OB database  
+
+Quarterly 
+
+Pathology  
+
+•
+•
+•
+
+Turnaround time – inpatient 
+Critical results reported – outpatient 
+Critical results reported ‐‐ inpatient  
+
+Lab system  
+
+Quarterly 
+
+Pediatrics  
+
+•
+•
+•
+
+Mortality in v. low birthweight infants 
+Pediatric immunization rates 
+Appropriate asthma care 
+
+VON network 
+CMApp  
+Cerner  
+
+Quarterly 
+
+Psychiatry  
+
+•
+•
+
+Chart review 
+
+Quarterly 
+
+•
+
+Outpatient clinic show rates 
+Completion of postnatal depression 
+screen  
+Depression treatment ‐ appropriateness 
+
+Radiology  
+
+•
+•
+•
+
+Critical result reporting 
+Contrast: abdominal CT 
+Contrast: thoracic CT  
+
+Cerner 
+PACS data  
+
+Quarterly 
+
+Surgery  
+
+•
+•
+•
+
+SCIP: antibiotic choice  & glucose control 
+H&P completion 48 hours 
+Operative note completion 30 days  
+
+Cerner 
+Lighthouse 
+Cerner reports  
+
+Quarterly 
+
+Trauma  
+
+•
+•
+•
+
+Time to Operating room 
+Negative laparoscopy rate 
+Completion of operative report in 24 hrs  
+
+Chart review 
+Cerner  
+
+Quarterly 
+
+ 
+30
+
+ 
+
+ 
+
+Page 73 of 77
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+December 11, 2013
+
+ATTACHMENT #3
+
+Page 74 of 77
+
+ John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+ 
+
+Medical Staff AppointmentsIReappointments and Non-Medical Staff Action Items Subject to
+
+Approval by the Quality and Patient Safety Committee
+
+INITIAL APPQCATIQNS
+
+Awad, Sawsan, MD Pediatrics/Cardiology Voluntary Physician
+Appointment Effective: December 11, 2013 thru December 10, 2015
+
+Khan, Salman, MD Pediatrics/ACHN Active Physician
+Appointment Effective: December 11, 2013 thru December 10, 204-5 2014
+
+Mehta, Annu P., MD Family Medicine/ACHN Active Physician
+Appointment Effective: December 11, 2013 thru December 10, 2015
+
+Roach, Paul, MD Trauma Voluntary Physician
+Appointment Effective: December 11, 2013 thru December 10, 2015
+
+Initial Non-Physician Appointment Applications
+Benoit, Jenna M., PA-C Surgery Otolaryngology
+
+With Patel, UrjeetA., MD
+Alternate McDonald, Sarah F., MD
+
+Effective: December 11, 2013 thru December 10, 2015
+Obilor, Isabel 0., CNP Family Practice
+
+With Chin, Sophia Y., MD
+Effective: December 11, 2013 thru December 10, 2015
+
+
+Department of Correctional Health
+
+Ezike, Ngozi MD Juvenile Detention Center
+
+Reappointment Effective: December 21 2013 thru December 20, 2015
+Ting, Andrew, MD Medicine
+
+Reappointment Effective: December 18, 2013 thru December 17, 2015
+Watson-Montgomery, Melanie DDS Oral Health
+
+Reappointment Effective: December 16, 2013 thru December 15, 2015
+
+Department of Familv Medicine
+Siddiqi, Alvia H., MD Family Medicine/ACHN
+Reappointment Effective: January 17, 2014 thru January 16, 2016
+
+Department of Medicine
+
+Physician Assistant
+
+Nurse Practitioner
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Krishnan, Kousik, MD Adult Cardiology Voluntary Physician
+Reappointment Effective: January 22, 2014 thru January 21, 2016
+Lad, Thomas E., MD Hematology/Oncology Active Physician
+Reappointment Effective: January 18, 2014 thru January 17, 2016 
+JM MD 1,1239%ng
+
+errIn, . ary ., enera lCin
+
+- - . EE
+
+Reappomtment Effective. January 19, 2014 rJ?iamemnER 11, 2013
+
+Item December l, 2013
+Quality and Patient Safety Committee Meeting Page 1 0f 3
+
+Page 75 of 77
+
+REVISED
+
+John H. StrogerI Jr. Hospital of Cook Coung
+Reappointment Applications
+
+Department of Medicine (continued)
+
+Sha?ei, Shams, MD Pulmonary Critical Care Active Physician
+Reappointment Effective: January 19, 2014 thru January 18, 2016
+
+Singh, Anshu, MD Hospital Medicine Active Physician
+Reappointment Effective: December 11, 2013 thru December 10, 2015
+
+Department of Pediatrics
+Bhobe, Swati S., MD Pediatrics Consulting Physician
+
+Reappointment Effective: December 30, 2013 thru December 29, 2015
+
+Department of 
+Watts, Jeffery MD Active Physician
+Reappointment Effective: December 28, 2013 thru December 27, 2014
+
+Department of Surgeg
+
+Gandhi, Yogesh, MD Neurosurgery Active Physician
+Reappointment Effective: December 21, 2013 thru December 20, 2015
+Wysocki, Robert, MD Orthopedic Surgery Active Physician
+Reappointment Effective: December 11, 2013 thru December 10, 2015
+
+Department of Trauma
+Clar, Steven A., MD Physical Medicine Active Physician
+
+Reappointment Effective: December 11, 2013 thru December 10, 2015
+
+Renewal of Privileges for Non-Medical Staff
+
+Nwigwe, Joy 0., CNP Medicine I Hospital Medicine Nurse Practitioner
+With Franco-Sadud, Ricardo A., MD
+
+Effective: January 19, 2014 thru January 18, 2016
+
+Ragauskis, Pauline M., PA-C Emergency Medicine Physician Assistant
+
+With Kysia, Rashid Fuad, MD
+Alternate Schaider, Jeffrey, MD
+
+With Leekha, Deepak, MD Medicine General Medicine
+Alternate Shah, Sejal, MD
+Effective: December 18, 2013 thru December 17, 2015
+
+Medical Staff Status Change w? no Change in Privileges
+
+ 
+
+Goldberg, David MD Active/General Medicine To Voluntary Physician
+
+Paul, Reena MD Active/Family Med Department change from Family
+Medicine to Correctional Health
+
+Watts, Tabitha MD Voluntary/Pediatrics To Active Physicia
+
+
+Medical Staff Additional Clinical Privileges APPROVED
+
+Lahijani, Sheila C. MD From Service to 530
+
+Napoles, MD Active Physician Advanced Laparoscopic
+Privileges
+
+Item December 1 1, 2013
+Quality and Patient Safety Committee Meeting Page 2 0f 3 REVISED
+
+Page 76 of 77
+
+ 
+
+Provident Hospital of Cook County
+
+Medical Staff AppointmentsIReappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+APPOINTMENT APPLICATION
+
+Department of Emergency Megicine
+
+Tai, Jahangir, DO
+Appointment Effective:
+
+Department of Surgem
+
+Napoles, MD
+Appointment Effective:
+
+Emergency Medicine Voluntary Physician
+December 11, 2013 thru December 10, 2015
+
+General Surgery Affiliate Physician
+December 11, 2013 thru December 10. 2015
+
+Initial Non-Physician Appointment Applications
+
+Eneogwe, Joy C.P., CNP
+With Chukwudozie O. Ezeokoli, MD
+
+Effective:
+
+Internal Medicine Nurse Practitioner
+
+December 11, 2013 thru December 10, 2015
+
+REAPPOINTMENT APPLICATIONS
+
+ 
+
+Department of Internal Medicine
+
+Brannegan, Richard MD
+Reappointment Effective:
+
+Neurology Affiliate Physician
+December 18, 2013 thru November 17, 2015
+
+Department of Obstetrics/Gynecology
+
+Milad, Magdy, MD
+Effective:
+
+Gynecology Affiliate Physician
+December 11, 2013 thru July 28, 2015
+
+Renewal of Privileges for Non-Medical Staff
+
+Baht-Yehudah, Adaminah K., PA-C
+With Crawford, Clifford S. MD
+Alternate Ansari, Shahid A., MD
+
+Effective:
+
+Item December I I, 2013
+
+Surgery General Surgery Physician Assistant
+
+December 11, 2013 thru June 10, 2014
+
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY I EE
+ON DECEMBER 1 1, 2013
+
+Quality and Patient Safety Committee Meeting Page 3 0f3 REVISED
+
+Page 77 of 77
+

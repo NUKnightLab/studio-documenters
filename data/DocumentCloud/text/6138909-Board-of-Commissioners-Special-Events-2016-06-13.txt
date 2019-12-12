@@ -1,0 +1,606 @@
+Cook County STEP (ERP) Town Hall
+Ivan Samstein
+Simona Rollinson
+Douglas Elwell
+
+June 13, 2016
+
+6/13/2016
+
+Cook County ERP Implementation
+
+1
+
+ Agenda
+•
+•
+•
+•
+•
+•
+•
+•
+
+Introduction
+What Is The STEP Project?
+Why Is The County Doing The Project?
+When Will We Doing STEP?
+How Will STEP Impact Me?
+What’s In It For Me?
+How Will I Be Prepared For The Change?
+How Can I Learn More?
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 2
+
+ Introductions
+• Introduction of Project Sponsors:
+
+– Ivan Samstein, CFO
+– Simona Rollinson, CIO
+– Douglas Elwell, CCHHS Deputy CEO of Finance and
+Strategy
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 3
+
+ Why Are We Doing STEP?
+ Multiple ERP Systems
+ Difficult to assemble reports
+ Myriad of business processes
+ Need to improve controls
+ Slow and cumbersome processes
+ Difficulty in tracking status of purchases
+ Need to leverage County Spend most effectively
+ Enhance operating efficiency & reduce costs
+ Advance the County’s procurement leverage
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 4
+
+ What Is STEP?
+• Strategic Tactical Enterprise Processes:
+–
+–
+–
+–
+–
+
+6/13/2016
+
+Integrated Business Process
+Shared Accounting Definitions
+Electronic vs manual processes
+Budgetary Controls
+Analytics & Dashboards
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 5
+
+ When Are We Doing STEP?
+
+Cook County Government
+Forest Preserve District
+
+AJJ Users
+All Users plus Employee Seif
+Service for Core HR Users
+
+Implementation
+
+All Users
+
+Hypercare
+Application Manag'ed Services
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 6
+
+ When Are We Doing STEP?
+Wave 1
+Inception
+11/15
+
+12/15
+
+Construction
+
+Elaboration
+1/16
+
+2/16
+
+3/16
+
+4/16
+
+5/16
+
+6/16
+
+7/16
+
+Transition
+8/16
+
+9/16
+
+10/16
+
+11/16
+
+Production
+12/16
+
+1/17
+
+2/17
+
+Chart of Accounts Design
+
+Process
+Overview
+
+Requirements
+Validation Workshop
+
+Future Process Design
+Module Configuration
+
+Key Design
+Decisions
+
+Plan
+Training
+
+Fit/Gap
+Workshops
+
+CRP-0
+
+Build Training
+Materials
+
+CRP-1
+Functional
+Specification
+Conversions
+
+Functional Specifications
+
+Tech
+Specs
+Conversion
+
+Deliver Training
+
+Technical
+Specifications
+
+Code Conversions
+
+`
+
+Hypercare - County
+Code and Unit Test RICEW
+
+ST-1
+
+Conversion Testing
+
+ST-2
+
+UAT
+Hypercare FPD
+
+Mock
+Cut 1
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Mock
+Cut 2
+
+Mock
+Cut 3
+
+Page 7
+
+ STEP Wave 1
+iProcure
+
+6/13/2016
+
+Cash
+Management
+(CM)
+
+Fixed
+Assets
+(FA)
+
+General Ledger
+(GL)
+
+Projects
+(PA)
+Grants
+(GA)
+
+Accounts
+Payable
+(AP)
+
+Financial Analytics (BI)
+
+Purchasing
+(PO)
+
+Accounts
+Receivable
+(AR)
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 8
+
+ How Will STEP Impact Me?
+The Procure to Pay Process will bring the most change to the most
+number of County employees in Wave 1:
+• Procure to Pay (Business Function)
+– Requisitions
+– Purchase Order
+– Receiving
+– Invoice / Payment
+
+• Workflow for approvals
+• Master Data Management
+– Items
+– Suppliers
+
+• Chart of Accounts
+• Encumbrances
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 9
+
+ What’s In It For Me?
+Process
+
+Pain Point
+
+Solution
+
+Procure to Pay: 1) Paper Process for
+Requisition & PO (29A).
+- Requisition &
+PO
+2) Manual approval
+process.
+- Approvals
+3) Unknown $$
+- Receiving
+commitment for Budget
+Items
+tracking.
+
+1) User (Department)
+generated PO
+2) Enable Oracle workflow
+for approval.
+3) Enable encumbrance in
+Oracle to reduce budget
+hold times.
+
+Record to
+Report:
+- Analysts
+- Budgeting
+
+Reports in Oracle and the BI
+Tool for specific analytical
+needs.
+
+6/13/2016
+
+Manually consolidate data
+from multiple systems,
+projects & grant sources.
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 10
+
+ What’s In It For Me?
+Process
+
+Pain Point
+
+Acquire to
+Retire:
+- Asset
+Management
+- Projects
+
+1) Managed by
+1) System generated Asset
+spreadsheet & JDE and
+accounting in single
+without GAAP standards
+system.
+applied.
+2) Use Oracle Projects &
+2) Manual spreadsheet
+Grants capability.
+process.
+
+Bill to Cash:
+- Accounts
+Receivable
+
+Tracking AR in
+spreadsheets.
+
+6/13/2016
+
+Solution
+
+Use Oracle AR capability in
+single system.
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 11
+
+ Analytics Capabilities
+• Interactive Analysis and drill down
+• Dashboards and ad-hoc reporting capabilities
+• Predictive Analytics
+• Executive Visibility
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 12
+
+ How Will I Be Prepared?
+Portal:
+Training
+Comms.
+FAQs
+
+Testing:
+
+Events:
+
+Two Cycles
+User
+Testing
+
+Workshops
+Town Halls
+
+County
+Teams
+Training:
+
+Workshop:
+Role
+Mapping
+Training
+
+Manuals
+UPK
+Video Clips
+
+Office
+Outreach:
+Tasks
+Readiness
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 13
+
+ How Can I Learn More?
+• Steering Committee – the Project Leadership Team is the outlet for
+conversation and to answer questions. They will be cascading project
+communications in upcoming Division and Bureau meetings.
+• Office Outreach – Office Change Agents will support offices with the
+change impacts and messages as well as training and other readiness
+needs.
+• Project Portal – will supply distributed communications, FAQs, training
+clips, and other project materials.
+• Project Email Address – we encourage all questions and suggestions to
+come to us at: ERP.STEPProject@CookCountyIL.gov
+• Printed Materials – you will receive a hand-out which is the Elevator
+Speech which outlines the project benefits to the County.
+– More Printed Materials will follow
+
+Please see the Project Portal for Project and Communication Details
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 14
+
+ How Can I Learn More?
+Your Sponsors
+Ivan Samstein, CFO
+
+6/13/2016
+
+Simona Rollinson, CIO
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Douglas Elwell,
+CCHHS Deputy CEO of
+Finance and Strategy
+
+Page 15
+
+ How Can I Learn More?
+Your Steering Committee
+Alexis Herrera
+CFO, Sheriff’s Office
+
+Samuel Steinberg
+CFO, Treasurer’s Office
+
+Ammar Rizki
+Deputy CFO, Bureau of Finance
+
+Simona Rollinson
+CIO
+
+Barbara Pryor
+Dep. Chief of HR, CCHHS
+
+Stephen Hughes
+CFO, FPD
+
+Donna Hart
+CIO for CCHHS
+
+Tom Lynch
+ERP Director
+
+Douglas Elwell
+Dep. CEO of Finance & Strategy, CCHHS
+
+Velisha Haddox
+Chief of HR
+
+Ekerete Akpan
+CFO, CCHHS
+
+Zelda Whittler
+Under Sheriff
+
+Ivan Samstein
+CFO
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 16
+
+ How Can I Learn More?
+Executive Stakeholders
+Arnold Randall
+General Superintendent, FPD
+
+Joseph Fratto
+Chief Deputy Treasurer
+
+Bill Kouruklis
+Chief Dep. Treasurer
+
+Keith Formell
+Acting CIO, Sheriff’s Office
+
+Deanna Zalas
+Director of Risk Management
+
+Lawrence Wilson
+County Comptroller
+
+Debra Rice
+ERP Project Manager
+
+Martha Martinez
+Chief Admin. Officer at Cook County HR
+
+Derrick Thomas
+Director of MIS
+
+Shannon Andrews
+Chief Procurement Officer
+
+Dorothy Loving
+Director of Financial Controls, CCHHS
+
+Tanya Anthony
+Director of Budget Mgmt. Systems
+
+Ebonie Taylor
+OCM
+
+Zahra Ali
+Director of Revenue
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 17
+
+ How Can I Learn More?
+Your Change Readiness Leaders & Change Agents
+
+Please see the Project Portal www. STEP.cookcountyil.gov
+for the Change Readiness Leader & Change Agent(s) assigned to your office.
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 18
+
+ How Did we Get Here?
+Thank you to everyone here who has participated in the project by:
+• Participating in design sessions
+• Contributing to Key Design Decisions
+• Attending Conference Room Pilots1 (CRP1) where you helped
+Identify Over 125 Change Impacts
+• Providing Data Extracts to the Technical Team
+We are building the system based on your invaluable contributions and
+we thank all of you for your time, energy and enthusiasm for the
+project.
+
+6/13/2016
+
+Strategic Tactical Enterprise Processes
+STEP UP TO SUCCESS
+
+Page 19
+
+ 

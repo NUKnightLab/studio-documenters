@@ -1,0 +1,299 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Thursday, November 15, 2018 at the hour of 9:00 A.M. at 1950
+W. Polk Street, in Conference Room 5301, Chicago, Illinois.
+
+I.
+
+Attendance/Call to Order
+Acting Chair Hammock called the meeting to order.
+Present:
+
+Acting Chair M. Hill Hammock (Substitute Member) and Directors Ada Mary Gugenheim and
+Layla P. Suleiman Gonzalez, PhD, JD (3)
+
+Absent:
+
+Chair Hon. Jerry Butler and Director Robert G. Reiter, Jr. (2)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – Chief Corporate Compliance and
+Privacy Officer
+Debra Carey – Deputy Chief Executive Officer,
+Operations
+Douglas Elwell – Deputy Chief Executive Officer,
+Finance and Strategy
+
+II.
+
+Donna Hart – Chief Information Officer
+Jeff McCutchan –General Counsel
+Deborah Santana – Secretary to the Board
+Tom Schroeder – Director of Internal Audit
+Dean Sorensen – Information Security Officer
+
+Public Speakers
+Acting Chair Hammock asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report from Chief Corporate Compliance and Privacy Officer (Attachment #1)
+Cathy Bodnar, Chief Corporate Compliance and Privacy Officer, provided an overview of the information
+contained in the Report. Dean Sorensen, Information Security Officer, reviewed the information regarding
+security intelligence and controls. The Committee reviewed and discussed the information.
+The report included information on the following subjects:
+
+
+
+
+
+Review Privacy and Security Rules
+Recognize the National Landscape
+Discuss Current Internal Activity
+View Cook County Health Measures for Compliance – Proactive and Reactive
+
+During the review of the information regarding security intelligence and controls, the Committee discussed
+the subject of securing the health information exchange between CCHHS providers and providers from
+outside organizations who share data on a patient. Mr. Sorensen stated that those exchanges can be secure,
+but the organizations have to be on the same page on how to do it. Donna Hart, Chief Information Officer,
+provided additional information regarding MHN Connect, which is a mechanism that allows this
+organization to receive and share information in a secure fashion on patients with other organizations who
+are part of that network.
+Page 1 of 13
+
+ Minutes of the Meeting of the Audit and Compliance Committee
+Thursday, November 15, 2018
+Page 2
+
+IV.
+
+Action Items
+A. Minutes of the Audit and Compliance Committee Meeting, September 20, 2018
+Director Suleiman Gonzalez, seconded by Director Gugenheim, moved to accept the
+minutes of the Audit and Compliance Committee Meeting of September 20, 2018.
+THE MOTION CARRIED UNANIMOUSLY.
+B. Any items listed under Sections IV and V
+
+V.
+
+Closed Meeting Items
+A. Report from Director of Internal Audit
+B. Discussion of Personnel Matters
+Director Gugenheim, seconded by Director Suleiman Gonzalez, moved to recess the
+open meeting and convene into a closed meeting, pursuant to the following
+exceptions to the Illinois Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the
+appointment, employment, compensation, discipline, performance, or dismissal of
+specific employees of the public body or legal counsel for the public body, including
+hearing testimony on a complaint lodged against an employee of the public body or
+against legal counsel for the public body to determine its validity,” and 5 ILCS
+120/2(c)(29), regarding “meetings between internal or external auditors and
+governmental audit committees, finance committees, and their equivalents, when the
+discussion involves internal control weaknesses, identification of potential fraud risk
+areas, known or suspected frauds, and fraud interviews conducted in accordance with
+generally accepted auditing standards of the United States of America.” THE
+MOTION CARRIED UNANIMOUSLY
+Acting Chair Hammock declared that the closed meeting was adjourned.
+Committee reconvened into the open meeting.
+
+VI.
+
+The
+
+Adjourn
+As the agenda was exhausted, Acting Chair Hammock declared the meeting
+ADJOURNED.
+Respectfully submitted,
+Audit and Compliance Committee of the Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+M. Hill Hammock, Acting Chair
+
+Page 2 of 13
+
+ Minutes of the Meeting of the Audit and Compliance Committee
+Thursday, November 15, 2018
+Page 3
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Requests/Follow-up:
+There were no requests for follow-up at this meeting.
+
+Page 3 of 13
+
+ Cook County Health and Hospitals System
+Audit and Compliance Committee Meeting
+Thursday, November 15, 2018
+
+ATTACHMENT #1
+
+Page 4 of 13
+
+ AUDIT & COMPLIANCE
+COMMITTEE OF THE
+BOARD OF DIRECTORS
+Corporate Compliance Report
+November 15, 2018
+
+Page 5 of 13
+
+ Meeting Objectives
+Review Privacy & Security Rules
+Recognize the National Landscape
+Discuss Current Internal Activity
+View CCH Measures for Compliance
+
+2
+
+o
+
+Proactive
+
+o
+
+Reactive
+
+Page 6 of 13
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ The “Alphabet Soup” of Privacy
+The Health Insurance Portability and Accountability Act
+o 2003 – HIPAA Privacy Rule
+o 2005 – HIPAA Security Rule
+Patient/member privacy rights related to health data
+Key Terms:
+Protected Health Information (PHI) and
+Electronic Protected Health Information (ePHI)
+
+CCH has a responsibility to safeguard PHI and ePHI
+3
+
+Page 7 of 13
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ March 13, 2018
+By Elizabeth Snell
+A New York surgery center reported a
+potential data breach stemming from a
+server being accessed by an unauthorized
+user.
+
+Nearly 280,000 Medicaid patient records breached
+in Oklahoma State University Center for Health
+Sciences.
+
+Page 8 of 13
+
+ Privacy Allegations Received by Compliance
+F-YTD 238 Issues Attributed to HIPAA
+26% of the Total Issues Received F-YTD
+
+Of the 238 Privacy
+allegations received,
+13% or 30 incidents
+were validated privacy
+breaches
+
+Breach Breakdown
+P
+r
+i
+v
+a
+c
+y
+
+Individuals = 70
+Incidents = 30
+
+Other Privacy matters = 87%
+(Determination of no breach and
+guidance requests, e.g. Contract and
+Business Associate Agreement, data
+sharing, subpoena requests)
+
+5
+
+Page 9 of 13
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ Security Intelligence
+Intrusion Events
+500
+400
+300
+200
+
+480
+
+Connection Events
+328
+
+14,000,000
+
+290
+232 226
+176
+
+12,000,000
+
+146 144
+
+101 101
+
+100
+0
+
+10,000,000
+8,000,000
+6,000,000
+4,000,000
+
+Sample Reports Received Monthly
+
+2,000,000
+-
+
+6
+
+Page 10 of 13
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ CCH Proactive & Reactive Measures
+Security Tools
+Intruder Prevention (Cisco Firepower)
+MS Office 365 (Recent Optimizations)
+Infoblox Secure DNS (How it helps with Phishing Attacks)
+Cerner 724 Read-Only upgrade to 724 Access Downtime
+Viewer (Business Continuity Plan/Disaster Recovery)
+Cerner Instant Access (Security and Authentication)
+
+Page 11 of 13
+
+ Additional Security Controls
+Updated privacy & security training
+Adapted policies to evolving environment including
+o Mobile Device Management
+(also implementing controls)
+Developed vendor questionnaire
+
+Page 12 of 13
+
+ Future Initiatives
+Optimizing medical device management
+Developing an anti-phishing program
+Enhancing asset control through IT Service Management
+(ITSM)
+Requiring multi-factor-authorization (remote access)
+
+Page 13 of 13
+
+ 

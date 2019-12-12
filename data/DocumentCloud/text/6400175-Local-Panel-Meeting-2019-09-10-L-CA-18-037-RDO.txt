@@ -1,0 +1,629 @@
+STATE OF ILLINOIS
+ILLINOIS LABOR RELATIONS BOARD
+LOCAL PANEL
+Policemen’s Benevolent Labor Committee,
+Charging Party,
+and
+County of Cook and Sheriff of Cook County,
+Respondent.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. L-CA-18-037
+
+ADMINISTRATIVE LAW JUDGE’S RECOMMENDED DECISION AND ORDER
+On January 4, 2018, the Policemen’s Benevolent Labor Committee (Union) filed a charge
+with the Illinois Labor Relations Board’s Local Panel (Board) alleging that the County of Cook
+(County) and Sheriff of Cook County (Sheriff) (collectively, Respondents) engaged in unfair labor
+practices within the meaning of Sections 10(a)(4) and (1) of the Illinois Public Labor Relations
+Act (Act) 5 ILCS 315 (2014), as amended. The charge alleged that the Respondents failed and
+refused to bargain in good faith with the Union when the Respondents unilaterally implemented a
+layoff of lieutenants without first bargaining the impact of the decision and reaching an agreement
+and when the Respondents refused to submit a grievance concerning the layoff to arbitration. The
+charge was investigated in accordance with Section 11 of the Act. On July 3, 2018, the Board’s
+Executive Director issued a Complaint for Hearing.
+A hearing was conducted on October 22, 2018, in Chicago, Illinois, at which time the Union
+presented evidence in support of the allegations and all parties were given an opportunity to
+participate, to adduce relevant evidence, to examine witnesses, and to argue orally.
+The parties filed timely post-hearing briefs. After full consideration of the parties’
+stipulations, evidence, arguments, and briefs, and upon the entire record of the case, I recommend
+the following:
+I.
+
+PRELIMINARY FINDINGS
+The parties stipulate, and I find that:
+1. At all times material, the Sheriff has been an employer within the meaning of
+Section 3(o) of the Act.
+1
+
+ 2. At all times material, the County has been an employer within the meaning of
+Section 3(o) of the Act.
+3. At all times material, the Respondents have been joint employers within the
+meaning of Section 3(o) of the Act.
+4. At all times material, the Respondents have been subject to the jurisdiction of the
+Local Panel of the Board pursuant to Section 5(b) of the Act.
+5. At all times material, the Union has been a labor organization within the meaning
+of Section 3(i) of the Act.
+6. At all times material, the Union has been the exclusive representative of a
+bargaining unit composed of lieutenants in the Respondents’ Court Services
+Department as certified by the Board on February 19, 2001, in Case No. L-RC-99028 (Unit).
+7. At all times material, the Unit has been a “peace officer unit” within the meaning
+of Section 14 of the Act.
+II.
+
+ISSUES AND CONTENTIONS
+The Union narrowed the issues for hearing on brief by addressing only the following issue:
+
+whether the Respondents failed to bargain in good faith in violation of Sections 10(a)(4) and (1)
+when they implemented their decision to lay off sixteen lieutenants, without completing impact or
+effects bargaining. 1
+The Union argues that the Respondents did not engage in good faith bargaining, but rather
+engaged in surface bargaining over the effects of the Respondents’ decision to lay off sixteen
+lieutenants. The Respondents assert that they bargained in good faith over the impact of the
+layoffs.
+III.
+
+FINDINGS OF FACT
+The Union is the exclusive representative of a bargaining unit composed of lieutenants in
+
+the Respondents’ Court Services Department. The Respondents and the Union (collectively,
+All other issues raised by the Complaint are properly deemed waived on appeal. Vill. of Bensenville, 10
+PERI 2009 (IL SLRB 1993), aff'd by unpub. order no. 2-94-0089 (2nd Dist. 1995) (respondent waived the
+argument that employee conduct was unprotected because the Respondent did not argue the issue before
+the ALJ); Vill. of Glenwood, 32 PERI ¶ 159 (IL LRB-SP 2016).
+1
+
+2
+
+ Parties) are parties to a collective bargaining agreement with an effective date of December 1,
+2012, through November 30, 2017 (CBA). The CBA provides that if either party provides written
+notice at least ninety days prior to the expiration date that the party desires to modify the CBA, the
+CBA shall continue to remain in effect after the expiration date until a new agreement is reached.
+The CBA further provides that in the event of a layoff, lieutenants may “bump” the
+employee with the least seniority in the bargaining unit of successive lower merit rank, which is
+sergeant, within the Court Services Department, if the bumping lieutenant has more court security
+seniority than the sergeant he or she will bump. The Fraternal Order of Police (FOP) represents
+the sergeants in the Respondents’ Court Services Department.
+On January 31, 2017, LaShon DeFell, deputy bureau chief of human resources/director of
+labor relations for the County, wrote to the Union, stating:
+We write to you in anticipation of negotiating the 2012-2017 successor collective
+bargaining agreement for your union. We look forward to working with you in the
+coming months to complete this contract. Please contact … by Wednesday,
+February 8, 2017, to provide your availability for a minimum of four initial
+bargaining sessions.
+On August 28, 2017, Joseph Andruzzi, an attorney for the Union, notified the County of
+its desire to modify the CBA.
+On November 15, 2017, John Ferro, an employee in the County’s Department of Budget
+and Management Service (DBMS), emailed Jill McArdle, an employee in the Sheriff’s Office,
+notifying her of potential layoffs in the Sheriff’s Office. Ferro stated, in part:
+This has been a long and complicated budgetary process with constant changing
+and submitting files back and forth and tracking the most recent data, Jill and Tim
+can express the same thoughts, I believe.
+DBMS has attached the list of PIDs as potential layoffs. The process for choosing
+Union positions was a last in first out assumption, (lowest pay probably last in),
+using the thought process of bumping rights and CBAs. DBMS understands that
+final layoffs will follow the guidelines provided in CBAs.
+Ferro attached a spreadsheet to the email which listed the titles of employees who would
+potentially be laid off. At hearing, Peter Kramer, the Sheriff’s special counsel of labor affairs,
+testified that, in 2017, the County lacked revenue, and rather than raise revenue, the County chose
+to recommend layoffs.
+On November 28, 2017, Thomas Nelligan, assistant general counsel for the Sheriff,
+emailed Thomas Pleines, an attorney for the Union, and Joseph Kaliga, a union representative for
+3
+
+ the FOP, notifying them that the County budget was calling for the layoff of eighteen lieutenants
+and requesting to meet with Pleines and Kaliga. Nelligan stated, in part:
+Unfortunately [sic] the County budget is still calling for the layoff of 18 Court
+Services Lieutenants. Looking at the CBA language (for both CBA’s), the Lt.’s
+CBA states a Lt. may bump into the next lower rank provided they have more court
+services seniority. The least senior of the 18 identified positions has more seniority
+than the least senior Sgt. Once they bump down, the next round of layoffs (which
+may result in approximately 23 Sgt.s to make up for the budgeted 18 Lt.’s positions)
+have to be done pursuant to the Sgt.’s CBA which is by date of promotion to Sgt.
+Obviously [sic] no one is happy about this and the language is less than clear, but I
+would like to make sure no one is laid off incorrectly. I’d like to meet you both as
+soon as possible, either together or separate. If you cannot meet, please advise if
+you have a different interpretation than the language above.
+On November 29, 2017, the County sent out letters to sixteen lieutenants notifying them
+that their positions had been eliminated from the budget and advised them to contact the Union
+regarding their “bumping” rights under the CBA. The letter stated, in part:
+The Cook County Sheriff’s Office received notification from the Cook County
+President’s Office that layoffs are necessary to meet Cook County’s budgetary
+reduction needs. We regret to inform you that the Cook County President’s Office
+has eliminated 16 Court Service Lieutenant positions from the budget. You are
+being notified due to the potential impact on your current position based on the
+bumping rights of Court Service Lieutenants. This letter serves as notice pursuant
+to Section 8.5 of the Collective Bargaining Agreement. Your Union has been
+notified as well and can best advise you of any options you have under your
+Collective Bargaining Agreement.
+On November 30, 2017, Pleines informed Nelligan that all the lieutenants facing layoff
+would be exercising their bumping rights under the CBA. Pleines also informed Nelligan that
+Lieutenant Ervin had less seniority than Lieutenant Diaz, and therefore, Ervin should be laid off
+prior to Diaz. Later that day, Nelligan informed Pleines that Nelligan would “look into” the
+Union’s claim regarding Lieutenant Ervin’s seniority.
+That same day, Andruzzi contacted Nelligan demanding to bargain over the effects of the
+impending layoffs and requesting to schedule negotiations for a successor contract. Andruzzi
+stated, in part:
+The Cook County Court Lieutenants (Union), represented by the Policemen’s
+Benevolent Labor Committee, demands bargaining over the impending layoffs. As
+you are aware, under Section 7 of the Illinois Public Labor Relations Act, unilateral
+changes cannot be implemented regarding mandatory subjects of bargaining until
+the completion of bargaining. The effects of the layoffs were never negotiated.
+The Union is prepared to commence bargaining over the effects of these layoffs
+4
+
+ immediately. Until bargaining is complete, any impending layoffs should be
+halted.
+Additionally, pursuant to Article XIX of the Collective Bargaining Agreement, the
+Union made proper timely notification of its desire to modify the current CBA,
+which expires today, November 30, 2017, on August 28, 2017. This was followed
+by a mediation request filed with the Illinois Labor Relations Board on November
+1, 2017 (assigned contract number 2017-11-99-028).
+Please contact me to schedule negotiations.
+At some point, Nelligan informed Pleines that the Respondents had set the effective date
+of the layoffs for December 13, 2017. Nelligan testified at hearing that the CBA requires the
+Respondents to provide two-weeks’ notice prior to layoffs.
+On December 1, 2017, Nelligan responded to Andruzzi’s November 30, 2019, demand to
+bargain inquiring whether the Union would be available to meet on December 8, 2017. That same
+day, Nelligan also emailed a copy of the lieutenants’ seniority lists to Pleines and Andruzzi
+requesting that the Union identify and forward any changes and/or corrections to the lists to the
+County.
+The Parties agreed to meet on December 8, 2017. At the meeting, Nelligan, DeFell, and
+Nicholas Skouffas, general counsel for the Sheriff, attended on behalf of the Respondents; Pleines,
+Andruzzi, Donald Milazzo, lieutenant and vice-president of the Union, and Susan Joyce, president
+of the Union, attended on behalf of the Union. At the meeting, the Union tendered a written
+proposal to the Respondents. The Union proposed to increase civil processing fees in order to
+increase revenue and fund the eliminated lieutenant positions.
+
+The Union explained that
+
+neighboring counties had higher fees than Cook County, and the Union’s proposal would bring in
+additional revenue of $2.6 million dollars. The Union noted in its proposal that “[r]eviewing the
+fee structure related to process could show additional alternative revenue that would more than
+make up for the decrease in budget allotment.” According to the Union, the purpose of the
+proposal was to avoid the layoff of the lieutenants. Milazzo testified that after presenting the
+proposal to increase civil processing fees, the Respondents took a break and checked to see if the
+Union’s information was correct. According to Milazzo, the Respondents then returned to the
+meeting and stated that the proposal “wouldn’t work.”
+
+Milazzo further testified that the
+
+Respondents stated that “even if they could get the money, the Sheriff didn’t have to spend it on
+[the lieutenants].” Nelligan, however, testified that at the meeting he responded to the Union’s
+proposal stating that he would “look into it.” Nelligan also testified that he was uncertain whether
+5
+
+ the fees were statutorily mandated and thus could not be unilaterally raised by the Sheriff. Milazzo
+testified that the Union believed that the Sheriff could unilaterally raise the fees because the fees
+were not statutorily mandated. Milazzo further testified that Lieutenant Dicaro had previously
+negotiated an increase in the fees when she was the chief.
+At the December 8th meeting, the Union also informed the Respondents that four
+lieutenants were planning on retiring soon and that these retirements could help alleviate the need
+for layoffs. Nelligan responded that the retirements would only be helpful if they occurred before
+the end of the year.
+At the December 8th meeting, the Union also provided the Respondents with a copy of a
+spreadsheet showing the impact of the layoff, and the Parties discussed how the layoff would affect
+the supervision of the Respondents’ facilities. Milazzo testified that the Respondents then took
+another break, came back in, and said, “it still didn’t matter.”
+Nelligan testified that, at the December 8th meeting, he inquired whether the Union would
+be willing to agree to salary reductions to offset the salaries of the lieutenants who were identified
+for layoff. Nelligan also testified that he did not offer a specific percentage or dollar amount.
+Nelligan further testified that the Union did not respond to the inquiry at the meeting. At hearing,
+Nelligan testified that had the Union been willing to agree to salary reductions, Nelligan would
+have presented the Union with specific numbers at a later time. In addition, Nelligan testified that
+even if the Union had agreed to the salary reductions, Nelligan did not have the authority to stop
+the layoffs at the time of the December 8th meeting. However, Milazzo testified at hearing that the
+Respondents never proposed salary reductions.
+At the December 8th meeting, the Parties also discussed the effective date of the layoffs.
+Nelligan testified that, at the meeting, the Union asked whether the date could be extended.
+Nelligan testified that “after discussion, I believe we were okayed to extend it to January 5th.”
+Milazzo testified that the Respondents extended the date at the Union’s request. Milazzo further
+testified that the extension was granted so that the Parties could meet again to discuss the impact
+of the layoffs and to give the Union more time to “find other proposals to offer.” The December
+8th meeting lasted between approximately one hour and 1.5 hours.
+On December 11, 2017, Nelligan emailed Pleines asking whether the Union had any other
+issues with the seniority list other than Lieutenant Ervin’s seniority. That same day, Pleines
+responded to Nelligan stating that Lieutenants Rhodes, Mills, and Cervantes had been promoted
+6
+
+ and should not be on the seniority list. Nelligan then removed Rhodes, Mills, and Cervantes from
+the seniority list.
+On December 12, 2017, Nelligan informed Pleines that the Respondents were still
+considering the Union’s proposal to increase civil processing fees and the issue of the four planned
+lieutenant retirements.
+On December 14, 2017, Pleines emailed Nelligan informing him that the Union had
+demanded to bargain over the impact of the layoffs and would be filing a grievance over the
+Respondents’ alleged failure to bargain. Pleines stated in part:
+The collective bargaining agreement applicable to the Court Services Lieutenants
+provides for bargaining over the impact or effects of the layoffs. We have
+previously demanded bargaining over the issue. We have been given one
+opportunity to meet with the Employer. That was on December 8, 2017. At that
+time, the Union presented two proposals to raise revenues in an amount sufficient
+to cure the reported budgetary shortfall. As you stated in our December 12, 2017
+telephone call the Employer is still considering these proposals. There was some
+disagreement among the Employer’s representatives whether these revenue
+proposals constituted bargaining over the effects of the layoffs. The Union does
+not consider this to have been a bargaining session. The Union also explained that
+Section 18.9 entitled “Maintenance of Benefits” applies to this current situation and
+gives the Union the right to arbitrate any dispute over changes in economic benefits.
+The Union will be filing a grievance and demanding arbitration within the
+immediate future. Because the Employer has not bargained with the Union over
+the impact of these layoffs and the parties will need to have sufficient time to
+arbitrate the grievance, we are against asking that the January 5, 2018 effective date
+be pushed back until the parties have had time to bargain and, if necessary arbitrate
+this dispute.
+On December 15, 2017, the Union filed a grievance regarding the layoff and requested that
+the Respondents delay implementation of the layoffs until the Parties had time to bargain over the
+impact of the layoffs, and if necessary, arbitrate the dispute. The Respondents did not provide a
+written response to the grievance. The CBA provides that if the Respondents do not provide an
+answer at any step of the grievance process, the Union may advance the grievance to the next step.
+On December 18, 2017, Nelligan responded to Pleines’ December 14th email message,
+stating “[p]lease let me know what dates work for you so that we can meet again to discuss the
+impact.” Pleines responded to Nelligan suggesting December 28, 2017, as a date to meet.
+The Parties agreed to meet on December 28, 2017. At the meeting, Nelligan and Kelly
+Jackson, then-chief of Court Services, attended on behalf of the Respondents; Pleines, Andruzzi,
+Milazzo, and Joyce attended on behalf of the Union. At the meeting, Nelligan stated that he would
+7
+
+ continue to look into the Union’s proposal of increasing civil processing fees, but that he believed
+the proposal was “too complicated and not something we could do at that time.”
+At the meeting December 28th meeting, the Union orally proposed that lieutenants could
+conduct rapid response/active shooter training for outside agencies as a way of increasing revenue
+in order to prevent the layoffs. Milazzo testified that the Respondents responded to the proposal
+by stating that the layoffs “were going to go through no matter what.” Milazzo further testified
+that the Respondents stated at the meeting that the proposal “had already been rejected.” At
+hearing, Nelligan testified that either at the December 28th meeting or the later January 9th meeting,
+Nelligan rejected the proposal stating that it would not “really be feasible at this point.” At hearing,
+Nelligan testified that “[i]t was kind of speculative how much [money the training] would bring
+in, and I think there were liability issues that were impacted in that as well.”
+At the December 28th meeting, the Union also asked the Respondents whether the
+lieutenants would be receiving compensatory time after they were bumped down and what effect
+the bumping down would have on the lieutenants’ seniority. Nelligan responded that he would
+“look into it” and get back to the Union on those questions. Chief Jackson then explained what
+would happen to the lieutenants who were not being laid off, for example, how and where they
+would be assigned after the layoff.
+
+Nelligan testified that when Jackson discussed where
+
+individuals would be assigned after the layoff, there “didn’t seem to be any objection or any
+conflict” from the Union.
+
+Milazzo testified that the Union did not play any role in the
+
+reassignments. Rather, Milazzo testified that the Respondents merely told the Union where the
+lieutenants would be assigned and reassigned.
+Nelligan further testified that at the December 28th meeting, he again orally inquired
+whether the Union would be willing to agree to salary reductions in order to avoid the layoffs.
+Nelligan testified that “it didn’t seem like I was going to get an answer.” As noted previously,
+Milazzo testified that the Respondents never proposed salary reductions. The December 28th
+meeting lasted at least one hour.
+On January 3, 2018, the Union advanced the grievance to step two of the Parties’ grievance
+procedure. The CBA has four steps in its grievance procedure. The fourth step is arbitration. The
+CBA further provides that failure to advance the grievance within the required time limits
+concludes the grievance process.
+
+8
+
+ Also, on January 3, 2018, Nelligan emailed Pleines asking him to identify the lieutenants
+who were planning on retiring in January. That same day, Pleines responded stating that four
+lieutenants would be retiring in January: Lieutenants Miles, Lopresti, Murund, and Smith. Later
+that day, Nelligan asked Pleines whether any of those individuals planned to retire by January 31,
+2018. That same day, Pleines responded stating that he would confirm the effective date of the
+retirements. Later that day, Pleines emailed Nelligan informing him that Lieutenants Miles and
+Barrata had already retired. The next day, Nelligan informed Pleines that the Respondents did not
+have paperwork for Miles’ retirement. Later that day, Nelligan told Pleines that Lieutenant Miles
+should contact the Respondents’ human resources department to confirm Miles’ retirement date.
+At some point, Miles did so.
+In addition, on January 3, 2018, Nelligan emailed Pleines, Andruzzi, and Joyce stating, “I
+have talked to Kramer about your grievance. If you want he is able to schedule a 3rd Step Hearing
+with you regarding this. Or if you prefer we can hold off on your grievance hearing until after the
+Jan 9 meeting. Please let me know which you prefer.” On January 5, 2018, Joyce responded
+stating, “[l]ets just handle this on the 9th.”
+On January 5, 2018, the Respondents implemented the layoff. Fourteen lieutenants were
+laid off and bumped down to sergeant. Two lieutenants had chosen to retire rather than be bumped
+down to sergeant.
+On January 9, 2018, the Parties met for the third and final time to discuss the impact of the
+layoffs. Nelligan, Jackson, and Kramer attended on behalf of the Respondents; Andruzzi, Milazzo,
+and Joyce attended on behalf of the Union. At the meeting, Kramer orally proposed a settlement
+regarding the grievance as well as extending the recall rights for the laid-off lieutenants. The
+Union did not provide a response to the proposal. At hearing, Milazzo testified that the Union did
+not respond to the oral proposal because “verbal agreements in the County aren’t really good for
+much.” In addition, at hearing, Milazzo testified that according to the Union, the CBA does not
+define the limit of recalls. At hearing, Kramer and Nelligan testified that according to the
+Respondents, the CBA provides for recall rights for twelve months only. The Union did not submit
+any proposals at the January 9th meeting. The meetings lasted for approximately one hour.
+Sometime after the January 9th meeting, the Union rejected the proposal to extend the recall rights
+of the laid-off lieutenants.
+
+9
+
+ To date, the Union has not advanced the grievance regarding the layoffs to step three or
+step four. To date, the Respondents have not received a demand to arbitrate the grievance from
+the Union.
+IV.
+
+DISCUSSION AND ANALYSIS
+The Respondents violated Sections 10(a)(4) and (1) of the Act when they implemented the
+
+lay off without bargaining to agreement or impasse with the Union over the effect of the layoffs.
+Section 10(a)(4) of the Act provides that it is an unfair labor practice for an employer to
+“refuse to bargain collectively in good faith with a labor organization which is the exclusive
+representative of public employees in an appropriate unit.” 5 ILCS 315/10(a)(4). Section 7 of the
+Act provides that employers are required “to negotiate in good faith with respect to wages, hours,
+and other conditions of employment, not excluded by Section 4 of the Act.” 5 ILCS 315/7. Section
+4 of Act provides that employers “shall not be required to bargain over matters of inherent
+managerial policy, which shall include such areas of discretion or policy as the functions of the
+employer, standards of services, its overall budget, the organizational structure and selection of
+new employees, examination techniques and direction of employees.” 5 ILCS 315/4. Section 4
+of the Act adds that employers “however, shall be required to bargain collectively with regard to
+policy matters directly affecting wages, hours and terms and conditions of employment as well as
+the impact thereon upon request by employee representatives.” Id.; Cnty. of Cook v. Licensed
+Practical Nurses Ass'n of Ill., Div. 1, 284 Ill. App. 3d 145, 153 (1st Dist. 1996); Chief Judge of the
+Circuit Court of Cook Cnty., 31 PERI ¶ 114 (IL LRB-LP 2014); Vill. of Glenwood, 32 PERI ¶
+159.
+
+If a decision of managerial prerogative impacts employees' terms and conditions of
+
+employment, an employer cannot, as a general matter, implement the decision without first
+bargaining the effects of the decision. Cnty. of Cook (Juvenile Temp. Det. Center), 14 PERI ¶
+3008 (IL LLRB 1998); State of Ill., Dep'ts of Cent. Mgmt. Servs. & Corrs., 5 PERI ¶ 2001 (IL
+SLRB 1988), aff'd Am. Fed. of State, Cnty. & Mun. Emps., AFL-CIO, 190 Ill. App. 3d 259 (1st
+Dist. 1989); Vill. of Glenwood, 32 PERI ¶ 159.
+In this case, the Parties do not dispute that the layoffs impact the lieutenants’ terms and
+conditions of employment and that the Union demanded effects bargaining. However, the Parties’
+
+10
+
+ dispute whether the Respondents engaged in bargaining over the effects of the decision to lay off
+the lieutenants.
+The Respondents assert that they bargained in good faith over the impact of the layoffs
+because they met with the Union on three occasions to discuss the impact of the layoffs. The
+Respondents also argue that they explained to the Union why the Union’s proposals to raise civil
+processing fees and the impending retirements would not work. Additionally, the Respondents
+contend that they made proposals to reduce the lieutenants’ salaries and to extend the recall rights
+of the laid-off lieutenants. In addition, the Respondents contend that they agreed to extend the
+effective date of the layoffs. Finally, the Respondents assert that they responded to the Union’s
+concerns regarding the seniority list.
+The Union, however, asserts that the Respondents engaged in surface bargaining at the
+three meetings. The Union notes that at the December 8th meeting, representatives of both the
+Sheriff and the County (Nelligan, DeFell, and Skouffas) attended on behalf of the Respondents,
+but at the December 28th meeting, representatives of only the Sheriff (Nelligan and Jackson)
+attended on behalf of the Respondents. The Union further notes that at the January 9th meeting,
+representatives of only the Sheriff (Nelligan, Jackson, and Kramer) attended on behalf of the
+Respondents.
+Additionally, the Union asserts that at the December 8th meeting, the Respondents did not
+offer proposals or counter-proposals and only offered to “look into” the Union’s proposals. The
+Union asserts that Nelligan’s “offer” to implement salary reductions to avoid layoffs was not, in
+fact, a proposal. The Union notes that Nelligan testified that even if the Union had agreed to the
+alleged proposal, Nelligan also testified that the layoffs would have still gone forward as planned.
+In addition, the Union asserts that it did not respond to the Respondents’ oral proposal on January
+9, 2018, to extend the recall rights of laid-off lieutenants because the Respondents never formally
+tendered a written proposal. The Union asserts that oral offers from the County “aren’t really good
+for much.” In addition, the Union contends that the Respondents made no proposals or counterproposals at the December 28th meeting. Instead, the Union asserts that the Respondents merely
+informed the Union where the lieutenants would be assigned and reassigned following the layoffs.
+Likewise, the Union asserts that the January 9th meeting “consisted of the Sheriff’s Chief reading
+off to the Union where each of the unaffected lieutenants would be assigned/reassigned.” Finally,
+the Union asserts that the extension of the layoff from December 13, 2017, to January 5, 2018,
+11
+
+ was not the result of bargaining. Rather, the Union asserts that the Respondents “with no
+explanation, on [their] own accord informed the Union of [the Respondents’] intention to change
+the lay-off date.”
+Here, I find that regardless of whether the Respondents engaged in good faith bargaining
+at the two meetings on December 8th and 28th, the Parties had not concluded bargaining over the
+effects of the layoffs when the Respondents implemented the layoffs on January 5, 2018. The
+Parties met two times before the layoffs were implemented. The Parties last meeting occurred
+after the layoffs had already occurred. Notably, at the last meeting on January 9, 2018, the
+Respondents proposed to extend the recall rights for the laid-off lieutenants. Thus, the Parties had
+not concluded bargaining when the Respondents implemented the layoff on January 5, 2018.
+In addition, the Parties had not reached impasse in bargaining the effects of the layoff as
+of the date of implementation of the layoffs. A finding of impasse is based on an examination of
+the facts of each case, considering the following factors: 1) bargaining history, 2) the good faith of
+the parties in negotiations, 3) the length of negotiations, 4) the importance of the issue, and 5) the
+contemporaneous understandings of the parties as to the state of negotiations. City of Chicago, 9
+PERI ¶ 3001 (IL LLRB 1992); Vill. of Glenwood, 32 PERI ¶ 159.
+In this case, the impasse factors indicate that no impasse had been reached. The Parties
+met only two times to discuss the impact of the layoffs prior to the layoff being implemented, and
+those meetings lasted for a total of approximately two to two and one-half hours. In fact, as noted,
+the parties third meeting, on January 9, 2018, occurred after the layoffs had already taken place on
+January 5, 2018. Further, as noted, the Respondents offered to extend the recall rights of the
+lieutenants at the January 9th meeting. Thus, the Parties were not at impasse when the Respondents
+implemented the layoff on January 5, 2018. Based on the small number of meetings that took
+place before implementation of the layoff and the importance of the items being discussed,
+negotiations were not yet at a point where neither party had more to offer. See City of Chicago, 9
+PERI ¶ 3001, citing Taft Broad. Co., 163 NLRB 475 (1967); State of Ill., Dep'ts of Cent. Mgmt.
+Servs. & Corrs., 5 PERI ¶ 2001; Bd. of Trs. of Univ. of Ill., 7 PERI ¶ 1061 (IL ELRB 1991); see
+also, Carpenter Sprinkler Corp. v. NLRB, 605 F.2d 60 (2d Cir. 1979). Accordingly, I conclude
+
+12
+
+ that the Parties were not at impasse with regard to impact issues when the Respondents
+implemented the layoffs.
+Additionally, although the Union’s proposals to increase civil processing fees and conduct
+rapid response/active shooter training sought to bargain the layoff decision itself, the evidence
+suggests that from the outset the Union was interested in negotiating over a number of matters
+pertaining to the effect of the layoffs on the Union members’ terms and conditions of employment,
+including the effective date of the layoffs, the lieutenants’ compensatory time after the layoff, the
+lieutenants’ seniority after the layoff, and the assignment and reassignment of lieutenants who had
+not been laid off. 2 Indeed, on December 14, 2017, the Union requested that the effective date of
+January 5, 2018, be “pushed back until the parties have had time to bargain.” Likewise, on
+December 15, 2017, the Union filed a grievance again requesting that the implementation of the
+layoffs be delayed until the Parties had time to bargain over the impact of the layoffs. Additionally,
+it is unclear whether the Respondents had responded to the Union’s concerns regarding
+compensatory time and seniority of bumped down lieutenants at the time the layoffs were
+implemented. At the final meeting prior to the layoff, Nelligan responded that he would “look
+into” those issues and get back to the Union. Finally, the Respondents admit that the purpose of
+the meeting on January 9, 2018, was to discuss the impact or effects of the layoff, and the
+Respondents offered to extend the recall rights of the lieutenants at that meeting.
+Moreover, the Respondents implementation of the layoff without first bargaining over its
+effects is an unfair labor practice even absent other indicia of bad faith bargaining. Vill. of
+Glenwood, 32 PERI ¶ 159, citing State of Ill., Dep't of Cent. Mgmt. Servs. (Dep't of Agric.), 13
+PERI ¶ 2014 (IL SLRB 1997) (considering solely whether the Respondent implemented change
+without bargaining over effects); State of Ill., Dep’ts of Cent. Mgmt. Servs. & Corrs., 23 PERI ¶
+113 (IL LRB-SP 2007). The Board has long held that such negotiations over the effects of a
+Not every impact of a managerial prerogative decision requires bargaining. Chief Judge of the Circuit
+Court of Cook Cnty., 31 PERI ¶ 114, citing Decatur Bd. of Educ., Dist. No. 61 v. Illinois Educ. Labor Rel.
+Bd., 180 Ill. App. 3d 770, 781 (4th Dist. 1989) (“nothing contained in this opinion should be taken to
+indicate that all cases, where impact is present, are subject to bargaining”). Instead, the employer must
+bargain only where the effects are not an inevitable consequence of the decision itself. Chief Judge of the
+Circuit Court of Cook Cnty., 31 PERI ¶ 114, citing City Colleges of Chicago, 13 PERI ¶ 1045 (IL ELRB
+1997) (adopting approach of the private sector with respect to impact bargaining). This rule preserves the
+employer's right to decline bargaining over permissive matters by ensuring that impact bargaining does not
+inevitably lead to questioning of the underlying decision. Chief Judge of the Circuit Court of Cook Cnty.,
+31 PERI ¶ 114, citing City Colleges of Chicago, 13 PERI ¶ 1045.
+2
+
+13
+
+ decision should take place at a meaningful time before the contemplated action is taken. Id.;
+Chicago Transit Auth., 14 PERI ¶ 3002 (IL LLRB 1997); Cnty. of Cook (Cook Cnty. Hosp.), 2
+PERI ¶ 3001 (IL LLRB 1985).
+Here, there was not a good faith effort to reach agreement before the Respondents
+implemented their decision. The record shows that the Respondents began planning the layoff
+sometime around November 2017. The Parties met on December 8 and 28, 2017, and on January
+9, 2018, to discuss the impact or effects of the layoffs. The Respondents implemented the layoff
+on January 5, 2018. It was incumbent upon the Respondents if they planned to adhere to the
+January 5th deadline, to build in time for enough bargaining sessions after its layoff plan was
+ascertainable, but before it was implemented, to reach agreement or impasse as to the effects. See
+State of Ill., Dep’ts of Cent. Mgmt. Servs. & Corrs., 23 PERI ¶ 113 (respondent violated Sections
+10(a)(4) and (1) of the Act when it implemented layoff without completing effects bargaining).
+Thus, the Respondents violated Sections 10(a)(4) and (1) of the Act when they laid off the sixteen
+lieutenants.
+V.
+
+CONCLUSIONS OF LAW
+The Respondents violated Sections 10(a)(4) and (1) of the Act when they laid off sixteen
+
+lieutenants without bargaining to agreement or impasse with the Union over the impact or effects
+of the layoffs.
+VI.
+
+RECOMMENDED ORDER
+
+IT IS HEREBY ORDERED that the Respondents, their officers, and agents, shall:
+1) Cease and desist from:
+a. Failing and refusing to bargain collectively in good faith with the Union,
+Policemen’s Benevolent Labor Committee, as the exclusive representative of the
+bargaining unit composed of lieutenants in the Court Services Department,
+regarding the impact or effects of the Respondents’ decision to layoff sixteen
+lieutenants.
+b. In any like or related manner, interfering with, restraining, or coercing employees
+in the exercise of the rights guaranteed them under the Act.
+2) Take the following affirmative action necessary to effectuate the policies of the Act:
+14
+
+ a. On request, bargain collectively in good faith with the Union, Policemen’s
+Benevolent Labor Committee, as the exclusive representative of the bargaining unit
+composed of lieutenants in the Court Services Department, regarding the impact or
+effects of the Respondents’ decision to layoff sixteen lieutenants.
+b. Restore the status quo by rescinding the layoffs of the sixteen lieutenants until the
+parties have completed impact or effects bargaining.
+c. Make whole members of the bargaining unit for any losses incurred had the
+Respondents not laid off the lieutenants before completing impact or effects
+bargaining, plus seven-percent interest per annum.
+d. Post, at all places where notices to employees are normally posted, copies of the
+Notice attached to this document. Copies of this Notice shall be posted, after being
+duly signed, in conspicuous places, and be maintained for a period of 60
+consecutive days. The Respondents will take reasonable efforts to ensure that the
+notices are not altered, defaced, or covered by any other material.
+e. Notify the Board in writing, within 20 days from the date of this Decision, of the
+steps the Respondents have taken to comply with this order.
+VII.
+
+EXCEPTIONS
+
+Pursuant to Section 1200.135 of the Board’s Rules, parties may file exceptions to the
+Administrative Law Judge’s Recommended Decision and Order and briefs in support of those
+exceptions no later than 30 days after service of this Recommendation. Parties may file responses
+to exceptions and briefs in support of the responses no later than 15 days after service of the
+exceptions. In such responses, parties that have not previously filed exceptions may include crossexceptions to any portion of the Administrative Law Judge’s Recommendation. Within seven days
+from the filing of cross-exceptions, parties may file cross-responses to the cross-exceptions.
+Exceptions, responses, cross-exceptions and cross responses must be filed with the Board’s
+General Counsel, at 160 North LaSalle Street, Suite S-400, Chicago, Illinois 60601-3103, or to the
+Board’s designated email address for electronic filings, at ILRB.Filing@Illinois.gov. All filing
+must be served on all other parties. Exceptions, responses, cross-exceptions, and cross-responses
+will not be accepted at the Board’s Springfield office. The exceptions and/or cross-exceptions
+sent to the Board must contain a statement of listing the other parties to the case and verifying that
+15
+
+ the exceptions and/or cross-exceptions have been provided to them. The exceptions and/or crossexceptions will not be considered without this statement. If no exceptions have been filed within
+the 30-day period, the parties will be deemed to have waived their exceptions.
+
+Issued at Chicago, Illinois this 29th day of March, 2019
+STATE OF ILLINOIS
+ILLINOIS LABOR RELATIONS BOARD
+LOCAL PANEL
+/s/ Michelle
+
+N. Owen
+
+Michelle N. Owen
+Administrative Law Judge
+
+16
+
+ NOTICE TO EMPLOYEES
+FROM THE
+ILLINOIS LABOR RELATIONS BOARD
+Case No. L-CA-18-037
+The Illinois Labor Relations Board, Local Panel, has found that the County of Cook and Sheriff of Cook County
+have violated the Illinois Public Labor Relations Act and has ordered us to post this Notice. We hereby notify
+you that the Illinois Public Labor Relations Act (Act) gives you, as an employee, these rights:
+•
+•
+•
+•
+•
+
+To engage in self-organization
+To form, join or assist unions
+To bargain collectively through a representative of your own choosing
+To act together with other employees to bargain collectively or for other mutual aid and protection
+To refrain from these activities
+
+Accordingly, we assure you that:
+WE WILL cease and desist from failing and refusing to bargain collectively in good faith with the Policemen’s
+Benevolent Labor Committee, as the exclusive representative of the bargaining unit composed of lieutenants in
+the Court Services Department.
+WE WILL cease and desist from failing and refusing to bargain collectively in good faith with the Policemen’s
+Benevolent Committee regarding the impact or effects of our decision to layoff sixteen lieutenants.
+WE WILL cease and desist from in any like or related manner interfering with, restraining or coercing our
+employees in the exercise of the rights guaranteed them in the Act.
+WE WILL bargain collectively in good faith with the Policemen’s Benevolent Labor Committee regarding the
+impact or effects of our decision to layoff sixteen lieutenants.
+WE WILL restore the status quo by rescinding the layoffs of the sixteen lieutenants until we have completed
+impact or effects bargaining with the Policemen’s Benevolent Labor Committee.
+WE WILL make whole members of the bargaining unit for any losses incurred had we not laid off the sixteen
+lieutenants before completing impact or effects bargaining, plus seven-percent interest per annum.
+
+DATE ____________
+
+____________________________________
+County of Cook
+(Employer)
+____________________________________
+Sheriff of Cook County
+(Employer)
+
+ILLINOIS LABOR RELATIONS BOARD
+
+801 South 7th Street, Suite 1200A
+Springfield, Illinois 62703
+(217) 785-3155
+
+160 North LaSalle Street, Suite S-400
+Chicago, Illinois 60601-3103
+(312) 793-6400
+
+THIS IS AN OFFICIAL GOVERNMENT NOTICE
+AND MUST NOT BE DEFACED.
+
+ 

@@ -1,0 +1,1145 @@
+Minutes
+Cuyahoga County Board of Control
+Monday, October 28, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:12 a.m.
+Attending:
+Michael Chambers, Interim Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Amy Himmelein, Controller, Fiscal Office (Alternate for Michael Chambers)
+Trevor McAleer, County Council (Alternate for Dan Brady)
+Councilman Dale Miller
+Councilwoman Nan Baker
+Michael Dever, Director, Department of Public Works
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 10/21/2019
+Michael Chambers motioned to approve the minutes from the October 21, 2019 meeting; Michael Dever
+seconded. The minutes were unanimously approved as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+BC2019-631
+Department of Information Technology,
+a) Submitting an RFP exemption on RQ46654, which will result in an award recommendation to
+Northwoods Consulting Partners, Inc. in the amount not-to-exceed $237,584.47 for maintenance and
+support of OnBase software for various departments for the period 1/1/2019 – 1/31/2020.
+b) Recommending an award on RQ46654 and enter into a contract with Northwoods Consulting Partners,
+Inc. in the amount not-to-exceed $237,584.47 for maintenance and support of OnBase software for
+various departments for the period 1/1/2019 – 1/31/2020.
+Funding Source: 60% - General Fund and 40% - Health and Human Services Levy
+Jeanelle Greene, Department of Information Technology and Jack Rhyne, Enterprise Resource Planning
+Project Manager for InFor, presented.
+
+ Nan Baker asked for confirmation that payment for services will be backdated to January 1, 2019 and
+future services will cover a 3 month period; asked for further clarification on the dates when services were
+provided and what period of time still needs to be paid for; asked what will happen with support services
+after contract expiration and will future services be bid; asked how the department would address the
+possibility that Hyland products could not be used going forward if that is the outcome of the pending
+court case and what position would the County be in to negotiate with Northwoods Consulting Partners,
+Inc.; asked if the ERP Project has stalled since July and if any negotiations were attempted with the vendor;
+and asked how another delay would impact the ERP project.
+Trevor McAleer asked if any vendor can provide these support services or must they be certified by Hyland
+Software before they can provide services; asked how many vendors are certified as resellers; asked if
+there was any feedback from other vendors who were contacted for quotes on this service as the
+department is also requesting an RFP exemption; asked what portion of the $237,584.47 is paid to Hyland
+Software by its’ third-party reseller, Northwoods Consulting Partners, Inc.; expressed his concern about
+investing an additional $237,584.47 while there are still potential legal issues with the court case and
+asked what would occur if the County can no longer use Hyland Software products due to the outcome of
+that case; stated that the County appears to be caught between the court case which may not be settled
+for years and causing delays in the ERP project; asked if either Northwoods Consulting Partners, Inc. or
+Hyland Software have been providing services up to 7/1/2019; asked if Hyland Software agrees that the
+County no longer owes any more money for services already provided; asked if the $75,000.00 in
+outstanding invoices for the Agenda Manager component have been paid; asked if a contract was in place
+with Hyland Software to pay the $75,000.00 in outstanding invoices and whether the funds are still
+available and will be paid from the same contract; asked for confirmation that no maintenance or support
+has been performed from July through present.
+Dale Miller asked for confirmation that this service is necessary in order for the ERP Project to move
+forward; commented that the OnBase product was a long-running, well-respected product that existed
+before the issues arose in the County and that the outcome of the court case will unlikely prohibit the
+County from using the product.
+Michael Chambers motioned to approve the item; Michael Dever seconded. Item BC2019-631 was
+unanimously approved.
+B. – New Items for Review
+BC2019-771
+Department of Development,
+a) Submitting an RFP exemption on RQ46888, which will result in a payment in the amount of $25,000.00
+to Spirit of Cleveland, Inc. for operational support of the 2019 Cleveland Rising Summit for the period
+10/29/2019 – 10/31/2019.
+b) Recommending a payment to Spirit of Cleveland, Inc. in the amount of $25,000.00 for operational
+support of the 2019 Cleveland Rising Summit for the period 10/29/2019 – 10/31/2019.
+Funding Source: General Fund
+Ted Carter, Department of Development, presented. Trevor McAleer asked for clarification on the funding
+sources for the Summit and asked how much the City of Cleveland is contributing; asked why this item is
+
+ just now being presented for approval one day prior to the Summit and asked when did the department
+become aware of the funding request from Spirit of Cleveland, Inc.
+Nan Baker asked why the City of Cleveland, who would be holding a press conference later in the day
+regarding the Summit, is not providing financial support; asked if there is confidence that the press
+conference is a result of a meeting of the minds and that there will not be protests during the Summit;
+asked if the Summit is in line with the County’s ideals; asked if the department believes if there is any
+validity to the original objections made by the complainants; asked for confirmation that protestors
+concerns are being recognized and that necessary changes are being supported now and prior to the next
+Summit. Michael Chambers motioned to approve the item; Trevor McAleer seconded. Item BC2019-771
+was unanimously approved.
+BC2019-772
+Department of Information Technology,
+a) Submitting an RFP exemption on RQ47043, which will result in an award recommendation to Dell
+Marketing LP in the amount not-to-exceed $80,947.22 for the purchase of (125) Microsoft Office
+subscription licenses; (16) Windows Server Licenses; (96) Windows Server Access Licenses and (3) SQL
+Server Licenses for use by the Board of Elections.
+b) Recommending an award on RQ47043 to Dell Marketing LP in the amount not-to-exceed $80,947.22
+for the purchase of (125) Microsoft Office subscription licenses; (16) Windows Server Licenses; (96)
+Windows Server Access Licenses and (3) SQL Server Licenses for use by the Board of Elections.
+Funding Source: General Fund
+Dennis Sullivan, Department of Information Technology, presented. Nan Baker asked for clarification on
+the start and end dates of the Enterprise Agreement related to the purchase of these licenses. Trevor
+McAleer asked if it is anticipated that similar purchases will be requested on behalf of other user
+departments. Michael Chambers motioned to approve the item; Michael Dever seconded. Item BC2019772 was unanimously approved.
+BC2019-773
+Department of Information Technology, submitting an amendment to Contract No. CE1200571 with iData
+Consulting Services, Inc., for maintenance and support services on the Synapse Publisher Web Content
+Management System for the period 8/20/2012 - 8/19/2019 to extend the time period to 12/31/2021 and
+for additional funds in the amount not-to-exceed $37,076.00.
+Funding Source: General Fund
+Debbie Davtovich, Department of Information Technology, presented. Nan Baker asked why this
+amendment is being submitted two months past the contract end date; asked if this service will be
+required after the Enterprise Resource Planning Project (ERP) goes live and if the software needs to be
+ERP compatible; asked why there have been so many amendments to this contract; asked how old the
+web content system is; asked if this service will be bid out at the end of this contract term; and asked why
+this was not submitted as a sole source request, as Ms. Davtovich referred to this vendor as a sole source
+provider, in her presentation. Michael Chambers motioned to approve the item; Michael Dever seconded.
+Item BC2019-773 was unanimously approved.
+
+ BC2019-774
+Department of Information Technology, recommending an award on RQ46974 and enter into a contract
+with Canto, Inc. in the amount not-to-exceed $24,400.00 for Cloud-based Digital Asset Management
+System services for the period 10/28/2019 – 10/27/2021.
+Funding Source: General Fund
+Jonathan Shick, Department of Information Technology, presented. Nan Baker asked if this is a new
+product and asked what led to the decision to purchase the System at this time; and asked for
+confirmation that this is a two-year contract. Michael Chambers motioned to approve the item; Nan Baker
+seconded. Item BC2019-774 was unanimously approved.
+BC2019-775
+Department of Health and Human Services, recommending an award on RQ46465 and enter into a sole
+source contract with United Way of Greater Cleveland in the amount not-to-exceed $277,333.00 for
+community resource navigation and MedRefer services to residents of Cuyahoga County for the period
+1/1/2020 - 12/31/2020.
+Funding Source: Health and Human Services Levy
+Sabrina Roberts, Department of Health and Human Services, presented. Nan Baker asked if the 2-1-1
+system was used by individual municipalities in the County; asked if this has always been a one-year
+contract and if better pricing could be achieved if the department contracted for multiple years. Michael
+Chambers motioned to approve the item; Dale Miller seconded. Item BC2019-775 was unanimously
+approved.
+BC2019-776
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+recommending awards on RQ45073 and enter into contracts with various providers (29-10) in the total
+amount not-to-exceed $188,369.00 for emergency shelter and supportive services for individuals and
+families experiencing homelessness in connection with the Emergency Solutions Grant Program for the
+period 9/1/2019 – 8/31/2020:
+a) Family Promise of Greater Cleveland in the amount not-to-exceed $68,800.00.
+b) Mental Health Services for Homeless Persons, Inc. dba Frontline Service in the amount not-toexceed $25,000.00.
+c) West Side Catholic Center in the amount not-to-exceed $61,260.00.
+d) Young Men’s Christian Association of Greater Cleveland (YMCA) of Greater Cleveland in the
+amount not-to-exceed $33,309.00.
+Funding Source: Emergency Solutions Grant
+Shari Weir, Office of Homeless Services, presented. Nan Baker asked if services have been provided or
+paid for since 9/1/2019. Trevor McAleer asked for further clarification on whether services have begun
+on this contract and if any invoices have been received for services rendered in September and October,
+2019; stated that he believes services have been provided but no payments have been made to the
+providers yet. Michael Chambers concurred with Mr. McAleer’s assessment. Michael Chambers motioned
+to approve the item; Michael Dever seconded. Item BC2019-776 was unanimously approved.
+
+ BC2019-777
+Department of Health and Human Services/Community Initiatives Division/Office of Early Childhood,
+a) Submitting an RFP exemption on RQ46832, which will result in an award recommendation to United
+Way of Greater Cleveland in the amount not-to-exceed $20,708.00 for staffing services for the Family
+Space Project for the period 10/21/2019 – 9/30/2020.
+b) Recommending an award on RQ46832 and enter into a contract with United Way of Greater Cleveland
+in the amount not-to-exceed $20,708.00 for staffing services for the Family Space Project for the period
+10/21/2019 – 9/30/2020.
+Funding Source: Health and Human Services Levy
+Marcos Cortes, Office of Early Childhood, presented. There were no questions. Michael Chambers
+motioned to approve the item; Trevor McAleer seconded. Item BC2019-777 was unanimously approved.
+BC2019-778
+Office of the Medical Examiner, submitting an agreement with the United States Attorney’s Office,
+Northern District of Ohio in the amount not-to-exceed $35,000.00 for forensic testing services for the
+period 11/28/2018 – 11/27/2019.
+Funding Source: Revenue Generating
+Hugh Shannon, Office of the Medical Examiner, presented. There were no questions. Michael Chambers
+motioned to approve the item; Michael Dever seconded. Item BC2019-778 was unanimously approved.
+BC2019-779
+Personnel Review Commission, submitting an agreement with the City of Parma Heights in the amount
+not-to-exceed $3,237.00 for classification and compensation consulting services for the period
+10/28/2019 – 1/27/2020.
+Funding Source: Revenue Generating
+Albert Bouchahine, Personnel Review Commission, presented. There were no questions. Michael
+Chambers motioned to approve the item; Michael Dever seconded. Item BC2019-779 was unanimously
+approved.
+C. – Consent Agenda
+Andria Richardson, Clerk of the Board of Control, stated that Council members had advance questions
+related to item number BC2019-789, Direct Open Market Purchases, Requisition No. SH-19-46236 for the
+purchase of identification wristbands for the Sheriff’s Department. Ms. Richardson provided Board
+members with the department’s responses to their advance questions.
+Ms. Richardson also referred to BC2018-789, Direct Open Market Purchases, Requisition No. SH-19-47085
+for prisoner board and care to alleviate overcrowding in County jails for the Sheriff’s Department. Tanisha
+Gates, Sheriff’s Department, responded to the Council members’ advance questions. Nan Baker asked for
+clarification on the number of inmates transferred to Seneca County and asked over what period of time
+those transfers occurred; asked if the department anticipates using all the requested funds; asked for the
+total cost for the 9 transferred prisoners; asked what the rate per prisoner is and asked how the
+department arrived at the amount of $45,000.00. Trevor McAleer asked if the per diem rate is the same
+
+ as other counties. Dale Miller asked why Seneca County is not being utilized going forward and asked for
+follow up from the department on this question.
+Nan Baker referred to item number BC2019-781 and asked what the purpose of the Memoranda of
+Understanding is and asked how the Memoranda will be impacted if a future appropriation request for
+the project is not approved; asked how the project will be funded if the appropriation is not approved;
+asked if the department is comfortable advancing the Memoranda of Understanding without the funding
+being in place. Trevor McAleer asked if the purchase of software related to this project is coming forward
+for approval next week.
+There were no further questions or comments on the consent items. Michael Chambers motioned to
+approve BC2019-780 through -789; Trevor McAleer seconded, the consent items were unanimously
+approved.
+BC2019-780
+Office of Procurement & Diversity, recommending to declare various property as surplus County property
+no longer needed for public use; recommending to sell said property via internet auction, in accordance
+with Ohio Revised Code Section 307.12(E).
+Funding Source: Revenue Generating
+BC2019-781
+Office of Innovation and Performance, submitting Memoranda of Understanding with various government
+entities to define the terms, roles and responsibilities for coordination and participation in The Lab @
+Cuyahoga County Project for the period 11/1/2019 – 10/31/2020.
+a) Board of Park Commissioners of the Cleveland Metropolitan Parks District
+b) Northeast Ohio Areawide Coordinating Agency
+Funding Source: N/A
+BC2019-782
+Department of Public Safety and Justice Services,
+a) Requesting authority to submit a grant application to the Ohio Department of Public Safety/ Office of
+Criminal Justice Services in the amount of $547,525.46 for the Regional Planning Unit Project in
+connection with the FY2019 STOP Violence Against Women ACT Block Grant for the period 1/1/2020 –
+12/31/2020.
+b) Submitting a grant award from Ohio Department of Public Safety/Office of Criminal Justice Services in
+the amount of $547,525.46 for the Regional Planning Unit Project in connection with the FY2019 STOP
+Violence Against Women ACT Block Grant for the period 1/1/2020 – 12/31/2020.
+Funding Source: FY19 STOP Violence Against Women Act Block Grant is from the Ohio Department of
+Public Safety, Office of Criminal Justice Services
+
+ BC2019-783
+Department of Public Safety and Justice Services,
+a) Requesting authority to submit a grant application to the Ohio Department of Public Safety/Office of
+Criminal Justice Services in the amount of $22,956.84 for management of the FY2019 STOP Violence
+Against Women Act Administrative Grant Program for the period 1/1/2020 – 12/31/2020.
+b) Submitting a grant award from Ohio Department of Public Safety/Office of Criminal Justice Services in
+the amount of $22,956.84 for management of the FY2019 STOP Violence Against Women Act
+Administrative Grant Program for the period 1/1/2020 – 12/31/2020.
+Funding Source: FY19 STOP Violence Against Women Act Block Grant is from the Ohio Department of
+Public Safety, Office of Criminal Justice Services
+BC2019-784
+Sheriff’s Department,
+a) Requesting authority to submit a grant application to the U.S. Department of Justice, Office of Justice
+Programs in the amount of $150,000.00 for support and enhancement of Sex Offender Registration and
+Notification Act (SORNA) activities in connection with the FY2019 Sentencing, Monitoring, Apprehending,
+Registering, and Tracking (SMART) Support for Adam Walsh Act Implementation Grant Program for the
+period 10/1/2019 – 9/30/2022.
+b) Submitting a grant agreement with the U.S. Department of Justice, Office of Justice Programs in the
+amount of $150,000.00 for support and enhancement of Sex Offender Registration and Notification Act
+(SORNA) activities in connection for the FY2019 Sentencing, Monitoring, Apprehending, Registering, and
+Tracking (SMART) Support for Adam Walsh Act Implementation Grant Program for the period 10/1/2019
+– 9/30/2022.
+Funding Source: U.S. Department of Justice, Office of Justice Programs
+BC2019-785
+Court of Common Pleas/Corrections Planning Board,
+a) Requesting authority to submit a grant application to U.S. Department of Justice, Bureau of Justice
+Assistance in the amount of $1,000,000.00 for the creation of a High-Risk Domestic Violence Court in
+connection with Innovations in Supervision Initiative: Building Capacity to Create Safer Communities Grant
+Program for the period 10/1/2019 – 9/30/2022.
+b) Submitting a grant award from U.S. Department of Justice, Bureau of Justice Assistance in the amount
+of $1,000,000.00 for the creation of a High-Risk Domestic Violence Court in connection with Innovations
+in Supervision Initiative: Building Capacity to Create Safer Communities Grant Program for the period
+10/1/2019 – 9/30/2022.
+Funding Source: U.S. Department of Justice, Bureau of Justice Assistance Innovations in Supervision
+Initiative: Building Capacity to Create Safer Communities Grant Program
+
+ BC2019-786
+Court of Common Pleas/Corrections Planning Board,
+a) Requesting authority to submit a grant application to U.S. Department of Justice, Bureau of Justice
+Assistance in the amount of $439,924.00 for the creation of a Behavioral Health and Criminal Justice
+Initiative Program in connection with the Adult Drug Court Discretionary Grant Program for the period
+10/1/2019 – 9/30/2021.
+b) Submitting a grant award from U.S. Department of Justice, Bureau of Justice Assistance in the amount
+of $439,924.00 for the creation of a Behavioral Health and Criminal Justice Initiative Program in
+connection with the Adult Drug Court Discretionary Grant Program for the period 10/1/2019 – 9/30/2021.
+Funding Source: U.S. Department of Justice, Bureau of Justice Assistance Adult Drug Court Discretionary
+Grant Program - $439,924.00 (grant award) + $146,886.00 (match) Targeted Community Alternative to
+Prison ("T-CAP") grant program funds
+BC2019-787
+Department of Public Safety and Justice Services, submitting an amendment to Board Approval No.
+BC2019-236 dated 3/18/2019, which approved a Direct Open Market Purchase and made an award on
+Requisition No. JA-19-44673 to AirGas USA, LLC for the purchase of cutting torch equipment for Ohio
+Homeland Region 2 Urban Search and Rescue Team, to change the amount from $6,479.08 to $8,393.93:
+JA-19-44673
+
+Cutting Torch Equipment
+for Ohio Homeland
+Region 2 Urban Search &
+Rescue Team
+
+Department of
+Public Safety and
+Justice Services
+
+AirGas USA, LLC
+
+$6,479.08
+$8,393.93
+
+FY2016 State
+Homeland
+Security Grant
+Program
+
+ BC2019-788
+Fiscal Office presenting proposed Travel for the week of 10/28/2019
+
+Travel Requests
+Department
+
+Department
+of Public
+Safety and
+Justice
+Services
+
+Staff
+
+Event
+
+Host
+
+Kevin Friis
+
+A conference
+entitled
+“International
+Association of
+Emergency
+Managers
+(IAEM) 2019
+Conference”
+
+International
+Association
+of
+Emergency
+Managers
+(IAEM)
+
+Dates of
+Travel
+11/13/11/23/2019
+
+Location
+
+Savannah,
+GA
+
+Expenses
+
+*Registration $624.00
+
+Funding
+Source
+General
+Fund-
+
+**Meals $411.00
+
+Total$1,035.00
+
+*Paid to the Host
+**Staff reimbursement
+
+Purpose:
+Requesting approval for Cuyahoga County Office of Emergency Management staff Kevin Friis to attend the
+International Association of Emergency Managers (IAEM) 2019 Conference November 13-23, 2019 at the Savannah
+International Trade and Conference Center in Savannah, GA. Employee will be reimbursed for meals (up to $450) and
+registration fee ($624.00) expense. Travel (flight) will be paid for by employee and overnight accommodations will
+be with employees’ family. The IAEM Annual Conference provides an opportunity for all levels of emergency
+managers to learn, to grow, and to meet colleagues from around the world.
+
+ Travel Requests
+Department
+
+Department
+of Public
+Safety and
+Justice
+Services
+
+Staff
+
+Mark
+Christie
+
+Event
+
+Host
+
+A conference
+entitled
+“International
+Association of
+Emergency
+Managers
+(IAEM) 2019
+Conference”
+
+International
+Association
+of
+Emergency
+Managers
+(IAEM)
+
+Dates of
+Travel
+11/17/11/21/2019
+
+Location
+
+Savannah,
+GA
+
+Expenses
+
+*Registration $624.00
+
+Funding
+Source
+General
+Fund-
+
+**Lodging –
+$800.00
+**Meals $174.00
+**Ground
+Transportation$50.00
+**Baggage –
+$50.00
+
+***Airfare –
+$206.00
+
+Total$1,904.00
+
+*Paid to the Host
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($206.00)
+Purpose:
+Requesting approval for Cuyahoga County Office of Emergency Management staff Mark Christie to attend the
+International Association of Emergency Managers (IAEM) 2019 Conference November 17-20, 2019 at the Savannah,
+GA. Employee will be reimbursed for meals, lodging and incidentals. The county will be invoiced for the registration
+fee. The IAEM Annual Conference provides an opportunity for all levels of emergency managers to learn, to grow,
+and to meet colleagues from around the world.
+
+ Travel Requests
+Department
+
+Staff
+
+Office of
+the Medical
+Examiner
+
+Carey
+Baucher
+
+Event
+
+A conference
+entitled “25th
+Annual
+National
+Combined
+DNA Index
+System
+(CODIS)
+Conference”
+
+Host
+
+Federal
+Bureau of
+Investigations
+(FBI)
+
+Dates of
+Travel
+
+Location
+
+11/18/11/20/2019
+
+Norman,
+Oklahoma
+
+Expenses
+
+Lodging –
+$376.00
+
+Funding
+Source
+Federal
+Bureau of
+Investigations
+
+Meals $182.50
+Mileage $30.80
+Parking $80.00
+Airfare –
+$484.00
+
+Total$1,153.30
+
+All travel expenses sponsored, scheduled, and paid for by the Federal Bureau of Investigations.
+Purpose:
+Carey Baucher, Forensic Scientist 3 – DNA, to attend the 25th Annual National CODIS Conference as the Combined
+DNA Index System (CODIS) administrator for our laboratory. Updates relevant to the operation and use of the system
+are discussed. This conference fulfills her continuing education requirement for 2019. Carey is required to attend the
+FBI’s annual conference regarding the CODIS database, and this conference is sponsored and paid for by the FBI.
+There is no cost to the County.
+
+ Travel Requests
+Department
+
+Staff
+
+Office of the
+Medical
+Examiner
+
+Kristen
+Koeth
+
+Event
+
+A workshop
+entitled
+“Technical
+Assessor
+Training
+(ISO/IEC
+17025 and
+17020)”
+
+Host
+
+Dates of
+Travel
+
+ANSI National
+Accreditation
+Board
+
+12/9/12/13/2019
+
+Location
+
+Mesa,
+Arizona
+
+Expenses
+
+*Registration$1,195.00
+
+Funding
+Source
+FY 2019
+Coverdell
+Grant
+
+**Lodging$530.67
+**Meals $256.00
+**Ground
+Transportation$65.06
+***Airfare –
+$447.50
+
+Total –
+$2,494.23
+
+*Paid to host
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($447.50)
+Purpose:
+In 2020 the Cuyahoga County Regional Forensic Science Laboratory (CCRFSL) will be seeking accreditation by ANAB.
+The Firearms Section of CCRFSL was not accredited by the American Society of Crime Laboratory Directors (ASCLD)
+and this will be the first time the unit will be audited by an accrediting body. It is imperative that a member of the
+unit have full understanding of what is expected so as to prepare for the inspection and ensure that the Firearms
+Section will meet the requirements. Additionally, this training will prepare Kristen Koeth, Forensic Scientist 3 to
+perform the audits of other Forensic Laboratories, gaining an insight into the policies and procedures other
+laboratories are using and also building relationships with other scientists that can improve CCRFSL.
+
+ Travel Requests
+Department
+
+Staff
+
+Agency of
+the Inspector
+General
+
+Valissa
+Turner
+Howard
+
+Event
+
+Host
+
+Dates of
+Travel
+
+Location
+
+A conference
+entitled
+“Council on
+Governmental
+Ethics Laws
+(COGEL) 2019
+Conference”
+
+Council on
+Governmental
+Ethics Laws
+(COGEL)
+
+12/14/12/18/2019
+
+Chicago, IL
+
+Expenses
+
+*Registration$600.00
+
+Funding
+Source
+General
+Fund
+
+**Lodging$745.50
+**Meals $220.00
+**Ground
+Transportation$80.00
+**Parking –
+$55.00
+***Airfare –
+$208.00
+
+Total –
+$1,908.50
+
+*Paid to host
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($208.00)
+
+Purpose:
+The COUNCIL ON GOVERNMENTAL ETHICS LAWS (COGEL) is the preeminent organization of government ethics
+administrators. COGEL members work in the fields of governmental ethics, freedom of information, elections,
+lobbying, and campaign finance. Members include (1) governmental entities; (2) educational institutions; (3)
+organizations, such as law firms, and corporations; and (4) honorary members. The COGEL conference is the top
+destination for learning what’s new in the fields of campaign finance, governmental ethics, elections, lobbying and
+freedom of information. Will include over 40+ educational sessions led by more than 125 engaging experts. Valissa
+Turner Howard is a on the COGEL Program Committee that planned this conference and will be a moderator of one
+session.
+
+BC2019-789
+Office of Procurement & Diversity, presenting proposed purchases for the week of 10/28/2019
+
+ Direct Open Market Purchases
+(Purchases between $5,000 - $49,999.99 unless requiring assistance from
+the Office of Procurement & Diversity – See Below):
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CT-19-44277
+
+Purchase DonorPerfect
+software to manage shelter
+donor records, fundraising
+communications and
+newsletters
+De-watering system for
+Trucks S-226, S-227 and S228 for Sanitary Engineer
+Repairs to Vactor 225 for
+Sanitary Engineer
+Various paper offset and
+digital coloring for Print
+Shop
+Broom wafers for County
+Airport
+
+Department of
+Public Works
+
+SofterWare, Inc.
+
+$4,416.00
+
+Special Revenue
+Fund
+
+Department of
+Public Works
+
+Jack Doheny
+Companies
+
+$49,869.45
+
+Sanitary Sewer
+Fund
+
+Department of
+Public Works
+Department of
+Public Works
+
+Valley Freightliner
+
+$2,709.07
+
+Veritiv
+
+$1,844.64
+
+Department of
+Public Works
+
+United Rotary Brush
+Corporation
+
+CT-19-46950
+
+Vehicle batteries for Fleet
+Services
+
+Department of
+Public Works
+
+Harris Battery
+
+Not-toexceed
+$15,000.00
+Not-toexceed
+$45,000.00
+
+CT-19-47012
+
+Purchase (2) electric scissor
+lifts for various County
+buildings
+Vehicle tires for Sanitary
+Engineer
+
+Department of
+Public Works
+
+Sunbelt Rentals
+
+$27,425.00
+
+Department of
+Public Works
+
+Bob Sumerel Tire
+
+CT-19-47041
+
+Various truck parts for
+Fleet Services
+
+Department of
+Public Works
+
+Fleetwise Truck Parts
+
+CT-19-47047
+
+Various truck parts for
+Sanitary Engineer
+
+Department of
+Public Works
+
+Fleetwise Truck Parts
+
+CT-19-47074
+
+John Deere Gators for use
+at Harvard Garage for
+Sanitary Engineer
+Doors and frames for
+various County projects at
+the Justice Center
+Printing and mailing of
+(82,000) Homestead
+Applications for 2020
+Replacement cameras and
+accessories for
+Photography Lab
+
+Department of
+Public Works
+
+AG-Pro Ohio, LLC
+
+Not-toexceed
+$49,995.00
+Not-toexceed
+$10,000.00
+Not-toexceed
+$39,500.00
+$36,769.99
+
+Sanitary Sewer
+Fund
+General Fund –
+Internal Service
+Fund
+Airport
+Operations
+Fund
+$20,000.00 –
+Road and
+Bridge Fund
+$25,000 –
+Sanitary
+Engineer
+General Fund –
+Internal Service
+Fund
+Sanitary Sewer
+Fund
+
+Department of
+Public Works
+
+Doors and Hardware,
+Inc.
+
+$13,230.00
+
+Fiscal Office
+
+RR Donnelley
+
+$18,056.40
+
+Medical Examiner’s
+Office
+
+B&H Photo
+
+$6,629.57
+
+CT-19-46571
+
+CT-19-46827
+CT-19-46862
+
+CT-19-46949
+
+CT-19-47038
+
+CT-19-47123
+
+AU-19-46955
+
+CR-19-46922
+
+General Fund –
+Internal Service
+Fund
+Sanitary Sewer
+Fund
+Sanitary Sewer
+Fund
+General Fund –
+Internal Service
+Fund
+Real Estate
+Assessment
+Fund
+General Fund
+
+ CR-19-47042
+
+SH-19-46236
+
+Mandatory proficiency
+tests to maintain
+accreditation for DNA,
+Drug Chemistry, Trace
+Evidence, Fingerprint and
+Firearms staff
+Identification wristbands
+for inmates
+
+Medical Examiner’s
+Office
+
+Collaborative Testing
+Services, Inc.
+
+$11,040.00
+
+Medical
+Examiner’s
+Office Lab Fund
+
+Sheriff’s
+Department
+
+Precision Dynamics
+Corporation
+
+$12,680.87
+
+General Fund
+
+Items/Services Received and Invoiced but not Paid:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CF-19-47141
+
+Post Adoption Special
+Services Subsidy: Adoption
+services*
+
+Division of Children
+and Family Services
+
+Applewood Centers
+
+$10,796.10
+
+SH-19-46680
+SH-19-46880
+SH-19-47085
+
+Legal notice: Delinquent
+Land Sale #131
+Prisoner board and care to
+alleviate overcrowding in
+County jails, pursuant to
+Ohio Revised Code Sections
+341.12 and 341.14
+
+Sheriff’s
+Department
+Sheriff’s
+Department
+
+The Legal News
+Publishing Co.
+Seneca County
+
+$27,487.50
+
+70% Health and
+Human Services
+Levy Fund
+30% Title IV-E
+General Fund
+
+$45,000.00
+
+General Fund
+
+* Alternate procurement process to authorize payments to various providers for Post Adoption Special Services
+Subsidy (PASSS) consisting of counseling, respite and residential treatment services for the period 4/15/2018 –
+4/14/2021 approved by Board of Control Approval No. BC2018-255 dated 4/23/2018.
+
+V – OTHER BUSINESS
+Items of Note (non-voted)
+Item No. 1
+Department of Public Works, submitting a Master Agreement of cooperation with various municipalities
+for pavement preventive maintenance services in connection with various Road Projects:
+a) Bedford Heights - for resurfacing of Solon Road from the Bedford Heights west corporation line to the
+Bedford Heights east corporation line.
+b) City of Berea - for resurfacing of Eastland/Fowles Road from Bagley Road to the East Corporation
+Line.
+c) City of Cleveland – for resurfacing of Eddy Road from St. Clair Avenue to Interstate Route -90.
+d) City of Cleveland Heights – for resurfacing of Noble Road from the Cleveland Heights North
+Corporation Line to Mayfield Road.
+
+ e) City of East Cleveland – for resurfacing of East 152nd Street from Coit Avenue to Woodworth Avenue.
+f) City of Garfield Heights – for resurfacing of Hathaway Road from the Garfield Heights south corporation
+line to Turney Road.
+g) City of Garfield Heights – for resurfacing of Turney Road from Hathaway Road to the Garfield Heights
+East Corporation Line.
+h) City of North Olmsted – for resurfacing of Mastick Road from Columbia Road to North Olmsted East
+corporation line.
+i) City of North Olmsted – for resurfacing of Bradley Road from North Olmsted West Corporation
+Line to Center Ridge Road.
+j) Village of North Randall – for resurfacing of Emery Road from Warrensville Center Road to Northfield
+Road.
+k) Village of North Randall – for resurfacing of Miles Road from IR-271 to the North Randall east
+corporation line.
+l) City of Brook Park City of Cleveland – for resurfacing of West 130th Street from Brook Park Road to
+Lorain Road.
+m) City of Cleveland – for resurfacing of Biddulph Road from Cleveland West Corp Line to Pearl Road.
+n) City of Cleveland – for resurfacing of Munn Road from Rocky River Drive to Warren Road.
+o)City of Cleveland – for resurfacing of West 73rd Street from Denison Avenue to Lorain Road.
+p) City of Cleveland – for resurfacing of Woodhill Road from Quincy Avenue to Kinsman Road.
+q) City of Euclid – for resurfacing of East 250th Street from Lakeland Boulevard to Lake Shore Boulevard.
+r) City of East Cleveland – for resurfacing of Noble Road from Euclid Avenue to 150 ft. NW of Railroad
+Bridge.
+Funding Source: The project is to be funded $242,000 with County Road and Bridge Funds
+
+ Item No. 2
+The Department of Public Safety & Justice Services, submitting an amendment to a grant award from
+Camp HOPE America for the Camp HOPE America Readiness Grant Program for the period 3/1/2018 –
+12/31/2019, to extend the time period to 12/30/2020; no additional funds required.
+Original Funding Source: Camp HOPE America and the Verizon Foundation
+Item No. 3
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+submitting a grant award from the City of Cleveland in the amount not-to-exceed $658,770.00 for the
+Rapid Re-housing Program in connection with the FY2019 Emergency Solutions Grant Program for the
+period 11/1/2019 – 10/31/2020.
+Funding Source: 100% of the Award is through a FY2019, Federal Entitlement Grant to the City of
+Cleveland from the US Department of Housing and Urban Development
+
+ Item No. 4
+
+Contracts $0.00 - $4,999.99 – Processed and executed (no vote required)
+RQ No.
+n/a
+
+RQ
+46429
+
+Contract
+Number
+Amend
+Contract No.
+CE1800368
+
+Vendor
+
+Amend
+Contract No.
+CE1900324
+
+George Junior
+Republic in
+Pennsylvania
+
+Cuyahoga
+County Land
+Reutilization
+Corporation
+
+Service
+Description
+Administration of
+the demolition of
+vacant,
+abandoned,
+nuisance or
+blighted
+structures for the
+Cuyahoga County
+Property
+Demolition
+Program
+Residential
+treatment
+services for (1)
+youth, to expand
+the scope of
+services to include
+Intensive
+Supervision
+Program and to
+change the per
+diem rate,
+effective
+10/16/2019
+
+Amount
+
+Department
+
+$0.00
+
+Department of
+Development
+
+$0.00
+
+Juvenile Court
+Division
+
+Date(s) of
+Service
+11/19/2018 –
+12/31/2019,
+to extend the
+time period to
+12/31/2020
+
+Funding
+Source
+Original
+Contract –
+Demolition
+Fund
+
+Date of
+Execution
+10/17/2019
+(Executive)
+10/18/2019
+(Law Dept.)
+
+7/29/2019 –
+7/28/2020
+
+Title IV-E –
+Special
+Revenue
+Funds
+
+10/16/2019
+
+ VI – PUBLIC COMMENT
+VII – ADJOURNMENT
+Michael Chambers motioned to adjourn; Dale Miller seconded. The motion to adjourn was unanimously
+approved at 12:07 p.m.
+
+ 

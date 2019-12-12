@@ -1,0 +1,170 @@
+Illinois Opioid Crisis Response Advisory Council Meeting
+February 15, 2018
+MEETING MINUTES
+Dr. Maria Bruni, Assistant Secretary of Programs, welcomed the group and thanked everyone for their
+participation. She shared that the Governor’s Task Force is meeting tomorrow (February 16, 2018) and is
+continuing its review of the Council’s recommendations, goals and metrics.
+Illinois Prescription Monitoring Program Presentation
+Craig Berberet, Illinois Prescription Monitoring Program (PMP) Administrator, introduced his team: Sarah
+Pointer, Clinical Director; Edward Dowllar, Clinical Database Coordinator; and Stan Muryznski, IT
+Director. Mr. Berberet and his team gave an overview of the PMP’s current and planned future activities.
+(Please see the attached meeting handouts for more information).
+• Senate Bill 722 (SB722), which took effect on January 1, 2018, mandates that all prescribers
+possessing an Illinois Control Substance license must register with the PMP. This has resulted in a
+massive influx of PMP registrations (there have been 25,573 registrations since December 2017).
+The PMP is six weeks behind on registration verifications, and staff are working overtime to get
+registrations verified as soon as possible.
+o When individuals register with the PMP and pass authorization checks, they receive an email
+stating that their registration has been accepted and that activation of their account may take up
+to six weeks.
+o Several Council members asked whether prescribers who were waiting for PMP registration
+verification would be considered out of compliance. They reported that there is a great deal of
+confusion and concern among providers about verification delays. Mr. Berberet confirmed that
+individuals are in the PMP system as soon as they register; they can prescribe while they wait for
+verification and are not out of compliance if they do so. Assistant Secretary Bruni suggested that
+the Illinois Department of Financial & Professional Regulations (IDFPR) be consulted, and that
+IDHS/DASA, PMP and IDFPR would work together to write a formal statement on compliance
+and good faith efforts to check the PMP while waiting for registration verification. This statement
+and information about the registration verification process will be posted on the PMP website, and
+shared with providers via a Smart Alert.
+• Mr. Berberet and his team gave an overview of several PMP projects. (Please see the attached
+meeting handouts for the full list of PMP projects). Specific projects discussed in detail at the meeting
+include the following.
+o Letters to high prescribers: The PMP is sending letters out to high prescribers that includes
+information about CDC prescribing guidelines and the Helpline. The letters also include
+information about prescribers’ high-risk patients, defined as someone who has had 5
+prescribers/5 pharmacies in a six-month period or 3 prescribers/3 pharmacies in a one-month
+period. Letters encourage prescribers to connect patients to the Helpline and to use Helpline
+resources to refer patients to treatment.
+o Online law enforcement access: Law enforcement officers who have an active investigation
+with probable cause can submit a request to access the PMP. PMP administrators verify that the
+request is valid (i.e., the request includes an active case #, the individual making the request is a
+law enforcement officer) before granting access. Law enforcement access is covered by law
+under 720 ILCS 570/381. See
+http://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1941&ChapterID=53 for more information.
+Council members raised several concerns about law enforcement access and whether 42CFR
+Part 2 rules apply, which would require a court order for law enforcement officers to gain access
+to the PMP. It was noted that many county coroners fall under the law enforcement definition and
+rely on the PMP for death investigations and confirming fatal opioid overdoses. It’s important that
+coroners and medical examiners have access to the PMP for death investigations. The PMP will
+Illinois Crisis Response Advisory Council 2 15 2018 Meeting Minutes
+
+1
+
+ •
+
+revisit how coroners and medical examiners access the PMP and what is needed to ensure their
+continued access.
+o Hot spot reports: The PMP is sending reports with de-identified data to county health
+departments to alert them about hot spots and encourage them to notify providers. For example,
+a report might state “you may have 2000 people in your county who meet criteria for being high
+risk patients”. This project is currently underway in Chicago and downstate, and the PMP hopes
+to expand this project state-wide. The PMP also hopes to create a monthly newsletter that would
+include hot spot information.
+o PMPnow: PMPnow is the automated connection for facilities (hospitals, clinics, etc.) to interact
+with the PMP and connect with patient electronic health records (EHRs). PMPnow features
+include patient identity resolution, interstate data, and MPE/MME (multiple provide
+episode/morphine milligram equivalent) calculators. Council members who use PMPnow gave
+very positive feedback, noting that it’s easy to use and provides information quickly. PMPnow has
+ten times the number of searches compared to the website. The PMP will connect any healthcare
+organization (dentist offices, substance use treatment providers, pharmacies) that would like to
+receive PMP data to PMPnow.
+o Freedom of Information Act (FOIA) requests: The PMP receives many FOIA requests. These
+requests can take up to 30 hours to complete, taking PMP resources (i.e., staff time) away from
+other projects.
+o Designee access: A designee is a licensed healthcare professional (e.g., nurse, pharmacy
+technician) who works with a prescriber who is registered with the PMP. Prescribers can
+authorize up to three designees to access the PMP. Go to
+http://www.ilga.gov/commission/jcar/admincode/077/077020800002100R.html for more
+information about PMP designee access. The PMP is doing beta testing now for designee
+access. If you are interested in helping with this beta testing, send an email to
+dhs.pmp@illinois.gov. Put “designee beta testing” in the subject line of your email.
+o Academic detailing: The PMP is working with the University of Illinois at Chicago (UIC) to
+provide academic detailing (one-on-one education about prescribing guidelines) to high risk
+prescribers. Pre/post analyses are being conducted to determine whether receipt of academic
+detailing changes these providers’ prescribing practices. The project is being piloted at UIC and
+will be rolled out to Southern Illinois University.
+Council members asked whether mandatory PMP use has reduced opioid prescribing rates in Illinois.
+Given the January 1, 2018 implementation of SB722, it was suggested that PMP data from
+December 2017 to June 2018 could be analyzed to determine whether new initiatives (i.e., SB722)
+have decreased high risk opioid prescribing.
+
+Illinois Opioid State Targeted Response (STR) Grant Update
+Dr. Richard Sherman, IDHS/DASA Opioid STR Grant Project Director, gave an update on this project.
+(Please see attached meeting handouts for more information).
+• The Opioid STR project is funded by SAMHSA via monies allocated in the 21st Century Cures Act.
+IDHS/DASA received $16,328,583 per year for each of the two years of the project, for a total of
+$32,657,166.
+• Year 1 funding began on May 1, 2017. Projects funded in Year 1 and preliminary results include:
+o Expanded outpatient methadone treatment (OMT): As of February 8, 2018, 1,513 clients have
+been admitted to OMT. Preliminary results show significant changes from baseline (treatment
+enrollment) to six-month follow-up for several outcomes. Clients reported decreased substance
+use, increased abstinence, and fewer emotional problems due to substance use. They were also
+more likely to be employed.
+o Expanded recovery home services for people with opioid use disorder (OUD) who are
+receiving MAT: 22 clients have been admitted to these services.
+o Vivitrol assisted services for county jail inmates: 184 people have received services in 8
+county jails throughout the state; 93.5% of released offenders have been admitted to communitybased services.
+Illinois Crisis Response Advisory Council 2 15 2018 Meeting Minutes
+
+2
+
+ ▪
+
+•
+
+Council members reported problems connecting people who receive Medicaid to Vivitrol
+providers. IDHS/DASA Deputy Director Kirby mentioned that there is a Vivitrol provider
+directory available online. The site is https://www.vivitrol.com/find-a-provider. IDHS/DASA is
+working with Alkermes to compile a comprehensive list of Vivitrol prescribers for the Helpline,
+as part of the effort to improve access to all three forms of MAT medications. The Helpline
+website will be launched this Spring at https://helplineil.org/.
+▪ Council members suggested expanding these services to include methadone and
+buprenorphine. Assistant Secretary Bruni noted that SAMHSA will not pay for services
+provided in jail, only for services provided to inmates who are about to be released to the
+community. Using STR funds to expand MAT services at re-entry would require participation
+from individual county jails, as well as approval from SAMHSA.
+o Hospital warm hand-off services for people with OUD: 844 patients have received services at
+six hospital emergency departments throughout the state; 82.9% were admitted to the treatment
+providers (primarily OMT) to which they were referred.
+o Community outreach/linkage/referral services: As of December 2017, 2,108 people received
+outreach services, 766 screened positive for opioid use and expressed an interest in treatment,
+459 completed a linkage meeting and 363 completed a treatment intake meeting.
+o Rush Hospital multi-disciplinary programs: As of January 31, 2018, Rush provided SBIRT
+services to 1,149 inpatients, 286 of whom screened positive for substance use disorder, with 93
+of these individuals screening positive for OUD.
+o Illinois Helpline for Opioids and Other Substances: The Helpline received 1,312 calls as of
+February 8, 2018.
+o Improved EHR opioid-prescriber reporting: There are 27 PMPnow connections and 31
+planned PMPnow connections.
+o Expanded naloxone distribution services: To date, 1,685 individuals across the state have
+received naloxone training; 2,294 naloxone kits have been distributed and 152 opioid overdose
+reversals have been reported.
+Year 2 will begin on May 1, 2018. Opioid STR Year 2 projects will include a pilot Hub & Spoke model.
+IDHS/DASA plans to use data regarding MAT prescriber and OTP distribution to inform the RFP for
+the Hub & Spoke pilot.
+o Council members suggested that Year 2 monies include projects that could build infrastructure
+and help sustain prevention and treatment services after SAMHSA funding ends.
+o OMT is now covered through the state’s Medicaid plan. Given that many people will now receive
+OMT through Medicaid, IDHS/DASA is re-evaluating the further expansion of these services.
+
+Ending Opioid Misuse (EOM) and Guard and Discard Public Awareness Campaigns
+Prevention First has launched two media campaigns. Funded by Opioid STR monies, these campaigns
+are designed to bring greater awareness to the general public about opioid use, treatment and recovery,
+and safe disposal of prescription drugs. Council members are encouraged to order and distribute posters
+and postcards throughout their communities. To view and order Ending Opioid Misuse in Illinois
+materials, click https://www.prevention.org/EOMPosters. To view and order Guard and Discard materials
+in English click https://www.prevention.org/GuardandDiscardEnglish. To view and order Guard and
+Discard materials in Spanish, click https://www.prevention.org/GuardandDiscardSpanish. For more
+information, contact Kim Zambole at Prevention First: kim.zambole@prevention.org.
+March and April 2018 Council Meetings
+The March Council meeting has been cancelled. Instead, we will hold a three-hour meeting in April. The
+Governor’s Task Force will share its review of Council and Committee recommendations at the April
+meeting. Information about the April 16th meeting time, and Chicago and Springfield locations, will be
+sent soon.
+
+Illinois Crisis Response Advisory Council 2 15 2018 Meeting Minutes
+
+3
+
+ 

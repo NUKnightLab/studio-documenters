@@ -1,0 +1,3302 @@
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street  Suite 200  Chicago, Illinois 60606  (312) 793-8550
+
+MEETING NOTICE
+Institutional Review Board
+June 1, 2017 – 1:00 PM
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, IL 60606
+
+I.
+II.
+III.
+
+AGENDA
+Call to Order
+Roll Call
+Approval of February 16, 2017 Meeting Minutes
+
+IV.
+
+Applications for Review
+1. Full IRB applications:
+a. Study of Police-Led Referrals to Treatment Initiatives in Illinois (J. Reichert)
+b. Outcome Evaluation of the Safe Passage Initiative (J. Reichert)
+2. Renewal IRB applications:
+a. Evaluation of the Illinois Family Violence Coordinating Council’s Protocol Training (L. Mock)
+
+V.
+VI.
+
+Old Business: None
+New Business
+1. Exempt IRB applications: None
+2. Expedited IRB application approved May 2017:
+a. Evaluation of Illinois Bullying Prevention Programs – Year 1 & 2 (L. Mock)
+b. Study of the Impact of Legal Debts (L. Gleicher)
+c. Process and Outcome Evaluation of Illinois Drug Task Forces (J. Reichert)
+3. IRB application amendments: None
+4. Upcoming IRB meetings:
+a. August 17th, 2017
+b. November 16th, 2017
+
+VII.
+
+Adjourn
+
+This public meeting will be accessible to persons with disabilities in compliance with Executive Order #5 and pertinent State
+and Federal laws upon anticipated attendance. Persons with disabilities planning to attend and needing special
+accommodations should contact by telephone or letter John Klaer, Associate Director, Office of Administrative Services,
+Illinois Criminal Justice Information Authority, 300 W. Adams St. Suite 200, Chicago, Illinois, 60606-5150 or at (312) 7938550. TDD services are available at (312) 793-4170.
+Fax: (312) 793-8422  TDD: (312) 793-4170  www.icjia.state.il.us
+
+ ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+ICJIA Institutional Review Board (IRB)
+Meeting Minutes
+Thursday, February, 16, 2017, 1:00 p.m.
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, Illinois 60606
+
+I.
+
+Call to Order/Roll Call
+Dr. Evan Harrington called the meeting to order at 1:10 p.m. ICJIA Associate General
+Counsel Simeon Kim called the roll.
+
+Member Name
+Dr. Rachel Johnston, Chair
+Director John Maki, ICJIA
+Ms. Era Laudermilk
+Dr. LaDonna Long
+Dr. Evan Harrington
+Dr. Dan Cooper
+Ms. Maya Szilak
+
+Present
+
+Absent
+X
+X
+
+By Telephone
+
+X
+X
+X
+X
+X
+
+Five members were present in person and a quorum was established.
+II.
+
+Approval of Meeting Minutes – August 18, 2016.
+Dr. Harrington asked for any comments regarding the meeting minutes of August 18,
+2016. Dr. Harrington wanted to clarify a statement on page 3, in the second paragraph,
+where it stated, “Dr. Harrington stated that his comments were just suggestions; they are
+not really needed.” He stated that the suggestions were best practices for research ethics,
+although not required by the federal regulations. The “not really needed” part could be
+“not required by the federal regulations.”
+Vote: Ms. Laudermilk moved to approve the minutes. Dr. Cooper seconded the motion.
+The motion passed by unanimous voice vote.
+
+III.
+
+Full IRB Application Review: None.
+
+IV.
+
+Renewal Application Review: None.
+
+ V.
+
+Old business: None.
+
+VI.
+
+Exempt Application Review: None.
+
+VII.
+
+Expedited Application:
+A. Impact of Legislative Changes on the IDOC Prison Population (James Austin and
+Megan Alderden). This proposal was approved through the expedited review process in
+November 2016.
+
+VIII.
+
+Amendment Application Review:
+A. Impact of Legislative Changes on the IDOC Prison Population (Christine Devitt)
+Protocol Change: The project methodology is being modified to include criminal history
+records of the cohort included in the study, which consists of all persons exiting from the
+Illinois Department of Corrections (IDOC) in state fiscal year 2015. Research staff from
+ICJIA will match the IDOC records to the corresponding criminal history records
+available in the Illinois Criminal History Record Information (CHRI) System, using last
+name, first name, and date of birth. The individuals’ complete state criminal history
+records will be pulled from the CHRI System Ad Hoc Database. The IDOC and CHRI
+files will be combined, stripped of all identifiers, and disseminated to James Austin at
+JFA Institute, the principle investigator responsible for developing the state-specific
+sentencing model. This de-identified data file will not be shared with any researcher
+outside of JFA Institute, including the co-principle investigator at Rutgers University.
+Discussion: Dr. Harrington asked if the addendum changes the de-identified status of the
+information. Ms. Devitt replied that ICJIA only provides de-identified data to the
+researchers. They do not need the identifiers in their model. Dr. Harrington stated that he
+does not see any additional risk so it would qualify similarly as the original protocol.
+Vote: Dr. Cooper made a motion to approve. Ms. Laudermilk seconded the motion. The
+motion passed by unanimous voice vote.
+B. Evaluation of Safe Passage (Jessica Reichert)
+Protocol Change: We would like to obtain more demographic information from the Safe
+Passage Initiative Client Intake Form. We would like first and last name, date of birth,
+race/ethnicity. The Dixon Police Department will electronically send an encrypted file by
+secure email the identifying information of clients to the PI (ICJIA Research Manager).
+The identifying information received from Dixon will be destroyed once no longer
+needed.
+We will use name and date of birth to pull their criminal history record information to
+compare arrest activity before and after participation in Safe Passage. ICJIA researchers
+will link the names to arrest data. Identifiers are needed to link to electronic Criminal
+History Record Information (CHRI). After the data is gathered, a unique id code can
+
+ replace their name, so the database is de-identified. All data will be saved on secure,
+password-protected computer. The names will be under the researcher’s exclusive control
+and will not be shared in any written publication. With a relatively small sample size,
+care will be taken to maintain our participants’ confidentiality.
+We would like to add interviews with treatment providers who provide services for those
+Safe Passage clients with substance use disorders. Questions and consent form are
+attached.
+Consent Procedure Change: For the analysis of the intake form data, we were approved
+for a waiver of consent due to our use of administrative, de-identified data.
+Consent Document Change: Adding a consent form.
+Discussion: Dr. Harrington asked if the consent forms were for just the 10 treatment
+providers. Ms. Reichert stated “correct.” Dr. Long asked if there was another way of
+asking Question 41, “Do you think police need more training?” She said the question
+might lead someone to think that the researchers think police need more training. Dr.
+Cooper stated that Ms. Reichert may want to ask whether someone in the individual
+organizations could better speak to treatment provided under the Safe Passage Initiative.
+He said an organization’s executive director may know more than individual treatment
+providers.
+Vote: Dr. Cooper moved to approve. Ms. Laudermilk seconded the motion. The motion
+passed by unanimous voice vote.
+IX.
+
+Dr. Mock introduced Caitlin Delong as the new IRB manager.
+
+X.
+
+Adjourn:
+Ms. Laudermilk moved to adjourn at 1:35 p.m. Dr. Cooper seconded the motion. The
+motion passed by unanimous voice vote.
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s) email:
+Jessica.Reichert@illinois.gov
+
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation:
+Start date of project:
+
+May 18, 2017
+
+End date of project:
+
+May 18, 2018
+
+Title of proposal: Study of Police-Led Referrals to Treatment Initiatives in Illinois
+Initial approval type:
+
+Full IRB: X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+X
+
+Primary
+
+If SECONDARY, please briefly indicate the source of the data:
+
+Secondary
+
+ How is the end date of the study defined?
+The publication of one or more evaluation reports on the Illinois Criminal Justice Information
+Authority (Authority) website and/or journal.
+
+I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+
+No
+
+Minors under age 18
+
+X
+
+Adult prisoners or individuals in secure confinement
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+Researchers will survey and interview police agency staff about current police-led substance
+use disorder diversion initiatives operating in Illinois. The purpose is to learn more about the
+characteristics and implementation issues of these initiatives. These initiatives are new, but
+growing across the country, and more information is needed to understand how they operate,
+ways in which they differ, and the challenges and successes of these initiatives to inform other
+police agencies interested in implementing similar initiatives.
+
+ B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+Participants will be told that there are two components: a survey documenting information about
+program sustainability and an interview about program design and implementation. Participants
+will be offered the opportunity to voluntarily complete both of these components.
+Component 1: Online survey (Program Sustainability Assessment Tool)
+a.) Time involvement of subjects: Participants will be asked to complete a 10 minute on-line
+survey documenting information related to implementation and sustainability.
+
+b.) Location(s) the study will be conducted with subjects, including a description, if applicable:
+Participants will be able to complete the survey using any PC or mobile device.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): No compensation will be offered.
+d.) What subjects will experience or do: After reviewing the informed consent form and
+agreeing to participate in the study by clicking agree, participants will be asked 40 questions
+that measure factors associated with program implementation and sustainability.
+Participants will be informed that they may choose to answer any question and may stop
+the survey at any time.
+Component 2: Interview
+a.) Time involvement of subjects: 30 minutes to 1 hour
+
+b.) Location(s) the study will be conducted with subjects, including a description, if applicable:
+In-person or by telephone depending on distance, resources, and respondents’ preference
+and schedule.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): No compensation will be offered.
+d.) What subjects will experience or do: Researchers will review the informed consent form with
+potential participants. After signing and scanning and emailing a consent form (if not in
+person), subjects will be asked to answer questions about their initiative and opinions
+related to their initiative. Participants will be asked if they are willing to be audio-recorded
+during the consent procedure. They will be informed about the voluntary nature of this
+request and that they may still complete an interview should they choose not to be
+recorded. Participants will be informed that they may choose to answer any question and
+may stop the interview or audio recording of the interview at any time.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study: 10
+
+ b.) Number in age ranges:
+
+Under 18 0
+
+18 and older
+
+10
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American X
+
+American Indian
+
+X
+
+Asian X
+
+Hispanic X
+
+White X
+
+Other
+
+Unknown
+
+Bi-racial
+
+X
+
+Comments
+
+d.) Prisoners or individuals in secure confinement(n): 0
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+0
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+Recruitment
+
+X
+
+Researchers will identity potential agencies through a web search and by consulting national
+and state experts in this area, including TASC and PAARI (Police Assisted Addiction and
+Recovery Initiative). The agency chiefs or other identified personnel will be contacted for
+potential participation. Participants will be told that there are two components associated with
+the study: a survey documenting information about program sustainability and an interview
+about program design and implementation.
+At the end of the interview, those who participate in the interviews will also be asked if they
+know of other programs in the state that we could contact.
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+Researchers will include all police programs and initiatives of this type that are identified in
+Illinois. Only these programs will be examined as the purpose is to learn more about how these
+programs have been designed and implemented.
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+There are no direct benefits for participating in this study. This study, however, will document
+program design, implementation, and sustainability information that may help participants
+further refine their programs. The information may also help guide program development and
+implementation decisions in other Illinois jurisdictions interested in these diversionary
+programs.
+
+ 7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+X
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+Does not apply.
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+
+ Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study. Risks and benefits that would result even if
+the research weren’t undertaken should not be considered.
+
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+X
+
+a.) If YES, what is the amount and source of the funds?
+Amount
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+ F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+Yes
+
+X
+
+No
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+Interviews will be audio recorded, if participants consent, using hand-held recording devices.
+The audio-recordings will be saved on secure, password protected servers only accessible to
+the research staff and deleted from the recording devices within 48 hours of the interview.
+The recordings will be transcribed in computerized word processing files stored securely on
+the Authority servers. Only the researchers affiliated with this project will have access to the
+transcriptions. No identifying information will be recorded during the transcription process.
+The audio-recordings and the transcriptions will be maintained separately. Additionally, the
+items (audio-recordings and transcriptions) will be maintained separately from the signed
+informed consent forms. The informed consent forms will be maintained in a locked file
+cabinet accessible only to the researchers.
+
+b). What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in publications,
+etc.? How does the investigator(s) define “completion” of the study?
+Audio-recordings on the recording devices will be erased within 48 hours of recording. The
+recordings will be transcribed in computerized word processing files will be stored securely on
+the Authority computers and servers. Audio recordings saved to the Authority servers will be
+destroyed after completion of the project. Completion is defined as publication of a final
+report. The transcriptions, which will not contain identifying information, will be destroyed
+three years after completion of the project. The transcriptions will be coded by researchers to
+identify themes, which will be used to provide general descriptions of program design
+elements and implementation and sustainability issues.
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc.)?
+Individual identifiers will be recorded on the informed consent forms used for the
+interviews. The informed consent forms will be maintained separately from the interview
+audio-recordings, interview notes, and transcripts.
+Participants will also be asked if they would like their agency and contact information made
+available for public dissemination at the end of the report. This information would not be
+linked to the survey and interview findings, but rather as a list of agencies that currently
+have programs operating in Illinois. Agencies may choose to have their information shared
+even if they do not participate in a survey or interview or vice versa.
+
+ b.) Describe project procedures for maintaining the security of these records at every point in
+the data collection process.
+Signed consent forms will be kept secure in a locked file cabinet accessible only to
+research staff. Electronic interview and survey data will be kept on secure, password
+protected servers and computers accessible only to research staff.
+Online survey data will be collected using Qualtrics. Qualtrics safeguards all customer
+data, and uses secure data centers to ensure the highest protection as per HITECH
+requirements. HITECH (Health Information Technology for Economic and Clinical Health
+Act) complies with HIPAA rules to ensure that data are properly protected and best security
+practices followed.
+
+c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+Names will be recorded during the informed consent process for the interviews.
+Participants will also be asked if they would like their agency and contact information made
+available for public dissemination at the end of the report. However, this information would
+not be linked to the survey and interview findings, but rather as a list of agencies that
+currently have programs operating in Illinois. Agencies may choose to have their
+information shared even if they do not participate in a survey or interview or vice versa.
+
+d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have access
+to names or other individual identifiers? Describe the procedures for maintaining security of
+paper files, automated files, and other records.
+e.) Will names of subjects be included in any publication based on this study? If YES, for what
+reason(s)?
+Yes
+
+X
+
+No
+
+Participants will also be asked if they would like their agency and contact information
+made available for public dissemination at the end of the report. However, this
+information would not be linked to the survey and interview findings, but rather as a list
+of agencies that currently have programs operating in Illinois. Agencies may choose to
+have their information shared even if they do not participate in a survey or interview or
+vice versa.
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+X
+
+No
+
+Responses from the survey and interviews will be aggregated. Researchers will be careful to not
+report information in a manner that may identify participants.
+
+ 19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+X
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+Verbal
+
+X
+
+Written
+
+No consent needed
+
+Waiver of consent
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+X
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why.
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent? The on-line survey will involve an on-line informed consent
+form. Participants will be asked to review the on-line consent form and select agree if
+they choose to complete the survey. The informed consent form for the interview will be
+provided to the participants by the research staff prior to the interview. If the interview is
+by telephone, the researchers will send the inform consent form to the participants in
+advance, instructing them to review the consent form and sign and return it.
+b.) How will consent be obtained? The on-line survey will involve an on-line informed
+consent form. Participants will be asked to review the on-line consent form and select
+agree if they choose to complete the survey. The informed consent form for the
+interview will be provided to the participants by the research staff prior to the interview.
+If the interview is by telephone, the researchers will send the inform consent form to the
+participants in advance, instructing them to review the consent form and sign and return
+it.
+
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Once prior to the survey and once prior to the interview.
+
+d.) How will you verify the subject fully understands the consent? The online and hard copy
+consent forms are written in a 9th grade or lower reading level. The consent forms will
+provide contact information for the principal investigator, the Authority’s attorney/IRB
+secretary to request further information about the studies, their rights as a research
+
+ participant, and the initiative.
+
+e.) How will your investigators be trained to use the informed consent process?
+All Authority research staff are certified in the National Institutes of Health Office of
+Extramural Research’s web-based training course “Protecting Human Research
+Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+All subjects, primarily police chiefs, are expected to be English speakers.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+24. Does the consent form you have attached fully comply with the Authority’s instructions for
+consent forms that are in compliance with general requirements as outlined in the Code of Federal
+Regulations 46.116 and the Authority’s IRB procedures? Please refer to the checklist.
+Yes
+
+X
+
+No
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+Attachments
+Component 1:
+Consent for online survey
+Online survey (Program Sustainability Assessment Tool)
+Component 2:
+Consent form for interview
+Interview questions
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+SIGNATURE PAGE
+PROJECT NAME: Study of Police-Led Referrals to Substance Use Treatment
+Initiatives in Illinois
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+ Deflection Survey-Program Sustainability Assessment Tool
+
+Illinois Criminal Justice Information Authority
+Consent for Participation in Research
+Police-Led Referrals to Substance Use Treatment
+You are being asked to participate in a research study on police-led referrals to substance use
+treatment often referred to, and refer to in this consent form, as “deflection initiatives.”
+Researchers are required to provide a consent form to tell you about the research, explain that
+taking part is voluntary, describe the risks and benefits of participation, and help you to make an
+informed decision. Please feel free to ask the researchers any questions you may have.
+Principal Investigator: Jessica Reichert, Manager, Center Justice Research and Evaluation
+Agency and Funding: Illinois Criminal Justice Information Authority, 300 W. Adams St., Suite
+200, Chicago, IL 60606 or (312)793-8550. This project was funded by the Justice Assistance
+Grant Program.
+Why am I being asked?
+You are being asked to be a subject in a research study about police deflection initiatives. You
+are being asked to complete brief online survey. In the questions, you will rate your initiative
+across a range of specific factors that affect sustainability. The online survey will take about 10
+minutes.
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future dealings the Illinois Criminal Justice Information Authority
+(Authority). You may skip any questions you do not want to answer. If you decide to
+participate, you are free to withdraw at any time without affecting those relationships.
+Approximately 10 people may be involved in this research.
+What is the purpose of this research?
+Researchers at the Authority are evaluating the police deflection initiatives in Illinois. The survey
+tool (Program Sustainability Assessment Tool) will assess implementation of your initiative
+focusing on current and ongoing capacity and sustainability.
+What procedures are involved?
+You will be asked to complete a brief online survey.
+What are the potential risks and discomforts?
+To the best of our knowledge, completing the survey will have no more risk of harm than you
+would experience in everyday life.
+Are there benefits to taking part in the research?
+This study is not designed to benefit you directly. This study is designed to learn more about
+police deflection initiatives in Illinois. The study results may be used to guide and inform your
+deflection initiative; the public, practitioners, and policy makers; other deflection initiatives; and
+other communities interested in starting similar deflection initiatives.
+What other options are there?
+You have the option to not participate in this study.
+
+ Deflection Survey-Program Sustainability Assessment Tool
+
+What about privacy and confidentiality?
+To date, there are a small number of deflection initiatives in Illinois (we are aware of less than
+ten in the state). The survey responses will be aggregated and used to generally describe the
+characteristics, barriers and challenges, successes, and issues around capacity and sustainability.
+Although no information will be directly attributed to your program, it is possible someone
+might attribute the findings to you or your program.
+What are the costs for participating in this research?
+There are no costs.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+There is no reimbursement.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation at
+any time without penalty. At any time, you can take a break or stop the survey.
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or,
+if you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+By checking this box, I consent to participate in this research study. I understand the survey will
+be connected to future surveys and other records containing information about me.
+
+
+
+
+I agree to participate
+I do not agree to participate [END OF SURVEY]
+
+ Interview- Police Diversion Initiatives
+
+Illinois Criminal Justice Information Authority
+Consent for Participation in Research
+Police-Led Referrals to Substance Use Treatment
+You are being asked to participate in a research study on police-led referrals to substance use
+treatment often referred to, and refer to in this consent form, as “deflection initiatives.”
+Researchers are required to provide a consent form to tell you about the research, explain that
+taking part is voluntary, describe the risks and benefits of participation, and help you to make an
+informed decision. Please feel free to ask the researchers any questions you may have.
+Principal Investigator: Jessica Reichert, Manager, Center Justice Research and Evaluation
+Agency and Funding: Illinois Criminal Justice Information Authority, 300 W. Adams St., Suite
+200, Chicago, IL 60606 or (312)793-8550. This project was funded by the Justice Assistance
+Grant Program.
+Why am I being asked?
+You are being asked to be a subject in a research study about police deflection initiatives. You
+are being asked to complete an interview about your community’s deflection initiative. The
+interview (in person or by phone) will take about 30 minutes to 1 hour.
+Your participation in this research is voluntary. Your decision whether or not to participate will
+not affect your current or future dealings the Illinois Criminal Justice Information Authority
+(Authority). You may skip any questions you do not want to answer. If you decide to
+participate, you are free to withdraw at any time without affecting those relationships.
+Approximately 10 people may be involved in this research.
+What is the purpose of this research?
+Researchers at the Authority are evaluating the police deflection initiatives in Illinois. The
+interview will provide information on the characteristics and implementation of those types of
+initiatives.
+What procedures are involved?
+You will be asked to participate in a research interview.
+What are the potential risks and discomforts?
+To the best of our knowledge, completing the interview will have no more risk of harm than you
+would experience in everyday life.
+Are there benefits to taking part in the research?
+This study is not designed to benefit you directly. This study is designed to learn more about
+police deflection initiatives in Illinois. The study results may be used to guide and inform your
+deflection initiative; the public, practitioners, and policy makers; other deflection initiatives; and
+other communities interested in starting similar deflection initiatives.
+What other options are there?
+You have the option to not participate in this study.
+
+ Interview- Police Diversion Initiatives
+
+What about privacy and confidentiality?
+With your permission, we would like to audio-record the interview. This is to make sure we
+capture everything you tell us in the interview and convey your responses accurately. Please
+know the following about recordings:
+•
+•
+•
+•
+•
+
+Only the researchers working on this project will have access to the audio recording.
+The recording will be transcribed. Recordings and transcripts will be kept confidential.
+All interview notes and recordings will be electronically stored on password-protected
+computers and servers.
+Recordings will be destroyed once the final report is complete.
+Transcripts will be destroyed three years following publication of the findings or results.
+
+You may still participate in the interview even if you choose not to be recorded. In such a case,
+researchers will take notes using pencil and paper.
+To date, there are a small number of deflection initiatives in Illinois (we are aware of less than
+ten in the state). The interview responses will be aggregated and used to generally describe the
+characteristics, barriers and challenges, successes, and issues around capacity and sustainability.
+Although no information will be directly attributed to your program, it is possible someone
+might attribute the findings to you or your program.
+What are the costs for participating in this research?
+There are no costs.
+Will I be reimbursed for any of my expenses or paid for my participation in this research?
+There is no reimbursement.
+Can I withdraw or be removed from the study?
+If you decide to participate, you are free to withdraw your consent and discontinue participation at
+any time without penalty. At any time, you can take a break or stop the interview.
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or,
+if you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+
+ Interview- Police Diversion Initiatives
+
+I have read the above information. I agree to participate in this research. I can keep a copy of this
+signed and dated form.
+
+Signature
+
+Date
+
+Printed Name
+
+I agree to be audio recorded.
+
+Signature
+
+Printed Name
+
+Date
+
+ Deflection Initiatives Interview Questions
+Thank you for agreeing to speak with me today. We would like your honest feedback and
+opinions regarding your initiative. There are no right or wrong answers. First, I am going to ask
+you some questions about you and your agency and then ask some specific questions of your
+initiative?
+About subject/respondent
+1. What is your title/role in the agency?
+2. How long have you worked at your agency?
+3. Are you the point of contact for the initiative?
+4. How long have you worked in your field?
+About your initiative
+5. What is the name of your initiative?
+6. When was the initiative started?
+7. What partner agencies are involved in the initiative?
+8. Have you collaborated with additional stakeholders (agencies/groups)?
+9. Number of police agencies on board?
+10. What are the goals of the initiative?
+11. How would you describe the jurisdiction/area covered of the initiative (urban, rural area)?
+12. How would you describe your community’s concerns with substance misuse?
+13. Why was the initiative created?
+14. How many people have you served?
+15. Do you have paid staff? Describe.
+16. Do you use volunteers? How?
+About the treatment aspect
+17. Do you have a main assessment point for referral to treatment?
+18. How are clients assessed?
+19. How many treatment providers can you access?
+20. Do you have memorandums of understanding in place?
+21. What is the treatment capacity for your clients? How do they pay?
+22. What level and type of care is available (OP, IOP, residential, MAT)
+Data and evaluation
+23. Do you get data or updates from treatment providers?
+24. Do you do follow up with the clients? Is that documented? How?
+25. What data do you collect if any? Do you do an intake?
+26. Has it been evaluated by an external evaluator? If yes, describe.
+Public awareness
+27. How have you let the public know about your initiative?
+28. How has the community responded?
+
+ 29. Do you think the initiative improves police-community relationships? How?
+Funding/resources
+30. What are the cost of the program?
+31. Do you get any funding for the program? Where from and how much?
+32. Have you seen solicitations or applied for funding?
+33. Do you get support from PAARI? Or other similar initiatives?
+34. What additional resources do you need for the initiative? What is most needed?
+Training/overdose response
+35. How have you trained staff/officers regarding the program and SUD?
+36. Do you train officers on Naloxone? How many?
+37. How officers many carry Naloxone?
+38. Do you ever reach out to individuals on the initiative or treatment following an overdose?
+Other/closing questions
+39. What have been some successes?
+40. What have been some obstacles?
+41. Any other lessons learned or things you would share to other police agencies who are
+considering starting or have just started a similar initiative?
+42. What are some obstacles related to implementation?
+43. Do you think these initiatives should be expanded across the state, country?
+44. Do you think there is enough treatment capacity if it is scaled up?
+45. Do you have any further comment about the initiative or these types of initiatives?
+
+We would like to provide a listing of current deflection initiatives with contact information. Can
+you please provide exactly what should be written (name, agency, phone, email)?
+
+Thank you.
+
+ Program Sustainability Assessment Tool
+This tool is to be used to assess current and ongoing program capacity and sustainability. It is to be administered at the
+planning, development, and implementation phases. The responses collected will identify strengths and challenges.
+Responses will differ at different phases of program development. In the initial phases you may not have responses to
+some of the questions. That is to be expected. Results can be used for decision-making and planning with respect to
+assessment and sustainability.
+In the following questions, you will rate your program across a range of specific factors that affect sustainability. Please
+respond to as many items as possible. If you truly feel you are not able to answer an item, you may select “NA.” For each
+statement, circle the number that best indicates the extent to which your program has or does the following things.
+When completed, review your program's summary Sustainability Report from the Program Sustainability Assessment
+Tool. The report results will provide a snapshot of your program’s current sustainability capacity. Discuss any surprises
+in the results and differences in opinion about scores. Note that there is no score that can guarantee a program’s
+sustainability. Low scores in a domain are deserving of attention and opportunities to review and make planning
+decisions. Domain scores serve as guideposts and are a starting point for discussion rather than an end point.
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+1
+
+ Support: Internal and external agents in support of the program
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. Champions – internal and/or external – actively advocate for
+the program.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. The program demonstrates the availability of champions with
+the ability to garner additional support and attract new
+resources.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. The program has support within the larger institution or
+consortium.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. The program has clear and public support from outside of the
+institution or consortium.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program has strong advocacy support at other
+institutions, consortia, or funding agencies.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+2
+
+ Funding: Evaluating the financial base of your program
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. The program does not rely on a single funding source.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. The program is funded or will be funded through a variety of
+sources – it has a combination of stable and flexible funding.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program has sustained funding now.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+1. The program is developed and will be sustained in a
+
+supportive financial climate.
+2. The program is supported by policies designed to help ensure
+
+sustained funding.
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+3
+
+ Partnerships: Creating and cultivating connections between program and stakeholders
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. Diverse individuals, departments, and institutions are invested 1
+in the development and sustainability of the program.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. The program has established communication pathways with
+community participants.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. Community participants – faculty and staff – are involved
+with the program.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. Community participants – faculty and staff – are passionately
+committed to the program.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The community is engaged in the development and
+implementation of program goals.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+4
+
+ Organizational Capacity: The support and resources required to effectively manage and
+sustain the program and its activities are available
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. The program is well integrated into the operations of the
+institution or consortium.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. Organizational systems are in place to support program
+requirements.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. Leadership effectively articulates the vision of the program to
+constituents and partners.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. Leadership has established effective organizational designs to
+efficiently manage program staff and resources.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program has adequate staff to complete and sustain the
+program’s goals.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+5
+
+ Program Evaluation: Program assessment to inform planning and document results
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. The program has a plan for program evaluation in place.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. The program has a plan to report short term and intermediate
+outcomes.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. There is a plan to integrate evaluation results into ongoing
+program planning and implementation.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. There is a plan and a schedule to document and share
+program evaluation results to funders and key stakeholders to
+demonstrate successes.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program provides strong evidence to the larger academic
+community that the program is successful.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+6
+
+ Adaptation: Plans and actions to adapt the program to ensure ongoing effectiveness
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. A plan to periodically review program results is in place.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. The program review helps to adapt and adopt new strategies
+as appropriate.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. The program review enables adaptation to new and emerging
+technologies, pedagogical methods and practices.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. The program enables faculty, staff, and administration to
+proactively adapt to changes and opportunities in education.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program provides for decision-making about which
+components are ineffective and how to discontinue.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+7
+
+ Communications: Strategic communication with stakeholders about your program
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. The program has integrated communication strategies to
+secure and maintain external awareness and support.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. Program staff communicates the rationale for the program to
+the other institutions, consortia, and funding agencies.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. The program communication plan is marketed and distributed 1
+in a way that generates broad interest.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. The program results in increased community awareness of the 1
+issue, opportunity, and challenges.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The communication plan clearly demonstrates program value
+to the larger academic community.
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+8
+
+ Strategic Planning: Processes that guide your program’s direction, goals, and strategies
+To little or no
+extent
+
+To a very great Not able
+extent to answer
+
+1. The program includes plans for future resource needs.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+2. The program includes a long-term financial plan.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+3. The program has a sustainability plan in place.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+4. The program goals and objectives are clearly understood by
+all stakeholders.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+5. The program clearly outlines roles and responsibilities for all
+stakeholders.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+NA
+
+Notes:
+
+This assessment tool is adapted from: the Program Sustainability Assessment Tool, copyright 2012, Washington University, St. Louis, MO
+and is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. All rights reserved. If you
+would like more information about the original framework or Program Sustainability Assessment Tool, visit http://www.sustaintool.org.
+
+9
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Principal investigator(s):
+Jessica Reichert, Senior Research Analyst
+
+Principal investigator(s) email:
+Jessica.Reichert@illinois.gov
+
+Office Address:
+
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+
+City, State, Zip code:
+
+Office phone:
+
+Chicago, IL, 60606
+
+(312) 793-8550
+
+Project staff and affiliation:
+Start date of project:
+
+May 18, 2017
+
+End date of project:
+
+May 18, 2018
+
+Title of proposal: Outcome evaluation of the Safe Passage Initiative
+Initial approval type:
+
+Full IRB: X
+
+Is this IRB linked to other IRB approval?
+
+Expedited:
+Yes
+
+X
+
+Exempt:
+No
+
+If YES, please explain:
+
+Will the data be primary data or secondary data?
+
+X
+
+Primary
+
+If SECONDARY, please briefly indicate the source of the data:
+Safe Passage Initiative intake forms
+Prior treatment records of former Safe Passage clients
+Illinois State Police, Criminal History Record Information
+Illinois Department of Employment Security, employment records
+Illinois Department of Corrections, corrections records
+Illinois Department of Public Health, hospital records
+
+X Secondary
+
+ How is the end date of the study defined?
+The publication of one or more evaluation reports on the Illinois Criminal Justice Information
+Authority (Authority) website and/or in a peer-reviewed journal.
+
+I. VULNERABLE SUBJECTS
+Will any of the following groups potentially be included in your sample?
+Yes
+
+No
+
+Minors under age 18
+
+X
+
+Adult prisoners or individuals in secure confinement
+
+X
+
+Juveniles in correctional or detention facilities
+
+X
+
+Probationers, parolees, or individuals under court or correctional
+supervision
+
+X
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+X
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+X
+
+Pregnant women, if focus of research
+
+X
+
+Non-English speakers
+
+X
+
+Wards of the state
+
+X
+
+Other—please specify
+
+X
+
+II. PROJECT DESCRIPTION
+A. PROJECT SUMMARY
+1. Please provide a brief summary (3 – 5 sentences), in lay terms, of the purpose of the study
+and the procedures subjects will undergo.
+Data will be collected and analyzed for an evaluation of the police-led substance use disorder
+treatment initiative (or diversion initiative) called Safe Passage, operating in Lee, Whiteside,
+and Livingston Counties in Illinois. The outcome evaluation will analyze (1) administrative
+program data, including client treatment records, and (2) data collected through a pre- and
+post-test survey.
+
+ B. PROCEDURES
+2. Describe the procedures involving human subjects and list the steps you will take.
+Include the following information:
+Component 1: Client treatment records (n=150)
+a.) Time involvement of subjects: Potential participants will be asked to review and sign a
+consent form allowing researchers access to treatment records. It will take approximately 2
+minutes to read and sign the consent form.
+
+b.) Location(s) the study will be conducted with subjects, including a description, if applicable:
+Consent forms will be provided to clients by the treatment provider facility. Treatment
+providers may include the following: Rosecrance, Unity Point, Gateway, Sinissippi, Banyan,
+and Chestnut Health Systems.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None.
+d.) What subjects will experience or do: Subjects will sign a consent form.
+Component 2: Online pre- and post-test (n=150)
+a.) Time involvement of subjects: Potential participants will be asked complete a short pre and
+post-test survey. Each survey (one pre/one post) will take approximately 10 minutes each.
+
+b.) Location(s) the study will be conducted with subjects, including a description, if applicable:
+Participants will be asked to complete an online survey administered upon intake at a
+treatment provider facility. The survey will be administered again prior to exiting treatment.
+
+c.) Amount of payment to subject, if any (consent form must note plan for payment if they
+withdraw voluntarily): None
+d.) What subjects will experience or do: Subjects will be asked to complete a survey about their
+views on their substance use.
+
+C. EQUITABLE SELECTION OF SUBJECTS
+3. Please answer the following information about your proposed sample.
+a.) Anticipated total number of subjects in study: 310
+Former clients n=160
+New clients n=150
+b.) Number in age ranges:
+
+Under 18 0
+
+18 and older
+
+310
+
+c.) Potential inclusion: race/ethnicity (check ALL that apply). If known, provide number:
+African American X
+Asian X
+
+American Indian
+
+X
+
+Hispanic X
+
+ White X
+
+Other
+
+Unknown
+
+Comments
+
+Bi-racial
+
+X
+
+Census statistics show 90%+ white population
+
+d.) Prisoners or individuals in secure confinement(n): 0
+e.) Probationers, parolees, or other individuals under court or
+correctional supervision:
+
+0
+
+4. Describe the procedures for subject recruitment
+Administrative data
+
+X
+
+Recruitment
+
+X
+
+Clients receiving treatment at one the treatment facilities will be offered the opportunity to
+participate in the evaluation of the program. The informed consent form outlining the purpose
+of the evaluation, risks, benefits, the procedures involved should they choose to participate,
+and the voluntary nature of the study will be provided to participants upon intake by the
+treatment provider staff.
+
+5. Identify the criteria for inclusion/exclusion of subjects and provide a clear rationale for
+them.
+All clients receiving treatment from one of the providers partnering on the Safe Passages
+Initiative will be offered the opportunity to participate in this study. The study will track
+outcomes of Safe Passage clients as well as clients referred through other means (comparison
+group).
+
+D. RISK/BENEFIT ASSESSMENT
+6. Briefly describe the potential benefits of the project to subjects and/or to society. Note:
+Social science research typically does not provide a direct benefit to the subjects.
+There is no direct benefit to participants. The evaluation will examine outcomes of clients with
+substance use disorders at treatment providers. The results may influence programming,
+policies, and funding decisions in Illinois and inform similar jurisdictions.
+
+7. Does this study involve any of the following?
+Yes
+
+No
+X
+
+Use of deception by researchers
+
+X
+
+Use of punishment by researchers
+
+X
+
+Use of drugs by subjects for study purposes
+
+X
+
+Covert and/or participant observation
+
+X
+
+Induction of mental and/or physical stress to subjects by researchers
+
+X
+
+Procedures which risk physical harm to the subject
+
+X
+
+Materials and behaviors commonly regarded as socially unacceptable
+
+ X
+
+X
+
+Procedures by researchers that might be regarded as an invasion of privacy to
+subjects or cause a degree of discomfort
+Possible/probable disclosure of information by subjects to researchers that may
+be harmful to the subject (e.g., child abuse, criminal behavior, immigration
+status)
+
+a.) If you checked YES to any of the above procedures, explain the procedure in detail, as well
+as provide the methods being used to control or minimize the danger to the subjects.
+
+b.) Please indicate the theoretical and/or methodological necessity for employing each
+procedure(s) checked YES.
+
+8. If the study involves deception, when and how will the subjects be debriefed? (Generally,
+the nature of the deception and its necessity should be explained to the subjects).
+Does not apply.
+
+9. Are provisions for subject’s medical care available in the event of a personal (physical or
+mental) injury resulting solely from subject’s participation in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+10. Will other care or counseling be available or referrals made to agencies for the subject
+should he or she become stressed, uncomfortable, angry, or experience other psychological
+difficulties as a result of participating in the research? Please explain.
+Yes
+
+No
+
+Not applicable
+
+X
+
+Minimal risk: A risk is minimal where the probability and magnitude of harm or discomfort
+anticipated in the proposed research are not greater, in and of themselves, than those ordinarily
+encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+Greater than minimal risk: A risk is greater than minimal where the probability and magnitude
+of harm or discomfort anticipated in the proposed research are greater than those ordinarily
+
+ encountered in daily life or during the performance of routine physical or psychological
+examinations or tests.
+High risk: A risk is high when a moderate-to-high probability of serious adverse effects might
+occur as a result of participation in a research study. Risks and benefits that would result even if
+the research weren’t undertaken should not be considered.
+11. Indicate the overall degree of the research’s physical risk to the subject, according to
+the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+12. Indicate the overall degree of the research’s psychological risk to the subject, according
+to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+13. Indicate the overall degree of any other risk to the subject the research may have (e.g.,
+social, economic), according to the definitions provided below.
+X
+
+Minimal
+Greater than minimal
+High
+
+E. COMPENSATION
+14. Will the participants be compensated monetarily for entering the study?
+Yes
+
+No
+
+X
+
+a.) If YES, what is the amount and source of the funds?
+Amount
+
+Source of funds
+
+b.) If YES, how will that money be distributed to subjects (e.g., gift cards, cash)? Explain.
+
+15. Are there other inducements planned to recruit subjects? If YES, describe other
+inducements.
+Yes
+
+No
+
+X
+
+F. CONFIDENTIALITY
+16. Will any data be gathered through photographic, video or sound recording devices?
+
+ Yes
+
+No
+
+X
+
+a.) If YES, how will the confidentiality of the materials produced by such devices be
+protected?
+Note: A separate line of the consent form for the subjects to agree to be video/audio taped or
+photographed must be included.
+
+a.) What will be done with the still photos, video, or audio recordings after the study has been
+completed? Will this information be destroyed, kept xx number of years, used in
+publications, etc.? How does the investigator(s) define “completion” of the study?
+
+17. Will names or individual identifiers of subjects be recorded? If YES, answer a through d
+below.
+Yes
+
+X
+
+No
+
+a.) Where will the names or other individual identifiers be recorded (e.g., on test protocols,
+on a separate list with code numbers, etc.)?
+Individual identifiers will be recorded on pre- and post-tests. These identifiers are needed
+to match the pre- and post-tests and to link to administrative data on the client.
+
+b.) Describe project procedures for maintaining the security of these records at every point in
+the data collection process.
+Online survey data will be obtained through Qualtrics. Qualtrics safeguards all customer
+data, and uses secure data centers to ensure the highest protection as per HITECH
+requirements. HITECH (Health Information Technology for Economic and Clinical Health
+Act) updated HIPAA rules to ensure that data are properly protected and best security
+practices followed.
+At the close of the pre- and post-tests, ICJIA researchers will download a dataset and link
+the pre- and posttest data along with the other administrative data collected by research
+staff. This dataset will then be stripped of the identifiers and a unique id number will be
+used in place of identifiers. Only the final, de-identified dataset will be used to analyze the
+data.
+The final de-identified dataset will be kept on secure, password protected servers and
+computers accessible only to the research staff.
+
+c.) Would it be possible to conduct the proposed project without recording names or other
+individual identifiers? Please explain why or why not.
+Yes
+
+No
+
+X
+
+Researchers need to link pre- and post-tests and administrative data in order to answer its
+research questions.
+
+ d.) Will access to names be under your exclusive control?
+Yes
+
+X
+
+No
+
+If NO, what will be done to protect the confidentiality of the subjects? Who would have access
+to names or other individual identifiers? Describe the procedures for maintaining security of
+paper files, automated files, and other records.
+
+e.) Will names of subjects be included in any publication based on this study? If YES, for what
+reason(s)?
+Yes
+
+No
+
+X
+
+18. Sometimes research findings are presented in a manner that permits knowledgeable
+readers to infer the identity of a person used as a subject, even if names are omitted. Do you
+expect to present findings that may possibly provide such clues? If YES, explain.
+Yes
+
+No
+
+X
+
+19. Will information be obtained pertaining to persons other than immediate subjects (e.g.,
+their friends)? If YES, how will the confidentiality of such persons be protected?
+Yes
+
+No
+
+X
+
+G. INFORMED CONSENT
+20. Do you intend to obtain informed consent?
+Verbal
+
+X
+
+Written
+
+No consent needed
+
+X
+
+Waiver of consent
+
+If NO CONSENT NEEDED or VERBAL, please answer a through c below.
+a.) Why do you not intend to use written forms?
+b.) In what manner and to what extent would potential subjects be given advance information
+about the procedure in which they are asked to participate? If using a contact letter, please
+include it.
+
+ c.) In what manner would potential subjects be advised that their participation and continuation
+in the project would be entirely voluntary? Please provide a copy of the text to be used.
+
+21. If receiving verbal or written consent, please attach a copy of the script or the consent
+form that you will use.
+Attached
+
+X
+
+Unable to provide
+
+Not applicable
+
+a.) If you are unable to provide the script or consent form, please explain why.
+22. Please give a detailed description of the process that will be used to obtain consent and
+answer all applicable questions:
+a.) Who will obtain consent? Consent forms for administrative data will be administered by
+licensed substance use treatment providers that serve Safe Passage clients including
+Gateway, Rosecrance, Chestnut Health Systems, Unity Point, and Banyan. Consent for
+the pre- and posttest survey data will be made available on-line through the on-line
+survey software. Participants will be asked to review the consent materials and click
+agree if they wish to participate.
+
+b.) How will consent be obtained?
+Online consent for pre- and post-test.
+Paper form for administrative data.
+
+c.) How often will consent be obtained (e.g., longitudinal or long-term field studies)?
+Once for administrative records at intake to treatment provider services.
+Each time a client takes the pre- or post-test.
+
+d.) How will you verify the subject fully understands the consent? The online and hard copy
+consent forms are written in a 9th grade or lower reading level. The consent forms will
+provide contact information for the principal investigator, the Authority’s attorney/IRB
+secretary to request further information about the studies, their rights as a research
+participant, and the initiative.
+
+e.) How will your investigators be trained to use the informed consent process?
+Treatment provider staff are experienced in obtaining consent regarding the use of
+health and treatment records. These records will be maintained in a secure location by
+treatment provider staff. Researchers will periodically travel to the sites to obtain the
+forms, which will then be placed in a locked file cabinet accessible only to research
+staff.
+All Authority research staff are certified in the National Institutes of Health Office of
+Extramural Research’s web-based training course “Protecting Human Research
+Participants.”
+
+23. Will/is the consent form be translated for non-English speaking participants?
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+
+ All participants are expected to be English speakers. According to the U.S. Census
+Bureau (July 2015), 5% of Lee, 12% of Whiteside, and 6% of Livingston county residents
+are Hispanic or Latino, and therefore, likely less to be non-English speaking.
+
+b.) If YES, please provide an explanation of who will/did translate the forms and their
+qualifications.
+24. Does the consent form you have attached fully comply with the Authority’s instructions for
+consent forms that are in compliance with general requirements as outlined in the Code of Federal
+Regulations 46.116 and the Authority’s IRB procedures? Please refer to the checklist.
+Yes
+
+No
+
+X
+
+a.) If NO, please explain why.
+25. Will all project staff be IRB certified and trained to follow the basic guidelines for the
+ethical care of subjects?
+Yes
+
+X
+
+No (explain below)
+
+Attachments
+Safe Passage Intake Form
+
+Component 1:
+Consent for administrative records
+Component 2:
+Online pre-and post-test
+
+ Illinois Criminal Justice Information Authority
+IRB
+APPROVAL APPLICATION: for Research Involving Human Subjects
+
+SIGNATURE PAGE
+PROJECT NAME: Outcome evaluation of the Safe Passage Initiative
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+IRB Expiration:
+The IRB approval granted for this project expires on
+
+______________
+Date
+
+ Script for Treatment Providers:
+This is a consent form to participate in a research study. It explains taking part in the research is
+voluntary and describes the risks and benefits of participation, in order to help you to make an
+informed decision.
+
+Illinois Criminal Justice Information Authority
+Consent for Participation in Research
+You are being asked to participate in a research study. Researchers are required to provide a
+consent form such as this one to tell you about the research, to explain that taking part is
+voluntary, to describe the risks and benefits of participation, and to help you to make an
+informed decision. You should feel free to ask the researchers any questions you may have.
+Principal Investigator: Jessica Reichert, Manager, Center for Justice Research and Evaluation
+Agency and Funding: Illinois Criminal Justice Information Authority, 300 W. Adams St., Suite
+200, Chicago, IL 60606 or (312) 793-8550. This project was funded by the federal Justice
+Assistance Grant Program.
+Why am I being asked?
+We would like to compare outcomes of clients based on different treatment referral methods.
+How will the information be used?
+We will use this information to determine whether people who access treatment by different
+means (Safe Passage/police referral, court ordered, or other referral) have different outcomes
+(e.g., days in treatment, completion of treatment level of care, arrests).
+Will anyone know that I am taking part in this study?
+The investigators of this research project and their staff members will have access to this
+information.
+What are the potential risks and discomforts?
+To the best of our knowledge, completing the interview will have no more risk of harm than you
+would experience in everyday life.
+How long is this authorization valid?
+Information may be obtained from your treatment records and other state records and used by
+this research team which expires at the end of the study. State records include criminal justice
+records, employment records, and public health records.
+May I withdraw, at a future date, my consent to participate in this study or share my treatment
+record information with researchers?
+
+ You have the right, at any time, to withdraw from participating in this study. Deciding not to
+participate or withdrawing from the study will not affect your current or future treatment care or
+relationship with Safe Passage (if applicable).
+Who should I contact if I have questions?
+Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or,
+if you have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have
+any questions about your rights as a research subject, including questions, concerns, complaints,
+or to offer input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at
+(312) 793-8550 or Simeon.Kim@Illinois.gov.
+
+By signing this form I consent to participate in this research study and provide my authorization
+to share my treatment records with the research team.
+
+Signature
+
+Printed Name
+
+Date
+
+ Safe Passage Intake Form
+Name:
+Safe Passage ID#:
+Date of Birth
+Sex of Participant:
+
+ Male
+
+ Female
+
+Relationship status (that is, does Participant have a partner)?
+☐ Legally married
+☐ Separated
+
+☐ In a committed relationship
+☐ Single, never married
+
+☐ Widowed
+☐ Divorced
+
+How much school has the Participant completed?
+☐ Some high school
+☐ High school graduate/GED
+
+☐ Some college
+☐ College graduate
+
+At any time in the past 30 days, did the Participant work at a paying job?
+NO YES, part-time full-time (type of job) _________________________
+Does Participant have health Insurance?
+☐ None
+
+☐ Medicare
+
+☐ Other
+
+☐ Medicaid
+
+☐ Private Insurance
+
+Insurance carrier? ______________________________
+Does Participant have doctor or regular place where they get medical care? NO YES
+Does Participant know anyone who has gone through Safe Passage Initiative? NO YES
+Has Participant been in the Safe Passage Initiative before? NO YES, when?
+___________________________
+Warrant check completed? YES
+
+NO List any warrants:
+__________________________________________
+
+Search completed? YES NO
+Has the Participant been arrested for drugs? YES NO
+CQH check completed? YES NO
+
+If yes, about how many times? ________
+
+History of violence? YES NO
+
+Any concerns by the officer or the supervisor of a reasonable belief that the GUIDE could be seriously
+harmed by the participant? YES NO
+Does CQH include 3 or more drug related arrests, and at least one of them is a conviction for possession
+with intent to distribute OR trafficking OR drug violation in a school zone? YES NO
+
+ If Yes, List:
+________________________________________________________________________________
+Sinnissippi Evaluation? YES NO
+Participant turning over drugs? NO YES Description: ______________________________________
+Participant turning over paraphernalia? NO YES Description: ________________________________
+Participant Assigned “GUIDE”? NO YES Name of GUIDE: _________________________________
+Participant transported to _________________ by whom? ________________________
+Treatment type?
+☐ Detox
+
+Admitted? YES NO
+
+☐ In-Patient
+
+☐ Out-Patient
+
+DAST Score: _________
+When was the last time the Participant used any opiate? Date: ____________________ Time:
+______________
+What opiate did the Participant use? _________________________
+How old was the Participant when he/she first used drugs? ____________ Kind? ___________________
+How old was the Participant when he/she first used opiates? __________
+Does the Participant currently use heroin? NO YES, inject
+
+YES, snort
+
+How long has he/she been using? _____________ How often? ____________ How much? __________
+Does the Participant currently use prescription opiates? YES NO
+Is the Participant a smoker? YES NO
+Any prescription medications currently taking: YES NO
+Does the Participant have any medical issues? YES NO
+Has the Participant been diagnosed with a mental health disorder? NO
+
+YES
+
+How many times has the Participant been to detox? _______
+Except for detox, has the Participant ever received addiction treatment in the past (before this time)?
+YES NO
+If yes, what types of treatment did the Participant received?
+☐ Mental Health
+______________
+
+☐ In-Patient
+
+☐ Out-Patient
+
+☐ Recovery Group
+
+☐ Detox only
+
+☐ Other
+
+ Did the Participant have a source of care or recovery support after treatment?
+
+YES NO
+
+Has the Participant ever been involved with a self-help program (NA, other)?
+
+YES NO
+
+Did the Participant ever try to get addiction treatment and was unable to get in? YES NO
+How did the Participant hear about the Safe Passage Initiative?
+_____________________________________________________________________________________
+Why did the Participant decide to come for this service now?
+_________________________________________
+May we contact the Participant again to learn more about his/her experience with this program?
+YES NO
+
+Please list any other relevant comments or issues:
+
+Officer: ____________________________________ Supervisor:
+_____________________________________
+
+ Illinois Criminal Justice Information Authority
+Consent for Participation in Research
+You are being asked to participate in a research study. Researchers are required to provide a consent
+form such as this one to tell you about the research, to explain that taking part is voluntary, to describe
+the risks and benefits of participation, and to help you to make an informed decision. You should feel
+free to ask the researchers any questions you may have.
+Principal Investigator: Jessica Reichert, Manager, Center for Justice Research and Evaluation
+Agency and Funding: Illinois Criminal Justice Information Authority, 300 W. Adams St., Suite 200,
+Chicago, IL 60606 or (312) 793-8550. This project was funded by the federal Justice Assistance Grant
+Program.
+Why am I being asked?
+You are being asked to complete a brief online survey on personal substance use. We would like to
+compare responses based on different treatment referral methods.
+How will the information be used?
+We will use this information to determine whether people who access treatment for a substance use
+disorder compared to other means (Safe Passage/police referral, court ordered, or other referral) have
+different views on personal substance use before and after treatment.
+Will anyone know that I am taking part in this study?
+The research team will have access to this information. We will need identifying information in order to
+link the surveys you take before and after treatment, as well as link to other records.
+What are the potential risks and discomforts?
+To the best of our knowledge, completing the interview will have no more risk of harm than you would
+experience in everyday life.
+What about privacy and confidentiality?
+The research team will know that you are a research subject. Authority staff will use the surveys for
+research only. Identifying information, including name and data of birth, will be kept confidential.
+The final report will include a summary of information received from this and other surveys. The
+Authority will publish the results from the study on their website. Authority staff may also share the
+results at meetings or other public forums. When the results of the research are published or discussed in
+conferences, no information will be included that would reveal your identity.
+What are the costs for participating in this research?
+There are no costs to you for participating in this research.
+Will I be reimbursed for any of my expenses or paid for completing the survey?
+You will not be offered payment for being in this study.
+Who should I contact if I have questions?
+
+ Contact the researchers Jessica Reichert, Senior Research Analyst, at (312) 793-8550
+or Jessica.Reichert@Illinois.gov if you have any questions about this study or your part in it, or, if you
+have questions, concerns or complaints about the research.
+What are my rights as a research subject?
+If you feel you have not been treated according to the descriptions in this form, or if you have any
+questions about your rights as a research subject, including questions, concerns, complaints, or to offer
+input, you may contact the IRB secretary, Simeon Kim, Associate General Counsel, at (312) 793-8550
+or Simeon.Kim@Illinois.gov.
+
+By checking this box, I consent to participate in this research study. I understand the survey will be
+connected to future surveys and other records containing information about me.
+
+
+
+
+I agree to participate
+I do not agree to participate [END OF SURVEY]
+
+Name:
+Date of Birth:
+Personal Drug Use Questionnaire
+INSTRUCTIONS: Please read the following statements carefully. Each one describes a way that you might (or
+might not) feel about your drug use. For each statement, circle one number from 1 to 5, to indicate how much you
+agree or disagree with it right now. Please circle one and only one number for every statement.
+Strongly
+Disagree
+
+Disagree
+
+Agree
+
+Strongly
+Agree
+
+2
+
+Undecided
+or
+Unsure
+3
+
+1. I really want to make changes in my use of drugs.
+
+1
+
+4
+
+5
+
+2. Sometimes I wonder if I am an addict.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3. If I don't change my drug use soon, my problems
+are going to get worse.
+4. I have already started making some changes in my
+use of drugs.
+5. I was using drugs too much at one time, but I've
+managed to change that.
+6. Sometimes I wonder if my drug use is hurting
+other people.
+7. I have a drug problem.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+8. I'm not just thinking about changing my drug use,
+I'm already doing something about it.
+9. I have already changed my drug use, and I am
+looking for ways to keep from slipping back to my
+old pattern.
+10. I have serious problems with drugs.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+ 11. Sometimes I wonder if I am in control of my
+drug use.
+12. My drug use is causing a lot of harm.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+13. I am actively doing things now to cut down or
+stop my use of drugs.
+14. I want help to keep from going back to the drug
+problems that I had before.
+15. I know that I have a drug problem.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+16. There are times when I wonder if I use drugs too
+much.
+17. I am a drug addict.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+18. I am working hard to change my drug use.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+19. I have made some changes in my drug use,
+and I want some help to keep from going back
+to the way I used before.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+ Illinois Criminal Justice Information Authority
+IRB
+
+RENEWAL REQUEST: for Research Involving Human Subjects
+
+PROPOSAL INFORMATION
+Lynne H. Mock, Ph.D.
+
+Principal investigator(s):
+
+Principal investigator(s) email:
+Unit:
+
+Lynne.Mock@Illinois.gov
+
+Research and Analysis
+
+Office Address:
+
+ICJIA 300 West Adam Street, Suite 200
+Chicago, IL 60606
+
+City, State, Zip code:
+Office phone:
+
+3-0897
+
+Initial start date of project:
+
+April 2015
+
+Initial end date of project:
+
+September 30, 2017
+
+Evaluation of the Illinois Family Violence Coordinating Council’s
+Title of proposal: Protocol Training
+Date of initial approval:
+Initial approval
+type:
+
+April 16, 2015
+
+Full IRB:
+
+X
+
+Expedited:
+
+Exempt:
+
+RENEWAL INFORMATION
+Renewal initiated by:
+
+Lynne Mock, Ph.D.
+
+1
+
+ I. Project summary
+1.) Please provide a brief summary or abstract of your study.
+The purpose of the study is to evaluate the Illinois Family Violence Coordinating
+Council’s (IFVCC) trainings on model protocols and mini-tool kits for assisting victims of
+domestic violence, elder abuse, and abuse of persons with disabilities. The evaluation will
+help make suggestions for programmatic enhancements and document progress toward its
+goals. The IFVCC was awarded a 3 year grant from the a US Department of Justice Office
+on Violence Against Women Grant and the training evaluation is administered and
+coordinated by ICJIA staff. Subjects will complete pre- and post –tests. The tests are
+voluntary, and anonymous. ICJIA staff and IFVCC’s Evaluation Committee have created
+tests for the following protocols:
+1. Law Enforcement Domestic Violence Training
+2. Law Enforcement Elder Abuse and Persons with Disabilities Training
+3. Prosecutor Domestic Violence Training
+4. Prosecutor Elder Abuse and Persons with Disabilities Training
+5. Court Personnel Promising Practices and Mini-Tool Kit
+6. Emergency Medical Services Promising Practices and Mini-Tool Kit
+7. Probation Promising Practices and Mini-Tool Kit
+8. 911 Telecommunicators Promising Practices and Mini-Tool Kit
+
+2.) Please provide a brief statement of the progress made since the initial approval.
+Authority researchers drafted a preliminary report based upon 182 pre-tests and 173 posttests from nine trainings conducted by IFVCC. In addition, 61 pre/post-test were received in
+March 2017 from two trainings. We will continue to collect pre/post-test through September
+30, 2017.
+
+3.) Please indicate why this renewal is being requested.
+We need to continue data collection through September 30, 2017, the end of the federal
+fiscal year, to complete a report for the Office for Violence Against Women, IFVCC’s
+funder for this project.
+
+2
+
+ II. Please answer the following questions:
+4.) Are you requesting the renewal with changes?
+Yes
+
+X
+
+No
+
+If YES, please provide a summary of any requested changes to the research since last
+review.
+
+3.) Have there been any amendments made since the initial approval/last approval?
+Y
+
+Yes
+
+No
+
+If YES, when were the changes approved?
+Date: 5/19/16
+If YES, please provide a summary of any amendments or modifications to the research
+since last review
+Since the last review, pre/post-test for the mini-tool kits were added to the evaluation
+protocol, along with changes in the types and number of participants.
+
+4.) Number of subjects accrued:
+242
+
+Total number of subjects
+
+5.) Number of special populations accrued:
+0
+
+Minors under age 18
+
+0
+
+Adult prisoners or individuals in secure confinement
+
+0
+
+Juveniles in correctional or detention facilities
+
+0
+
+Probationers, parolees, or individuals under court or correctional supervision
+
+0
+
+Developmentally disabled, intellectually disabled, or cognitively impaired
+
+3
+
+ 0
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+0
+
+Pregnant women, if focus of study
+
+0
+
+Non-English speakers
+
+0
+
+Wards of the state
+
+0
+
+Other—please specify:
+
+6.) Number of subjects to be recruited in the future:
+750
+
+Total number of subjects
+
+7.) Number of special populations to be recruited in the future:
+0
+
+Minors under age 18
+
+0
+
+Adult prisoners or individuals in secure confinement
+
+0
+
+Juveniles in correctional or detention facilities
+
+0
+
+Probationers, parolees, or individuals under court or correctional supervision
+
+0
+
+Developmentally disabled, mentally retarded, or cognitively impaired
+
+0
+
+Individuals held in residential treatment, locked facilities, or hospitalized
+
+0
+
+Pregnant women
+
+0
+
+Non-English speakers
+
+0
+
+Wards of the state
+
+0
+
+Other not specified (Please specify):
+
+8.) Please provide a description of:
+a.) Any adverse events or unanticipated problems involving risk to subjects or others:
+There were none reported to the investigator.
+
+b.) Any withdrawal of subjects from the research: None reported to the investigator.
+
+c.) Complaints about the research: None reported to the investigator.
+
+4
+
+ 9.) Federal regulations require that we have current consent form(s) being used on
+file. Attach copies of both:
+This section does not apply to this research since we were approved for a Waiver of
+consent documentation during the initial IRB review.
+
+The consent form, even if it is identical to last year’s
+Any revisions in the consent form to accommodate any protocol amendments or
+adverse events encountered.
+Failure to attach these documents will result in the delay of the review process
+
+5
+
+ SIGNATURE PAGE
+
+Illinois Criminal Justice Information Authority
+IRB
+
+RENEWAL REQUEST: for Research Involving Human Subjects
+
+PROJECT NAME: Evaluation of the Illinois Family Violence Coordinating Council’s Protocol
+Training
+This page is to be signed by the principal investigator.
+
+Signature of Principal Investigator
+
+Date
+
+IRB ACTION:
+
+Request Approved
+
+Request Denied
+
+IRB Requests Modifications (see explanation below)
+
+Signature of IRB Chair
+
+Date
+
+Modifications Requested by IRB:
+
+6
+
+ 

@@ -1,0 +1,8958 @@
+An Assessment
+of Corner Stores
+in Suburban Cook County, Illinois
+where they are, and what they carry
+
+August 2014
+Daniel R. Block, PhD
+Angela Odoms-Young, PhD
+Shannon N. Zenk, RN, MPH, MSN, PhD
+Noel Chávez, PhD, RD, LDN
+John Owens, MA
+Kathleen Adamczyk, BA
+John Bisergerwa, BA
+Glenn Coley, BA
+AnDrew Hines, MA
+Shandria Holmes, BA
+Michelle Johnson, BA
+Karolina Lewczuk, BA
+Brent Lowe, BA
+
+ An Assessment
+of Corner Stores
+in Suburban Cook County, Illinois
+where they are, and what they carry
+
+Daniel R. Block, PhD1,2
+Angela Odoms-Young, PhD3
+Shannon N. Zenk, RN, MPH, MSN, PhD4
+Noel Chávez, PhD, RD, LDN5
+John Owens, MA2
+Kathleen Adamczyk, BA3
+John Bisergerwa, BA2
+Glenn Coley, BA2
+AnDrew Hines, MA2
+Shandria Holmes, BA2
+Michelle Johnson, BA2
+Karolina Lewczuk, BA2
+Brent Lowe, BA2
+
+August 2014
+This report was prepared by Chicago State University Fred Blum
+Neighborhood Assistance Center1 and Geography Program2 in
+collaboration with faculty from UIC Department of Kinesiology
+and Nutrition,3 UIC College of Nursing,4 and UIC School of
+Public Health.5
+Made possible in part with funding from the Department of Health and
+Human Services.
+
+ Table of Contents
+Executive Summary  
+Introduction  
+Methods  
+Analysis  
+Results  
+Key Findings 
+Limitations  
+Conclusion  
+
+1
+5
+6
+8
+10
+31
+33
+34
+
+Maps
+1   Corner stores across Suburban Cook County (SCC) 
+2   Corner Stores Compared to Other Store Types in SCC 
+3   Corner Store Locations Compared to Poverty in SCC 
+4   Produce Availability, Race and Ethnicity, Northeast Region, SCC 
+5   Produce Availability, Race and Ethnicity, Northwest Region, SCC 
+6  Produce Availability, Race and Ethnicity, West Region, SCC 
+7   Produce Availability, Race and Ethnicity, Southwest Region, SCC 
+8   Produce Availability, Race and Ethnicity, South Region, SCC 
+
+10
+11
+12
+14
+15
+16
+17
+18
+
+Tables
+1   Counts and Population by SCC Region 
+2  Region* Fruit and Vegetable Class Crosstabulation 
+2a   Region* Fruit and Vegetable Class Crosstabulation Percents 
+2b  Mean amount of Fresh Fruits and Vegetables Carried by Region 
+3   Distance in Miles to Nearest Store by Demographic Quartile, SCC Corner Stores, 2012
+  and Comparison Stores, 2011 
+4  Distance to Nearest Store in Miles Divided by (1/Log of Population per Square Mile to Nearest Store)
+  by Demographic Quartile, SCC Corner Stores, 2012 and Comparison Stores, 2011 
+5  Correlations Between Distance Index and Demographics 
+6  Corner Store Characteristics 
+7  Corner Store Marketing Environment 
+8  Selected Corner Store Characteristics by Neighborhood Racial Composition 
+9  Corner Store Fresh Fruit and Vegetable Selection 
+10  Corner Store Fresh Fruit and Vegetable Selection by Type 
+11  Corner Store Product Availability by Neighbhorhood Racial Composition 
+12  Mean Availability of Fresh Fruit and Vegetables by Neighborhood Racial Composition 
+13  Mean Availability of Fresh Fruit and Vegetables by Neighborhood Poverty (200%)  
+14  Mean Fresh Fruit and Vegetable Availability by Liquor Index 
+15  Mean Availability of Frozen and Canned Fruit and Vegetables by Neighborhood Racial Composition  
+16  Mean Availability of Canned and Dried Beans by Neighborhood Racial Composition  
+17  Mean Availability of Canned and Dried Beans by Neighborhood Poverty (200%) 
+18  Mean Availability of Canned and Dried Beans by Region 
+19  Mean Snack and Sugar Sweetened Beverage Score by Neighborhood Racial Composition 
+20  Mean Snack and Sugar Sweetened Beverage Score by Neighborhood Poverty (200%)  
+21  Mean Price of Selected Fresh Produce in Corner Stores Compared to National Average 
+22  Mean Price of Whole and Reduced Fat Milk in Corner Stores Compared to National Average 
+Figures
+1   Fruit and Vegetable Categories by Region (n=182) 
+2  Fruit and Vegetable Categories by Race (n=182) 
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+23
+23
+23
+23
+24
+25
+26
+26
+26
+26
+27
+27
+27
+28
+28
+28
+28
+29
+29
+29
+29
+29
+30
+30
+21
+21
+
+ Executive Summary
+Introduction
+In the last decade, there is growing recognition about the importance of environmental
+context in shaping obesity risk at the individual level. Several studies have found that food
+environments in low-income and minority communities are particularly “obesogenic”
+including limited availability of healthy food options, such as fruits and vegetables, high
+availability of energy-dense foods, and greater availability of smaller stores compared
+to supermarkets/full service grocery stores.1,2 While multiple strategies have been proposed,
+increasing availability of healthy foods in corner stores as an approach to improve food
+access has gained momentum. This has been particularly true in communities with low food
+access, also referred to as food deserts, that are underserved by traditional supermarkets.3
+To gain a deeper understanding of corner stores across suburban Cook County, Illinois,
+the Cook County Department of Public Health (CCDPH) commissioned an assessment
+to describe distribution between communities of different races and income levels and the
+kinds of food options offered, as well as present recommendations based on the findings.
+
+Methodology
+Since there is no standard trade group definition, this assessment defined corner stores as
+small-scale, independent grocery stores that are smaller than a supermarket, which is defined
+as having less than 2.5 million annual in sales.4 This assessment excluded chain convenience
+stores and stores whose primary classification was as a gas station or liquor store. Of 201
+qualifying stores, a total of 182 corner stores or 91% were successfully assessed.
+In-person audits were conducted at each corner store to assess store characteristics and
+the food environment. Additionally, store characteristics hindering or promoting healthy
+food purchasing were collected; and availability, variety and price of the corner store food
+environment were examined.
+Data analysis consisted of both spatial analysis to explore the spatial relationship between
+store locations and community demographics and other characteristics and survey
+analysis to gauge the relationship between food environment and community and store
+characteristics.
+
+Findings
+In summary, key findings are outlined below.
+
+Distribution & Density of Corner Stores in Suburban Cook County
+•  While corner stores of any size are relatively evenly distributed between suburban
+  Cook County regions, compared to other grocery store types, they are somewhat more  
+  concentrated in the South and West regions and least concentrated in the Northeast
+ region.
+
+1
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ •  Hispanic communities have the highest densities of corner stores and African-American
+  communities have a higher density of corner stores than the overall average for suburban
+  Cook County.
+
+Distance to Corner Stores in Suburban Cook County
+•  The distance to the nearest corner store is generally lower in areas with lower incomes
+  and higher Hispanic populations. Additionally, areas with higher Hispanic populations
+  tended to be nearer to corner stores with 10 or more fresh produce items.
+• 
+ 
+ 
+ 
+
+While the distance to a corner store of all types, in general, was somewhat closer in
+African-American areas than the average in suburban Cook County as a whole,
+percent Hispanic and low income were better predictors of the distance to a corner store
+than percent African-American.
+
+Availability of Healthy Items
+•  The percentage of corner stores carrying 10 or more fresh produce items was    
+  significantly different by region. It was higher in the Northwest, Southwest and West
+  regions, and lower in the Northeast and South regions.
+•  Fruit and vegetable availability and variety in liquor stores was lower compared to other
+  store types.
+•  Corner stores in Hispanic areas were much more likely to stock and have greater variety
+  of fresh fruits and vegetables and dried/canned beans than those in African-American,
+  White or racially mixed areas.
+•  Predominately White and racially mixed communities were more likely to carry low fat
+  and fat free milk compared to predominately African-American and Hispanic
+ communities.
+•  A low percent of corner stores in the predominately African-American South region
+  carried 10 or more produce items and other healthy food options despite the generally
+  high concentrations of corner stores.
+•  Higher poverty areas stocked more fresh fruits and vegetables.
+
+Availability and Marketing of Unhealthy Items
+•  Predominately Hispanic, African-American and racially mixed communities were more
+  likely to carry gallon size fruit juice drinks (<10% juice), single serving size (8oz) juice
+  drinks (e.g. Little Hugs), and Flamin’ Hots compared to White neighborhoods.
+•  Corner stores in African-American communities were more likely to sell tobacco
+  products and alcoholic beverages.
+•  Indoor and outdoor marketing environments in African-American neighborhoods
+  were saturated with more advertisements of unhealthy items than in other racial/ethnic
+ neighborhoods.
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+2
+
+ Conclusions
+In general, the geographic pattern of corner stores in suburban Cook County correlates with
+race/ethnicity and socioeconomic variables. In particular, the South region and AfricanAmerican areas of suburban Cook County generally do not seem to be well served by
+either traditional supermarkets or corner stores in terms of produce availability.5 The limited
+availability of fresh produce, low fat milk, and frozen fruits and vegetables in AfricanAmerican neighborhoods highlights a potential opportunity to work with corner store
+owners in these neighborhoods to increase their produce offerings. Findings further suggest
+that a comprehensive approach to improving foods and overall quality of the corner store
+should be considered.access to public transportation than Chicago residents. If areas of
+relatively low food access are present, vulnerable populations such as the poor, elderly, and
+those lacking access to transportation might have difficulty accessing healthy food.
+“Finding Food in Chicago and the Suburbs,” a 2008 report on food access in the 6-county
+Chicago metropolitan area, found a number of areas of low food access in Chicago’s
+suburbs. Particular areas of concern included the Maywood, Riverdale, and Calumet City/
+Lansing areas. As in Chicago itself, these low food access areas were predominantly
+African-American. In many cases, communities in these areas have since worked to bring
+full service grocery stores into their neighborhoods, but the success, or lack thereof, of
+these efforts has yet to be documented. Food access research is also about what is in areas
+with poor food access. Often, low food access communities do have large numbers of
+smaller “corner” stores, as well as fast-food restaurants. In addition, innovative solutions to
+improving food access, such as implementation of farmers’ markets, community gardens,
+and farm stands, have not been mapped for suburban Cook County.
+
+Recommendations
+Based on the findings in this report, the following is recommended.
+
+For County & Local Government
+• 
+ 
+ 
+ 
+ 
+
+Identify strategies to make the data and conclusions of this report useful and    
+ 
+understandable to residents who live in, as well as organizations and leadership who
+serve, communities with low access to healthy corner stores and other healthy
+food options. Barriers between community and the data that describes their daily living
+conditions should be removed.
+
+•  Develop a system to routinely analyze and disseminate data related to food access that is
+  based on information already gathered by governmental agencies.
+• 
+ 
+ 
+ 
+ 
+ 
+3
+
+Facilitate cross-sector collaborations (e.g., public and private economic development
+agencies; suburban Cook County municipalities; academic institutions) to: 1) develop
+healthy corner store models in areas where they would improve food access; and 2)
+lead or support securing of resources to implement and evaluate initiatives that increase  
+availability of healthy food options at corner stores, particularly in the South region and
+in predominately African-American neighborhoods.
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ • 
+ 
+ 
+ 
+
+Support policies and approaches that improve residents’ overall access to healthy foods
+in corner stores (e.g., financing; store development and layout; product sourcing
+and purchasing such as requiring fresh produce as a condition of operating a store; and
+marketing such as limiting number of advertisements).
+
+For Corner Store Owners
+•  Display nutrition and health messages in and around the store to promote the sale of
+  healthy food.
+•  Reduce in-store marketing of unhealthy foods and competing products such as liquor
+  and tobacco.
+•  Increase availability of healthy items by, for example:
+  -  Increasing allocation of shelf space to healthy foods.
+  -  Offering low-sodium or no sugar added fruits and vegetables, canned or frozen.
+  -  Working with your current suppliers, local farmers and farmers markets to add more
+   fresh produce options.
+
+For Community Organizations
+•  Work with local corner stores to identify ways to increase customer demand and provide
+  support for healthy items.
+•  Organize local marketing campaigns for stores, in collaboration with corner store
+  owners and other agencies, that increase purchase of healthier food options.
+•  Assist store owners in identifying food purchasing preferences of community members.
+•  Seek out assistance to learn more about what the data means and how the results of
+  this report help explain health inequities including potential higher rates of disease and
+  premature death.
+
+For Researchers
+•  Examine how community residents use corner stores for food and other products and
+  how the food from corner stores contributes to dietary intake.
+•  Conduct a focused market basket study, similar to this corner store assessment, for gas
+  stations and chain convenience stores in the Cook County region.
+•  Further explore predominantly White areas of the county to study shopping patterns
+  by residents of these areas and to determine whether vulnerable populations in these
+  areas would be assisted through increased produce offerings.
+Hilmers A, Hilmers DC, & Dave J. (2012). Neighborhood disparities in access to healthy foods and their effects on environmental
+justice. American Journal of Public Health, 102(9), 1644-54.
+2 
+Walker RE, Keane CR, & Burke JG. (2010). Disparities and access to healthy food in the United States: A review of food deserts
+  literature. Health Place, 16(5), 876-84.
+3 
+Treuhaft S, & Karpyn A. (2010). The Grocery Gap: Who has Access to Healthy Food and Why it Matters. Retrieved from
+ http://www.policylink.org/atf/cf/%7B97C6D565-BB43-406D-A6D5-ECA3BBF35AF0%7D/FINALGroceryGap.pdf.
+4 
+Food Marketing Institute. (2012). Supermarket Facts. Retrieved from http://fmi.org/research-resources/supermarket-facts.
+5 
+Block DR, Bisegerwa J, Bowen K, Lowe B, Owens J, Sager N, & Ssepuuya F. (2012). Food Access in Suburban Cook County.
+  Retrieved from http://www.cookcountypublichealth.org/files/CPPW/block-report-exec-summary-031612.pdf.
+1 
+
+ 
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+4
+
+ Introduction
+In the last decade, there is growing recognition about the importance of environmental
+context in shaping obesity risk at the individual level. Several studies have found
+that food environments in low-income and minority communities are particularly
+“obesogenic” including limited availability of healthy food options, such as fruits
+and vegetables, high availability of energy-dense foods, and greater availability of
+smaller stores compared to supermarkets/full service grocery stores.1,2 While multiple
+strategies have been proposed, increasing availability of healthy foods in corner stores
+as an approach to improve food access has gained momentum. This has been especially
+true in communities with low food access, also referred to as food deserts, that are
+underserved by traditional supermarkets.3
+This strategy, while proving to be successful in some places,4 is controversial. Corner stores
+are often seen as negative in the community and perceived to primarily carry unhealthy
+food items. Supporting these claims, a 2009 study found that over 50% of a group of inner
+city Philadelphia 4th to 6th graders bought food at a corner store at least once a day,
+and most frequently consumed items like chips, candy and sweetened beverages that are
+energy dense and have low nutritional value.5 Some evidence suggests that corner store
+owners generally are not from the community and are often of a different race – especially in
+African-American communities.6,7,8 Focus groups and structured group interviews, conducted
+as part of Northeastern Illinois Community Food Security Assessment, found mistrust
+between consumers in African-American neighborhoods in Chicago and corner stores owners
+and managers.9 The differences in race between the corner store consumers and owners
+also may serve to remind the consumers of the lack of business ownership within the
+community, especially in African-American neighborhoods.10 Additionally, stocking healthy
+food options may be difficult for corner stores when many face unique challenges such
+as limited capital, storage equipment, and access to suppliers.
+Despite these challenges, corner stores still present opportunities to improve the availability
+of healthy, affordable food. Corner stores have an existing presence in low-income
+and minority communities that can be leveraged. Since they are smaller in size, they have
+the potential to respond quickly to community needs.
+To gain a deeper understanding of corner stores across suburban Cook County, Illinois,
+the Cook County Department of Public Health (CCDPH) commissioned this assessment
+to supplement the 2012 Food Access in Suburban Cook County report. This assessment
+describes distribution between communities of different races and income levels and the
+kinds of food options offered. Based on the findings, recommendations are also presented.
+
+5
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Methods
+Data Collection
+Since there is no standard trade group definition, this assessment defined corner stores as
+small-scale, independent grocery stores that are smaller than a supermarket, which is defined
+as having less than 2.5 million annual in sales.11 This assessment excluded chain convenience
+stores and stores whose primary classification was as a gas station or liquor store.
+To initially identify corner stores in suburban Cook County, a database of companies
+maintained by Hoover’s, a division of Dun & Bradstreet, was used.12 Review of the database
+led to the creation of an initial list of 360 stores that included food, meat, and produce
+stores with stated sales of less than 2.5 million annual revenue. Deleted from the list were
+duplicates; wholesalers, large chains, dollar stores, restaurants and stores visited in previous
+studies and determined to be supermarkets. In addition, in-person visits showed that 61
+addresses of the 360 were residences – possibly store owners’ homes, 26 were closed, and 33
+were larger supermarkets. Other “store” addresses on the list led to an adult book store, an
+art gallery, restaurants and delis, a disco, and a carpet store. To this original 360 store list, 69
+stores already participating in a corner store intervention project were added, many of which
+were duplicates to stores in the original 360 store list. All together, a total of 208 stores were
+judged to meet the qualifications for surveying. Seven of these were eliminated from the
+analysis after surveys were completed because they had three or more checkout lanes and nine
+or more shopping aisles or rows. Based on previous research, these types of stores, although
+meeting the annual sale limit, are considered small supermarkets. Taking away these seven
+stores resulted in a count of 201 qualified stores that we attempted to survey. Of these, 19
+refused to participate. Of the 201 qualifying stores, a total of 182 corner stores or 91% were
+successfully assessed.
+It should be noted that the original store list was very broad so that any store that could
+possibly be a corner store was included in the list to survey. However, the number of stores
+on the original 360 store Dun and Bradstreet list that were not groceries calls into question
+the use of such lists in general without in person site validation.
+In-person audits were conducted at each corner store to assess store characteristics and the
+food environment. The survey used was adapted from several existing instruments13,14,15,16
+and consisted of eight categories: 1) store characteristics, 2) fruits (fresh, frozen, canned), 3)
+vegetables (fresh, frozen, canned), 4) beans (canned, dried), 5) grains, 6) dairy, 7) beverages,
+and 8) snacks. Store characteristics that may hinder (e.g., in store marketing of unhealthy
+food items) or promote (e.g., accepting Supplemental Nutrition Assistance Program (SNAP)
+benefits) healthy food purchasing were collected.
+In addition, availability, variety and price of the corner store food environment were
+examined. Availability was measured by documenting whether an item was present in the
+store (e.g. present/absent). Variety was assessed by evaluating the different kinds of items/
+products available (e.g. number of types of fruits/vegetables). Price was determined for a
+subset of foods, including a selection of six fruits and vegetables and other food products
+such as dairy foods and snack items. The list of foods included mostly healthy items (e.g.,
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+6
+
+ skim milk vs. whole milk), commonly consumed foods in the USA, and culturally specific
+foods for African-American (e.g., collard greens, okra) and Hispanic (e.g., tomatillo, mango)
+communities.
+To gain a clearer understanding of factors that contributed to differences in food availability,
+we developed a liquor store index score using three store characteristics which were perceived
+to be consistent with a liquor store -- namely cigars sold, rolling papers sold, and liquor
+being the largest permanent outdoor sign. To examine availability of unhealthy foods, we also
+calculated a sugar-sweetened beverage score (sum of gallon size juice drink, single serving
+small juice drink, single serving large juice drink and soda) and poor snack score (sum of
+Flamin’ Hots, regular chips, cookies, and HoHos/snack cakes).
+A team of eight students from Chicago State University were hired to complete the store
+assessment. Assessors attended two trainings. The first was to review the survey, and the
+second was at two corner stores to practice completing the survey. Assessors were then
+“certified” to a level of 90% correct (compared to an assessment completed by an experienced
+lead assessor) on a third store. In addition, 40 stores were assigned to two reviewers in
+order to test for inter-rater reliability.
+
+7
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Analysis
+This assessment aimed to identify corner store locations in suburban Cook County,
+examine the food environment, and compare location and availability patterns to
+community characteristics. Data analysis consisted of both spatial analysis to explore
+the spatial relationship between store locations and community demographics and other
+characteristics and survey analysis to gauge the relationship between food environment
+and community and store characteristics.
+
+Spatial Analysis
+Methods used to identify areas of concentrations of corner stores followed similar methods
+to a previous assessment of food access in suburban Cook County.17 Suburban Cook County
+was divided into five regions. Three of these, the South, Southwest, and West regions, were
+identical to CCDPH district regions. The CCDPH North region was divided into Northwest and Northeast regions since these areas had very different characteristics in previous
+food access studies. The number of stores within each region were tallied and the ratio of
+stores to population within each region was calculated (Table 1). The relationship between
+region and produce availability class was assessed using a chi-square test (Table 2). Distances
+to the nearest corner store, the nearest corner store with any fresh produce, and the nearest
+corner stores with at least 10 fresh produce items of those surveyed were calculated to the
+nearest 100 feet to all residential and mixed residential zones in suburban Cook County.
+Mean distances were then calculated by census block group. Population standardized means
+were then calculated for quartiles based on seven demographic variables: median household
+income; aggregate household income; percent of households below 200% of poverty;
+percent of households that are renters; and percent African-American; Non-Hispanic White;
+and Hispanic (Table 3). This was also done for a distance index that minimized the effect
+of population density on the mean distance to the nearest store (i.e. in general, as population
+density increases, distance to the nearest store decreases), using the formula: distance index
+= mean distance/(1/(log of population density)) (Table 4). Finally, the distance indexes were
+correlated with demographic variables (Table 5). Analyses were run using the Statistical
+Package for the Social Sciences (version 18.0, 2009, SPSS Inc., Chicago, IL) and ArcGIS
+(version 10, 2011, ESRI, Redlands, CA).
+
+Survey Analysis
+Availability and variety of each food item in corner stores overall, as well as by community
+racial/ethnic composition, poverty level, and region were measured using simple frequencies.
+Data were available for defined geographies from the U.S. Census (e.g., census block groups,
+census tracts). Census block group was used to define “neighborhood” and as the unit of
+analysis because it is the smallest spatial scale for which poverty data are available. Racial
+composition of each census block group was defined using Census 2000 data (2000 Census
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+8
+
+ Summary File 1). Based on the racial/ethnic distribution, block groups were categorized
+as greater than 50% White, greater than 50% African-American, and greater than 50%
+Hispanic. Community areas with no majority racial/ethnic group were designated as racially
+mixed. The percentage of individuals in the Census block group who reported annual family
+incomes below 200% of the federal poverty level was used to classify neighborhood poverty
+(2000 Census Summary File 3). Suburban Cook County regions were classified based
+on geographic areas designated by CCDPH. Chi-square and one-way ANOVA tests were
+used to test for differences in the availability and price by racial/ethnic distribution and
+poverty level. Analyses were run using the Statistical Package for the Social Sciences (version
+16.0, 2007, SPSS Inc., Chicago, IL).
+
+9
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+2
+
+ Results
+Spatial Results
+This section presents the spatial results which can be seen in Maps 1-8 as well as Tables 1-5.
+
+Corner Stores Across Suburban Cook County (SCC)
+Map 1 shows the locations of the corner stores that were assessed as part of this report. It
+illustrates the general distribution pattern of corner stores, with concentrations particularly in
+the town of Cicero and the near southern suburbs. Stores were less concentrated in the north
+suburbs.
+
+Corner Stores in Suburban Cook County
+
+MAP 1  
+McHenry
+
+Lake
+
+LAKE MI CHI GAN
+
+Ü
+Kane
+
+CHICAGO
+
+DuPage
+
+Will
+
+Kendall
+Will
+Corner Store
+Municipalities
+Unincorporated
+Chicago
+Forest Preserve
+
+Corner stores for this study
+defined as: Independent or
+small chain food stores with
+4 or less checkout aisles.
+Gas stations are excluded.
+
+0
+
+2.5
+
+5
+
+Miles
+
+Grundy
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+US Census Bureau
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+10
+
+ Corner Stores Compared to Other Store Types in SCC
+Map 2 presents the distribution of Chain Full Service Supermarkets, Discount Supermarkets
+(e.g. Aldi and Save-A-Lot); and Chain Convenience Stores (mainly 7 Eleven stores) for
+comparison with corner stores across suburban Cook County. Particularly in the near southern suburbs, independent corner stores appear to be “filling in” for other store types, in
+particular chain convenience stores. In other areas, particularly the northeastern suburbs
+(i.e. North Shore) independent corner stores are lacking compared to other store types.
+
+Corner Stores in Suburban Cook County
+
+MAP 2  
+McHenry
+
+$
++
+
+# #
+# $
++
+#
+$
++
+
+$
++ #
+#
+$
++ #
++$
+$
++# )
+$
++
+" $
++
+$
+# +
+#
+# #
+
+#
+$
++
+
+#
+
+"
+)
+
+#
+$
++
+
+# #
+)
++"
+$
++$
+
+#
+#
+$
++
+#
+
+Kane
+
+$
++
+
+LAKE MI CHI GAN
+
+#
+#
+
+#
+
+"
+)
+$
++
+
+$
++$
++
+
+"
+)
+
+$
++
++
+$
++$
+$
++ # #
+
+$
++
+$
++
+
+#
+$
++
+#
+$
++
+
+#
+"
+)+
+# $
+
++
+$
++ $
+$ "
++
+)#
+
+"
+)
+
+$
++
+
+$
++
+"
+)$
++
+
+Lake
+
+#
+$
+$
++$
++
++$
++
+
++$
+$
++$
++
+
+$
++
+
+$
++
+
+$
++
+
+Ü
+
+#
+
+$
++
++$
+# $
++
+#
+#
+)
++"
+$
++$
+#
+$
++
+#
+# # $
++
+$
++
+$
++
+$
++ $
+$
++
+$
++
+$
++
+##
+# +
+$
++
+#
+"
+)
+"
+)
+#
+#
+$
++
+#
+$
++
+# $
++#
+$$
++
++
+"
+#
+) +
+$
++$
+$$
++
++
+#
+$
++
+# $#
++
+#
+$
++
+"
+)
+# $
++ #
+#"
++
+)
+#$
+#
++
+$
++$
+
++
+$
++ $
+# #
+
+"
+)
+
+$
++
+#
+
+$
++
+##
+
+$
++ +
+)$
++$
+$
++"
+# #
+#
++
+$
+$
++$
++
+"
+)#
+# ##
+$
++
+"
+)
+#
+$
++
+#$
++
++$
+#
+"
+)
+$
++"
+)
+$
++ #
+$
++
+##
+# #
+$
++
+##
+$
++
+"
+)
+$
++
+$
++
+#$
++
+## #
+#$ #
++
+#
+#
+$
++ $
+#
+++
+"
+)$
+#
++
+#$
+)#
+$
++"
+
+DuPage
+
+CHICAGO
+
+"
+)
+
+$
++
+$
++
+$
++
+
+"
+)
+
+$
++
+$
++
+$
+# +
+$
++
+"
+)
++
+$ # $
++
++
++# )
+"$
+#$
++$
+$ #
++
+#
+# #$
++
+#
+"
+) #
+"
+) # $
++
+# $
++
+"
+)
+"
+)
+$
++
+#
++
+$
++# $
+$
+"
++
+)
+$
++
+#
+
+)
+## "
+
+#
+Will
+
+$
++
+"
+)
+$
++
+
+Corner stores for this study
+defined as: Independent or
+small chain food stores with
+4 or less checkout aisles.
+Gas stations are excluded.
+
+$
++
+"
+)
+
+#
++
+$
+#$
++
++"
+)
+$
++$
+
+Kendall
+Will
+
+Store Types
+Corner Stores
+
+Municipalities
+
+$
++
+
+Full Service Supermarkets
+
+Chicago
+
+"
+)
+
+Discount Groceries
+
+Unincorporated
+
+#
+
+Chain Convenience Store
+
+Forest Preserve
+
+#
+$
++
+#$
++
+"
+)
+#
+$
++#
+
+"
+)
+#
+#
+
+#
+
+2.5
+Miles
+
+5
+
+$
++
+
+"
+)
+
+$
+$
++
++
+
+)
+$
++"
+
+"
+)
+
+#
+
+$
++
+$
++
+$
++
+
+$
++
+
+0
+
+#
+"
+)
+
+"
+)#
+$
++
+
+#
+
+$
++
+$"
++
+)
+$
++
+
+#
+
+"
+)
+
+"
+)
+
+"
+)
+
+$
++
+"
+)
+$
++
++$
+
++
+$
++$
+$
++
+#
+
+$
++
+"
+)
+
+#
+
+Grundy
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+US Census Bureau
+
+11
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Corner Store Locations Compared to Poverty in SCC
+Map 3 superimposes the percent of population living in households that have annual
+incomes below 200% of the federal poverty level with the corner store locations. While
+corner stores are not confined to areas with higher levels of poverty, it is apparent that they
+are more often concentrated in these areas.
+
+Corner Stores in Suburban Cook County
+
+MAP 3  
+McHenry
+
+Lake
+
+LAKE MI CHI GAN
+
+Ü
+Kane
+
+CHICAGO
+
+DuPage
+
+Will
+
+Kendall
+
+Percent Below FPL
+0-9%
+
+Will
+
+10-19%
+20-29%
+30%+
+Corner Stores
+Forest Preserve
+
+Corner stores for this study
+defined as: Independent or
+small chain food stores with
+4 or less checkout aisles.
+Gas stations are excluded.
+
+0
+
+2.5
+
+5
+
+Miles
+
+Grundy
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+US Census Bureau
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+12
+
+ Corner Store Locations by Region in SCC
+Maps 4-8 present a clearer pattern of the within-region distribution of corner stores. In these
+maps, corner store symbols are sized by the number of produce varieties available. Census
+tract classification for African-American and Hispanic areas is also highlighted. The Northeast region (Map 4) shows only three corner stores that carry a large amount of produce
+and an overall low concentration of corner stores. The Northwest region (Map 5) shows a
+wide variety of independent and chain supermarkets, as well as concentrations of corner
+stores with larger amounts of produce in the eastern portion of this zone, including those in
+the municipalities of Des Plaines, Wheeling, and southern portions of Arlington Heights.
+It should be noted that some of these stores specifically focus on serving the Asian-American
+population in this region. The West region (Map 6) is characterized by a large number
+of corner stores with relatively large amounts of produce especially in the predominantly
+Hispanic areas of Cicero and Berwyn, although such stores also exist in areas of Maywood,
+Melrose Park, and Schiller Park. The Southwest region (Map 7) is characterized by corner
+stores with larger produce sections in the predominantly Hispanic areas of Summit and
+Blue Island, with lower amounts of produce at corner stores elsewhere in the region. Finally,
+the South region (Map 8) shows a large number of corner stores with little or no produce,
+with a few scattered stores carrying larger amounts of produce, mainly in areas that are not
+predominately African-American.
+
+13
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Produce Availability, Race and Ethnicity
+
+Sunset Ridge
+
+Hibbard
+
+Hibbard
+
+t
+oin
+sP
+os
+
+r
+
+Exit 39a
+
+50
+
+Gr
+
+Crawford
+
+Sheridan
+
+50
+
+50
+
+Pulaski
+
+Glenwood
+
+Clark
+
+Western
+
+Unincorporated or Not in Region
+
+14
+
+41
+
+19 19 RamStores
+19Chain Convenience
+p
+
+El
+
+st
+
+on
+
+Lawrence
+
+Damen
+
+§
+¨
+¦
+94
+
+Montrose
+
+California
+
+Discount Groceries
+
+Keeler
+
+Chain Full Service Supermarkets
+Montrose
+
+"
+)
+
+Pulaski
+
+Ashland
+
+Kimball
+
+Chicago
+
+Foster
+
+Kedzie
+
+Exit 43a
+
+Wilson
+FandV191
+
+Kostner
+
+ge
+
+African-American above 50%
+
+Forest Preserve
+
+$
++
+#
+*
+
+2
+
+North East Region Municipalities
+
+Pulaski
+
+50
+
+10 - 19
+
+Ashland Ashland
+
+ick
+rm
+
+Mc
+co
+
+50
+Exit 41b
+
+0
+
+Rid
+
+14
+
+Ashland
+
+Exit 39b
+
+Carpenter
+
+50
+
+Miles
+
+20 - 48
+
+Lawrence
+
+Central
+
+Austin
+
+Narragansett
+
+1
+
+Clark
+
+Oak Park
+
+41
+
+0.5
+
+* of 48 Items Surveyed
+19
+
+19
+
+co ln
+Lin
+
+43
+
+0
+
+ee
+
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+American Community Survey 2005 - 2009, US Census Bureau
+
+Pratt
+
+$
++
+
+Pratt
+
+5-9
+
+Foster
+
+Laramie
+
+Gunnison
+
+Lunt
+
+Lincolnwood
+
+1-4
+
+Hig
+g ins
+
+Forest
+
+41
+
+Old
+t
+in
+Po
+ss
+
+ro
+
+Nil
+
+41
+
+es
+
+G
+
+Ce
+
+n te
+
+Central
+
+t
+oin
+sP
+os
+Gr
+
+al
+Centr
+al
+
+Gettysburg
+
+Nagle
+
+43
+
+Centr
+
+43
+
+43 43
+
+Ridge
+
+Hibbard
+
+Harms
+
+Wagner
+
+14
+
+Oz
+
+43
+
+Ridge
+
+43
+
+43 43
+
+Harlem
+
+43
+
+43
+43
+43
+
+43
+
+ar
+
+k
+
+st
+
+Touhy
+
+Touhy
+
+Touhy
+
+Fruits and Vegetables Available *
+
+ton
+
+uk
+
+s
+
+14
+
+wa
+
+43
+
+Asbury
+
+Central
+
+43
+
+Elm
+
+Harlem
+
+43
+43
+
+Lincoln
+
+ce
+
+ep
+en
+de
+n
+
+Harlem Harlem
+
+14 14
+
+De
+
+Alvin
+
+Greenwood
+
+In
+d
+
+Washington
+
+Ashland
+Berry
+
+Mccormick
+
+Lee
+
+Shermer
+
+Pfingsten
+Pfingsten
+
+te n Pfingsten
+
+e
+lov
+
+Greenwood
+
+Central
+
+Pfingsten
+
+Landwehr
+
+Landwehr
+Landwehr Landwehr
+
+Landwehr
+
+Pfing
+s
+
+Canfield
+
+No M
+rth
+we
+
+Touhy
+
+Devon
+
+Mil
+
+Canfield
+
+Gunnison
+
+Pratt
+
+50
+
+Pfingsten
+
+Ta
+k
+
+Ramp
+
+ar
+
+Cumberland
+
+Els
+
+rs
+ge
+
+Ro
+
+Touhy
+
+Clark
+
+a
+
+$
++
++$
+
+Howard
+
+Howard
+
+Glenwood
+
+Foster
+
+Howard
+
+an
+
+Courtland
+
+South
+
+She rid
+
+171
+
+#
+*
+
+an
+
+Delphia
+
+$
++
+
+Main
+
+$
++
+
+Oakton
+
+#
+*
+
+Crain
+
+e rid
+
+Greenwood
+
+Main
+
+$
++
+
+Sh
+
+East River
+
++
+Evanston $
+Dempster
+
+Je rsey
+
+East River
+
+#
+*Elgin
+
+Ridg e
+
+so n
+
+Emerson
+
+Chicago
+
+Wilkin
+
+ick
+
+ay
+
+rm
+
+nB
+
+co
+Mc
+
+in
+
+ee
+
+Gr
+
+Kennedy
+
+ay
+
+Dee
+
+nB
+
+Dee
+
+ee
+
+Gr
+
+Dee
+
+ay
+
+Riverside
+
+nB
+ee
+
+River
+
+Gr
+Elg
+
+Skokie
+
+41
+
+River
+
+ay
+
+East River
+
+nB
+
+East Ri
+ver
+
+an
+
+ee
+Gr
+
+$
++
+
+Central
+
+Church
+Davis
+
+"
+)
+
+ee
+
+12
+
+id
+
+er
+
+o is
+Illin
+
+$
++
+
+#
+*
+Golf
+
+Golf
+
+Searle
+
+uk
+
+Ruby Ruby
+
+Sh
+
+45
+
+ay
+
+45
+
+nB
+
+Graceland
+
+ee
+
+12
+
+Gr
+
+ton
+
+Corner
+stores for this study
+"
+)
+defined as: Independent or
+Montrose
+Montrose
+small chain food
+stores with
+4 orve less checkout aisles.
+r
+e
+Gas
+stations
+r es
++
+19
+19are excluded.
+19
+t P$
+
+re
+Fo
+
+Lake
+
+Isabella
+
+Dempster
+
+#
+*
+
+wa
+
+19
+
+#
+*
+
+Dempster
+
+Oakton
+
+Mil
+
+Montrose
+
+w Wilmette
+
+Old Orchard
+
+$
++
+#
+*
+
+#
+*
+
+igh
+
+Lawrence
+
+an
+
+ay
+
+Leh
+
+Lawrence
+
+$
++
+
+nvie
+
+Golf
+
+n
+
+$
++
+14
+
+Els
+
+Ta lcott
+
+Foster
+
+Gle
+
+ol
+nc
+
+$
++$
++
+
+Ha
+
+Exit 81b
+
+72
+
+$
++
+
+Li
+
+Touh y
+rts
+
+in
+ed
+
+72
+
+Sunset
+
+#
+*
+Kenilworth
+
+Wilmette
+
+Exit 35
+
+58
+
+igh
+
+72
+
+Hill
+
+Lake
+
+Leh
+
+$
++#
+*
+
+$
++
+
+41
+
+igh
+
+Touhy
+
+Devon
+
+#
+*
+
+Indiana
+
+Ü
+
+Pine
+
+41
+
+s
+
+Leh
+
+Touhy
+
+rid
+She
+
+nB
+
+pp
+
+Harm
+
+12
+
+an
+ee
+Gr
+
+Ha
+
+Callie
+
+Bessie Coleman
+
+rid
+
+e
+ta g
+
+p
+
+Church
+
+Lincoln Main
+
+ee
+
+19
+
+e
+Sh
+
+n
+Fr o
+
+Hap
+58
+
+uk
+wa
+
+"
+)
+
+Touhy
+
+Pine
+
+Glenview
+
+Harrison
+
+Howard
+
+"
+)
+
+43
+
+19
+
+ay
+31
+ith
+
+Mil
+
+ott
+
+Montrose
+
+River
+
+25
+th
+
+72
+
+Ta lc
+
+$
++
+
+River
+
+25th
+19
+
+Lake
+
+Simpson Golf Golf
+
+Golf
+
+Oakton
+
+14
+
+14
+
+p
+Lawrence
+
+19
+
+72
+
+e
+
+Balmoral
+
+R am
+
+mp
+
+rth
+w
+Bu est
+ss
+e
+
+$
++
+Illinois
+Park Ridge
+
+De
+
+d
+
+No
+
+$
++
+
+ee
+
+it 1
+
+e
+
+D
+
+Ex
+
+190
+
+Ra
+
+Exit
+
+ss
+
+43
+
+72
+
+#
+*
+Rosemont
+
+§
+¨
+¦
+
+$
++
+
+21
+
+Bu
+
+Devon
+
+s
+
+p
+
+Devon
+
+ine
+s Pla
+
+am
+
+Lake
+
+Morton Grove
+
+Ramp
+
+Will
+
+LAKE MICHIGAN
+
+Tower
+
+Willow
+
+Glenview Glenview
+
+ckw
+
+Waukegan
+
+72
+
+r De
+
+R
+
+Lake
+
+Be
+
+Beckwith
+
+21
+
+#
+*
+
+Rive
+
+Zemke
+
+Simpson Simpson
+
+er
+
+21
+
+er
+
+72
+
+Tower
+
+94
+
+Golf
+
+Kraft
+
+Niles
+43
+#
+*
+$
++
+
+Oakton
+
+Kendall
+
+Winnetka
+
+§
+¨
+¦
+
+Lake
+
+Glenview
+
+She rm
+
+$
++
+
+st
+
+Riv
+
+Illinois Touhy Illinois
+
+Illinois
+
+Touhy
+
+Dempster
+
+we
+Oakton
+
+12
+
+90
+
+Oakton
+
+iver
+
+§
+¦
+¨
+
+Ballard
+
+rth
+
+er R
+
+12
+
+Oakton
+
+58
+)
+$
++ "
+
+No
+
+e
+
+Riv
+
+"
+)
+
+14 14
+
+$
++
+
+Lake
+
+Central
+
+Cook
+
+ie
+
+#
+*
+
+er
+
+14
+
+r
+
+Rive
+
+ss
+
+h
+
+he rm
+er S
+
+r
+
+nd
+Ra
+
+Rive
+
+Ballard
+
+Old Willow
+
+Pleasant
+
+Chestnut
+
+Leh ig
+
+She rm
+
+$
++
+
+Glencoe
+
+Winnetka
+
+igh
+
+iot
+Patr
+
+45
+
+$
++
+
+p
+
+$
++
+
+e
+
+$
++
+
+Central
+
+Terrace
+
+R am
+
+Bu
+
+Central
+
+58
+
+Algonquin
+
+$
++
+$
++
+
+Central
+
+DuPage
+
+Illinois
+
+k
+Sko
+
+Glenview Lake
+
+y
+
+Northfield $
++
+
+43
+
+Lak
+
+21
+
+45
+Thacker
+
+s
+ke
+
+$
++
+
+Leh
+
+21
+
+45
+
+Elk
+
+Ra
+nd
+
+Ravine
+
+21
+
+45
+14
+
+12
+
+La
+
+iot
+
+Lehigh
+
+Glenview
+
+Illinois
+
+3
+
+Patr
+
+Willow
+
+$
++
+
+#
+*
+
+68
+
+okie
+
+Techny Techny
+
+rs
+de
+un
+Fo
+
+Sande rs
+
+21
+12
+
+Voltz
+
+School
+
+$
++
+
+68
+
+Sk
+
+43
+
+Techny
+
+Willow
+
+68
+
+Lake
+
+Kane
+
+Ba
+
+43
+
+45
+
+58
+
+68
+
+d ow
+Walters
+
+#
+*
+
+Glenview
+
+Central
+
+n
+
+okie
+
+Mea
+
+Walters
+
+294
+
+ee
+
+43
+
+Northbrook
+
+§
+¨
+¦
+
+Gr
+
+Sk
+
+68
+
+#
+*
+
+Techny
+
+45
+
+41
+41
+okie
+
+43
+
+68
+
+$
++
+
+Ramp
+
+$
++
+
+43
+
+Maria
+
+McHenry
+
+County Line
+
+Sk
+
+$
++
+
+Wagner
+
+ed
+
+a
+
+Lake
+
+43
+
+s
+ders San der
+nders San
+Sande rs Sa
+
+County Line
+
+nB
+ee
+Gr
+
+Discover
+
+Deerfield
+MAPNorth
+4   Produce
+Availability,
+Race and
+Ethnicity,
+Northeast
+Region, SCC
+East
+Suburban
+Cook
+County
+Corner
+Stores
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+§
+¨
+¦
+
+90
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+14
+
+ Sandbloom
+
+72
+
+er
+
+Kane
+
+W
+at
+
+Elgin
+
+58 Chicago
+
+Duncan
+
+72
+
+Lake Marian
+
+Kings
+
+at
+
+e
+
+68
+
+20
+
+es
+
+sin
+
+Bu
+s
+
+Bartlett
+
+20
+
+19
+
+72
+
+20
+
+Bartlett
+
+58
+
+Elgin
+
+"
+) $
++
+
+58
+
+Congdon
+
+72
+
+62
+
+62
+
+19
+
+Schau
+
+90
+
+58
+
+20
+
+mburg
+
+§
+¨
+¦
+
+Trillium
+
+68
+
+road
+
+Rail
+
+11
+
+Smith
+
+Chain Full Service Supermarkets
+Chain Convenience Stores
+
+#
+
+58
+
+#
+
+"
+)
+
+Devon
+
+#20
+
+P ark
+
+oin
+
+t
+
+Central
+
+20
+
+19
+
+Bode
+
+Army Trail
+
+#
+
+Lies
+
+#
+
+Wise
+
+#
+
+Miles
+
+#
+
+State
+
+x
+
+lfa
+
+$
++
+
+Edgewater
+
+2
+
+Waln ut
+
+20
+
+r
+Bro ke
+
+Elgin Ohare
+
+Nerge
+
+Wise
+
+$#
++
+
+"
+)
+
+#
+
+$
++
+$
++
+
+nor
+
+$
++
+
+Mccon
+
+"
+)
+
+Woodfield
+
+58
+
+Blo
+
+355
+
+§
+¨
+¦
+
+hu rs
+t
+
+ch
+
+om
+
+19
+
+Hamilton
+
+Thornda le
+
+Pin e
+
+14
+
+Kir
+
+14
+
+Palatine
+
+off
+
+$
++
+
+0
+
+29
+
+le
+da
+ing
+
+Division
+
+e
+
+#
+
+o ff
+
+"
+)
+
+#r
+
+me ie
+
+Lan d
+
+Oakton
+
+Point
+
+Poi nt
+
+62
+
+#
+
+290
+
+ridg
+ainb
+
+e
+
+20
+
+Willow
+
+83
+
+"
+)
+
+14
+
+Mount Prospect
+
+14
+
+$
++
+
+Euclid
+
+$
++
+
+Kensington
+
+Lonnquist
+
+3rd
+
+Pratt
+
+Dempster
+
+$
++
+
+$
++
+
+58
+
+72
+
+#
+
+12
+
+Fr a
+n
+
+Zemke
+
+Illinois
+
+p
+
+58
+
+N
+
+#
+
+58
+
+Ex
+
+it 1
+
+d
+
+g ins
+
+Hig
+
+Lawrence
+
+Ramp Balmoral
+
+Fullerton
+
+$
++
+
+19
+
+th
+
+25
+
+klin
+
+14
+
+72
+
+D
+
+Central
+
+"
+)
+
+Ta lc
+
+$
++
+
+72
+
+ott
+
+we
+
+t
+$
++ s$
++
+
+No
+rth
+
+Oakton
+
+14
+
+Ballard
+
+Devon
+
+19
+
+$
++
+
+)
++"
+$
++ $
+$
++
+
+$
++
+
+Lawrence
+
+$
++
+
+Techny
+
+Illinois
+
+ee
+
+$
++
+
+$
++
+
+$
++
+Gra nd
+
+Indiana
+
+Belmon t
+
+19
+
+LAKE MICHIGAN
+Montrose
+
+Grand
+
+Fra
+n
+
+Cook
+
+Grand
+
+Fullerton
+
+ss
+
+Glenview
+
+Ballard
+
+294
+
+§
+¨
+¦
+
+$
++
+
+Willow Willow
+
+Techny
+
+Lake Lake
+
+Oakton
+
+Bu
+
+68
+
+Walters
+
+or 14
+th
+w
+e
+es
+t
+Algonquin
+
+14
+
+#Rand
+
+Schlitz
+
+m
+
+klin
+
+DuPage
+
+go
+
+ar
+
+Ra
+
+Lake
+
+294 Will
+
+C
+
+#
+72
+#
+
+"
+)
+
+$
++
+Howar d
+
+§
+¨
+¦
+
+ai
+n
+
+Grundy
+
+Grand
+Kendall
+
+n
+
+M
+
+McHenry
+
+Gre Kane
+e
+Jefferson
+
+12
+
+Central
+
+Des Plaines
+#
+Oakton
+
+# Oakton
+$
++
+Wille
+72
+
+State 58
+14
+
+12
+
+Central
+
+Kensington
+
+Thacker Thacker
+
+14
+
+#
+
+Camp Mcdonald
+
+Palatine
+
+$
++
+
+Maria
+
+Western
+
+er
+
+Rose
+
+la
+Vil
+
+18
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+Fullerton
+
+3rd
+
+Devon
+
+Wheeling
+
+68
+
+Wolf Wo lf
+
+Prospect Heights
+
+Lincoln
+
+72
+
+#
+
+$
++
+
+Palatine Road Express
+
+Central Central
+
+14
+
+$
++
+
+14
+
+"
+)
+
+83
+
+Camp Mcdonald
+
+$
++
+
+Thomas
+
+$
++"
+)
+
+$
++
+
+Thorndale
+
+Devon
+
+§
+¨
+¦
+20
+
+#Hintz
+
+$
++
+
+Elk Grove Village
+
+#
+$
++
+$
++
+
+$
++
+
+Central
+
+ch h
+
+Kir
+
+DuPage
+rc
+Pie
+
+ale
+
+Th or nd
+
+68
+
+$
++#$
+$
+++12
+
+Oakton
+
+14
+
+Thomas
+
+Hintz
+
+"
+)
+
+$
++
+
+83
+
+73
+
+Arlington Heights
+
+#
+
+Biesterfield
+
+Lake Cook
+
+Buffalo Grove
+
+Palatine
+
+53
+
+$
++
+
+14
+
+12
+
+Rolling Meadows
+
+#
+
+$
++
+
+Euclid
+
+Wiley
+
+$
++$
++$
++
+
+Palatine
+
+Schaumburg
+
+$
++Wise
+
+$
++
+
+"
+) $
++
+
+62
+
+$
++
+
+#
+
+Co
+
+#
+
+14
+
+Corner stores for this study
+ArmIndependent
+defined as:
+or
+y Trail
+Army
+small chain food stores Trail
+with
+4 or less checkout aisles.
+Gas stations are excluded.
+
+Schick
+
+0.5
+
+Army Trail
+
+0
+
+Ü
+Central
+
+e st
+
+5
+
+Palatine
+
+68
+
+yte
+cliff
+
+Wh
+
+Hillcr
+
+Central
+
+1
+
+Ohare
+tt Elgin
+
+20
+
+Pra
+
+#
+
+Schaumburg
+
+#
+
+Hassell
+
+Central
+
+62
+
+14
+
+#
+
+Inverness
+
+Baldwin
+
+68
+
+Lake
+
+Wolf
+
+171
+
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+American Community Survey 2005 - 2009, US Census Bureau
+
+* of 48 Items Surveyed
+
+Forest Preserves
+
+DuPage
+Unincorporated or Not in Region
+
+Chicago
+
+North West Region Municipalities
+
+brook
+
+#
+
+$
++
+$
++
+
+$
+$+
++
+
+#
+
+$
++
+
+Gre en
+
+20
+
+Hispanic above 50%
+
+Stearns
+
+North
+
+# 20
+
+Irvin g
+
+p
+en s
+
+Lakewood
+
+$
++
+
+Bradwell
+
+68
+
+mp
+
+Ra
+
+#
+
+12
+
+64 64
+
+$
++#
+
+Gre
+
+Stud io
+
+Rose
+
+68
+
+Hoffman Estates
+
+Shoe Factory
+
+72
+
+68
+
+59
+
+South Barrington
+
+62
+
+68
+
+59
+
+Hough
+
+Barrington
+
+Rose
+
+64
+
+Discount Groceries
+
+B
+
+"
+)
+
+$
++
+
+20 and over
+
+10 - 19
+
+5-9
+
+1-4
+
+0
+
+19
+
+62
+
+Penny
+
+62
+
+59
+
+Streamwood
+
+#
+$
++
+
+58
+Bode
+
+$
++
+
+68
+
+62
+
+59
+
+Otis
+
+Barrington Hills
+
+Fruits and Vegetables Available
+*
+29
+
+Kirk
+
+D
+
+St
+
+Dwight
+
+Main
+
+Middle
+
+72
+
+d
+
+Hazar
+
+Golfview
+
+Willia ms
+
+58
+
+tone
+
+Bolz
+
+Essex
+
+Old Sutton
+Forbs
+
+25
+Willard
+
+Bartlett
+
+Bartlett
+Bartlett
+
+Bateman
+
+Beverly
+Munger
+
+Shales
+Sha les
+Powis
+
+Park
+
+Pra iri
+eS
+59
+
+59
+
+Bartlett
+
+Bart
+lett
+
+Barrington
+Barrington
+
+Smith
+
+North West Suburban Cook County Corner Stores
+
+County Farm
+
+25
+
+unh
+am
+
+County Farm
+
+Oak
+
+6
+
+14
+
+Bartels
+
+Brinker
+Fair Oaks
+
+Freeman
+Springinsguth
+Gary
+
+Gary
+
+Ela
+Mitchell
+
+Ela
+
+Jones
+
+Th oreau
+
+Quentin
+Quentin
+
+Hicks Hicks
+14 14
+
+Wilke
+
+Wilke
+
+New Wilke
+
+62
+
+r
+
+Riv
+
+Kirk
+
+ive
+River R
+
+Gary
+
+Rodenburg
+
+Roselle
+
+4
+
+Salem
+
+Schmale
+
+Circle
+
+Plum Grove
+
+Glen Ellyn
+
+Arling
+
+Smith
+Me
+
+Medinah
+
+Meier
+
+Plum Grove
+
+Meacham
+h
+din
+a
+
+Fronta ge
+
+Martingale
+
+Rohlwing
+
+ema
+n
+
+Arlington Heights
+
+ton Heigh
+ts
+
+Wood Dale
+
+Mall
+
+Swift
+355 355 355
+
+355
+
+Exit 5
+
+Lombard
+Flora
+
+ert
+
+Mill Parkside
+
+b
+Gil
+
+Mill
+
+Barry
+
+ison Addison
+Addison
+
+Main
+
+Wood Dale
+
+Park
+
+Add
+
+Villa
+
+Schoenbeck
+Linn
+
+Windsor
+
+83
+83
+
+Buffalo Grove
+Busse
+
+Busse
+
+83
+83
+
+31
+290
+
+nd
+
+Rohlwing
+
+te l
+Mit
+
+River
+
+Church
+
+Ring
+
+Tonne
+
+25th
+
+171
+
+Gr
+a
+
+Wheeling
+East
+
+Wolf
+
+Wolf
+Wo lf
+
+Wolf
+
+83
+
+83
+83
+
+66
+
+83 83
+
+25
+Shales
+
+Elmhurst Illinois Illinois Illinois
+
+Fo rb s
+
+12
+
+es
+
+York
+
+ur en
+gton
+Huntin Volid
+
+Wolf
+
+Huntington
+Mount Prospect
+
+45
+45
+
+Van B
+s
+
+r
+
+Beau
+
+er
+
+Pla in
+
+e
+
+County Line
+
+ar
+
+so
+
+Graceland
+
+Se
+
+12
+12
+
+Ela
+ind
+
+g
+
+12 12
+
+Ela
+
+W
+
+12
+
+Lee
+
+2
+
+12
+
+elin
+
+River
+
+D es
+
+De
+
+Ruby
+
+1
+12
+
+Landwehr
+
+12
+
+Whe
+
+Wolf
+
+Dee
+
+y
+
+Ra
+
+Riverside
+
+nr
+
+45
+
+5
+45 4
+
+Dee
+
+45
+
+21
+
+Riv
+
+Dee
+
+12
+
+Wolf
+21
+
+er
+Riv
+
+River
+
+e
+ch
+f
+
+ol
+W
+
+21
+
+Greenwood
+
+45
+Pfingsten
+
+er
+
+M
+
+45
+
+Sanders
+
+so n
+
+te
+Northga
+
+Sanders
+nd
+
+Wilkin
+
+45
+
+She rm
+
+s
+
+Shermer
+
+Sander
+
+21
+Ashland
+
+45
+
+43
+Courtland
+
+15
+43
+
+East River
+
+43
+171
+
+Produce Availability, Race and Ethnicity
+
+$
++
+
+90
+
+§
+¨
+¦
+
+MAP 5   Produce Availability, Race and Ethnicity, Northwest Region, SCC
+
+Gle n Ellyn
+
+4
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Produce Availability, Race
+§ and Ethnicity
+¦
+¨
+
+§
+¦
+¨
+West Suburban
+Cook County Corner Stores
+
+California
+
+Oakley
+
+Damen
+Warren
+
+50
+
+en
+gd
+
+Damen
+
+Western
+
+Damen
+
+Kedzie
+
+Damen
+
+O
+
+Western
+
+California
+
+Sacramento
+
+California
+
+Sacramento
+
+Western
+
+er
+
+43rd
+
+43rd
+
+Garfield
+
+59th
+
+0
+
+Miles 63rd
+
+43
+
+$
++
+
+a
+Chain
+Full Service Supermarket
+St
+
+"
+)
+
+Discount Groceries
+
+#$
++
+
+Chain Convenience Stores
+
+Kedzie
+
+Chicago
+79th
+
+79th
+
+Unincorporated or Not in Region
+Forest Preserves
+
+"
+) Surveyed
+* of 48 Items
+
+t
+es
+hw
+
+So
+ut
+
+50
+
+$
++
+
+87th
+
+74th
+
+West Region Municipalities
+
+Kedzie
+
+$
++
+$
++
+
+African-American over 50%
+
+Central
+
+e
+at
+
+67th
+
+71st
+Hispanic over 50%
+
+77th Ramp
+
+Pulaski
+
+76th
+
+Marquette
+
+2
+63rd
+
+Damen
+
+Pulaski
+
+"
+)
+$
++
+$
++
+
+1
+
+Kedzie
+
+Marquette
+
+Marquette
+
+59th
+
+0.5
+
+Western
+
+Kedzie
+
+55th
+
+5-9
+
+te
+
+35th
+
+Pershing
+
+Kedzie
+
+Pulaski
+
+47th
+
+31st
+
+51st
+
+1-4
+
+20 - 48
+
+18th
+
+Cermak
+d
+la n
+e Is
+Blu
+
+Arch er
+
+Airp ort
+
+43
+
+Ar
+
+66th
+
+St
+
+Roosevelt
+
+California
+
+§
+¨
+¦
+55
+
+63rd
+
+10
+- 19
+79th
+
+290
+
+California
+
+Exit
+
+2 87
+
+5
+
+47th
+
+§
+¨
+¦
+
+55
+
+Kedzie Kedzie
+
+Pershing
+
+0
+
+Ridgeland
+
+Damen
+
+California
+
+Kedzie
+Kimball
+
+Kedzie
+Sacr ame nto
+
+Kedzie
+Homan
+
+Pulaski
+
+Kedzie
+
+Independence Hamlin
+
+Kostner
+
+Kostner
+
+50
+50
+
+36th
+
+63rd
+
+63rd
+
+43
+
+n
+
+Washington
+
+24th
+
+$
++
+
+$
++
+
+ur
+
+50
+
+50
+
+Laramie
+
+Central
+
+50
+
+26th
+
+43
+
+Gilber t
+
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+American Community Survey 2005 - 2009, US Census Bureau
+
+Ravenswood
+
+Pulaski
+
+Pulaski
+
+Keeler
+
+Kolmar
+
+Laramie
+
+50
+
+Central
+
+Laramie
+
+$
++
+$
++
+31st
+$
++
+
+43 43 43
+
+87th
+
+§
+¨
+¦
+
+bo
+
+Division
+
+Cermak
+
+ch
+
+Central Central
+
+55th
+
+p
+
+171
+17
+1
+
+le
+da
+
+17
+
+p
+
+ly
+
+Kedzie
+
+Austin
+
+Central
+Austin
+Austin
+
+Forest View
+
+55th
+
+79th
+"
+)
+Corner stores for this study
+defined as: Independent or
+294
+small chain food stores with
+4 or less checkout aisles.
+Gas stations are excluded.
+
+Ram
+
+Roberts
+
+1
+
+# 35th
+
+28
+Exit
+
+Ü
+
+C
+
+on
+
+64
+
+den
+
+Cermak
+
+Stickney
+
+1
+
+w
+
+Austin
+
+Oak Park
+Oak Park
+
+Ridgeland
+
+#
+
+Ra
+m
+
+East
+
+illo
+
+Harding
+
+Central
+
+Narragansett
+Oak Park
+
+Narragansett Narragansett
+
+Kenilworth
+
+43
+43
+
+43
+43 43
+
+Cicero
+
+"
+)
+
+th 25th
+26
+
+26th
+
+Douglas
+
+Og
+
+Central
+
+East
+
+den
+
+st
+
+16th
+
+16th
+
+Cermak 22nd
+
+65th
+
+Ramp
+
+W
+
+Kostner
+
+43
+
+43
+43
+
+43
+43
+
+43
+
+Lathrop
+
+Des Plaines
+17
+1
+
+East
+
+Ramp
+
+1
+
+La
+
+75th
+
+16th
+
+Fruits and Vegetables Available *
+
+wn
+
+* 48 Surveyed
+
+Exit 43a 50
+
+Nagle
+
+43
+
+171
+171
+
+171
+
+171
+171
+171
+
+Prairie
+
+12
+
+East
+
+17
+
+$
++
+
+et
+
+Exit 24a
+
+55
+
+Hodgkins
+
+Countryside
+
+t
+
+W
+o lf
+
+5th
+
+Maple
+
+Park
+et
+
+li
+Jo
+
+#
+$
++
+
+er
+
+87th
+
+p
+
+d
+
+Lake
+
+Roosevelt
+
+Cermak
+
+El
+
+Kankakee
+
+an
+
+Madison
+
+Pershing Pershing Pershing 39th
+
+li
+Jo
+
+am
+
+Gr
+
+Corcoran Lake
+
+Jackson
+
+$
++
+
+#
+
+47th
+
+LaFullerton
+Salle
+Grundy
+
+West End
+
+17
+
+Wolf
+
++
+"
+)$
+
+t
+
+55th
+
+li
+Jo
+t
+lie
+Jo 63rd
+
+ilb
+
+County Line
+
+d
+
+Gilbert G
+
+83rd
+
+iel
+
+"
+)
+
+lie
+Jo
+
+Belmont
+
+ke
+e
+
+Chicago
+
+Berwyn
+#
+
+et
+
+McCook
+
+12
+
+Burr Ridge
+
+#
+
+ld
+
+fie
+
+in
+Pla
+
+Lyons
+#
+47th
+
+R
+
+mp
+
+#
+
+Jo
+
+#
+
+Ra
+
+t
+lie
+
+inf
+
+34
+
+au
+
+Will
+
+64
+
+#
+
+Og
+
+34
+
+34 34
+
+$
++
+
+#
+
+Cermak
+
+12
+
+Wolf
+
+Wolf
+
+Garfield
+Madison
+
+Pla
+
+Exit 276a
+
+91st
+
+34
+
+$
++
+
+Willow Springs Willow Springs
+
+Wolf
+
+County Line
+
+Wolf
+
+Wo lf
+
+Indian Head Park
+
+eld
+
+eld
+infi
+
+Pla
+
+55th
+
+55th
+
+Riverside
+
+ilw
+
+Armitage
+
+#
+
+Lake
+
+19th
+
+$
++
+#
+
+Brookfield
+
+$
++
+
+#
+
+$
++
+
+t
+
+M
+
+Kendall
+
+Airp or t
+
+55th
+
+Charleston
+
+infi
+
+9th
+
+17th
+
+17th
+
+25th
+
+Oak
+
+nd
+
+La Grange
+
+47th
+
+Gilbert Gilbert
+
+47th
+
+22nd
+
+DuPage
+
+Belmont
+
+Gra nd
+
+#$
++
+
+16th
+
+North Riverside
+
+19
+
+p
+
+Wrightwood
+
+Washington
+
+"
+)
+Cermak
+
+#31st
+
+88th
+
+Wolf
+
+Madison
+
+Wolf
+
+Western Springs
+
+Chicago 47th
+
+Hinsdale
+
+Pla
+
+ra
+
++
+#$
+#
+
+35
+
+G
+
+La Grange Park
+Wo lf
+
+34
+
+34
+
+$
++
+
+34
+
+Monroe
+
+#
+12
+
+g
+
+Canfield
+
+East River
+
+1st
+
+25th 25th
+
+12
+
+$
++ 31st
+
+York
+
+r in
+
+1s
+
+am
+
+Diversey
+
+Ramp
+
+12
+
+Sp
+
+East Brook
+
+Rose
+
+Rose
+Rose
+
+Wolf
+
+Wolf
+
+Wolf
+
+12
+
+Westchester
+
+$
++
+22nd 22nd Cerma k
+)
+# "
+
+Cook
+
+Kane
+Addison
+
+Lake
+Michigan
+
+Montrose
+
+Division
+
+$
++
+
+Des Pla ine
+s
+
+12
+
+Wolf
+
+County Line
+
+290
+290
+88
+
+88
+
+York
+
+Broadview
+
+R
+
+Oak Park
+
+Roosevelt
+
+# $
++
+
+Westchester
+
+31st 31st Oak Brook
+
+Forest Park
+
+Ramp
+
+$
++22nd
+
+Cermak
+
+22nd 22nd Cermak 22nd
+
+Jorie
+
+19th
+
+Wolf
+
+York
+York
+88
+
+Exit 19b
+
+$$
+$
++ +
++
+#
+
+Lake
+
+p
+
+§
+¨
+¦
+88
+
+$
++
+38
+
+38
+
+38
+
+Washington
+
+Madison
+Maywood "
+)
+
+#
+
+Harrison Fronta ge
+
+mp
+
+Lake
+
+19
+
+Le Moyne
+
+Chicago
+
+Harlem
+
+56
+
+Hillside
+
+Division
+
+River Forest
+
+171
+
+56
+
+$
++
+
+Chicago
+Lake
+Saint Charles
+
+ld
+erfie
+"
+)
+Butt
+#
+Bellwood
+
+56
+
+Ra
+
+#
+
+Berkeley
+
+Vallette
+
+38
+
+#
+
+Grand
+
+64
+
+$
++
+
+"
+) $
+$
++
++
+
+$
++
+
+Melrose Park
+
+Lake
+
+McHenry
+Wilson
+
+Montrose
+
+co ln
+
+20
+
+Gra nd
+
+River Grove
+
+Lawrence
+
+m
+Ra
+
+20
+
+94
+
+41
+
+Foster
+
+Indiana
+
+#64Stone Park
+
+20
+
+§
+¨
+¦
+
+19
+
+19
+
+19
+
+P
+st
+
+Elmwood Park
+
+)
+$
++20"
+
+Gra nd
+
+er
+
+20
+
+Gra nd
+
+#
+
+Fullerton
+
+Fullerton
+
+Northlake
+
+64
+
+Saint Charles
+
+Grand
+
+$
++Parker
+
+Foster
+
+Montrose
+
+$
++
+
+Riv
+
+ke
+
+Belmont
+
+Franklin Park
+
+Grand
+
+er
+
+La
+
+klin
+
+re
+Fo
+
+Riv
+
+Grand
+
+e$
+#reserv +
+
+19
+
+r
+
+294
+
+Grand
+
+19
+
+Rive
+
+§
+¨
+¦
+
+Fra
+n
+
+r
+
+River
+
+klin
+
+Montrose
+
+Montrose
+
+g ins
+
+Lawrence
+
+Harwood Heights
+"
+)
+
+$
++Norridge
+
+ive
+
+Hig
+
+Lin
+
+# 19 "
+)
+Schiller
+# Park
+Rose
+
+Fra
+n
+
+st R
+
+Gettysburg
+
+Foster
+
+$
++
+
+171
+
+go
+
+Lawrence
+
+Ea
+
+Thatcher
+
+ar
+
+en
+
+Jefferson
+
+#
+
+Ruby
+
+C
+
+River
+
+Gre
+
+n
+
+25th
+
+Bensenville
+
+ai
+
+River
+
+Lawrence
+
+M
+
+19
+
+Foster
+
+co ln
+Lin
+
+River
+
+12 Bal moral
+
+90
+$
+190
++ and Ethnicity,
+MAP 6   Produce Availability,
+Race
+West Region, SCC
+
+$
++
+
+)University
+$
++ by Chicago State"
+Map and Assessment Completed
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+16
+
+ 63rd
+
+Maple
+
+127th
+
+Ne
+
+w
+
+ug
+
+n
+
+69
+
+101st
+
+it 2
+
+87th
+
+71st
+
+135th
+
+55
+
+Main
+
+$
++
+"
+)
+
+$
++
+
+355
+
+1
+
+17
+
+143rd
+
+123rd
+
+131st
+
+1
+17
+
+Bluff
+
+55
+
+ld
+
+infie
+
+63rd
+
+35
+
+Hins
+
+da le
+
+115th
+
+Main
+
+eld
+
+infi
+
+1
+17
+
+91st
+
+Pla
+
+Garfield
+
+Pla
+
+infi
+li
+Jo
+
+et
+
+$
++
+
+47th
+
+$
++
+
+139th
+
+7
+
+7
+
+167th
+
+355
+80
+
+179th
+
+#
+*
+
+75th
+
+Jo
+
++
+"
+)$
+
+t
+lie
+
+7 7
+
+167th
+
+6
+
+Orland
+
+179th
+
+$
++
+
+$
++
++
+#
+* $
+
+7
+
+12
+
+$
++
+
+Hickory Hills
+
+#
+*
+
+Justice
+
+119th
+
+111th
+
+167th
+
+183rd
+
+143rd
+
+6
+
+151st
+
+#
+*
+
+#
+*
+
+$
++
+#
+*
+
+183rd
+
+171st
+
+e
+at
+
+171st
+
+H
+
+o ry
+ick
+
+$
++
+
+$
++
+
+83
+
+127th
+
+$
++
+l
+nnia
+$
+e"
+)nte
+C+
+66
+
+143rd
+
+135th 135th
+
+131st
+
+127th
+
+*Heights
+Palos#
+
+83
+
+83 83
+
+Worth
+
+"
+)
+
+7
+
+$
++
+
+St
+
+Oa
+
+Midlo
+
+135th
+
+83
+
+th ian
+
+115th
+
+83
+
+#
+* 103rd
++
+#$
+*
+#
+*
+
+$
+$
+++
+167th
+
+"
+)
+
+#
+*
+
+12
+
+87th
+
++
+"
+)$
+
+"
+)
+
+$
++
+
+115th
+
+111th
+
+103rd
+
+135th
+
+Burr Oak
+
+6
+
+Miles
+
+$
++
+
+83 83
+
+§
+¨
+¦
+57
+
+83
+
+"
+)
+
++
+
+2
+
+355
+
+80
+
+"
+)
+
+83
+
+123rd
+
+115th
+
+138th
+
+1-4
+
+0
+
+"
+)
+
+154th
+
+150th
+
+83
+
+83
+
+144th
+
+Calumet Park
+
+$
++
+"
+)
+
+12
+
+111th
+
+127th
+
+124th
+
+115th
+
+103rd
+
+98th
+
+87th
+
+83rd
+
+Will
+79th
+
+83rd
+
+10 - 19
+171st
+
+5-9
+
+175th20 - 48
+
+"
+)
+
+$
++
+
+#
+*
+
+$
++
+$
++
+
+Chain Full Service Supermarkets
+ge
+Ridge Ridge Rid
+Discount Groceries
+183rd
+Chain Convenience Stores
+
+h
+
+C
+
+go
+
+111th
+
+12
+
+142nd 142nd
+
+83
+
+157th
+
+83
+
+)
+$
++ "
+
+6
+
+154th
+
+$
++
+
+Lin
+
+co
+ln
+
+Lin
+
+co
+ln
+
+Dolto
+
+n
+
+130th
+
+hig
+
+"
+)
+
++
+$
++ $
+
+an
+
+Cit
+159th
+
+$
++
+
+Forest Preserves
+Th ornton
+Lansing
+
+re t
+
+Ridge
+
+173rd
+Exit 161
+Unincorporated or Not in Region
+Chicago
+
+170th Municipalities
+South West Region
+
+y
+
+Sibley
+
+State
+
+African-American above 50%
+
+Hispanic above 50%
+
+106th
+
+100th
+
+Ü
+Mic
+
+6
+
+103rd
+
+87th
+
+79th
+Indiana
+
+* of 48 Items Surveyed
+
+Marga
+
+12 95th
+
+§
+¨
+¦
+94
+
+87th 87th
+
+90
+
+41
+
+LAKE MICHIGAN
+
+75th
+
+71st
+
+§
+¨
+¦
+79th
+
+hi
+ca
+
+71st
+
+67th
+
+Cook
+
+Kankakee
+
+130th
+
+138th
+
+Armory
+
+ut
+
+75th
+
+So
+
+63rd
+
+55th
+
+Hyde Park
+
+79th
+81st
+
+71st
+
+75th 75th 75th
+
+71st
+
+Marquette
+
+63rd
+
+DuPage
+
+6*
+6
+6 Available
+6
+Fruits
+6 6and6 Vegetables
+
+83
+
+d
+
+51st
+
+Map and Assessment Completed
+by Chicago State University
+"
+)
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+6
+
+139th
+
+Broadway
+
+89th
+
+119th
+
+127th
+
+r
+63
+
+51st
+
+Garfield
+
+Marquette
+
+74th
+
+y
+
+nte
+re
+
+Mo
+
+Blue Island
+
+123rd
+
+Merrionette Park
+
+0 0.5 1
+
+6
+
+83
+
+143rd
+
+th ian
+
+83
+
+Midlo
+
+"
+)
+
+Corner stores for this study
+175th
+175th or
+defined
+as: Independent
+177 th
+small chain food stores with
+4 or less checkout aisles.
+183rd
+183rd
+stations183rd
+are excluded.
+80 Gas
+"
+) $
+
+st
+or e
+
+151st
+
+127th
+
+$
++
+"
+)
+$
++
+
+#
+*
+
+115th
+
+Ca
+lS
+ag
+135th
+
+$
++ 83
+
+Alsip
+
+#
+*
+
+"
+)
+
+111th
+
+103rd
+
+#
+*
+
+12
+
+79th
+
+63rd
+
+59th
+
+Garfield
+
+51st
+
+Marquette
+
+71st
+
+63rd
+
+Evergreen Park
+
++
+$$
+#
+* +
+
+Oak Lawn
+
+est
+
+Hometown
+
+$
++
+
+55th
+
+Marquette Marquette
+
+63rd
+
+59th
+
+76th 76th
+
+$
++
+$
++
+
+"
+)
+$
++
+$
++
+
+66th
+
+147th 147th 147th
+
+kF
+
+183rd
+
+S
+
+te
+ta
+
+Southw
+
+79th
+
+Chicago Ridge
+
+Ra
+m
+am p
+p
+
+115th
+
+7
+
+103rd
+
+R
+
+63rd
+65th
+
+55th 55th
+
+r
+
+Arche
+
+Bedford Park
+
+#
+*
+
+"
+) 79th
+
+63rd 63rd
+
+Palos Hills
+
+Orland Park
+
+$
++
+)
+$
++"
+
+#
+*
+
+Summit
+
+Palos Park
+
+83
+
+47th
+
+t
+lie
+Jo
+171
+171
+
+135th 135th 135th
+
+$
++"
+)
+
+123rd
+
+147th
+149th
+151st
+153rd 153rd
+
+7
+
+95th
+
+87th
+
+47th
+
+Orland Hills
+
+80
+
+$
++
+Orland
+
+6
+
+153rd
+
+7
+
+83
+
+95th
+
+$
++
+
+55th
+
+Willow Springs
+
+Palos Park
+
+151st
+
+Fo rd
+
+83
+
+87th
+
+$
++
+
+55th 55th
+
+German Church
+
+eld
+
+294
+
+55th
+
+47th
+
+§
+¨
+¦
+
+47th
+
+t
+ie
+
+4th
+
+California
+
+"
+)
+
+Dixie
+
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+American Community Survey 2005 - 2009, US Census Bureau
+
+7
+
+1
+
+Chicago
+
+Clarendon Hills
+Ca
+ss
+
+Pla
+
+35
+
+55
+
+17
+
+y
+
+rth
+
+1
+
+17
+
+Mc
+ca
+
+Will
+
+Lemont
+
+151st
+
+355
+
+75th
+
+§
+¨
+¦
+
+127th 127th 127th
+
+§
+¨
+¦
+7
+
+56th
+
+Cass
+
+DuPage
+
+Fairview
+
+ple
+
+ille
+
+Willow Springs
+
+Ma
+55th
+
+Interna tionale
+
+Ex
+
+83rd
+
+h to
+
+355
+Woodward Woodward
+
+Bo
+
+Janes
+
+Wolf Wolf
+
+East
+East
+
+e rv
+Nap
+
+Pine
+
+Dunham
+Brookbank
+Main
+
+Lemont
+17
+1
+
+Woodward
+
+1
+
+Farrell
+
+State
+State
+Lemont
+
+83
+Jackson
+
+County Line
+County Line
+
+Will Cook
+
+1
+
+43
+
+43
+
+34
+
+Parker
+
+Madison
+
+Bell
+
+Bell
+Bell
+
+Bell
+
+County Line
+Burr Ri
+dg e
+Will Cook
+
+Will Cook
+
+Gilbert
+
+104th
+
+Wolf
+Wolf
+
+Wolf
+7
+
+7
+7
+
+17
+
+Lago Vista
+
+108th
+
+104th
+tion
+
+104th
+
+Wo
+lf
+
+118th
+
+12
+104th
+
+S ta
+
+le
+da
+wn
+mp
+Ra
+
+45
+
+p
+m
+Ra
+
+17
+7
+
+88th
+
+La
+West
+
+82nd
+
+7
+
+Jo
+l
+
+7
+
+94th
+
+171
+80th
+
+43
+
+76th
+
+Halsted
+
+$
++
+$
++
+$
++
+South West
+Suburban
+Cook
+County Corner Stores
+
+Oak Park Oak Park
+
+7
+
+80th
+
+7
+
+45 45
+45 45
+
+6
+6
+Wolf
+
+43
+
+King
+King
+
+Central
+Central
+Central
+Central
+Central
+
+82nd
+84th
+
+84th 84th
+
+Park
+
+108th
+108th
+
+Bo
+
+re st
+
+Laramie Riverc
+
+Central
+
+Pulaski
+Pulaski
+
+Airport
+50
+
+50
+50
+50
+50
+
+Kedzie
+
+Kedzie
+Kedzie
+
+Kedzie
+e
+air
+Cl
+
+Crawford Pulaski
+
+Pulaski
+57
+
+Patrick
+
+57
+
+Woodlawn
+
+Produce Availability, Race and Ethnicity
+
+Governors
+
+ca R
+io
+
+Ridgeland
+
+355
+
+ie
+
+Lemont
+
+k
+
+Dix
+
+Coo
+104th
+
+Oak Park
+
+80
+
+o od
+
+State
+
+Harw
+
+43 43
+
+Crawford Crawford
+
+Damen
+
+Western
+
+Western
+Western
+Western
+
+Ashland
+Ashland
+
+s
+Vin
+c
+
+en n
+e
+
+Exit 354
+
+Wells
+
+n ne s
+
+Racine
+
+Racine
+ne s
+Vince
+n
+
+Halsted
+ne
+
+1
+1
+
+Morgan 1
+
+Ashland
+Wood
+
+Wood
+
+Wentworth
+
+en
+
+Halsted
+
+State
+Michigan Indiana
+
+Ramp
+
+State
+
+Lafayette
+
+Stony Island
+Stony Island
+
+King
+King
+King King
+Indiana
+
+State State
+
+Vi
+nc
+
+Loomis
+
+Park
+
+Will
+
+Dixie
+Wood
+
+94th
+
+o
+
+Wo o
+d
+
+ro y
+
+Ashland
+
+Ar
+
+1
+
+Crawfor d
+
+Center
+
+Ridgeland
+
+Dixie
+
+State
+
+Pulaski
+
+Park
+
+Chicago
+
+sV
+ince
+
+1
+ne s
+
+Williams
+
+Oak Hills
+
+Dixie
+
+d Park
+
+Ridge
+
+Crawford
+
+Chicago
+
+Kedzie
+
+ixie
+
+cen
+Vin
+
+Park
+
+Cass
+rn D
+Weste
+
+Park
+
+State
+Indiana
+
+King
+Cotta ge
+Grove
+
+R am
+p
+
+Jane s Janes
+
+Ellis
+
+83
+
+rn
+n
+to
+
+d
+oo
+
+oo
+
+Cottage Grove
+
+Woodwa rd
+83
+
+o
+Th
+
+nw
+
+nw
+
+it
+
+41
+
+Yates
+
+Belmont
+
+84th
+
+ee
+
+ee
+
+Ex
+
+p
+
+Roberts
+50
+
+Pulaski
+
+Gr
+
+Gr
+
+394 394
+
+Bridgeview
+Pulaski
+
+Exit 69
+73
+b
+
+Willow Springs
+
+43 43 43
+
+Torrence
+
+Ram
+
+Roberts
+Ridgeland
+
+Torrence
+
+Wolf Wolf Wo lf
+12
+
+43
+
+Ramp
+
+83
+
+6
+
+12
+Central
+
+Pulaski
+
+rd
+6
+
+Airp ort
+
+Kedzie
+
+na
+83
+
+Payn e
+
+ai
+83
+
+17
+Gilbert
+
+41
+Br
+83 Torrence
+
+rk
+
+Corn ell
+
+Colfax
+83
+
+Lake Pa
+41
+
+1
+
+"
+)
+
+MAP 7   Produce Availability, Race and Ethnicity, Southwest Region, SCC
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Produce Availability, Race and Ethnicity
+
+MAP 8   Produce Availability, Race and Ethnicity, South Region, SCC
+
+South Suburban Cook County Corner Stores
+
+South Region Municipalities
+
+10 - 19
+
+Chicago
+
+$
++
+
+Chain Full Service Supermarkets
+
+"
+)
+
+Discount Groceries
+
+#
+
+Chain Convenience Stores
+
+Cook County
+Forest Preserves
+
+* of 48 Items Surveyed
+
+O South O
+
+O
+
+Torrence
+
+Ram
+
+O
+
+O
+Torrence
+
+O
+Burnham
+Cit
+
+Riv
+
+Burnham
+
+6
+
+6
+83
+
+Lansing
+
+"
+)
+
+83
+
+Glenwood Lansing Glenwood Lansing
+
+Gle
+
+nw
+
+o od
+
+Dy
+
+er
+
+Ford Heights
+
+83
+
+Torrence Torrence
+
+Cottage Grove
+
+30
+
+Lynwood
+Burnham
+
+te
+Sta
+
+d
+nwo
+o
+Gle
+
+30
+
+Sauk
+
+Sauk Village
+223rd
+
+Torrence
+
+Sherman
+
+State State
+
+Steger
+
+Steger
+
+231st
+
+Lake
+
+394
+
+Lak e
+
+et
+
+e
+
+Richton
+McHenry
+
+Beckwith
+
+McHenry
+
+#
+
+Burnham
+
+1 1
+East End
+
+Union
+
+Richton
+
+186th
+
+Burnham
+
+s
+
+80
+
+k
+
+83 83 83 83 83
+
+Cottage Grove
+
+Dixie
+
+Halsted
+
+30
+
+aks
+
+§
+¨
+¦
+
+n Lansing
+
+Joe Orr
+
+30
+
+y
+
+er O
+
+State Line
+
+Ellis
+
+Chicago
+
+Park
+
+an
+
+Wentworth
+State Line
+
+Chicago
+
+Cottage Grove
+
+State State State
+
+Morgan 1
+
+83 83
+
+Indiana
+Indiana
+
+1
+
+Loomis
+
+Par
+
+Center
+
+Wood
+
+Park
+
+ee
+
+Wil
+
+Dixie
+
+k
+
+lia m
+
+Cr
+
+26th
+
+Cr
+
+LAKE MICHIGAN
+
+ge
+Exchan
+
+Exchange
+
+0 0.5 1
+
+2
+
+Miles
+
+Kane
+DuPage
+
+Cook
+
+21
+
+Corner stores for this
+study defined as:
+Independent or small
+chain food stores with
+4 or less checkout
+aisles. Gas stations
+are excluded.
+
+Kendall
+
+Indiana
+
+Will
+
+Grundy
+
+1
+
+Sources:
+Stores: CPPW Corner Store Assessment, Spring 2012
+Base Maps: Chicago Metropolitan Agency for Planning
+American Community Survey 2005 - 2009, US Census Bureau
+
++
+$
++ $
+
+Th or nto
+
+n
+nto
+
+Joe Orr
+
+$
++
+"
+)
+
+34th
+
+Western
+
+Ü
+
+hig
+
+159th
+
+394
+
+ger
+ne e
+
+Ste
+Court
+
+p
+
+State
+
+1
+
+Ashland
+
+Par
+
+Governors
+
+Western
+
+Main
+
+Go
+ve rn
+o rs
+ive
+r sit
+y
+Un
+
+Mo
+Old
+
+African-American over 50%
+
+5-9
+
+20 - 48
+
+Sauk
+
+k
+
+6
+
+"
+)
+
+Huntley
+
+Monee Manhattan
+
+Glenwood Main
+
+1
+
+1-4
+
+Monee Manhattan
+
+Hispanic over 50%
+
+rn
+
+S. Chicago Hts.
+
+University Park University
+
+Fruits and Vegetables Available *
+
+Th
+o
+
+State
+
+Monee
+
+§
+¨
+¦
+57
+
+#
+
+Chicago Heights
+
+Ashla nd
+
+India nwo od
+
+Will
+
+Manhattan Monee
+
+"
+)
+
+26th
+
+# Park Forest
+
+Mic
+
+$
++
+
+r
+Th o
+
+ley
+
+Pulaski Pulaski
+
+170th
+
+Thornton
+
+183rd
+
+od
+Ha
+rwo
+
+o rs
+ve r
+n
+
+Main
+
+$
++$
++ $
+"
+)
++
+
+Sau
+
+0
+
+Wood
+
+k
+
+Governors
+
+Governors
+
+Richton Park
+
+)
+$
++ "
+
+South Holland
+
+$
++ Ridge
+$
++
+
+Ridg e
+
+Ashland
+
+Go
+
+ve r
+n
+
+Crawford
+
+o rs
+
+50
+
+b
+
+it 3
+
+40
+
+40
+it 3
+
+Ex
+
+Central
+
+Ex
+
+Ridgeland
+
+Illinois
+Illinois
+
+19
+
+Sauk
+
+6
+
+Sib
+
+30
+
+Sauk
+
+6 6
+
+1
+
+Frankfort
+
+Olympia Fields
+
+$
++
+
+$
++
+$
++
+
+Calumet City
+154th
+
+Indiana
+
+30
+
+co
+ln
+
+83
+
+30
+
+207th
+
+Lin
+
+154th
+
+157th
+
+Holbrook
+
+203rd
+
+co
+ln
+
+154th
+
+187th
+
+#
+
+Vollmer
+
+Lin
+
+$
++
+
+173rd
+
+Maple
+
+Flossmoor
+
+Vollmer
+
+"
+)
+
+Armory
+
+83
+
+ie
+
+k
+
+167th
+
+Dix
+
+Sau
+
+171st
+
+ie
+
+Nebraska
+
+#
+$
++
+
+6
+
+East Hazel Crest
+
+Dix
+
+Matteson
+30
+
+Dixie
+
+Kedzie
+
+Crawford
+
+Flossmoor
+
+80th
+
+Crawford
+
+"
+)
+
+6
+
+Homewood
+
+Go
+
+Patrick
+
+57
+Central
+
+183rd
+
+"
+)
+
+6
+
+Chicago
+
+Saint Francis
+
+30
+
+en n
+es
+Ashland Jesse C Vough
+
+Western
+
+Francisco
+
+ai
+Cl
+
+Pulaski
+
+Central
+
+Hazel Crest
+
+183rd
+
+Flossmoor
+
+Phoenix
+
+Flossmoor
+Vollmer
+
+30
+
+Vin
+c
+
+Kedzie
+
+Pulaski
+
+Pulaski
+
+re
+
+io
+R
+Bo
+ca
+
+Oak Park
+
+76th
+
+Oak Park
+80
+
+43
+
+84th
+
+94th
+
+Oak Park Oak Park
+
+82nd
+82nd
+88th
+
+94th
+
+84th
+
+West
+
+45
+
+45
+
+Crawford
+
+Ridgeland
+
+82nd
+
+Ridgeland
+
+7
+
+7
+
+45
+
+80th
+
+183rd
+
+La Porte
+
+30 30
+
+80
+80
+
+Country Club Hills
+183rd
+
+83
+
+l
+
+45
+
+$
++
+
+175th
+
+177th
+
+Harvey
+
+d
+
+175th
+
+83
+
+State
+
+rk
+d Pa
+
+6
+
+34
+
+150th
+
+n
+
+oo
+
+it
+
+83
+
+Burnham
+
+Dolto
+
+Dolton
+
+nw
+ee
+Gr
+
+Ex
+
+#
+
+Riege
+
+84
+
+#
+
+t
+
+6
+
+6
+
+142nd
+
+144th
+
+State
+s
+
+80
+
+84
+
+ry
+ko
+
+r es
+
+Markham
+
+st
+
+§
+¨
+¦
+
+80
+
+6
+
+130th
+
+138th
+
+ne
+
+183rd
+
+Fo
+
+Riverdale
+
+c en
+Vin
+
+183rd
+
+k
+Oa
+
+138th
+
+1
+
+nd
+
+6
+
+167th
+
+$
++ #
+
+Tinley Park
+
+"
+)
+
+Villag e We
+
+rla
+
+O
+
+Oak Forest
+
+#
+
+Hic
+
+#
+
+$
+$
+++
+
+171st
+
+171st
+
+139th
+
+Dixie
+
+167th
+
+43 43
+
+$
++
+
+#
+
+151st
+
+$
++
+#
+l
+nnia
+$
++
+ente
+)
+C"
+66
+
+6
+
+$
++$
+)
++"
+
+6
+
+Robbins
+
+Dixmoor
+"
+)
+Posen
+83 83
+83 83
+83
+#
+Midlothian
+#
+"
+)
+83
+
+147th 147th 147th
+
+147th
+
+151st
+
+143rd
+
+§
+¨
+¦
+94
+
+130th
+
+Broadway
+
+Dixie
+
+$
++
+151st
+$
++
+153rd
+
+$
++
+"
+)
+
+Vermont
+
+Dixie
+
+149th
+
+135th
+
+Crestwood
+
+th ia n
+Midlo
+
+143rd
+
+294
+
+135th
+
+127th
+
+ar
+in
+
+147th
+
+143rd
+
+#
+
+123rd
+
+124th
+
+a
+Br
+
+135th
+
+135th 135th
+
+127th
+
+on
+nt
+or
+Th
+
+7 7
+
+§
+¨
+¦
+
+Rivercrest
+
+"
+)
+
+123rd
+Burr Oak Burr Oak
+
+115th
+
+115th
+
+119th
+
+Exit 69
+
+135th 135th 135th
+
+8
+
+$
++3
+
+57
+
+80th
+
+131st
+
+119th
+
+Paulina
+
+$
++
+
+$
++
+
+131st
+
+$
++
+"
+)
+$
++
+
+Ramp 127th
+
+83
+
+115th
+
+$
++
+
+123rd
+
+83
+
+127th
+
+Oak Hills
+
+$
++"
+)
+
+83
+
+Oak Park
+
+123rd
+
+7
+
+131st
+
+179th
+
+115th
+
+83 83
+
+75th
+
+83
+
+119th
+
+167th
+
+"
+)
+
+7
+
+Ra
+m
+
+115th
+
+115th
+
+123rd
+
+Fun
+
+Central
+
+7
+
+83
+
+p
+
+83
+
+111th 111th
+
+50 50
+
+"
+)
+
+111th
+
+Kankakee
+
+Map and Assessment Completed by Chicago State University
+Neighborhood Assistance Center and UIC Dept of Kinesiology and Nutrition
+Fall 2012
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+18
+
+ The general patterns presented in the corner store maps parallel and are confirmed by the
+spatial analysis as shown in tables beginning on page 23. Table 1 shows the number of corner
+stores per region, including stores with no produce, stores with 1-9 produce items, and stores
+with 10 or more. Note that the density of corner stores compared to the region’s population
+is highest in the predominately African-American South region (high densities are indicated
+by low populations per store). However, differences between regions are relatively low
+compared to those seen with corner stores with higher amounts of produce. For instance,
+the density of stores with 10 or more produce items is highest compared to the population in
+the West and Southwest regions, which generally have larger Hispanic populations. The
+concentration of stores carrying 10 or more produce items is particularly low in the Northeast region, which has a predominantly White population.
+The relationship between region and classes of produce carried (i.e. none, 1-9 items,
+10 or more items) is shown on Tables 2 and 2a. Differences were examined using chi-square
+and ANOVA tests. In the tests, region was not found to be a significant predictor of produce
+availability at a significance level less than .1 (p=0.19). However, a comparison of stores in
+the “10 and Above” class shows that region is a minimally significant predictor in the percent
+of stores that carry 10 or more fresh produce items (p=0.07). Tables 2, 2a, and 2b indicate
+relationships that follow the variation in produce available by region. This is demonstrated by
+the variation in produce available in corner stores by region. Not only did the Northeast
+region have the lowest number of corner stores, only 11.5% of these had 10 or more
+produce items, compared to 29.1% for all regions. The South region, despite having the
+second highest number of corner stores overall, had the second lowest percentage of stores
+(20.9%) that carried 10 or more produce items. The other regions surpassed these with
+the West, Southwest and Northwest regions having 32.7%, 37.0%, and 40.5%, respectively,
+of the stores carrying 10 or more produce items.
+Tables 3 and 4 show distance and distance index quartiles by demographic variables for the
+corner store data and comparison store types. Table 5 shows correlations between these
+demographic variables and the distance index. In addition, calculations by quartile were
+added for percent Asian, as well as percent Asian combined with percent Hispanic. This
+addition was in response to inquiries about whether produce access at stores might correlate
+with the locations of recent immigrant populations.
+Table 5 shows correlation coefficients between race and income variables and distance to the
+nearest corner store. Pink-colored boxes are significant relationships with correlations of -.1
+or less, meaning that as the variable goes up, the distance to the nearest corner store goes
+down. Grey colored boxes are significant relationships with correlations of +.1 or greater,
+meaning that as the variable goes up, the distance to the nearest corner store goes up. It
+should be noted that correlations of .1 or -.1 are not very high. Even stronger correlations,
+such as .3 or -.3 still do not indicate causation. When reading this table, it is important to
+concentrate more on the overall patterns than particular relationships.
+
+19
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Concentrating specifically on correlations between percent African-American and the
+distance index on Table 5, an unexpected relationship emerges. For most store types,
+percentage African-American correlates moderately positively with distance to the nearest
+store, meaning as percentage African-American goes up, distance to the nearest store also
+goes up. One exception is with discount supermarkets such as Aldi and Save-a-Lot, where
+distance goes down as African-American percentage increases. Even though the distance to
+get to other kinds of groceries generally is well correlated with percent African-American,
+distance to the nearest corner store does not correlate well.
+On the other hand, percent Hispanic is negatively correlated at a level of .3 or greater with a
+lower distance index, meaning that the distance to the nearest store declines as the percentage
+of Hispanics in a region increases) for all corner stores and for corner stores with between
+1-9 produce items and 10 or above produce items. Percent Non-Hispanic White correlates
+positively with the distance index, as does both median and aggregate household income,
+meaning that one must generally travel further to reach a corner store in Non-Hispanic
+White and higher income areas.
+Percent Asian itself is not a strong enough predictor of store access to create its own patterns,
+generally showing fairly weak correlations. For this reason, analysis results for percent Asian
+alone are not presented here.
+
+Survey Results
+This section presents survey results that describe store characteristics and food environment.
+Store Characteristics
+Detailed results from in-person audits are presented in Tables 6-22 and Figures 1 and 2.
+Table 6 highlights characteristics of corner stores across suburban Cook County (n=182).
+A majority of stores (76.4%) accepted SNAP benefits (known as LINK in Illinois).
+However, about 24% of stores participated in the Supplemental Nutrition Program for
+Women, Infants, and Children (WIC). About 50% of stores had signage in languages other
+than English. Slightly over 30% of stores sold prepared foods, such as pizza or sandwiches.
+Many corner stores included in the survey sold alcoholic beverages (40.1%) and at least one
+tobacco product (54.9%). In addition, several of the stores also promoted alcoholic beverages
+and tobacco products through in-store ads, displays/built-ins, outdoor signage, and/or functional items such as trash cans, mats, etc. (Table 7). Store characteristics differed based on the
+racial/ethnic composition of the community. Stores in African-American neighborhoods were
+significantly more likely to sell alcoholic beverages and cigarettes; have industry produced ads
+for tobacco, alcoholic beverages, and sugar sweetened beverages displayed inside the store;
+and sell cigars, smokeless tobacco, and tobacco rolling papers compared to all other racial/
+ethnic neighborhoods (Table 8). Likewise, corner stores in African-American neighborhoods
+were more likely than other neighborhoods to have outdoor ads for alcoholic beverages and
+feature “liquor” as the largest permanent outdoor sign (Table 8).
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+20
+
+ Food Option Availability
+Analysis of data on fruit and vegetable availability showed that less than half (43%) of the
+corner stores in suburban Cook County carried fresh produce with 15% carrying 1-5
+varieties, 11% carrying 6-9 varieties, 17% carrying 10-20 varieties, and 14% carrying 20 or
+more varieties (Table 9). The Northeast region had the highest percentage of stores
+without fresh produce (58%) whereas the Northwest had the lowest percentage of stores
+without fresh produce (35%) (Figure 1, below). Predominately White neighborhoods had
+the highest percentage of stores without fresh produce (55%) and Hispanic neighborhoods
+had the lowest (23%) (Figure 2, below).
+Figure 1   Fruit and Vegetable Categories  
+ 
+by Region (n=182)
+
+Figure 2   Fruit and Vegetable Categories  
+ 
+by Race (n=182)
+
+Of the corner stores that carried fresh produce, the type of produce that was carried
+most frequently was white onions (45.6%) followed by apples (38.5%), bananas (35.7%),
+and oranges (33.5%) (Table 10). White potatoes were not included in this assessment;
+however, previous studies suggest that corner stores frequently carry white potatoes as a staple
+item.18,19 Availability of other food items is presented in Table 11. Most stores stocked
+canned beans, dried beans, canned fruits, white bread, white rice, white pasta, whole and
+reduced fat milk, regular cheese, and a selection of regular snack chips.
+Stores in White and racially mixed neighborhoods were more likely to carry low fat and fat
+free milk compared to stores in African-American and Hispanic neighborhoods.
+Stores in Hispanic, African-American and racial mixed neighborhoods were more likely to
+carry orange juice, gallon size fruit juice drinks (<10% juice), single serving size (8oz)
+juice drinks (e.g. Little Hugs), and snack chips compared to stores in White neighborhoods
+(Table 11). Stores in predominately Hispanic neighborhoods were significantly more
+likely to stock canned and dried beans whereas stores in racially mixed neighborhoods had
+greater availability of frozen fruits and vegetables.
+In our sample of corner stores, mean availability of fresh fruits and vegetables differed by
+both neighborhood racial/ethnic composition and poverty level (Table 12 and 13). Mean
+21
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ fresh fruit and vegetable availability in Hispanic and racial mixed neighborhoods was significantly greater than in predominately White and African-American neighborhoods. Mean
+availability of culturally specific Hispanic and African-American fresh fruits and vegetables
+was also significantly greater in Hispanic than African-American, White and racially mixed
+neighborhoods. Mean availability of fresh fruits and vegetables was also directly associated
+with neighborhood poverty level, with the highest poverty category (>41.29) having a
+higher mean availability of fresh fruits and vegetables overall and culturally specific AfricanAmerican and Hispanic fruits and vegetables compared to the lower poverty category. In
+contrast, mean availability of both fruits and vegetables was significantly lower in corner
+stores with the highest liquor store index score compared to the stores with the lowest score
+(p<0.05) (Table 14).
+Selection
+Consistent with the availability of fresh produce items, mean availability of canned fruits,
+canned vegetables, frozen fruits, and frozen vegetables was significantly greater in Hispanic
+and racially mixed neighborhoods compared to White and African-American (Table 15).
+Mean availability of frozen vegetables was significantly lower in African-American
+neighborhoods compared to Hispanic, White, and racially mixed neighborhoods (Table 15).
+Canned and frozen fruits and vegetables did not differ by neighborhood poverty level.
+Mean availability of canned and dried beans was significantly higher in Hispanic
+neighborhoods compared to racially mixed neighborhood types (Table 16). Additionally,
+mean availability of canned beans was also significantly higher in the highest poverty
+category compared to the lowest poverty category (Table 17). Consistent with the greater
+Hispanic population, mean availability of both canned and dried beans was highest in the
+South and Southwest regions (Table 18).
+The poor snack score in predominately White neighborhoods was significantly lower than in
+neighborhoods of all other racial/ethnic groups (Table 19). Mean sugar-sweetened beverage
+score was significantly higher in African-American and Hispanic neighborhoods compared to
+White neighborhoods (Table 19). Sugar-sweetened beverage and poor snack scores for stores
+in neighborhoods in the lowest poverty tertile were significantly lower than scores in the
+highest poverty tertile (Table 20). The liquor store index also predicted poor snack score with
+a significantly higher mean poor snack score in corner stores with higher liquor index scores
+(not pictured).
+Price
+Mean price was calculated for a selection of fresh produce in the corner stores and compared
+to the national average. Mean prices for all selected fruits and vegetables except mangos
+exceeded the national average pricing (Table 21). There were no significant differences in
+mean price of selected produce items by neighborhood racial composition. However, mean
+prices of mangos differed by poverty level with higher levels of poverty being associated
+with lower prices. Mean prices of milk items were lower than the national average with no
+significant differences by race, poverty, or region (Table 22).
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+22
+
+ TABLE 1   Counts and Population by Suburban Cook County (SCC) Region
+
+TABLES 2, 2a and 2b   Fruit and Vegetable Class Crosstabulation
+
+23
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ TABLE 3   Distance in Miles to Nearest Store by Demographic Quartile, SCC Corner   
+ 
+Stores, 2012 and Comparison Stores, 2011
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+24
+
+ TABLE 4   Distance to Nearest Store in Miles Divided by (1/Log of Population per Square
+ 
+Mile to Nearest Store) by Demographic Quartile, SCC Corner Stores, 2012 and Comparison Stores, 2011
+
+25
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ TABLE 5   Correlations Between Distance Index and Demographics
+
+TABLE 6   Corner Store Characteristics (n=182)
+
+TABLE 7   Corner Store Marketing Environment (n=182)
+
+TABLE 8   Selected Corner Store Characteristics by Neighborhood Racial Composition (n=182)
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+26
+
+ TABLE 9   Corner Store Fresh Fruit and Vegetable Selection (n=182)
+
+TABLE 10   Corner Store Fresh Fruit and Vegetable Selection by Type (n=182)*
+
+TABLE 11   Corner Store Product Availability by Neighborhood Racial Composition (n=182)
+
+27
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ TABLE 12   Mean Availability of Fresh Fruit and Vegetables by Neighbhorhood Racial
+ 
+Composition (n=182)
+
+TABLE 13   Mean Availability of Fresh Fruit and Vegetables by Neighborhood Poverty   
+ 
+(200%) (n=182)
+
+TABLE 14   Mean Fresh Fruit and Vegetable Availability by Liquor Index (n=182)
+
+TABLE 15   Mean Availability of Frozen and Canned Fruit and Vegetables by Neighborhood  
+ 
+  Racial Composition (n=182)
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+28
+
+ TABLE 16   Mean Availability of Canned and Dried Beans by Neighborhood Racial Composition
+
+TABLE 17   Mean Availability of Canned and Dried Beans by Neighborhood Poverty (200%)
+
+TABLE 18   Mean Availability of Canned and Dried Beans by Region
+
+TABLE 19   Mean Snack and Sugar Sweetened Beverage Score by Neighborhood Racial   
+ 
+Composition (n=182)
+
+TABLE 20   Mean Snack and Sugar Sweetened Beverage Score by Neighborhood Poverty   
+ 
+(200%) (n=182)
+
+29
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ TABLE 21   Mean Price of Selected Fresh Produce in Corner Stores Compared to National
+ 
+Average (n=182)
+
+TABLE 22   Mean Price of Whole and Reduced Fat Milk in Corner Stores Compared to
+ 
+National Average (n=182)
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+30
+
+ Spatial Analysis – Tables
+Key
+Findings
+In summary, key findings are outlined below.
+Distribution and Density of Corner Stores in Suburban Cook County
+•  While corner stores of any size are relatively evenly distributed between suburban
+  Cook County regions, compared to other grocery store types, they are somewhat
+  more concentrated in the South and West regions and least concentrated in the
+  Northeast region.
+•  Hispanic communities have the highest densities of corner stores and African
+  American communities have a higher density of corner stores than the overall average
+  for suburban Cook County.
+Distance to Corner Stores in Suburban Cook County
+•  The distance to the nearest corner store is generally lower in areas with lower incomes
+  and higher Hispanic populations. Additionally, areas with higher Hispanic popula  tions tended to be nearer to corner stores with 10 or more fresh produce items.
+• 
+ 
+ 
+ 
+
+While the distance to a corner store of all types, in general, was somewhat closer in
+African-American areas than the average in suburban Cook County as a whole,
+percent Hispanic and low income were better predictors of the distance to a corner
+store than percent African-American.
+
+Availability of Healthy Items
+•  The percentage of corner stores carrying 10 or more fresh produce items was
+  significantly different by region. It was higher in the Northwest, Southwest and West  
+  regions, and lower in the Northeast and South regions.
+•  Fruit and vegetable availability and variety in liquor
+  stores was lower compared to other store types.
+• 
+ 
+ 
+ 
+ 
+
+Corner stores in Hispanic areas were much more
+likely to stock and have greater variety of fresh
+fruits and vegetables and dried/canned beans than
+those in African American, White or racially
+mixed areas.
+
+• 
+ 
+ 
+ 
+
+Predominately White and racially mixed communities were more likely to carry low-fat and fat-free
+milk compared to predominately African-American
+and Hispanic communities.
+
+•  A low percent of corner stores in the predominately
+  African-American South region carried 10 or more produce items and other healthy
+  food options despite the generally high concentrations of corner stores.
+•  Higher poverty areas stocked more fresh fruits  and vegetables.
+
+31
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Availability and Marketing of Unhealthy Items
+•  Predominately Hispanic, African-American and racially mixed communities were
+  more likely to carry gallon size fruit juice drinks (<10% juice), single serving size
+  (8oz) juice drinks (e.g. Little Hugs), and Flamin’ Hots compared to White
+ neighborhoods.
+•  Corner stores in African-American communities were more likely to sell tobacco
+  products and alcoholic beverages.
+•  Indoor and outdoor marketing environments in African-American neighborhoods
+  were saturated with more advertisements of unhealthy items than in other racial/
+  ethnic neighborhoods.
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+32
+
+ Limitations
+This assessment did not include chain convenience stores such as Seven Eleven, or stores
+attached to gas stations like AM/PM. While the focus on independent corner stores is
+important because they are often in food desert communities and may be most open
+to interventions, exclusion of gas stations and chain convenience stores means that the
+report cannot be taken to represent the full range of small food retail options in
+suburban Cook County.
+A further limitation is the reliance on the Dun and Bradstreet list to shape the stores assessed,
+as well as the store classification. In the same way that many of the addresses in the list were
+not corner stores, it is likely that some corner stores were not included or were differently
+classified. Corner stores open and close often, and data vendors may tend to focus on larger
+entities more than corner stores. In addition, some of the residences on the list could represent home addresses of owners for which the actual address of the store is unknown.
+In addition, it should be noted that on Tables 3, 4, and 5, some errors in the calculations for
+the comparison data (distance to supermarkets and other store types) were corrected since the
+release of the 2011 “Food Access in Suburban Cook County” report, where these data were
+first reported. These errors would not have led to major changes in the conclusions seen in
+the earlier report, but the data is updated in this report.
+
+33
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ Conclusion
+In general, the geographic pattern of corner stores in suburban Cook County correlates
+with race/ethnicity and socioeconomic variables. Percent Hispanic is a strong predictor of lower distances to the nearest corner store and the availability of fresh fruits
+and vegetables, canned and frozen fruits and vegetables, and dried and canned beans.
+The highest poverty neighborhoods also stocked more fresh produce than lower poverty
+neighborhoods.
+This was likely based on an interaction between ethnicity and income, with Hispanic
+neighborhoods having higher poverty compared to white neighborhoods. Predominantly
+Non-Hispanic White areas, especially in the Northeast region, have lower levels of corner
+stores in general, as well as a greater number of corner stores with no produce. This may be
+explained by the fact that these areas are already being served by number of larger grocery
+stores and supermarkets.5
+The pattern for African-American areas, however, is complex. In general, while there are a
+great number of corner stores in the largely African-American South region, the even larger
+concentration of corner stores in predominately Hispanic areas with low African-American
+populations means that percent African-American by itself does not, overall, correlate well
+with distance to the nearest corner store. Of concern is that while distance to any corner store
+is somewhat less in African-American areas, distance to the nearest corner store with at least
+10 produce items is somewhat higher in African-American areas. The South region in
+particular has a low number of corner stores with at least 10 produce items compared to the
+total number of corner stores there. While this is also true in the Northeast region, as seen
+in the earlier “Food Access in Suburban Cook County” report, unlike the Northeast region,
+the South region has a lower concentration of supermarkets. Combining the two reports, the
+South region and African-American areas of suburban Cook County in general seem to not
+be well served by either traditional supermarkets or corner stores in terms of produce availability.20 African-American neighborhoods not only had limited availability of fresh produce
+but also low fat milk, frozen fruits and vegetables. This highlights a potential opportunity to
+work with corner store owners in African-American neighborhoods to increase their produce
+offerings.
+Furthermore, a comprehensive approach to improving foods and overall quality of the corner
+store should be considered. Store characteristics (e.g., liquor and cigarette advertisements)
+and other findings like the higher poor snack and sugar sweetened beverage scores in AfricanAmerican and Hispanic neighborhoods as compared to predominately White neighborhoods
+point to other potential intervention strategies that can be implemented to support reduced
+access to unhealthy snacks and sugar sweetened beverages, limited advertisements of unhealthy items, and promotion of nutrition messaging that encourages sales of healthy items.
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+34
+
+ Recommendations
+Based on the findings in this report, the following are recommended.
+
+For County & Local Government
+• 
+ 
+ 
+ 
+ 
+
+Identify strategies to make the data and conclusions of this report useful and    
+understandable to residents who live in, as well as organizations and leadership who
+serve, communities with low access to healthy corner stores and other healthy food
+options. Barriers between community and the data that describes their daily living
+conditions should be removed.
+
+ 
+
+•  Develop a system to routinely analyze and disseminate data related to food access that is
+  based on information already gathered by governmental agencies.
+• 
+ 
+ 
+ 
+ 
+ 
+
+Facilitate cross-sector collaborations (e.g., public and private economic development
+agencies; suburban Cook County municipalities; academic institutions) to: 1) develop
+healthy corner store models in areas where they would improve food access; and 2)
+lead or support securing of resources to implement and evaluate initiatives that increase  
+availability of healthy food options at corner stores, particularly in the South region and
+in predominately African-American neighborhoods.
+
+• 
+ 
+ 
+ 
+
+Support policies and approaches that improve residents’ overall access to healthy foods
+in corner stores (e.g., financing; store development and layout; product sourcing
+and purchasing such as requiring fresh produce as a condition of operating a store; and
+marketing such as limiting number of advertisements).
+
+For Corner Store Owners
+•  Display nutrition and health messages in and around the store to promote the sale of
+  healthy food.
+•  Reduce in-store marketing of unhealthy foods and competing products such as liquor
+  and tobacco.
+•  Increase availability of healthy items by, for example:
+  -  Increasing allocation of shelf space to healthy foods.
+  -  Offering low-sodium or no sugar added fruits and vegetables, canned or frozen.
+  -  Working with your current suppliers, local farmers and farmers markets to add more
+   fresh produce options.
+
+35
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+ For Community Organizations
+•  Work with local corner stores to identify ways to increase customer demand and
+  provide support for healthy items.
+•  Organize local marketing campaigns for stores, in collaboration with corner store
+  owners and other agencies, that increase purchase of healthier food options.
+•  Assist store owners in identifying food purchasing preferences of community members.
+•  Seek out assistance to learn more about what the data means and how the results of
+  this report help explain health inequities including potential higher rates of disease and
+  premature death.
+
+For Researchers
+•  Examine how community residents use corner stores for food and other products and
+  how the food from corner stores contributes to dietary intake.
+•  Conduct a focused market basket study, similar to this corner store assessment, for gas
+  stations and chain convenience stores in the Cook County region.
+•  Further explore predominantly White areas of the county to study shopping patterns
+  by residents of these areas and to determine whether vulnerable populations in these
+  areas would be assisted through increased produce offerings.
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+36
+
+ References
+Hilmers A, Hilmers DC, & Dave J. (2012). Neighborhood disparities in access to healthy foods and their
+  effects on environmental justice. American Journal of Public Health, 102(9), 1644-54.
+1 
+
+Walker RE, Keane CR, & Burke JG. (2010). Disparities and access to healthy food in the United States: A   
+  review of food deserts literature. Health Place, 16(5), 876-84.
+2 
+
+Treuhaft S, & Karpyn A. (2010). The Grocery Gap: Who has Access to Healthy Food and Why it Matters.  
+  Retrieved from http://www.policylink.org/atf/cf/%7B97C6D565-BB43-406D-A6D5ECA3BBF35AF0%7D/
+ FINALGroceryGap.pdf.
+3 
+
+The Food Trust. (2012). Philadelphia’s Healthy Corner Store Initiative: 2010-2012. Retrieved from http://
+ foodtrust-prod.punkave.net/uploads/media_items/hcsi-y2report-final.original.pdf.
+4 
+
+Borradaile KE, Sherman S, Vander Veur SS, McCoy T, Sandoval B, Nachmani J,. . .Foster GD. (2009).
+  Snacking in Children: The Role of Urban Corner Stores. Pediatrics, 124(5), 1293-1298.
+5 
+
+Kim KC. (1999). Koreans in the Hood: Conflict with African-Americans. Baltimore, MD: Johns Hopkins   
+  University Press.
+6 
+
+Moore N. Race Out Loud: Arab store owner on working in Englewood. WBEZ. National Public Radio.   
+  August 27, 2012.
+7 
+
+Alhassen M. (2010, July 23-25). The Liquor Store Wars: Interracial tensions and Muslim image-making in   
+  the hood. Counter Punch. Retrieved from http://www.counterpunch.org/2010/07/23/the-liquor-store-wars/
+8 
+
+Block D, Chávez N, & Birgen J. (2008). Finding food in Chicago and the Suburbs. Retrieved from http://  
+ www.csu.edu/nac/neil_community_food_security.htm
+9 
+
+10 
+
+Ibid.
+
+Food Marketing Institute. (2012). Supermarket Facts. Retrieved from http://fmi.org/research-resources/
+ supermarket-facts.
+11 
+
+12 
+
+Hoovers. (2011). Commercial information [purchased data file]. Retrieved from http://www.hoovers.com.
+
+Zenk SN, Schulz AJ, Matthews SA, Odoms-Young A, Wilbur J, Wegrzyn L,…Stokes C. (2011). Activity   
+  space environment and dietary and physical activity behaviors: A pilot study. Health Place, 17(5),    
+  1150-1161. Doi: 10.1016/j.healthplace.2011.05.001
+13 
+
+Zenk SN, Schulz AJ, Israel BA, James SA, Bao S, & Wilson ML. (2006). Fruit and vegetable access
+  differs by community racial composition and socioeconomic position in Detroit, Michigan. Ethnicity &   
+  Disease, 16(1), 275-280.
+14 
+
+Zenk SN, Schultz AJ, Israel BA, James SA, Bao S, and Wilson ML. (2005). Neighborhood racial
+  composition, neighborhood poverty, and the spatial accessibility of supermarkets in metropolitan Detroit.   
+  American Journal of Public Health, 95(4), 660-667.
+15 
+
+Izumi BT, Zenk SN, Schultz AJ, Mentz GB, Sand SL, de Majo RF,. . .Odoms-Young A. (2012). Inter-  
+  Rater Reliability of the Food Environment Audit for Diverse Neighborhoods (FEAD-N). Journal of Urban
+  Health, 89(3), 486-499.
+16 
+
+Block DR, Bisegerwa J, Bowen K, Lowe B, Owens J, Sager N, & Ssepuuya F. (2012). Food Access in   
+  Suburban Cook County. Retrieved from http://www.cookcountypublichealth.org/files/CPPW/block-report exec-summary-031612.pdf.
+17 
+
+Zenk SN, Schultz AJ, Israel BA, James SA, Bao S, & Wilson ML. (2005). Neighborhood racial
+  composition, neighborhood poverty, and the spatial accessibility of supermarkets in metropolitan Detroit.  
+  American Journal of Public Health, 95(4), 660-667.
+18 
+
+Zenk SN, Schulz AJ, Israel BA, James SA, Bao S, & Wilson ML. (2006). Fruit and vegetable access
+  differs by community racial composition and socioeconomic position in Detroit, Michigan. Ethnicity &   
+  Disease, 16(1), 275-280.
+19 
+
+Block DR, Bisegerwa J, Bowen K, Lowe B, Owens J, Sager N, & Ssepuuya F. (2012). Food Access in   
+  Suburban Cook County. Retrieved from http://www.cookcountypublichealth.org/files/CPPW/block-report-  
+ exec-summary-031612.pdf.
+20 
+
+37
+
+An Assessment of Corner Stores in Suburban Cook County, Illinois – Cook County Department of Public Health, August 2014
+
+  
+

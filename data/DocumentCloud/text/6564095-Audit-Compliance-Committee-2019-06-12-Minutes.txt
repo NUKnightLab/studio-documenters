@@ -1,0 +1,156 @@
+THE METROHEALTH SYSTEM
+BOARD OF TRUSTEES
+AUDIT AND COMPLIANCE COMMITTEE
+REGULAR MEETING MINUTES
+
+DATE: Wednesday, June 12, 2019
+TIBIE: 2:00 to 4:00 pm.
+PLACE: MetroHealth Medical Center
+
+K107, Business Services Building
+
+CONIMITTEE Mr. McDonald and Dr. Silvers
+
+TRUSTEES:
+
+ADDITIONAL Ms. Whiting
+
+TRUSTEES:
+
+STAFF: D. Fiser, G. Himes, M. Phillips, C. Richmond, C. Forino Wahl
+GUESTS: R. Barre, J. Mylen (KPMG), J. Croy (RSM)
+
+Mr. McDonald called the meeting of the Audit and Compliance Committee to order at 2:00 pm. Please
+note that minutes are written to conform to the printed agenda and are not necessarily in the order of
+discussion.
+
+I.
+
+II.
+
+The minutes of the regular Audit and Compliance Committee meeting held on March 20, 2019
+were approved as presented.
+
+INFORMATION ITEMS
+
+Mr. McDonald introduced Craig Richmond, Executive Vice President, Chief Financial Of?cer who
+provided an update regarding RSM our external auditors stating that services have been
+approved and extended by the Ohio Auditor of State for another ?ve-year term. Mr. Richmond also
+mentioned that NVS has been engaged as The MetroHealth System?s Construction Monitor stating
+NVS will provide quarterly monitoring reports regarding the progress of construction of the
+Transformation Project, which will be comprised of actual costs incurred and anticipated to be
+incurred through completion through the year 2023. Mr. Richmond stated The MetroHealth System
+was awarded the Ohio Auditor of State Award which is presented for excellence in ?nancial
+reporting in accordance with Generally Accepted Accounting Principles (GAAP) and compliance
+with applicable laws for the ?scal year ended 2018.
+
+Cheryl Forino Wahl, Senior Vice President, Chief Ethics and Compliance Of?cer provided an
+update on the second quarter compliance program activities stating twenty?two percent of the
+annual work plan has been completed. Ms. Wahl stated that MetroHealth reviewed the Ethisphere
+analysis of its World?s Most Ethical Company application and developed an action plan to address
+opportunities prior to submitting the 2020 application. Ms. Wahl mentioned that the Ethics and
+Compliance department continues to make signi?cant progress on its 2019 goals. Compliance case
+reports have increased over the last three months and the number of reports is 0.66 per 100
+employees which is below the national benchmark of 1.4 reports per 100 employees. The number
+of cases reported anonymously is below the national benchmark signaling that employees are
+willing to identify themselves when speaking up about their compliance concerns. Ms. Wahl
+mentioned that pending the Board?s approval at the next meeting, the Code of Conduct will be
+
+Audit and Compliance Committee Meeting Minutes
+June 12, 2019
+Page 2 of 3
+
+updated to remove reference to a retired policy and that the entire document is now available in
+Spanish. Ms. Wahl shared that research?related con?icts of interest are now reviewed and managed
+by the Ethics and Compliance department. Lastly, Ms. Wahl stated that a committee was formed to
+address provider coding and documentation risk areas as well as a committee to enhance the
+oversight of privacy and security risks associated with third-parties.
+
+Jim Mylen, Partner with KPMG Advisory Services, serves as MetroHealth?s Director of Internal
+Audit. Mr. Mylen introduced Robin Barre, Director, who is part of the Internal Audit team. Mr.
+Mylen and Ms. Barre provided an update of the 2019 Internal Audit Plan and an overview of the
+accomplishments and goals for the second quarter. Mr. Mylen proceeded with providing an update
+on the second quarter 2019 Internal Audit Plan stating Internal Audit (IA) continues to perform
+
+. quarterly analytics and auditing procedures for payroll, Infor segregation of duties, and procure to
+
+I pay processes. Ms. Barre mentioned LA continues to support and participate in the ?nancial
+reporting governance program and that RSM, MetroHealth?s external auditor, discussed
+coordination and potential control reliance opportunities associated with the IT general controls
+supporting financial reporting controls. Mr. Mylen stated IA will provide data analytics general
+education training to the Ethics and Compliance team and that in response to survey feedback the
+department has enhanced audit communication and improved report distribution with key
+stakeholders. Ms. Barre stated that as MetroHealth continues to enhance their ?nancial reporting
+and governance processes and that IA has worked with Finance to help establish and develop
+procedures for a Financial Reporting Disclosure Committee (FRDC). The FRDC was implemented
+in the fourth quarter of 201 8. Ms. Barre also stated the FRDC will oversee procedures similar to
+those adopted by public companies to help ensure adequate internal controls over ?nancial
+reporting as part of the Sarbanes?Oxley Act of 2002 (SOX) compliance programs. Mr. Mylen
+mentioned that the 2019 Internal Audit Plan is on track and consists of ?fty-two projects. The plan
+includes ?fteen internal audits that are coordinated with Ethics and Compliance.
+
+Mr. Richmond introduced John Croy, RSM Senior Director and National Leader of Construction
+Advisory Services, who provided an update on the Transformation Project construction cost review
+services. Mr. Croy stated they continue to conduct reviews of the major vendors and
+contractors participating in the project as well as participates in the pencil draw process (draw
+invoice review). Mr. Croy indicated they reviewed the Guaranteed Maximum Price (GMP)
+contract for Phase which was the second of three proposals to be executed. The review identi?ed
+several adjustments which were applied to the ?nal GMP.
+
+David Fiser, Vice President, Chief Information Officer, provided a Cyber Security Program update.
+Mr. Fiser stated that Information Services continues to enhance the cyber phishing program and that
+phishing tests have been completed for January through May. Mr. Fiser mentioned that
+additional phishing and cyber education for employees was provided in March and April. Mr. Fiser
+shared that Imprivata has been selected for the remote Multi-Factor Authentication solution. Mr.
+Fiser also discussed that has been selected for a remote hosted Security Operations Center
+(SOC). The SOC provides 24/7/365 monitoring of MetroHealth?s cyber security systems for threat
+detection and on-site cyber remediation assistance with targeted completion in the fourth quarter of
+2019. Mr. Fiser proceeded with providing an update on recent HIPAA Security and Cyber Maturity
+Assessment with KPMG, MetroHealth?s Internal Auditors. KPMG recommended several areas of
+opportunity to further enhance security posture and information services continues to establish an
+overall plan and project initiation stages throughout 2019.
+
+Mr. Fiser continued with his Information Technology (IT) update stating Information Services has
+completed the Business Impact Analysis (BIA) reviews with various departments. As previously
+
+discussed, Mr. Fiser mentioned MetroI-Iealth currently utilizes University Hospitals Elyria Medical
+Center Data Center as the Disaster Recovery site and was noti?ed to vacate by December of 20 1 9.
+
+Audit and Compliance Committee Meeting Minutes
+June 12, 2019
+Page 3 of 3
+
+111.
+
+Mr. Fiser discussed that the Involta Data Center which is a co-location site in Akron, Ohio has been
+selected for hosting MetroHealth?s Disaster Recovery site. 1T has initiated the Disaster Recovery
+data center move and is completing the procurement of the hardware, software and services for the
+Disaster Recovery with a target completion in the third quarter of 2019. Mr. Fiser stated the
+selection of the partner for a new Technology Strategic Plan has been completed. The three to ?ve?
+year technology plan will be in alignment with the MetroHealth system strategic plan and estimated
+to be completed by the end of the year.
+
+A motion was made, seconded and passed to move the Committee into Executive Session to discuss
+trade secrets and litigation matters. The Committee returned to regular session at 3:56 pm.
+NON-CONSENT IACTION ITEMS
+
+A. No items at this time
+
+CONSENT ITEMS
+
+A. A Recommendation to the MetroHealth System Board of Trustees for the Approval of the Code
+of Conduct
+
+The Committee unanimously approved the recommendation for full Board action.
+
+There being no further business to bring before the Committee, the meeting was adjourned at 4:05 pm.
+
+Respectfully submitted,
+
+rai
+
+mond
+
+Executive Vice President and
+Chief Financial Of?cer
+

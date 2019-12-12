@@ -1,0 +1,187 @@
+Board of Commissioners of Cook County
+Technology and Innovation Committee
+Wednesday, November 20, 2019
+
+11:45 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+NOTICE AND AGENDA
+
+There will be a meeting of the Committee or Subcommittee of the Board of Commissioners of Cook
+County at the date, time and location listed above to consider the following:
+PUBLIC TESTIMONY
+
+Authorization as a public speaker shall only be granted to those individuals who have submitted in writing,
+their name, address, subject matter, and organization (if any) to the Secretary 24 hours in advance of the
+meeting. Duly authorized public speakers shall be called upon to deliver testimony at a time specified in
+the meeting agenda. Authorized public speakers who are not present during the specified time for public
+testimony will forfeit their allotted time to speak at the meeting. Public testimony must be germane to a
+specific item(s) on the meeting agenda, and the testimony must not exceed three minutes; the Secretary
+will keep track of the time and advise when the time for public testimony has expired. Persons authorized
+to provide public testimony shall not use vulgar, abusive, or otherwise inappropriate language when
+addressing the Board; failure to act appropriately; failure to speak to an item that is germane to the
+meeting, or failure to adhere to the time requirements may result in expulsion from the meeting and/or
+disqualify the person from providing future testimony.
+19-6767
+COMMITTEE MINUTES
+
+Approval of the minutes from the meeting of 10/23/2019
+
+Page 1 of 5
+
+ Technology and Innovation
+Committee
+
+NOTICE AND AGENDA
+
+19-5991
+Presented by: F. THOMAS LYNCH, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Enterprise Resource Planning
+Vendor: International Business Machines, IBM
+Request: Authorization for the Chief Procurement Officer to renew and increase contract
+Good(s) or Service(s): Software and System Integration Services
+Original Contract Period: 9/15/2015 - 9/14/2020 with one (1) five-year renewal option
+Proposed Amendment Type: Renewal and Increase
+Proposed Contract Period: Extension period 9/15/2020- 9/14/2025
+Total Current Contract Amount Authority: $76,856,202.00
+Original Approval (Board or Procurement): 9/9/2015, $66,546,900.00
+Increase Requested: $44,161,920.00
+Previous Board Increase(s): 6/28/2017($6,809,502.00); 7/19/2017($1,999,782.00);
+6/6/2018, ($1,500,000.00)
+Previous Chief Procurement Officer Increase(s): N/A
+Previous Board Renewals: N/A
+Previous Chief Procurement Officer Renewals: N/A
+Previous Board Extension(s): N/A
+Previous Chief Procurement Officer Extentiosn(s): N/A
+Potential Fiscal Impact: FY 2020 ($9,624,410); FY 2021;($$7,016,196); FY 2022 ($6,978,257),
+FY 2023 ($7,124,627); FY 2024 ($7,318,629); FY 2025 ($6,099,802)
+
+Page 2 of 5
+
+November 20, 2019
+
+ Technology and Innovation
+Committee
+
+NOTICE AND AGENDA
+
+November 20, 2019
+
+Accounts: 11000.1490.15050.540137
+Contract Number(s): 1418-14268
+Concurrences:
+The vendor has met the Minorityparticipation and partial MWBE waiver.
+
+and
+
+Women-owned
+
+Business
+
+Enterprise
+
+Ordinance
+
+via
+
+direct
+
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology is requesting authorization for the Chief Procurement Officer to
+approve utilization of County’s single five-year extension option with IBM included in our original
+contract. IBM served as integrator to implement the County Oracle EBS ERP system, and now provides
+hosting and managed services support for the ERP applications This amendment will allow IBM to
+manage the migration of the applications to the Oracle Cloud Infrastructure and they will continue to
+manage our hosted infrastructure. In addition, IBM will continue to provide managed services for the ERP
+application including Oracle EBS, Oracle Hyperion and Oracle Business Intelligence Reporting.
+Legislative History: 10/24/19 Board of Commissioners refer to the Technology and Innovation Committee
+
+19-6175
+Presented by: F. THOMAS LYNCH, Chief
+HADDOX, Chief, Bureau of Human Resources
+
+Information
+
+Officer,
+
+Bureau
+
+of
+
+Technology,VELISHA
+
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Bureau of Technology, Bureau of Human Resources
+Vendor: Oracle America Inc., Redwood City, California
+Request: Authorization for the Chief Procurement Officer to renew and increase contract
+Good(s) or Service(s): Services to extend Taleo HR recruiting system, renewal of ULA, and extend
+technical support and software maintenance
+Original Contract Period: 1/22/2015 - 1/21/2020, with five (5), one (1) year renewal options
+Proposed Amendment Type: Renewal and Increase
+Proposed Contract Period: Renewal, 1/22/2020 - 1/21/2023
+Total Current Contract Amount Authority: $18,372,232.90
+
+Page 3 of 5
+
+ Technology and Innovation
+Committee
+
+NOTICE AND AGENDA
+
+November 20, 2019
+
+Original Approval (Board or Procurement): Board, 2/10/2015, $12,150,000.00
+Increase Requested: $5,797,582.02
+Previous Board Increase(s): 2/10/2016, $671,331.50; 3/22/2017, $5,550,901.40
+Previous Chief Procurement Officer Increase(s): N/A
+Previous Board Renewals: N/A
+Previous Chief Procurement Officer Renewals: N/A
+Previous Board Extension(s): N/A
+Previous Chief Procurement Officer Extension(s): N/A
+Potential Fiscal Impact: FY 2019 $300,000.00 FY 2020 $2,057,486.00 FY 2021 $1,720,048.00, FY 2022
+$1,720,048.02
+Accounts:
+BHR)
+
+11000.1490.15050.540137 ($1,720,771.00 BOT);11000.1490.33910.540130 ($336,715.05
+
+Contract Number(s): 1390-12899
+Concurrences:
+The contract-specific goal set on this contract was zero.
+
+The Chief Procurement Officer concurs.
+Summary: The Taleo renewal is for our established County HR recruiting system, which is utilized by
+Offices Under the President, Assessor, Clerk of the Circuit Court, Cook County Health, Juvenile
+Temporary Detention Center, Forest Preserves, Recorder of Deeds and the Sheriff.
+Our ERP system
+will be migrating to a new Oracle Cloud environment and extending the ULA allows the County to make
+any licensing changes required to support the migration. The County will also gain the ability to certify
+software licenses in the Oracle Cloud and pay continuing maintenance.
+
+The contract was awarded through Request for Proposals (RFP) process in accordance with the Cook
+County Procurement Code. Oracle America, Inc. was awarded this contract based on established
+evaluation criteria.
+Legislative History: 10/24/2019 Board of Commissioners refer to the Technology and Innovation Committee
+
+Page 4 of 5
+
+ Technology and Innovation
+Committee
+
+NOTICE AND AGENDA
+
+Secretary
+Chairman:
+Tobolski
+Vice-Chairman: Morrison
+Members:
+Britton, Daley, Deer, Degnen, Miller, K. Morrison and Silvestri
+
+Page 5 of 5
+
+November 20, 2019
+
+ 

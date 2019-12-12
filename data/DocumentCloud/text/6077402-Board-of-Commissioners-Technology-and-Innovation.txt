@@ -1,0 +1,277 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+Tuesday, May 14, 2019
+
+11:15 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+PUBLIC TESTIMONY
+
+Chairman Tobolski asked the Secretary to the Board to call upon the registered public
+speakers, in accordancewith Cook County Code.
+1. Mark Armstrong - Chicago Urban Fine Arts Commonwelath
+
+19-3477
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 3/19/2019
+A motion was made by Commissioner Britton,
+19-3477. The motion carried by the following vote:
+
+seconded
+
+by
+
+Commissioner
+
+Daley,
+
+Ayes:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+
+to
+
+approve
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+May 14, 2019
+
+19-1907
+Sponsored by: JEFFREY R. TOBOLSKI, Cook County Board Of Commissioners
+PROPOSED RESOLUTION
+REQUESTING A HEARING OF THE TECHNOLOGY
+AND INNOVATION COMMITTEE
+TO DISCUSS THE FEASIBILITY AND EFFICACY OF VOLUNTARY REMOTE COURT APPEARANCES
+WHEREAS, audio and video appearances in courtrooms offer an enormous potential for savings,
+revenue generation, environmental benefits, improved safety and remote access to justice which promotes
+the administration of justice and equity in the courtroom; and
+WHEREAS, remote court appearances allow attorneys and the public to appear in court for routine
+matters involving Civil, Criminal, Family, Probate, Mental Health, Traffic, Juvenile, Bankruptcy and other
+proceedings without leaving their homes or offices; and
+WHEREAS, in 2016, In its Call to Action: Achieving Civil Justice for All, the Conference of Chief
+Justices’ Civil Justice Improvement Committee set forth a convincing series of findings and
+recommendations, which among them was the promotion of remote audio and video services for court
+hearings and management; and
+WHEREAS, the Center for Legal and Court Technology, a non-profit research organization that
+improves the administration of Justice through the use of technology, progressively encourages the
+utilization of remote and video court appearances throughout the United States to enhance the efficiency
+of judicial administration and court proceedings for both attorney’s and the public; and
+WHEREAS, in 1992, the Supreme Court of Illinois adopted rule 185 to allow for telephonic appearances
+in certain civil proceedings; and in 2017, the Supreme Court of Illinois amended its rules to also allow for
+remote video conferences; and
+WHEREAS, in Los Angeles Superior Court a system with approximately 494 judicial officers and
+comparable to the Cook County Circuit Court, over 200 of those judicial officers allow for remote court
+appearances with a volume of over 83,000 appearances in 2018; moreover, approximately $4.6 million in
+revenue over a three-year period attributable to remote court appearances in Los Angeles was generated;
+and
+WHEREAS, in Illinois, approximately 20 counties spread over 12 Judicial Circuits utilize some form of
+audio and video remote appearances with approximately 4,516 remote appearance being completed in
+2018; more particularly, the following “Collar” county courts use remote court appearance technology: the
+16th Judicial Circuit - Kane County 3,305 appearances since 11/2011, the 18th Judicial Circuit Court DuPage County 1,379 since 9/2014, the 19th Judicial Circuit - Lake County 1,456 since 6/2016 and the
+22nd Judicial Circuit - McHenry County 2,280 since 4/2014; and
+
+Page 2 of 5
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+May 14, 2019
+
+WHEREAS, Cook County has been and continues to be a leader in technology through strategic
+Countywide initiatives and collaboration with elected offices; thus, our existing applications and resources
+will allow for a seamless integration of our existing technology platforms with audio and video remote
+appearances; and
+WHEREAS, the use of video and audio remote court appearances has the potential to offer key benefits
+to the public, such as cost savings on attorney fees for lower-income citizens, increasing pro bono
+assistance, availability of court interpreters, travel costs and work absences associated with attending a
+court hearing can deter self-represented litigants from effectively pursuing or defending their legal rights,
+thereby further promoting access to justice in courts.
+NOW, THEREFORE, BE IT RESOLVED, that the Cook County Board of Commissioners does
+hereby request a hearing of the Technology and Innovation Committee be convened to review and discuss
+the potential feasibility, application, and access to justice that remote court appearances may have in Cook
+County courtrooms; and
+BE IT FURTHER RESOLVED, that a representative from the Chief Judge’s Office, Court of Clerk’s
+Office, and Cook County Bureau of Technology appear before the Committee and be prepared to update
+the committee on the feasibility and efficacy of remote court appearances.
+A motion was made by Commissioner Daley, seconded
+by
+recommend for approval 19-1907. The motion carried by the following vote:
+
+Commissioner
+
+Ayes:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+
+A motion was made to suspend the rules to take up supplemental.
+following vote:
+
+The
+
+motion
+
+Ayes:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+19-2799
+
+Presented by: F. THOMAS LYNCH, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: CDW-Government (CDW-G) LLC, Vernon Hills, Illinois
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Page 3 of 5
+
+Silvestri,
+
+carried
+
+by
+
+to
+
+the
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+May 14, 2019
+
+Good(s) or Service(s): Data Center and Network Communication Products and Related Services
+Contract Value: $30,000,000.00
+Contract period: 6/1/2019 - 5/31/2024, with three (3) one-year renewal options.
+Potential Fiscal Year Budget Impact:
+FY 2019 $3,000,000, FY
+$56,000,000, FY 2022 $56,000,000, FY 2023 $56,000,000, FY 2024 $23,000,000
+
+2020 $56,000,000,
+
+FY
+
+2021
+
+Accounts: Various Countywide accounts.
+Contract Number(s): 1830-17422
+Concurrence(s):
+The vendor has
+participation.
+
+met
+
+the
+
+Minority-
+
+and
+
+Women-owned
+
+Business
+
+Enterprise
+
+Ordinance
+
+via
+
+direct
+
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology is requesting authorization for the Chief Procurement Officer to
+enter into and execute a five-year contract with CDW-G to serve as a value-added reseller for the
+County for data center and server products. Through this proposed agreement, CDW-G will provide the
+County with data center and networking products and related services, including maintenance, installation,
+training, and support. All County agencies require these products and services to maintain IT infrastructure.
+This contract was awarded through a publicly advertised competitive Request for Proposal (RFP) process
+in accordance with the Cook County Procurement Code. CDW-G was awarded based on established evaluation
+criteria.
+This agreement will replace, in part, Cook Contract No. 13-28-026 between the County and CDW-G, through which
+CDW-G provided software, data center, and server products.
+A motion was made by Commissioner
+Britton, seconded
+by
+recommend for approval 19-2799. The motion carried by the following vote:
+
+Commissioner
+
+Ayes:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+
+Page 4 of 5
+
+Daley,
+
+to
+
+ Technology and Innovation Committee
+
+Committee Minutes
+
+May 14, 2019
+
+ADJOURNMENT
+
+A motion was made by Commissioner Silvestri, seconded
+adjourn the meeting. The motion carried by the following vote:
+
+by
+
+Vice
+
+Chairman
+
+Ayes:
+
+Tobolski, Morrison, Britton, Daley, Deer, Degnen, Morrison and Silvestri (8)
+
+Absent:
+
+Miller (1)
+
+Respectfully submitted,
+
+Chairman
+
+Secretary
+
+A complete record of this meeting is available at https://cook-county.legistar.com.
+
+Page 5 of 5
+
+Morrison,
+
+to
+
+ 

@@ -1,0 +1,155 @@
+ 
+ 
+
+           
+ 
+ 
+ September 10, 2014 
+             
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item No. 3 
+
+WEBSITE DESIGN AND CONFIGURATION SERVICES CONTRACT  
+FOR 2014 WAIT LIST LOTTERY REGISTRATION 
+ 
+To the Honorable Board of Commissioners: 
+ 
+
+RECOMMENDATION 
+It is recommended that the Board of Commissioners authorizes the Chief Executive Officer (“CEO”) or 
+his designee to enter into a contract with NTT Centerstance, Inc. for website design and configuration 
+services for the 2014 wait list lottery registration.  The value of the contract is $151,370.      
+ 
+The  Deputy  Chief  Housing  Officer  of  Housing  Choice  Voucher  and  the  Department  of  Procurement 
+and Contracts have completed all necessary due diligence to support the submission of this item and 
+recommend the approval of this item accordingly. 
+ 
+
+CORPORATE GOAL 
+The  CHA’s  mission  is  to  leverage  the  power  of  affordable,  decent,  safe,  and  stable  housing  to  help 
+communities thrive and low‐income families increase their potential for long‐term economic success 
+and a sustained high quality of life. 
+ 
+The wait list registration lottery is the primary tool the CHA uses to identify low‐income families in 
+need  of  housing  assistance.    Registering  for  the  wait  list  lottery  is  the  first  step  that  a  low‐income 
+family takes to obtain housing assistance, thereby increasing their potential for long‐term economic 
+success and a sustained high quality of life.  
+ 
+BACKGROUND 
+The  wait  list  resolution  that  the  Board  of  Commissioners  approved  in  July  included  authority  to: 
+“amend  contracts  and  increase  the  compensation  amounts  with  existing  vendors,  as  deemed 
+necessary,  to  provide  additional  services,  including  a  call  center,  development  and  hosting  of  an 
+online registration form…and other goods and services that may be necessary or appropriate.” 
+ 
+The CHA initially anticipated that it would utilize an existing vendor to perform these services, but in 
+subsequent conversations, that vendor indicated that it would not be able to do so.  The CHA also 
+explored  using  other  existing  CHA  contracts  for  this  project,  but  could  not  identify  any  existing 
+contracts that included a similar scope of work.  As a result, the CHA issued a small‐order bid for the 
+website design and configuration services on August 7, 2014, with bids due to the CHA on August 19, 
+2014. 
+ 
+The CHA’s initial independent cost estimate for these services was $86,000, based on the costs for 
+similar services in 2010.  As such, the CHA did not anticipate needing Board authority to enter into 
+this contract. 
+ 
+
+ The CHA received two bids for these services: one for $151,370 from NTT Centerstance, Inc. and one 
+for  $300,000  from  Strike  First  Security  Labs,  LLC.    NTT  Centerstance,  Inc.  was  deemed  to  be  the 
+lowest responsive bidder.   
+ 
+The  wait  list  registration  is  planned to  open  in  October  2014.    To  ensure  adequate  time  to  design, 
+develop,  and  test  the  web‐based  registration  form,  the  CHA  must  enter  into  a  contract  with  NTT 
+Centerstance, Inc. as soon as possible.   
+ 
+CONTRACT DETAILS 
+Vendor: NTT Centerstance, Inc. 
+Value of contract: $151,370 
+MBE/WBE: subcontracting $31,160 (21% of contract value) to Clarity Partners, Inc. 
+Section 3: contributing $4,541 (3% of contract value) to the Section 3 Fund 
+ 
+CONTRACT SCOPE 
+The scope of services for this project includes: 
+• Designing and configuring of the CHA’s existing Salesforce.com website platform to serve as an 
+online registration portal for the 2014 wait list lottery 
+• Programming  logic  to  identify  duplicate  registration  forms  when  compared  against  pre‐loaded 
+data as well as registration forms submitted through the on‐going processing 
+• Using a lottery system to randomly select a subset of all valid registration forms received during 
+the registration period 
+• Generating an automated letter informing all registrants who were not selected for the wait list 
+• Exporting  the  final  list  of  accepted  registrants’  information  into  a  standard  and  predefined  file 
+and data format for import into the CHA’s Yardi system 
+• Providing  testing  plans  that  shall  include  scenarios  using  conditions  that  simulate  200,000 
+concurrent users and conduct functional and load testing according to the test plan 
+• Being responsible for 24/7 support and resolve all errors 
+• Providing testing and training materials to CHA staff 
+• Providing training for CHA staff 
+• Providing  an  administrative  toolset  that  allows  for  simple  reporting,  reviewing,  updating,  and 
+editing submitted records, exception reporting and the ability to reconcile duplicate entries 
+ 
+The  Board  action  recommended  in  this  item  complies  in  all  material  respects  with  all  applicable 
+Chicago Housing Authority board policies and all applicable federal (HUD) procurement laws.  
+ 
+The  Chief  Housing  Officer  concurs with  the  recommendation  for  CHA to  enter  into  a  contract  with 
+NTT Centerstance, Inc. in the amount of $151,370 for website design and configuration services for 
+the 2014 wait list lottery registration. 
+ 
+The  CEO/President  recommends  the  approval  for  CHA  to  enter  into  a  contract  with  NTT 
+Centerstance, Inc. in the amount of $151,370 for website design and configuration services for the 
+2014 wait list lottery registration. 
+ 
+
+2 
+ 
+
+  
+ 
+RESOLUTION NO. 2014‐CHA‐92 
+WHEREAS,  
+
+the Board of Commissioners has reviewed the Board Letter dated September 
+16,  2014  entitled  “WEBSITE  DESIGN  AND  CONFIGURATION  SERVICES 
+CONTRACT FOR 2014 WAIT LIST LOTTERY REGISTRATION”; 
+
+  
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY 
+ 
+THAT 
+the Board of Commissioners authorizes the Chief Executive Officer (“CEO”) or 
+his  designee  to  enter  into  a  contract  with  NTT  Centerstance,  Inc.  in  the 
+amount  of  $151,370  for  website  design  and  configuration  services  for  the 
+2014 wait list lottery registration.  
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+ 
+
+ 

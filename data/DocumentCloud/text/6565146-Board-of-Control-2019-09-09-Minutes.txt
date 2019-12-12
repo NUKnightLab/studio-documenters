@@ -1,0 +1,810 @@
+Minutes
+Cuyahoga County Board of Control
+Monday, September 9, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:02 a.m.
+Attending:
+Dennis Kennedy, Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Trevor McAleer, County Council (Alternate for Dan Brady)
+Councilman Dale Miller
+Joseph Nanni, County Council (Alternate for Nan Baker)
+Michael Chambers, Finance and Operations Administrator, Department of Public Works
+(Alternate for Michael Dever)
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 9/3/2019
+Dennis Kennedy recused from voting on the minutes from September 3, 2019 as he was not present for
+the meeting. Dale Miller motioned to approve the minutes from the September 3, 2019 meeting; Joseph
+Nanni seconded. The minutes were approved by majority vote as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+B. – New Items for Review
+BC2019-674
+Department of Public Works, submitting an amendment (Subsidiary No. 1) to Contract No. CE1800212
+with Becdir Construction Co. for rehabilitation of West 41st Street Bridge No. 01.05 over Norfolk Southern
+Railway and Train Avenue in the City of Cleveland for additional funds in the amount not-to-exceed
+$77,927.40; recommending to accept construction as complete and in accordance with plans and
+specifications; requesting authority for the County Treasurer to release the escrow account, in accordance
+with Ohio Revised Code Section 153.63.
+Funding Source: $5.00 Vehicle License Tax Fund
+Michael Chambers, Department of Public Works, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-674 was unanimously approved.
+
+ BC2019-675
+Department of Development, recommending an economic development loan in the amount not-toexceed $350,000.00 to The Hive My Place Ltd. or its designee to assist with building renovation and tenant
+improvements, purchase of machinery, furniture, fixtures and equipment for property located at 2019
+Center Street, Cleveland.
+Funding Source: Economic Development Loan Fund
+Anthony Stella, Department of Development, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Joseph Nanni seconded. Item BC2019-675 was unanimously approved.
+BC2019-676
+Department of Development,
+a) Submitting an RFP exemption on RQ46355, which will result in a payment to Fund for Our Economic
+Future of Northeast Ohio in the amount not-to-exceed $100,000.00 for operational support of the
+Mobility to Work Project for the period 9/1/2019 – 12/31/2019.
+b) Recommending a payment to Fund for Our Economic Future of Northeast Ohio in the amount not-toexceed $100,000.00 for operational support of the Mobility to Work Project for the period 9/1/2019 –
+12/31/2019.
+Funding Source: General Fund – Discretionary
+Ted Carter, Department of Development and Bethia Burke, Fund for our Economic Future of Northeast
+Ohio, presented. Dale Miller asked what the total project amount and the breakdown of financial
+contributions were and asked for a description of the 3 other proposals that were selected for this project;
+and asked where the jobs will be located that result from the project. Trevor McAleer asked what the nonfinancial contributions from other project partners, such as Greater Cleveland Regional Transit Authority
+and Cuyahoga Community College were and asked for clarification on the funding source. Dennis Kennedy
+motioned to approve the item; Joseph Nanni seconded. Item BC2019-676 was unanimously approved.
+
+The following item was held at the request of the department.
+BC2019-677
+Department of Information Technology, submitting an amendment to Contract No. CE1200652 with
+Rimini Street, Inc. for maintenance and support services on the SAP Human Capital Management R3
+System for the period 11/6/2012 - 10/30/2019 to extend the time period to 4/30/2020 and for additional
+funds in the amount not-to-exceed $39,151.00.
+Funding Source: General Fund
+
+ BC2019-678
+Department of Public Safety and Justice Services,
+a) Submitting an RFP exemption on RQ46471, which will result in an award recommendation to Main Sail,
+LLC in the amount not-to-exceed $45,000.00 for updates to the web-based Advocate Information Case
+Management System for the Witness Victim Service Center for the period 9/9/2019 – 6/30/2020.
+b) Recommending an award on RQ46471 and enter into a contract with Main Sail, LLC in the amount notto-exceed $45,000.00 for updates to the web-based Advocate Information Case Management System for
+the Witness Victim Service Center for the period 9/9/2019 – 6/30/2020.
+Funding Source: Health and Human Services Levy Fund
+Mary Beth Vaughn, Department of Public Safety and Justice Services and Jeanelle Greene, Department of
+Information Technology, presented.
+Joseph Nanni asked for confirmation that Mail Sail, LLC owns the source code and recommended that
+future contracts with this provider contain a clause where the County is in possession of the source code
+so that a change of provider, if necessary, would be easier; asked if the employee who developed this
+system will also provide the updates, which could justify using this same provider; and asked if any other
+person with an information technology background could provide services.
+Trevor McAleer asked how the department can be certain that the award amount for the updates by Main
+Sail, LLC is cost-effective if bids were not sought for the maintenance services; asked if the County has had
+prior maintenance contracts with this provider; asked if maintenance will be required after 6/30/2020;
+expressed concern about accessibility to the source code if another provider was selected to provide
+upgrades to the system and also was concerned with the number of no-bid contracts over the past 18
+months with this provider mainly due to the Enterprise Resource Planning Project; asked if the hourly rate
+to be paid allows for enough time to complete the upgrade and if any future amendments are anticipated;
+asked how long the department is expecting to use the software once the upgrade is complete; and asked
+what the average cost is to replace a case management system.
+Dennis Kennedy asked for confirmation and follow up by the department that Main Sail, LLC is the same
+provider that is providing staffing services for the Enterprise Resource Planning Project as well as other
+questions raised during the presentation. Dennis Kennedy motioned to approve the item; Michael
+Chambers seconded. Item BC2019-678 was unanimously approved.
+BC2019-679
+Department of Health and Human Services/Community Initiatives Division/Office of Re-entry,
+a) Submitting an RFP exemption on RQ46437, which will result in an award recommendation to Case
+Western Reserve University, School of Law in the amount not-to-exceed $254,080.00 for development
+and operation of a law school clinic to serve formerly incarcerated individuals in connection with the
+Department of Justice Innovations in Re-entry Initiative for the period 9/15/2019 – 9/14/2021.
+b) Recommending an award on RQ46437 and enter into a contract with Case Western Reserve University,
+School of Law in the amount not-to-exceed $254,080.00 for development and operation of a law school
+clinic to serve formerly incarcerated individuals in connection with the Department of Justice Innovations
+in Re-entry Initiative for the period 9/15/2019 – 9/14/2021.
+Funding Source: Bureau of Justice Assistance Grant
+
+ Fred Bolotin, Office of Re-entry, presented. Joseph Nanni asked how the department will market this
+program to increase awareness of available services. Dennis Kennedy asked if the monthly payments will
+be of equal amounts and how much will the payments be. Dennis Kennedy motioned to approve the item;
+Joseph Nanni seconded. Item BC2019-679 was unanimously approved.
+BC2019-680
+Office of the Medical Examiner, submitting an amendment to Contract No. CE1400287 with VertiQ
+Software, LLC for maintenance and support on CME Case Management Software for the period 9/1/2014
+- 8/31/2019 to extend the time period to 8/31/2024 and for additional funds in the amount not-to-exceed
+$57,099.96
+Funding Source: General Fund
+Mary Beth Vaughn, Department of Public Safety and Justice Services, on behalf of the Office of the Medical
+Examiner, presented. Trevor McAleer asked if the County owns or has access to the source code for this
+software. Dennis Kennedy motioned to approve the item; Joseph Nanni seconded. Item BC2019-680 was
+unanimously approved. Ms. Vaughn returned after the vote was taken to clarify her prior presentation
+and provided additional information on this item.
+BC2019-681
+Sheriff’s Department, recommending an award on RQ46749 to Bob Barker Company in the amount notto-exceed $9,455.00 for the purchase of (100) anti-suicide turtle/jumpsuits for Cuyahoga County jail
+inmates.
+Funding Source: General Fund
+Laura Simms, Sheriff’s Department, presented. Dale Miller asked which inmates would use these
+jumpsuits and where would they be worn. Trevor McAleer asked how this jumpsuit differs from the antisuicide gowns that were approved for purchase at the September 3, 2019 Board of Control Meeting; asked
+if other vendors sell these jumpsuits or must they be purchased through the Bob Barker Company; and
+asked if there are plans to purchase additional jumpsuits. Dale Miller asked if other vendors can provide
+a similar product that may be considered. Dennis Kennedy motioned to approve the item; Trevor McAleer
+seconded. Item BC2019-681 was unanimously approved.
+C. – Consent Agenda
+Trevor McAleer referred to Item No. BC2019-683 – proposed travel for the Department of Public Works
+for 4 staff attending a conference in New Orleans, LA on 9/23/2019 – 9/27/2019 in the total amount of
+$8,000.00 and commented that the Fiscal Officer has repeatedly recommended that the departments
+send staff to other jurisdictions to view the Infor product and that the Department of Public Works has
+acted on that recommendation with this travel request. There were no further questions or comments.
+Dennis Kennedy motioned to approve items BC2019-682 through – 684; Trevor McAleer seconded, the
+consent items were unanimously approved.
+BC2019-682
+Department of Public Safety and Justice Services, submitting an agreement with the Cuyahoga County
+Local Emergency Planning Committee for emergency management planning and preparedness services
+for the period 8/26/2019 – 8/26/2025, in accordance with Ohio Revised Code 3750.03.
+Funding Source: N/A
+
+ BC2019-683
+Fiscal Office presenting proposed Travel for the week of 9/9/2019
+Travel Requests
+Department
+
+Department
+of Public
+Works
+
+Staff
+(4)
+John
+Thompson
+Anthony
+Franczak
+
+Event
+
+A conference
+entitled
+“Inforum
+2019”
+
+Host
+
+Infor
+
+Dates of
+Travel
+9/23/9/27/2019
+
+Location
+
+New
+Orleans,
+LA
+
+Expenses
+
+**Lodging$3,840.00
+**Meals $560.00
+
+Bryan
+Hitch
+
+**Ground
+Transportation$720.00
+
+Mitch
+Holt
+
+***Airfare$2,880.00
+
+Funding
+Source
+General
+Fund$5,000.00
+Road &
+Bridge$3,000.00
+
+Total- $8,000.00
+
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($2,880.00)
+
+Purpose:
+This is Infor’s Annual Customer Event. Attendees will be able to obtain necessary training, work face-to-face with
+the vendor on current and future issues, and meet with existing customers to create and expand the network of
+individuals who can help with the implementation of the Infor ERP system.
+
+ Travel Requests
+Department
+
+Department of
+Information
+Technology
+
+Staff
+
+Thomas
+P. Fisher
+
+Event
+
+Host
+
+A conference
+entitled “2019
+Urban and
+Regional
+Information
+Systems
+Association
+(URISA) GISPro
+Conference”
+
+Urban and
+Regional
+Information
+Systems
+Association
+(URISA)
+
+Dates of
+Travel
+9/27/10/2/2019
+
+Location
+
+New
+Orleans,
+LA
+
+Expenses
+
+*Registration$525.00
+
+Funding
+Source
+General
+Fund
+
+**Lodging$1,113.09
+**Meals $228.00
+**Ground
+Transportation$70.00
+**Baggage $60.00
+***Airfare$360.00
+
+****Discount($500.00)
+
+Total$1,856.09
+*Paid to host
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($360.00)
+****Note: Attendee is a member of the non-profit, URISA Board of Directors and because one of the
+two required face-to-face meetings of the Board will be held during the conference; the
+attendee receives a $500.00 discount – discount approved by the Inspector General.
+Purpose:
+The 2019 URISA GIS-Pro, the non-profit’s annual conference is being held in New Orleans, LA and attracts nearly
+500 GIS professionals from around the country and the world. The conference tracks have significant relevance to
+Cuyahoga County.
+Tom Fisher is co-presenting with Dr. Steven Steinberg and Ms. Rachel Rodriguez of Los Angeles County California on
+Enterprise-wide Addressing GIS Datasets.
+
+ Travel Requests
+Department
+
+Office of the
+Medical
+Examiner
+
+Staff
+(2)
+Eric
+Lavins
+Kimberly
+Yacoub
+
+Event
+
+A meeting
+entitled
+“Society of
+Forensic
+Toxicologists
+(SOFT) 2019
+Annual
+Scientific
+Meeting”
+
+Host
+
+Dates of
+Travel
+
+Society of
+Forensic
+Toxicologists,
+Inc. (SOFT)
+
+10/13/10/18/2019
+
+Location
+
+San
+Antonio,
+Texas
+
+Expenses
+
+*Registration$2,100.00
+
+Funding
+Source
+2018
+Coverdell
+Grant
+
+**Lodging$2,444.89
+**Meals –
+$288.00
+**Ground
+Transportation$141.48
+**Baggage$59.00
+***Airfare$753.30
+
+Total –
+$5,786.67
+
+*Paid to host
+**Staff reimbursement
+***Airfare covered by a contract with the County’s Travel Vendor – ($753.30)
+
+Purpose:
+For Eric Lavins, Supervisor Toxicology and Kimberly Yacoub, Forensic Scientist 1- Toxicology to attend the annual
+SOFT meeting for continued education and networking. The Society of Forensic Toxicologists is a not for profit
+professional organization composed of practicing forensic toxicologists and those interested in the discipline for the
+purpose of promoting and developing forensic toxicology. Through its annual meetings, the Society provides a
+forum for exchange of information and ideas among toxicology professionals in a friendly, relaxed atmosphere.
+SOFT sponsored programs, such as workshops, newsletters and sponsored technical publications constantly
+improve the forensic toxicologists’ skills and knowledge. The Society fosters friendship and cooperation among
+toxicologists and advocates a high level of professionalism through certification and accreditation programs.
+
+ Travel Requests
+Department
+
+Staff
+(3)
+
+Office of the
+Medical
+Examiner
+
+Thomas
+Gilson
+Elizabeth
+Mooney
+Luigino
+Apollonio
+
+Event
+
+Host
+
+Dates of
+Travel
+
+Location
+
+A meeting
+entitled
+“National
+Association of
+Medical
+Examiners
+(NAME) 2019
+Annual
+Meeting”
+
+National
+Association
+of Medical
+Examiners
+(NAME)
+
+10/18/10/22/2019
+
+Kansas City,
+Missouri
+
+Expenses
+
+*Registration$2,390.00
+**Lodging$2,699.76
+**Meals $482.00
+
+Funding
+Source
+FY2018
+Coverdell
+Grant $5,152.30
+General
+Fund –
+$2,269.38
+
+**Ground
+Transportation$331.10
+**Mileage$32.82
+**Parking –
+$260.00
+***Airfare –
+$1,226.00
+
+Total –
+$7,421.68
+
+*Paid to host
+**Staff reimbursement
+*** Airfare will be covered by a contract with the County’s Travel Vendor – ($1,226.00)
+Note: Dr. Luigina Apollonio will be presenting a poster as a member of the NAME Forensic Toxicology Committee.
+Purpose:
+For Dr. Gilson and Dr. Mooney to fulfill continuing medical education requirements and receive credits to maintain
+board certification and licensure. To gain knowledge of current topics and practices in Forensic Medicine. For Dr.
+Apollonio to attend for continued education and networking. Will also be presenting a poster as a member of the
+NAME Forensic Toxicology Committee.
+
+ BC2019-684
+Office of Procurement & Diversity, presenting proposed purchases for the week of 9/9/2019
+Direct Open Market Purchases
+(Purchases between $5,000 - $49,999.99 unless requiring assistance from
+the Office of Procurement & Diversity – See Below)
+
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+HS-19-46496
+
+(3,050) Polo shirts for staff
+
+Department of
+Health and Human
+Services
+
+B.P. Britches dba
+Christopher’s
+
+$23,102.50
+
+IS-19-46417
+
+(7) TeamViewer Mobile
+Device Support Licenses
+and (4) Add On Channels
+for Department of Health
+and Human Services
+
+Department of
+Information
+Technology
+
+Globecom
+Technologies, Inc.
+
+$14,118.96
+
+SH-19-46413
+
+Legal notice: Delinquent
+Land Sale #130
+
+Fiscal Office
+
+$32,151.25
+
+PR-19-45971
+
+(7) Forensic Tool Kit Suite
+software license renewals
+and support for the Ohio
+Internet Crimes Against
+Children Task Force
+
+Prosecutor’s Office
+
+Legal News Publishing
+Co., dba Daily Legal
+News
+AccessData Group, Inc
+
+Health and
+Human Services
+Levy Fund with
+50% of cost
+subsidized by
+employees
+$7,624.23 –
+Federal
+$6,494.73 –
+Health and
+Human Services
+Levy Fund
+General Fund
+
+$8,559.32
+
+Federal FY2017 ICAC
+Ohio Task Force
+Grant
+
+Total
+
+Funding Source
+
+Items/Services Received and Invoiced but not Paid:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+None
+
+Open Market Purchases
+(Over $50,000 or requiring assistance from the Office of Procurement & Diversity)
+
+Requisition #
+None
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+ V – OTHER BUSINESS
+Items of Note (non-voted)
+Item No. 1
+Department of Public Works, submitting an agreement of cooperation with the City of Berea for the
+resurfacing of West Street from the West Corporation Line to Prospect Road in connection with the 2020
+50/50 Resurfacing Program.
+Funding Source: $250,000 with County Road and Bridge Fund and $365,000 from the City of Berea
+Item No. 2
+Department of Public Safety and Justice Services, submitting an amendment to a grant award from the
+U.S. Department of Justice/Office of Violence Against Women for the creation of a centralized registry for
+protection orders in connection with the Office of Violence FY2016 Improving Criminal Justice Responses
+to Sexual Assault Domestic Violence, Dating Violence and Stalking Grant Program for the period 10/1/2016
+– 9/30/2019, to extend the time period to 9/30/2020.
+Funding Source: U.S. Department of Justice/Office on Violence Against Women
+
+ Item No. 3
+Contracts $0.00 - $4,999.99 – Processed and executed (no vote required)
+RQ No.
+
+Contract
+Number
+CE1900339
+
+Vendor
+
+RQ
+46698
+
+CE1900340
+
+Geoffrey L.
+Shapiro
+
+RQ
+46697
+
+CE1900341
+
+Ryan Lee Fogt
+
+RQ
+43471
+
+CE1800477
+
+Dunbar
+Armored Inc.
+
+RQ
+46696
+
+The Chip
+Terry Fund
+for First
+Responders,
+Inc.
+
+Service
+Description
+Speaker
+services and
+travel expenses
+for 2019
+Cuyahoga
+County
+Emergency
+Management
+Summit to be
+held on
+9/18/2019
+Speaker
+services and
+travel expenses
+for 2019
+Cuyahoga
+County
+Emergency
+Management
+Summit to be
+held on
+9/18/2019
+Speaker
+services and
+travel expenses
+for 2019
+Cuyahoga
+County
+Emergency
+Management
+Summit to be
+held on
+9/18/2019
+Armed guard
+and armored
+truck services
+for various
+County
+departments, to
+assign interest
+to Brink’s Inc.,
+effective
+6/1/2019
+
+Amount
+
+Department
+
+Date(s) of
+Service
+9/1/2019 –
+10/31/2019
+
+Funding
+Source
+General
+Fund
+
+Date of
+Execution
+8/22/2019
+(Executive)
+8/28/2019
+(Law Dept
+
+$545.00
+
+Department
+of Public
+Safety and
+Justice
+Services
+
+$875.00
+
+Department
+of Public
+Safety and
+Justice
+Services
+
+8/22/2019 –
+10/31/2019
+
+General
+Fund
+
+8/22/2019
+(Executive)
+8/28/2019
+(Law Dept
+
+$540.00
+
+Department
+of Public
+Safety and
+Justice
+Services
+
+9/1/2019 –
+10/31/2019
+
+General
+Fund
+
+8/22/2019
+(Executive)
+8/28/2019
+(Law Dept)
+
+$0.00
+
+Office of
+Procurement
+and Diversity
+
+1/1/2019 –
+12/31/2021
+
+Original
+Contract –
+General
+Fund
+
+8/30/2019
+
+ n/a
+
+AG1800151
+
+Cuyahoga
+Community
+College,
+Public Safety
+Training
+Center
+
+Private Security
+Academy
+Training
+services at the
+Western
+Campus located
+at 11000 W.
+Pleasant Valley
+Road, Parma
+
+$0.00
+
+Sheriff’s
+Department
+
+11/5/2018 –
+11/4/2019 to
+extend the
+time period
+to
+12/31/2020
+
+Original
+Contract –
+General
+Fund
+
+8/22/2019
+(Executive)
+8/28/2019
+(Law Dept)
+
+VI – PUBLIC COMMENT
+VII – ADJOURNMENT
+Dennis Kennedy motioned to adjourn; Dale Miller seconded. The motion to adjourn was unanimously
+approved at 11:46 a.m.
+
+ 

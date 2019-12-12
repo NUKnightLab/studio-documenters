@@ -1,0 +1,370 @@
+Chairman: David Vaught
+Members: Ed Bedore, Ricardo Morales, Larry Ivory, Bill Black
+
+Minutes – February 9, 2012 Meeting
+Present in Chicago:
+
+David Vaught
+Rick Morales
+
+Present in Springfield:
+
+Larry Ivory
+
+Absent:
+
+Ed Bedore
+Bill Black
+
+The Board started the meeting by confirming attendance at 1:05 p.m.
+First on the agenda was the approval of the minutes from January 12, 2012. Member Morales made a
+motion to accept the minutes as presented and was seconded by Member Ivory. The motion was
+unanimously approved.
+Next on the agenda was CMS Procurement Code Discussion with Chief Procurement Officer. In attendance
+were CPO Matt Brown and Acting Director of CMS Malcolm Weems. Director Weems wanted to update
+the Board on the working relationship with the CPO’s office regarding procurement and operational issues.
+The Rules have been filed and the Board has contacted CMS on what their views are on some of these
+issues. CMS wanted to clarify where they are at currently. They are not meeting like they have been in the
+past before the Rules were filed and there are a few issues that remain unresolved and CMS has some
+serious concern about those. Director Weems said some of those examples are the role of verification of
+need, access and involvement for review of non-Code activities and definition of the roles for the PCM’s.
+Director Weems said that there are two large procurements that are an issue - electric cars and the MSP
+procurement are both very problematic, and the fact that there are bills being introduced related to some of
+the issues that CMS had and were under the impression that there would be discussion between CMS and
+the CPO’s office and eventually the Board before everyone started working on their own. CMS is a little
+concerned that this has happened. Director Weems thinks for CMS another major issue out there is how the
+process goes for ordering off of master contracts and the CPO’s office views it a little differently because
+they believe they are not complete contracts. There are operational issues that are resulting from all of these
+different things and would like to get to a point of understanding of what it is the Board wants to see and
+how CMS should move forward. Lawmakers have reached out for their assistance, but CMS has not
+furnished any language to any of them at this time.
+Chairman Vaught stated that Director Weems mentioned two specific procurements that were problematicone of those was on the electric cars which have been stalled for months. How come this has not been
+resolved? Chairman Vaught thought it was discussed at the last meeting on the timeliness of resolving these
+issues. Director Weems replied that the CPO and the PCM are two different offices and he would have Mr.
+Brown discuss that. Director Weems stated that in general the electric cars has had a number of different
+issues, but thinks both MSP and the electric cars has had some discussion. But until there has been a
+determination made by the CPO’s office CMS cannot move forward.
+CPO Matt Brown stated that the electric cars procurement is pending and is awaiting award pending some
+verifications of the vendor’s capabilities and responsibilities. The MSP is a potential procurement that has
+M:120209
+
+511 WEST CAPITOL, SUITE 102, SPRINGFIELD, IL 62704
+Telephone: (217) 785-3988 Fax: (217) 557-9927 TTY (888) 642-3450
+
+ been designed for a master contract purpose and is to be solicited upon the conclusion of work. That
+particular procurement has been on the front and back burner for several months with various involvement
+from CMS, the CPO and the Procurement Compliance Monitors. He stated that he asked at a meeting
+yesterday if they could draw any concerns about that contract to a close by week’s end. Mr. Brown stated
+that to the fact that they are problematic he does not understand what the problem is and would like Director
+Weems to elaborate. Director Weems replied that Steve Rotello’s concerns and the MSP and CMS’s
+questions is how to prepare the procurement and solicitation so that it passes muster in order to move
+forward. This procurement, like you said, has been on the front and back burner for several months and yet
+even now if a resolution is come to at the end of this week or next the procurement will not be ready for
+July 1, which was really the target date. Director Weems stated to just tell CMS how to do it. CMS would
+like a definitive answer so they can move forward. The idea is to move quicker with something like this and
+to give CMS some type of recommendation on how to proceed with procurements that maybe the CPO’s
+office is not comfortable with. Mr. Brown replied that he appreciates that and speaking to matters of timing
+they do have an appreciation for the importance of such. He has spoken with several agency directors and
+CIO’s in agencies about their anticipated use of an MSP contract and often had very different discussions
+with each of them because of their understanding of the purpose of this master contract may not be that well
+carried forward to them either. The CPO’s office is working through understanding what the needs are for
+issuing this contract and the particular sensitivity for maintaining support for the State’s IT systems and also
+trying to find a way the most timely execution of such and also the concerns from the PCM’s about making
+sure the transaction passes muster. So, in that regard they are succeeding as they were able to sit down
+yesterday with stakeholders in the CMS office to have first hand conversations about that. Mr. Brown stated
+that the development of this has been on-going and he knows that July 1 is looming out there as a target
+date and expects to do everything they can to shoot for that date.
+Chairman Vaught commented that the electric cars were awaiting award and asked Mr. Brown to explain
+that because he doesn’t understand the waiting part. Mr. Brown replied that when responses are received
+from solicitation they begin to await award or await determination. That determination could ultimately be
+to not award or could be a variety of different types of determinations the Code authorizes. An example
+would be to award other than low bidder. He is not going to speak to whether any of those are applicable to
+this open procurement or not, but the bids have been received and are being evaluated and clarifications are
+being sought from the bidders so that CMS fully understands their capabilities to provide the cars the State
+has requested. Chairman Vaught stated that this doesn’t sound like waiting, but something active is going
+on. Chairman Vaught stated that it seems like there has been a lot of stalling going on for months and
+months. He understands that there are processes that need to be gone through, but doesn’t understand what
+the overall time limit is here. Chairman Vaught asked if there will be an award decision made within the
+next 10 days. Mr. Brown replied that from what he understands that CMS sought to obtain clarification
+from this vendor. The vendor must have misunderstood CMS’ request for clarification or probably
+understood it and didn’t answer it with a clarifying statement, but in seeking those answers CMS proposed
+to the vendor, but the vendor did not respond in a way that gave them favorability to award. It is just unclear
+and CMS has gone back to seek more clarification from the vendor using very express and direct language
+so they will answer in a plain and simple forthright way. At that point CMS should have a determination on
+whether it is awardable or not.
+Director Weems asked Mr. Brown if there were any other issues with the PCM for the electric cars. Mr.
+Brown replied that he was not sure because the PCM had been meeting with the Director’s office on that.
+No new concerns have been brought to his attention. Chairman Vaught asked if this time period is normal
+for this type of procurement. Mr. Brown replied that it is abnormal for this procurement and would also say
+that this procurement protracted because this is a multiple letting opportunity. The first procurement that
+was let was cancelled because there was not a level of satisfaction with performance in that first
+procurement. This second re-bid has gone pretty quickly as it goes to the statutory timelines, but the
+question and answer period is protracted and is more than he would like in a standard practice.
+Director Weems stated that the problem CMS has been having is always receiving something in writing
+letting them know what the problem is. When they say that they have tried to address those issues then they
+should give them some alternatives to what the solicitation language should look like so it can be put out to
+bid and can move through the process. It appears that the electric cars are a lot further along than the MSP.
+2
+M:120209
+
+ Director Weems stated with reference to what Chairman Vaught said about the PCM reporting to the CPO’s
+is just to tell CMS what the process is. He said it would be a shame to go all the way through this and then
+hear something else that will put them back to square one. This is what the confusion is because no one can
+seem to put a hand on what the relationship between the PCM and the CPO is.
+Chairman Vaught stated that the statute as he sees it is that the PCM reports to Mr. Brown. Director Weems
+replied that was their interpretation. Chairman Vaught stated that it says it in very clear language that the
+monitor serves but shall report to the appropriate CPO, but in the next sentence that the compliance monitor
+shall have direct communication with the Executive Officer of a State agency in exercising duties.
+Mr. Brown replied that he didn’t want to speak on behalf of the PCM, but with the conclusion of
+yesterday’s meeting was to reiterate the outline of limitation that the Chief Procurement Officer placed on
+the procurement. He stated that he received first hand concurrence from Director Weems staff that each and
+every one of those limitations was adhered to and that there was no exceeding of those boundaries. Further
+discussion led to the assignment of individuals from the Director’s staff and Mr. Brown’s State Purchasing
+Office to refine any language in the procurement that could be misconstrued somewhere down stream for
+others to accidently cross a boundary like that. Mr. Brown stated that they are working very diligently on
+that and they had set a 24-48 hour turn time on that and feels that it is very positive in working through
+everything that he has established as a requirement for the development of that solicitation. Mr. Brown
+stated that as for the PCM, Mr. Rotello did write a letter to Director Weems indicating some concerns that
+he had about his interpretation on the proposed solicitation and did have a lot of his questions answered.
+Member Morales asked at this point if everyone knows their roles. Mr. Brown replied that he thinks that
+there are some disagreements on the interpretation of statute for what the CPO does, what the agencies do
+and what the PCM’s do. The Ethics Commission has made an interpretation as it relates to PCM’s and
+CPO’s and has worked very diligently to express the role of the CPO. Mr. Brown has personally met with
+almost all of the State Agency Directors and their key staff in their offices and presented to them
+opportunities to establish what these roles are and how we conduct procurements in a successful manner.
+Chairman Vaught asked if the PPB had that determination of role by the EEC. Mr. Brown replied that he
+was not sure if it has been submitted to the Board in any written form. Mr. Brown stated that it is not in rule
+form, but it is an organizational design by the Commission and Commission staff on how to organize the
+office function. Chairman Vaught wanted to clarify that there are no draft rules on these roles. Mr. Brown
+replied he did not believe it to be the case, but would try to verify that. Chairman Vaught stated that he was
+just trying to understand because the statute seems to say that the SPO shall enter into contracts for a
+purchasing agency. Mr. Brown replied affirmatively. Chairman Vaught stated that those actions are subject
+for review by the CPO. That is pretty specific on actions and procurements there is no such language for the
+Procurement Compliance Monitor. Chairman Vaught commented that all it says is that the monitor reviews
+the processes. Mr. Brown replied that is correct. Chairman Vaught stated that he would be interested in
+knowing if that has been clarified because it seems to him that it is a far more general role than the SPO and
+the CPO’s role. Chairman Vaught stated that his point is that the PPB needs to hear these things from the
+Commission and the Board has a responsibility to look at this statute and to make recommendations to the
+General Assembly on revisions in statute if there is confusion. It seems to him that there is not only
+confusion, but a great deal of time delay in a couple of these procurements that are related to the
+Compliance Monitor and if the Board were to decide that the Commission has misinterpreted the statute the
+Board is entitled to know what their misinterpretation is. If they were going to operate in the open by Rule
+then the Board would see what that interpretation was. Chairman Vaught stated that there is a question the
+Board has raised here about the delay of the procurement, lack of timeliness of the procurement and the role
+of the PCM as it relates to the review of specific procurements.
+Mr. Steve Rotello with the EEC replied that he would be happy to address any concerns that the Board
+might have. Mr. Rotello stated that with the Commission’s interpretation they looked at two sentences of
+the section that creates the Procurement Compliance Monitor. The first of which says that the PCM’s
+oversee and review the procurement process. Chairman Vaught stated that it was incorrect that process was
+plural and was processes. Mr. Rotello replied that is correct because there is more than one process, there is
+more than one CPO and there is more than one procurement method. It is intended to include all of them.
+Mr. Rotello stated that there is another sentence, in the powers part. The Commission talked about the fact
+3
+M:120209
+
+ that the PCM has a right to see any contract or contract amendment before it is signed and before it is
+executed to make sure that things have been conducted in accordance with the Procurement Code. Mr.
+Rotello stated that it is very clear that there is also a transaction based review and not just the processes in
+general. With what the Commission did and in looking at the first few sentences they decided that the
+intention of the General Assembly was to create not so much a final review, but understood it as meaning
+that there is an independent set of eyes taking a look at this. It is also very clear that when the monitor finds
+something that is problematic it is to be reported. They believe that it is to be reported to the CPO. This is
+the sense in which the Commission believes the General Assembly intended for the PCM to report. Their
+belief was that there needed to be some independence between the monitors and the people who exercised
+authority. The Commission looked at this and thought that monitors should report any findings and results
+to the CPO, but did not mean that they need to be supervised by the CPO and that is the structure they have
+gone with. Mr. Rotello stated that as far as rules are it doesn’t appear they have rule making authority under
+the Code so this is through their ability to appoint the monitors to various positions. Chairman Vaught
+asked if this was a written determination by the Commission. Mr. Rotello asked what the Chairman meant
+by written determination. Chairman Vaught stated that the Commission seems to be making the
+determination that some might disagree with. The Chairman is curious if the Commission has made this in
+writing. Is the Executive Ethics Commission operating in the open in writing on these determinations and
+letting people know what their views are? Or are they just having oral secret conversations that the Board
+only learns about when they ask questions about them? Mr. Rotello replied that it is not secret and never has
+been. Chairman Vaught asked if the Board had this document. Mr. Rotello stated that he has introduction
+letters that have gone to the agencies when monitors are installed that explains this. That for supervisory
+purposes the monitor will report to…Chairman Vaught interrupted stating that Director Carter and Director
+Weems did not have a copy of that letter. Chairman Vaught’s first question is about whether the
+Commission is operating in the open and is going to furnish the Board copies of its determinations.
+Chairman Vaught stated that Mr. Rotello’s role is to look and report, is that correct? Then why would that
+cause delay? Mr. Rotello replied that sometimes the report is not particularly favorable and people want to
+take time to work out a better solution. So it takes a while to work that out. Chairman Vaught stated that he
+understands that answer. Member Morales recommended the Commission forward the introduction letters
+to Director Carter and if Director Carter cannot help with concerns that CMS has then it gets brought to the
+meetings for the Board to discuss and recommend solutions. Director Weems and Mr. Brown were in
+approval of that recommendation. No further questions or comments where made.
+Next on the agenda was Rules Update. CPO Mr. Brown stated that he was pleased to present to the Board
+that he has a stamped certified copy of the Rules from the Secretary of State. Now that the Rules have been
+filed the process is more formalized as prescribed by JCAR. He stated that it is his position as CPO to
+make sure that there are plenty of opportunities for both the bodies within State Government that are
+responsible for administering these Rules and the public and businesses that are affected by these policies to
+have ample opportunity to review and discuss them. There will be three public hearings for discussion of
+these matters. Mr. Brown has also made a commitment to CMS that as the work in progress goes this will
+not be the only round of rule revisions that they will be doing. As they receive updates in this Rule just to
+comply with the Procurement Code as amended by SB51 they will be refining processes and looking for
+best practices and how to create efficiencies that will benefit all. No further comments or questions were
+made.
+Next on the agenda was CMS Facilities. In attendance was Deputy Director of Property Management at
+CMS, Nick Kanellopoulos. Mr. Kanellopoulos gave an update on activities since the last Board meeting.
+Mr. Kanellopoulos stated that since the last meeting CMS has further reduced their lease costs by over $2
+million and are close to eliminating 2 million square feet of property that was leased before Governor Quinn
+came into office. The total cost reduction now stands at $43.6 million, which is an annualized number, and
+have eliminated 1.93 million square feet of space that CMS leased. To put it into a little better perspective
+for the Board in the month before Governor Quinn came into office CMS was leasing 9.016 million square
+feet of space. Today CMS leases 7.086 million square feet of space. That is a 21.4% reduction in the space
+that was leased. Mr. Kanellopoulos wanted to highlight two transactions for the Board that occurred this
+month in Chicago and in Springfield. In Chicago CMS awarded a DCFS lease located at 62nd and Emerald.
+This lease was the fifth most expensive lease in the State of Illinois. The total annual cost of the old lease
+was $2.6 million. By competitively bidding this lease at a reduced square footage CMS was able to reduce
+4
+M:120209
+
+ the total cost to $1.36 million in the first year. This is a reduction of $1.24 million and is now the 14th most
+expensive lease in the State by FY12 estimated costs. In Springfield CMS terminated the Lottery warehouse
+lease at 201 E. Madison. Last weekend the move was completed out of the Lottery building and into AIG
+with CMS Benefits. This warehouse lease was the most expensive warehouse lease in the State of Illinois
+and cost the State $329,000 a year annually. CMS is not 100% sure where they are going to end up with that
+because they don’t need as much space as they have. Once all of the surplus and other stuff that is not
+needed are moved CMS will have a better idea what they will need.
+Member Morales wanted to know if CMS only reviews expensive leases just when they came up for
+renewal or are looking at all leases that are expensive to see what can be done to reduce those costs. Mr.
+Kanellopoulos replied that CMS is looking at very expensive leases to see if they have favorable
+termination options and try to take advantage of them. The Emerald lease did not have a termination option
+and was expiring so CMS was able to do a re-bid when they had the opportunity at the end of its term. Mr.
+Kanellopoulos stated that many of the leases have renewal clauses and are not waiting to have them
+renewed and are re-bidding to take advantage of market conditions today. The Lottery warehouse lease does
+not expire so CMS had the ability to terminate it early, which was done.
+Next was HFS Lease 6377 at 3130 Chatham Road in Springfield. Mr. Kanellopoulos stated that at last
+month’s meeting Member Bedore asked CMS to consider moving this lease into the AIG building in
+Springfield. As stated before CMS Benefits has just been moved in. Also the Governor’s Fiscal Office
+moved in and a floor plan has been submitted to the Attorney General’s Office for consideration and there
+is a meeting set for next Tuesday to answer some questions and hope to have a final determination from
+them. CMS has also met with the Gaming Board to finalize some space for them that they need for
+additional hires. Right now CMS is still considering moving this lease there; however, CMS is not in a
+position to do that yet. Member Morales wanted to know why CMS could not tell the Attorney General’s
+Office to move into the space instead of just considering it. Mr. Kanellopoulos replied that the office is not
+under the jurisdiction of the Governor. Member Morales asked that in regards to leasing space that CMS
+could not dictate that they have to decide. Mr. Kanellopoulos replied affirmatively. No further questions
+were asked.
+Next was IDOT Lease 6348 at 2713 Stevenson Drive in Springfield. Mr. Kanellopoulos stated that CMS
+provided a spreadsheet to the Board that showed a list of leases that CMS would keep in mind whenever
+they would have a consolidation opportunity. The Board asked CMS to take a look at this IDOT lease and
+CMS has a contract with a consultant, Jones Lang LaSalle, who is going to take a look at State owned
+properties in Springfield and some of our State leased property. CMS and IDOT believe that if the Hanley
+Building was restacked at least part of this lease could go there and then the rest of it could move to other
+existing IDOT locations. So CMS believes this lease could go away with a little bit of work at one or two of
+the other State owned locations. CMS is starting the process now and would be happy to provide the Board
+with updates moving forward. Chairman Vaught asked if there were any leased locations by IDOT. Mr.
+Kanellopoulos replied he believes the Peoria location is, but would have to get back to the Board with
+confirmation on that. No further questions were asked.
+Next was DES Lease 4385 at 1300 S. 9th Street in Springfield. Mr. Kanellopoulos stated that this is a DES
+local office in Springfield. All he can say about this facility is that it is well utilized and does house about
+20 DES employees and about 30 of their partners. It is a very busy office. Most of the programs serve about
+4 counties. This lease was reviewed in 2009 with a five year term starting in March 2009. Mr.
+Kanellopoulos stated that they do have the right to get out of the lease after the 36 months, which was up as
+of February 2012. There were some expenses amortized when this lease was redone and was amortized over
+five years. If the State would terminate this lease today the State would be on the hook to pay the landlord
+for those improvements which was about $60,000.
+Next was the report on Printer/Electronic Consolidation. In attendance was Will Walker with CMS. Mr.
+Walker stated that CMS is now working on digital imaging as a way to reduce paper, reduce storage,
+improve efficiencies and ultimately, reduce costs. We are in the process of talking with many agencies
+about using technology to create a simpler, more cost efficient environment. As we work with agencies to
+reduce print costs, we are also involved in conversations to eliminate old files and mounds of paper.
+5
+M:120209
+
+ CMS is currently working with DHS, Benefits and Prison Review Board. They all face different challenges,
+but ultimately they share the same problem - too much paper taking up too much space and a very manual
+system.
+Mr. Walker stated that Doug Kasamis and his team have done an excellent job in moving to a paperless
+agency. By placing 3 forms “on line” they are reducing print costs by 558,747 pages per month. That is 6.5
+million pieces of paper annually. It equals a savings of $22,350 per month in print costs. If you add in
+storage/rent costs, the savings on an annual basis is about $336,000. DHS has 57 forms in all that will
+eventually be handled electronically. Chairman Vaught asked if they were still on the 18 month plan for this
+division. Mr. Walker replied that yes, but the project is a little bigger than they originally thought.
+Second, CMS Benefits has moved to a new building and are in the process of freeing up more space
+through paper reduction/elimination. They have 22,000 files, with an average of 50 pieces of paper per file.
+This equates to 1,100, 000 pieces of paper. Soon, we will begin the process of scanning the documents,
+storing them on file and have the capability of retrieving them electronically. After destroying the files this
+will free up storage space, reducing costs and improving efficiencies.
+Third, the Prison Review Board (PRB) has limited resources, a very manual process and rooms full of
+overflowing paper files. This agency has over 350,000 files, with an average of 50 pieces of paper, per file.
+This equates to 17,500,000 pieces of paper and growing. The plan is to have this agency move to a
+completely paperless format. CMS is in the process of developing two systems “Go Forward and Go
+Backward”. The Go Backward system will take all of their files, scan them and create digital files. The Go
+Forward system creates an electronic system for the agency to communicate send and receive most all
+documents electronically. Chairman Vaught wanted to know what other agencies were on the list to have
+this done. Mr. Walker replied that the PRB is connected to the Department of Corrections so CMS would
+like to move on with DOC because the mounds of paper they have is overwhelming and would be a great
+place to start. CMS is looking to target IDOT, EPA, Personnel, Compensation, and DNR next.
+Mr. Walker stated that this month’s cost telecom savings report includes an increase of $16,285 in savings.
+The grand total of savings is now estimated to be $426,573. Since the project started we have eliminated the
+following; 401 phone lines, 517 cell phone lines, 11 pagers, 337 air cards for laptop computers, 7 data
+circuits and 65 miscellaneous service reductions.
+Mr. Walker stated that in the area of print reduction the equipment reduction is now an impressive 6558
+fewer devices. This is up from last month’s report of 6484 reduced units. CMS added 5 more DOC
+facilities to our project this past month, which brings us to 11 out of 37 DOC facilities. Additionally, they
+added 5 DCFS locations to these numbers and also started working with all IDOT and DCEO locations.
+The projected savings has now surpassed the $3,000,000 mark. The print reduction is now an estimated
+$3,142,942. Chairman Vaught asked why DHS has 3500 agency printers. Mr. Walker replied that he
+doesn’t know the exact reason, but what he has seen when going into these agencies is that everyone has
+their own personal printer on their desk along with a separate personal fax machine. He stated that he is not
+sure how it got to that point.
+Mr. Walker stated that with the I-Cycle program the Board was provided a report that will track the FY12
+performance. To recap about 3,209,234 pounds of paper has been recycled, 267,470 pounds of card board,
+2,466 pounds of plastic, 6,742 pounds of aluminum, 12,415 pounds of tin, 63,443 pounds of assorted
+comingled items. In total this is a 5% increase over the previous month.
+Mr. Walker stated that the January electronics recycling report update is delayed until February 29 due to
+the transition from the State Armory to a new “direct transfer system” with two State Use recycling
+vendors. CMS issued new policies to all agencies on electronics disposal in December. The delay is due to
+reconfiguration of the surplus inventory reports. Those report changes are due this month and surplus will
+provide a combined January and February recycling report in March.
+
+6
+M:120209
+
+ Mr. Walker stated that the GSA program dramatically slowed down in January and will begin to slowly
+start again in February. The Federal Government virtually stops the auction process in January as they
+review inventory and sale practices. CMS will begin activity with GSA again over the next few months. No
+further questions were asked.
+Next on the agenda was Legislation. Director Carter stated that there are a couple of items to report.
+Director Carter stated that he was going to start with SB3371. This bill makes changes to the Procurement
+Code in reference to the Capitol Development Board. It provides that the CPO may establish procedures
+and rules for prequalification of supplies of construction and construction related services for firms
+providing construction management services. The CPO may also develop prequalification standards in
+categories for professional and artistic services. SB3397 introduced by Senator Holmes moves the Math and
+Science Academy under the definition of a public institution of Higher Education. SB2533 was talked about
+last month on the creation of State Facilities Closure Panel and it has not moved and is still in State
+Government and Veteran Affairs Committee. HB4568 deals with exempt transactions and amends the Code
+and provides that the Procurement Compliance Monitor and each CPO may access and review records
+necessary to determine whether a contract purchase or other expenditures is or is not subject to the
+provisions of the Code. SB3267 deals with SPO certification and changes the amount of time allotted for a
+SPO to be qualified as a Certified Professional Public Buyer from 18 to 24 months. HB4136 is the
+Procurement Bulletin and Vendor Portal creation and says that the CPO possesses the rights to and has
+authorities’ responsibility for publishing their volume of the Procurement Bulletin and also deals with the
+creation of a central vendor portal to expedite the opportunity for bidders, offerors, subcontractors and
+suppliers to participate in the solicitation process. HB5107 changes the Procurement Code for agreements
+for performance contracting. It shall be included in the definition of contract. It provides that the
+performance contract shall not be entered into for a period of time exceeding 20 years. Provides that
+installment payment performance contracts and performance based purchase agreements guarantee energy
+or operational cost savings shall be for the term not to exceed 20 years. HB5110 provides that an RFI may
+not be used in procuring a lease of a comprehensive physical center required for local workforce investment
+area pursuant to federal law and provides that the lease of a comprehensive physical center for local
+workforce investment area is exempt from the provisions concerning the length of leases. Chairman Vaught
+wanted to know who was putting that in. Director Carter replied Rep. Mautino. Director Carter continued
+with HB5313 provides additional exemptions to the Code for public institutions of Higher Education.
+Chairman Vaught asked who the representative was on this one. Director Carter replied Rep. Barickman.
+Lastly, HB5361 provides that the Procurement Policy Board, now the Executive Ethics Commission, shall
+appoint Procurement Compliance Monitors to oversee and review the procurement process. Director Carter
+stated that at the Board’s request the PPB provided a trailer bill to SB1750 and has gone through Legislative
+Reference Bureau and is looking for a sponsor to file. Member Ivory stated that he might have a few
+sponsors. Director Carter replied that they would talk after the meeting.
+The next scheduled meeting for the Procurement Policy Board is set for March 8, 2012 pending Board
+confirmation.
+With no further business to discuss a motion to adjourn was made by Member Morales and was seconded
+by Member Ivory. The motion was unanimously approved.
+
+7
+M:120209
+
+ 

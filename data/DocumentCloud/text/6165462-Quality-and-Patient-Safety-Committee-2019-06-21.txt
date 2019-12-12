@@ -1,0 +1,1088 @@
+Cook County Health:
+Ambulatory Quality Improvemen
+HEDIS Performance Projects Update
+Kathy Pavkov
+Mark Loafman
+
+June 21, 2019
+
+ HEDIS Metrics
+Healthcare Effectiveness Data and Information Set (HEDIS)
+•  Comprehensive set of standardized performance measures designed to provide purchasers and
+consumers with the information they need for reliable comparison of health plan performance.
+•  Widely used performance improvement tools with over 190 million people, enrolled in Medical insurance
+plans that report HEDIS results.   
+•  Relate to many significant public health issues, such as cancer, heart disease, smoking, asthma, diabetes,
+early detection and prevention
+•  For our Primary Care settings at CCH
+•  Data allow identification of performance gaps and establishment of realistic targets for improvement
+and to track progress
+•  Benchmark data with other providers
+•  Opportunity to partner with County Care and other Managed Care Health plans to improve care and
+capture additional financial incentives for CCH.
+Source: NCQA – National Committee on Quality Assurance.
+
+2
+
+ Population Health and HEDIS Measures
+Empanelment Denominator – Multiple definitions
+
+HEDIS
+(All Active patients)
+
+CountyCare
+(Assigned to CCH)
+
+Other
+plans
+
+3
+
+ Current HEDIS Measure Performance
+Top Performing Measures
+
+Opportunity for Improvement Measures
+
+Breast Cancer Screening (BCS)
+
+Comprehensive Diabetes Care (CDC) – Blood
+Pressure Control (<140/90 mm Hg)
+
+Comprehensive Diabetes Care (CDC) –
+Nephropathy Screening
+Comprehensive Diabetes Care (CDC) –
+HbA1c Testing
+
+Comprehensive Diabetes Care (CDC) – Eye
+Exam
+Comprehensive Diabetes Care (CDC) – HbA1c
+Control (<8%)
+Childhood Immunizations (CIS)
+Well-Child Visits (W15, W34) -15 months &
+3-6 years
+4
+
+ Proposed Priority HEDIS Measures for 2019
+Align with current CCH and CountyCare initiatives
+Goal: Exceed 80Th Percentile for the metrics
+Childhood Immunization Status (CIS)
+Comprehensive Diabetes Care (CDC)
+• 
+• 
+• 
+• 
+
+Blood Pressure Control (<140/90 mm Hg)
+HbA1c Control <8% (CDC – HbA1c <8%)
+Eye Exam (CDC – Eye Exam)
+Nephropathy Screening (CDC – Nephropathy Screen)
+
+Timeliness of Prenatal Care (PPC)
+Postpartum Care (PPC)
+Well Child Visits in the First 15 Months of Life – 6+ Visits (W15)
+Well-Child Visits in the Third, Fourth, Fifth and Sixth Years of Life (W34)
+5
+
+ Adult Hedis Measures- 2019- 12 month look back- IE. April 2019-April 2018
+
+April
+
+CDCNephropath
+y Screen 
+Rate - Feb
+
+April
+
+CDC-HbA1c 
+Test Rate- Feb
+
+CDC-BP Rate - 
+Feb
+
+April
+
+CDC-Eye 
+Exam Rate- 
+Feb
+
+Austin (AH)
+
+40%
+
+41%
+
+37%
+
+38%
+
+90%
+
+89%
+
+89%
+
+86%
+
+49%
+
+46%
+
+Cicero (CH)
+
+44%
+
+42%
+
+47%
+
+46%
+
+90%
+
+88%
+
+92%
+
+91%
+
+43%
+
+42%
+
+Cottage Grove 
+(CG)
+
+46%
+
+46%
+
+49%
+
+48%
+
+91%
+
+87%
+
+94%
+
+89%
+
+47%
+
+44%
+
+Englewood (EH)
+
+36%
+
+38%
+
+38%
+
+35%
+
+87%
+
+84%
+
+87%
+
+85%
+
+49%
+
+44%
+
+Logan Square 
+(LS)
+
+46%
+
+44%
+
+48%
+
+47%
+
+89%
+
+87%
+
+93%
+
+89%
+
+46%
+
+41%
+
+CORE
+
+59%
+
+59%
+
+27%
+
+26%
+
+79%
+
+77%
+
+90%
+
+87%
+
+54%
+
+51%
+
+Prieto (PH)
+
+47%
+
+83%
+
+57%
+
+55%
+
+90%
+
+88%
+
+85%
+
+84%
+
+40%
+
+36%
+
+Sengstacke (SH)
+
+46%
+
+47%
+
+46%
+
+45%
+
+90%
+
+87%
+
+86%
+
+84%
+
+47%
+
+42%
+
+OFHC (OF)
+
+48%
+
+48%
+
+57%
+
+56%
+
+91%
+
+88%
+
+86%
+
+83%
+
+50%
+
+44%
+
+Robbins (RH)
+
+43%
+
+45%
+
+56%
+
+54%
+
+89%
+
+86%
+
+90%
+
+87%
+
+50%
+
+45%
+
+Arlington Heights 
+(AR)
+
+45%
+
+45%
+
+27%
+
+26%
+
+88%
+
+85%
+
+92%
+
+88%
+
+42%
+
+38%
+
+Woodlawn (WH)
+
+40%
+
+42%
+
+37%
+
+35%
+
+85%
+
+84%
+
+87%
+
+87%
+
+47%
+
+44%
+
+Stroger Campus
+
+45%
+
+45%
+
+50%
+
+49%
+
+88%
+
+86%
+
+87%
+
+84%
+
+52%
+
+45%
+
+Near South (NS)
+
+41%
+
+41%
+
+30%
+
+27%
+
+90%
+
+85%
+
+91%
+
+87%
+
+51%
+
+46%
+
+Morton East (ME)
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+44.80%
+
+44.00%
+
+88.80%
+
+86.60%
+
+88.00%
+
+85.70%
+
+48.10%
+
+43.30%
+
+Clinic
+
+CCH Overall
+Target (80th %ile)
+
+74%
+
+46.30%
+66%
+
+45.40%
+
+93%
+
+Source: Business Intelligence HEDIS
+Reports – 4/2019
+
+92%
+
+April
+
+CDC-HbA1c 
+Control (<8%) 
+Rate- Feb
+
+April
+
+57%
+
+IET - 
+Initiatio
+n of 
+AOD 
+Treatme
+nt - Feb
+
+April
+
+UNK
+48%
+
+6
+
+ Childhood Hedis Measures 2019 - Look back for 12 months- IE. April 2019-April 2018
+
+Clinic
+Austin (AH)
+Cicero (CH)
+Cottage Grove 
+(CG)
+Englewood (EH)
+Logan Square 
+(LS)
+CORE
+Prieto (PH)
+Sengstacke (SH)
+OFHC (OF)
+Robbins (RH)
+Arlington Heights 
+(AR)
+Woodlawn (WH)
+Stroger Campus
+Near South (NS)
+
+April 
+44%
+82%
+
+Well-Child 
+Visits 0-15 
+mos Rate - 
+Feb
+56%
+56%
+
+63%
+
+56%
+
+42%
+
+Childhood 
+Immun Rate- 
+Feb
+53%
+65%
+
+April
+55%
+93%
+
+Well-Child 
+Visits 3-6 yrs 
+Rate- Feb
+65%
+73%
+
+Well-Child 
+Visits 3-6 yrs 
+Rate- April
+59%
+70%
+
+63%
+
+71%
+
+67%
+
+63%
+
+15%
+
+54%
+
+30%
+
+64%
+
+57%
+
+73%
+
+44%
+
+67%
+
+83%
+
+74%
+
+73%
+
+73%
+44%
+
+100%
+90%
+63%
+
+71%
+64%
+
+100
+100%
+63%
+
+40%
+
+44%
+
+53%
+
+69%
+
+73%
+65%
+63%
+100%
+62%
+
+55%
+67%
+57%
+67%
+59%
+
+75%
+
+83%
+
+70%
+
+75%
+
+71%
+
+72%
+
+60%
+40%
+
+100%
+88%
+50%
+
+74%
+80%
+
+25%
+74%
+66%
+
+10%
+75%
+60%
+
+100%
+
+100%
+
+68.00%
+
+64.50%
+
+81%
+
+81%
+
+67%
+80%
+
+Morton East (ME)
+CCH Overall
+CountyCare 
+ACHN Empaneled
+
+59.90%
+
+Target (80th %ile)
+
+77%
+
+60.20%
+
+Source: Business Intelligence HEDIS
+Reports – 4/2019
+
+64.90%
+
+73%
+
+68.20%
+
+7
+
+ Proposed HEDIS Measures by Workgroup
+HEDIS measures to target and improve on
+Adult Workgroup
+
+•  Comprehensive
+Diabetes Care
+(CDC)
+•  Blood Pressure
+Control (<140/90
+mm Hg)
+•  HbA1c Control
+(<8%)
+•  Eye Exam
+•  Nephropathy
+Screening
+
+Pediatric
+Workgroup
+
+•  Childhood
+Immunization
+Status (CIS)
+•  Well-Child
+Visits
+•  First 15 Months
+of Life – 6+ Visits
+(W15)
+•  Third, Fourth,
+Fifth and Sixth
+Years of Life
+(W34)
+
+Prenatal
+Workgroup
+
+Behavioral Health
+Workgroup
+
+•  Prenatal and
+Postpartum Care
+(PPC)- Will be
+combined with
+Maternal Child
+Initiatives
+
+•  Initiation and
+Engagement of
+Alcohol and
+other Drug
+Abuse
+Dependence
+Treatment
+(IET)- Obtaining
+Baseline metric
+
+8
+
+ QI Project Charter: Patient Centered Primary Care within
+High Reliability Organization
+Team: HEDIS Primary Care Steering Team
+Project Scope: Diabetes Care and Childhood Immunizations HEDIS measures
+Quality Domain Work Group Dyad: Mark Loafman MD, MPH
+
+Kathy Pavkov, RN
+
+Steering Team: Dr. Loafman, Kathy Pavkov, Dr, Cunill, Dr. Maric, Edie Johns, Kisonah Smith, Kelly Simon, Dr.
+Perry, Thankamma Kuriakose, Lisa Hobson, Katina Daher, Laurel Chadde, Kathleen Shanahan, Claudia Burchinal
+
+What are we trying to Accomplish?
+•  Help improve patient outcomes in areas of significant health disparity: HEDIS metrics.
+•  Capture additional Pay for Performance incentives in areas publicly reported.
+•  Align and build on ongoing improvement efforts already underway, using IHI model.
+•  Standardize, spread the team based care processes that demonstrate value and quality.
+
+9
+
+ Diabetes Care (DM) and Childhood Immunizations (CIM)
+Project Aim Statement
+•  Improve Primary Care for CCH patients with Diabetes age 18-75 and Children age 0-5.
+•  Specifically, meet (or exceed) performance targets in all of the DM/CIM identified priority HEDIS
+measures by December 31, 2019.
+•  Among the many DM and CIM metrics those highest yield for patients were selected as initial focus
+areas.
+Establish Steering Team
+
+ü  3/27/19
+
+Complete Charter
+
+ü  4/23/19
+
+Establish Work Groups for CIM and Diabetes
+
+ü  4/23/19
+
+Monthly Meetings to Review Progress
+
+ü  5/28/19
+
+10
+
+ Childhood Immunizations
+Aim Statement
+Our Goal is to improve childhood immunization along with overall well child care, by December 1, 2019.
+Target is > 77% - Current overall rate for pediatric patients seen is 60%
+Establish Steering Team
+
+ü  3/27/19
+
+Complete Charter
+
+ü  4/23/19
+
+Establish Work Groups
+
+ü  4/23/19
+
+PDSA Cycle Draft
+
+ü  5/28/19
+
+Present to Pilot Sites
+
+ü  6/14/19
+
+Training / Education
+
+q  6/21/19
+
+Go Live Pilot – 2 Sites (Englewood/
+Near South)
+
+q  6/24/19
+
+Spread to all Sites
+
+q  10/31/19
+11
+
+ Comprehensive Diabetes Care
+Aim for CCH and CountyCare 12/31/2019:
+•  Improve performance on 4 key DM measures to 80% for CCH and CountyCare Age 18-75
+•  Successful A1c and nephropathy screening at > 92%
+•  Patients with A1c < 8 at > 57%
+•  Patients with BP < 140/90 at >74%
+•  Retinopathy screening/annual eye exam at > 66%
+Establish Steering Team
+
+ü  3/27/19
+
+Complete Team Charter
+
+ü  4/23/19
+
+Establish Work Groups
+
+ü  4/23/19
+
+PDSA Cycle Draft
+
+ü  5/28/19
+
+Present to Pilot Sites
+
+ü  6/14/19
+
+Training / Education
+
+q  6/24/19
+
+Go Live Pilot – 1 Site
+
+q  7/8/19
+
+Spread Best Practices to all sites
+
+q  10/31/19
+
+12
+
+ Comprehensive Diabetes Care – Digital Retinal Camera
+Aim
+Goal = 66% - CCH Ambulatory Services current annual eye exam rate for patients with DM – 45% - Current
+CCH purchased 15 Digital Retinal Cameras currently being deployed in Primary Care Sites.
+Anticipated Impact if 66% exams complete by 12/31/19: 600-900 retinal photographs / month; 20-25% with
+Follow UP to Ophthalmology
+Digital Retinal Images sent to Ophthalmology physicians for diagnostic interpretation – referral only if positive.
+
+Establish Steering Team
+
+ü  3/27/19
+
+Complete Charter
+
+ü  1/28/19
+
+Establish Work Groups
+
+ü  1/28/19
+
+Camera Delivery
+
+ü  5/2019- warehouse and pilot sites
+
+Workflows, Documentation, Testing
+
+ü  6/14/19
+
+Training / Education
+
+q  6/24/19
+
+Go Live Pilot – 2 Site (CORE, GMC)
+
+q  6/24/19
+
+Go Live at additional sites
+
+q  10/31/19
+13
+
+ Primary Focus Areas for PDSA Cycles
+High Yield Goals
+•  Outreach - for patients not in care or not up to date with care
+•  Process Improvement - gaps in care in the care delivery for every patient seen, every time
+•  Team Effectiveness– optimize roles/ responsibilities via appropriate training and support
+•  Patient Engagement - optimize portal usage and use of self-management goals
+•  Social determinants – processes to actively address those needed to improve patient outcomes
+•  Data Analytics - continuous monitoring, sharing and response to performance data for each site
+•  Learning Health system - Continuous learning and use of PDSA into site specific PI activities
+•  Data Consistency and Capture - HEDIS Metrics
+
+14
+
+ HEDIS Childhood Immunizations by 2 years old
+Best Practices - PDSA
+Pilot Sites
+Englewood
+&
+Near South
+Health Centers
+
+Day of Care/Preplanning (1 -4)
+1. Print ICARE out on each patient regardless of visit
+2. Import ICARE vaccines into Cerner if found deficient
+3. Daily Team Huddle focus on needed Well Child Check-up (WCC) (lead) and vaccines
+Outreach (5-7)
+5. Automatic reschedule for pediatric No Shows
+6. Enroll parent in Patient Portal, send reminders 2 weeks before next appointment.
+7. Reach OUT: Clinic manager to provide monthly BI/Pop health patient lists filtered
+by age to Pediatric Champion & team for assessment of well child care, immunizations,
+developmental and lead screen
+
+15
+
+ Diabetes comprehensive Care Initiatives*
+Project
+Charter
+
+1
+2
+3
+4
+
+PDSAs
+
+Workplan
+Outreach to
+Out of Care
+Pts
+Every DM
+Patient Every
+Visit
+
+Investigate
+Techniques
+
+Initial
+PDSA
+
+CountyCare
+
+Initial PDSA
+Oak/Woodlawn
+
+PDSAs
+
+Modify Care for Pts Out
+of Control
+
+Refine and spread
+Spread
+
+Outreach
+to Other
+
+other sites
+
+Refine
+
+Refine
+
+PDSAs
+
+Spread
+
+other sites
+
+Spread
+
+other sites
+
+Refine
+
+Spread
+
+other sites
+
+*In addition to Eye Exams
+16
+
+ HEDIS Diabetes Comprehensive Care Initiatives
+Best Practices - PDSA
+
+Outreach to CountyCare patients in need of care
+1. Assigned Staff to perform outreach and make appts
+
+Pilot SitesEvery Patient
+with Diabetes,
+Every Time
+Oak Forest
+
+Day of Care/Preplanning
+1.  Identify Care Gaps – Nephropathy Screen, A1c, Eye Exam, Immunizations
+2.  Place orders for Gaps
+3.  Daily Team Huddle focus on patients with Diabetes and needs
+Day of Care/ Visit
+1.  Accurate blood Pressure measurement
+2.  Health Risk Screen (annually) – Identify Social Determinants
+3.  Accurate Medication history and adherence
+4.  Immunizations
+5.  Self Management Goals
+6.  Know your Numbers
+7.  Foot Exam
+8.  Retinal Photographs
+9.  Medication reconciliation, adjustments and Refills
+10. Referrals and Follow up
+
+17
+
+ PROVIDER CHAMPIONS
+HEALTH INITIATIVES
+
+Access
+Diabetes
+Diabetic Eye
+Behavioral Health Integration
+Childhood Immunizations / Well Child Care
+Visits
+E-Consults / Health Education
+Hypertension
+Leadership Initiative
+Mammography
+
+Maternal Child Health
+Medication Assisted Treatment (MAT)
+Men's Health Initiative
+Primary / Specialty Care Collaboration
+OPPE Evaluations
+
+PROVIDER CHAMPIONS
+
+Mark Loafman MD
+Yolanda Escalona MD
+Nevenka Maric MD
+Modupe Oladeinde MD
+Diane Washington MD
+Denise Cunill MD, FAAP
+Titilayo Abiona MD
+Arnold Turner MD
+Sharon Irons MD
+Pamela Ganschow MD
+Nathalie McCammon-Chase
+MD
+Denise Cunill MD, FAAP
+Juleigh Nowinski-Konchak
+MD
+Charles Edoigiawerie MD
+Brian Humphrey PsyD
+Daniel Vittum MD
+Titilayo Abiona MD
+Norbert DeBiase MD
+
+18
+
+ Thank
+You
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

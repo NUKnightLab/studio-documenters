@@ -1,0 +1,1267 @@
+HOUSE JOINT RESOLUTION 25
+
+ILLINOIS BLOCKCHAIN AND
+DISTRIBUTED LEDGER TASK FORCE
+FINAL REPORT TO THE GENERAL
+ASSEMBLY
+January 31, 2018
+1
+
+ Task Force Members
+Co-Chairman: State Representative Michael
+J. Zalewski – 23st District
+
+Bryan A. Schneider – Illinois Department of
+Financial and Professional Regulation
+
+Co-Chairman: Ari Scharg – Edelson PC
+
+Fred Moore – Illinois Department of
+Insurance
+
+State Representative Jaime M. Andradre Jr.
+– 40th District
+
+Mike Standley – Illinois Secretary of State
+
+State Representative Keith R. Wheeler –
+50th District
+
+John Mirkovic – Cook County Recorder of
+Deeds
+
+State Senator Tom Rooney – 27th District
+
+Kevin McDermott – Cook County Clerk’s
+Office
+
+State Senator John F. Curran – 41st District
+Jennifer M. O’Rourke – Illinois Department
+of Commerce and Economic Opportunity
+
+Shamlan Siddiqi – NTT Data
+
+Michael Wons – Illinois Department of
+Innovation and Technology
+
+John Karantonis – Geopay.me
+
+Manuel Flores – Glass Mountain Capital, LLC
+
+Cab Morris – Illinois Department of
+Financial and Professional Regulation
+
+Report Authors
+Cab Morris – Illinois Department of Financial and Professional Regulation
+John Mirkovic – Cook County Recorder of Deeds
+Jennifer M. O’Rourke – Illinois Department of Commerce and Economic Opportunity
+Special thanks to Carie Cycholl – Illinois Department of Innovation and Technology
+
+2
+
+ Contents
+Task Force Members ......................................................................................................................................... 2
+Report Authors ................................................................................................................................................. 2
+The Next Generation of the Internet .................................................................................................................... 6
+The Internet of Value ....................................................................................................................................... 6
+The Promise of Blockchains ............................................................................................................................. 6
+The Unanswered Questions ............................................................................................................................. 7
+Few Impactful Implementations ................................................................................................................... 7
+The Limits of Open Governance ................................................................................................................... 7
+Decentralized Market Structures are Untested ............................................................................................ 7
+Charting a Path Forward .................................................................................................................................. 7
+1.
+
+Catalyze an Ecosystem for Growth and Collaboration ....................................................................... 8
+
+2.
+
+Rethink Governance for a Distributed Economy ................................................................................ 8
+
+3.
+
+Create Hyperconnected Services for a Highly Efficient Government ................................................. 8
+
+What is Blockchain? .............................................................................................................................................. 8
+Components of Blockchains and Distributed Ledgers .................................................................................... 9
+Types of Distributed Ledgers ........................................................................................................................ 9
+Validation ...................................................................................................................................................... 9
+Access............................................................................................................................................................ 9
+Consensus Mechanisms .............................................................................................................................. 10
+Benefits and Opportunities............................................................................................................................ 11
+Transaction = Reconciliation ....................................................................................................................... 12
+Immutability and Data Integrity.................................................................................................................. 12
+Improving Resilience and Security in Transactional Systems ..................................................................... 13
+Challenges and Risks ...................................................................................................................................... 13
+Energy Consumption and Computer Processing Power ............................................................................. 13
+Scalability and Performance ....................................................................................................................... 13
+Interoperability ........................................................................................................................................... 13
+Privacy and Correlation............................................................................................................................... 14
+1. Catalyzing an Ecosystem for Growth and Collaboration ................................................................................ 14
+Essential Questions ..................................................................................................................................... 14
+The State of Illinois as a Catalyst for Growth ................................................................................................ 14
+
+3
+
+ Areas of Opportunity for Illinois .................................................................................................................... 15
+Fostering a Talent Pipeline ............................................................................................................................ 15
+Supporting Entrepreneurship ........................................................................................................................ 16
+Collaborating with Enterprises ...................................................................................................................... 17
+2. Governance, Law and Distributed Economies ................................................................................................ 17
+Essential Questions ..................................................................................................................................... 17
+Governing Distributed Ledger Technology .................................................................................................... 17
+Legislative Recommendations ....................................................................................................................... 18
+3. Creating a Hyperconnected Government ....................................................................................................... 18
+Essential Questions ..................................................................................................................................... 18
+Building a Hyperconnected Government with Blockchains ......................................................................... 19
+Integrating Government Services with Identity ............................................................................................ 19
+What is Identity? ......................................................................................................................................... 19
+The Role of Identity in Government ........................................................................................................... 20
+Illinois’ PKI Infrastructure............................................................................................................................ 21
+Why Decentralized identity Management on Blockchains? ....................................................................... 22
+A Framework for Government-led Decentralized Identity ......................................................................... 24
+Efficiently and Effectively Managing Digital Assets ...................................................................................... 25
+Digitizing Assets .......................................................................................................................................... 25
+Social Benefits and Incentive Program Distribution ................................................................................... 26
+Convergence: Reimagining Public Services ................................................................................................... 27
+Blockchain in Government Pilot Database ......................................................................................................... 28
+Appendix A: Legislative Recommendations ........................................................................................................ 30
+Reconcile State Digital Signature Laws With UETA ....................................................................................... 30
+Modernization of Notarial Statutes............................................................................................................... 30
+Self-Notarization of Documents .................................................................................................................... 30
+Clarity to “Pure Notice” Conveyance and Recording Statute ....................................................................... 30
+Require Claims Against Real Estate to be Publicly Recorded ....................................................................... 31
+Reproduction Versus Storage ........................................................................................................................ 31
+Omnibus Real Estate Records Submission Modernization ........................................................................... 31
+Statewide Unique Real Property Parcel Numbering System ........................................................................ 32
+Appendix B: Citations .......................................................................................................................................... 32
+
+4
+
+ Dear Chamber Leaders and Members of the General Assembly:
+We are pleased to deliver to you the attached Final Report of the Illinois General Assembly
+Blockchain and Distributed Ledger Task Force.
+This Report is the first official government report in Illinois to be permanently certified in a
+public blockchain, a small gesture that we believe will demonstrate our desire to see
+government begin to use this technology. Though the mathematics behind the unique digital
+fingerprint assigned to this Report may be difficult to understand, it is clear that distributed
+ledgers can begin a transition to a smarter, cheaper and safer way to administer government.
+On June 28th 2017, this Task Force was charged by HJR 25 with studying: 1) opportunities and
+risks associated with using blockchain and other distributed ledger technologies, 2) the
+different types of blockchains, public and private, 3) projects and use cases in other
+states/nations that Illinois could consider, 4) how current state laws could be modified to
+support this technology, 5) encryption technology, including Illinois’ digital signature
+infrastructure, and 6) official reports and recommendations from the Illinois Blockchain
+Initiative. The attached Report will provide more detail in each of these areas, and we urge you
+to read it and contact any member of the Task Force if you would like to learn more.
+To broadly summarize our findings, this Task Force believes that blockchain technology and its
+built-in encryption can facilitate highly-secure methods for interacting with government and
+keeping paperless records, increasing data accuracy and providing better cybersecurity
+protections for Illinois residents. Though the technology still needs refinement, government has
+an opportunity to help shape and adopt innovative solutions.
+As you may know, the State of Illinois has a strong reputation as a leader in supporting
+blockchain and distributed ledger technologies, and maintaining a “light touch” and progressive
+regulatory approach. Our ongoing studies and pilot programs through the Illinois Blockchain
+Initiative are talked about across the globe. We believe our unique intergovernmental
+partnerships demonstrate how all layers of government can work together to jointly develop
+this “digital infrastructure” and build resilient networks that protect each other’s data and
+share the cost of hardware and software.
+Make no mistake, blockchain technology must improve its scalability and smart contract
+security before government adoption becomes widespread. But, we must remember that every
+day more and more Illinoisans are losing time and money due to hacks of their personal data,
+and government owes it to its taxpayers to lead a shift away from centralized servers full of
+sensitive data to a decentralized network that is more secure and easier to administer.
+Sincerely,
+Members of the Blockchain and Distributed Ledger Task Force
+
+5
+
+ The Next Generation of the Internet
+The first digital revolution brought endless innovations as the internet, social media, mobile and
+big data have changed nearly every aspect of our lives. Though the internet may have
+revolutionized communication, it has not necessarily transformed business and commerce in
+terms of trust.
+Establishing identity and transacting value online still requires verification from a trusted third
+party (banks, governments, big technology companies).
+While intermediaries fill a vital role in transacting value, relying too heavily on them often
+comes at the expense of inclusive prosperity. Intermediaries add costs and frictions to our
+economy for both businesses and consumers. They monetize vast amounts of data privacy and
+leave over a quarter of the world’s population out of the global economy.7
+
+The Internet of Value
+Enter the blockchain, the first “native” digital medium for peer to peer value exchange.
+Anything of value, money, titles, deeds and identity attributes can be exchanged, stored, and
+managed securely and privately. Trust is not established exclusively by powerful intermediaries,
+but through network consensus, cryptography and code. 15
+
+The Promise of Blockchains
+Blockchains as peer-to-peer digital economies have the capability to address fundamental
+societal issues:
+● They create a secure platform that enables immutable, irrevocable digital identities.
+● They have the ability to provide universal access to financial services and government
+benefits
+● They spur a stronger economy and create social stability through greater economic
+participation
+Blockchains are rapidly becoming the foundation of the Fourth Industrial Revolution: 13
+● They are being used to create distributed market structures to address security risks and
+eliminate single points of infrastructure failure.
+● Supplying regulators with real time data on financial flow and asset class risks, they
+stand poised to improve the oversight of international markets.
+● They are integrating granular provenance tracking, identity management and concepts
+of digital scarcity horizontally and vertically through global supply chains. 11
+
+6
+
+ ● In a 2015 World Economic Forum survey of global business and government leaders 58%
+of respondents believe that 10% of global gross domestic product (GDP) will be stored
+on blockchain technology. 19
+
+The Unanswered Questions
+Although blockchain technology may prove to be one of the most disruptive innovations of the
+21st century, it currently is discussed as if it were more mature than it actually is. Many
+implementation hurdles at the technical, regulatory and governance level continue to hinder
+widespread adoption for both open and private blockchain networks. Blockchains are
+inherently a “network” technology meaning that without wide-scale collaboration and
+coordination, their power to improve society will never be realized. 1
+
+Few Impactful Implementations
+Since 2015, banks, regulators, tech giants and startups all over the world have raised billions
+of dollars to explore the promise of the blockchain. Despite the exuberance for the
+technology to date, Bitcoin still stands to be the only successful, scalable implementation of
+blockchain and distributed ledger technology.
+
+The Limits of Open Governance
+Contrary to popular belief, open and decentralized governance does not automatically
+mean fair and equitable rule of law. Democracy cannot be reduced to majority rule and
+consensus is a complex construct that requires concepts such as minority rights, equal
+access to decision making and legitimacy of procedure. Bitcoin’s recent scaling debate and
+Ethereum’s Decentralized Autonomous Organization or DAO scandal have brought to light
+the notion that “code is not law” and that a 51% majority does not always equal democracy.
+2
+
+Decentralized Market Structures are Untested
+Blockchains and decentralized market structures are relatively untested in our global
+economy, which could either (a) be less preferable than ”trust taxes” or (b) introduce
+fundamentally new risks into the global economy. By displacing intermediaries who
+policymakers have historically relied on to implement regulatory safeguards, it is unclear
+who or how broader systemic policy changes can get implemented when necessary. 11
+
+Charting a Path Forward
+Although government appear to be the antithesis of a technology that decentralizes economies
+and places trust in code over law, it is incumbent on the public sector to help catalyze the
+growth of this technology. Furthermore, the greatest risk may be letting of blockchain
+technology’s potential fade, stagnate in its fractured status quo or be implemented in a noninclusive way. Ultimately, code, algorithms, policy and rule of law are all artefacts of human
+design. Technology alone does not create prosperity, people do.
+
+7
+
+ In Illinois, we believe it is imperative for government to take affirmative steps to harness the
+tremendous opportunities and minimize the risks of blockchain technologies during this critical
+period of development. In doing so, the state of Illinois will be able to:
+
+1. Catalyze an Ecosystem for Growth and Collaboration
+Although, the long-term benefits of blockchain are clear, blockchains and DLTs are still
+very much nascent technology. Governments can play a role in catalyzing its maturity as
+a technology by supporting grassroots developer innovation and encouraging
+collaboration among enterprises, countries and entrepreneurs.
+
+2. Rethink Governance for a Distributed Economy
+Effective governance in a distributed economy will require legislative agility beyond
+what rules and regulations can provide. Modern governance will need to carefully
+balance a combination of broad policy principles, technology standards and “code”.
+
+3. Create Hyperconnected Services for a Highly Efficient Government
+A “hyperconnected” government enables unprecedented integration and efficiency,
+where services are tailored to each individual’s needs. Blockchains will be used to
+connect disparate entities within and across regional, municipal, and state entities
+around citizens, businesses and assets. 9
+
+What is Blockchain?
+In simple terms, a blockchain is a type of database that is replicated over a peer-to peer (P2P)
+network. However, this definition could also apply to other types of distributed databases that
+have no central database manager. So, what makes a blockchain special?
+The principal way in which a blockchain is different from other distributed databases is that a
+blockchain is designed to achieve consistent and reliable agreement over a record of events
+(often referred to as the “state”) between independent participants who may have different
+motivations and objectives. Put in a slightly different way, participants in a blockchain network
+reach consensus about changes to the state of the shared database (i.e., transactions amongst
+participants) without needing to trust the integrity of any of the network participants or
+administrators.
+The agreement between blockchain network participants over the state of the database is
+achieved through a consensus mechanism, which ensures that each participant’s view of the
+shared database matches the view of all other participants. The combination of the consensus
+mechanism with a specific data structure allows blockchains to solve the so-called ‘double
+spending’ problem. 10
+
+8
+
+ All participants have a consistent view of the shared database state. As a result, any improper
+alteration of the data (e.g., tampering by a malicious actor) will be immediately detected and
+rejected by all participants.
+
+Components of Blockchains and Distributed Ledgers
+Blockchains and distributed ledgers generally have the following five components:
+Use of a variety of cryptographic techniques including
+cryptographic one-way hash functions, Merkle trees
+and public key infrastructure
+Network for machine-readable data discovery and
+replicated peer-to-peer data sharing
+Algorithm that determines the ordering of transactions
+in an adversarial environment (assuming not every
+participant is honest)
+List of cryptographically linked transactions (e.g.
+bundled in “blocks” for blockchains, direct acyclic
+graph DAG in IOTA)
+Common set of rules of the network (i.e., what
+transactions are considered valid, how the ledger gets
+updated, etc.) 9
+
+1. Cryptography
+2. P2P Network
+3. Consensus Mechanism
+
+4. Ledger
+5. Validity Rules - Access and
+Validation
+
+Types of Distributed Ledgers
+Generally, a blockchain or distributed ledger can be either public or private and permissionless
+or permissioned.
+
+Validation
+Permissionless
+
+Permissioned
+
+Public
+
+Bitcoin
+IOTA
+Ethereum
+
+Sovrin
+
+Private
+
+Hyperledger Sawtooth
+
+Hyperledger Fabric
+R3 Corda
+Quorum
+
+Access
+
+9
+
+ Permissionless
+A permissionless blockchain or distributed ledger generally refers to a ledger where anyone
+may operate a validator node, i.e., a node that participates in the consensus protocol to
+validate transactions.
+Permissioned
+A permissioned blockchain or distributed ledger refers to a ledger where permission from
+some governing entity is required to operate a validator node.
+Public
+A public blockchain or distributed ledger refers to a ledger that is “open to the public” for
+usage, i.e., anyone can create transactions on the ledger
+Private
+A private blockchain or distributed ledger refers to a ledger where permissions to write
+entries are restricted to a single organization and read permissions can be either public or
+restricted. 5
+
+Consensus Mechanisms
+A consensus mechanism is the process in which a majority (or in some cases all) of network
+validators come to agreement on the state of a ledger. It is a set of rules and procedures that
+allows maintaining coherent set of facts between multiple participating nodes.
+
+Proof of Work
+A proof-of-work (PoW) protocol generally involves proving that some resource has been
+expended (typically processing time by a computer). It is a method to deter an abuse of
+service (i.e. denial of service attacks, spam, double spending) by requiring some form of
+"work". In a public blockchain, such as Bitcoin, PoW removes the need for trust amongst
+anonymous actors by reducing the likelihood of an attack by a single malicious actor. In
+this case, PoW aims to prevent one party from holding a majority of computational
+resources at one given time. Examples include:
+Bitcoin
+IOTA
+
+Ethereum
+Z-Cash
+
+Dash
+Monero
+
+Proof of Stake
+Proof of stake is a newer consensus mechanism designed to be less resource intensive.
+The key motivation for proof of stake is that consensus is performed by stakeholders
+who have the strongest incentive to be good and honest stewards of the system. Put
+differently, the nodes that validate transactions have ‘skin in the game.’ The major
+benefit of this consensus mechanism, as compared to proof of work, is that there is a
+
+10
+
+ large reduction in energy consumption resulting from a decreased need for hashing
+power.
+Tezos
+Qtum
+
+Ethereum (Casper Release)
+Nxt
+
+NEO
+Cardano
+
+Majority Voting (Variants of Practical/Federated Byzantine Fault Tolerance)
+In majority voting systems, consensus is determined by a 2/3rds majority vote, designed
+to achieve byzantine fault tolerance for smaller networks where actors or participants
+are known and generally trusted. 22 Examples include:
+Hyperledger Fabric
+Ripple
+Zilliqa
+
+Tendermint
+Quorum
+Sovrin
+
+Hashgraph
+Stellar
+Corda
+
+Additional Blockchain Concepts
+Smart Contracts
+A smart contract is a collection of code and data (sometimes referred to as functions and state) that is
+deployed to a blockchain (e.g., Ethereum). Future transactions sent to the blockchain can then send data to
+public methods offered by the smart contract. The contract executes the appropriate method with the user
+provided data to perform a service. The code, being on the blockchain, is immutable and therefore can be
+used (among other purposes) as a trusted third party for transactions that are more complex than simply
+sending funds between accounts. A smart contract can perform calculations, store information, and
+automatically send funds to other accounts.
+
+Forking
+Changes to the blockchain software and implementation are called forks. A soft fork is a change to the
+technology that will not completely prevent users who do not adopt the change (e.g., an update to the latest
+version) from using the changed blockchain system. Since non-updated nodes will recognize the new blocks
+as valid, a soft fork can be backwards compatible, only requiring that a majority of nodes upgrade to enforce
+the new soft fork rules.
+A hard fork is a change to the technology that will completely prevent users who do not adopt it from using
+the changed blockchain system. Under a hard fork, the blockchain protocol will change in a manner that
+requires users to either upgrade to stay with the developer’s “main fork” or to continue on the original path
+without the upgrades. Users on different hard forks cannot interact with one another. Any change to the
+block structure, such as the hashing algorithm choice, will require a hard fork.
+With cryptocurrencies, if there is a hard fork and the blockchain splits, the coins each person has at the time
+of the split will be mirrored on each fork. If all the activity moves to the new chain, the old one will eventually
+not be used. 22
+
+11
+
+ Benefits and Opportunities
+Transaction = Reconciliation
+Reconciliation is the process of ensuring that two sets of records agree. Particularly in the
+financial industry, the reconciliation of transaction records is critical to the accounting process.
+Bank A engages in a transaction with Bank B, and each bank records an entry in its respective
+ledger. At some point in the future, the entries are reconciled to ensure accuracy. The need for
+reconciliation extends beyond finance, and can include any data set or record that is
+maintained by more than one party.
+Blockchain technology addresses data reconciliation by requiring network participants to share
+data points. In the banking example above, instead of Bank A and Bank B maintaining separate
+entries for a single transaction, they would share a single entry maintained on a shared ledger,
+eliminating the need to reconcile entries later.
+Another subtle, but powerful impact of blockchain technology is the standardization of data
+and transactions formats. When users join a blockchain network, they (and their computers)
+agree to a protocol – a format for transmitting data between nodes on a network. By virtue of
+their participation, users are bound by the data and transaction formats of the network. Not
+only are the parties communicating in the same “language”, they are sharing a place of record.
+18
+
+Immutability and Data Integrity
+The permanent and persistent storage of transactions on blockchains, it’s “immutability”, is
+particularly useful for trusted governance, evidentiary or audit purposes. For example, forensic
+analysis and legal discovery processes could be conducted without the need for special
+methods, expensive technologies, or significant resources being employed. The clear benefit
+here is reduced court costs where a jurisdiction recognizes the facts in the distributed ledger as
+admissible. These reduced costs would could also create positive externalities such as improved
+behaviors, like honesty, encouraged by the transparency and immutability of the ledger.
+Blockchains present opportunities for regulators to access high integrity records of transactions
+in real or near-real time. A persistent and machine-readable history of transactions would allow
+regulators a macro-view of an institution’s compliance with assurance that no transactions had
+been tampered with. This unprecedented view into regulated industries would open pathways
+to productivity gains and risk management if managed appropriately.
+Distributed ledger systems are transparent in that all transactions are traceable, and
+permanently stored by the network of participants. While a private distributed ledger network
+may add restrictions to who can write or read transactions, it preserves the feature of
+stakeholders having common access to their set of common transactions. The moment anyone
+starts transacting on the system, a history of all interactions is immediately logged in the
+
+12
+
+ system. This high level of transparency and reliability is an important factor in building trust in
+the integrity of the network not just from a regulatory oversight perspective, but can also
+reduce counterparty risk for participants in the network. 8
+
+Improving Resilience and Security in Transactional Systems
+Blockchains have the potential to increase the resilience of systems and data storage due to its
+distributed nature and its lack of a central point of. The ledger is owned by all participating
+parties which means that in the event of failure everyone can keep their own copy of data and
+transactions. This form of resilience and security provides the opportunity to create new
+identity systems where users own the data, which remains universally consistent and cannot be
+destroyed. Minimizing single points of failure in transactional systems is thus a key
+differentiator when compared with existing or legacy systems which often have centralized
+mechanisms of verification and security. 18
+
+Challenges and Risks
+Energy Consumption and Computer Processing Power
+The proof-of-work competition also has the added cost of the wasted computational power and
+energy used by all the miners involved in the process. The snapshot below depicts the Bitcoin
+miners as currently consuming over 11 Terra Watt hours per year. To put this in context, Bitcoin
+mining currently accounts for 0.05% of the world’s energy consumption, which could power
+over a million households in the United States of America.
+
+Scalability and Performance
+As ledgers are designed to retain all previous transactions, the ledger’s size will increase. This
+increase in size will continually need to be forecast against both the capabilities of the network
+and the future behavior of the users. For example, the increasing popularity of Bitcoin is having
+an exponential influence on the size of that blockchain. Sometimes referred to as “network
+bloat” has the potential to detract from the technology’s utility if the size becomes too great for
+everyday participants to readily use in a cost-effective way. 8
+
+Interoperability
+To realize the full benefits of distributed ledger technology, it will be critical for ledgers to be
+able to exchange information with other ledgers and with legacy IT systems. In the short and
+medium term, it is unclear whether businesses would be prepared to overhaul their existing
+operations.
+Blockchains are designed for decentralized control and not for decentralized semantics.
+Blockchains don’t have the equivalent of JSON or HTTP for Blockchains. They are highly specific
+to their application area and lack the flexibility required for a variety of different storage and
+
+13
+
+ provenance models. They possess no mechanism for extending their data model in a selfdiscoverable or machine-readable way. This makes tuning the existing monolithic blockchain
+designs to meet new use cases a challenging, if not financially and technically prohibitive
+undertaking.
+Currently there are hundreds of fragmented blockchains competing, each with their
+proprietary, non-interoperable standards and protocols. Wider adoption for blockchains
+depends on enabling seamless interaction, not just between blockchain-based systems, but also
+with existing IT infrastructure.
+Assuming there will be many different types of blockchains and distributed ledgers, then it
+follows that a generalized format for expressing and accessing these ledgers is desirable and a
+requirement for interoperability. Transactions on blockchains will need to have stable URLs and
+an equivalent of HTTP redirection to point to updated locations. Further standardization efforts
+are needed to create URL schemes for blockchain transactions.
+
+Privacy and Correlation
+If illegal, personal, classified or otherwise objectionable data is entered onto a public blockchain
+ledger, it is there forever. This means that situations may arise where information is recorded
+inappropriately or illegally, and cannot be removed. The potential impacts of the permanence
+and persistence of this information could potentially impact the privacy of individuals.
+These potential privacy challenges will require thoughtful design and good governance to be
+prevented and managed. Even improper use of simple metadata, can have unintended
+consequences on privacy, allowing anyone to correlate data about an individual in a publicly
+discoverable way. Strong governance models and controls around data security and privacy will
+have to be examined carefully and have been demonstrated to be problematic. Information
+security would need to consider the potential for breaches where previous responses and
+mitigations are no longer effective. 8
+
+1. Catalyzing an Ecosystem for Growth and Collaboration
+Essential Questions
+•
+•
+
+What role should government play in developing an ecosystem?
+What unique areas of opportunity can we capitalize on in Illinois?
+
+The State of Illinois as a Catalyst for Growth
+Illinois regards its role in the development of the blockchain ecosystem as one which supports
+the distinct needs of the respective ecosystem stakeholders: entrepreneurs, capital providers,
+developers, governments, and academics to support and encourage the creation and growth of
+
+14
+
+ blockchain companies in Illinois. To accomplish this mission the Illinois Blockchain Initiative
+created the role of the State of Illinois Blockchain Business Liaison, which is responsible for the
+engagement of these stakeholders within the ecosystem to identify and conclusively work to
+resolve their respective needs. As noted in the Tapscott Group’s 2017 Blockchain Corridor
+Report: “many entrepreneurs are seeing a healthy dialogue with government, and a focus on
+governance more broadly, as a good thing. Companies like Coinbase, Circle and Gemini have
+joined trade organizations, and some even maintain close relations emerging governance
+institutions”. 16
+Reciprocally, the Illinois Blockchain Initiative has taken the unique step of directly joining
+blockchain industry participants in membership within industry organizations and blockchain
+consortiums such as the Chamber of Digital Commerce, R3, Hyperledger, the Enterprise
+Ethereum Alliance and the Chicago Blockchain Center. The access to current market knowledge
+and highly regarded subject matter participants, which these industry organizations and
+consortium memberships provide, ensure the Illinois Blockchain Initiative is highly informed
+and thus well positioned to execute effective strategy to catalyze an ecosystem for growth and
+collaboration.
+
+Areas of Opportunity for Illinois
+Illinois is uniquely positioned to take a leadership role in the development of blockchain
+technology due to the critical mass of industries leveraging blockchain technology located in
+Illinois (financial services, insurance, supply chain and logistics etc.), access to talent, support of
+entrepreneurship, and collaboration with enterprises.
+Further supporting Illinois exceptional position to become the home of blockchain technology,
+Deloitte’s 2017 Global FinTech Hub Ranking Report placed Chicago as a top five global fintech
+hub, outperforming cities like Hong Kong, Zurich and Sydney: “Chicago acts as the epicenter for
+all FinTech activity in the Midwest, representing well over 20,000 financial institutions. It is
+home to two fifths of the top business universities in the US and over 6% of the Chicago
+workforce are focused on the financial ecosystem contributing to its already significant talent
+pool.
+With government support, Chicago companies are able to quickly innovate to create
+groundbreaking technology”. Notably the Deloitte report explicitly articulated the Illinois
+government’s support of blockchain technology: “over the next 12 months, we expect to see
+state and local government partnering with the private sector and NGOs to pursue greater
+adoption of blockchain as well as creating an innovation friendly environment. 6
+
+Fostering a Talent Pipeline
+Ensuring that businesses have access to the right employees and skill sets, a pipeline, is
+strategically important because it has a long-term talent-supply focus, which means that critical
+jobs can be filled faster and with higher quality and more interested prospects. The cost of
+
+15
+
+ talent is the largest expense for most firms, and the quality of that tech talent is becoming one
+of the most important considerations.
+In a 2017 CBRE Report: Scoring Tech Talent in North America, noted that the Chicago area is the
+fourth-ranked market in the country for tech degrees, with 7,866 degree completions from
+2014-2015, demonstrating a growth of 15.6 percent from 2011-2015, trailing only New York,
+Washington, D.C. and Los Angeles. Furthermore, Chicago was among the best value markets for
+tech talent, due to its moderate labor costs (averaging $95,180 for software developers) and
+“very-high”-quality labor pool.
+Blockchain technology talent pools will require education in computer science and engineering.
+The University of Illinois system graduates more computer science and computer engineering
+students than CalTech, MIT, Stanford and Berkley combined. Furthermore, University of Illinois
+Urbana Champaign is ranked as the #5 top undergraduate schools for computer engineering by
+US News College Rankings. Although Illinois is well positioned to leverage its world class
+academic institutions, the Illinois Blockchain Initiative can provide additional bespoke
+blockchain education and programming outside of academia to supplement the talent pool.23
+The Illinois Blockchain Initiative has been and is positioned to continue to be an effective
+mechanism to facilitate educational workshops and conferences in which experienced
+practitioners and experts provide knowledge, specific insight and practical application and
+fosters grassroots innovation through hackathons national challenges, boot camps, and
+accelerators. Looking forward, the Illinois Blockchain Initiative will partner with educational
+institutions to incorporate blockchain curriculum into schools and colleges and to support
+blockchain workforce development.
+
+Supporting Entrepreneurship
+The government is well placed to support blockchain technology entrepreneurship by providing
+fiscal and educational resources to startups. The State of Illinois currently provides fiscal
+resources such as the recently renewed Angel Investment Tax Credit and R&D Tax Credit
+programs. It also provides educational resources such as the Small Business Development
+Center network, and has funded collaborative spaces which ease entrance into
+entrepreneurship such as 1871, MATTER and UILabs/DMDII. The Illinois Blockchain Initiative is a
+founding member of the Chicago Blockchain Center, created in June 2017, where services are
+focused on providing bespoke programming and education to the various segments of the local
+blockchain community.
+Even as the government supports blockchain entrepreneurs’ efforts to advance the technology,
+there is still a need to come up with new applications that will broaden the technology’s appeal.
+The Illinois Blockchain Initiative will play a supporting role in the identification of the most
+important applications and opportunities for blockchain technology in business and
+government. In doing so, the Illinois Blockchain Initiative will build relationships with
+
+16
+
+ entrepreneurs and leaders that will in turn foster a supportive environment for startups and
+investment in the blockchain community.
+
+Collaborating with Enterprises
+The collaboration between corporations and startups has become crucial. Corporates
+collaborate with startups to fast-track disruptive, game-changing products and services and
+startups leverage corporates advantages in procurement, distribution, manufacturing, and sales
+and marketing. With 37 Fortune 500 companies headquartered in Illinois, Illinois is well
+positioned to connect the startup community residing in the network of over 100 incubators,
+accelerators, co-working spaces and academic labs (such as Built in Chicago, Clean Energy Trust,
+Energy Foundry, iBIO Institute, the Illinois Technology Association, and facilities such as 1871,
+MATTER, mHUB, and TechNexus) to these world class corporate partners.
+
+2. Governance, Law and Distributed Economies
+Essential Questions
+● How can legislators ensure distributed ledger systems balance enduring policy goals
+while also mitigating new or unforeseen risks?
+● Why might current regulatory and legal systems be redundant in a fully distributed
+economy?
+
+Governing Distributed Ledger Technology
+Effectively governing blockchain and distributed ledger technology will require finding an
+optimum balance between governance, regulation, legal code and technical code and will
+require a unique mix of skills and perspectives from a variety of stakeholders, including lawyers,
+mathematicians, business experts and computer scientists. For purposes of analysis
+governance, regulation, legal code and technical code are defined below:
+•
+•
+•
+•
+
+Governance: Rule-making by the owners or participants of a system with the purpose of
+safeguarding private interests.
+Regulation: Rule-making by an outside authority tasked with representing the broader
+interests of the public.
+Legal Code: Rules consisting of legal obligations set by either statute, administrative
+code or regulatory guidance.
+Technical Code: Rules defined in systems and code, executed and enforced by software
+and protocols. 18
+
+17
+
+ Legislative Recommendations
+Illinois’ lack of “blockchain legislation” to date should not be viewed as a failure to act, but
+rather, as a recognition that many activities, transactions, agreements and events facilitated by
+the technology are probably already legal, so long as they are performed in good faith, without
+deception, and can be proven. For example, the state statutes governing county land records
+offices (55 ILCS 5/3-5005.2) provide that “...The Recorder shall have the right to select the
+computer or micrographic system to be used for document storage and retrieval.” The Cook
+County Recorder of Deeds interprets this to mean that if the office so chooses, it can implement
+a blockchain or distributed database to store records without need for a state law to authorize
+it.
+Illinois has instead chosen a more restrained regulatory path, actively studying design principles
+rather than simply envisioning every possible use case and affirming its “legality.” It can also be
+tempting to make a list of all the things the private sector can’t or shouldn’t do with blockchain
+in the name of consumer protection, but it seems that such a heavy-handed approach is more
+likely to send the message that Illinois is not friendly towards this technology.
+Recommendations that follow will thus reflect necessary changes to the way information is
+submitted, stored and transmitted.
+The recommendations available in appendix A are heavily focused in the areas of state law that
+affect property law and public recording, mainly because that is the area most heavily studied
+in Illinois thus far (see Cook County Recorder of Deeds Blockchain Final Report, May 31, 2017). It
+is the opinion of the Task Force that because property law continues to rely on archaic
+standards and paper-based regulatory guidance, that an overhaul of these sections could
+provide impetus and direction to lawmakers interested in carrying similar updates into other
+Sections of law.
+It is beyond the abilities and mandate of this Task Force to analyze every corner of the Illinois
+Compiled Statutes and every opportunity. It is also important to remember that the purpose of
+this Task Force is to analyze opportunities and risks for government usage, which means this
+report will not directly consider legislation that is tangential to the delivery of government
+services.
+
+3. Creating a Hyperconnected Government
+Essential Questions
+● How can distributed ledger technology help governments deliver more responsive,
+trusted and integrated public services?
+● How can these technologies be utilized with other emerging technologies to radically
+rethink how government services are delivered?
+
+18
+
+ Building a Hyperconnected Government with Blockchains
+An important function of government is to maintain trusted information about individuals,
+organizations, assets, and activities. Local, regional and national agencies are charged with
+maintaining records that include, for instance, birth and death dates or information about
+marital status, business licensing, property transfers, or criminal activity. Managing and using
+these data can be complicated, even for advanced governments. Some records exist only in
+paper form, and if changes need to be made in official registries, citizens often must appear in
+person to do so. Individual agencies tend to build their own silos of data and informationmanagement protocols, which preclude other parts of the government from using them. And,
+of course, these data must be protected against unauthorized access or manipulation, with no
+room for error.
+Blockchain technology could simplify the management of trusted information, making it easier
+for government agencies to access and use critical public-sector data while maintaining the
+security of this information. At a high level blockchain and distributed ledger-enabled
+technologies enable government efficiencies in three ways:
+•
+•
+•
+
+Integrating government services with distributed identity
+Efficiently and effectively managing the flow of digitized assets
+Combining blockchain with other emerging technologies to “reinvent public services”
+
+Integrating Government Services with Identity
+What is Identity?
+Identity is a collection of attributes about an individual. Identity attributes can relate to an
+individual’s preferences, personality or more sensitive information such as biometrics,
+healthcare records or criminal history. Attributes can be collected and used for a particular
+purpose such as verifying an individual is over the age of 21 in order to legally purchase agerestricted goods. Identity attributes can be broadly categorized into three groups: inherent,
+accumulated and assigned. Some identity attributes rarely change while others change
+frequently.
+
+19
+
+ The Role of Identity in Government
+Government has an important role to play in the development of any digital identity ecosystem.
+Identity is not only foundational to nearly every government service, but is the basis for trust
+and legitimacy in the public sector. It is the starting point of confidence in citizen’s interactions
+with government and is a critical enabler of service delivery, security, privacy, and public safety
+activities. How identity attributes are collected, used, managed, and secured is and will
+continue to be of critical interest to leaders in the public sector charged with protecting the
+rights of citizens, ensuring privacy, and ensuring national security and public safety.
+In government, a variety of attributes are used to verify a person’s identity, allowing them to
+gain access to government services. Government also provide registers for recording of
+essential personal identity information. Despite being the primary registers personal
+identifiable information, government identities are often siloed in databases across agencies,
+increasing opportunities for fraud, security breaches and errors. 8
+Government identity attributes can be organized into four categories based on their general
+characteristics and types of services they enable:
+
+Core Attributes
+Inherent or assigned personal identity attributes that are generally registered by a government
+authority. These registers are maintained by entities such as the post office or vital records
+office.
+Core Identity Attributes
+Legal Name (First, Middle, Last, Suffix)
+Date of Birth
+Physical and Mailing Address
+Gender
+
+Spouse(Marriage or Civil Union)
+Mother/Father/Sibling
+Email(s)
+Phone Number(s)
+
+Birth Certificate
+Death Certificate
+Organ Donor
+Criminal History
+
+20
+
+ Service Identifiers
+Identifiers assigned to individuals after gaining access to certain government services,
+mandatory enrollment in government programs, or to exercise legally ordained rights and
+obligations such as paying taxes or voting.
+Service Identifiers
+Medicaid/Medicare number
+Social Security Number
+Tax ID
+
+Unemployment Insurance ID
+Voter ID
+Veteran ID
+
+Passport (Citizenship)
+Prisoner/Correctional ID
+Student ID
+
+Ownerships
+Legal instruments that allow individuals or entities to track manage and maintain possession
+and ownership of high-value physical assets. Ownerships and transfer of ownership is generally
+maintained by relevant federal, state and local governments in asset registries.
+Title/Ownerships
+Land Title
+
+Vehicle Title (Car/Boat)
+
+Firearm Owner’s ID (FOID)
+
+Attestations
+Information corroborated or certified by a government authority. Attestations either (1)
+provide individuals permission to perform certain tasks within government or outside of
+government or (2) substantiate qualifications that were achieved.
+Attestations
+Driver’s License (Other Vehicles)
+Professional/Occupational License
+Continuing Education Certifications
+
+Concealed Carry Firearm Permit Fishing License
+Academic Credential
+Travel Visa
+Pilot License
+Military Service
+
+Illinois’ PKI Infrastructure
+At a high level, Public Key Infrastructure (PKI) is a set of requirements that allow for the
+creation of digital signatures. Through PKI, each digital signature transaction includes a pair of
+cryptographic keys: a private key and a public key. The private key, is not shared and is used
+only by the signer to electronically sign documents. The public key is openly available and used
+by those who need to validate the signer’s electronic signature. PKI enforces additional
+requirements, such as the Certificate Authority (CA), a digital certificate, end-user enrollment
+software, and tools for managing, renewing, and revoking keys and certificates.
+
+21
+
+ In 2001, the State of Illinois received certification as a self-signed Public Key Infrastructure (PKI)
+Certificate Authority (CA) and Registration Authority (RA) following an independent audit.
+Currently the Department of Innovation and Technology (DoIT), by legislative directive, is the
+sole source of digital certificates for State of Illinois agencies, boards, commissions, universities,
+municipal governments and business partners.
+Illinois' PKI is governed by roles, policies and procedures to ensure the appropriate
+management of digital certificates and public-key encryption. Illinois' PKI functions through the
+creation and issuance of cryptographic keys by the Illinois Certificate Authority (CA) which
+provides a public key for distribution throughout the user base and a secret key for private use
+by the entity (or individual) to which it belongs.
+Despite the incremental benefits that PKI affords government services, it cannot be viewed as a
+cure all data security and identity management solution, rather it is one piece of the puzzle.
+
+Why Decentralized Identity Management on Blockchains?
+Related to innovations in blockchain and distributed ledger technologies, decentralized public
+key infrastructure (DPKI) leveraging blockchains as a machine-readable key-value store is
+rapidly emerging as a more resilient form of managing public key infrastructure for personal
+identity data.
+The blockchain-enabled identity model relies on the combination of four important standards:
+decentralized identifiers (DIDs), DID documents, verifiable claims and blockchain/distributed
+ledgers. decentralized identifiers (DIDs) are stored on a blockchain or distributed ledger with a
+corresponding DID document where collectively they form a key-value pair relationship **(not
+to be confused with a cryptographic key but rather linked data items: a key, which is a unique
+identifier for some item of data, and the value, which is either the data that is identified or a
+pointer to the location of that data).
+The DID acts as a globally unique index and the DID document contains a number of essential
+items including (1) a public key, (2) service endpoint (3) authentication mechanism (how a user
+cryptographically asserts they are the owner or controller of the DID/DID Document) and (4)
+ways in which keys can be revoke, rotated or replaced.
+
+22
+
+ Decentralized public key infrastructure affords two improvements over existing public key
+infrastructure:
+Decentralized Resilience
+It does not rely on any single Certificate Authority to check for validity of public keys, rather it
+uses a globally available blockchain ledger for verification. This has the capability to reduce Man
+in the Middle (MITM) attacks that are difficult to detect and reduces the risk of a single
+Certificate Authority being a single point of failure.
+Embedding PKI in Each Transaction
+DPKI also leverages blockchains to make public key infrastructure more usable. Blockchains by
+nature require a built-in public key infrastructure mechanism which requires users to use public
+key infrastructure for every transaction, and if “wrapped” in a well-designed user experience,
+invisible to the end user. Furthermore, the key pair is pseudonymous, not revealing the actor’s
+actual identity. However, supplemental information, such as name, contact information or
+professional credentials can be associated with these pairwise unique public-private key pair,
+merging on-chain and off-chain identity.
+
+23
+
+ A Framework for Government-led Decentralized Identity
+
+A citizen-centric digital identity model based on distributed ledger technologies could be used
+to consolidate disparate data that currently exists across multiple agencies and layers of
+government into a network centered around a citizen’s or business’ credentials, licenses and
+identity attributes. It would enable citizens to view their public service identity via an identity
+app on their smartphone and share relevant data with government to access public services. 3
+This new model would reimagine the relationship between state and individual, as government
+would become the verifier, rather than the custodian, of people’s public service identity.
+Government would move from providing data storage to verifying identity, allowing users to
+store access to personal data securely on devices.
+Protecting personal data in this manner makes it increasingly difficult and economically
+disadvantageous to hack because each citizen’s data stored in encrypted in the cloud with the
+only keys to unlock the data stored on each citizen’s personal device. An attack on this model
+would require hackers to simultaneously gain access to person data in the cloud, blockchain
+and a majority of the citizen’s devices.
+The distributed nature of blockchain means that all departments on the network agree to ‘one
+version of the truth when information is added. Furthermore, if designed well, distributed
+ledgers have the potential to provide answers that do not present a risk to user privacy. These
+ledgers allow citizens to share selectively share verified attributes of an identity along with the
+provenance of the verification or source document. 8
+
+24
+
+ Efficiently and Effectively Managing Digital Assets
+Government plays an important role in the distribution and administration of benefit and
+entitlement programs for citizens who meet certain eligibility requirements. Examples of
+programs include health care, welfare, unemployment, and housing assistance. Government
+could leverage blockchain and distributed ledger technology to distribute benefits more
+efficiently, reducing entitlement fraud and increasing asset transparency for taxpayers.
+Effectively managing assets in government can be thought of in two ways:
+•
+•
+
+Digitizing physical assets (“tokenizing assets”) to increase asset transparency, improving
+liquidity and policy outcomes for incentive programs or titled assets.
+Managing revenue collection, or benefit and incentive distribution on a shared ledger
+with smart contracts to provide granular control over and real-time insight into complex
+administrative processes.
+
+Digitizing Assets
+Smart contract enabled distributed ledgers such as the Ethereum blockchain provide a standard
+for granularly representing physical assets on a blockchain in the form of a “token”.
+Representing items such as shares, cars, property, or tax credits as tokens on a blockchain
+allows assets to be transacted, fractionalized or collateralized similar to a share or other
+financial instrument.
+All users, transactions and data are digitally recorded on the blockchain, creating an immutable
+record. The irrefutable record can dramatically reduce the cost and complexity of auditing,
+reconciliation and issue resolution as there is a clear and traceable audit trail of transactions,
+data and user interactions. Not only can this can lead to a material reduction in paperwork and
+more efficient asset transfer processes, but by significantly reducing transaction costs,
+blockchains could help public sector open up credit and securities markets for whole new
+classes of lower-value or non-traditional assets. There is also a unique opportunities to create
+liquid secondary securities markets where assets can be fractionalized and traded as futures,
+options, or shares similar to oil, corn or other commodities.
+Examples of public sector assets that could be digitized include:
+Loyalty Rewards
+Digital Currencies or Tokens
+Prison Commissary Funds
+
+Pension Liabilities
+Municipal Bonds
+Affordable Housing Vouchers
+
+Tax Credits
+Unclaimed Property
+Highway Tolls
+
+Use Case Snapshot: Tokenizing Tax Credits
+Tax credits could be categorically “tokenized” on a blockchain to improve market visibility and
+ensure asset provenance. Government could also open an exchange where the “tax credit
+tokens” could be traded, improving their liquidity and ensuring the efficacy of the policy goal
+that the credit incentivizes. A blockchain-based system of management also allows aggregators
+
+25
+
+ granularly pool credit (or derivatives of) while maintaining direct visibility into its initial
+issuance.
+
+Social Benefits and Incentive Program Distribution
+The State could also consider creating a blockchain platform to increase efficiencies and reduce
+costs for companies to comply with the State’s workers compensation system. With the State’s
+creation of a private permissioned blockchain consortium for workers compensation, all
+transactions are logged, including information on the date, time and participants, as well as the
+amount of every single transaction in an immutable record. Each party in the network would be
+party to a complete copy of the blockchain, and the transactions are verified using advanced
+cryptographic algorithms. This is the equivalent of a free notary present at each transaction.
+The employer’s workers compensation insurance companies pay for workers compensation
+healthcare expenses to certified medical practitioners in the system.
+Similarly, many government grants and incentives programs are eligibility based, where a grant
+is either approved or denied based on the meeting of certain requirements. The difficulty in this
+process arises due to the data being held within disparate government and private entities,
+making the eligibility process time consuming and resource intensive to get right. Rolling up all
+of these systems into one distributed ledger simplifies the eligibility process. Upon eligibility, a
+smart-contract can trigger a grant payment to the recipient instantly.
+A distributed ledger is an ideal technology to supplement the Medicaid enrollment and
+eligibility process. In this scenario, the State of Illinois maintains a distributed roster (ledger) of
+eligible Medicaid members. Data is fed into this ledger from various sources, including the
+member’s employer or former employer and records from the federal and state government.
+This allows the eligibility status of a member to stay in constant sync. Should a member fall out
+of coverage once they find a stable job, a smart-contract would automatically terminate their
+enrollment in the program. A distributed ledger solution simplifies the system by rolling up the
+currently siloed databases and connecting them to shared eligibility ledger.
+
+26
+
+ SNAP/TANF
+Medicaid/Medicare
+Unemployment Insurance
+Worker’s Compensation
+
+Student Loans
+Disaster Recovery Grants
+Research Grants
+Agricultural Price Support
+
+Housing Support
+Tax Collection
+Municipal Grants
+Conservation Grants
+
+Social Benefits Distribution Use Case Snapshot
+An interesting application could be an “entitlements digital currency” for benefit programs such
+as food stamps. Providing a digital identity verification would help the program accurately
+verify applicants and reduce fraud. Smart contracts could precisely determine eligibility
+efficiently and effectively. An additional “healthy eating token” incentive system could be
+offered to achieve ancillary health policy goals, providing additional cost savings for other
+health benefits systems.
+
+Convergence: Reimagining Public Services
+Illinois could also explore the feasibility of integrating other emerging technologies such as IoT
+or Artificial Intelligence with blockchain to (1) develop new products and (2) reinvent traditional
+services. New products could include peer-to-peer service marketplaces that monetize nontraditional datasets. Reinventing govt. services could involve using a combination of AI and
+smart contracts to automate complex eligibility processes or to re-engineer social benefits
+programs so that funds are pre-distributed to recipients.
+For example, an interesting application of a blockchain-enabled public service application would
+be a sharing economy public transit service provided by the State of Illinois. With autonomous
+vehicles on the horizon, it is entirely possible to have a state-operated on-demand vehicle
+service that is hosted on a distributed ledger. In fact, private companies such as Arcade City are
+already providing rides to consumers by using a distributed ledger.
+
+Use Case Snapshot - Device Marketplace for Waste Management
+By combining blockchain, IoT, and big data, governments could create demand-based
+marketplaces for tasks such as waste management, recycling services or snow removal. Sensors
+data could be fed into a blockchain system, where it interacts with smart contracts to
+
+27
+
+ determine demand autonomously. Price would be determined by sensors and service providers
+are sourced automatically based on conditions in the smart contract.
+
+Use Case Snapshot – Disaster Recovery Grant Distribution
+Many grants are based on eligibility criteria and are approved or denied based on a person or
+entity meeting pre-defined requirements. Rolling up all systems into smart-contracts managed
+by a distributed ledger could radically simplify the eligibility process. Upon eligibility, a smartcontract could trigger a grant payment instantly. For example, disaster recovery “smart
+contracts” could use a combination of computer vision data and IoT sensor data from drones
+providing an “oracle” to automate the disaster recovery eligibility process.
+
+Blockchain in Government Pilot Database
+Over the past year, the Illinois Blockchain Initiative has compiled a database of over 200
+blockchain and distributed ledger technology pilots, projects and strategies announced by
+public sector entities. The database is an overview of how government at various levels globally
+
+28
+
+ are employing blockchain technology in their efforts to govern, improve the competitiveness of
+their economy and also deliver high-quality services in a more efficient manner.
+The public sector is one of the most active blockchain sector’s exploring the technology for a
+wide variety of use cases. Adoption of the technology in the public section is accelerating at an
+extraordinary pace.
+The database can be found at the following link: http://bit.ly/govt-tracker-database
+
+29
+
+ Appendix A: Legislative Recommendations
+Reconcile State Digital Signature Laws With UETA
+The Uniform Law Commission created the Uniform Electronic Transactions Act in 1999, which
+provides standards for retention of electronic records and the validity and use of electronic
+signatures. Though Illinois has some statutory language allowing electronic signatures, a push
+towards a blockchain-based system is an opportunity to again review whether Illinois should
+make an effort to fully join the rest of the nation and place itself on a path towards more
+efficient and secure paperless recordkeeping.
+
+Modernization of Notarial Statutes
+The Uniform Law Commission has created the Revised Uniform Law on Notarial Acts (RULONA)
+to reflect the changing nature of technology. A shift towards allowing electronic or video
+notarizing, perhaps tracked and verified on a public blockchain, would help modernize Illinois
+law in a clear direction towards electronic commerce and away from the ease of fraud that can
+be committed by paper-and-stamp methods. A holistic look at state notary laws should include
+an analysis of remote video notarization enablement, biometric based notarization as well as
+other technology enabled methods which would be a move that would better facilitate
+electronic transactions.
+
+Self-Notarization of Documents
+One of the basic functions a blockchain can provide is proving that a specific computer file or
+document existed at a certain point in time (akin to a “poor man’s copyright”). Allowing
+documents that have had their hash values permanently timestamped and embedded into a
+known, trusted and public blockchain to be admitted as evidence in state courts would create
+efficiencies by removing the need for a lawyer to visit an office, purchase paper, then have that
+office expend taxpayer resources to physically mark that printout as “certified.” This is also a
+step towards streamlining Illinois’ public land record to be a record of text-data, as opposed to
+a registry of PDF scans of legal instruments that must be independently verified and inspected
+each time they are used. A specific instrument’s SHA 256 hash fingerprint could be included in
+the public record as a way to avoid having government foot the expense of storing terabytes of
+bulky PDF or TIFF files.
+
+Clarity to “Pure Notice” Conveyance and Recording Statute
+A central issue in the legality and validity of property records centers on whether a state is a
+“race to the courthouse” state, a “notice” state, or a “race-notice” state. This refers to how
+competing disputes by “subsequent purchasers” as to ownership of a property are resolved,
+focusing on whether ownership claims that are unrecorded and thus unknown to subsequent
+purchasers adversely affect these bona fide purchasers who took title in good faith with no
+
+30
+
+ knowledge of previous claims or interest. It is the opinion of this Task Force that the case law
+that has misinterpreted the plain language of Illinois’ “pure notice” statute to be a “racenotice” should be invalidated by clear instructions of the General Assembly, simply by adding a
+clarifying statement to the existing statute. 17
+
+Require Claims Against Real Estate to be Publicly Recorded
+Though clarifying the notice requirements and effects in Illinois will go a long way towards
+shaping a logical public record and maximizing its benefit, allowing valid claims to remain
+unrecorded (including those by local governments) is something that should be re-examined in
+our modern age of computers, electronic recording, and overnight mail. It is no longer a burden
+for a person with a valid claim to simply place that claim in the public record, and it must be
+examined whether allowing uncertainty to exist in property records is truly serving the interests
+of taxpayers and property owners. This will make Illinois’ public land record a true record that
+can be easily agreed upon, and not simply a record of those interests claimants felt like
+recording. A single record of claims will make title research easier and cheaper, and make a
+transition to a distributed ledger more attainable and valuable.
+
+Reproduction Versus Storage
+If the goal of a public land record is an accurate description of events between private parties, a
+system that manually recreates those records does not achieve this goal. Section 3-5010 of the
+Recorders Act, entitled “Duties of recorder”, refers to duties related to “instruments in writing.”
+This Section heavily focuses on reproducing written submissions and implies that a recorder
+must always “reproduce” what has already been created. This leads to inefficiencies and errors.
+A possible update to this section could allow for direct submission of plain-text data that was
+used to create the transaction into the public record, which would technically not be a
+“reproduction,” but would provide 100% accuracy in the record of what actually occurred. As a
+background, recorder’s office manually create indices of submitted records, a process that is
+vulnerable to human error and results in discrepancies that must be “insured” at the taxpayers’
+own expense. Such an update would not preclude private parties, through their settlement
+agents or attorneys, from providing hash-values for the lengthy contracts used in the
+transaction, allowing them to be used for evidentiary purposes in the future without requiring
+that costly client-server storage models be used to maintain millions of pages of unnecessary
+information.
+
+Omnibus Real Estate Records Submission Modernization
+Though Illinois law allows documents to be electronically submitted, industry conventions, and
+in some cases, the plain language of the law, confines practice to paper-based methods. For
+example, in outlining some duties of a Recorder, the law states “...No recorder shall record any
+instrument affecting title to real estate unless the name and address of the person who
+prepared and drafted such instruments is printed, typewritten or stamped on the face thereof
+in a legible manner…” (5/3-5022). A focused effort to update these laws to allow text-only
+
+31
+
+ records that have no “face” but still contain the needed information would be a great facilitator
+of blockchain-based recordkeeping. This inquiry should also focus on the Conveyances Act, and
+any section that specifically states how a record must be worded and constructed. For example,
+language such as “..the name and address of the preparer shall accompany any record affecting
+title to real estate…” would begin a shift away from paper-based modes of document
+submission and retention.
+
+Statewide Unique Real Property Parcel Numbering System
+For a blockchain-based property registry to work, every parcel of real estate must have a
+unique number to identify it (much like the interstate and international VIN system for
+automobiles). Earlier this year, the Real Estate Standards Organization (RESO), issued guidance
+for creating a universal Property Unique Identifier for real estate, similar to the VIN number for
+a vehicle. It combines ISO Country and FIPS County codes and incorporates the local unique
+identifier to create a system to uniquely number and identify parcels across a state. Legislation
+could simply adopt this standard and require counties to report whether they use a unique
+numbering system and adopt one if it does not. 12
+
+Appendix B: Citations
+1. Atzori, Marcella. "Blockchain technology and decentralized governance: Is the state still
+necessary?" (2015). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709713.
+2. Atzori, Marcella. "Blockchain Governance and the Role of Trust Service Providers: The
+Trustedchain® Network." (2017).
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972837.
+3. Boston Consulting Group. “A frictionless future for identity management a practical
+solution for Australia’s identity challenge.” Australia Post, (2016).
+https://auspostenterprise.com.au/content/dam/corp/ent-gov/documents/digitalidentity-white-paper.pdf.
+4. Boucher, Philip. “How Blockchain Technology Could Change Our Lives: In-depth
+Analysis.” European Parliament, (2017).
+http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/581948/EPRS_IDA(2017)5
+81948_EN.pdf
+5. Cutler, Joseph, Hansen, J. Dax, Ho, Charlyn L. “Self-Sovereign Identity and Distributed
+Ledger Technology: Framing the Legal Issues” Perkins Coie, (2017).
+https://www.virtualcurrencyreport.com/wpcontent/uploads/sites/13/2017/05/Perkins-Coie-Self-Sovereign-Identity-andDistributed-Ledger-Technology_Framing-the-Legal-Issues-1.pdf
+
+32
+
+ 6. Deloitte “Connecting Global FinTech: Interim Hub Review 2017.” Innotribe and Innovate
+Finance, (2017).
+https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/Innovation/deloitteuk-connecting-global-fintech-hub-federation-innotribe-innovate-finance.pdf
+7. Demirgüç-Kunt, A., Klapper, L. F., Singer, D., & Van Oudheusden, P. (2015). The global
+findex database 2014: Measuring financial inclusion around the world.
+http://documents.worldbank.org/mwg-internal/de5fs23hu73ds/progress?id=s8O3TIkaKpsnQM78IysThFLxTdntJyQH1Fzpama0nM.
+8. Hanson RT, Reeson A, Staples M. “Distributed Ledgers, Scenarios for the Australian
+economy over the coming decades” Data 61 (2017).
+http://www.data61.csiro.au/en/Our-Work/Safety-and-security/Secure-Systems-andPlatforms/Blockchain.
+9. Hexayurt.Capital, and ConsenSys. “Building the Hyerconnected Future on Blockchains”.
+World Government Summit, (2017).
+http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf.
+10. Hileman, Garrick, Rauchs, Michael. "2017 Global Blockchain Benchmarking Study."
+Cambridge Centre for Alternative Finance, (2017). https://www.jbs.cam.ac.uk/facultyresearch/centres/alternative-finance/publications/global-blockchain/#.Wg34KoQrIdU.
+11. Maupin, Julie A. "Blockchains and the G20: Building an Inclusive, Transparent and
+Accountable Digital Economy.“ CIGI Online (2017).
+https://www.cigionline.org/sites/default/files/documents/PB%20no.101.pdf.
+12. Real Estate Standards Organization, PUID Working Group, (2016).
+https://www.reso.org/wp-content/uploads/2016/11/RESO-PUID-WorkgroupMeeting_Mark-Bessett.pdf
+13. Schwab, Klaus. “The Fourth Industrial Revolution: what it means, how to respond.”
+World Economic Forum (2016). https://www.weforum.org/agenda/2016/01/the-fourthindustrial-revolution-what-it-means-and-how-to-respond.
+14. Tapscott, Alex, and Karen Gifford. “This is the technology that could help us make
+globalization work for everyone”. Quartz (2017).
+https://www.weforum.org/agenda/2017/02/this-is-the-technology-that-could-help-usmake-globalization-work-for-everyone.
+15. Tapscott, Don, and Alex Tapscott. “Blockchain Revolution: How the Technology Behind
+Bitcoin Is Changing Money, Business, and the World.” The Tapscott Group, (2016).
+
+33
+
+ 16. Tapscott, Don, Tapscott, Alex. “Blockchain Corridor: Building an Innovation Economy in
+the 2nd Era of the Internet.” The Tapscott Group, (2017).
+http://dontapscott.com/BlockchainCorridorReport.pdf
+17. Torgesen, Cory. “The Illinois Conveyances Act: A 200-Year-Old Labyrinth Whose
+Changing Walls Continue to Provide Inadequate Protection for Subsequent Purchasers.”
+Southern Illinois University Law Journal, (2013).
+http://www.law.siu.edu/_common/documents/law-journal/articles-2013/12%20%20Torgesen%20Comment%20-%20final%20redo.pdf
+18. Walport, M. G. C. S. A. "Distributed ledger technology: beyond block chain." UK
+Government Office for Science, (2016).
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/4929
+72/gs-16-1-distributed-ledger-technology.pdf.
+19. World Economic Forum. Global Agenda. “Deep Shift: Technology Tipping Points and
+Societal Impact.” World Economic Forum, September 2015.
+http://www3.weforum.org/docs/WEF_GAC15_Technological_Tipping_Points_report_20
+15.pdf
+20. World Economic Forum. Global Agenda. "Top 10 Emerging Technologies of 2016."
+(2016). https://www.weforum.org/reports/top-10-emerging-technologies-of-2016.
+21. WU Global Tax Policy Center (WU GTPC). “Blockchain 101 for Governments.” United Nations, (2017).
+http://www.un.org/esa/ffd/wp-content/uploads/2017/10/15STM_Blockchain-101.pdf
+22. Yasukochi, Colin., Levy, Spencer. “Scoring Tech Talent in North America 2017.” CBRE,
+July, 2017. https://www.cbre.us/research-and-reports/Scoring-Tech-Talent-2017
+23. Yaga, Dylan, Mell, Peter, Roby, Nik, & Scarfone, Karen. “Blockchain Technology
+Overview.” National Institute of Science and Technology, January, 2018.
+https://csrc.nist.gov/CSRC/media/Publications/nistir/8202/draft/documents/nistir8202draft.pdf
+
+34
+
+ 

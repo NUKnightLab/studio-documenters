@@ -1,0 +1,495 @@
+ 
+
+4.13:
+
+pm
+
+ 
+
+HRO Workgroup Dyad
+Process of Care
+Elizabeth Vaclavik, DNP, RN, OCN, NEA-BC
+
+Krzysztof Pierko, MD, FACP
+
+ Process of Care Metrics
+Rate of Excess
+Days
+
+• Heart Failure
+• Pneumonia
+• Myocardial
+Infarction
+
+Hospital Acquired
+Conditions
+
+• C Diff Infection
+• CAUTI
+• Total Hip/Knee
+Complications
+
+PSI-90 Composite
+(Patient Safety
+Indicator)
+• PSI-03 (pressure
+ulcer)
+• PSI-06
+(Pneumothorax )
+• PSI-09 (Periop
+hemorrhage)
+• PSI-11 (Post op
+respiratory
+failure)
+• PSI-12
+(PE/DVT)
+• PSI-13 (Postop
+sepsis)
+
+ED Left without
+Being Seen
+
+• Median ED Time
+(admit)
+• Median ED Time
+(discharge)
+• Admit Decision to
+ED Depart
+
+3
+
+ 11
+
+Poushali Bhattacharjee, MD, MS
+Darleen Vlahovic, MBA, BSN, RN
+
+Data Source: Vizient Clinical Data Base
+Baseline Period: July 2017 to June 2018
+Preliminary Data: June and July 2019
+
+Excess Days per
+100 Index
+Encounters
+
+Excess Days of Acute Care
+Excess27.17
+Days per 100 Index Encounters
+
+30.00
+
+25.88
+
+23.05
+
+24.14
+
+23.10
+
+21.61
+
+20.00
+
+20.91
+
+20.46
+
+21.93
+
+17.11
+11.84
+
+10.00
+0.00
+2017 Q1
+
+2017 Q2
+
+2017 Q3
+
+2017 Q4
+
+2018 Q1
+
+Stroger
+
+2018 Q2
+
+Baseline
+
+2018 Q3
+
+Target
+
+2018 Q4
+
+2019 Q1
+
+2019 Q2
+
+2019 Q3
+
+Stretch
+
+Excess Days of Acute Care: Heart Failure
+Excess Days per 100 Index Encounters
+Excess Days per 100
+Index Encounters
+
+80.00
+
+74 Index Enctrs
+61.72
+
+60.00
+40.00
+20.00
+
+80 Index Enctrs
+89 Index Enctrs
+26.13
+72 Index Enctrs
+67 Index Enctrs
+18.64
+17.50
+14.02
+
+66 Index Enctrs 91 Index Enctrs
+22.70
+20.17
+
+85 Index Enctrs
+33.87
+
+88 Index Enctrs
+32.73
+
+95 Index Enctrs
+19.96
+
+72 Index Enctrs
+8.23
+
+0.00
+66 Index Enctrs
+-11.90
+
+-20.00
+
+Sep 2018
+
+Oct 2018
+
+Nov 2018
+
+Dec 2018
+Stroger
+
+Jan 2019
+
+Feb 2019
+
+Mar 2019
+
+Apr 2019
+
+May 2019
+
+Jun 2019
+
+Jul 2019
+
+Aug 2019
+
+Large, Specialized Complex Care Medical Centers
+5
+
+ Excess Days of Acute Care: Heart Failure Drivers
+Primary Drivers
+
+Secondary Drivers
+
+Patients at high risk
+for readmission
+Inpatient
+management of
+patients with
+decompensated heart
+failure
+
+Cardiology specialist
+support
+
+Knowledgeable staff
+Heart failure
+counseling/patient
+education
+
+Changes / Interventions
+Standardized documentation
+including medication
+reconciliation
+Mandatory Cardiology
+consultation for high risk
+patients for readmission and
+advanced heart failure
+Annual attending level
+education on best practices
+
+Symptom control
+prior to discharge
+To reduce Excess Days of
+Acute Care for Heart
+Failure (defined as any
+Emergency Department
+visit, admission to
+observation or inpatient
+status within 30 days of
+index hospitalization for
+heart failure– 20.50 days
+at baseline) by 12% by
+December 2020 and by
+15% by December 2021
+
+Version: 11/13/2019
+
+Educational resources
+
+Discharge process
+
+Staff education on “Get with
+the Guidelines”
+recommendations
+Heart failure Advanced
+Practice Providers to asses
+patient prior to discharge and
+provide extensive counseling
+
+Pharmacist-led review of
+medications
+Implementation of teach back
+technique
+
+Post-hospital
+communication and
+follow-up
+
+Post hospital heart
+failure clinic
+
+Follow up appointment with
+Advanced Heart Failure Clinic
+for selected patients
+
+Communication with
+discharged patients
+
+Follow up with APP Heart
+Failure Clinic for patients
+within 7 days post-discharge
+Post-discharge phone call to all
+patients within 48-72 hours
+
+6
+
+ Excess Days of Acute Care: Heart Failure
+Aim
+
+To reduce Excess Days of Acute Care (defined as any Emergency Department visit, admission to
+observation or inpatient status within 30 days of index hospitalization for heart failure, acute
+myocardial infarction, and pneumonia – 21.71 days at baseline) by 12% by December 2020 and by 15%
+by December 2021.
+•
+•
+•
+
+Plan
+
+Do
+
+Study
+
+Optimize inpatient management of CHF
+for index admissions
+Implement CHF Day of Discharge
+Counseling
+Improve Post-Hospital Communication
+and Follow-Up
+
+• Annual attending-level education on best practices
+and common pitfalls
+• Cardiology consult for patients with advanced heart
+failure
+• Standardized documentation on admission H&P and
+progress notes
+• Use AHA-approved materials to improve patient
+education as well as clear instruction on what to do if
+symptoms worsen
+• Discharge counseling in 4FLEX and CCU
+• Call all patients with CHF Exacerbation as primary
+diagnosis within 48-72 hours of discharge to check
+on symptoms and ensure they have meds and
+appropriate follow-up scheduled
+• Post hospital APP CHF Clinic
+• Ensure post-hospital appointment listed on
+paperwork
+
+• Sample chart review to assess completeness
+of discharge med list
+• Number of cardiology consults
+• Compare readmission rates for patients with
+cardiology involvement and those without
+• Track all nurse discharge counseling notes
+• Balancing measures including patient
+satisfaction and impact on other nursing
+functions
+• The AHA Research Coordinator to track all
+CHF patients discharged from the hospital
+and records their metrics
+• attendance at PH appointments
+• phone calls
+• number of revisits to ED and readmissions
+7
+
+ Lauren Smith, MD, MBA
+Annmarie McDonagh, DN P, RN
+
+Left without Being Seen
+Percent of Pts Left without
+Being Seen
+
+Pt Encounters in ED that Ended with Pt Leaving Before Being Seen by Physician
+8.0%
+7.0%
+6.0%
+5.0%
+4.0%
+3.0%
+2.0%
+1.0%
+0.0%
+
+6.8%
+
+6.3%
+
+6.0%
+4.9%
+
+5.9%
+
+5.7%
+
+Sep 2018
+
+Oct 2018
+
+Nov 2018 Dec 2018
+Stroger
+
+5.6%
+4.8%
+
+4.3%
+
+3.8%
+
+3.5%
+
+Aug 2018
+
+7.6%
+
+6.9%
+
+Jan 2019
+
+Feb 2019
+
+Baseline
+
+Mar 2019
+Target
+
+3.3%
+
+Apr 2019 May 2019 Jun 2019
+
+Jul 2019
+
+Aug 2019
+
+Stretch
+
+9
+
+Sep 2019
+
+ Left without Being Seen
+Aim
+
+To reduce percentage of patients Left Without Being Seen from Stroger Hospital (5.3% at baseline) by
+18% (target 4.3%) by December 2020 and by 20% (target 4.0%) by December 2021.
+Plan
+• CT Surge Project - Streamline process to
+move patient to and from ED CT suite
+• Bed Control Huddles - Improve
+communication between ED, Bed control,
+ODA, EVS, Transportation
+
+Do
+•
+
+•
+
+•
+•
+•
+
+At the time of surge (8 patients waiting for
+CT in ED) Radiology Supervisor will be
+activated to triage and control CT patient
+flow, including opening 2nd floor CT suite
+Additional Transporter assigned to second
+shift, to match peak ED volume times
+Team Members will meet in Bed
+Assignment Dept. Mon-Fri at 6pm and
+10pm
+Team Members will include, Ed
+Coordinator/Charge RN, Bed Assignment,
+EVS Leader, Transportation Leader
+The Bed Control Huddle will address
+delays and develop action plans to correct
+in real time
+
+Study
+•
+•
+•
+•
+
+•
+•
+
+Frequency of surge activation
+Turn-around-time for CT in ED
+Median time from ED arrival to discharge
+(admitted vs. departure)
+Balancing measures including impact on
+TAT for CT on inpatient units
+Average time for bed acquisition
+Median time from ED arrival to discharge
+(admitted vs. departure)
+
+10
+
+ 
+7
+Questions .
+Thank you!
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

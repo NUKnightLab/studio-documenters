@@ -1,0 +1,259 @@
+MINUTES OF REGULAR MEETING - VIDEO
+OPEN SESSION
+June 20, 2013
+ILLINOIS GAMING BOARD
+CHICAGO, ILLINOIS
+NOTE: ITEMS IN BOLDFACE PRINT REFLECT OFFICIAL BOARD ACTIONS
+On Thursday, June 20, 2013 a Regular Meeting - Video of the Illinois Gaming Board (“Board”)
+was held on the 5th floor at 160 N. LaSalle at the Michael J. Bilandic Building, Chicago, Illinois.
+The Open Session on Video Gaming started at approximately 11:00 A.M. Present were
+Members Lee Gould, Maribeth Vander Weele and Chairman Aaron Jaffe. Member Holewinski
+was ill and was not present and did not participate.
+APPROVAL OF MINUTES –
+Member Gould moved that the Board approve the open session minutes of its Regular
+Meeting of May 23, 2013. Member Vander Weele seconded the motion. The Board approved
+the motion unanimously by roll call vote.
+ADMINISTRATOR’S REPORT –
+Administrator Ostrowski summarized that 1,799 video gaming locations and 7,536 video gaming
+terminals are operational. The Administrator also stated that a teleconference was conducted on
+June 12, 2013 with the terminal operators pertaining to the rules, refinancing, and the process for
+removal of the video machines.
+BOARD POLICY ITEMS
+Caleb Melamed’s presentation to the Board
+Section 78 (a) (3) and (b) of the Video Gaming Act [230 ILCS 40] confers rulemaking authority
+upon the Illinois Gaming Board regarding video gaming. At this June 20, 2013 open meeting of
+the Illinois Gaming Board, the Board's legal staff is submitting proposals to amend the Board's
+rules on video gaming [11 Ill. Admin. Code 1800] as follows:
+Inclusion of unredeemed vouchers as part of adjusted gross receipts.
+The proposed rulemaking adds a definitions of "adjusted gross receipts" to Section 110 of the
+video gaming rules [11 Ill. Admin. Code 1800.110 ("Definitions")], identical to the new
+definition proposed for the riverboat gambling rules. Under the new definition, "adjusted gross
+receipts" are defined as gross receipts less winnings paid to wagerers. The definition further
+provides that the value of expired vouchers shall be included in computing adjusted gross
+receipts.
+
+ Including the value of expired vouchers as part of adjusted gross receipts conforms with standard
+accounting practice in the gaming industry.
+Temporary license for licensed terminal handlers and licensed technicians
+This proposed rulemaking adds a new paragraph to Section 560 of the video gaming rules [11 Ill.
+Admin. Code 1800.560 ("Issuance of License")] authorizing the Administrator to issue
+temporary licenses for licensed technicians and licensed terminal handlers, valid for up to one
+year from the date of application. The temporary licenses under this new paragraph will be
+analogous to the temporary licenses currently issued to occupational licensees under the
+Riverboat Gambling Act. A person will be considered ineligible for a temporary license if he or
+she is the subject of a pending investigation, or is ineligible for licensure under any of the criteria
+of Section 45 (a), (a-5), (c), or (d) of the Video Gaming Act ("Issuance of License"), Section 9 of
+the Riverboat Gambling Act ("Occupational Licensees"), or Section 420 of the video gaming
+rules [11 Ill. Admin. Code 1800.420 ("Qualifications for Licensure")].
+Restricted areas for video gaming.
+A new paragraph added to Section 810 of the video gaming rules [11 Ill. Admin. Code 1800.810
+("Location and Placement of Video Gaming Terminals")] establishes the following requirements
+relating to restricted areas for video gaming;
+* For those locations that restrict admittance to patrons 21 years of age or older, a separate
+restricted area is not required.
+*
+In those locations where separation from minors under 21 is required, a physical barrier to
+the gaming area, including but not limited to a short partition, gate or rope is required. No barrier
+shall visually obscure the entrance to the gaming area from an employee of the location who is
+over the age of 21.
+The above requirements are already set forth in the answer to Frequently Asked Question
+("FAQ") number 13 for video gaming on the IGB website. Thus, this rule change represents a
+codification of existing Board policy.
+Transfers of video gaming terminals (VGTs) between terminal operators.
+Currently, the Video Gaming Act and rules do not specify whether a licensed terminal operator
+may sell or otherwise transfer a video gaming terminal to another licensed terminal operator.
+The proposed rule change brings clarity to this issue. It amends Section 1010 of the video
+gaming rules [11 Ill. Admin. Code 1800.1010 ("Restriction on Sale, Distribution, Transfer,
+Supply, and Operation of Video Gaming Terminals")] to authorize such a sale or transfer only
+with prior written approval of the Administrator.
+Additional record-keeping requirements for facility payments.
+
+2
+
+ A "facility payment" is defined in the video gaming rules as a manual payment of currency by an
+authorized employee of a licensed video gaming location or terminal operator for amounts owed
+to a patron by a video gaming terminal when a video gaming terminal or ticket payout device has
+malfunctioned and is unable to produce or redeem a ticket. Section 1410 e) of the video gaming
+rules [11 Ill. Admin. Code 1800.1410 ("Ticket Payout Devices")] currently requires that all
+facility payments must be accounted for by the licensed terminal operator and licensed video
+gaming location using Generally Accepted Accounting Principles (GAAP). As an additional
+check on accuracy and honesty, the proposed rule amends Section 1410 e) to require the
+recording of the following information for each facility payment:
+*
+
+date and time of the payment event;
+
+*
+
+amount paid;
+
+*
+video gaming terminal license number, payout device number, or video gaming ticket
+number for which payment is made; and
+*
+
+name of the individual processing the facility payment.
+
+Redemption of tickets following removal or unavailability of a ticket payout device.
+This proposed change to the video gaming rules adds a new Section 1420 [11 Ill. Admin. Code
+1800.1420 ("Redemption of Tickets Following Removal or Unavailability of Ticket Payout
+Devices")] addressing ticket redemption procedures in the following two situations:
+*
+A video gaming location changes terminal providers and changes ticket payout systems,
+thereby rendering tickets unredeemable by the new ticket payout device at the location; or
+*
+A location either ceases video gaming operations or suspends them for more than 10 days
+because of closure, change of location, revocation or suspension of liquor or video gaming
+license, or other cause.
+In instances when a location changes terminal providers and ticket payout systems, the
+rulemaking requires the location to provide facility payments to the patrons for tickets issued
+under the previous terminal operator.
+In instances when a location ceases video gaming operations or suspends them for more than 10
+days, the rulemaking requires the location to inform patrons of the name and phone
+number of the terminal operator from which patrons can seek payment for unredeemed tickets,
+using both of the following methods:
+*
+Placing a prominent sign at the location (whose dimensions are specified in the
+rulemaking); and
+*
+Placing a prominent notice on any internet site or social media outlet under the location's
+operation or control.
+
+3
+
+ For all situations covered by this rulemaking, the terminal operator must maintain or secure a list
+or database of all issued and unredeemed tickets from the affected location. This list or database
+must be maintained for not less than one year.
+• Proposed Amendments to the Video Gaming Rules –
+Member Vander Weele moved that the Board authorize staff to amend the Board’s
+rules on Video Gaming, Section 110 regarding Definitions; Section 810 regarding
+Location and Placement of Video Gaming Terminals; Section 1010 regarding
+Restriction on Sale, Distribution, Transfer, Supply, and Operation of Video Gaming
+Terminals; and Section 1410 regarding Ticket Payout Devices; and to file a new
+Section 1420 regarding Redemption of Tickets Following Removal or Unavailability
+of Ticket Payout Devices, by submitting a proposal for First Notice Filing with the
+Secretary of State upon final review and approval by the Administrator. Member
+Gould seconded the motion. The Board approved the motion unanimously by roll call
+vote.
+MANUFACTURER, DISTRIBUTORS AND SUPPLIERS LICENSEE ITEMS –
+•
+
+Happ Controls, Inc. – Initial Distributor License
+Based on staff’s investigation, Member Gould moved that the Board approve the
+Distributor License of Happ Controls, Inc., effective June 20, 2013 for a term of
+one year, expiring in June 2014. Member Vander Weele seconded the motion. The
+Board approved the motion unanimously by roll call vote.
+
+•
+
+Welch Gaming, LLC – Initial Supplier License
+Based on staff’s investigation, Member Vander Weele moved that the Board
+approve the Supplier License of Welch Gaming, LLC effective June 20, 2013 for
+a term of one year, expiring in June 2014. Member Gould seconded the motion.
+The Board approved the motion unanimously by roll call vote.
+
+•
+
+NRT Technology Corp. – Supplier License Renewal
+Based on staff’s investigation, Member Gould moved that the Board renew the
+Supplier License of NRT Technology Corp., effective June 20, 2013, for a term
+of one year, expiring in June 2014. Member Vander Weele seconded the motion.
+The Board approved the motion unanimously by roll call vote.
+
+TERMINAL OPERATOR LICENSEE ITEMS –
+•
+
+AP Gaming LLC
+Based on staff’s investigation, Member Vander Weele moved that the Board renew
+the Terminal Operator License of AP Gaming LLC effective June 20, 2013 for a
+period of one year, expiring in June 2014. Member Gould seconded the motion.
+The Board approved the motion unanimously by roll call vote.
+
+•
+
+VGT Illinois, LLC
+
+4
+
+ Based on staff’s investigation, Member Vander Weele moved that the Board
+approve VGT Illinois, LLC’s request to surrender its Terminal Operator
+License, effective June 20, 2013. Member Gould seconded the motion. The Board
+approved the motion unanimously by roll call vote.
+•
+
+Abraham Gaming, LLC
+Based on staff’s investigation, Member Gould moved that the Board accept the
+proposed settlement agreement from Abraham Gaming, LLC; delegate to the
+Administrator the authority to execute such settlement; and authorize legal
+counsel to present the executed settlement agreement to the Administrative Law
+Judge for disposition of this matter, in accordance with the terms of the
+settlement agreement. Further, Member Gould moved that the Board renew the
+Terminal Operator License of Abraham Gaming, LLC retroactive to March 20,
+2013 for a period of one year, expiring in March 2014. Member Vander Weele
+seconded the motion. The Board approved the motion unanimously by roll call vote.
+
+TECHNICIAN & TERMINAL HANDLER LICENSEE ITEMS –
+•
+
+Approvals & Denials
+Based on staff’s investigation, Member Vander Weele moved that the Board
+approve 3 applications for Technician Licenses and 33 applications for Terminal
+Handler Licenses and that the Board deny the license application of Jerry
+Wayne Waldo. Member Gould seconded the motion. The Board approved the
+motion unanimously by roll call vote.
+
+VIDEO GAMING LOCATION LICENSEE ITEMS –
+•
+
+Based on staff’s investigation, Member Gould moved that the Board approve 222
+applications for Video Gaming Location Licenses, and that the Administrator
+issue a Notice of Denial to the following Video Gaming Location License
+Applicants:
+o Apodaca, Inc.
+o AJ Kent, Inc.
+o Fraternal Order of Eagles, Aerie #2494
+o Julie’s Shooting Star, Inc.
+o IVS of Lake Villa, Corp.
+o El Rodeo Sports Bar & Grill, Inc.
+o El Tiburon, Inc.
+Member Vander Weele seconded the motion. The Board approved the motion
+unanimously by roll call vote.
+
+PROPOSED COMPLAINTS AND DISCIPLINARY ACTIONSGeneral Counsel Mattison stated that the handlers, technicians and locations will receive a
+renewal notice a month prior to their renewal date. Ms. Mattison asked that the licensees please
+
+5
+
+ wait until the notice is received before sending in their fee for renewal. Ms. Mattison also stated
+that each is responsible for keeping their information up to date and notifying the IGB of any
+changes.
+• Spielo International Canada ULC –
+Based on staff’s investigation, Member Vander Weele moved that the Board issue a
+Disciplinary Complaint to fine Spielo International Canada ULC $20,000.00 for
+failing to timely file its license renewal application. Member Gould seconded the
+motion. The Board approved the motion unanimously by roll call vote.
+ADMINISTRATIVE REQUESTS FOR HEARING –
+ Requests for Hearing
+Based on staff’s investigation, Member Gould moved that the Board deny the requests
+for hearing from Olive or Twist, Inc.; Anne Mordis; Chicago Heights Post No. 131,
+American Legion; Robert Scott’s, Inc.; Parkers Four, Inc.; Robinson Lodge 1188 of
+the Benevolent and Protective Order of Elks; and Mr. Robert G. Kelly, Jr. as none
+has offered facts to establish a prima facie case. Member Vander Weele seconded the
+motion. The Board approved the motion unanimously by roll call vote.
+• Requests to Reapply –
+Based on staff’s investigation, Member Vander Weele moved that the Board deny the
+request to reapply within one year from the date of denial from Teuta Abdullai; and
+grant the requests to reapply from TJ’s Enterprises of Benld, Inc. and Crusen &
+Klein, Inc. d/b/a Crusen’s of Elmwood. Member Gould seconded the motion. The
+Board approved the motion unanimously by roll call vote.
+At 11:25 A.M. Member Gould motioned to adjourn and Member Vander Weele seconded the
+motion. All Members voted in favor of adjournment.
+
+Respectfully submitted,
+
+Mary C. Boruta
+Secretary to the Administrator
+
+6
+
+ 

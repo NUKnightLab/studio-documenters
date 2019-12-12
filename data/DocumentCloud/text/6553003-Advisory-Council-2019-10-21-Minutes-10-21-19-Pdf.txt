@@ -1,0 +1,138 @@
+Illinois Opioid Crisis Response Advisory Council Meeting
+October 21, 2019
+MEETING MINUTES
+IDHS/SUPR Updates
+Director Kirby welcomed the group and gave the following updates:
+• SUPR tracks data each month on MAT desert counties—counties that have no access to
+methadone, buprenorphine or injectable naltrexone. In March 2018 there were 58 Illinois
+counties that were MAT deserts; we have reduced this number to 43 counties. In
+September, 50 buprenorphine providers came on board, i.e., are listed in SAMHSA’s public
+buprenorphine provider director as active prescribers. SUPR credits ongoing training efforts,
+including Rush University Medical Center’s OUD Training Fellowship. Providers (physicians,
+nurse practitioners and physician assistants) participate in an intensive immersion weekend
+course on OUD treatment and receive ongoing mentoring and technical assistance to
+support their practice. Course are limited to 30 providers. Registration for the January 2020
+course can be found at the link below. Registration closes on November 22, 2019.
+https://rushpsych.co1.qualtrics.com/jfe/form/SV_8eI8O1EOlkVYoND.
+• As discussed at the September 2019 Council meeting, SAMHSA has proposed changes to
+the federal substance use disorder confidentiality rules, known as 42 CFR Part 2. One of the
+provisions in the rule change is to permit opioid treatment programs (OTPs) to report to the
+PMP. HB 3889 proposes that the confidentiality requirements for transmitting information to
+the PMP also apply to OTPs. Supports would be in place to protect patient confidentiality
+should the rule change be approved.
+Illinois Department of Public Health Updates
+Jenny Epstein, Director of Strategic Opioid Initiatives, was participating in an Illinois Senate
+committee and was unable to attend. Director Kirby gave the following update on Ms. Epstein’s
+behalf:
+• In August 2019, Governor Pritzker signed Senate Bill 1828, Needle and Hypodermic Syringe
+Access Program Act, into law which legalizes syringe exchange programs statewide. IDPH
+will operate registration for all syringe service programs (SSP) statewide. IDPH is working
+on the registry and Ms. Epstein will notify the Council when it is ready for comment.
+Department of Healthcare and Family Services (HFS) Update
+Dr. Maria Bruni, Senior Policy Advisory, gave the following updates:
+• HFS was awarded an 18-month, 4.5 million planning grant from the Centers for Medicare
+and Medicaid (CMS) for a demonstration project that will expand substance use treatment
+capacity by paying for services that currently are not reimbursable by Medicaid. HFS has
+begun meeting with its partners and forming its statewide steering committee. The project
+will convene regional meetings to listen to stakeholders, including people with lived
+experience, about OUD/SUD access and capacity issues. The project also will focus on
+SUD payment, and alternative payment and shared risk models for providers that serve
+people with OUD/SUD.
+IDHS/Prescription Monitoring Program (PMP) Update
+Dr. Sarah Pointer, Clinical Director of the Prescription Monitoring Program, gave the following
+updates (see attached handouts):
+• The first two strategies in the State Opioid Action Plan (SOAP) focus on the PMP. The
+following progress has been made for Strategy 1: Increase PMP use by providers.
+
+Illinois Opioid Crisis Response Advisory Council 10/21/2019 Meeting Minutes
+
+1
+
+ o
+
+•
+
+•
+
+•
+
+Public Act 100-0564 requires all Electronic Health Records (EHR) systems in the state
+to directly integrate with the PMP through the automated EHR connection, PMPNow.
+There are currently 456 PMPNow connections.
+o Efforts to integrate various practice types including dentists and pharmacies, are
+ongoing.
+o PMPNow inquiries also have increased; there were 41, 972,099 PMPNow inquiries at
+the end of September 2019.
+o The new PMP website will go live in late November and will include an option to register
+designees.
+The PMP has made the following progress for Strategy 2: Reduce high risk opioid
+prescribing through provider education and guidelines.
+o The PMP Peer Review Committee reviewed the prescribing practices of 32,749
+prescribers and sent letters to 1,239 prescribers who were prescribing opioids at levels
+higher than recommended guidelines.
+o A study conducted by UIC shows that the number of high dose opioid prescriptions per
+100,000 opioid prescriptions decreased from 9,909 in January 2015 to 7,450 in June
+2019 – a 25% decrease. The number of patients who were dispensed at least one
+opioid prescription per 100,000 residents decreased from 18,217 to 12,722 in 2018 –
+30% decrease.
+The updated PMPNow website will go live in late November and will include value-added
+features and improved analytics. Prescribers will be able to go the MYPMP page and a view
+a summary of their prescribing practices. Patient prescription analytics will give prescribers
+data on the number of patients who have been to multiple providers and/or pharmacies in
+the past six months, give risk scores and send out alerts about patients who are at high risk
+for overdosing. These data will give providers information they need at the point of care to
+make decisions about opioid prescribing for specific patients.
+Discussion: Council members discussed concerns about chronic pain patients who have
+been using opioids safely for long-term pain management being rapidly tapered off their
+medication due to PMP data and/or alerts. Dr. Pointer shared that the PMP used CDC
+guidelines of 90 morphine milligram equivalents (MMEs) as the initial dosing notification for
+increased risk for overdose. The PMP agrees that CDC guidelines should not be taken as
+the ‘end all be all’ and should be couple with the clinician’s experience and relationship with
+his/her patients. Council members noted that data on overlapping scripts could be used as a
+tool to identify overdose risks. The PMP will take this into consideration and welcomes
+feedback to make it more user-friendly.
+
+Illinois Helpline Marketing and Communication Presentation
+Jen Toth and Chelsea McCarron from Health Resource in Action (HRiA) gave the following
+presentation on the Helpline Stories of Help campaign (see attached handouts):
+• The Stories of Help campaign is centered on the stories of real people in Illinois who are
+dedicated to helping others—people in recovery, outreach workers, providers and
+community leaders. These people’s stories show that help is available and that the Helpline
+can connect people to that help. To develop and produce the campaign, Helpline staff did
+field research throughout the entire state to identify storytellers and worked with SUPR to
+determine concepts and who/what to film.
+• Campaign components include videos, 30-second TV spots, 15-second YouTube and
+Facebook videos, ads on buses and transit stations in Chicago and the suburbs, and
+billboards. Go to https://www.youtube.com/watch?v=ThWweJsrJe0 to watch and share the
+videos. Council members are encouraged to share the videos and follow and promote the
+Stories of Help campaign and the Helpline on social media.
+Illinois Opioid Crisis Response Advisory Council 10/21/2019 Meeting Minutes
+
+2
+
+ •
+
+•
+
+HRiA is evaluating the Helpline, reviewing existing data and interviewing providers and
+SUPR staff who used to take calls prior to the Helpline. To date, the Helpline has received
+17,736 calls. Initial results suggest that the Helpline is making an impact connecting people
+to care. Voice mail messages from Helpline callers thank the Helpline for treating them like
+human being and giving them needed resources.
+Providers are encouraged to use the provider portal through the Helpline website
+(https://helplineil.org/app/GetHelp) to update their program’s information so that Helpline
+staff can make accurate referrals and estimate waitlists for care. These data are critical to
+connecting people looking for services to care.
+
+November Council Meeting
+The next Illinois Crisis Response Advisory Council meeting will be held on Monday, November
+18, 2019 from 1:00-3:00 PM. Information on Chicago and Springfield locations will be sent
+closer to the meeting date.
+Council meeting minutes and materials (including handouts from this meeting) can be found on
+the Council’s website: http://www.dhs.state.il.us/page.aspx?item=97186
+
+Illinois Opioid Crisis Response Advisory Council 10/21/2019 Meeting Minutes
+
+3
+
+ 

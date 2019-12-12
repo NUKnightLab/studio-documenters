@@ -1,0 +1,112 @@
+Board of Commissioners of Cook County
+Technology and Innovation Committee
+Monday, February 9, 2015
+
+2:00 PM Cook County Building, Board Room, Rm. 569
+118 North Clark Street, Chicago, Illinois
+NOTICE AND AGENDA
+
+There will be a meeting of the Committee or Subcommittee of the Board of Commissioners of Cook County
+at the date, time and location listed above to consider the following:
+PUBLIC TESTIMONY
+Authorization as a public speaker shall only be granted to those individuals who have submitted in writing,
+their name, address, subject matter, and organization (if any) to the Secretary 24 hours in advance of the
+meeting. Duly authorized public speakers shall be called upon to deliver testimony at a time specified in the
+meeting agenda. Authorized public speakers who are not present during the specified time for public
+testimony will forfeit their allotted time to speak at the meeting. Public testimony must be germane to a
+specific item(s) on the meeting agenda, and the testimony must not exceed three minutes; the Secretary will
+keep track of the time and advise when the time for public testimony has expired. Persons authorized to
+provide public testimony shall not use vulgar, abusive, or otherwise inappropriate language when
+addressing the Board; failure to act appropriately; failure to speak to an item that is germane to the meeting,
+or failure to adhere to the time requirements may result in expulsion from the meeting and/or disqualify
+the person from providing future testimony.
+15-1103
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Office of Enterprise Resource Planning
+Vendor: Oracle America, Inc., Redwood Shores, California
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Oracle E-Business Suite Software and Licenses
+Contract Value: $12,150,000.00
+Contract period: 1/22/2015-1/21/2020 with five (5) one (1) year renewal options
+Potential Fiscal Year Budget Impact: FY 2015 $7,290,000, FY 2016 $1,215,000; FY 2017
+$1,215,000; FY2018 $1,215,000; FY 2019 $1,215,000
+Accounts: 715/579; 490/441
+Contract Number(s): 1390-12899
+
+ Concurrence(s):
+The vendor has met the Minority and Women Owned Business Enterprise Ordinance.
+The Chief Procurement Officer concurs.
+The Bureau of Technology concurs.
+Summary: The Office of Enterprise Resource Planning is respectfully requesting approval to enter into
+a five (5) year contract, plus five (5) one year extensions options, with Oracle Corporation to procure the
+E Business Suite of applications and associated database infrastructure software for the purpose of
+replacing the County’s current JDEdwards Financial and HR/Payroll systems. Oracle’s E-Business Suite
+Platform and database infrastructure software will include the following:
+1) Financials/Supply Chain Management modules: Accounts Payable, Accounts Receivable,
+Budget Control/Funds Management, Budget Preparation, Fixed Assets, General Ledger, Grants
+Accounting, Inventory , Purchasing and Project Accounting
+2) Human Resources/Payroll modules: Benefits Administration, Certification/Training Tracking,
+Employee Records, Employee Relations, Payroll, Performance Evaluations, Position Control and
+Employee Risk Management
+3) Organization-wide reporting and analytics: Financial Reporting and Analysis
+4) Database Infrastructure software: Oracle Database, Real Application Clusters, Diagnostics
+Pack, Tuning Pack, Advanced Security, Service Oriented Architecture for Oracle Middleware,
+WebLogic, Business Intelligence, and Data Integrator.
+Upon successful implementation, the E Business Suite platform will allow for process improvements,
+best practices, streamlined and automated workflows and real time reporting and analytics for finance
+and human resources related functions across all County agencies.
+Legislative History:
+Committee
+
+1/21/15 Board of Commissioners referred to the Technology and Innovation
+
+15-0321
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Cook County Bureau of Technology
+Request: Refer to the Committee on Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 9/1/2014 - 11/30/2014
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated
+Cook County Criminal Justice System on a quarterly basis beginning with the first quarter of the
+FY2014. This is the fourth quarterly report of FY2014.
+Legislative History:
+Committee
+
+1/21/15 Board of Commissioners referred to the Technology and Innovation
+
+Page 2 of 3
+
+ 15-1321
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+REPORT
+Department: Office of Enterprise Resource Planning
+Request: Refer to Committee on Technology
+Report Title: ERP Project Status Report
+Report Period: 4th Quarter FY2014
+Summary: The Director of ERP will provide a comprehensive update to the Board of Commissioners
+via the Technology Committee on the status of all ongoing ERP projects. The status update will reflect
+progress being made toward achieving the goals of selecting and implementing a Countywide Enterprise
+Resource Planning (ERP) platform, configure and installing a Bio Metric based Time and Attendance
+system, and upgrading and migrating the JDEdwards HR/Payroll system to a cloud hosting environment.
+Legislative History:
+Committee
+
+1/21/15 Board of Commissioners referred to the Technology and Innovation
+
+_____________________________________
+Matthew B. DeLeon, Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Fritchey
+Gorman
+Butler, Daley, Garcia, Goslin, Schneider, Silvestri, Steele
+
+Page 3 of 3
+
+ 

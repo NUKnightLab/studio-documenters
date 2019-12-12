@@ -1,0 +1,2619 @@
+Minutes
+Cuyahoga County Board of Control
+Monday, June 17, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:03 a.m.
+Attending:
+Dennis Kennedy, Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Councilman Dale Miller
+Councilwoman Nan Baker
+Kahlil Seren, County Council (Alternate for Dan Brady)
+Michael Dever, Director, Department of Public Works
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 6/10/2019
+Dennis Kennedy motioned to approve the minutes from the June 10, 2019 meeting; Michael Dever
+seconded. The minutes were unanimously approved as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+B. – New Items for Review
+BC2019-460
+Department of Public Works,
+a) Submitting an RFP exemption on RQ45782, which will result in an award recommendation to APG
+Office Furnishings in the amount not-to-exceed $311,177.58 for a government cooperative purchase of
+office furniture for the Harvard Road Maintenance Yard Consolidation Project.
+b) Recommending an award on RQ45782 to APG Office Furnishings in the amount not-to-exceed
+$311,177.58 for a government cooperative purchase of office furniture for the Harvard Road Maintenance
+Yard Consolidation Project.
+Funding Source: General Fund – Capital Projects
+
+ Matt Rymer, Department of Public Works, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-460 was unanimously approved.
+BC2019-461
+Department of Public Works, recommending an award on RQ43328 and enter into a contract with Patriot
+Industrial Technologies, Ltd. (12 - 1) in the amount not to exceed $54,000.00 for water treatment
+chemicals and services for various County buildings for the period 6/17/2019 – 12/31/2021.
+Funding Source: Internal Service Fund – Space Maintenance
+Thomas Pavich, Department of Public Works, presented. Dale Miller asked why only one vendor
+responded to the bid that was received by 12 planholders. Lenora Lockett shared the responses received
+from four planholders who chose to not bid for this service. Dennis Kennedy motioned to approve the
+item; Dale Miller seconded. Item BC2019-461 was unanimously approved.
+BC2019-462
+Department of Public Works, recommending an award on RQ44844 and enter into a contract with Info
+Tech, Inc. in the amount not-to-exceed $38,000.00 for (10) APPIA Standard Software Licenses for
+Construction Administration and Inspection services for the period 6/17/2019 – 6/16/2021.
+Funding Sources: 80% - Road & Bridge – Gas & License Fees Fund; 20% - Sanitary Sewer Fund
+Michael Chambers, Department of Public Works, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Michael Dever seconded. Item BC2019-462 was unanimously approved.
+BC2019-463
+Department of Development, recommending an award and enter into an agreement with the City of
+Euclid in the amount not-to-exceed $990,000.00 for demolition of vacant, abandoned, nuisance or
+blighted structures in connection with Round 9 of the Cuyahoga County Property Demolition Program for
+the period 6/17/2019 – 12/31/2020.
+Funding Source: Demolition Fund
+Sara Parks Jackson, Department of Development, presented. Dale Miller asked how many additional
+demolition projects are anticipated through the end of 2020; asked how much money is expected to be
+expended for these upcoming projects; and how much has been committed overall from the original $50
+million project budget. Dennis Kennedy motioned to approve the item; Dale Miller seconded. Item
+BC2019-463 was unanimously approved.
+BC2019-464
+Department of Development, recommending a sole source award on RQ45820 and enter a contract with
+Travis Systems Inc. in the amount not-to-exceed $5,500.00 $5,550.00 for upgrade and maintenance
+services on OneRoof Housing Management Software for the period 7/1/2019 - 6/30/2020.
+Funding Source: Community Development Block Grant
+Sara Parks Jackson, Department of Development, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-464 was unanimously approved as
+amended.
+
+ BC2019-465
+Department of Information Technology, on behalf of the Department of Law, submitting an amendment
+to Contract No. CE1900222 with Everlaw, Inc. for cloud-based e-discovery software services for the period
+3/4/2019 – 5/31/2019, to extend the time period to 6/30/2020 and for additional funds in the amount
+not-to-exceed $100,000.00.
+Funding Source: General Fund
+Greg Huth, Department of Law, presented. Dale Miller expressed his support for the continuation of these
+services but recommended that any additional services at the end of this contract should be competitively
+bid. Nan Baker asked if the additional funding is for software services only or if any costs include outside
+staffing services; and asked if it is anticipated that the department would hire additional staff if the
+workload became unmanageable. Dennis Kennedy motioned to approve the item; Michael Dever
+seconded. Item BC2019-465 was unanimously approved.
+BC2019-466
+Department of Information Technology, submitting various amendments to Contract No. CE1600274 with
+Infor Public Sector, Inc. for information technology services and solutions for the Enterprise Resource
+Planning System for the period 10/27/2016 – 10/26/2021 to modify the scope of services, effective
+6/17/2019; no additional funds required:
+Scope modifications
+Amendment No. 28 – build an interface between FN and Thompson Reuter’s MVP.
+Amendment No. 30 – adding (10) Work Force Management Reports, Interfaces, Conversions and
+Extensions (RICE) Items (Reporting Tool).
+Amendment No. 32 – adding accounts payable Sympro Inbound and F-Check Health and Human Services
+Expense Payments interfaces to Lawson as Reports, Interfaces, Conversions and Extensions (RICE) Items
+(Reporting Tool).
+Amendment No. 34 – change to Human Resources Service Delivery Deliverables Payment schedule.
+Amendment No. 35 – reprogram the Supply Chain, Procurement and Finance Forms relating to OnBase
+document management and document image.
+Amendment No. 36 – Conduct IPA training workshops.
+Amendment No. 37 – additional post-production support services relating to Knowledge Base and Case
+Management software modules.
+Funding Source: Original Contract – ERP Capital Projects Fund (General Fund)
+Jeanelle Greene, Department of Information Technology and Jack Rhyne, Project Manager, InFor,
+presented. Dale Miller indicated his support for this request to keep the Enterprise Resource Planning
+(ERP) project on schedule and asked if another change order related to financial components has been
+negotiated with InFor; asked about the anticipated timeline to reach an agreement for that change order;
+and asked when the next “go live” date will be.
+
+ Nan Baker asked what is being implemented through these change orders and what would be delayed if
+these change orders did not get approved; asked if shifting funds will diminish other funding needed to
+qualify for the workforce management training; asked where the funding for the workforce management
+training is coming from; asked if there is any concern of running out of funds because the training piece
+was larger than expected and asked whether the IPA workshop is related to this training and why this
+contract ends in 2021 when completion is anticipated to occur sooner.
+Dennis Kennedy asked how payment on these change orders will occur in connection with the agreedupon installment payment schedule presented to County Council last November, and if they will occur
+outside of that payment schedule and be invoiced separately. Mr. Kennedy clarified that these change
+orders are not $0 impact and that the County will be paying for these change orders; and asked if the
+original payment schedule included these payments.
+Ms. Baker also asked for clarification on the use of the 99 Fund and how much remains in that fund; and
+asked if there are other funds similar to the 99 Fund.
+Mr. Miller asked for confirmation that the 99 Fund is basically a contingency fund and asked what happens
+to unused funds.
+Kahlil Seren asked what was the process by which the amount for the 99 Fund was determined and how
+much of the fund is expected to be used.
+Dale Miller motioned to approve the item; Michael Dever seconded. Item BC2019-466 was unanimously
+approved.
+The following item was amended to remove the verbiage County-owned.
+BC2019-467
+Department of Public Safety and Justice Services, recommending an award on RQ45476 to Remotec Inc.
+in the amount not-to-exceed $6,685.00 for the provision of a service and maintenance training course on
+County-owned Andros F6A robots for the region’s bomb response teams for the period 6/17/2019 –
+6/16/2020.
+Funding Source: General Fund
+Mary Beth Vaughn, Department of Public Safety and Justice Services, presented. Nan Baker asked why
+the General Fund is being used rather than grant, State or Federal funds; and asked who will be receiving
+training. Michael Dever asked where the Andros F6A robots will be housed. Dennis Kennedy motioned to
+approve the item; Michael Dever seconded. Item BC2019-467 was unanimously approved as amended.
+
+ BC2018-468 BC2019-468
+Department of Health and Human Services, Cuyahoga Job and Family Services, recommending a sole
+source award on RQ45321 and enter into a contract with Enterprise Community Partners, Inc. in the
+amount not-to-exceed $368,850.00 to promote the Earned Income Tax Credit, Child Care Tax Credit and
+provide free tax preparation assistance to low and moderate-Income individuals and families for the
+period 7/1/2019 – 6/30/2020.
+Funding Source: Temporary Assistance to Needy Families Fund
+Robert Math, Cuyahoga Job and Family Services, presented. Nan Baker asked for clarification on the sole
+source process. Lenora Lockett explained that the sole source process is based on specific needs of the
+department and a process including a public posting to solicit responses to services being sought; stated
+that the vendor must provide a sole source affidavit stating that no other vendor can provide services.
+Ms. Lockett also acknowledged that the market can change at any time, which is why the process must
+be conducted every time a new contract is required. Ms. Baker recommended that a process should be
+followed next time to determine whether this service is still considered sole source. Dale Miller asked if
+funding, either directly or indirectly, is for staff expenses or more for direct services. Dennis Kennedy
+commented that the cost increased from the prior year’s contracts since this vendor was identified as a
+sole source provider. Kahlil Seren asked for clarification regarding the Earned Income Tax Credit serving
+as an entry point for financial education and asset development, as stated in briefing materials and asked
+if there is any follow up with clients on how the funds are used. Dennis Kennedy motioned to approve the
+item; Michael Dever seconded. Item BC2019-468 was unanimously approved as amended.
+BC2019-469
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+submitting an amendment to Contract No. CE1800248 with Salvation Army for Emergency Shelter and
+Rapid Re-housing services in connection with the FY2017 Continuum of Care Homeless Assistance Grant
+Program for the period 6/1/2018 – 5/31/2019 to extend the time period to 5/31/2020 and for additional
+funds in the total amount not-to-exceed $374,731.00.
+Funding Source: Federal - $174,731.00 and Health and Human Services Levy - $200,000
+Shari Weir, Office of Homeless Services, presented. There were no questions. Dennis Kennedy motioned
+to approve the item; Michael Dever seconded. Item BC2019-469 was unanimously approved.
+BC2019-470
+Department of Health and Human Services/Office of Reentry,
+a) Submitting an RFP exemption on RQ45847, which will result in an award recommendation to Towards
+Employment, Inc. in the amount not-to-exceed $166,000.00 for job readiness and skill training,
+apprenticeship, job placement and legal services to restored citizens in connection with the Innovations
+in Reentry Initiative Grant Program for the period 7/1/2019 – 9/30/2021.
+b) Recommending an award on RQ45847 and enter into a contract with Towards Employment, Inc. in the
+amount not-to-exceed $166,000.00 for job readiness and skill training, apprenticeship, job placement and
+legal services to restored citizens in connection with the Innovations in Reentry Initiative Grant Program
+for the period 7/1/2019 – 9/30/2021.
+
+ Funding Source: U.S. Department of Justice-Bureau of Justice Assistance Grant Award
+Fred Bolotin, Office of Reentry, presented. Dennis Kennedy asked how many individuals will be served
+during the contract period. Dennis Kennedy motioned to approve the item; Dale Miller seconded. Item
+BC2019-470 was unanimously approved.
+BC2019-471
+Sheriff’s Department,
+a) Submitting an RFP exemption on RQ44250, which will result in an award recommendation to FAAC
+Incorporated in the amount not-to-exceed $98,505.00 for the purchase of an Interactive Milo Range
+Theater 180 3-Screen Immersive Firearms and Force Options Simulator for mandatory on-site law
+enforcement officer training.
+b) Recommending an award on RQ44250 to FAAC Incorporated in the amount not-to-exceed $98,505.00
+for the purchase of an Interactive Milo Range Theater 180 3-Screen Immersive Firearms and Force Options
+Simulator for mandatory on-site law enforcement officer training.
+Funding Source: 50% Special Revenue Fund – (Certified Professional Training) and 50% Commissary Funds
+Tanisha Gates and Sergeant O’Conner, Sheriff’s Department, presented. Kahlil Seren said he does not
+want to contribute to a situation where staff are being trained to react in circumstances where their
+response could have negative consequences, that may not be necessary and asked if real world scenarios
+are used as a guide when selecting immersive training methods, which may not be wholly healthy to the
+community. Michael Dever asked where the simulator will be housed. Dennis Kennedy motioned to
+approve the item; Michael Dever seconded. Item BC2019-471 was unanimously approved.
+
+The following item was amended to include the scope expansion.
+BC2019-472
+Sheriff’s Department, submitting an amendment to Contract No. CE1900140 with American Correctional
+Association for security assessment services for the period 12/17/2018 – 12/16/2019, to expand the
+scope of services to add a site visit, effective 6/17/2019, and for additional funds in the amount not-toexceed $12,462.00.
+Funding Source: Commissary Funds
+Brandy Carney, Department of Public Safety and Justice Services, presented. Dale Miller asked how many
+non-law enforcement employees are at the Sheriff’s Department. Dennis Kennedy asked for clarification
+on the eligible use of Commissary Funds for this amendment. Nan Baker asked if the additional site visit
+has taken place and if this will be the final visit. Dale Miller commented that while the American
+Correctional Association site visits are beneficial, the County should rely on internal assessments and
+asked what process is in place to gather information and communicate the state of the conditions at the
+Jail to Sheriff’s officials; and stated that additional discussions on this matter, separate from this request,
+will be necessary. Dennis Kennedy motioned to approve the item; Michael Dever seconded. Item BC2019472 was unanimously approved as amended.
+
+ C. – Consent Agenda
+Kahlil Seren referred to Item BC2019-473 related to a seminar for 2 staff at the Division of Children and
+Family Services in Springfield, MO on 6/24-27/2019 in the total amount of $2,226.70 and asked for
+clarification on the Team Decision Making model. There were no additional questions. Dennis Kennedy
+motioned to approve items BC2019-473 through -474; Dale Miller seconded, the consent items were
+unanimously approved.
+BC2019-473
+Fiscal Office presenting proposed Travel for the week of 6/17/2019
+
+Travel Requests
+Department
+
+Staff
+(2)
+
+Department
+of Health
+and Human
+Services –
+Division of
+Children and
+Family
+Services
+
+John
+Parker
+
+Ramonia
+Jenkins
+
+Event
+
+Host
+
+A seminar
+entitled “Team
+Decision
+Making
+Facilitators
+Training”
+
+Annie E.
+Casey
+Foundation
+
+Dates of
+Travel
+6/24/6/27/2019
+
+Location
+
+Springfield,
+MO
+
+Expenses
+
+*Airfare $1,157.00
+**Lodging$531.02
+
+Funding
+Source
+Health and
+Human
+Services Levy
+–
+70%
+$1,558.69
+
+**Meals $328.00
+**Rental Car$210.68
+
+Title IV-E30%
+$668.01
+
+Total$2,226.70
+
+*Airfare will be covered by a contract with the County’s Travel Vendor – ($1,157.00)
+**Staff reimbursement
+
+Purpose:
+Team Decision Making (TDM) is a collaborative practice used by child welfare agencies that includes family
+members for all decisions involving child removal, change of placement, reunification or other permanency plans.
+The seminar entitled “Team Decision Making Facilitators Training,” provides professionals in the field with training
+in this more effective approach to placement of at-risk youth in comparison to the traditional model.
+
+ Travel Requests
+Department
+
+Staff
+(3)
+
+Office of the
+Medical
+Examiner
+
+Kate
+Snyder
+Amy
+Koons
+Dawn
+Schilens
+
+Event
+
+Host
+
+A conference
+entitled “104th
+International
+Association for
+Identification
+(IAI) Forensic
+Educational
+Conference”
+
+International
+Association
+for
+Identification
+(IAI)
+
+Dates of
+Travel
+8/10/8/17/2019
+
+Location
+
+Reno,
+Nevada
+
+Expenses
+
+Funding
+Source
+
+*Registration
+Fees –
+$1,665.00
+
+Paul
+Coverdell
+Grant
+FY 2018-
+
+**Lodging$3,338.12
+**Meals $1,000.00
+**Ground
+Transportation$300.00
+**Parking$140.00
+**Baggage –
+$340.00
+***Airfare$1,852.64
+
+Total- $8,635.76
+
+*Paid to the Host
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($1,852.64)
+Purpose:
+The 104th International Association for Identification (IAI) Forensic Educational Conference is the largest organized
+event in the world that provides a full week of high quality, cutting edge education and hands on training in forensic
+physical evidence examination and crime scene processing. Attendees will experience professional, scientific and
+technical lectures in the disciplines of Biometric, Bloodstain Pattern, Crime Scene, Digital, Facial Identification,
+Footwear and Tire Track, Forensic Art, Photography, DNA, Ten Print and Latent Print Evidence. It provides the
+opportunity for experts in these fields to stay up to date on the latest techniques, technologies and issues in forensic
+science, and to learn more about quality assurance, standards developments, and the most comprehensive forensic
+certification program in the world.
+
+ BC2019-474
+Office of Procurement & Diversity, presenting proposed purchases for the week of 6/17/2019
+
+Direct Open Market Purchases
+(Purchases between $5,000 - $49,999.99 unless requiring assistance from
+the Office of Procurement & Diversity – See Below):
+
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+HS-19-45532
+
+Purchase (55) Fujitsu
+fi-7160 Document Scanners
+for the Enterprise
+Document Management
+System Project
+
+Globecom
+Technologies, Inc.
+
+$43,996.70
+
+HS-19-45776
+
+(55) Replacement
+computer lab desks for
+Westshore Neighborhood
+Family Service Center
+
+Department of
+Health and Human
+Services on behalf
+of the Division of
+Children and
+Family Services
+Department of
+Health and Human
+Services
+
+Office Installation
+Services
+
+$34,845.84
+
+Health and
+Human
+Services Levy
+Fund
+
+CT-19-45276
+
+Purchase spider swing
+stage for façade repairs at
+various County buildings
+Audio/visual presentation
+system for County Archives
+Cement mortar and sewer
+brick for Sanitary Engineer
+
+Department of
+Public Works
+
+Safeworks
+
+$34,650.95
+
+General Fund
+– Capital
+
+Department of
+Public Works
+Department of
+Public Works
+
+Wide Area Media
+
+$24,955.00
+
+The Chas. E. Phipps
+Company
+
+International truck parts
+and service for Fleet
+Services
+Paint/sundries for various
+County buildings
+
+Department of
+Public Works
+
+Rush Truck Centers of
+Ohio, Inc.
+
+Department of
+Public Works
+
+Sherwin Williams Co.
+
+HVAC air filters for various
+County buildings
+
+Department of
+Public Works
+
+Air-Rite Service Supply
+
+Not-toexceed
+$49,999.00
+Not-toexceed
+$30,000.00
+Not-toexceed
+$49,500.00
+Not-toexceed
+$35,000.00
+
+General Fund
+– Capital
+Sanitary Sewer
+Fund
+
+CT-19-45670
+CT-19-45913
+
+CT-19-45927
+
+CT-19-45930
+
+CT-19-45938
+
+Funding
+Source
+70% Health
+and Human
+Services Levy
+Fund
+30% Title IV-E
+
+Road and
+Bridge Fund
+General Fund
+– Internal
+Service Fund
+General Fund
+– Internal
+Service Fund
+
+ Items/Services Received and Invoiced but not Paid:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding
+Source
+
+CF-19-46014
+
+Post Adoption Special
+Services Subsidy: Summer
+camp*
+
+Division of
+Children and
+Family Services
+
+Gilmour Academy
+
+$3,841.00
+
+70% Health
+and Human
+Services Levy
+Fund
+30% Title IV-E
+
+CF-19-46006
+
+Post Adoption Special
+Services Subsidy: Summer
+camp*
+
+Division of
+Children and
+Family Services
+
+Believers Achieve
+Dreams Inc.
+
+$6,300.00
+
+70% Health
+and Human
+Services Levy
+Fund
+30% Title IV-E
+
+*Alternate procurement process to authorize payments to various providers for Post Adoption Special Services
+Subsidy (PASSS) consisting of counseling, respite and residential treatment services for the period 4/15/2018 –
+4/14/2021 approved by Board of Control Approval No. BC2018-255 dated 4/23/2018.
+
+Open Market Purchases
+(Over $50,000 or requiring assistance from the Office of Procurement & Diversity)
+Requisition #
+None
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding
+Source
+
+ V – OTHER BUSINESS
+Time Sensitive/Mission Critical
+BC2019-475
+Department of Public Works, recommending an award on RQ46146 to Epic Energy Solutions in the
+amount not-to-exceed $3,290.00 for low-voltage breaker repair at the Justice Center Tower II.
+Funding Source: General Fund – Internal Service Fund
+Thomas Pavich, Department of Public Works, presented. Dale Miller asked what procurement method
+was utilized and how can the department be certain that the cost was reasonable. Nan Baker asked when
+repair services were provided. Dale Miller motioned to amend the agenda to consider the item; Nan Baker
+seconded. Dennis Kennedy motioned to approve; Dale Miller seconded. Item BC2019-375 was
+unanimously approved.
+Items of Note (non-voted)
+Item No. 1
+Department of Public Works, submitting an agreement of cooperation with the City of Brook Park in
+connection with the resurfacing of West 130th Street from Bagley Road to Snow Road.
+Funding Source: $785,000 - Road and Bridge Fund; $144,200 – City of Brook Park; $216,300 – City of
+Middleburg Heights; $144,200 – City of Parma; $216,300 – City of Parma Heights and $5,768,000 Federal
+Funds
+Item No. 2
+Department of Health and Human Services/Community Initiatives Division/ Office of Homeless Services,
+submitting a grant award from U.S. Department of Housing and Urban Development/Community Planning
+and Development in the amount of $488,904.00 for Rapid Re-housing services for Families in connection
+with the FY2018 Continuum of Care Program Competition grant for the period 6/1/2019 – 5/31/2020.
+Funding source: U.S. Department of Housing and Urban Development
+
+ Item No. 3
+
+Contracts
+$0.00 - $49,999.99 – Processed and Executed
+(No Vote Required)
+
+RQ No.
+
+Contract
+Number
+
+Vendor
+
+Service
+Description
+
+Amount
+
+Department
+
+Date(s) of
+Service
+
+Funding
+Source
+
+Date of
+Execution
+
+JA-1945451
+
+CE1900258
+
+Cuyahoga
+Marketing
+Service, Inc.
+dba Great
+Day! Tours &
+Charter Bus
+Service
+
+Transportation
+services for
+Camp HOPE
+campers and
+adult
+chaperones on
+8/4/2019 and
+8/9/2019
+
+$790.00
+
+Department of
+Public Safety
+and Justice
+Services
+
+6/4/2019 10/3/2019
+
+5/31/2019
+(Executive)
+
+Economic
+and
+Community
+Development
+Institute, Inc.
+
+Management of
+Microenterprise
+Revolving Loan
+Fund
+
+$0.00
+
+Department of
+Development
+
+2/1/2013 –
+3/31/2019;
+extend
+through
+3/31/2020
+
+Major League
+Baseball
+Properties,
+Inc.
+
+Rental of (100)
+parking spaces,
+not necessary
+for public use, in
+the Huntington
+Park Garage
+located at 1141
+West 3rd Street,
+Cleveland and
+(2) security
+officers for the
+Major League
+Baseball All Star
+Game Parade
+
+$4,465.28
+
+FY2019
+Victims of
+Crime Act
+Defending
+Childhood
+Initiative
+Intake and
+Assessment
+Fund
+Original
+contract:
+Cuyahoga
+County
+Western
+Reserve
+Fund
+Revenue
+Generating
+
+DV-1223900
+
+N/A
+
+Amend
+CE1300019
+
+N/A
+
+Department of
+Public Works
+
+7/8/2019 –
+7/9/2019
+
+6/4/2019
+(Law)
+
+5/31/2019
+(Executive)
+6/5/2019
+(Law)
+
+6/7/2019
+(Executive)
+6/10/2019
+(Law)
+
+ CF-1945491
+
+CF-1943083
+
+CF-1943049
+
+AG1900144
+
+Amend
+AG1800146
+
+Master
+Contract
+(Assign
+Contract No.
+CE1900261)
+
+Cuyahoga
+Community
+College,
+Corporate
+College
+Conference
+Center
+
+Room rental,
+and catering
+services in
+connection with
+the Annual
+Supervisor
+Training PreConference on
+6/25/2019
+
+$2,927.00
+
+Alcohol, Drug
+Addiction and
+Mental
+Health
+Services
+Board of
+Cuyahoga
+County
+Various
+Providers
+
+Clinical
+components of
+the Treatment
+Foster
+Care/Kinship
+Care Pilot
+Program
+management
+Adoption
+Services to add
+The Barker
+Adoption
+Foundation,
+effective
+4/19/2019
+
+$0.00
+
+$0.00
+
+Division of
+Children and
+Family Services
+
+Division of
+Children and
+Family Services
+
+Division of
+Children and
+Family Services
+
+6/25/2019
+
+70% Health
+and Human
+Services
+Levy Fund
+30% Title IVE
+
+6/7/2019
+(Executive)
+
+9/17/2018
+–
+6/30/2019
+to extend
+through
+6/30/2020
+
+Original
+contract:
+Health and
+Human
+Services
+Levy Fund
+
+6/7/2019
+(Executive)
+
+1/1/2019 12/31/202
+0
+
+Original
+contract:
+State Child
+Protection
+Allocation
+
+6/7/2019
+(Executive)
+
+6/6/2019
+(Law)
+
+6/10/2019
+(Law)
+
+6/10/2019
+(Law)
+
+ Item No. 4
+Purchases Processed
+$1,000.00 - $4,999.99
+For the period 4/29/2019 – 5/30/2019
+(No Vote Required)
+
+Purchase
+Order #
+
+Purchase
+Order Date
+
+Description
+
+Dept/Loc
+
+Vendor Name
+
+Total
+
+Status
+
+1925600
+
+5/31/2019
+
+2019 Self Contained
+Breathing Apparatus
+hydrostatic testing
+
+SH/SH003
+
+INDUSTRIAL
+SAFETY
+PRODUCTS
+
+$4,471.50
+
+3PS - Sent
+
+1925599
+
+5/31/2019
+
+2019 Double Stack Washer
+and Dryer Units
+
+SH/SH003
+
+MAS Inc
+
+$3,413.00
+
+3PS - Sent
+
+1925597
+
+5/31/2019
+
+APCO Training Manuals
+
+JA/JA01
+
+APCO
+International Inc
+
+$2,927.52
+
+3PS - Sent
+
+1925596
+
+5/31/2019
+
+Lockers for Bedford Auto
+Title Office
+
+AU/AU01
+
+$3,484.00
+
+3PRS Ready to
+Send
+
+1925595
+
+5/31/2019
+
+6,000 M Warrants
+
+AU/AU01
+
+CENTRAL
+BUSINESS
+GROUP dba
+Patterson Pope
+Inc.
+RR DONNELLEY
+
+$2,783.52
+
+3PRS Ready to
+Send
+
+1925591
+
+5/30/2019
+
+Postage Ink and Ribbon
+
+CT/CT01
+
+$4,932.15
+
+3PS - Sent
+
+1925590
+
+5/30/2019
+
+Facilities: Backflow
+Preventer
+
+CT/CT01
+
+PITNEY BOWES
+GLOBAL
+MAILING
+SYSTEMS
+EPS SUPPLY INC.
+
+$2,987.10
+
+3PS - Sent
+
+1925589
+
+5/30/2019
+
+Print Shop (Sheriff):
+Expansion Envelopes
+
+CT/CT01
+
+$4,400.00
+
+3PS - Sent
+
+1925588
+
+5/30/2019
+
+Print Shop (CESA): Blue
+Record Jackets
+
+CT/CT01
+
+Western States
+Envelope and
+Label
+Millcraft Paper
+Company
+
+$1,497.50
+
+3PS - Sent
+
+1925583
+
+5/29/2019
+
+Handcuffs, Cases & Zip Ties
+for Correction Officers
+
+SH/SH003
+
+VANCE
+OUTDOORS, INC
+
+$1,294.00
+
+3PS - Sent
+
+1925580
+
+5/29/2019
+
+Mediation Legal Fees Donnelly
+
+CT/CT01
+
+John J. Donnelly
+Attorney at law
+
+$1,312.50
+
+3PS - Sent
+
+1925578
+
+5/29/2019
+
+IPS Card Reader and
+Controls for Chester Parking
+Lot
+
+SH/SH01
+
+INTEGRATED
+PRECISION
+SYSTEMS, INC.
+
+$1,945.07
+
+3PS - Sent
+
+ 1925575
+
+5/29/2019
+
+FCSS State FY19 Family
+Membership
+
+FC/0002
+
+Cleveland
+Metroparks
+
+$1,351.00
+
+3PRS Ready to
+Send
+
+1925574
+
+5/29/2019
+
+FCSS State FY19 Mentoring
+Services
+
+FC/0002
+
+Julie Eid
+
+$1,115.00
+
+3PRS Ready to
+Send
+
+1925572
+
+5/29/2019
+
+DCFS 2019: MKM
+Management ConsultingBook Order
+
+CF/CF01
+
+MKM
+Management
+Consulting
+
+$1,359.15
+
+3PS - Sent
+
+1925566
+
+5/28/2019
+
+FCSS State FY19 Respite
+Services
+
+FC/0002
+
+Andrew Nix
+
+$1,000.00
+
+3PRS Ready to
+Send
+
+1925564
+
+5/28/2019
+
+FCSS State FY19 Mentoring
+Services
+
+FC/0002
+
+Change of
+Direction
+
+$2,060.00
+
+3PRS Ready to
+Send
+
+1925557
+
+5/28/2019
+
+FCSS State FY19 Mentoring
+Program
+
+FC/0002
+
+MGW
+
+$2,500.00
+
+3PRS Ready to
+Send
+
+1925554
+
+5/28/2019
+
+FCSS State FY19 Summer
+Enrichment Program
+
+FC/0002
+
+Believers Achieve
+Dreams
+
+$1,460.00
+
+3PRS Ready to
+Send
+
+1925553
+
+5/28/2019
+
+FCSS State FY19 Safety
+Adaptive Equipment
+
+FC/0002
+
+Moores Helping
+Hands
+
+$1,364.00
+
+3PRS Ready to
+Send
+
+1925539
+
+5/28/2019
+
+DCFS 2019: EchographicsCAPS AND GOWNS FOR
+GRADUATION
+
+CF/CF01
+
+ECHOGRAPHICS
+
+$1,697.45
+
+3PS - Sent
+
+1925538
+
+5/28/2019
+
+DCFS 2019: Daves
+Supermarket-Gift Cards
+
+CF/CF01
+
+Dave's
+Supermarket
+
+$4,950.00
+
+3PS - Sent
+
+1925537
+
+5/24/2019
+
+Fleet Services - Specialized
+Police Lighting
+
+CT/CT01
+
+Fleetwise Truck
+Parts
+
+$4,735.23
+
+3PS - Sent
+
+1925535
+
+5/24/2019
+
+Fleet Services (SAN) Coupler Repair on Excavator
+Unit S-478
+
+ST/ST01
+
+OHIO CAT
+
+$1,587.15
+
+3PS - Sent
+
+1925529
+
+5/24/2019
+
+Mass Casualty Incident
+Triage Tags
+
+JA/JA01
+
+QuadMed, Inc
+
+$4,586.40
+
+3PS - Sent
+
+1925527
+
+5/24/2019
+
+DSAS 2019: Ads within
+Cleveland Older Adults
+Resource Guide
+
+SA/SA01
+
+SENIOR IMPACT
+PUBLICATIONS,
+LLC
+
+$1,350.00
+
+3PS - Sent
+
+ 1925526
+
+5/23/2019
+
+Facilities: Medium Capacity
+Foodservice Disposer
+
+CT/CT01
+
+DEAN SUPPLY
+
+$1,742.40
+
+3PS - Sent
+
+1925525
+
+5/23/2019
+
+Facilities: Drywall Frames
+for the Sheriff's Office
+
+CT/CT01
+
+Doors And
+Hardware Inc
+
+$2,300.00
+
+3PS - Sent
+
+1925524
+
+5/23/2019
+
+Facilities: Taco Heat
+Exchanger for JJC
+
+CT/CT01
+
+$2,590.00
+
+3PS - Sent
+
+1925516
+
+5/23/2019
+
+Sanitary - Sewer Plumbing
+Materials
+
+ST/ST01
+
+ALLIED
+EQUIPMENT
+COMPANY
+Core & Main LP
+
+$3,356.17
+
+3PCR Complete
+Receipt
+
+1925515
+
+5/23/2019
+
+Print Shop (CFS): Family
+Home Resource file Folder
+w/Jamela Clip
+
+CT/CT01
+
+UNITED
+FINISHING & DIE
+CUTTING INC.
+
+$1,611.50
+
+3PS - Sent
+
+1925514
+
+5/23/2019
+
+Chrome Wire Shelving Units
+
+AU/AU01
+
+W.B. Mason
+Company, Inc.
+
+$1,352.58
+
+3PRS Ready to
+Send
+
+1925513
+
+5/22/2019
+
+Workers' Compensation
+Medical Exam
+
+CC002/HR0
+01
+
+Medical
+Resource Group,
+Inc.
+
+$4,390.00
+
+3PRS Ready to
+Send
+
+1925512
+
+5/22/2019
+
+Workers' Compensation
+Deposition Fees and Late
+Cancellation Fees
+
+CC002/HR0
+01
+
+Medical
+Resource Group,
+Inc.
+
+$1,800.00
+
+3PRS Ready to
+Send
+
+1925508
+
+5/22/2019
+
+Presort Mailings
+
+CT/CT01
+
+Midwest Direct
+
+$4,950.00
+
+3PPR Partial
+Receipt
+
+1925507
+
+5/22/2019
+
+Underground Storage Tank
+Fees - 2019
+
+CT/CT01
+
+Treasurer of
+State of Ohio
+
+$4,550.00
+
+3PS - Sent
+
+1925505
+
+5/22/2019
+
+Autopsy Saws
+
+CR/CR00
+
+VWR
+International
+
+$3,770.00
+
+3PS - Sent
+
+1925504
+
+5/22/2019
+
+NMS - Outside Toxicology
+Testing - April 2019
+Toxicology
+
+CR/CR00
+
+National Medical
+Services dba
+NMS Labs
+
+$4,504.00
+
+3PS - Sent
+
+1925503
+
+5/22/2019
+
+Fentanyl - Drug Chemistry
+
+CR/CR00
+
+Cayman
+Chemical
+Company
+
+$1,819.00
+
+3PS - Sent
+
+1925496
+
+5/21/2019
+
+Power Plex Fusion Parentage/ID
+
+CR/CR00
+
+Promega
+Corporation
+
+$4,278.92
+
+3PS - Sent
+
+1925495
+
+5/21/2019
+
+Vials, Stoppers, Caps Combo
+- Toxicology
+
+CR/CR00
+
+Shamrock Glass
+Co., Inc.
+
+$2,228.35
+
+3PS - Sent
+
+ 1925494
+
+5/21/2019
+
+Consumables Sensors,
+Calibrators and Controls All-In-One-Analyzer
+
+CR/CR00
+
+Nova Biomedical
+
+$2,324.47
+
+3PS - Sent
+
+1925493
+
+5/21/2019
+
+2019 DCFS Legal Counsel for
+Medicaid Trust
+
+CF/CF01
+
+The Law Offices
+of John H.
+Lawson
+
+$1,500.00
+
+3PI - In
+Progress
+
+1925485
+
+5/20/2019
+
+2019 Annual dues for the
+Ohio Association of
+Elections Officials
+
+BE/BE01
+
+Ohio Association
+of Elections
+Officials
+
+$3,928.00
+
+3PS - Sent
+
+1925484
+
+5/20/2019
+
+Ohio Edison - Olmsted
+Township
+
+CT/CT01
+
+Ohio Edison
+
+$1,500.00
+
+3PS - Sent
+
+1925475
+
+5/17/2019
+
+Fleet Services (R&B) - York
+Yard Fuel System Spill
+Bucket Repair
+
+CE/130
+
+PRECISION
+PUMP, INC.
+
+$3,350.00
+
+3PCR Complete
+Receipt
+
+1925472
+
+5/16/2019
+
+Facilities: CPDHQ Fire Pump
+Repair
+
+CT/CT01
+
+TROMBOLD
+EQUIPMENT
+COMPANY
+
+$3,400.00
+
+3PS - Sent
+
+1925470
+
+5/16/2019
+
+Print Shop (CCOEMS):
+Preparedness Guides
+
+CT/CT01
+
+Foote Printing
+
+$1,295.00
+
+3PS - Sent
+
+1925469
+
+5/16/2019
+
+Print Shop (Stock): Various
+Sized Paper for Internal
+Department Orders
+
+CT/CT01
+
+Millcraft Paper
+Company
+
+$1,177.00
+
+3PS - Sent
+
+1925468
+
+5/16/2019
+
+Facilities: Fasteners for Door
+Repairs at Various Locations
+
+CT/CT01
+
+ADVANCE DOOR
+CO
+
+$1,969.55
+
+3PCO Closed
+
+1925465
+
+5/16/2019
+
+County Animal Shelter Veterinary Services
+
+CT/CT12
+
+FAMILY PET
+CLINIC
+
+$1,393.82
+
+3PCR Complete
+Receipt
+
+1925464
+
+5/16/2019
+
+County Animal Shelter Veterinary Services
+
+CT/CT01
+
+VCA Great Lakes
+Veterinary
+Specialists
+
+$4,736.71
+
+3PCR Complete
+Receipt
+
+1925463
+
+5/16/2019
+
+Operating Support
+
+DV/DV01
+
+Engage
+Cleveland
+
+$1,000.00
+
+3PRS Ready to
+Send
+
+1925461
+
+5/16/2019
+
+Water Treatment Chemicals
+
+CT/CT01
+
+Patriot Industrial
+Technologies,
+Ltd.
+
+$4,950.00
+
+3PCR Complete
+Receipt
+
+ 1925460
+
+5/16/2019
+
+Rental of Various
+Equipment
+
+CT/CT01
+
+UNITED RENTALS
+
+$4,900.00
+
+3PCR Complete
+Receipt
+
+1925458
+
+5/15/2019
+
+Fleet Services (SAN) Converter Replacement on
+Truck S-315
+
+ST/ST01
+
+Valley Ford Truck
+Inc
+
+$1,130.60
+
+3PCR Complete
+Receipt
+
+1925457
+
+5/15/2019
+
+Geocortex Essentials
+Standard Edition - Tier 1 Maintenance
+
+IS/IS01
+
+Latitude
+Geographics
+Group Ltd.
+
+$2,709.20
+
+3PS - Sent
+
+1925455
+
+5/15/2019
+
+FCSS State FY19 Family
+Membership
+
+FC/0002
+
+The Mandel JCC
+of Cleveland
+
+$1,499.52
+
+3PRS Ready to
+Send
+
+1925452
+
+5/15/2019
+
+GC/MS Repair - Drug
+Chemistry
+
+CR/CR00
+
+Envantage, Inc.
+
+$1,679.20
+
+3PS - Sent
+
+1925444
+
+5/14/2019
+
+FCSS State FY19 Family
+Membership
+
+FC/0002
+
+BKM
+Management
+Company LLC
+dba The Little
+Gym
+
+$1,660.00
+
+3PRS Ready to
+Send
+
+1925437
+
+5/14/2019
+
+VanGuard RACF
+Maintenance
+
+IS/IS01
+
+VANGUARD
+INTEGRITY
+PROFESSIONALS
+
+$3,810.00
+
+3PS - Sent
+
+1925436
+
+5/14/2019
+
+HHS 2019: Family Fun Day
+Event on Public Square
+
+HS/HS01
+
+Party Safari
+
+$4,821.48
+
+3PS - Sent
+
+1925431
+
+5/13/2019
+
+Banner
+Installation/Removal
+
+SA/SA01
+
+dynamic sign co
+
+$1,400.00
+
+3PS - Sent
+
+1925426
+
+5/10/2019
+
+FCSS State FY19 Mentoring
+Program
+
+FC/0002
+
+MGW
+
+$2,500.00
+
+3PRS Ready to
+Send
+
+1925425
+
+5/9/2019
+
+FCSS State FY19 Respite
+Services
+
+FC/0002
+
+Carrie Murray
+
+$1,855.00
+
+3PRS Ready to
+Send
+
+1925424
+
+5/9/2019
+
+FCSS State FY19 Summer
+Enrichment Program
+
+FC/0002
+
+Believers Achieve
+Dreams
+
+$1,460.00
+
+3PRS Ready to
+Send
+
+1925421
+
+5/9/2019
+
+Boat Cleaning and Service
+
+SH/SH01
+
+Pier 53 Marine,
+LLC
+
+$2,727.39
+
+3PCR Complete
+Receipt
+
+ 1925420
+
+5/9/2019
+
+HHS 2019: Traymore Black
+Computer Task Chairs
+
+HS/HS01
+
+STAPLES
+BUSINESS
+ADVANTAGE
+
+$4,051.50
+
+3PS - Sent
+
+1925416
+
+5/9/2019
+
+Legal Ad for Cuyahoga
+County Courthouse Square
+Elevator Modernization
+
+CT/CT01
+
+Plain Dealer
+(Advance Ohio
+Media)
+
+$1,830.40
+
+3PCO Closed
+
+1925415
+
+5/8/2019
+
+Milan Pad Folders
+
+CR/CR00
+
+HPM BUSINESS
+SYSTEMS INC.
+
+$1,077.77
+
+3PS - Sent
+
+1925412
+
+5/7/2019
+
+Organic Lawn Treatment for
+Various County Buildings
+
+CT/CT01
+
+Weed Pro Ltd.
+
+$3,631.00
+
+3PS - Sent
+
+1925411
+
+5/7/2019
+
+OPUS Parking Tickets for
+HPG
+
+CT/CT01
+
+Southland
+Printing
+Company, INc.
+
+$4,153.35
+
+3PS - Sent
+
+1925410
+
+5/7/2019
+
+Radios for Justice Center
+Engineers
+
+CT/CT01
+
+CLEVELAND
+COMMUNICATIO
+NS, INC.
+
+$1,408.80
+
+3PS - Sent
+
+1925409
+
+5/7/2019
+
+First Aid Supplies
+
+CT/CT01
+
+INDUSTRIAL
+SAFETY
+PRODUCTS
+
+$4,900.00
+
+3PS - Sent
+
+1925406
+
+5/7/2019
+
+Compactor and Baler PM
+and Oil Change
+
+CT/CT01
+
+Precision
+Compaction
+Services
+
+$1,902.73
+
+3PCO Closed
+
+1925400
+
+5/3/2019
+
+Attendance fees for the
+Ohio Secretary of State's
+2019 Summer Conference
+
+BE/BE01
+
+Ohio Secretary of
+State
+
+$1,560.00
+
+3PS - Sent
+
+1925399
+
+5/3/2019
+
+1 day rental of 200kw
+generator for BOE main
+bldg
+
+BE/BE01
+
+BUCKEYE POWER
+SALES COMPANY
+
+$1,168.00
+
+3PS - Sent
+
+1925398
+
+5/3/2019
+
+1 day rental of 150kw
+generator for Halle
+Warehouse (3951 Perkins
+Ave)
+
+BE/BE01
+
+BUCKEYE POWER
+SALES COMPANY
+
+$1,460.00
+
+3PS - Sent
+
+1925397
+
+5/3/2019
+
+Install Access Control for IT
+Resource Office at JEH
+Building
+
+IS/IS01
+
+INTEGRATED
+PRECISION
+SYSTEMS, INC.
+
+$2,277.02
+
+3PS - Sent
+
+1925395
+
+5/2/2019
+
+DCFS 2019: Vizio Smart LEDLCD Monitor for Facilitator
+Rooms
+
+CF/CF01
+
+MNJ
+TECHNOLOGIES
+DIRECT
+
+$4,676.00
+
+3PS - Sent
+
+ 1925394
+
+5/1/2019
+
+Facilities: Factory
+Authorized Service Fire
+Alarm at HPG
+
+CT/CT01
+
+SIEMENS
+INDUSTRY, INC.
+
+$1,040.00
+
+3PCO Closed
+
+1925393
+
+5/1/2019
+
+Facilities: Hand Chain with
+Hoist for 5th Floor
+Mechanical Room Tower II
+
+CT/CT01
+
+Samsel Supply
+
+$2,064.00
+
+3PS - Sent
+
+1925392
+
+5/1/2019
+
+Facilities: Hammer Drill
+Package
+
+CT/CT01
+
+Hilti Inc
+
+$1,479.00
+
+3PS - Sent
+
+1925391
+
+5/1/2019
+
+Print Shop (CSEA): Medical
+Sleeves
+
+CT/CT01
+
+Western States
+Envelope and
+Label
+
+$1,894.80
+
+3PS - Sent
+
+1925390
+
+5/1/2019
+
+Facilities: Parking Gate for
+Jane Edna Hunter Building
+
+CT/CT01
+
+PSX
+
+$3,420.00
+
+3PS - Sent
+
+1925389
+
+5/1/2019
+
+Facilities: Complete
+Restroom Cleaning Machine
+
+CT/CT01
+
+SOVEREIGN
+INDUSTRIES, INC.
+
+$3,679.00
+
+3PS - Sent
+
+1925388
+
+5/1/2019
+
+Road & Bridge: Industrial
+Pressure Washer Rental
+
+CT/CT01
+
+United Rentals
+
+$1,469.99
+
+3PS - Sent
+
+1925387
+
+5/1/2019
+
+Hazmat Sustainment:
+Chemical Detection Update
+
+JA/JA00
+
+Safeware, Inc.
+
+$2,960.00
+
+3PS - Sent
+
+1925386
+
+5/1/2019
+
+Culture Tubes
+
+CR/CR00
+
+SHAMROCK
+GLASS
+
+$4,295.70
+
+3PS - Sent
+
+1925385
+
+5/1/2019
+
+Facilities: DCSF Window
+Shades
+
+CT/CT01
+
+Designer Accents
+and Interiors Inc.
+
+$2,295.00
+
+3PS - Sent
+
+1925384
+
+5/1/2019
+
+County Animal Shelter Veterinary Services
+
+CT/CT12
+
+VCA Great Lakes
+Veterinary
+Specialists
+
+$1,542.65
+
+3PCR Complete
+Receipt
+
+1925383
+
+5/1/2019
+
+County Animal Shelter Veterinary Services
+
+CT/CT12
+
+ANIMAL
+PROTECTIVE
+LEAGUE
+
+$2,080.80
+
+3PCR Complete
+Receipt
+
+1925376
+
+4/30/2019
+
+FCSS State FY19 Summer
+Camp/ Hip Hop Dance
+
+FC/0002
+
+BodyRocksDance
+&FitnessStudio
+
+$1,265.00
+
+3PRS Ready to
+Send
+
+1925371
+
+4/30/2019
+
+Hood Cleaning JC 4th Floor
+Cafeteria
+
+CT/CT01
+
+A Bee C Service
+Inc. DBA ServiceTech Corp.
+
+$3,690.00
+
+3PS - Sent
+
+ 1925366
+
+4/30/2019
+
+County Animal Shelter Veterinary Services
+
+CT/CT12
+
+FAMILY PET
+CLINIC
+
+$3,066.50
+
+3PCR Complete
+Receipt
+3PCR Complete
+Receipt
+
+1925365
+
+4/30/2019
+
+Fleet Services (FAC) Transmission Replacement
+for Vehicle OD 6353
+
+CT/CT01
+
+ATLAS
+AUTOMOTIVE,
+INC.
+
+$2,500.00
+
+1925363
+
+4/30/2019
+
+May, June, July 2019 JD
+Dairy Products
+
+JC/JC10
+
+GORDON FOOD
+SERVICE, INC.
+
+$2,316.60
+
+3PRS Ready to
+Send
+
+1925359
+
+4/29/2019
+
+Courthouse Square Parking
+Lot Cameras
+
+IS/IS01
+
+INTEGRATED
+PRECISION
+SYSTEMS, INC.
+
+$4,133.18
+
+3PS - Sent
+
+1925358
+
+4/29/2019
+
+Furniture and Office
+Equipment for Workers'
+Compensation Offices
+
+CC002/HR0
+01
+
+W.B. Mason
+Company, Inc.
+
+$3,118.05
+
+3PRS Ready to
+Send
+
+1925346
+
+4/29/2019
+
+GCRTA CBRNE Response
+PPE
+
+JA/JA00
+
+DICAR CORP
+
+$2,300.00
+
+3PS - Sent
+
+1925344
+
+4/29/2019
+
+2019 TALENT ACQUISITION
+SPRING CONFERENCE
+
+HS/HS01
+
+Cleveland SHRM
+
+$1,500.00
+
+3PS - Sent
+
+1925343
+
+4/29/2019
+
+2019 Signature Pads
+
+SH/SH003
+
+Southern
+Computer
+Warehouse
+
+$3,539.40
+
+3PCR Complete
+Receipt
+
+VI – PUBLIC COMMENT
+VII – ADJOURNMENT
+Dennis Kennedy motioned to adjourn; Michael Dever seconded. The motion to adjourn was unanimously
+approved at 12:15 p.m.
+
+ 

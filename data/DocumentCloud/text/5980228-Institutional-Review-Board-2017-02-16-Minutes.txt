@@ -1,0 +1,141 @@
+ILLINOIS
+CRIMINAL JUSTICE
+INFORMATION AUTHORITY
+300 W. Adams Street • Suite 200 • Chicago, Illinois 60606 • (312) 793-8550
+
+ICJIA Institutional Review Board (IRB)
+Meeting Minutes
+Thursday, February, 16, 2017, 1:00 p.m.
+Illinois Criminal Justice Information Authority
+300 W. Adams Street, Suite 200
+Chicago, Illinois 60606
+
+I.
+
+Call to Order/Roll Call
+Dr. Evan Harrington called the meeting to order at 1:10 p.m. ICJIA Associate General
+Counsel Simeon Kim called the roll.
+
+Member Name
+Dr. Rachel Johnston, Chair
+Director John Maki, ICJIA
+Ms. Era Laudermilk
+Dr. LaDonna Long
+Dr. Evan Harrington
+Dr. Dan Cooper
+Ms. Maya Szilak
+
+Present
+
+Absent
+X
+X
+
+By Telephone
+
+X
+X
+X
+X
+X
+
+Five members were present in person and a quorum was established.
+II.
+
+Approval of Meeting Minutes – August 18, 2016.
+Dr. Harrington asked for any comments regarding the meeting minutes of August 18,
+2016. Dr. Harrington wanted to clarify a statement on page 3, in the second paragraph,
+where it stated, “Dr. Harrington stated that his comments were just suggestions; they are
+not really needed.” He stated that the suggestions were best practices for research ethics,
+although not required by the federal regulations. The “not really needed” part could be
+“not required by the federal regulations.”
+Vote: Ms. Laudermilk moved to approve the minutes. Dr. Cooper seconded the motion.
+The motion passed by unanimous voice vote.
+
+III.
+
+Full IRB Application Review: None.
+
+IV.
+
+Renewal Application Review: None.
+
+ V.
+
+Old business: None.
+
+VI.
+
+Exempt Application Review: None.
+
+VII.
+
+Expedited Application:
+A. Impact of Legislative Changes on the IDOC Prison Population (James Austin and
+Megan Alderden). This proposal was approved through the expedited review process in
+November 2016.
+
+VIII.
+
+Amendment Application Review:
+A. Impact of Legislative Changes on the IDOC Prison Population (Christine Devitt)
+Protocol Change: The project methodology is being modified to include criminal history
+records of the cohort included in the study, which consists of all persons exiting from the
+Illinois Department of Corrections (IDOC) in state fiscal year 2015. Research staff from
+ICJIA will match the IDOC records to the corresponding criminal history records
+available in the Illinois Criminal History Record Information (CHRI) System, using last
+name, first name, and date of birth. The individuals’ complete state criminal history
+records will be pulled from the CHRI System Ad Hoc Database. The IDOC and CHRI
+files will be combined, stripped of all identifiers, and disseminated to James Austin at
+JFA Institute, the principle investigator responsible for developing the state-specific
+sentencing model. This de-identified data file will not be shared with any researcher
+outside of JFA Institute, including the co-principle investigator at Rutgers University.
+Discussion: Dr. Harrington asked if the addendum changes the de-identified status of the
+information. Ms. Devitt replied that ICJIA only provides de-identified data to the
+researchers. They do not need the identifiers in their model. Dr. Harrington stated that he
+does not see any additional risk so it would qualify similarly as the original protocol.
+Vote: Dr. Cooper made a motion to approve. Ms. Laudermilk seconded the motion. The
+motion passed by unanimous voice vote.
+B. Evaluation of Safe Passage (Jessica Reichert)
+Protocol Change: We would like to obtain more demographic information from the Safe
+Passage Initiative Client Intake Form. We would like first and last name, date of birth,
+race/ethnicity. The Dixon Police Department will electronically send an encrypted file by
+secure email the identifying information of clients to the PI (ICJIA Research Manager).
+The identifying information received from Dixon will be destroyed once no longer
+needed.
+We will use name and date of birth to pull their criminal history record information to
+compare arrest activity before and after participation in Safe Passage. ICJIA researchers
+will link the names to arrest data. Identifiers are needed to link to electronic Criminal
+History Record Information (CHRI). After the data is gathered, a unique id code can
+
+ replace their name, so the database is de-identified. All data will be saved on secure,
+password-protected computer. The names will be under the researcher’s exclusive control
+and will not be shared in any written publication. With a relatively small sample size,
+care will be taken to maintain our participants’ confidentiality.
+We would like to add interviews with treatment providers who provide services for those
+Safe Passage clients with substance use disorders. Questions and consent form are
+attached.
+Consent Procedure Change: For the analysis of the intake form data, we were approved
+for a waiver of consent due to our use of administrative, de-identified data.
+Consent Document Change: Adding a consent form.
+Discussion: Dr. Harrington asked if the consent forms were for just the 10 treatment
+providers. Ms. Reichert stated “correct.” Dr. Long asked if there was another way of
+asking Question 41, “Do you think police need more training?” She said the question
+might lead someone to think that the researchers think police need more training. Dr.
+Cooper stated that Ms. Reichert may want to ask whether someone in the individual
+organizations could better speak to treatment provided under the Safe Passage Initiative.
+He said an organization’s executive director may know more than individual treatment
+providers.
+Vote: Dr. Cooper moved to approve. Ms. Laudermilk seconded the motion. The motion
+passed by unanimous voice vote.
+IX.
+
+Dr. Mock introduced Caitlin Delong as the new IRB manager.
+
+X.
+
+Adjourn:
+Ms. Laudermilk moved to adjourn at 1:35 p.m. Dr. Cooper seconded the motion. The
+motion passed by unanimous voice vote.
+
+ 

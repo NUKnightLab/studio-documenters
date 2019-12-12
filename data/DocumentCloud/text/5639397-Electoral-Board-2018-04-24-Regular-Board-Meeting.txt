@@ -1,0 +1,299 @@
+Commissioners
+
+Marisel A. Hernandez, Chairwoman
+
+William J. Kresse, Commissioner/Secretary
+Jonathan T. Swain, Commissioner
+
+Lance Gough, Executive Director
+
+Board of Election Commissioaers
+
+Board of Election Commissioners for the City of Chicago
+Minutes of the
+
+Regular Board Meeting
+April 24, 2018, 9:30 a.m.
+69 West Washington Street, 8th Floor Conference Room, Chicago, Illinois 60602
+Board Members:
+
+Marisel A. Hernandez, Chairwoman
+
+William J. Kresse, Commissioner/Secretary
+Jonathan T. Swain, Commissioner
+Staff:
+
+Lance Gough, Executive Director
+Adam W. Lasker, General Counsel
+
+Charles Holiday, Assistant Executive Director
+James P. Allen, Communications Director
+Gary Rycyzyn, Consultant
+Trupti Patel
+Geneva Morris, Videographer
+Irish Sheehy
+Guests:
+
+Judd Ryan, ES&S
+Helene Gabelnick, League of Women Voters of Chicago
+C. Betty Magness, Rainbow PUSH Coalition
+Waldeep Singh, Dominion
+
+I.
+
+Call to Order: The Chairwoman called the meeting to order at. 9:38 a.m.
+
+II.
+
+Roll Call: All Board members were present
+
+III.
+
+Consideration of Agenda: Commissioner Swain moved to table, until the next meeting,
+the contract for Server Virtualization and Back-Up and Disaster Recovery with CDW
+Government LLC. Commissioner Kresse seconded the motion. The motion was passed by
+unanimous vote of the Board.
+
+No other changes to the agenda were proposed.
+
+IV.
+
+Approval of Minutes: No Minutes were presented for approval.
+
+V.
+
+Executive Director's Report(Mr. Lance Gough)
+
+69 West Washington Street. Suites 600/800, Chicago IL 60602• 1,312.269.7900•fax 1.312.263.3649• TTY 1.312.269.0027
+chicagoelections.com •email: cboe@chicagoelections.net
+
+ Board of Election Commissioners for the City of Chicago
+
+Regular Board Meeting of April 24,2018
+
+• On Wednesday, April 18th the U.S. Election Assistance Commission (BAG) held their
+Standards Board Meeting. Mr. Gough is a member of the EAC's Standards Board. They
+
+discussed the Help America Vote Act(HAVA)and recent appropriation of $380 million in
+federal funding. Mr. Gough plans to meet with Board staff to work out a schedule of how
+to spend the Board's allocation of these funds and put that in writing for Board
+consideration and approval.
+• On Thursday at 9:30 a.m. Board staff will have a debriefing meeting to discuss the use of
+Chicago's $3 million portion of the HAVA appropriation. The Board has 5 years to spend
+the monies, which is similar to previous HAVA funds we've been awarded. We already
+have a separate checking account set up to keep the HAVA funding separate. Mr. Gough
+hopes to have the plan to the Board in the next week because the Illinois State Board of
+Elections (ISBE) wants to know when we want those funds.
+Mr. Gough was a panelist at the EAC Standards Board Meeting's panel discussion
+"Election Cybersecurity Update from the Perspective of Local Election Officials."
+General Counsel Adam Lasker, Communications Director Jim Allen and Mr. Gough gave a
+presentation as part of the Continuing Legal Education program at the National Bar
+Association's Annual meeting. The subjects addressed were Voter empowerment, pretrial detainees, voter registration and voter ID laws. The Board had been asked to
+participate by Judge Freddrenna Lyie. Mr. Gough was the panel moderator; the panel
+included Mr. Allen and Mr. Lasker, along with Khadine Bennet of the ACLU and Ami
+Gandhi of the Chicago Lawyers' Committee for Civil Rights. Mr. Gough said that he
+received rave reviews on the panel presentation, and on what the Board has done. Trish
+Sheehy worked with the panel members and helped prepare the PowerPoint, material
+distribution and panel setup.
+
+o Mr. Lasker noted that it was good program. The audience was well engaged. We
+heard later that our session was the only session that had a real dialog and got
+the crowd into the conversation.
+
+o Mr. Allen said it was a great freewheeling exchange, including good dialog about
+City Key.
+
+We have been working on an intergovernmental agreement with the County Clerk's
+Office for an Election Information Security Officer. This item is going before the County
+Board tomorrow. Hopefully, it will pass because this position would be a great help to
+both this Board and the County. Mr. Gough will be attending the County Board meeting.
+
+Illinois State Board of Election Commissioner Casandra Watson contacted Mr. Gough
+about the ISBE conducting an Automatic Voter Registration (AVR) public meeting in
+Chicago. The Board will host this hearing here, next month. Mr. Gough is working with
+Dustin Schultz from ISBE to put together a program.
+
+Chairwoman Hernandez said that it is great that others recognize what we already knew,
+that the Chicago Board Is at the forefront of election administration. When we give these
+
+Page 2 of 6
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of April 24,2018
+
+presentations, we are not only being informative, but we show everyone where we are
+making strides in areas in which other agencies haven't even begun to work.
+A. Assistant Executive Director(Mr. Charles Holiday)
+
+• Post-election reports have been sent to ISBE including: The 2 a.m. Report (list of
+precincts that had not reported by 2:00 a.m. Election Night), The Obvious
+Discrepancies and 5% Audit Tabulation Report, and Post-election Survey Reports
+(vote totals for: Grace Period, Early Voting, Vote by Mail, Election Day and
+
+Military). Illinois Voter Registration System (IVRS) In Trust report, which is a report
+of all IVRS users in our office with their secure token keys
+
+• Yesterday, our warehouse staff along with ES&S completed copying log files from
+all e-poll books used for the Election.
+
+• Last week we had a debriefing with the Receiving Station and Remote Site
+supervisors on the return of election materials on Election Night from the Judges
+of Election.
+
+• We've started scanning ballot applications to capture images
+B. Communications Director(Mr. Jim Allen)
+
+• The Chairwoman and Mr. Allen went to Hubbard High school last week to meet
+with seniors and juniors. Many of them were already registered to vote, but about
+75 registered on-site and which are now being processed.
+
+• We Began "flipping web pages" with content for November and preparing
+translations for 2019
+
+• We're getting daily requests from media regarding the 2019 election, on such
+topics as the calendar, candidates, when the filings will begin, and voter history
+records.
+
+• Staff will meet this morning to begin putting together the specifications for
+signage, envelopes,forms, and banners and all the printing that's going to be
+needed. This is will be for an Invitation for Bid (IFB).
+
+• The Tribune ran an editorial over the weekend about shortening the Early Voting
+time frame. 40 days before an April 2019 election would be before the February
+2009 election. Hopefully state legislators will take this up.
+
+Mr. Gough added to his report that we have lost the 16 W Adams Early Voting Supersite.
+The Board will need to find another site for the November Early Voting sSupersite, but we
+are having difficulties. This ballot is too large to conduct Early Voting in the lower level of
+69 W. Washington. The 15 W Washington site (that the Board used for Early Voting in
+
+Page 3 of 6
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of April 24,2018
+
+2016 hasn't built out yet. Mr. Gough will talk to Walgreens and the people who have
+leased that site from Walgreens about the Board using it again.
+As we will continue to have this problem. Commissioner Swain suggested that we look
+into creating space, possibly to find open space such and adding a permanent structure
+or semi-permanent structure. Mr. Gough stated that they have been looking into such
+options. Discussion ensued. Commissioner Kresse added that this is yet another reason to
+for reforming the time frame for Early Voting.
+VI.
+
+Old Business
+
+A. Infrastructure Projects and Changes in Election Administration: we are currently
+working on this.
+B. Electronic Poll Books: Judd Ryan of ES&S stated that we have completed downloading
+logs from this past election. Mr. Ryan said that Mr. Allen had presented ES&S with
+some suggestions for modifying the Media View.
+C. Voting Equipment: Mr. Gough stated that the Board needs to get back to considering
+new voting equipment in the next couple of weeks
+D. Legislation: Mr. Lasker reported that we are following the bill that deals with both
+registration of pretrial detainees, and providing information to people as they are
+leaving the jail. This has gone through the Elections and Campaign Finance
+committees where it was passed unanimously, 14:0. It's picking up bi-partisan support
+
+and is scheduled for a 2"*^ reading on the House floor.
+Several other bills that we've been tracking have been sent back to the Rules
+Committee, including the House Bill that would have election authorities stop using
+Cross-Check, and only use the ERIC system. The House Bill has gone back to Rules, but
+the Senate bill is going back to the floor for a second reading.
+
+The Bills on closing schools on Election Day has been sent back to the Rules
+Committee. Same with the Automatic Voter Registration (AVR) extension bill and the
+changes to Write-In Candidates bill.
+VII.
+
+New Business:
+
+A. Approval of contract for Server Virtualization and Back-Up and Disaster Recovery with
+CDW Government LLC. This item has been postponed for a future meeting.
+B. Adoption of Local Option Guidelines for the 2018 General Election:
+
+Mr. Lasker explained that every cycle the Board reviews and approves the Guidelines
+for Local Option Referenda petitions and procedures. The Guidelines tend to be a
+popular document. Mr. Lasker updated the 2016 version. There have been no recent
+substantive changes to the law {it's an old law) But Mr. Lasker did add the General
+Assembly's website as a source for obtaining relevant statutes because previously it
+
+Page 4 of 6
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of April 24,2018
+
+only referenced the Cook County Law Library. Additionally, Mr. Lasker changed the
+name of the White Sox stadium to Guaranteed Rate Field. The dates and deadlines
+
+have also been updated for the November 2018 election.
+Commissioner Swain moved to adopt the Local Option Guidelines for the 2018 General
+Election. Commissioner Kresse seconded the motion. The Board adopted the
+Guidelines by unanimous vote.
+
+C. Resolution authorizing disposal of election materials pursuant to the Illinois Local
+Records Act and Election Code for: Special Primary Election (2"'' Congressional Dist.),
+Feb. 26, 2013; Special Election (2"'^ Congressional Dist.), April 9, 2013; and General
+Election, Nov. 4, 2014.
+
+Mr. Lasker stated that our warehouse has requested that we open some space to store
+
+the current(March 2018) materials, so we need to clear out some of the older election
+materials. State statute requires us to retain all of the paper election materials for 22
+months. We are beyond the 22 months for the 3 elections listed above for which
+materials are still being stored at the warehouse. There is no pending litigation on
+these elections. Therefore the resolution, if approved today, would allow the disposal
+of election materials pursuant to the Illinois Local Records Act and Election Code for:
+
+Special Primary Election (2nd Congressional Dist.), Feb. 26, 2013; Special Election (2nd
+Congressional Dist.), April 9, 2013; and General Election, Nov. 4, 2014.
+Commissioner Kresse moved to approve the resolution. Commissioner Swain seconded
+the motion and the Board approved the resolution by a 3:0 vote of the Board.(The
+Resolution was signed in open session)
+Viil.
+
+Legal Report
+
+• Mr. Lasker introduced the new Law Clerk, Trupti Patel to the Board.
+IX.
+
+Financial Report
+A. Balance Sheet and Voucher Listings for the City of Chicago -2018 Appropriation -18-
+
+03 dated April 24, 2018 in the amount of $952,495.72 Commissioner Swain moved to
+approve Balance Sheet and Voucher Listings for the City of Chicago-2018
+Appropriation -18-03 dated April 24,2018. Commissioner Kresse seconded the
+motion. The motion was passed by unanimous vote of the Board
+B. Balance Sheet and Voucher Listings for the County of Cook -2018 Appropriation -18-
+
+03 dated April 24, 2018 in the amount of $4,654,000.20: Commissioner Kresse made a
+motion to approve Balance Sheet and Voucher Listings for the County of Cook -2018
+Appropriation -18-03 dated April 24, 2018. Commissioner Swain seconded the
+motion. The motion was approved by a 3:0 vote of the Board.
+X.
+
+Public Comment None
+
+Xi.
+
+Executive Session None
+
+Page 5 of 6
+
+ Board of Election Commissioners for the City of Chicago
+Regular Board Meeting of April 24,2018
+
+XII.
+
+Adjournment: Commissioner Swain moved to adjourn until the next Regular Board
+Meeting of May 8, 2018 at 9:30 a.m. Commissioner Kresse seconded the motion. The
+motion was passed by unanimous vote of the Board. The Board adjourned at 10:02 a.m.
+
+Submitted,
+
+Commissionejmilliam J. Kresse
+Secretary
+
+Page 6 of 6
+
+ 

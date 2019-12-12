@@ -1,0 +1,255 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+Tuesday, October 4, 2016
+
+10:00 AM
+
+Cook County Building, Board Room, 569
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+Also Present:
+
+Commsioner Boykin ( 1)
+
+PUBLIC TESTIMONY
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+1. George Blakemore - Concerned Citizen
+
+16-5644
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 8/3/2016
+
+A motion was made by Commissioner Daley, seconded by Commissioner Morrison, to approve item
+16-5644. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+ 16-4890
+Presented by: THOMAS J. DART, Sheriff of Cook County
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Cook County Sheriffs Office
+Vendor: Clarity Partners, LLC, Chicago, Illinois
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): CLEARNET Multi-Agency. Criminal Records Management System
+Contract Value:
+Contract period:
+
+$1,070,202.00
+10/1/2016-9/30/2019 with two (2) one ( 1) year renewal options
+
+Potential Fiscal Year Budget Impact: FY 2016 $300,000.00, FY 2017 $500,000.00, FY 2018
+$270,202.00
+Accounts:
+
+15217093 02-579
+
+Contract Number(s):
+
+1611-15572
+
+Concurrence(s):
+The contract-specific goal set on this contract was zero.
+
+The Chief Procurement Officer concurs.
+The Bureau of Technology concurs
+Summary: The Cook County Sheriffs Office respectfully requests the approval to enter into a contract
+with Clarity Partners, LLC of Chicago, Illinois. Clarity Partners, LLC is contracted with the Chicago
+Police Department to develop and maintain a new records management system. The Cook County
+Sheriffs Office has committed to partner with Chicago Police Department as the system's first external
+user to establish a multi-agency computerized police records system. Clarity is currently engaged in
+software development and database management with the Chicago Police Department. These require
+continuity of personnel for successful completion. As a partner in law enforcement operations, the Cook
+County Sheriffs Office is dedicated to violence reduction, and a records management system is a crucial
+part of ensuring a successful regional policing model.
+
+This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.
+
+Page 2 of6
+
+ A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to
+recommend for deferral item 16-4890. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+16-5093
+Presented by: DONNA M. ALEXANDER, VMD, Administrator, Department of Animal and Rabies
+Control
+PROPOSED CONTRACT
+Department(s): Animal Control
+Vendor: Hyland Software, Inc., Westlake, Ohio
+Request: Authorization for the Chief Procurement Officer to enter into and execute
+Good(s) or Service(s): OnBase Enterprise Content Management System
+Contract Value:
+Contract period:
+
+$1,393,330.70
+10/1/2016 - 9/30/2019, with two (2), one (1) year renewal options
+
+Potential Fiscal Year Budget Impact: FY 2016 $77,407.26, FY 2017 $464,443.57, FY 2018
+$464,443.57, FY 19 $387,036.31
+Accounts:
+
+1600909615-579 ($464,977.04); 510-260 ($928,353.65)
+
+Contract Number(s):
+
+1618-15637
+
+Concurrences:
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance via direct
+participation
+The Chief Procurement Officer concurs.
+The Bureau of Technology concurs.
+Summary: Currently, the Department of Animal and Rabies Control ("DARC") relies upon an aging
+mainframe solution and isolated manual processes to manage documents and content related to its
+departmental mandates. The proposed system aims to replace legacy operations with a robust Enterprise
+Content Management ("ECM") platform that is scalable and will grow with DARC's business needs. The
+ECM is also accompanied by a Responsive Design Web Portal that will render across mobile and desktop
+devices and transform cumbersome manual processes into automated online services for customers.
+The ECM will achieve additional efficiencies by adopting BOT's Hyland OnBase software standard,
+Page 3 of6
+
+ which will provide a centralized solution for managing DARC's internal operations.
+This is a Comparable Government Procurement pursuant to Section 34-140 of the Cook County
+Procurement Code. Hyland Software, Inc. was previously awarded a contract through a Request for
+Proposals (RFP) process by the state of Ohio. Cook County wishes to leverage
+
+A motion was made by Commissioner Morrison, seconded by Commissioner Daley, to recommend
+for approval item 16-5093. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+16-5094
+Presented by: SIMONA ROLLINSON, Chieflnformation Officer, Bureau of Technology
+REPORT
+Department: Bureau of Technology
+Request: Refer to the Committee on Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 2nd and 3rd quarters of 2016
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated
+Cook County Criminal Justice System.
+A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to
+recommend for receiving and filing item 16-5094. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+Page 4 of6
+
+ 16-5400
+Presented by: KAREN A. YARBROUGH, Recorder of Deeds
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Recorder of Deeds
+Vendor: ACS Enterprise Solutions, LLC, Dallas, Texas
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Recorder of Deeds Land Management and Cashiering System
+Contract Value: $3,809,111.00
+Contract period: 9/24/2016
+options
+
+9/23/2021 10/12/2016 - 10/11/2021, with two (2) one (1)-year renewal
+
+Potential Fiscal Year Budget Impact: FY 2016 $100,000.00, FY 2017 $2,264,551.00, FY2018
+$1,012,560.00, FY2019 $216,000.00, FY2020 $216,000.00
+Accounts:
+
+545-260 (545-266)
+
+Contract Number(s):
+
+1618-~
+
+15427
+
+Concurrence(s):
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance via direct
+participation and partial MWBE waiver
+
+The Chief Procurement Officer concurs
+The Bureau of Technology Concurs
+Summary: CCRD seeks to replace its current lands record processing and transaction system with a
+new technically advanced solution that enables CCRD to achieve its external and internal business goals.
+The new solution will encompass all phase of the recording process and adapt to future advances in
+technology and changes in CCRD business and operational needs that will enable CCRD to continually
+improve it services to the public. The current application is more than 12 years old and has undergone
+modest enhancement over time. The current system is limited and outdated in its reporting and
+accounting schematics which impacts accuracy and efficiency. The system will enhance our overall
+efficiency and bring economies of scale overall.
+
+This is a Comparable Procurement pursuant to Section 34-140 of the Procurement Code. ACS
+Enterprise Solutions, LLC. was previously awarded a contract by the Sacramento County, California,
+through a Request for Proposals (RFP) process. Cook County wishes to leverage this procurement
+effort.
+
+Page 5 of6
+
+ A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to
+recommend for approval as amended item 16-5400. The motion carried by the following vote:
+Ayes:
+
+Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider and Silvestri (5)
+
+Nays:
+
+Chairman Fritchey (1)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+ADJOURNMENT
+
+A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to adjourn the
+meeting. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, Goslin, Schneider
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Garcia and Steele (3)
+
+Respectfully submitted,
+
+Chairman
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+Page 6 of6
+
+ 

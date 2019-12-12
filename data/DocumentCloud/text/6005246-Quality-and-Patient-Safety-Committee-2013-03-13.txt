@@ -1,0 +1,1743 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Wednesday, March 13, 2013 at the hour of 8:30 A.M. at 1900 W.
+Polk Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Michael called the meeting to order.
+Present:
+
+Chairman Edward L. Michael and Directors Luis Muñoz, MD, MPH and Carmen Velasquez (3)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+David Barker, MD – Ruth M. Rothstein CORE
+Center of Cook County
+Krishna Das, MD – System Interim Director of
+Quality, Patient Safety, Regulatory and
+Accreditation
+Helen Haynes – System Associate General Counsel
+Linda Rae Murray, MD – Cook County Department
+of Public Health
+John O’Brien, MD – Director of Professional
+Education
+
+II.
+
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief of Clinical
+Integration
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+Pierre Wakim, MD – Provident Hospital of Cook
+County
+
+Public Speakers
+Chairman Michael asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Report from System Interim Director of Quality and Patient Safety
+A. Update on System Quality Dashboard (Attachment # 1)
+B. Quarterly Set Targets Achieve Results (STAR) Report (deferred)
+Dr. Krishna Das, System Interim Director of Quality, Patient Safety, Regulatory and Accreditation, provided an
+update on the System Quality Dashboard. Subjects reviewed in the update included the following: objectives;
+key dashboard metrics; core measures summary Q3 2012; heart failure composite Q3 2012; heart failure
+individual measures; pneumonia composite Q3 2012; pneumonia individual measures; acute MI composite Q3
+2012; AMI individual measures; SCIP-Inf composite Q3 2012; SCIP-Inf individual measures; SCIP-Card
+measure Q3 2012; SCIP-VTE measure Q3 2012; selected process measures - immunization and Emergency
+Department throughput; patient satisfaction with care; selected outcome measures - hospital acquired infections
+and mortality and readmissions; and considerations in selection of “Big Dot” quality measures.
+Chairman Michael stated that this way of presenting the information is very helpful. He indicated that further
+thought should be given to the following: comparing the System to benchmark values or national averages is
+helpful, but one of the questions that should be asked going forward is, is the System aiming to achieve the
+benchmark value that is the national average, or does it want to do something better than that? Dr. Das stated
+that comparisons can be presented in a variety of different ways; she indicated that an internal discussion needs
+to be held regarding how the System will do that, and how the System wishes to set the goals.
+Page 1 of 47
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, March 13, 2013
+Page 2
+
+III.
+
+Report from System Interim Director of Quality and Patient Safety (continued)
+Dr. Das added that she is hoping that this discussion is a spring-off point for that. This data will need to be
+reviewed in some detail with the medical staff, and the administration would like to see how the medical staff
+wishes to set the targets, as well. Dr. Das stated that if one looks at the top 10% of hospitals, the benchmarks
+are 100% in all of these indicators; she noted that it may be worthwhile to make that more explicit on the
+dashboard.
+Chairman Michael stated that the reason for his earlier suggestion is to get people thinking about this, so people
+do not just assume that the benchmark value is what the System is striving for. He stated that the priorities for
+the goals and the areas to focus on for improvement should really be coming from the medical staff. With
+regard to comparisons, he stated that, in some cases, the benchmark should be the national average, in others,
+the benchmark should be comparable to that of the top 10% of hospitals in the U.S.
+Chairman Michael stated that there have been a number of organizational changes within the System that have
+recently taken place, including the addition of Dr. John Jay Shannon, Chief of Clinical Integration. He stated
+that Dr. Shannon and Dr. Das will need some time to work with the medical staff to reach an agreement or
+consensus on those areas that the medical staff believes are the areas of most importance to focus on for quality
+improvements. He added that there is also an element of this that has not been directly discussed – it is one
+thing to measure, it is another thing to understand how to make the improvements that are needed. The ultimate
+goal is to develop a plan to improve in these key areas. To do that, agreement and commitment of the medical
+staff, along with the support of the Board, is needed. Chairman Michael stated that it is his hope that progress
+will continue.
+During the discussion of the data on inpatient immunization rates, Chairman Michael inquired as to the reasons
+for the System’s deviation from the benchmarks. Dr. Das stated that each inpatient receives a standing order for
+vaccinations, under the directive of the Medical Director. However, one of the problems with this relates to a
+process issue with staffing and the ability to get these medications in - because of the shorter and sicker nature
+of the inpatient stay, people have a lot of testing done within a short period of time, so the opportunities to give
+the vaccine and educate the patient are limited within the hospital. There are also some cultural issues, in which
+the patients are extremely reluctant to receive these vaccinations; it can be a struggle for nursing and physician
+providers to explain and convince the patients to take the vaccine. There are some processes in place, but she
+feels that there is an incomplete understanding of the limitations in the System, both from a practical standpoint
+in terms of the process of administering the vaccinations, as well as from a cultural standpoint with the patients
+and staff.
+During the Committee’s discussion on Emergency Department throughput metrics, Chairman Michael inquired
+whether it is possible to go back historically to look at the seasonal numbers to determine from winter to winter
+what effect it has, and determine whether the winter season is driving the numbers up 2-3%, and normalize the
+numbers for that in some way. Dr. Das stated that staff has looked at the historical data; she noted that there are
+other factors that influence the numbers. She stated that she will review the data to see if there is a clear
+seasonal fluctuation; she added that the numbers do tend to go up in the winter.
+With regard to benchmark comparisons, Director Muñoz stated that he believes it would be more helpful for the
+Board to see a comparison to other public safety net hospitals, because they tend to share a similar population
+with similar type diseases, along with comparisons of data on the national averages. Dr. Ozuru Ukoha,
+President of the EMS of John H. Stroger, Jr. Hospital of Cook County, noted that, in comparing the System with
+similar institutions across the country, one also has to look at the volume of patients and patient-doctor ratio –
+other institutions may be doing better than the System because they have access to more resources. Chairman
+Michael stated that this is a great point – one of the things that the Committee needs to hear from the medical
+Page 2 of 47
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, March 13, 2013
+Page 3
+
+III.
+
+Report from System Interim Director of Quality and Patient Safety (continued)
+team and the nursing staff is what additional staff or resources are needed to reach or exceed the benchmarks set
+for quality improvements.
+Dr. David Barker, Chief Medical Officer of the Ruth M. Rothstein CORE Center of Cook County, provided
+information on quality efforts relating to vaccination of HIV patients at the CORE Center. He proposed a
+quality goal for consideration by the Committee and Board, regarding having the System adopt a quality goal of
+what proportion of its patients have been tested for HIV in the last two years. This would be started off as a
+System measure, then it would be moved down to a clinic and inpatient service measure; he added that,
+eventually, it might need to be taken to a provider level. He added that this is something that is very important
+for the patients; it is an inexpensive test and does not cost much in terms of additional resources – it takes more
+clinician time to ask the patients to be tested, but that is all it takes.
+Dr. Linda Rae Murray, Chief Medical Officer of the Cook County Department of Public Health, provided
+information on the Department of Public Health’s activities relating to quality measures. She stated that there
+are several quality teams that have measures - they meet regularly to work on those measures. Every month, a
+department-wide quality meeting is held; this is followed by a regular report to the System. Around this time,
+staff begins discussing what measures that will be used starting December 1, 2013; therefore, as the next fiscal
+year begins, those measures are already there.
+Dr. Das stated that once a process is targeted for improvement, the way to construct an intervention consists of
+looking at the data on the sub-processes and examining all the factors that affect that outcome. There is a fairly
+structured way to go about it. In order to improve a process, it does require a multi-disciplinary team, but it also
+requires a dispassionate examination of the data that is driving that process. There are myriad teams working in
+the System on process improvement; she noted that they are almost all multi-disciplinary teams.
+With regard to the information on hospital acquired conditions, Chairman Michael inquired whether there are
+other items that would normally be included on this list, beyond infections, falls and ulcers. Dr. Das stated
+that there are other rare events that can occur. She indicated that there is a list of “never events” that includes
+events like air embolisms, blood transfusion reactions and surgical mistakes. She is hoping that, going forward,
+the System will have a way of capturing these better in real time; the System does not currently have an
+automated method to do that. Right now, those events are captured from the claims database, so it goes to the
+Centers for Medicare and Medicaid Services (CMS) and comes back to the System in claims.
+With regard to readmissions, Dr. Das stated that that discussion is fairly complicated; at some point, she would
+like to have a detailed discussion regarding the multiple factors that influence readmissions. A variety of
+systems issues are rolled in within this one metric. There are very important confounders when viewing
+readmissions data; for example, there are very good correlations between the socioeconomic status of patients
+and readmissions. Another factor that drives the readmission numbers is the admitting patterns of the hospital.
+For example, if there is a significant backup in beds, as the System often experiences, a lot of the heart failure
+patients are put in observation status, instead of being actually admitted. Observation patients do not enter into
+the readmission metric that CMS has established. System staff puts patients in observation because there simply
+are not any beds available; however, that is often not where they should really go. If a patient is put into an
+observation stay for a long time, ideally it would be better to create inpatient beds for them. Dr. Das noted that,
+if inpatient beds are created, the System would be taking patients that may have a higher risk for readmission
+(heart failure) and putting them into the pool, so the readmission numbers may go up.
+
+Page 3 of 47
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, March 13, 2013
+Page 4
+
+III.
+
+Report from System Interim Director of Quality and Patient Safety (continued)
+Chairman Michael stated that this might be a subject for future discussion, regarding the reality that CMS is
+going to be looking at some of these measures. The Committee and Board needs to understand where the risks
+may lie, if the numbers remain where they are. Dr. Das concurred; she stated that, besides having a discussion
+on readmissions at a future date, a discussion on value based purchasing and the entire spectrum of pay-forperformance metrics would be useful.
+
+IV.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Pierre Wakim, President of the Executive Medical Staff (EMS) of Provident Hospital of Cook County,
+presented his report. He stated that he recently discussed a matter with Dr. Shannon, regarding the
+resurrection of a plan for chronic illness centers of excellence at Provident Hospital. Provident Hospital
+staff worked on the plan a couple of years ago with PricewaterhouseCoopers consultants; a document was
+put together, but the administration was limited in moving forward due to financial reasons.
+Dr. Wakim provided an update regarding an incident that was reported at the last Committee Meeting, which
+occurred at Provident Hospital. He stated that the Root Cause Analysis has been completed and will be
+forwarded to the members of the Committee.
+Dr. Ukoha was introduced and welcomed as the newly elected President of the EMS of Stroger Hospital. He
+stated that he will be presenting a formal report at the next Committee Meeting.
+
+New Business: Information Item - Overview of CCHHS Graduate Medical Education Affiliations
+(Attachment #2)
+Dr. John O’Brien, Director of Professional Education, reviewed an informational presentation regarding
+Graduate Medical Education Affiliations. Subjects reviewed in the presentation included the following:
+Overview; Affiliation Agreements-Program Addenda; Origin of Residents at Stroger; and Breakdown of
+Rotators at Stroger. The Committee reviewed and discussed the information.
+It was noted that the current Master Affiliation Agreement with Rush expires in 2014; with regard to plans for a
+new Master Affiliation Agreement that would begin in 2014, Chairman Michael inquired whether any
+significant changes are expected in the new agreement. Dr. Ram Raju, Chief Executive Officer, stated that the
+overall strategy for medical education going forward is that the System is going to look for a partner whose
+vision matches its own vision. Dr. Raju stated that the administration has met with Rush representatives and
+they agree with the System’s strategy; therefore, the System’s administration is developing a vision statement
+together with Rush. The next question that needs to be addressed, based on the vision statement, is what are the
+needs of the County? The System’s clinical needs will be determined by the clinical staff; then, the residency
+programs and other things will be driven by that need.
+
+Page 4 of 47
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, March 13, 2013
+Page 5
+
+New Business:
+(continued)
+
+Information Item - Overview of CCHHS Graduate Medical Education Affiliations
+
+Director Muñoz indicated that, as far back as 2006, when he participated in evaluating operations as part of
+President Bobbie Steele’s Transition Team, he has wanted to have an outside independent audit of the entire
+medical education process. He stated that it is a good idea to look at these agreements to see how they are
+functioning, and to see the benefits to the County and its partner. An audit of this type has not been done in the
+past – he recommended that before the System enters into any new agreements, an independent audit of this type
+should be done. Dr. O’Brien noted that a study on academic affiliations was done in the past by
+PricewaterhouseCoopers staff, to examine the financial value. The study did not speak to subjects such as
+overall direction and whether the System is getting the appropriate value for its patients, it only looked at the
+money aspect of the matter. Director Muñoz stated that it is important to examine the following questions:
+How will these relationships work moving forward? What is the best possible relationship for this institution?
+He stated that addressing these questions are important to be able to plan and project further into the future and
+be able to employ some strategic thought into the process. Dr. O’Brien added that one of the principles of
+medical education outcome measures relates to the question of whether the institution is training its physicians
+that then stay on to become its attending physicians, its workforce. He recommended that this be added to the
+other questions that Director Muñoz would like to have addressed. Dr. Raju stated that the administration is
+looking at the subject of the Master Affiliation Agreement in a very different way; it is looking based on the
+clinical needs of the population as opposed to medical education needs of the academic institutions. He
+proposed to return to the Committee with information on the following: where and what the gaps in service are,
+clinical needs, total number of patients to serve, and number of people needed to care for the patients.
+
+V.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, January 23, 2013
+Director Velasquez, seconded by Director Muñoz, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of January 23, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. Any items listed under Sections IV, V and VI
+
+VI.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (Attachment # 3)
+Note: the Committee did not recess the regular session and convene into closed session.
+Director Muñoz, seconded by Director Velasquez, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+
+Page 5 of 47
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, March 13, 2013
+Page 6
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Michael declared that the meeting was
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Edward L. Michael, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 6 of 47
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 13, 2013
+
+ATTACHMENT #1
+
+Page 7 of 47
+
+  
+
+ 
+
+Graduate Medical Education
+Affiliations
+
+ 
+
+ 
+
+ 
+
+ 
+
+Graduate Medical Education at CCHHS
+2
+
+ Residents Provide 24/7
+4/7 Patient Care that is
+
+Supervised by Attendings
+
+
+
+
+
+
+Supervision Policies reviewed by GMEC and EMS Annually (as
+required by the Joint Commission and the ACGME)
+Training Programs increasingly involved in Patient Safety and
+QI initiatives
+C.L.E.R. Visits-Clinical Learning Environment Review
+Site Visits (Similar to The Joint Commission)
+ Designed to improve the learning environment of all institutions
+(including quality of care and patient safety) and reduce
+disparities between them
+ Will force greater involvement between GME and institutional
+leadership in the areas of quality and patient safety
+
+
+Page 9 of 47
+
+ Graduate Medical Education at CCHHS
+3
+
+ Residents rotate to CCHHS
+ Help us with a patient care needs ($)
+Neurosurgery
+ ENT
+
+
+
+
+Obtain training not provided by their home institution ($)
+Toxicology
+ Trauma
+
+
+Page 10 of 47
+
+ Affiliation Agreements-Program Addenda
+4
+
+ ACGME Requirement
+ Outline teaching/learning goals
+ Contractual
+ Generally 3-4 years
+ Cannot extend beyond the
+M
+Master
+Affiliation
+Affili i A
+Agreement
+ Reviewed by the States Attorney
+ Reviewed by the EMS
+
+Page 11 of 47
+
+ Origin of Residents at Stroger
+5
+
+5%
+
+1%
+6%
+
+9%
+2%
+
+Loyola
+Other
+McGaw
+Rush
+
+79%
+
+UIC
+Stroger
+
+Page 12 of 47
+
+ Breakdown of Rotators at Stroger - (FTE)
+6
+10%
+
+22%
+2%
+
+41%
+
+25%
+
+Total = 105.5
+
+Stroger Total = 370
+
+Page 13 of 47
+
+ Breakdown of Rotators at Stroger
+7
+
+ Loyola
+y
+– 22% ((All are in FM residency)
+y)
+ McGaw – 25% (3/5 are in OB/Gyne residency)
+ UIC – 10%
+ Rush - 41% (1/2 are in General Surgery residency)
+
+Page 14 of 47
+
+ Why do we have so many different affiliations?
+8
+
+ Master agreement
+g
+between CCHHS and Rush ((2004)
+4)
+
+Page 15 of 47
+
+ Why do we have so many different affiliations?
+9
+
+ OB/Gyne
+/ y
+ Not sustainable for <900 deliveries/year
+ Necessary for other programs (Emergency Medicine,
+Pediatrics etc)
+Pediatrics,
+ Rush could not provide enough residents to staff the inpatient
+and outpatient areas
+ Orthopedics
+ University of Illinois provided only 8 weeks notice of non
+renewal (pulled their 8 residents)
+ Rush and McGaw now each provide three of the orthopedics
+residents
+
+Page 16 of 47
+
+ Upcoming Educational Affiliation Agreements
+10
+
+ Rush Program
+g
+Addenda Expire
+p in 2013
+3 but the
+
+Master Affiliation Agreement expires in 2014
+ CCHHS and Rush have agreed to simply extend
+
+current Program Addenda so they are co-terminus
+with
+ith th
+the M
+Master
+t A
+Agreementt with
+ith no iincrease iin d
+dollar
+ll
+amounts
+
+Page 17 of 47
+
+ Rush Program Addenda To Be Extended for Academic Year
+2013-14
+11
+
+Cardiology
+
+Orthopedics
+
+E d i l
+Endocrinology
+
+P i
+Primary
+Care
+C
+
+Electrophysiology
+
+Pediatric Intensive Care
+
+General Surgery
+
+Pediatric Subspecialties
+
+Hematology/Oncology
+
+Rheumatology
+
+Infectious Disease
+
+Surgery - Cardiothoracic
+
+Nephrology
+
+Trauma
+
+Neurology
+
+Clinical Research Unit
+
+Page 18 of 47
+
+ Non-Rush Agreements for Renewal
+12
+
+ Loyola
+y
+ Family Medicine agreement- Renewed annually
+ McGaw
+ Otolaryngology
+ Orthopedics
+U
+University
+i
+it off Illinois
+Illi i att Chi
+Chicago
+ None
+
+Page 19 of 47
+
+ Questions?
+
+ 
+
+Page 20 of 47
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 13, 2013
+
+ATTACHMENT #2
+
+Page 21 of 47
+
+ CCHHS Dashboard
+CCHHS Dashboard
+CCHHS Board of Directors
+Quality and Patient Safety Committee
+13 March 2013
+13 March 2013
+
+Krishna Das, MD
+Interim System Director, Quality and Patient Safety
+1
+Page 22 of 47
+
+ Objectives
+• Outline
+Outline an institutional dashboard composed 
+an institutional dashboard composed
+of key quality measures
+• Demonstrate utility of composite measures
+Demonstrate utility of composite measures
+• Identify areas of opportunity for quality 
+improvement
+• Discuss limitations of existing data
+• Provide information as required to identify 
+g
+p
+g
+‘Big Dots’ for Board reporting
+2
+Page 23 of 47
+
+ Key Dashboard Metrics
+• Core Measures – HF, PN, AMI, SCIP‐Inf, SCIP‐BB, 
+SCIP VTE
+SCIP‐VTE
+• Immunizations – influenza, pneumococcal
+• ED Throughput –
+ED Throughput – wait to be seen, left without 
+wait to be seen left without
+being seen, wait for admission
+• HCAHPS (Patient satisfaction) –
+(
+) selected metrics
+• Hospital acquired conditions – infections, falls, 
+ulcers
+• Mortality and readmissions
+l
+d
+d
+• C
+Currently limited to inpatients pending further 
+tl li it d t i
+ti t
+di f th
+data
+Page 24 of 47
+
+3
+
+ Core Measure Summary Q3 2012 
+Heart Failure
+Pneumonia
+AMI
+SCIP‐Inff
+SCIP‐Card
+SCIP‐VTE
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+4
+
+Page 25 of 47
+
+ Heart Failure Composite Q3 2012
+Care of patients who have heart failure (weakness of the heart muscles). 
+The care includes testing, proper medication, and education to promote 
+self management at home
+self management at home.
+Higher numbers are better. 
+B h
+Benchmark value
+k l
+
+Heart Failure
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+5
+
+Page 26 of 47
+
+ Heart Failure Individual Measures 
+
+*
+
+Prescribe ACEI ARB
+
+*
+
+Assess LV Function
+
+*
+
+DC I
+DC Instructions
+i
+
+50
+
+60
+
+70
+
+* Benchmark value
+
+80
+
+90
+
+100
+6
+
+Page 27 of 47
+
+ Pneumonia Composite Q3 2012
+Care of patients who have pneumonia (infection of the lungs). This 
+includes the use of the best antibiotics for each patient and avoiding 
+unnecessary antibiotics
+unnecessary antibiotics.
+Higher numbers are better. 
+
+Benchmark value
+
+Pneumonia
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+7
+
+Page 28 of 47
+
+ Pneumonia Individual Measures
+
+*
+
+Blood cultures
+
+*
+
+Antibiotic selection
+
+50
+
+60
+
+70
+
+* Benchmark value
+
+80
+
+90
+
+100
+8
+
+Page 29 of 47
+
+ Acute MI Composite Q3 2012
+Care of patients who have an MI (a ‘heart attack’).  This includes the use 
+of lifesaving medication and in specific patients, performing an 
+intervention usually to remove heart blockages with a catheter (a thin
+intervention, usually to remove heart blockages with a catheter (a thin 
+tube inserted into blood vessels).
+Higher numbers are better. 
+Benchmark value
+
+Acute MI
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+9
+
+Page 30 of 47
+
+ AMI Individual Measures
+
+*
+
+Aspirin at discharge
+
+*
+
+PCI within 90 min
+
+*
+
+Statin at discharge
+
+50
+
+60
+
+70
+
+* Benchmark value
+
+80
+
+90
+
+100
+10
+
+Page 31 of 47
+
+ SCIP‐Inf Composite Q3 2012
+Care of patients who require surgery; this measure checks on several 
+interventions designed to lower the risk of infection after surgery; this 
+includes proper antibiotics maintaining body temperature removing
+includes proper antibiotics, maintaining body temperature, removing 
+tubes and controlling blood sugar.
+Higher numbers are better. 
+Benchmark value
+
+SCIP‐Inf Measures
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+11
+
+Page 32 of 47
+
+ SCIP‐Inf Individual Measures
+*
+*
+*
+*
+*
+*
+
+Antibiotics in 1 hr
+Antibiotic selection
+Antibiotics dc
+l
+l
+Glucose control
+Urinary cath removed
+Temperature
+50
+
+60
+
+70
+
+* Benchmark value
+
+80
+
+90
+
+100
+12
+
+Page 33 of 47
+
+ SCIP‐Card Measure Q3 2012 
+Care of patients who require surgery; this measure ensures that 
+medications which protect the heart from the stress of surgery are taken 
+on the day of surgery
+on the day of surgery.
+Higher numbers are better. 
+
+Benchmark value
+
+Beta blocker continued
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+13
+
+Page 34 of 47
+
+ SCIP‐VTE Measure Q3 2012
+Care of patients who require surgery; this measure ensures that 
+medication to prevent blood clots, or a pump which helps the circulation 
+in the legs are used to reduce complications of blood clots
+in the legs,  are used to reduce complications of blood clots.
+Higher numbers are better. 
+B h
+Benchmark value
+k l
+
+Preventive Rx Given
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+14
+
+Page 35 of 47
+
+ Selected Process Measures –
+Immunization 
+Immunization
+Q3 2012#
+
+Benchmark*
+
+IMM‐1a 
+Pneumococcal
+Vaccine
+
+42%
+
+88%
+
+IMM‐2 Influenza 
+Vaccine
+
+30%
+
+86%
+
+Indicator
+Inpatient Immunization
+
+#
+
+most recent available data
+* benchmark US national average
+
+15
+Page 36 of 47
+
+ Selected Process Measures –
+ED Throughput
+ED Throughput 
+Indicator
+
+Q1 2013
+
+Benchmark
+
+Wait to be seen in 
+ED
+
+117 min
+
+120 min
+
+Left without being 
+seen
+
+9.5%
+
+8%
+
+ED‐2b Time from
+admit to leaving ED
+
+226 min*
+
+96 min
+
+* Value abstracted Q3 2012
+
+16
+Page 37 of 47
+
+ Patient Satisfaction with Care
+D
+Domain
+i
+
+Q3
+
+Q4
+
+VBP
+threshold
+
+CCHHS  
+CCHHS
+%ile rank
+
+Recommend 
+this hospital
+this hospital
+
+61%
+
+59%
+
+66%
+
+12
+
+Communication
+with nurses
+
+70%
+
+68%
+
+75%
+
+4
+
+Communication 
+Communication
+with doctors
+
+81%
+
+80%
+
+79%
+
+47
+
+Hospital 
+environment
+
+53%
+
+53%
+
+63%
+
+1
+
+17
+Page 38 of 47
+
+ Selected Outcome Measures 
+Hospital Acquired Infections
+Hospital Acquired Infections
+Infection Measure
+
+Number of 
+Infections per
+Infections per 
+year
+
+Central line associated 
+bloodstream infection
+
+22
+
+Catheter associated 
+urinary tract infection
+
+41
+
+Ventilator associated 
+pneumonia
+
+17
+
+Total HAI/ year
+Total HAI/ year
+
+80
+
+Monthly Data*
+
+67
+6.7
+
+Falls in hospital
+
+21
+
+(
+)
+Ulcers (HAPU)
+
+3
+
+Total events/month
+
+30.7
+18
+Page 39 of 47
+
+ Selected Outcome Measures
+Mortality and Readmissions
+Mortality and Readmissions
+Diagnosis
+
+Mortality
+
+Readmissions
+
+CCHHS
+
+US Rate
+
+CCHHS
+
+US Rate
+
+MI (heart 
+MI
+(heart
+attack)
+
+15.5%
+
+15.5%
+
+21.7%
+
+19.7%
+
+Heart
+Failure
+
+9.8%
+
+11.6%
+
+25.9%
+
+24.7%
+
+Pneumonia
+
+10.9%
+
+12%
+
+19.5%
+
+18.5%
+
+19
+Page 40 of 47
+
+ Considerations in Selection of ‘Big Dot’ 
+Quality Measures
+Quality Measures
+Impact on patient outcomes
+p
+p
+System‐wide impact
+Impact on value and reimbursement
+Impact on value and reimbursement
+Prioritized by medical staff; focus for 
+performance improvement
+f
+• Accurate measurements available and data 
+can be tracked monthly
+
+•
+•
+•
+•
+
+20
+Page 41 of 47
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 13, 2013
+
+ATTACHMENT #3
+
+Page 42 of 47
+
+ John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff Appointments/Reappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+Adenwalla, Mohammad, MD
+Appointment Effective:
+
+Alexander, Joreile R., DMD
+Appointment Effective:
+
+Gittier, Mandy, MD
+Appointment Effective:
+
+Manikkan, Ajaydas T., MD
+Appointment Effective:
+
+Moftakhar, Roham, MD
+Appointment Effective:
+
+Tenorio, Allan R., MD
+Appointment Effective:
+
+INITIAL APPOINTMENT APPQCATIQNS 
+
+Surgery/Ophthalmology
+March 13, 2013 thru March 12,2015
+
+Surgery/Dentistry
+March 13, 2013 thru March 12,2015
+
+Family Medicine
+March 13, 2013 thru March 12,2015
+
+Medicine/Hospital Medicine
+March 13, 2013 thru March 12,2015
+
+Neurosurgery
+March 13, 2013 thru March 12,2015
+
+Medicine/infectious Disease
+March 13, 2013 thru March 12, 2015
+
+Initial Non-Physician Appointment Applications
+
+Mildner, Carolyn, 
+Effective:
+
+Faxel, Tracy, CCP
+Effective:
+
+
+March 13, 2013 thru March 12,2015
+
+Surgery/Cardiothoracic
+March 13, 2013 thru March 12,2015
+
+Voluntary Physician
+
+Active Dentist w/out privileges
+Voluntary Physician
+
+Active Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Clinical 
+
+Perfusionist
+
+REAPPOINTMENT APPLICATIONS
+
+Department of Anesthesiology
+
+Tymouch, Jaroslav, MD
+Reappointment Effective:
+
+Anesthesiology
+March 18, 2013 thru March 17,2015
+
+Department of Correctional Health Services
+
+Bundy?Smith, Shandra, DMD
+Reappointment Effective:
+
+Doyle, David, DPM
+Reappointment Effective:
+
+Moreno, Michael, MD
+Reappointment Effective:
+
+Item March 13, 20:3
+
+Dentistry
+March 18, 2013 thru March 17, 2015
+
+Active Physician
+
+Active Dentist
+
+Podiatry Active Podiatrist
+March 15, 2013 thru March 14,2015
+Activem??ian
+March 13, 2013 March 12,2015 -
+APPROVED
+BY THE QUALITY AND PATHT SAF Human
+
+Quality and Patient Safety Committee Meeting Page 1 0f 5
+
+Page 43 of 47
+
+ON MARCH 13, 2013
+REVISED
+
+John H. Stroqer, Jr. Hospital of Cook County
+Reappointment Applications
+
+Department of Correctional Health Services (continued)
+
+Ramic, Alam, MD
+Reappointment Effective:
+
+
+March 13, 2013 thru March 12,2015
+
+Department of Family Medicine
+
+Billingslea, Camille, MD
+Reappointment Effective:
+
+Smith, Nora, MD
+Reappointment Effective:
+
+Department of Medicine
+
+Black, Stephanie R., MD
+Reappointment Effective:
+
+Brecklin, Carolyn S., MD
+Reappointment Effective:
+
+Kee, Romina, MD
+Reappointment Effective:
+
+Makar, Emil F., MD
+Reappointment Effective:
+
+McGillen, John J., MD
+Reappointment Effective:
+
+Piette, Warren W., MD
+Reappointment Effective:
+
+Ruthberg, Andrew D., MD
+Reappointment Effective:
+
+Trick, William E., MD
+Reappointment Effective:
+
+Wong, Alton C.T., MD
+Reappointment Effective:
+
+Department of Pediatrics
+
+Heydemann, Peter, MD
+Reappointment Effective:
+
+Joseph, Tessy, MD
+Reappointment Effective:
+
+Item March 13,2013
+
+Quality and Patient Safety Committee Meeting
+
+Family Medicine
+April 12, 2013 thru July 12, 2014
+
+Family Medicine
+March 13, 2013 thru February 28,2015
+
+Infectious Disease
+April 17, 2013 thru April 16, 2015
+
+
+April 28, 2013 thru April 27, 2015
+
+General Medicine
+April 28, 2013 thru April 27, 2015
+
+ACHN
+April 12, 2013 thru April 11, 2015
+
+ACHN
+April 12, 2013 thru Aprii11,2015
+
+Dermatology
+April 28, 2013 thru April 27, 2015
+
+Rheumatology
+April 18, 2013 thru April 17,2015
+
+General Medicine
+April 18, 2013 thru April 17, 2015
+
+Hematology/Oncology
+April 15, 2013 thru April 14, 2015
+
+Pediatrics/Child Neurology
+May 26, 2013 thru May 25,2015
+
+Pediatrics/Neonatology
+April 12, 2013 thru April 11,2015
+
+BY THE QUALITY AND PATIENT SAP
+
+Page 2 of 5
+Page 44 of 47
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+Active Physician
+Voluntary Physician
+Active Physician
+Voluntary Physician
+Active Physician
+
+Consulting Physician
+
+Voluntary Physician
+
+
+
+Activist-?aw)
+
+ 
+
+MMITTEE
+on MARCH 13, 2013
+
+REVISED
+
+John H. Stroger, Jr. Hos?al of Cook Cognty
+Reaggointment Agglications (continued)
+
+Degartment of 
+
+Kulik, Andrew, MD
+Reappointment Effective:
+
+
+April 28, 2013 thru April 27, 2015
+
+Department of Surgeg
+
+Beck, Traci, MD
+Reappointment Effective
+
+Surgery/Urology
+May 26, 2013 thru May 25,2015
+
+Lazzaro, Gianluca, MD
+Reappointment Effective
+
+Surgery/General Surgery
+April 27, 2013 thru April 26, 2015
+
+Patrianakos, Thomas, DO
+Reappointment Effective
+
+Surgery/Ophthalmology
+May 17, 2013 thru May 16,2015
+
+Suffern, Jennifer, DPM
+Reappointment Effective
+
+Surgery/Podiatry
+May 17, 2013 thru May 16,2015
+
+Vl?ile, Mark, MD
+Reappointment Effective
+
+Surgery/Urology
+May 17, 2013 thru May 16, 2015
+
+Renewal of Privileqes for Non-Medical Staff
+
+Delane, Tiffany, PA-C Correctional Health Service
+Vi?th Ezike, Ngozi 0., MD
+Alternate Samee, Sabiha, MD
+Effective: March 13, 2013 thru March 12, 2015
+Martinez, Antoino, 
+Reappointment Effective:
+
+
+March 13, 2013 thru March 12,2015
+
+Sheehan, Megan F., CRNA
+Effective:
+
+Anesthesiology
+March 13, 2013 thru March 12,2015
+
+Sims, Kevin E., PA-C
+
+With Baker, Terrance P., MD
+Alternate Yu, Yan K., DO
+Effective:
+
+Correctional Health Services
+
+March 13, 2013 thru March 12,2015
+
+Stanford, Suzanne M., CNP Medicine Rheumatoiogy
+With Manadan, Augustine M, MD
+Effective: March 13, 2013 thru March 12, 2015
+
+Wol?nger, Richard C., PA-C
+Vl?th Lewis, Trevor, MD
+Alternate Kysr'a, Rashid Fuad, MD
+
+Effective: March 13, 2013 thru March 12, 2015
+
+Emergency Medicine
+
+BY THE QUALITY AND PATIENT SAFETY
+
+Item - March 13,2013
+
+Quality and Patient Safety Committee Meeting Page 3 Of 5
+
+Page 45 of 47
+
+Active Physician
+
+Active Physician
+Active Physician
+Active Physician
+Active Podiatrist
+
+Active Physician
+
+Physician Assistant
+
+Clinical 
+Nurse Anesthetist
+
+Physician Assistant
+
+Nurse'Practitioner
+
+Physician Assistant
+
+
+APPROVED
+
+MITTEE
+on MARCH 13, 2013
+
+REVISED
+
+John H. StrogerI Jr. Hosgital of Cook County (continued!
+
+Non-Medical Staff Change in Privileges
+
+Bonilla, Amy L., Correctional Health Services Physician Assistant
+With Zawitz, Chad J., MD
+Alternate Ting, Andrew, MD
+
+Fowler, Edward W., PA-C Correctional Health Services Physician Assistant
+With Mennella, Concetta C., MD
+Alternate Yu, Yan K., DO
+
+Stadnicki, Christopher R., PA-C Correctional Health Services Physician Assistant
+With De Funiak, Andrew 0., MD
+Alternate Mennella, Concetta C., MD
+
+Change of Membershig Category with no Chamge in Privilegg
+
+Floyd Rebello, Michelle MD From: Active Physician To: Voluntary Physician
+Pediatrics
+
+Grivois-Shah, Ravi, MD From: Active Physician To: Voluntary Physician
+Family Medicine
+Effective April 1, 2013
+
+Ray, Vera, MD From: Voluntary Physician To: Consulting Physician
+Pathology
+. corms
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY MITTEE
+
+on MARCH 13. 2013
+
+Item March 13, 2013
+Quality and Patient Safety Committee Meeting Page 4 0f 5 REVISED
+
+Page 46 of 47
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff Appointments/Reappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+EAPPQINTMENT APPLICATIO 
+
+Department of Emergency Medicine
+
+Plamoottil, Issac, DO
+Reappointment Effective:
+
+Roskam, Stephen, DO
+Reappointment Effective:
+
+Wakim, Pierre, DO
+Reappointment Effective:
+
+Department of Family Medicine
+Sweder, Thomas, MD
+Reappointment Effective:
+
+Department of Internal Medicine
+
+Shah, Niranjana D., MD
+Reappointment Effective:
+
+Department of Surgery
+Mahmarian, Robert, DPM
+Reappointment Effective:
+
+Patrianakos, Thomas, MD 
+Reappointment Effective:
+
+Suffern, Jennifer, DPM
+Reappointment Effective:
+
+Telemedicine Privilege Renewals
+Aderholdt, Karen G., MD
+Effective:
+
+Aikawa, Tara, MD
+Effective:
+
+Carter, Courtney C., MD
+Effective:
+
+Thomas Brown, Wendy A., MD
+Effective:
+
+Toothman, Richard L., MD
+Effective:
+
+Item March 13, 2013
+Quality and Patient Safety Committee Meeting
+
+Emergency Medicine
+April 15, 2013 thru April 14, 2015
+
+Emergency Medicine
+April 14, 2013 thru April 13, 2015
+
+Emergency Medicine
+April 13, 2013 thru April 12,2015
+
+Family Medicine
+March 17, 2013 thru March 16,2015
+
+Internal Medicine
+May 26, 2013 thru May 25,2015
+
+Podiatry
+April 27, 2013 thru April 26, 2015
+
+Ophthalmologist
+May 17, 2013 thru May 16,2015
+
+Podiatry
+May 17, 2013 thru May 16, 2015
+
+Virtual Radiologic
+May 17, 2013 thru May 16,2015
+
+Virtual Radiologic
+April 12, 2013 thru April 11,2015
+
+Virtual Radiologic
+March 15, 2013 thru March 14,2015
+
+Virtual Radiologic
+March 15, 2013 thru March 14, 2015
+
+Virtual Radiologic
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Af?liate Physician
+
+Active Physician
+
+Af?liate Podiatrist
+
+Affiliate Physician
+
+Af?liate Podiatrist
+
+Teleradiologist
+
+Teleradiologist
+
+Teleradiologist
+
+Teleradiologist
+
+cc?abradiologist
+
+April 12, 2013 thru April 11, 2015 APPROVED
+BY THE QUALITY AND PATIENT SAFETY Co EE
+on MARCH 13, 2013
+
+Page 5 of 5
+Page 47 of 47
+
+REVISED
+

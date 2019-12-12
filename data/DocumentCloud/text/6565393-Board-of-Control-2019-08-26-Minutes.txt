@@ -1,0 +1,876 @@
+Minutes
+Cuyahoga County Board of Control
+Monday, August 26, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:03 a.m.
+Attending:
+Dennis Kennedy, Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Trevor McAleer, County Council (Alternate for Dan Brady)
+Councilman Dale Miller
+Councilwoman Nan Baker
+Michael Dever, Director, Department of Public Works
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 8/19/2019
+Dennis Kennedy motioned to approve the minutes from the August 19, 2019 meeting; Michael Dever
+seconded. The minutes were unanimously approved as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+B. – New Items for Review
+BC2019-628
+Department of Public Works, recommending awards on RQ45480 and enter into contracts with various
+providers in the total amount not-to-exceed $490,000.00 for construction material testing services for the
+period 9/3/2019 – 9/2/2022:
+a) Solar Testing Laboratories, Inc. in the amount not-to-exceed $245,000.00
+b) Resources International, Inc. in the amount not-to-exceed $245,000.00
+Funding Source: Road and Bridge Fund
+Nichole English, Department of Public Works, presented. Dale Miller asked if Solar Testing Laboratories,
+Inc. has expanded their range of services and confirmed with Michael Dever that this contractor does
+provide the type of services required. Dennis Kennedy asked for clarification on the correct name of
+Resources International, Inc. as the Item Details Summary provided in the backup was different from the
+
+ agenda caption and asked Andria Richardson, Clerk of the Board of Control to be sure the record is
+accurate. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded. Item BC2019-628
+was unanimously approved.
+BC2019-629
+Department of Public Works, submitting an amendment (Subsidiary No. 3) to Contract No. CE1600302
+with Fabrizi Recycling, Inc. for resurfacing of Bagley Road from Olmsted Township West Corporation Line
+to Fitch Road in Olmsted Township for additional funds in the amount not-to-exceed $2,428.00;
+recommending to accept construction as complete and in accordance with plans and specifications;
+requesting authority for the County Treasurer to release the escrow account, in accordance with Ohio
+Revised Code Section 153.63.
+Funding Source: 47% Ohio Public Works Commission (Issue 1) and 53% Cuyahoga County using funds from
+the $7.50 Vehicle License Tax Fund
+Nichole English, Department of Public Works, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-629 was unanimously approved.
+BC2019-630
+Department of Public Works, submitting an amendment to Contract No. CE1600246 with Aramark
+Uniform & Career Apparel Group, Inc. for employment uniform rental services for County Employees in
+various County Buildings for the period 6/1/2016 - 8/31/2019 to extend the time period to 12/31/2019
+and for additional funds in the amount not-to-exceed $12,600.00.
+Funding Sources: County Airport Operations Fund - $450.00; Sanitary Sewer Fund - $150.00; Internal
+Service Fund - $12,000.00
+Thomas Pavich, Department of Public Works, presented. There were no questions. Dennis Kennedy
+motioned to approve the item; Trevor McAleer seconded. Item BC2019-630 was unanimously approved.
+
+The following item was held at the request of the Board of Control members.
+BC2019-631
+Department of Information Technology,
+a) Submitting an RFP exemption on RQ46654, which will result in an award recommendation to
+Northwoods Consulting Partners, Inc. in the amount not-to-exceed $237,584.47 for maintenance and
+support of OnBase software for various Departments for the period 1/1/2019 – 1/31/2020.
+b) Recommending an award on RQ46654 and enter into a contract with Northwoods Consulting Partners,
+Inc. in the amount not-to-exceed $237,584.47 for maintenance and support of OnBase software for
+various Departments for the period 1/1/2019 – 1/31/2020.
+Funding Source: 60% - General Fund and 40% - Health and Human Services Levy
+Jeanelle Greene and John Sheffler, Department of Information Technology and Jack Rhyne, Project
+Manager for Enterprise Resource Planning Project presented.
+
+ Trevor McAleer asked if Infor has a similar agenda product or a 3rd product supplier; asked if Hyland
+Software is the only option and why would a future Request for Proposals be issued if Hyland is the only
+option; asked what is the plan going forward if OnBase can no longer be used; asked if any other
+governments use an agenda manager system with Infor; asked how this vendor could have been chosen
+if the County never saw the vendor integrate with our current system; referred to a prior request for a
+contract with Hyland Software that was held and asked if these services would have been covered under
+that contract, if it had been approved; asked if Hyland Software was providing services since January
+without a contract and if they have billed the County; asked if the department had any discussions with
+Hyland Software regarding billing and asked for confirmation that Hyland Software will be receiving
+money from this contract; asked why wasn’t the process started earlier given the importance of the
+Enterprise Resource Planning Project and the known public issues with Hyland Software; asked why the
+contract was not brought forward sooner and when the process was started; asked what contributed to
+the delay; commented that he did not believe this item was delayed in the vendor’s legal department for
+6 months; and asked what was the amount of the Hyland Software maintenance contract presented in
+June.
+Dennis Kennedy commented that although it was requested repeatedly for several years, the
+administration was never provided the opportunity to see the Infor product being installed elsewhere;
+stated that similar issues occurred with the Sherpa budget module for Infor integration and it did not
+survive testing and that due to the project schedule, it would be prohibitive to seek alternatives; asked if
+the County is released from any financial liability to Hyland Software by contracting with reseller,
+Northwoods Consulting Partners Inc. and does the agreement contain language stating the same.
+Jerad Zibritosky, Department of Law stated that Northwoods Consulting Partners Inc. would be paid for
+services.
+Dale Miller asked for clarification on the time period and how much of the total contract amount is owed
+for services provided from 1/1/2019 to present and how much is for the remainder of the contract term;
+asked if the amount is substantial for services already provided and if costs will be prorated over a 13month period and will be approximately $20,000.00 per month; asked what kind of work is involved to
+maintain licensing that would require $20,000.00 per month; asked how many staff would be required
+for this support and does it include programming services; asked how many suppliers are there that can
+potentially provide these services and how many quotes were sought for this request; asked how much
+did the pricing vary among quotes; asked if we are paying for the same services that Hyland provided from
+January through July, 2019 and are any funds still owed to Hyland and if that is the case, we do not want
+to pay Northwoods Consulting Partners Inc. for the same services; asked what was last date of services
+provided by Hyland Software and if any services were provided from July to present that the charges
+should be minimal; stated that he did not want to vote on this item under the presumption that the County
+is not liable to Hyland Software for any costs and recommended the Administration seek out the answers
+to these issues and that a firm payment arrangement be reached.
+
+ Nan Baker asked for clarification on the time period and asked for confirmation that no additional funds
+will be needed for this time period; asked if Hyland Software believes they are still owed money and if so,
+for what period of time; concurred with Mr. Miller that we need to confirm the amount owed and believes
+dates should be revised to be more in line with the actual services; asked if Northwoods Consulting
+Partners Inc. would be presenting an invoice for services; asked why 40% of the funding is out of the
+Health and Human Services Levy Fund; asked if the contract is for maintenance and support only or does
+it include licensing; asked if the contract time period should be changed to begin on the date of Board
+approval; and asked why were services from Hyland Software authorized without a contract.
+Dennis Kennedy recommended that the item be held so that a meeting could be arranged by the
+Department of Information Technology to further discuss these issues. All Board members concurred with
+Mr. Kennedy’s recommendation.
+BC2019-632
+Department of Information Technology,
+a) Submitting an RFP exemption on RQ46330, which will result in an award recommendation to Microsoft
+Corporation in the amount not-to-exceed $60,486.79 for the purchase of (26) Microsoft Surface Pro 6 i5
+Tablets and related accessories for use by various departments.
+b) Recommending an award on RQ46330 to Microsoft Corporation in the amount not-to-exceed
+$60,486.79 for the purchase of (26) Microsoft Surface Pro 6 i5 Tablets and related accessories for use by
+various departments.
+Funding Sources:
+General Fund - Information Technology – Mainframe Operation Services - $23,264.16 – 38.5%
+General Fund - Sheriff - Jail Operations (In Jail) - $25,590.56 – 42.3%
+Veteran Service Commission - $11,632.07 – 19.2%
+Jeanelle Greene, Department of Information Technology, presented. There were no questions. Dennis
+Kennedy motioned to approve the item; Trevor McAleer seconded. Item BC2019-632 was unanimously
+approved.
+
+ BC2019-633
+Department of Health and Human Services,
+a) Submitting an RFP exemption on RQ46655, which will result in an award recommendation to R-CAP
+Security, LLC in the amount not-to-exceed $66,000.00 for fingerprinting and criminal background check
+services for approximately (1,200) employees using or accessing Federal Tax Information for the period
+8/26/2019 – 10/15/2019.
+b) Recommending an award on RQ46655 to R-CAP Security, LLC in the amount not-to-exceed $66,000.00
+for fingerprinting and criminal background check services for approximately (1,200) employees using or
+accessing Federal Tax Information for the period 8/26/2019 – 10/15/2019.
+Funding Source: State Funds
+Daniel Basta, Department of Health and Human Services, presented. Dale Miller asked if a competitive
+bidding process was conducted; asked if there is a particular reason why the recommended vendor was
+selected to provide the services instead of utilizing the County’s procurement process and choosing the
+lowest and best bidder; asked if any other companies could meet the September 30, 2019 deadline and if
+informal bidding could have been conducted; commented that an expedited but competitive process
+could have been used and recommended a more competitive process be used for future services.
+Nan Baker asked how this service is different from the contract for background check services used by the
+Department of Human Resources and asked for confirmation that there is no overlap in services.
+Trevor McAleer asked when did the department become aware of the September 30, 2019 deadline for
+employee fingerprinting and background checks and asked if this is required every 10 years.
+Nan Baker also asked if this is a new requirement from the State of Ohio. Dennis Kennedy motioned to
+approve the item; Trevor McAleer seconded. Item BC2019-633 was unanimously approved.
+BC2019-634
+Department of Health and Human Services, submitting a cooperative grant agreement with Ohio
+Department of Health in the amount not-to-exceed $65,536.00 for the provision of fiscal agent services
+for public health activities associated with the Tuberculosis Control Program for the period 7/1/2018 –
+12/31/2018.
+Funding Source: Federal Funds – (CDC – National Center for HIV, Viral Hepatitis, STDs and TB Prevention
+(PS) Cooperative Agreement Grant)
+Shawntaye McCurdy, Department of Health and Human Services, presented. Nan Baker asked for
+clarification on the dates of the cooperative grant agreement; and asked when will the 2019 agreement
+be presented for approval. Dale Miller motioned to approve the item; Michael Dever seconded. Item
+BC2019-634 was unanimously approved.
+
+ BC2019-635
+Department of Health and Human Services,
+a) Submitting an RFP exemption on RQ46469, which will result in a payment to The MetroHealth System
+in the amount not-to-exceed $65,536.00 for reimbursement of services rendered for public health
+activities associated with the Tuberculosis Control Program for the period 7/1/2018 – 12/31/2018.
+b) Recommending a payment to The MetroHealth System in the amount not-to-exceed $65,536.00 for
+reimbursement of services rendered for public health activities associated with the Tuberculosis Control
+Program for the period 7/1/2018 – 12/31/2018.
+Funding Source: Federal (CDC – National Center for HIV, Viral Hepatitis, STDs and TB Prevention (PS)
+Cooperative Agreement Grant)
+Shawntaye McCurdy, Department of Health and Human Services, presented. There were no questions.
+Dennis Kennedy motioned to approve the item; Michael Dever seconded. Item BC2019-635 was
+unanimously approved.
+BC2019-636
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+submitting an amendment to Contract No. CE1800366 with Fairhill Partners for emergency shelter
+services for homeless families and individuals in connection with the FY2018 Emergency Solutions Grant
+Program for the period 9/1/2018 – 8/31/2019 to extend the time period to 8/31/2020 and for additional
+funds in the amount not-to-exceed $22,500.00.
+Funding Source: Health and Human Services Levy Fund
+Shari Weir, Office of Homeless Services, presented. Dennis Kennedy asked how many families and
+individuals are served under this contract. Dennis Kennedy motioned to approve the item; Michael Dever
+seconded. Item BC2019-636 was unanimously approved.
+BC2019-637
+Department of Health and Human Services/Community Initiatives Division/Office of Early Childhood,
+submitting an amendment to Contract No. CE1700146 with Pascal Learning, Inc. dba Ready Rosie for the
+purchase of web-based subscription services for customized child development videos for the period
+9/1/2017 – 8/31/2019 to extend the time period to 8/31/2020 and for additional funds in the amount
+not-to-exceed $42,840.00.
+Funding Source: Health and Human Services Levy Fund
+Marcos Cortes, Office of Early Childhood, presented. There were no questions. Dennis Kennedy motioned
+to approve the item; Dale Miller seconded. Item BC2019-637 was unanimously approved.
+
+ BC2019-638
+Court of Common Pleas/Juvenile Court Division, submitting an amendment to Contract No. CE1700165
+with OhioGuidestone for high-fidelity wrap around case management services for the period 9/1/2017 –
+6/30/2019 to extend the time period to 6/30/2020, to change the scope of services to include program
+outcomes and reporting requirements, effective 8/26/2019 and for additional funds in the amount notto-exceed $62,902.36.
+
+Funding Source: Competitive Reclaim Grant
+Sarah Baker, Juvenile Court Division, presented. Dennis Kennedy asked for additional detail on highfidelity wrap around services. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded.
+Item BC2019-638 was unanimously approved.
+BC2019-639
+Court of Common Pleas/Juvenile Court Division,
+a) Submitting an RFP exemption on RQ46429, which will result in an award recommendation to George
+Junior Republic in Pennsylvania in the amount not-to-exceed $60,000.00 for residential treatment services
+for (1) youth for the period 7/29/2019 – 7/28/2020.
+b) Recommending an award on RQ46429 and enter into a contract with George Junior Republic in
+Pennsylvania in the amount not-to-exceed $60,000.00 for residential treatment services for (1) youth for
+the period 7/29/2019 – 7/28/2020.
+Funding Source: Title IV-E – Special Revenue Funds
+Sarah Baker, Juvenile Court Division, presented. Nan Baker asked if any services have been provided or
+funds paid on this contract since the start date of 7/29/2019. Trevor McAleer asked if the $60,000.00 is
+only the Court’s portion of the contract or if this amount also includes the Division of Children and Family
+Services portion of the cost for treatment services and asked what will happen to this youth after
+7/28/2020. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded. Item BC2019-639
+was unanimously approved.
+BC2019-640
+Court of Common Pleas/Juvenile Court Division, submitting an amendment to Contract No. CE1700154
+with Case Western Reserve University, Mandel School of Applied Social Sciences for evaluation services
+for the period 9/1/2017 – 6/30/2019 to extend the time period to 6/30/2020 and for additional funds in
+the amount not-to-exceed $18,000.00.
+Funding Source: Competitive Reclaim Grant
+Sarah Baker, Juvenile Court Division, presented. There were no questions. Dennis Kennedy motioned to
+approve the item; Michael Dever seconded. Item BC2019-640 was unanimously approved.
+
+ BC2019-641
+Sheriff’s Department, submitting an amendment to Contract No. CE1900137 with Alliance Healthcare
+Solutions, LLC for temporary Nursing services for all County Jail medical facilities for the period 3/4/2019
+– 12/31/2019 for additional funds in the amount not-to-exceed $300,000.00.
+Funding Source: General Fund
+Tanisha Gates, Sheriff’s Department, presented. Nan Baker asked for clarification if the funding for
+MetroHealth to oversee the nursing staff will be in place by October and if these additional funds are to
+cover services up until October, 2019; asked if all prior funds have been exhausted; asked if the contract
+date should actually end in October rather than December; expressed her concern to ensure payments
+are being applied appropriately and in accordance with the MetroHealth agreement and that there are
+no overlapping services.
+Trevor McAleer clarified that the County will only be paying for actual nursing staff services that
+MetroHealth cannot provide during the onboarding process and does not believe there will be duplication
+of payment; asked how many more nurses are needed to be hired by MetroHealth to be fully staffed to
+where this contract is not necessary and asked what the total contract amounts for Alliance Healthcare
+Solutions, LLC and Educare, LLC are.
+Andria Richardson, Clerk of the Board of Control provided a contract history for Alliance Healthcare
+Solutions, LLC.
+Dennis Kennedy asked if the contract dates should be changed if MetroHealth will be taking over in
+October 2019; asked if there are any expected costs after October 2019; and asked if any remaining funds
+will be decertified. Dennis Kennedy motioned to approve the item; Michael Dever seconded. Item
+BC2019-641 was unanimously approved.
+C. – Exemptions
+BC2019-642
+Department of Development, recommending an alternative procurement process, which will result in a
+large-scale leverage incentive grant agreement to Consolidated Precision Products (CPP) - Cleveland, Inc.
+in the amount not-to-exceed $300,000.00 for construction of a new advanced manufacturing facility
+located at 26855 Bluestone Blvd., Permanent Parcel No. 648-08-004 in Euclid, Ohio for a three year period.
+Funding Source: Cuyahoga County Job Creation Fund
+Michael May, Department of Development, presented. Dale Miller thanked Consolidated Precision
+Products (CPP) - Cleveland, Inc. for selecting Cleveland as the site for this project and asked if they are
+receiving any other forms of governmental funding for this project; asked if the County has worked on
+any other large-scale leverage incentive grant projects in the past; and asked if any subsequent approvals
+by the Board of Control will be required for this project. Trevor McAleer asked what the deadline is for
+the creation of 128 jobs and if payment will be tiered if all 128 jobs are not achieved; and asked if the
+County will benefit in the form of property taxes. Nan Baker asked for clarification on the project amount
+and loan amount. Dale Miller motioned to approve the item; Trevor McAleer seconded. Item BC2019-642
+was unanimously approved.
+
+ D. – Consent Agenda
+Dennis Kennedy referred to Item No. BC2019-643 and asked for additional information regarding the
+amount listed in the Item Details Summary regarding reallocation for various activities and requested
+follow up information from the department.
+Dennis Kennedy referred to Item No. BC2019-644 and asked for clarification on the due date for the
+Memorandum of Understanding. Nan Baker asked for clarification on the dates of service and asked if
+services have been provided.
+Dennis Kennedy referred to Item No. BC2019-645 and asked if these purchases were procured through
+the reverse auction process. Trevor McAleer asked why another vendor was not selected for the purchase
+of kosher meat and asked how the purchase of kosher meat for July through September has been
+addressed.
+There were no further questions. Dennis Kennedy motioned to approve items BC2019-643 through – 647;
+Michael Dever seconded, the consent items were unanimously approved.
+BC2019-643
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+requesting authority to submit a consolidated grant application to U.S. Department of Housing and Urban
+Development in the amount of $30,503,461.00 for the FY2019 Continuum of Care Program Competition
+Grant for the period 1/1/2020 - 12/31/2021.
+Funding Source: U.S. Department of Housing and Urban Development
+BC2019-644
+Sheriff’s Department, submitting a Memorandum of Understanding among Cities of Cleveland; Cleveland
+Heights; East Cleveland; Euclid; Garfield Heights and Parma for the City of Cleveland to serve as fiscal
+agent to allocate grant funds in the amount of $111,540.00 for local Law Enforcement Agency assistance
+to support the Interoperable Communications Improvement Project in connection with the FY2019
+Edward Byrne Memorial Justice Assistance Grant for the period 10/1/2018 - 9/30/2022.
+Funding Source: U.S. Department of Justice, Bureau of Justice Assistance through the City of Cleveland
+
+ BC2019-645
+Sheriff’s Department, recommending to amend Board Approval No. BC2019-489 dated 6/24/2019 which
+approved various Direct Open Market Purchases and Open Market Purchases:
+a) by rescinding various awards to various vendors:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+SH-19-45739
+
+JulySeptember
+Dry Goods
+JulySeptember
+Beans
+JulySeptember
+Frozen
+Vegetables
+JulySeptember
+Bulk Cereal
+JulySeptember
+Pasta
+JulySeptember
+Kosher Meat
+
+Sheriff's
+Department
+
+V & J Services
+
+$645.00
+
+Funding
+Source
+General Fund
+
+Sheriff's
+Department
+
+V & J Services
+
+$3,720.00
+
+General Fund
+
+Sheriff's
+Department
+
+JNS Foods, LLC
+
+$11,400.00
+
+General Fund
+
+Sheriff's
+Department
+
+V & J Services
+
+$3,510.00
+
+General Fund
+
+Sheriff's
+Department
+
+V & J Services
+
+$13,260.00
+
+General Fund
+
+Sheriff's
+Department
+
+Benjamin
+Foods
+
+$4,322.40
+
+General Fund
+
+SH-19-45745
+
+SH-19-45748
+
+SH-19-45753
+
+SH-19-45774
+
+SH-19-45886
+
+b) by recommending additional awards to various vendors:
+SH-19-46512
+
+SH-19-46510
+
+SH-19-46506
+
+SH-19-46506
+
+JulySeptember
+Dry Goods
+JulySeptember
+Beans
+JulySeptember
+Frozen
+Vegetables
+JulySeptember
+Corn
+
+Sheriff's
+Department
+
+Benjamin
+Foods
+
+$1,023.00
+
+General Fund
+
+Sheriff's
+Department
+
+Benjamin
+Foods
+
+$4,434.00
+
+General Fund
+
+Sheriff's
+Department
+
+Gordon Food
+Service
+
+$8,520.00
+
+General Fund
+
+Sheriff's
+Department
+
+Gordon Food
+Service
+
+$3,456.00
+
+General Fund
+
+ SH-19-46506
+
+SH-19-46506
+
+SH-19-46504
+
+SH-19-46480
+
+JulySeptember
+Green beans
+JulySeptember
+Collard greens
+JulySeptember
+Bulk Cereal
+JulySeptember
+Pasta
+
+Sheriff's
+Department
+
+National Food
+Group
+
+$3,348.00
+
+General Fund
+
+Sheriff's
+Department
+
+Benjamin
+Foods
+
+$3,649.50
+
+General Fund
+
+Sheriff's
+Department
+
+Benjamin
+Foods
+
+$3,786.90
+
+General Fund
+
+Sheriff's
+Department
+
+New England
+Foods
+
+$16,348.80
+
+General Fund
+
+c) to amend the award on Requisition No. SH-19-45748 to decrease the award amount and to
+change the service description:
+SH-19-45748
+
+JulySeptember
+Frozen
+Vegetables
+
+Sheriff's
+Department
+
+New England
+$9,520.00
+Food
+$3,094.00
+Brokerage, Inc.
+
+General Fund
+
+ BC2019-646
+Fiscal Office presenting proposed Travel for the week of 8/26/2019
+Travel Requests
+Department
+
+Department of
+Public Safety
+and Justice
+Services
+
+Staff
+
+Event
+
+Host
+
+Dates of
+Travel
+
+Location
+
+Santosh
+Attar
+
+A seminar
+entitled
+“Department
+of Justice
+Financial
+Management
+Training
+Seminar”
+
+U.S.
+Department
+of Justice,
+Office of
+Justice
+Programs
+
+9/17/9/20/2019
+
+Washington,
+D.C.
+
+Expenses
+
+*Lodging$864.45
+*Meals$196.00
+
+Funding
+Source
+Public Safety
+Grants
+Administration
+Fund
+
+*Ground
+Transportation$240.00
+*Parking –
+$49.96
+*Baggage$100.00
+
+**Airfare $367.87
+
+Total –
+$1,818.28
+
+*Staff reimbursement
+** Airfare will be covered by a contract with the County’s Travel Vendor – ($367.87)
+
+Purpose:
+The Department of Public Safety & Justice Services requesting authority for staff Santosh Attar to attend the U.S.
+Department of Justice Programs, Financial Management Training Seminar. The training supports the required
+federal certification for the Department of Justice grant awards. This training will be held at the U.S. Department of
+Justice, in Washington D.C., dates, including travel dates, are 9/17 - 9/20/2019. All expenses for this training, in the
+amount not to exceed $1,818.28, will be covered by the Department of Public Safety & Justice Services, Public
+Safety Grants Administration Fund.
+
+ BC2019-647
+Office of Procurement & Diversity, presenting proposed purchases for the week of 8/26/2019
+
+Direct Open Market Purchases
+(Purchases between $5,000 - $49,999.99 unless requiring assistance from
+the Office of Procurement & Diversity – See Below)
+
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CT-19-46435
+
+Fire-fighting apparel for
+County Airport
+Safety protection
+equipment for Swing Stage
+for use at various locations
+
+Department of
+Public Works
+Department of
+Public Works
+
+Warren Fire
+Equipment
+The Fastenal
+Company
+
+$8,171.00
+
+Airport
+Operation Fund
+General Fund –
+Capital
+
+CT-19-46439
+
+$14,037.75
+
+Items/Services Received and Invoiced but not Paid:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CF-19-46547
+
+Post Adoption Special
+Services Subsidy: Adoption
+services*
+
+Division of Children
+and Family Services
+
+Cleveland Clinic
+Children's Hospital for
+Rehabilitation
+
+$1,350.00
+
+70% Health and
+Human Services
+Levy Fund
+30% Title IV-E
+
+*Alternate procurement process to authorize payments to various providers for Post Adoption Special Services
+Subsidy (PASSS) consisting of counseling, respite and residential treatment services for the period 4/15/2018 –
+4/14/2021 approved by Board of Control Approval No. BC2018-255 dated 4/23/2018.
+
+Open Market Purchases
+(Over $50,000 or requiring assistance from the Office of Procurement & Diversity)
+
+Requisition #
+None
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+ V – OTHER BUSINESS
+Items of Note (non-voted)
+Item No. 1
+Department of Public Works, submitting an agreement of cooperation in connection with the City of
+Cleveland for the resurfacing of Ridge Road from Memphis Avenue to Denison Avenue.
+Funding Source: $212,180 County Road and Bridge Fund, $106,090 from City of Cleveland, $ $106,090
+City of Brooklyn and $$1,697,440 from Federal Funds
+Item No. 2
+Department of Public Safety and Justice Services, submitting an amendment to a grant award from Ohio
+Department of Public Safety/Office of Criminal Justice Services for the FY2018 STOP Violence Against
+Women Act Administrative Grant Program for the period 1/1/2019 – 12/31/2019 for additional funds in
+the amount of $131.48.
+Funding Sources: General Fund Cash match - 25% ($5, 744.68), Office of Criminal Justice Services -75%
+($17,234.24)
+Item No. 3
+Department of Health and Human Services/Community Initiatives/Office of Homeless Services, submitting
+a grant agreement with U.S. Department of Housing and Urban Development/Community Planning and
+Development in the amount of $400,000.00 for the FY2018 Continuum of Care Program Competition for
+the period 11/1/2019 – 10/31/2020.
+Funding source: U.S. Department of Housing and Urban Development
+Item No. 4
+Court of Common Pleas/Juvenile Court Division, submitting an amendment to a grant agreement and
+Funding Application with State of Ohio, Department of Youth Services for various programs in connection
+with the SFY2018 RECLAIM Ohio Grant for the period 7/1/2017 – 6/30/2019 to make budget line item
+revisions, effective 7/1/2019; no additional funds required.
+Funding Source: Grant – Felony Delinquency Care and Custody
+
+ Item No. 5
+
+Contracts $0.00 - $4,999.99 – Processed and executed (no vote required)
+
+RQ
+No.
+RQ
+39540
+
+Contract
+Vendor
+Number
+Amend
+Various
+Master
+Providers
+Contract
+(Assign
+Contract No.
+CE1900321
+
+Service
+Description
+Out-of-Home
+Placement
+and Foster
+Care services
+to add Anne
+Grady
+Corporation,
+effective
+3/19/2019
+
+Amount
+
+Department
+
+$0.00
+
+Division of
+Children and
+Family
+Services
+
+n/a
+
+CE1700029
+
+Administratio
+n of Round 5
+of the
+demolition of
+vacant,
+abandoned,
+nuisance or
+blighted
+structures in
+connection
+with the
+Cuyahoga
+County
+Property
+Demolition
+Program
+
+$0.00
+
+Department
+of
+Developmen
+t
+
+Cuyahoga
+County Land
+Reutilization
+Corporation
+
+Date(s) of
+Service
+1/1/2018 –
+12/31/201
+9
+(original
+time
+period);
+add new
+provider,
+effective
+3/19/2019
+11/1/2016
+–
+12/31/201
+8, to
+extend the
+time period
+to
+12/31/202
+0
+
+Funding
+Source
+Original
+Contract –
+70% Health
+and Human
+Services
+Levy Fund
+And 30%
+Title IV-E
+
+Date of
+Execution
+8/19/2019
+
+Original
+Contract –
+Demolition
+Program
+Fund
+
+8/9/2019
+(Executive)
+8/15/2019
+(Law Dept.)
+
+VI – PUBLIC COMMENT
+Andria Richardson, Clerk of the Board of Control announced that the September 2, 2019 Board of Control
+Meeting had been cancelled, due to the Labor Day holiday and the next scheduled Board of Control
+meeting will take place on Tuesday, September 3, 2019 at 11:00 A.M.
+
+ VII – ADJOURNMENT
+Dennis Kennedy motioned to adjourn; Dale Miller seconded. The motion to adjourn was unanimously
+approved at 12:50 p.m.
+
+ 

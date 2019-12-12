@@ -1,0 +1,2466 @@
+Minutes of the meeting of the Board of Directors of the Cook County Health and Hospitals System held Friday,
+February 24, 2012 at the hour of 7:30 A.M. at 1900 West Polk Street, in the Second Floor Conference Room, Chicago,
+Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Batts called the meeting to order.
+Present:
+
+Chairman Warren L. Batts, Vice Chairman Jorge Ramirez and Directors David A. Ansell, MPH;
+Hon. Jerry Butler; David Carvalho; Quin R. Golden; Benn Greenspan, PhD, MPH, FACHE; Sister
+Sheila Lyne, RSM; and Luis Muñoz, MD, MPH (9)
+
+Absent:
+
+Directors Heather E. O'Donnell, JD, LLM and Ruth M. Rothstein (2)
+
+Additional attendees and/or presenters were:
+Gina Besenhofer – System Director of Supply Chain
+Management
+Cathy Bodnar – System Chief Compliance Officer
+John Cookinham – System Interim Chief Financial
+Officer
+Patrick T. Driscoll, Jr. – State’s Attorney’s Office
+Claudia Fegan, MD – John H. Stroger, Jr. Hospital of
+Cook County
+Helen Haynes – System Associate General Counsel
+Bala Hota, MD – System Chief Medical Information
+Officer
+Marisa Kollias – System Interim Director of Public
+Relations
+Gladys Lopez - System Interim Director of Human
+Resources
+Sandra Martell, RN, MS, DNP – Cook County
+Department of Public Health
+
+II.
+
+Terry Mason, MD – System Chief Medical Officer
+Lisa Meador – Interim Deputy Chief of Labor
+Relations and Special Assistant for Legal Affairs,
+Office of the Cook County Board President
+Maureen O’Donnell – System Interim Chief Human
+Resource Officer and Chief, Cook County Bureau
+of Human Resources
+Stathis Poulakidas, MD – John H. Stroger, Jr.
+Hospital of Cook County
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Marsha Ross-Jackson – System Director of Labor
+Deborah Santana – Secretary to the Board
+Carol Schneider – System Chief Operating Officer
+Sherrie Travis – Office of the Cook County
+Compliance Administrator
+
+Public Speakers
+Chairman Batts asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Board and Committee Reports
+A. Minutes of the Board of Directors Meeting, January 27, 2012
+Director Munoz, seconded by Director Lyne, moved the approval of the minutes of
+the Board of Directors Meeting of January 27, 2012. THE MOTION CARRIED
+UNANIMOUSLY.
+Page 1 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 2
+
+III.
+
+Board and Committee Reports (continued)
+B. Minutes of the Human Resources Committee Meeting, February 17, 2012
+It was noted that on February 17th, the Human Resources Committee received information but did not
+take action on any items, due to a lack of a quorum.
+Gladys Lopez, System Interim Director of Human Resources, provided an overview of the information
+that was presented at the meeting; this included information on the following subjects: Human
+Resources Staffing; First 30 Days – Issues Identified; Hot Items – Clinical Staff and Displacement; and
+2011 Students at Work (SAW) Program Update.
+During the review of the information, Director Ansell stated that, at the Quality and Patient Safety
+Committee Meeting on February 21st, he requested that a dashboard be prepared with information
+relating to nurse staffing levels. He stated that it would also be beneficial to receive a Board dashboard;
+this would allow the Directors to periodically review measures, such as those relating to nurse staffing
+levels and other Human Resources activities. Maureen O’Donnell, System Interim Chief Human
+Resource Officer and Chief of the Cook County Bureau of Human Resources, stated that meetings are
+currently being held with Barbara Farrell, System Director of Quality and Patient Safety, to specifically
+talk through the performance metrics of Human Resources; one of those metrics specifically addresses
+nursing – in terms of hires, postings and length of time. Ms. O’Donnell added that the big question that
+needs answers and movement is the question of how much time it takes to actually get a person hired,
+from the time of posting to the time the person is on-board.
+Director Lyne, seconded by Director Butler, moved the approval of the minutes of
+the Human Resources Committee Meeting of February 17, 2012. THE MOTION
+CARRIED UNANIMOUSLY.
+
+C. Minutes of the Finance Committee Meeting, February 17, 2012
+It was noted that on February 17th, the Finance Committee received information but did not take action
+on any items, due to a lack of a quorum. The contractual requests were discussed by the Committee, and
+were placed directly on this Board Agenda, under Item IV(A).
+The Board discussed the Contracts and Procurement Items. Dr. Bala Hota, System Chief Medical
+Information Officer, and Dr. Terry Mason, System Chief Medical Officer, provided additional
+information regarding request numbers 6 and 7 (requests to increase and amend the contracts with
+Siemens Medical Solutions and Cerner Corporation). Chairman Batts requested that a one-page
+summary be assembled for each request that provides specifics on what the System is trying to
+accomplish. Dr. Hota responded that he can provide this information. The following subjects relating to
+the two requests were discussed: funding available for Meaningful Use; International Classification of
+Diseases, 10th Edition diagnosis and procedure codes (ICD-10) conversion and implementation; and
+training. Dr. Hota noted that a gap analysis summary was provided on the Cerner Siemens ReEngineering Project; this information is included as an attachment to the February 17, 2012 Finance
+Committee Meeting Minutes.
+
+Page 2 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 3
+
+III.
+
+Board and Committee Reports
+C. Minutes of the Finance Committee Meeting, February 17, 2012 (continued)
+John Cookinham, System Interim Chief Financial Officer, reviewed the Revenue Cycle Report contained
+within the minutes. Director Carvalho highlighted information contained on the last page of the Report;
+he noted that the information reflects a $40 million Medicaid retroactive rate adjustment, which is $30
+million higher than was anticipated. He stated that there is a negative variance in patient fee collection
+of $14 million for Medicaid, $2.6 million for Medicare and $3.8 million in the “Other” category.
+Director Carvalho asked if the reason for the declining Medicaid receipts was due to any of the following
+possible reasons: the System is seeing fewer Medicaid patients; the System is converting Medicaid
+patients less efficiently; there is a bottleneck in the System’s process of submitting claims; or there is a
+bottleneck in the State’s processing of claims. Director Carvalho stated that each of those possible
+reasons could lead to the end result of fewer Medicaid dollars.
+Dr. Ram Raju, Chief Executive Officer, responded that the answer to Director Carvalho’s question is “all
+of the above.” He stated that data related to this issue is reviewed on a regular basis. Some of those
+issues are clearly on the System’s side; he noted that the System needs to do a better job to resolve those
+issues. Some of the issues reside with the System’s vendor, who edits the claims and submits them to
+Medicaid; there is a holdup on that end. The claims then reach the Medicaid offices; he noted that there
+is a real variation in the way the claims are getting paid, which makes the cash flow situation very
+difficult. He referenced a recent meeting held with other Chief Executive Officers of local safety net
+hospitals; at that meeting, one of the concerns expressed was the fact that Medicaid is not paying claims
+in an expeditious manner. With regard to the issue of the pending Medicaid applications at the State,
+Dr. Raju stated that the System continues to have a large number of pending applications. Meetings are
+held regularly with the various entities involved; however, there continues to be a backlog with the
+processing of the applications. He noted that management has made a strategic decision to prioritize the
+applications; mostly inpatient applications and those outpatient applications for high-end ambulatory
+services are being sent at this time.
+Director Carvalho noted that enrollment in Medicaid is at historically high levels. He inquired whether
+the change in payer mix was attributable to the System seeing more uninsured patients or because the
+System is seeing fewer Medicaid patients. Dr. Raju stated that the System’s uninsured patients consist
+of the following three groups: undocumented immigrants; people who are under-insured; and people
+who are employed but who are either not provided insurance by their employer, or they cannot afford to
+pay the co-pays under their employer-provided insurance. Dr. Raju indicated that he can provide an
+analysis of this information. He noted that, if the number of uninsured patients increases in the System,
+they crowd out the patients with Medicaid and other insurance, because those covered patients have an
+opportunity to go elsewhere. This crowding phenomena is not unique to the System; it is being seen
+across the nation.
+Director Carvalho, seconded by Director Lyne, moved the approval of the minutes
+of the Finance Committee Meeting of February 17, 2012. THE MOTION
+CARRIED.
+
+Page 3 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 4
+
+III.
+
+Board and Committee Reports (continued)
+D. Minutes of the Quality and Patient Safety Committee Meeting, February 21, 2012
+During the presentation of these minutes, Chairman Batts noted that the minutes include an update on the
+activities relating to Oak Forest Health Center‘s plans for the Immediate Care Center and specialty care
+operations. Dr. Claudia Fegan, Chief Medical Officer of John H. Stroger, Jr. Hospital of Cook County,
+reviewed this information, which included volume data for outpatient services. Director Ansell stated
+that it would be useful to see further information on the matter, including a review of the current status of
+activities and a projection of how the System will reach the goals. Additionally, Director Greenspan
+requested that this information include data regarding the locations from which referrals are being made.
+Director Ansell, seconded by Director Greenspan, moved the approval of the
+minutes of the Quality and Patient Safety Committee Meeting of February 21, 2012.
+THE MOTION CARRIED UNANIMOUSLY.
+
+IV.
+
+Action Items
+A. Contracts and Procurement Items (Attachment #1)
+Gina Besenhofer, System Director of Supply Chain Management, presented the requests for the Board’s
+consideration. Some of the requests were discussed earlier in the meeting, during the consideration of
+Item III(C); they were also reviewed and discussed at the Finance Committee Meeting on February 17,
+2012.
+Dr. Sandra Martell, Interim Chief Operating Officer of the Cook County Department of Public Health,
+reviewed the information regarding request number 4.
+Director Carvalho, seconded by Director Lyne, moved the approval of request
+numbers 1 through 7 under the Contracts and Procurement Items. THE MOTION
+CARRIED UNANIMOUSLY.
+B. **Proposed Collective Bargaining Agreements with the following:
+i.
+ii.
+iii.
+iv.
+v.
+
+Fraternal Order of Police – John H. Stroger, Jr. Hospital Security Officers
+Fraternal Order of Police – Oak Forest Health Facilities Security Officers
+House Staff Association – post-graduate level physicians and chief residents
+Metropolitan Alliance of Police – John H. Stroger, Jr. Hospital Sergeants
+Pharmacy Association Local 200 (RWDSU Local 200) – Pharmacists and pharmacy
+technicians
+vi. Teamsters Local 700 – Oak Forest Health Facilities Sergeants/Investigators
+vii. Teamsters 743 – Provident Hospital Employees
+viii. National Nurses Organizing Committee – Registered
+Nurses
+Note: this item was considered following the adjournment of closed session.
+
+Page 4 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 5
+
+IV.
+
+Action Items
+B. **Proposed Collective Bargaining Agreements (continued)
+Director Greenspan, seconded by Director Golden, moved the approval of the eight
+(8) proposed Collective Bargaining Agreements. THE MOTION CARRIED.
+Vice Chairman Ramirez voted PRESENT.
+
+C. Any items listed under Sections III, IV and VII
+D. Proposed Resolution – in recognition of the 75th Anniversary of the establishment of the world’s
+first hospital blood bank at Cook County Hospital by Dr. Bernard Fantus (Attachment #2)
+Chairman Batts read the proposed Resolution into the record. It was noted that there was a typographical
+error on the proposed Resolution; this will be amended to reflect the accurate information.
+Chairman Batts, seconded by Director Butler, moved the approval of the proposed
+Resolution, as amended. THE MOTION CARRIED UNANIMOUSLY.
+
+V.
+
+Report from Chairman of the Board
+Update on Cook County Health Foundation
+Chairman Batts stated that a quorum of Foundation Directors is now in place. A proposal was received from
+an outside firm who helps organizations like the Foundation raise money; however, the price quoted was not
+something the members thought the Foundation could afford, so this subject remains to be addressed. The ad
+hoc committee will meet today, after this meeting, to determine the next steps. Chairman Batts indicated that
+further action and assistance, internally and externally, is needed to get the Foundation up and running. He
+stated that there is a possible opportunity to raise more money. He noted that, in New York City and Los
+Angeles County, they each only raise approximately $1 million - $1.5 million per year. In Atlanta, Georgia,
+which is much smaller than Cook County, their public hospital has been converted to a 501(c)(3)
+organization. The organization initially started with a contribution of $200 million from one family; they are
+now running a capital campaign to raise another $320 million, and it appears that they will be successful in
+their fundraising efforts.
+A. Board Education –2011 Annual Report of the Stroger Burn Center (Attachment #3)
+Dr. Stathis Poulakidas, Chairman of the Division of Burn Services at John H. Stroger, Jr. Hospital of
+Cook County, presented the 2011 Annual Report of the Stroger Burn Center. The Board reviewed and
+discussed the information.
+B. Board Education - Orientation to Public Health Accreditation (Attachment #4)
+Dr. Martell reviewed information included in a presentation regarding Orientation to Public Health
+Accreditation - Preparing the Cook County Department of Public Health for National Accreditation. The
+Board discussed the information.
+Page 5 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 6
+
+VI.
+
+Report from Chief Executive Officer (Attachment #5)
+Dr. Raju provided an update on the following subjects: FY2012 Budget; 1115 Waiver; Oak Forest Health
+Center; Public Health Update; Schwartz Rounds; and New Website.
+Additionally, Dr. Raju introduced and thanked Dr. Benjamin Mba, for his successful efforts in organizing
+and being the driving force in the implementation of Stroger Hospital’s Schwartz Center Rounds.
+
+VII. Closed Session Items
+A. **Proposed Collective Bargaining Agreements
+(Listed under Item IV(B) - Eight (8) Proposed Agreements)
+B. Stroger Hospital Medical Staff Credentialing Matter
+C. Minutes of the Quality and Patient Safety Committee Meeting, February 21, 2012
+(the Committee did not meet in closed session on February 21st)
+D. Discussion of Personnel Matter
+Director Butler, seconded by Director Carvalho, moved to recess the regular session
+and convene into closed session, pursuant to the following exceptions to the Illinois
+Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the appointment, employment,
+compensation, discipline, performance, or dismissal of specific employees of the
+public body or legal counsel for the public body, including hearing testimony on a
+complaint lodged against an employee of the public body or against legal counsel
+for the public body to determine its validity,” 5 ILCS 120/2(c)(2), regarding
+“collective negotiating matters between the public body and its employees or their
+representatives, or deliberations concerning salary schedules for one or more classes
+of employees,” 5 ILCS 120/2(c)(11), regarding “litigation, when an action against,
+affecting or on behalf of the particular body has been filed and is pending before a
+court or administrative tribunal, or when the public body finds that an action is
+probable or imminent, in which case the basis for the finding shall be recorded and
+entered into the minutes of the closed meeting,” and 5 ILCS 120/2(c)(17), regarding
+“the recruitment, credentialing, discipline or formal peer review of physicians or
+other health care professionals for a hospital, or other institution providing medical
+care, that is operated by the public body.”
+On the motion to recess the regular session and convene into closed session, a roll
+call was taken, the votes of yeas and nays being as follows:
+Yeas:
+
+Chairman Batts, Vice Chairman Ramirez and Directors Ansell, Butler,
+Carvalho, Golden, Greenspan, Lyne and Muñoz (9)
+
+Nays:
+
+None (0)
+
+Absent: Directors O’Donnell and Rothstein (2)
+THE MOTION CARRIED UNANIMOUSLY and the Board convened into closed
+session.
+
+Page 6 of 86
+
+ Minutes of the Meeting of the
+CCHHS Board of Directors
+Friday, February 24, 2012
+Page 7
+
+VII. Closed Session Items (continued)
+
+Chairman Batts declared that the closed session was adjourned.
+reconvened into regular session.
+
+The Board
+
+Note: the motion for the approval of the eight (8) proposed Collective Bargaining
+Agreements is listed on page 5, under Item IV(B).
+
+Following the adjournment of closed session, Dr. Raju provided an update on activities relating to the
+Section 1115 Waiver. He stated that he just concluded the first phone call with representatives from the
+Centers for Medicare and Medicaid Services (CMS); he noted that the discussion went very well. He
+added that the Illinois Department of Healthcare and Family Services has been extremely helpful.
+Dr. Raju stated that the Section 1115 Waiver requires the System to review the various functions that
+people perform to see how the job function can be improved; meetings are currently being held with the
+unions on the subject.
+
+VIII. Adjourn
+As the agenda was exhausted, Chairman Batts declared the MEETING
+ADJOURNED.
+
+Respectfully submitted,
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXX
+Warren L. Batts, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 7 of 86
+
+ Cook County Health and Hospitals System
+Minutes of the Board of Directors Meeting
+February 24, 2012
+
+ATTACHMENT #1
+
+Page 8 of 86
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM IV(A)
+FEBRUARY 24, 2012 BOARD OF DIRECTORS MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS 
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Fiscal Impact
+
+Begins 
+on Page 
+Affiliate / 
+System
+#
+
+Capital Program Item ‐ Proposed Contract Addendum
+
+1
+
+Service ‐ real estate consulting services
+Jones Lang Lasalle Americas,  for the Adaptive Re‐Use of the Cook
+Inc.
+County Hospital
+
+$40,000.00  System
+
+2
+
+Service ‐ Lead abatement services
+
+No fiscal impact 
+(grant funded 
+amount: 
+$80,000.00 CCDPH
+
+3
+
+City of Chicago, Department 
+of Health
+Service ‐ Lead abatement services
+
+No fiscal impact 
+(grant funded 
+amount: 
+$620,000.00 CCDPH
+
+3
+
+Grant increase 
+amount: 
+$83,397.00 CHSCC
+
+4
+
+Grant funding 
+amount: 
+$125,000.00 CCDPH
+
+5
+
+$2,358,792.63  System
+
+6
+
+$2,276,411.00  System
+
+8
+
+$2,099,667.00  System
+
+10
+
+Extend and Increase Grants
+
+2
+
+2
+
+City of Evanston, Health 
+Department
+
+Amendment to Extend and Increase Grant
+
+3
+
+Service ‐ Ryan White Part B ‐ Case
+AIDS Foundation of Chicago Management Services
+
+Accept Grant
+4
+
+Chicago Community Trust
+
+Service ‐ Primary Care Assessment
+
+Amend and Increase Contracts
+
+5
+
+ACS Healthcare Solutions
+
+6
+
+Siemens Medical Solutions
+
+Service ‐ professional services in
+support of the Cerner PowerChart
+Ambulatory Project and Cermak Health
+Services Cerner Implementation Go‐
+Live
+Service ‐ professional services in
+support of the Cerner to Siemens
+Optimization
+Project,
+ICD‐10
+consultation
+and
+testing,
+LRS
+conversion and an extention of the
+maintenance and support of the three
+legacy domains
+
+Cerner Corporation
+
+Service ‐ professional services in
+support of the Cerner to Siemens
+Optimization and Cerner PowerChart
+Ambulatory projects; training services
+and Go‐Live support
+
+7
+
+Page 9 of 86
+
+ PROPOSED CONTRACT ADDENDUM
+
+Transmitting a Communication, dated February 10, 2012 from HERMAN BREWER, Bureau
+Chief, Bureau of Economic Development
+Requesting authorization for the Chief Procurement Officer to increase by $40,000.00 and
+extend from May 5, 2012 through September 4, 2012, Contract No. 09-41-86 with Jones Lang
+Lasalle Americas, Inc., Chicago, Illinois for real estate consulting services for the Adaptive ReUse of the Cook County Hospital. The current contract expires on May 4, 2012.
+
+$ 138,133.00
+$40,000.00
+$178,133.00
+
+Board approved amount May 4, 2010:
+Increase requested:
+Adjusted amount:
+
+Reason:
+
+This change needed to extend the original scope that provided for analysis and
+planning for the Adaptive Reuse of Old Cook County Hospital and surrounding land.
+Evaluate the availability and feasibility of all options for reuse and funding of the
+redevelopment and restoration of Old Cook County Hospital.
+
+Estimated Fiscal Impact: $40,000.00. Contract period: May 5, 2012 through September 4, 2012.
+28000 Cook County Health and Hospitals
+No lobbying contact was made for this item.
+
+A
+fEB 24 2012
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+Request#
+1
+
+Page 10 of 86
+
+ Cook County Health & Hospitals System
+
+.
+
+BOARD APPROVAL REQUEST
+SPONS
+Sandra
+DATE:
+01/09/2012
+TYPE OF REQUEST:
+Extend and Increase Grant
+
+fficer
+PRODUCT I SERVICE:
+Service - Lead Abatement Services
+VENDOR I SUPPLIER:
+City of Evanston, Health Department, Evanston, Illinois
+Ci of Chica o, De artment of Health, Chica o, Illinois
+FISCAL IMPACT I ACCOUNT:
+GRANT FUNDED AMOUNT:
+5440101
+Special Fund- City of Evanston: $80,000.00
+c· of Chica o: $620,000.00
+CONTRACT PERIOD:
+CONTRACTS:
+12/01/2011 thru 11/30/2012
+06-42-387 Evanston
+06-42-388 Cit of Chica o
+COMPETITIVE SELECTION METHODOLOGY: [BID I RFP I GPO]
+N/A
+NON-COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE]
+N/A
+PRIOR CONTRACT HISTORY:
+The Lead Poisoning Prevention Fund was adopted by the Cook County Board of Commissioners on November 21,
+2000, Resolution #OOR-611.
+NEW PROPOSAL JUSTIFICATION:
+The agencies listed above were selected through grant application proposals and met the criteria and eligibility
+requirements established by the LEAD Prevention Advisory Council (LPAC) and the Lead Poisoning Prevention Unit.
+This extension has been approved by the LEAD Prevention Advisory Council based upon the performance of these
+certified vendors to safely and expeditiously remove this deadly health hazard away from Cook County children who
+have been previously exposed to lead.
+FINANCIAL BENEFIT: (Prior Cost versus New Cost)
+Savings calculation: NA
+Percent: N/A
+TERMS OF REQUEST:
+This is a request to extend and increase Contract #06-42-387 with the City of Evanston for a period of 12 months
+from 12/0112011 thru 11/30/2012 in the amount of $80,000.00. The second request is to extend and increase
+Contract #06-42-388 with the City of Chicago for a period of 12 months from 12101/2011 thru 11/30/2012 in the
+amount of $620,000.00.
+CONTRACT COMPUANCE HAS FOUND THIS CONTRACT RESPONSIVE
+
+FEB 24 2012
+
+Request#
+2
+• Ambulatory & Communi
+• John H. Stroger, Jr. Hospital
+
+ealth Network • Cermak Health Services • Department of Public Health •
+Cook County • Oak Forest Hospital • Provident Hospital • Ruth M. Rothstein
+
+CORE Center •
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 11 of 86
+
+ Cook County Health & Hospitals System
+BOARD APPROVAL REQUEST
+~
+
+SPONSOR:
+
+Michael Puisis, D.O., Chief Operating Officer, Cermak
+Carol Schneider, Chief Operating Officer
+DATE:
+PRODUCT I SERVICE:
+01/05/2012
+Grant- Ryan White Part B- Case Management Services
+TYPE OF REQUEST:
+VENDOR I SUPPLIER:
+Amendment to Extend and Increase AIDS Foundation of Chicago, Chicago, Illinois
+Grant
+FISCAL IMPACT I ACCOUNT:
+GRANT FUNDED AMOUNT:
+240-658 Cermak Heafth Services
+$83,397.00
+CONTRACT PERIOD:
+CONTRACT #
+10/01/2011 thru 03/31/2012
+NIA
+COMPETrTIVE SELECTION METHODOLOGY: [BID I RFP I GPO]
+N/A
+NON-COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE]
+N/A
+PRIOR CONTRACT HISTORY:
+
+The Ryan White Part-S Case Management grant is renewed annually. Approval to renew the current six month
+contract was approved by the CCHHS Board on July 29, 2011.
+NEW PROPOSAL JUSTIFICATION:
+
+The grant provides two FTE Case Manager positions intended to assist individual's access services within the Illinois
+Department of Public Health HIV Case Management System. Due to limitations by the granting agency, the current
+grant was awarded only for a six month period. Funds are now available and we request approval to amend and
+extend the grant to a full 12 month period for a total grant award amount of $167,343.00.
+FINANCIAL BENEFIT
+
+Savings calculation: NA
+Percent: N/A
+TERMS OF REQUEST:
+
+This is a request to extend and increase Grant #240-658 for a period of 6 months from 10/0112011 thru 03/3112012,
+in the amount of $83,397.00.
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE? N/f.
+ATTACHMENTS
+BID TABULATIONS: N/A
+CONTRACT COMPLIANCE MEMO: N/A
+
+c/(;).jv,"-
+
+APPROVED
+FEB 24 2012
+
+~
+
+BY BOARD OF
+
+DIRECTORS OF THE COOK COUlfT
+HEALTH AND HOSPITALS SYSTE~
+
+CCHHS
+John Cookin?ir· Interim Chief Financial Officer
+
+~
+-rQ
+
+CCHHS CE6/_
+Ram Raju, chief Execu
+
+()',.
+
+Request#
+3
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Pubhc Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital• Provident Hospital • Ruth M. Rothstein
+CORE Center •
+
+We Bring Health CARE to Your Community
+Revised 0310112011
+
+Page 12 of 86
+
+ BOARD APPROVAL REQUEST
+
+DATE:
+
+PRODUCT I SERVICE:
+
+01/05/2012
+
+Service -Prima
+
+TYPE OF REQUEST:
+Grant Contract Acce tance
+FISCAL IMPACT I ACCOUNT:
+
+VENDOR I SUPPLIER:
+
+Care Assessment
+Trust, Chica o, Illinois
+GRANT FUNDED AMOUNT:
+
+Chica o Communi
+
+9361101
+
+$125,000.00
+
+CONTRACT PERIOD:
+
+CONTRACT#
+05/25/2010 thru 07/01/2013
+C201 0-00802
+COMPETITIVE SELECTION METHODOLOGY: [BID I RFP I GPOJ
+N/A
+NON-COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE}
+N/A
+PRIOR CONTRACT HISTORY:·
+There is no prior contract history.
+
+NEW PROPOSAL JUSTIFICATION:
+The Public Health/Chicago Community Trust Primary Care Grant provides fundtng for Cook County Department of
+Public Health to develop a county-wide system to assess and monitor primary health care safety net services.
+There is no deferred liability for this Grant Business Unit as there are no salaries or fringe benefits paid on this
+Business Unit.
+
+FINANCIAL BENEFIT: (Prior Cost versus New Cost)
+Savings calculation: NA
+Percent: N/A
+TERMS OF REQUEST:
+This is a request to accept Grant Contract #C2010-00802 for a period of 37 months from 05/25/2010 thru 07/01/2013
+in the amount of $125,000.00.
+
+CONTRACT COMPLIANCE HAS FOUND THfS CONTRACT RESPONSIVE? N/A
+AITACHMENTS
+.BJD TABULATIONS: N/A
+CONTRACT COMPLIA~
+
+fEB 24 Z012
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+Request#
+4
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Public Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospitaf • Provident Hospital • Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 13 of 86
+
+ Cook County Health & Hospitals System
+BOARD APPROVAL REQUEST
+~~"- y
+
+SPONSOR:
+
+Daniel J. Howard, Chief Information Officer, CCHHS
+-l'G
+Dr. Bala Hota, Chief Medical Information Officer, CCHH
+DATE:
+PRODUCT I SERVICE:
+01/13/2012
+Service- Professional services in support of the Gerner PowerChart
+Ambulatory Project and Cermak Health Service Gerner lm plementation GoLive
+TYPE OF REQUEST:
+VENDOR I SUPPLIER:
+Amend and Increase Contract
+ACS Hea1thcare Solutions, Dearborn Michigan
+FISCAL IMPACT:
+GRANT FUNDED AMOUNT: N/A
+$2,358,792.63
+CONTRACT PERIOD:
+CONTRACT #:
+04/01/2011 thru 03/31/2014
+H11-25-014
+X
+
+COMPETITIVE SELECTION METHODOLOGY: BID/RFP/GPO
+RFP
+NON-COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE]
+
+PRIOR CONTRACT HISTORY:
+
+Contract H11-25-014 was approved by the Board on 02/24/2011 for the period of 04/01/2011 thru 03/31/2014 in the
+amount of $19,392,043.00.
+NEW PROPOSAL JUSTIFICATION:
+
+Currently, the ACS IT staffing contract accommodates for 43 base positions of various in demand skill sets. As a
+result of the ever increasing demand on IT resources for several major initiatives, the department of Hospital
+Information Systems is requesting additional resources for the Cemer PowerChart Ambulatory project to backfill for
+IT base staff that will have to dedicate the majority of their time to the PowerChart Ambulatory project, as well as
+specific skills sets necessary for the PowerChart Ambulatory project. Also included in this request is the training,
+education and Go-Live support associated with the PowerChart 2012 implementation and adoption of the Gerner
+system.
+Gerner PowerChart Ambulatory
+Cermak Health Cerner
+Go- Live Support and Training
+Total Cost
+
+$ 1 ,846,000.00
+
+APPROVED
+
+$ 512,792.63
+$ 2,358,792.63
+
+FINANCIAL BENEFIT: (Prior Cost versus New Cost)
+Savings Calculation: N/A
+Percent: N/A
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract H11-25-014 from 04/01/2011 thru 03/31/2014 in the amount of
+$2,358, 792.63.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+ATTACHMENTS
+BID TABULATIONS: N/A
+
+CONTRACT COMPLIANCE MEMO: Pending
+
+Request#
+5
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Public Health •
+• John H. Stroger, Jr. Hoapltal of Cook County• Oak Forest Hospital• Provident Hospital• Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+Revised 03101/2011
+
+Page 14 of 86
+
+ PRODUCT I SERVICE:
+Service- Professional services in support of the Gerner PowerChart
+Ambulatory Project and Cermak Health Service Gerner Implementation GoLive
+VENDOR I SUPPLIER:
+ACS Healthcare Solutions, Dearborn Michigan
+
+DATE:
+01/13/2012
+
+TYPE OF REQUEST:
+Amend and Increase Contract
+
+CCHHSCOO:~~~~~~~~~~~~~~~~~~~
+, n
+
+Carol Schneider, Chief Operatin~ Office
+
+0
+
+~ ~~
+
+CCHHSCFO:
+John CookinhamfnJerp,Chief Financial Officer
+
+l/
+______~--~~------------------------------------------
+
+CCHHSCEO: __
+Ram Raju, Chief Executiv~er
+
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Public Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital • Provident Hospital • Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+
+Page 15 of 86
+
+Revised 03/01/2011
+
+ Cook County Health & Hospitals System
+BOARD APPROVAL REQUEST
+SPONSOR:
+~If}\)
+Daniel J. Howard, Chief Information Officer, CCHHS V ·
+John Cookinham, Interim Chief Financial Officer, CCHHS
+DATE:
+PRODUCT I SERVICE:
+01/13/2012
+Service- Professional Services in support of the Gerner to Siemens
+Optimization Project, ICD-10 consultation and testing, LAS conversion and
+an extension of the maintenance and support of the 3 legacy domains.
+TYPE OF REQUEST:
+VENDOR I SUPPLIER:
+Amend and Increase Contract
+Siemens Medical Solutions, Malvem, Pennsylvania
+FISCAL IMPACT I ACCOUNT:
+GRANT FUNDED AMOUNT:
+$2,276,411.00
+N/A
+CONTRACT PERIOD:
+CONTRACT #
+01/10/2009 thru 9/30/2013
+06-41-274
+COMPETITIVE SELECTION METHODOLOGY: [BID I RFP I GPO]
+
+X
+
+NON•COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE]
+SINGLE FEASIBLE PROVIDER
+PRIOR CONTRACT HISTORY:
+Contract #06-41·274 was approved by the Board on 12/18/2008 for the period 01/10/2009 thru 01/09/2012 in the
+amount of $7,402,752.00. The contract was increased and extended by the Board on 02124/2011 for the period
+01/10/2009 thru 09/30/2013 in the amount of $4,312,319.00. Administration amended and extended the existing
+contract to implement consolidation and migration to the new release~ including user licenses for support of the newly
+implemented Decision Support System; EDM, a financial scanning system; Echo Loader, a data warehouse for file
+processing, and Denial Management, financial claim software. Also included in the amendment was Patient Friendly
+Statements, because the baseline increased from 70,000 to 85,000 based on a rolling 12 month average. There was
+no increase in current HDX rates.
+
+NEW PROPOSAL JUSTIFICATION:
+This is a request for the resources to support the Carner to Siemens Optimization project, as well as professional
+services to support the conversion to LAS and ICD-10 consulting and testing. Additionally, funds are included for the
+support and maintenance of the 3 legacy domains to be extended through June, 2012 at the request of the Interim
+Chief Financial Officer.
+FINANCIAL BENEFIT: (Prior Cost versus New Cost)
+Savings Calculation: NA
+Percent: N/A
+
+APPROVED
+
+TERMS OF REQUEST:
+This is request to amend and increase contract #06-41-274 from 01/10/2009 thru U30/2013 in the amount of
+
+FEB 24 2012
+
+$2,276,411.oo.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE? P nding
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+ATIACHMENTS
+HEALTH AND HOSPITALS SYSTEM
+BID TABULATIONS
+CONTRACT COMPLIANCE MEMO: Pending
+
+Request#
+6
+• Ambulatory & Community Health Network • Cermak H•lth SeMces • Department of Public Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital • Provident Hospital • Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+Revised 03101/2011
+
+Page 16 of 86
+
+ DATE:
+01/13/2012
+
+TYPE OF REQUEST:
+Amend and Increase
+
+PRODUCT I SERVICE:
+Service - Professional Services in support of the Gerner to Siemens
+Optimization Project, ICD-1 0 consultation and testing, LRS conversion and
+an extension of the maintenance and su ort of the 3 le ac domains.
+VENDOR I SUPPLIER:
+Siemens Medical Solutions, Malvern, Penns lvania
+
+CCHHSCOO: ______________________________________
+Carol Schneider, Chief Operating Officer
+CCHHS CFO:e,:
+--~~~--~~~~~-=~~-----------------John Cookinha
+
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Public Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital • Provident Hospital • Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+
+Page 17 of 86
+
+Revised 03/01/2011
+
+ Cook County Health & Hospitals System
+BOARD APPROVAL REQUEST
+SPONSOR:
+s&~
+Daniel J. Howard, Chief Information Officer, CCHHS
+~~
+.or. Bala Hota, Chief Medical Information Officer, CCHH
+DATE:
+PRODUCT I SERVICE:
+01/13/2012
+Service- Professional services in support of the Cemer to Siemens
+Optimization and Gerner PowerChart Ambulatory projects; training services
+and Go-Live support
+TYPE OF REQUEST:
+VENDOR I SUPPLIER:
+Am end and Increase Contract
+Gerner Corporation, Kansas City, MO
+FISCAL IMPACT:
+GRANT FUNDED AMOUNT: N/A
+
+$2,099,667.00
+CONTRACT PERlOD:
+
+CONTRACT#:
+
+08/01/2011 thru 07/31/2012
+
+H11-25·062
+
+COMPETITIVE SELECTION METHODOLOGY: BID/RFP/GPO
+X
+
+NON-COMPETITIVE SELECTION METHODOLOGY: [SOLE SOURCE]
+
+SINGLE FEASIBLE PROVIDER
+PRlOR CONTRACT HISTORY:
+Contract #H11-25-062 was approved by the Board on 07/29/2011 for the period of 08/01/2011 thru 07/31/2012 in the
+amount of $1 0, 760,187.53.
+NEW PROPOSAL JUSTIFICATION:
+This is a request for resources to support the Gerner to Siemens Optimization and the PowerChart Ambulatory
+projects, as well as training serVices and Go-Live support. Also included in this proposal is the funding for a House
+Wide Mad Rec and Message Center.
+
+Gerner to Siemens
+Cerner PowerChart Ambulatory
+House Wide Med Rec and Message Center
+Training and Go-Live Support
+
+Total Cost:
+
+$ 636,602.00
+$ 357,640.00
+$ 168,225.00
+$ 937,200.00
+$ 2,099,667.00
+
+FINANCIAL BENEFIT: (Prior Cost versus New Cost)
+Savings Calculation: N/A
+Percent: N/A
+
+APPROVED
+FEB 2 4 2012
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract H11-25-062 from 08/01/2011 thru 07/31/2012 in the amount of
+
+$2,099,667.00
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+ATTACHMENTS
+BID TABULATIONS: N/A
+CONTRACT COMPLIANCE MEMO: Pending
+
+Request#
+7
+• Ambulatory & Community Health Network • Cermak Health Services • Department of P;ublic Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital • Provident Hospital • Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+
+Revised 03/01/2011
+
+Page 18 of 86
+
+ PRODUCT I SERVICE:
+Service- Professional services in support of the Gerner to Siemens
+Optimization and Gerner PowerChart Ambulatory projects; training services
+and Go-Live support
+VENDOR I SUPPLIER:
+Cerner Corporation, Kansas City, Missouri
+
+DATE:
+
+01/13/2012
+
+TYPE OF REQUEST:
+Amend and Increase
+
+CCHHSCOO:~~~~·~~~~~~~~~~~~~~~
+
+Carol Schneider, Chief Operating Officer
+
+nl
+
+~~.~ /J "'
+
+CCHHS cF&.John CookinG Interim Chief Financial Officer
+CCHHS CEO: .
+
+A
+
+K~q -
+
+Ram Raju, Chief Exe< utive
+
+icer
+
+• Ambulatory & Community Health Network • Cermak Health Services • Department of Public Health •
+• John H. Stroger, Jr. Hospital of Cook County • Oak Forest Hospital • Provident Hospital• Ruth M. Rothstein
+CORE Center •
+We Bring Health CARE to Your Community
+
+Page 19 of 86
+
+Revised 03/01/2011
+
+ Cook County Health and Hospitals System
+Minutes of the Board of Directors Meeting
+February 24, 2012
+
+ATTACHMENT #2
+
+Page 20 of 86
+
+ R-12-01
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+BOARD OF DIRECTORS
+RESOLUTION
+
+Sponsored by
+WARREN L. BATTS, CHAIR, JORGE RAMIREZ, VICE CHAIR,
+DAVID A. ANSELL, M.D., THE HONORABLE JERRY BUTLER, DAVID CARVALHO,
+QUIN R. GOLDEN, BENN GREENSPAN, Ph.D., SISTER SHEILA L YNE, RSM,
+LUIS MUNOZ, M.D., HEATHER E. O'DONNELL, AND RUTH M. ROTHSTEIN, DIRECTORS
+WHEREAS, on March 15, 1937, Dr. Bernard Fantus made medical history in Cook County when he
+established the world's first blood bank at Cook County Hospital; and
+WHEREAS, 2012 marks the Seventy-Fifth Anniversary of this historic advancement in the practice of
+medicine; and
+WHEREAS, Dr. Bernard Fantus (1847-1940) served as a professor of therapeutics at the University of
+Illinois from 1900 to 1940, and was on staff as a physician at Cook County Hospital from 1934 to the
+time of his death in 1940; and
+WHEREAS, the pioneering research of Dr. Fantus in blood storage and transfusion was revolutionary
+in the day, and his legacy lives on in the form of countless lives saved in the ensuing decades; and
+WHEREAS, Dr. Fantus not only invented the blood storage methodology used to this day, but he
+coined the term "blood bank' to suggest a process of deposits and withdrawals similar to financial
+banking, this encouraging healthy individuals to deposit blood; and
+WHEREAS, the Cook County Health and Hospitals System is hosting The Bernard Fantus, MD
+Symposium Plasma Transfusion: Current Status and Future Direction March 14-15, 2012 in honor of
+the establishment of the first U.S. hospital blood bank at Cook County Hospital.
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors of the Cook County Health
+and Hospitals System, on behalf of the more than five million residents of Cook County served by the
+System, does hereby offer due tribute and public recognition to the groundbreaking and lifesaving work
+of Dr. Bernard Fantus on the 75 1h Anniversary of his crowning achievement.
+Approved on February 24, 2012 by the Board of Directors ofthe Cook County Health and Hospitals System
+
+PPROVED
+FEB 24 2012
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+Page 21 of 86
+
+ Cook County Health and Hospitals System
+Minutes of the Board of Directors Meeting
+February 24, 2012
+
+ATTACHMENT #3
+
+Page 22 of 86
+
+ THE DEPARTMENT OF TRAUMA 
+AND BURN SERVICES
+By 
+Stathis Poulakidas, M.D., F.A.C.S.
+Director of Burn Services
+Assistant Professor of Surgery
+Assistant Professor of Surgery
+Rush University
+
+1
+Page 23 of 86
+
+ THE DEPARTMENT OF TRAUMA AND BURN
+SERVICES
+
+COOK COUNTY
+
+7 5% 
+
+
+TRAUMA UNIT
+
+   
+
+ 
+
+Page 24 of 86
+
+Overview
+• Department
+Department Mission
+Mission : :
+SERVICE/EDUCATION/RESEARCH
+– To provide quality burn care (both acute care and 
+p
+q
+y
+(
+future reconstructive efforts) for the patients of 
+Cook County and surrounding areas 
+– To provide an educational environment for 
+T
+id
+d
+i
+l
+i
+f
+residents/medical students to become educated 
+in burn disease
+in burn disease
+– To have a commitment to research to provide 
+state of the art care to our burn patients
+3
+Page 25 of 86
+
+ TRAUMA CENTERS
+TRAUMA CENTERS
+•
+•
+•
+•
+
+USA 6000 HOSPITALS
+USA
+6000 HOSPITALS
+1600 TRAUMA CENTERS
+200
+200 LEVEL 1 TRAUMA CENTERS
+C
+S
+25% DECREASED MORTALITY IN TRAUMA 
+CENTERS FROM EMERGENT INJURY
+
+4
+Page 26 of 86
+
+ BURN CENTERS
+BURN CENTERS
+• 125
+125 BURNS CENTERS IN THE USA
+BURNS CENTERS IN THE USA
+• HIGH LEVEL OF CARE WITH BETTER RESULTS
+–In 1949, 50% mortality for 50% TBSA burn
+I 1949 50%
+t lit f 50% TBSA b
+–In 2009, 50% mortality for 98% TBSA burn
+
+5
+Page 27 of 86
+
+ Overview
+• In
+In 2006, was awarded Directorship of Burn 
+2006 was awarded Directorship of Burn
+Unit at Stroger Hospital
+– 2006; 200 admissions, 10% insured
+2006; 200 admissions 10% insured
+– 2011;362 admissions, 70% insured
+2011;362 admissions 70% insured
+– Continue to care for all indigent and all uninsured
+C ti
+t
+f
+ll i di t d ll i
+d
+• Stroger burn unit does not refuse care to anyone
+
+6
+Page 28 of 86
+
+ Statistics 2011
+Statistics 2011
+• For
+For the fiscal year of 2011, the John H. Stroger, Jr. 
+the fiscal year of 2011 the John H Stroger Jr
+Hospital of Cook County Burn Services saw a total 
+of 758 patients: a 27% increase from 2010.
+p
+– 362 inpatient admissions
+– 310 consults (176 in ER and Trauma; 134 in‐house 
+referrals)
+– 1040 clinic visits. 
+7
+Page 29 of 86
+
+ Statistics 2011
+Statistics 2011
+• Th
+The mean age of all patients was 36±22 years
+f ll ti t
+36±22
+• The definition of 1% TBSA 
+• The % total burn surface area (TBSA)  of all 
+patients was 8.8% (=National norm)
+• The length of stay is measured by the ratio of 
+y/
+y/
+(
+days/%TBSA as 3 days/% burn (=National 
+norm).
+8
+Page 30 of 86
+
+ Statistics for 2012
+Statistics for 2012
+• 70 admissions for the first two months of 2012
+70 admissions for the first two months of 2012
+– Had 362 admissions in 2011
+
+• Burn size (% TBSA) increased
+Burn size (% TBSA) increased
+• Pediatric admissions increased
+• Insured status constant (70%)
+I
+d t t
+t t (70%)
+– Have seen increase in referrals from outside hospitals
+– Have seen increase in Workman’s compensation type 
+H
+i
+i W k
+’
+ti t
+injury sent to the Burn Center from outside hospitals.
+
+9
+Page 31 of 86
+
+ Total Number
+
+Department of Trauma
+Encounters By Injury Type
+
+ 
+
+6000
+
+5000
+
+4000
+Other
+
+3000 Late Effects
+Burn
+
+200? Penetrating
+I Blunt
+
+1000
+
+ 
+
+ 
+
+2006 2007 2008 2009 2010 2011
+YEAR
+
+10
+
+Page 32 of 86
+
+Department of Trauma
+Department
+of Trauma
+Burn/Wound Center
+20042004-2011
+400
+350
+# pattients
+
+300
+250
+
+Inpatients
+Consults
+IHConsults
+
+200
+150
+100
+50
+0
+2004 2005 2006 2007 2008 2009 2010 2011
+
+11
+Page 33 of 86
+
+ Admissions
+BURN/WOUND CENTER
+20072007-2011
+300
+Burn
+Non-Burn
+
+250
+50
+200
+# 150
+100
+50
+0
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+12
+
+Page 34 of 86
+
+ Patient Sources
+Burn Center
+Burn 
+Center
+2010‐
+2010‐2011
+60
+2010
+2011
+
+50
+40
+%
+
+30
+20
+10
+0
+ct
+
+e
+sf
+an
+Tr
+
+re
+Di
+
+H
+C
+C
+ic
+in
+Cl
+
+r
+13
+Page 35 of 86
+
+ % Burn Patients by Mechanism of Injury
+2008
+2008--2011
+40
+
+Scald
+Flame
+Contact
+Chemical
+Electric
+
+35
+30
+25
+% 20
+15
+10
+5
+0
+2008
+
+2009
+
+2010
+
+2011
+
+14
+Page 36 of 86
+
+ % Burn Patients by Burn Group
+2008
+2008--2011
+70
+60
+
+2008
+2009
+2010
+2011
+
+50
+%
+
+40
+30
+20
+10
+0
+
+la
+ha
+In
+tio
+
+%
+40
+
+%
+19
+
+0%
+>4
+
+20
+
+10
+
+%
+<5
+
+n
+15
+Page 37 of 86
+
+ % Burn Patients by Race
+2008
+2008--2011
+60
+
+2008
+2009
+2010
+2011
+
+50
+40
+% 30
+20
+10
+0
+er
+th
+O
+ic
+an
+sp
+Hi
+an
+si
+ca
+au
+C
+
+A
+A
+
+16
+Page 38 of 86
+
+ Department of Trauma & Burns
+Burn Center Data‐Job related
+b l d
+80
+60
+Caucasian
+Hispanic
+African-American
+Other
+
+50
+40
+30
+20
+10
+0
+20
+04
+20
+05
+20
+06
+20
+07
+20
+08
+20
+09
+20
+10
+20
+11
+
+% Patients
+
+70
+
+17
+Page 39 of 86
+
+ Department of Trauma & Burns
+Department
+of Trauma & Burns
+Burn Center Data 2004‐2011‐Mortality 
+3.5
+
+% Pa
+atients
+
+3
+2.5
+2
+Mortality
+
+1.5
+1
+05
+0.5
+0
+2004 2005 2006 2007 2008 2009 2010 2011
+
+18
+Page 40 of 86
+
+ BURN CENTER GOALS for 2012
+Main Goal for 2012 :
+A hi
+Achieve Accreditation  by the American Burn 
+A
+di i
+b h A
+i
+Association as a verified Burn Center
+• 1) Obtain 3rd Burn Attending
+• 2) Obtain Burn Unit dedicated Physical &     
+Occupational Therapists
+• 3)Internal analysis to optimize billing
+• 4)Competitive analysis to increase market      
+share
+19
+Page 41 of 86
+
+ THE DEPARTMENT OF TRAUMA AND BURN
+SERVICES
+
+
+
+WI.
+
+
+
+
+
+
+
+   
+
+
+
+TRAUMA UNIT
+
+ 
+
+Cook County Health and Hospitals System
+Minutes of the Board of Directors Meeting
+February 24, 2012
+
+ATTACHMENT #4
+
+Page 43 of 86
+
+  
+
+ 
+
+ 
+
+Preparing CCIPH for
+National Accreditation
+
+ 
+
+
+
+
+
+
+
+
+
+
+Identify the purpose and benefits of
+Accreditation
+List the 7 steps of the Accreditation Process
+Identify the 12 Domains in the Public Health
+Accreditation Board (PHAB) standards and
+measures
+Understand your role in the Accreditation
+Process
+Identify Next Steps for CCDPH
+Page 45 of 86
+
+ 
+
+
+
+
+
+
+
+The measurement of a health department’s
+performance against a set of nationally
+recognized, practice-focused and evidencedbased standards.
+The issuance of recognition of achievement
+of accreditation within a specified time frame
+by a nationally recognized entity.
+The continual development, revision, and
+distribution of public health standards.
+The result of many years of deliberate work!
+Page 46 of 86
+
+ 
+
+
+
+
+
+Leadership
+Strategic Planning
+Customer focus
+Workforce development
+Evaluation and quality improvement
+
+Page 47 of 86
+
+ 
+
+The goal of the national public health
+department accreditation program is to
+improve and protect the health of the public
+by advancing the quality and performance of
+state, local, tribal, and territorial public health
+departments.
+
+Page 48 of 86
+
+ 
+
+
+
+
+
+
+
+
+Identifies success and opportunities for
+improvement
+Platform for quality improvement
+Means for accountability
+Energizes the staff
+Increases the understanding of public health
+Improves communication with governing entities
+Initiates new partnerships
+
+Page 49 of 86
+
+ 
+
+
+
+
+
+
+
+National recognition for public health practice
+Opportunity to engage the public health workforce
+Access to network of public health experts
+Focus on improving the health department
+Potential access to new funding streams
+Potential streamlining of grant reporting
+Participation in developing a strong data base for
+exploring best practices
+
+Page 50 of 86
+
+ 
+
+
+
+Inconsistent
+measurement of work
+for quality and
+performance
+improvement
+Workforce training
+opportunities focused
+on specific technical
+content
+
+Present State
+
+
+
+
+
+Consistent
+measurement of work
+including annual
+review of quality
+improvement activities.
+Workforce training
+focused on core
+competencies
+
+Future State
+Page 51 of 86
+
+ 7.
+
+Reaccreditation
+6.
+
+Reports
+5.
+
+Accreditation Decision
+4.
+
+Site Visit
+3.
+
+Documentation Selection & Submission
+2.
+
+Application
+1.
+
+Page 52 of 86
+
+Pre-application
+
+ 
+
+Identify Accreditation Coordinator and
+Convene Accreditation Team
+
+
+
+Complete Readiness Checklist
+
+
+
+Submit Statement of Intent (SOI)
+
+Page 53 of 86
+
+ 
+
+
+Complete on-line application.
+Submit 3 prerequisites
+
+◦ Community Health Assessment (WePlan 2015)
+◦ Community Health Improvement (WePlan 2015)
+◦ Department Strategic Plan
+
+
+
+Applicant training
+
+Page 54 of 86
+
+ Identify
+
+acceptable documents that comply
+with Standards & Measures that support that
+the standard has been met.
+All
+
+documentation must be electronic.
+
+Page 55 of 86
+
+ 
+
+
+
+
+Conducted by trained peer reviewers.
+Teams of 3 to 4 with a team chair.
+Will last 2 to 3 days with a set agenda.
+Report due within 2 weeks
+after visit.
+
+Page 56 of 86
+
+ Written
+
+notification to health department.
+Two possible decisions
+◦Accredited
+◦Not accredited
+Accreditation certification is valid for:
+5 years
+If not accredited, action plan due within 90 days.
+
+Page 57 of 86
+
+ •Annual
+
+progress report.
+•Reporting any substantial changes in the
+organization that impact the ability to
+conform to the standards.
+
+Page 58 of 86
+
+ Step 7: Reaccreditation
+
+Must complete the full accreditation process.
+
+ 
+
+?k COUNTY HEALTH
+2; HOSPITALS Cook county 
+
+ 
+
+Page 59 of 86 a 
+
+ 
+
+
+
+
+
+Rates will operate on a sliding scale based on the size
+of the health department’s jurisdiction.
+PHAB’s Fee Schedule will be published annually.
+
+Page 60 of 86
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+An assigned accreditation specialist to guide CCDPH through the
+application process.
+Site visit, including a comprehensive review of CCDPH’s operations
+against the national accreditation standards by a team of peer
+review experts.
+In-person training.
+24/7 access to PHAB’s online accreditation information system,
+making it easier and more cost-efficient for departments to
+participate in accreditation.
+Annual quality improvement monitoring and evaluation for 5 years
+by the assigned accreditation specialist.
+Access to a growing network of accredited local health departments
+and best practices.
+Identified opportunities for improvements to help your health
+department better serve its population
+Page 61 of 86
+
+ Improve
+
+Improve
+
+Improve
+
+Improve
+
+Accreditation
+
+Re-accreditation
+
+Improving the public’s health through continuous quality improvement
+
+Page 62 of 86
+
+ Public Health Accreditation
+Domain Wheel
+
+ 
+
+Page 63 Of 86
+
+
+
+Conduct and disseminate assessments
+focused on population health status and
+public health issues facing the community.
+
+Lead: Michael O. Vernon, DrPH
+
+Page 64 of 86
+
+ 
+
+Investigate health problems and
+environmental public health hazards to
+protect the community.
+
+Lead: Thomas Varchmin, LHEP
+
+Page 65 of 86
+
+ 
+
+Inform and educate about public health issues
+and functions.
+
+Lead: Christina Welter, DrPh, MPH
+
+Page 66 of 86
+
+ 
+
+Engage with the community to identify and
+address health problems.
+
+Lead: Christina Welter, DrPh, MPH
+
+Page 67 of 86
+
+ 
+
+Develop public health policies and plans.
+
+Leads: Sandra Martell, RN, DNP
+Sean McDermott
+
+Page 68 of 86
+
+ Domain 6
+Enforce public health laws.
+
+Lead: Jessica Pipersburgh
+
+ 
+
+COOK COUNTY HEALTH
+8: HOSPITALS SYSTEM Cook County Department
+
+cm of Public Health
+Page690f86
+
+ 
+
+
+
+Promote strategies to improve access to
+health care services.
+
+Lead: Barbara Fisli, RN, PhD
+
+Page 70 of 86
+
+ 
+
+Maintain a competent public health
+workforce.
+
+Leads: John Clark
+Jessica Pipersburgh
+
+Page 71 of 86
+
+ 
+
+Evaluate and continuously improve processes,
+programs, and interventions.
+
+Leads: Linda Rae Murray, MD, MPH
+Barbara Farrell, RN, MS, MJ
+
+Page 72 of 86
+
+ 
+
+Contribute to the evidence base of public
+health.
+
+Leads: Christina Welter, DrPh, MPH
+Steven Seweryn, EdD, MPH
+
+Page 73 of 86
+
+ Domamii
+
+Maintain administrative and management
+capac?y.
+
+Lead: Noreen Lanahan
+
+ 
+
+-. COOK COUNTY HEALTH
+f; 3* "05"?5 575?? Cook County Department
+
+ 
+
+Page 74 of 86
+
+ 
+
+ 
+
+◦ Build a strong and effective relationship
+with governing entity.
+Lead: Sean McDermott
+
+Page 75 of 86
+
+ 
+
+
+
+
+
+
+
+
+
+Accreditation Team (AT) is in place and
+meeting on a bi-weekly basis.
+Accreditation Coordinator selected – Valerie
+Webb, MPH
+All AT members have completed PHAB
+orientation
+Readiness Checklist completed.
+Accreditation fee has been budgeted.
+Orientation has been completed for all
+CCDPH staff.
+Page 76 of 86
+
+ 
+
+
+
+
+
+Orientation completed for Cook County
+Health and Hospitals System Leadership.
+Orientation in process for Cook County
+Health and Hospitals System Board.
+Statement of Intent submitted and accepted
+February 13, 2012.
+
+Page 77 of 86
+
+ 
+
+
+
+
+
+
+Orientation to Cook County Board of
+Commissioners – Board of Health
+Submit application - June 2012
+Collection, review and submission of
+documents – over next 9 months
+Achieve Accreditation - 2013
+
+Page 78 of 86
+
+ 
+
+
+
+
+
+
+
+
+Be knowledgeable about the function of CCDPH in
+achieving the standards identified in the 12
+domains.
+Serve as content experts at the site visit.
+Inform the community about the Accreditation
+Process.
+Be responsive to any request that you might receive
+in support of accreditation.
+Be Aware, Get Prepared, Take Action!
+
+Page 79 of 86
+
+ 
+
+
+Newsletter (CCHHS Notes)
+PHAB (www.phabboard.org)
+
+◦ PHAB Guide to National Public Health Department
+Accreditation Version 1.0
+◦ PHAB Standards and Measures Version 1.0
+
+
+
+Centers for Disease Control and Prevention
+(www.cdc.gov/ostlts/accreditation/index.html)
+◦ National Voluntary Accreditation for Public Health
+Departments
+
+
+
+NACCHO – National Association of County and
+City Health Officials (www.naccho.org)
+◦ Accreditation Preparation Toolkit
+Page 80 of 86
+
+     
+     
+     
+
+Ely-?3' 
+
+  
+
+.153]. -
+
+
+~21? 5" 
+. I If!?
+
+r?f 
+
+COOK COU
+
+ACCHED
+
+
+
+      
+    
+
+       
+      
+ 
+
+ 
+
+u" 
+
+
+.J - 
+'i'r 
+
+din-lb furl."
+
+IF 111ng
+
+
+c??r r. COOK COUNTY HEALTH
+3 8: HOSPITALS SYSTEM Cook County Department
+
+of Public I'Ieul'l'll
+
+ 
+
+Page 81 of 86
+
+ 
+
+Cook County Health and Hospitals System
+Minutes of the Board of Directors Meeting
+February 24, 2012
+
+ATTACHMENT #5
+
+Page 82 of 86
+
+  
+RAM RAJU, MD, MBA, FACHE, FACS 
+CHIEF EXECUTIVE OFFICER 
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM 
+REPORT TO THE BOARD OF DIRECTORS 
+February 24, 2012 
+ 
+FY 2012 BUDGET 
+Revenue  cycle  performance  is  reviewed  in  detail  at  weekly  meetings  led  by  the  CEO.    Additionally,  
+regular meetings are being held to analyze the status of the backlog in Medicaid applications;  present at 
+these  meetings  are  representatives  from  CCHHS,  Cook  County,  the  Governor’s  office,  the  Illinois 
+Department of Healthcare and Family Services, and the Illinois Department of Human Services.   
+In  January  2012,  the  System  realized  $40.9  million  in  retroactive  payment    adjustments  as  a  result  of 
+alterations  proposed  by  CCHHS  and  accepted  by  HFS  to  rate  methodology  calculations.    An  additional 
+$8.5M in retroactive payments as a result of these adjustments is anticipated to be paid on February 28, 
+2012.  This second group of payments relates to past outpatient activity. 
+ 
+
+Gross   
+
+ 
+
+Net or payment (cash) received  
+
+ 
+
+$40,884,855 
+
+ 
+
+$6,657,987.02   
+
+$3,277,727  
+
+*(Stroger Hospital Outpatient)   
+
+*$10,685,345.10 
+
+* $5,260,395 
+
+Total Rate Retro 
+
+*$100,391,992.12 
+
+*$49,422,977 
+
+January payment 
+
+ 
+
+ 
+
+ (Provident and Stroger Hospitals) 
+
+ 
+$83,048,660 
+
+February payment 
+(Oak Forest) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+*Although CCHHS already received notice of payment for Feb 28th this is an estimate of the retroactive 
+rate portion ‐ the retroactive rate payment amount to be confirmed by the State. 
+
+Page 83 of 86
+
+ 1115 WAIVER 
+With  President  Preckwinkle  we  recently  concluded  a  series  of  briefings  with  members  of  the  Illinois 
+General  Assembly  regarding  the  1115  Waiver  request,  and  the  necessary  enabling  legislation.    The 
+proposed  legislative  language  has  been  drafted.    The  waiver  document  has  been  widely  disseminated 
+and we have responded to numerous stakeholder inquiries.  Among others, I or my team have met with 
+and briefed the Illinois Primary Healthcare Association, Maryjane Wurth and Illinois Hospital Association 
+staff, the Metropolitan Chicago Healthcare Council (MCHC) Policy and Advocacy Council, a large group of 
+local FQHC’s and community clinics, several hospital CEO’s, and others; further outreach is planned.  An 
+1115  Waiver  Steering  Committee  has  been  established  and  meets  weekly  with  three  working  groups 
+reporting.    The  implementation  workgroups  are  Care  Management,  Empanelment/Registry  and 
+Administration  and  are  progressing.    We  are  currently  responding  to  a  request  of  HFS  to  provide  that 
+department  with  staff  to  lead  on  this  project  ‐  there  is  a  particular  focus  being  given  to  eligibility 
+screening/enrollment potential options.  Our initial meeting with CMS, HFS, and CCHHS is scheduled for 
+February 24th, at 10:00 a.m. 
+OAK FOREST HEALTH CENTER 
+The Capital Committee continues to make progress in the planning of the Oak Forest Health Center.  On 
+February  10th  committee  members  along  with  clinical  stake  holders  toured  a  radiology  center  which 
+offered  assistance  in  mapping  out  patient  flow  and  layout  for  the  ground  floor  of  the  OFHC.    The 
+presentation to the Board of Directors for the design of the Oak Forest Health Center has been moved 
+up from the April 27th Board Meeting to the March 29th Board Meeting.  The Immediate Care Center will 
+move  to  the  New  “E”  Building  on  February  25th.    Also,  the  OFHC  Volume  Statistics  Dashboard  is  now 
+posted on the health center’s page on the new CCHHS website and will be updated monthly.   
+PUBLIC HEALTH UPDATE 
+The  Cook  County  Department  of  Public  Health  in  partnership  with  the  CPPW  (Communities  Putting 
+Prevention to Work) team held the final session of the Change Institute on February 14, 2012 in Alsip, 
+Illinois to acknowledge the work of the 38 Model Communities grant recipients in implementing policy, 
+system and environmental strategies to make “healthy choices” available to improve the health status 
+of  residents.    Strategies  ranged  from  plans  to  develop  walking  paths  and  mass‐transit  to  increasing 
+healthy  food  options  and  physical  activity  in  schools.    The  participants  highlighted  their  strategies 
+
+2   P a g e  
+ 
+
+Page 84 of 86
+
+ through presentations and poster sessions and emphasized a commitment to sustaining these initiatives 
+beyond the funding cycle. 
+SCHWARTZ ROUNDS 
+The  Schwartz  Center  for  Compassionate  Care  was  founded  in  1995  by  Kenneth  Schwartz  who  died  of 
+lung cancer. The mission of the Center is to promote healthcare so that patients and their professional 
+caregivers relate to one another in a way that  provides hope to the patient, support and nurturing to 
+caregivers  and  sustenance  to  the  healing  process.  Schwartz  Center  Rounds®  is  one  of  the  programs 
+offered  by  the  Center.  The  Rounds  provide  an  interdisciplinary  and  interdepartmental  forum  where 
+caregivers discuss difficult emotional and social issues inherent in patient care. The Rounds discussion 
+focuses  on  a  specific  patient  case.  A  panel  of  multidisciplinary  caregivers  describes  their 
+experience caring  for the  patient  and  the  impact  it  had  on  them.  This  is  followed  by  a 
+facilitated discussion among attendees. These rounds differ from clinical or management rounds in that 
+they  address  the  ethical,  psychological,  and  emotional  concerns  that  arise  during  the  patient's  illness, 
+not the medical issues. The Rounds serve to nurture the caregivers in a safe and confidential forum. 
+ Stroger Hospital's  first  Schwartz  Center  Rounds  was  held  in  September  2011.  Since  then  Schwartz 
+Rounds have been held monthly and thus 6 sessions have been held that have been very well attended 
+by various disciplines consisting of physicians, RNs, social workers, occupational /physical therapists, lab 
+and  clerical  workers.       Benjamin Mba, MD, MRCP (UK), FACP, FHM  is  the  organizer  and  driving  force 
+behind this activity and I want to thank him for his efforts and for bringing this great learning tool to our 
+system.   
+For  your  information  attached  is  an  article  titled  The  Schwartz  Center  Rounds:  Evaluation  of  an 
+Interdisciplinary  Approach  to  Enhancing  Patient‐Centered  Communication,  Teamwork,  and  Provider 
+Support by Beth A. Lown, MD, and Colleen F. Manning, MA which provides an evaluation of the impact 
+of  such  rounds  at  other  institutions.     Also,  the  New  York  Times  article,  Well:  Sharing  the  Stresses  of 
+Being a Doctor by Pauline W. Chen, M.D., regarding the subject,  is also attached.  
+
+3   P a g e  
+ 
+
+Page 85 of 86
+
+ NEW WEBSITE 
+In the beginning of February we launched our new website www.cookcountyhhs.org.  The new website 
+is aimed at providing public information for patients, employees, and the public at large.  When you log 
+on, you will find basic information about accessing our services, locating our facilities, finding a job or 
+how  to  do  business  with  CCHHS  as  well  as  profiles  about  our  elite  medical  staff  and  reports  of  our 
+committee  and  board  meetings.    There  is  also  a  news  section  which  highlights  upcoming  events 
+including a health observance calendar that highlights what we are doing throughout the system toward 
+keeping our patients healthy.  This is just the start of a new look and feel to our on‐line presence and I 
+encourage everyone to stay connected to CCHHS. 
+I would like to thank Marisa Kollias our Interim Director of Public Relations for undertaking this project 
+that was developed at an accelerated pace and completed on time and under budget. 
+
+ 
+
+4   P a g e  
+ 
+
+Page 86 of 86
+
+ 

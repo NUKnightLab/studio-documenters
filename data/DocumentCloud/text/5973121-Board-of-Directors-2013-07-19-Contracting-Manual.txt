@@ -1,0 +1,1568 @@
+ 
+
+
+INFRASTRIIBTIIRE
+TRUST
+
+ 
+
+ 
+
+Chicago Infrastructure Trust
+Contracting Manual
+
+Version 1.0
+
+July 19, 2013
+
+CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Introduction
+In April 2012, the Chicago Infrastructure Trust (“CIT” or the “Trust”) was created via executive order
+and Chicago City Council resolution. The Trust will provide focus and leadership to build a pipeline of
+executable Public-Private Partnership (“P3”) projects that will meet Chicago’s infrastructure needs,
+drive economic development and create jobs. Public-Private Partnership contracting is valuable to
+the people of the City of Chicago because it harnesses private investment, expertise and innovation
+to complete important infrastructure projects that the City of Chicago could not complete using
+traditional public finance. In addition, P3 contracting leverages the technical and operating expertise
+of private industry to perform design, construction, operational and maintenance functions that may
+not be core competencies of the City of Chicago.
+This Contracting Manual explains how the Trust will identify infrastructure projects and the process
+and procedures for contracting using private partners. It includes policy discussions that will help
+architects, engineers, construction companies, financing sources, service companies, other interests
+and citizens understand how the Trust will operate.
+Please note that terms in the manual will evolve over time, and you should look for the most current
+version on the Trust’s website, www.shapechicago.org.
+
+Version 1.0   July 19, 2013
+
+2
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Table of Contents
+I.
+
+Definitions
+
+4
+
+II.
+
+Best Practices Concepts
+
+7
+
+III.
+
+Initial Programs and Project Selection
+
+10
+
+IV.
+
+Conflicts of Interest
+
+13
+
+V.
+
+Project Advertisement/Announcement
+
+14
+
+VI.
+
+Proposal Selection Process
+
+15
+
+VII.
+
+Proposal Evaluation
+
+20
+
+VIII.
+
+Award of Contract
+
+23
+
+IX.
+
+Rights and Obligations of the Chicago Infrastructure Trust
+
+24
+
+X.
+
+Pre-Development Agreement, Interim Agreement and
+Comprehensive Agreement
+
+27
+
+XI.
+
+Project Acceptance
+
+33
+
+XII.
+
+Summary
+
+34
+
+Version 1.0   July 19, 2013
+
+3
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Definitions
+There are a variety of terms that are used regularly in discussing infrastructure contracting.
+Definitions for a number of these terms are set forth in this Section I.
+a. Potential Roles for Private Partner
+i. Design – Create design for a project as specified in the contracting process through
+competitive bid, collaborative bid, unsolicited bid, citizen-proposed bid or schedule
+contracting.
+ii. Build – Provide a plan and complete construction of an approved design as
+specified, within an agreed time-frame. The builder shall have the capability, in all
+respects, to perform fully the contract requirements and has the business integrity
+and reliability that will assure good faith performance.
+iii. Finance – Secure and provide financing to build and operate project requested.
+Methods to finance can include government grants, government loans, public debt,
+private debt and private equity. In many projects, there will be a mix of these
+sources. Financing approaches will be considered as part of the evaluation process.
+This will occur on a case-by-case basis, but generally the Trust will be concerned
+with the value for money, financial return, financial capability and capacity of the
+bidder.
+iv. Operate – Assume responsibility to manage and staff an asset for a defined period,
+according to project specifications. Operational performance will be subject to
+review at regular intervals and on an ad-hoc basis.
+v. Maintain - Assume responsibility to maintain and support an asset for a defined
+period, according to project specifications. Maintenance performance will be subject
+to review at regular intervals and on an ad-hoc basis.
+b. Additional Relevant Terms
+i. Availability Payment – Compensation made by the Trust to a private
+concessionaire for its responsibility to design, construct, operate, and/or maintain an
+asset for a set period of time, based upon particular project milestones or facility
+performance standards.
+
+Version 1.0   July 19, 2013
+
+4
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ii. Best Price – The proposal that provides the lowest price to fulfill the requirements
+as predetermined by the RFP.
+iii. Best Value - The overall combination of quality, price and various elements of the
+required services that, in total, are optimal relative to the Trust’s needs, as
+predetermined in the RFP.
+iv. Contract – The written agreement between the Trust and a vendor for the provision
+of goods and/or services to the Trust by that vendor.
+v. Evaluation Team – The board of directors and management personnel of the Trust,
+plus any additional third-party experts or advisors the Trust deems necessary, to
+evaluate proposals including RFI/RFQ/RFP, unsolicited bids, collaborative bids, bids
+from citizens or schedule bids. The evaluation team may vary by project depending
+upon the expertise required for evaluation.
+vi. “Offeror” (also referred to as Bidder) - any individual, partnership, corporation, or
+joint venture that formally responds to a Request for Information (RFI), Request for
+Qualifications (RFQ) or Request for Proposal (RPF). It also refers to suppliers who
+submit unsolicited proposals, participate in collaborative proposals or submit
+qualifications to be a schedule supplier. Offeror or bidder can include any company,
+firm, partnership, corporation, association, joint venture, or other entity permitted by
+law to practice engineering, architecture, construction contracting, or other services
+required in the City of Chicago. Any company, firm, partnership, corporation, joint
+venture or other entity that is barred or ineligible to perform the services required in
+the City of Chicago will be excluded. Typically, the term offeror (or bidder) is used
+prior to the award of a contract.
+vii. Private Entity (also referred to as a Contractor) – The private interest involved in
+P3 contracting that partners with the Trust to implement a project.
+viii. Request for Information (RFI) – A solicitation sent to potential suppliers for the
+purpose of securing feedback, developing strategy, building a database and
+understanding potential project approaches based on the suppliers’ expertise. While
+it is part of the competitive contracting process, it does not lead directly to
+contracting, which is done based on a follow-up RFP or RFQ.
+
+Version 1.0   July 19, 2013
+
+5
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ix. Request for Proposals (RFP) – A solicitation to identify a preferred bidder to
+implement a new project. This can include any or all phases of the project: design,
+build, finance, operate and maintain. Bidders should expect to furnish evidence of
+their experience and ability to meet the Trust’s requirements along with a proposed
+price when responding to an RFP. This is because the Trust is as concerned with
+the Bidder’s capability as with its proposed price.
+x. Request for Qualifications (RFQ) – A solicitation released to obtain qualifications
+that will identify best-qualified bidders that possess a technical expertise in specific
+disciplines, financial capacity, financing capability and operating capability. RFQs
+differ from RFPs in that pricing information is not requested. Often, an RFQ will be
+issued to identify a set of potential bidders to receive an RFP.
+xi. Sister Agencies – A group of agencies that serve the people of the City of Chicago
+but subject to approval by the Chicago City Council, including: Chicago Public
+Schools (CPS); Chicago Housing Authority (CHA); Chicago Park District (CPD);
+Chicago Transit Authority (CTA); City Colleges of Chicago (CCC); Metropolitan
+Pier & Exposition Authority (MPEA); Metropolitan Water Reclamation District of
+Greater Chicago (MWRDGC) and Public Building Commission (PBC).
+xii. Special Purpose Entity (SPE) – Any one or more companies, firms, partnerships,
+corporations, joint ventures or other entities created or used for the express purpose
+of completing a project. They may be multi-disciplinary in nature to provide expertise
+for all required phases of a project. An SPE may be created in order to execute a
+contract with the Trust or with a bidder.
+
+xiii. Value for Money – The process of developing and comparing total project costs
+when considering traditional contracting vs. alternative contracting such as a P3.
+Value for money exists when the risk-adjusted costs of alternative contracting are
+less than the risk-adjusted costs of traditional contracting.
+
+Version 1.0   July 19, 2013
+
+6
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+II.
+
+Best Practices Concepts
+The Trust will structure each project to meet the specific needs of the people of the City of
+Chicago for successful completion. In general, projects will typically reflect a set of key best
+practices for Public-Private Partnerships:
+a. Stakeholder Alignment – The Trust will secure alignment among stakeholders from all
+relevant departments and agencies of the City of Chicago and the Chicago City Council.
+This will create stability in the contracting process and provide assurance to participants
+of the commitment to projects for which bid requests are released. Approval of terms of
+final bids may be subject to approval of the Chicago City Council or other Agency boards
+or Commissions, prior to contracting.
+b. Duration – Agreements will typically run for 20 – 40 years, to enable building of realistic
+financial models.
+c. Shared Revenue Streams – To create a true partnership between public and private
+entities, agreements may be designed to create mutual on-going interest through shared
+revenue streams.
+d. Asset Ownership – The Trust or City will typically retain ownership of underlying assets
+(e.g., real estate, roads, right-of-ways) even when procuring long-term operating and
+maintenance.
+e. Shared Risk and Risk Allocation – Risks associated with the project will be allocated
+between the public and private sectors based upon the party best able to manage and
+mitigate them. Shared risk is a cornerstone of alternative contracting models.
+f.
+
+Risk Transfer - As the private entity assumes a greater share of responsibility via project
+requirements, the private entity assumes a greater share of the risk. The table below
+describes the range of potential project requirements and the associated degree of risk
+transfer.
+
+Version 1.0   July 19, 2013
+
+7
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Figure 2.0 Project Requirements and Risk Transfer
+
+Risk
+Transfer
+
+100%
+Public
+
+Project Requirements
+
+Design – Build
+
+Description
+
+•
+•
+•
+•
+•
+
+Design – Build with
+Operating Contract
+•
+
+•
+Design – Build – Finance
+•
+•
+•
+Design – Build – Finance
+– Operate – Maintain
+•
+
+•
+•
+100%
+Private
+
+Asset Sale/Full
+Privatization
+
+Version 1.0   July 19, 2013
+
+•
+
+Traditional contracting
+Government contracts for the design and
+construction of assets directly
+Mix of interim and completion payments
+Government to manage and operate assets
+Traditional contracting with an operating
+contract with private sector for operating the
+assets post construction
+Often operating contract includes a payment
+penalty mechanism to ensure performance
+Trust contracts with private developer to
+deliver newly constructed assets
+Payment at completion or paid over time as
+lease
+Government to manage and operate assets
+Trust contracts with private developer to
+deliver newly constructed assets and
+operate under a long-term “concession”
+agreement
+Government and/or Trust can (a) pay fixed
+“availability payments” quarterly or (b) grant
+rights to the Private Developer to collect
+fees or tolls
+20-year+ operating period post-construction
+Government and/or Trust sells constructed
+assets to Private sector
+Government and/or Trust may retain some
+monitoring and enforcement rights
+
+8
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+g. Full Scale Projects vs. Demonstration Projects – The Trust will target full-scale projects
+for competitive bids as opposed to demonstration projects.
+i. Full-scale projects demonstrate a more significant commitment on behalf of the Trust
+and the City of Chicago than demonstration projects
+ii. Consequently, they present the greatest opportunity to attract the strongest interest
+from private partners who respond to RFIs/RFQs/RFPs. This will maximize
+competition within the private sector and provide the most advantageous terms to
+the people of the City of Chicago.
+h. Evaluation Based on Short-term and Long-term Factors – The Trust will consider a
+range of short-term and long-term factors when evaluating project approaches and bids,
+to ensure that completed projects best serve the needs of the people of the City of Chicago.
+These will be discussed in greater detail in Section VII, Proposal Evaluation. In general
+they include:
+i. Financial
+ii. Technical
+iii. Timeline
+iv. Experience
+v. Appropriateness of Recommended Approach
+
+Version 1.0   July 19, 2013
+
+9
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+III.
+
+Initial Programs and Project Selection
+a. Initial Programs - The broad mandate for the Trust is to provide alternative, innovative
+financing and project delivery for transformative infrastructure projects of all types –
+including but not limited to renewable energy, transportation, utilities, social or cultural
+facilities, government facilities, educational facilities, water, waste management, real
+property, telecommunications, etc. Over time, the Trust anticipates working on projects
+across the infrastructure spectrum; however, in order to focus its early efforts, the Trust
+has prioritized the following initial program areas:
+•
+
+Energy: Leverage energy technologies, systems or programs to provide more cost
+effective and environmentally friendly energy or reduce energy consumption.
+
+•
+
+Underutilized Property: Repurpose underutilized city assets (land, improved
+properties, rooftops, right-of-ways, etc.) to their highest and best use to reduce
+cost and increase revenue.
+
+•
+
+Transportation: Facilitate cost-effective renewal or expansion of transportation
+infrastructure to provide better service at a lower cost and reduce congestion.
+
+At all times, the Trust is open to exploring infrastructure projects of all types or receiving
+unsolicited proposals related to any infrastructure project that aligns with its mandate.
+b. Project Selection - The Trust will identify projects from a range of sources: its own
+research about emerging technologies and best practices; City of Chicago and Sister
+Agency operational goals, infrastructure needs and capital budget constraints; and input
+from potential investors, citizens, public interest groups and other potential users. Both
+greenfield and brownfield projects, defined as follows, will be considered:
+•
+
+Brownfield Projects: Existing assets or structure that require improvements, repairs
+or expansion and may be partially operational or generating income.
+
+•
+
+Greenfield Projects: Assets or structures that need to designed and constructed
+where no infrastructure improvements exist.
+
+Version 1.0   July 19, 2013
+
+10
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Figure 3.0 Example Projects
+
+PROGRAMS
+
+Energy
+
+Greenfield
+
+Brownfield
+
+•
+
+Vehicle Fuel
+Conversion
+
+•
+
+Renewable
+Energy Programs
+(e.g. wind, solar,
+geothermal)
+
+•
+
+Property
+Assessed Clean
+Energy (PACE)
+
+•
+
+Energy Retrofit
+
+Property
+Utilization
+
+•
+
+•
+
+Develop vacant
+property (market
+uses, affordable
+housing, urban
+agriculture)
+Repurpose
+assets or portions
+of assets to
+higher use
+
+•
+
+Rationalize city
+owned properties
+
+•
+
+Air rights
+development
+
+Transportation
+
+•
+
+New transit modes
+(e.g. Bus Rapid
+Transit)
+
+•
+
+Link transportation
+modes
+
+•
+
+Station
+redevelopment /
+Transit Oriented
+Development
+
+•
+
+Rehabilitate or
+expand existing
+transit
+
+Other /
+Opportunistic
+
+•
+
+Tourism projects
+(attractions,
+amenities,
+services)
+
+•
+
+Telecom
+infrastructure
+
+•
+
+Water or
+wastewater
+renewal or
+expansion
+
+The Trust will maintain a pipeline of potential projects in different phases of pre-procurement
+that will be prioritized based on their economic and social impact and their feasibility. As part
+of the pre-procurement process, the Trust will engage the appropriate stakeholders and
+subject matter experts in the evaluation and development of the project business case and
+procurement approach. In all cases, the Trust will endeavor to obtain the government preapprovals relevant to a given transaction that will increase project certainty for private sector
+participants before the CIT project contracting process is initiated. A high-level overview of this
+pre-approval process for projects that involve assets, rights, permissions and liabilities of the
+City of Chicago is outlined as follows:
+
+Version 1.0   July 19, 2013
+
+11
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+CIT Contracting
+Process
+
+Figure 3.1 Pre-Approval Process for City Projects
+
+Version 1.0   July 19, 2013
+
+12
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+IV.
+
+Conflicts of Interest
+a. The Trust’s consideration of potential conflicts issues will be managed in accordance with
+its Conflicts of Interest Policy.
+b. The Trust reserves the right, in its sole discretion, to make determinations relative
+to potential conflicts of interest on a project specific basis.
+c. The Trust may, in its sole discretion, determine that a conflict of interest or a real or
+perceived competitive advantage may be mitigated by disclosing all or a portion of
+the work product produced by the organization or individual subject to the conflict.
+
+Version 1.0   July 19, 2013
+
+13
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+V.
+
+Project Advertisement/Announcement
+a. The Trust will publish submission requests on its public internet web site,
+www.shapechicago.org.
+b.
+
+The project advertisement will state a general description of the work and any technical
+qualifications desired, and the time frames for submitting a response to the solicitation.
+
+c. The duration of the proposal development period will be based on the project deadlines
+and level of complexity of the project (when allowed by the project schedule).
+d. The Trust may waive or alter a contractor’s pre-qualification requirements based on any
+specialized nature of the project.
+
+e. The Trust has the right to contact potential bidders directly in addition to publishing
+submission requests. Contacting potential bidders directly will not indicate preference in
+the review process.
+
+Version 1.0   July 19, 2013
+
+14
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+VI.
+
+Proposal Selection Process
+a. Solicited Proposals - Solicited proposals will be evaluated as part of a competitive
+bidding process.
+i.
+
+Request for Information (RFI) – The Trust will issue RFIs for specific projects publicly
+via its website (www.shapechicago.org), and reserves the right to contact potential
+suppliers directly with an RFI concurrent with public release. The RFI will include
+project objectives and provide evaluation criteria, and will request feedback, project
+strategy and understanding potential project approaches based on the suppliers’
+expertise. The Trust will not issue contracts based on RFI responses, but will instead
+generally follow the RFI responses with an RFQ or RFP. Based on RFI responses,
+the Trust has the discretion to:
+1. Provide follow-up questions orally or in writing to all of the potential suppliers
+who submit an RFI response or with a subset of the potential suppliers
+2. Issue an open RFQ or RFP to all potential suppliers whether or not they have
+submitted an RFI response
+3. Issue an RFP only to a subset of bidders who have submitted an RFI
+response
+4. Suspend the project
+5. Permanently cancel the project
+6. Reissue the RFI at a later time
+
+ii.
+
+Request for Qualification (RFQ) – The Trust will release RFQs for specific projects
+publicly via its website (www.shapechicago.org), and reserves the right to contact
+potential bidders directly with an RFQ concurrent with public release. The evaluation
+criteria for a project will be published in the RFQ. The criteria will be consistent with
+the qualifications requested and will include a description of the Trust’s project
+understanding, management approach and organizational structure; demonstration of
+applicable experience, manpower and equipment resources; experience in obtaining
+permits, obtaining right-of-way and successfully completing similar projects; and
+
+Version 1.0   July 19, 2013
+
+15
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+financial capability and capacity to complete the work. Based on RFQ responses, the
+Trust has the discretion to:
+1. Provide follow-up questions orally or in writing to all of the potential bidders
+who submit an RFQ response or with a subset of the potential bidders
+2. Proceed to an RFP with all bidders who submit an RFQ response, or with a
+subset of potential bidders
+3. Suspend the project
+4. Permanently cancel the project
+5. Reissue the RFQ at a later time
+iii.
+
+Request for Proposal (RFP) – The Trust will issue RFPs to all bidders, or to a subset
+of all bidders, who respond to an RFQ. The basis of award will be clearly defined in
+the RFP. The RFP will also define proposal requirements, including technical
+requirements and evaluation criteria.
+The evaluation process will consider
+understanding of the project, applicable experience, anticipated complex problems
+and the solutions to those problems. Thoroughness and quality will also be considered.
+
+b. Pre-Development Proposals - The Trust may enter into a pre-development agreement
+when a project is not completely defined; financial feasibility has not been determined, but
+looks financeable on a preliminary basis; or the Trust is seeking private sector innovation
+and expertise in accelerating an optimally feasible project.
+i.
+
+The private partner participates in project planning and design and prepares the
+master financial plan and master development plan.
+
+ii.
+
+The private partner absorbs initial phase work – “sweat equity.”
+
+iii.
+
+If project proves feasible, the private partner may deliver an unsolicited bid or
+participate in a collaborative bid covering implementation.
+
+c. Unsolicited Proposals – Private entities or individuals may choose to submit proposals
+to the Trust when no RFI/RFQ/RFP has been issued.
+
+Version 1.0   July 19, 2013
+
+16
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+i.
+
+The Trust is authorized to receive unsolicited proposals from private entities or
+individuals to design, build, finance, improve, operate and/or maintain facilities or
+projects related to infrastructure. Proposals should be submitted to:
+proposal@shapechicago.org
+
+ii.
+
+Upon receiving an unsolicited proposal, the Trust has the discretion to:
+1. Reject the proposal
+2. Evaluate and enter into negotiations with the private entity or individual that
+submits the proposal.
+3. Publicly request competing proposals from one or more additional suppliers.
+The request for competing proposals will be posted on the Trust’s website
+(www.shapechicago.org) for a specified number of days.
+
+iii.
+
+All content in an unsolicited proposal will be property of the Trust, and the private
+entities or individuals who submit an unsolicited proposal waive all rights to
+confidentiality and copyrights for the use of registered trademarks for the purpose
+of requesting competing proposals.
+
+iv.
+
+In taking any of the actions described above regarding unsolicited proposals, the
+Trust will not undertake any obligation to the private entity or individual that submits
+the proposal until a contract is executed.
+
+d. Collaborative Proposals – In some instances, the Trust will work with a potential partner
+to develop an approach or proposal to address a specific opportunity.
+i.
+
+Based on discussions/joint work, the bidder will submit a proposal that meets
+specific criteria.
+
+ii.
+
+The Trust will then publish a note of interest on its website
+(www.shapechicago.org) to request additional submissions of proposals or ideas
+within a specified number of days.
+
+iii.
+
+Based on responses received, the Trust will have the right to:
+1. Move forward with original responder.
+
+Version 1.0   July 19, 2013
+
+17
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+2. Begin a competitive process by publishing an RFQ or by issuing an RFP to
+two or more responders.
+e. Citizen Submissions – Citizens will submit ideas for potential projects to the Trust.
+i.
+
+Ideas should be submitted to:
+proposal@shapechicago.org
+
+f.
+
+ii.
+
+The Trust will evaluate ideas in the context of current priorities and programs and
+decide whether to pursue through competitive bid, publish a note of interest for a
+collaborative bid or to forward to an appropriate City agency or department, or not
+pursue the proposal.
+
+iii.
+
+All content in citizen submissions will be the property of the Trust and the City of
+Chicago, and the private entities or individuals who submit a proposal forfeit all
+rights to ideas, confidentiality, financial interest and copyrights for the use of
+registered trademarks for the purpose of evaluating proposals or bidding.
+
+iv.
+
+In taking any of the actions described above regarding citizen submissions, the
+Trust will not undertake any obligation for specific action. Also, when citizens
+submit ideas to the Trust, they surrender all ownership of the ideas, copyrights,
+confidentiality and financial interest in the ideas.
+
+Contracting Schedules – For some goods and services the Trust will issue publicly on
+its website (www.shapechicago.org) contracting schedules, similar to GSA or City of
+Chicago schedule contracting, depending upon requirements or task order contracts or
+master consulting agreements.
+i.
+
+Schedule contracting is intended to reduce costs, shorten lead times, operate with
+transparency and increase flexibility and choice.
+
+ii.
+
+The Trust will request specific terms, including item or service, period of time/end
+date, quantities required and price.
+
+iii.
+
+In addition, bidders will be required to demonstrate financial capacity, operating
+capacity and technical capability to provide the item or service specified.
+
+Version 1.0   July 19, 2013
+
+18
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+iv.
+
+Indefinite Delivery/Indefinite Quantity (IDIQ) – for some schedule contracting, the
+Trust will publish IDIQ requests. The Trust will use IDIQ when it cannot
+predetermine, above a specified minimum, the precise quantities of supplies or
+services required during the contract period. Minimum and maximum quantity
+limits are specified in the basic contract as either number of units (for supplies) or
+as dollar values (for services).
+
+Version 1.0   July 19, 2013
+
+19
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+VII.
+
+Proposal Evaluation
+Proposals will be evaluated on a variety of factors that will impact short-term and long-term
+project performance.
+These will be specified on a project-by-project basis in
+RFIs/RFPs/RFQs. In general, these will include:
+a. Financial
+i. Best Value for Money – The proposal provides the best positive value for money
+over traditional public financing. This is calculated as total cost savings vs. traditional
+public financing. This will apply to RFPs only, as RFQs and RFIs do not include
+pricing information.
+ii. Best Price – The proposal that provides the lowest price to fulfill the requirements
+as predetermined by the RFP.
+iii. Best Value - The overall combination of quality, price and various elements of the
+required services that, in total, are optimal relative to the Trust’s needs, as
+predetermined in the RFP
+iv. Financial Impact – The proposal provides the greatest positive cash flows for the
+people of the City of Chicago and the Trust.
+v. Financial Capacity – The proposal demonstrates that the bidder has the financial
+capacity to undertake and fulfill the responsibilities of the project in the short-,
+medium- and long-term.
+vi. Financial Capability – The proposal demonstrates that the bidder can raise the
+necessary financing and provide the funding if the bidder is selected. This typically
+includes commitment letters from prospective lenders, an analysis of the equity
+providers to ensure that they have the necessary liquidity and the bidder’s
+experience in raising financing for similar projects.
+
+Version 1.0   July 19, 2013
+
+20
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+b. Technical
+i. Expertise – The proposal indicates that the bidder has the technical knowledge to
+complete the project as requested.
+ii. Capacity - The bidder has the resources available to ensure that the project is
+completed as requested. This may include the scale to complete large, complex
+multi-year construction projects and to fulfill operating and maintenance obligations
+as requested.
+c. Timeline – The proposal delivers the project per the timeline required and includes
+assessment of risks, plans to mitigate and contingencies.
+d. Qualifications and Experience – The bidder has a proven track record of successfully
+completing similar projects on-time and on-budget. Specifics will vary by project based on
+project requirements, and may encompass design, build, finance, operate and maintain
+criteria. Experience and qualifications include:
+i.
+
+Experience working with the public sector on public-private projects.
+
+ii.
+
+Experience, training and preparation with projects of similar size, scope and
+complexity.
+
+iii.
+
+The extent of personnel, logistical resources, bonding capacity and the ability to
+complete the project in a timely and professional manner.
+
+iv.
+
+Demonstrated record of successful past performance, including timeliness of
+project delivery, compliance with plans and specifications, quality of workmanship,
+effective operation and maintenance of similar projects (if required), cost-control
+and project safety.
+
+v.
+
+Demonstrated compliance with applicable laws, codes, standards, regulations and
+agreements on past projects.
+
+vi.
+
+Demonstrated ability to obtain permits and to successfully pass inspections so that
+timelines are maintained.
+
+vii.
+
+Knowledge of appropriate leadership structure and project manager’s experience.
+
+Version 1.0   July 19, 2013
+
+21
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+viii.
+
+Demonstrated financial capability and capacity on projects of similar size, scope
+and complexity.
+
+e. Appropriateness of Recommended Approach
+i. The bidder provides the soundest approach for project completion. This will apply
+to all project phases specified in the RFI/RFQ/RFP and risk assessment,
+management and mitigation. It may also include management of regulatory and
+permitting issues.
+ii. As necessary, the Trust will use third-party technical advisors/consultants to
+evaluate proposals.
+
+Version 1.0   July 19, 2013
+
+22
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+VIII.
+
+Award of Contract
+a. Contract terms may be subject to approval by the Chicago City Council and/or a Sister
+Agency board.
+b. For competitive bids (RFI/RFQ/RFP), the Trust will select the bid that best delivers project
+requirement criteria, as described in Section VII.
+i.
+
+Project award criteria will be included in requests when they are released.
+
+ii.
+
+Once the successful bidder has been identified, the Trust will perform any
+appropriate follow-up as required. After the follow-up, the Trust will notify the
+successful bidder.
+
+iii.
+
+The Trust can conduct negotiations with the selected bidder to clarify remaining
+issues regarding scope, schedule, financing, etc.
+
+iv.
+
+If RFP evaluation does not indicate a clear winner, the Trust has the right to
+conduct follow-up discussions with all or some of the RFP bidders and request a
+Best and Final Offer (BAFO).
+
+c. For unsolicited proposals and collaborative bids that do not include competitive bidding,
+final terms will be negotiated directly.
+d. For schedule contracting, terms and criteria will be included in the notifications published
+on the Trust website (www.shapechicago.org).
+
+Version 1.0   July 19, 2013
+
+23
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+IX.
+
+Rights and Obligations of the Chicago Infrastructure Trust1
+a. For each project, the Trust reserves to itself all rights (which rights shall be exercisable by
+the Trust in its sole discretion) available to it under applicable law, including without
+limitation, the following, with or without cause and with or without notice:
+
+1
+
+i.
+
+The right to cancel, withdraw, postpone or extend an RFQ/RFP in whole or in part
+at any time prior to the execution by the Trust of the contract, without incurring any
+obligations or liabilities.
+
+ii.
+
+The right to issue a new RFQ/RFP.
+
+iii.
+
+The right to reject any and all submittals, responses and proposals received at any
+time.
+
+iv.
+
+The right to modify all dates set or projected in an RFQ/RFP.
+
+v.
+
+The right to terminate evaluations of responses received at any time.
+
+vi.
+
+The right to suspend and terminate the contracting process for the project, at any
+time.
+
+vii.
+
+The right to revise and modify, at any time prior to the RFI/RFQ/RFP submission
+dates, factors it will consider in evaluating responses to an RFQ/RFP and to
+otherwise revise its evaluation methodology.
+
+viii.
+
+The right to waive or permit corrections to data submitted with any response to an
+RFQ/RFP until such time as the Trust declares in writing that a particular stage or
+phase of its review of the responses to this RFQ/RFP has been completed and
+closed.
+
+ix.
+
+The right to issue addenda, supplements, and modifications to an RFQ/RFP,
+including but not limited to modifications of evaluation criteria or methodology and
+weighting of evaluation criteria.
+
+x.
+
+The right to permit submittal of addenda and supplements to data previously
+provided with any response to an RFQ/RFP until such time as the Trust declares
+
+Virginia Department of Transportation, Design-Build Procurement Manual, October, 2010, p. 16-18
+
+Version 1.0   July 19, 2013
+
+24
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+in writing that a particular stage or phase of its review of the responses to this
+RFQ/RFP has been completed and closed.
+xi.
+
+The right to hold meetings and conduct discussions and correspondence with one
+or more of the bidders responding to an RFQ/RFP to seek an improved
+understanding and evaluation of their responses to the RFQ/RFP.
+
+xii.
+
+The right to seek or obtain data from any source that has the potential to improve
+the understanding and evaluation of the responses to an RFQ/RFP, including the
+right to seek clarifications from bidders.
+
+xiii.
+
+The right to permit bidders to add or delete partners, contractors, advisors and/or
+key personnel until such time as the Trust declares in writing that a particular stage
+or phase of its review has been completed and closed.
+
+xiv.
+
+The right to add or delete bidder responsibilities from the information contained in
+an RFQ/RFP.
+
+xv.
+
+The right to designate and change appointees of the evaluation team.
+
+xvi.
+
+The right to use assistance of outside technical and legal experts and consultants
+in the evaluation process.
+
+xvii.
+
+The right to waive deficiencies, informalities and irregularities in an RFI/RFQ/RFP
+response, accept and review a non-conforming RFI/RFQ/RFP response or seek
+clarifications or supplements to a proposal.
+
+xviii.
+
+The right to disqualify any bidder that changes its submission without the Trust’s
+approval.
+
+xix.
+
+The right to change the method of award or the evaluation criteria and scoring at
+any time prior to submission of the RFI/RFQ/RFP responses.
+
+xx.
+
+The right to respond to all, some, or none of the inquiries, questions and/or
+requests for clarification received relative to the RFI/RFQ/RFP.
+
+xxi.
+
+The right to use all or part of a proposal submitted by a bidder that accepts a
+proposal payment.
+
+Version 1.0   July 19, 2013
+
+25
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+xxii.
+
+The right to increase or decrease the number of bidders between the
+RFI/RFQ/RFP stages, if it is in the best interest of the Trust to do so.
+
+xxiii.
+
+The right to negotiate the allocation of prices identified for specific portions of the
+work depicted within a Proposal.
+
+xxiv.
+
+The right to disqualify and/or cease negotiations with a bidder if the Trust, in its
+sole discretion, determines that the bidder’s proposal contains unbalanced pricing
+among the specific portions of work identified therein.
+
+b. No Assumption of Liability
+i. The Trust assumes no obligations, responsibilities, and liabilities, financial or
+otherwise, to reimburse all or part of the costs incurred or alleged to have been
+incurred by parties considering a response to and/or responding to an
+RFI/RFQ/RFP. All such costs shall be borne solely by each bidder and its team
+members.
+ii. The Trust assumes no obligations, responsibilities, and liabilities, financial or
+otherwise, to reimburse all or part of the costs incurred or alleged to have been
+incurred by parties considering submission of an unsolicited proposal, collaborative
+proposal, proposal by citizens or schedule contracting proposal. All such costs shall
+be borne solely by each bidder and its team members
+iii. In no event shall the Trust be bound by, or liable for, any obligations with respect to
+a project until a contract that is satisfactory to the Trust has been executed and
+authorized by the Trust. Upon execution of a contract, the Trust will only be bound
+by, liable for and obligated to the extent set forth therein.
+
+Version 1.0   July 19, 2013
+
+26
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+X.
+
+Pre-Development Agreement, Interim Agreement and Comprehensive
+Agreement
+Any pre-development agreement, interim agreement or comprehensive agreement (also
+called “contract”) shall define the rights and obligations of the Trust and of the counterparty
+with regard to a project. The Trust shall obtain all required approvals prior to entering into any
+interim agreement or comprehensive agreement. The Trust shall accept no liability for the
+project prior to entering into a contract.
+a. The Trust may enter into a pre-development agreement when a project is not completely
+defined; financial feasibility has not been determined, but looks financeable on a
+preliminary basis; or the Trust is seeking private sector innovation and expertise in
+accelerating an optimally feasible project.
+i.
+
+The private partner participates in project planning and design and prepares the
+master financial plan and master development plan.
+
+ii.
+
+The private partner absorbs initial phase work – “sweat equity.”
+
+iii.
+
+If project proves feasible, the private partner may deliver an unsolicited bid or
+participate in a collaborative bid covering implementation.
+
+b. An interim agreement may be entered into prior to entering into a comprehensive
+agreement, in order to permit the counterparty to perform compensable activities related
+to the project. Prior to developing or operating a project, the counterparty shall enter into
+a comprehensive agreement with the Trust. The scope of an interim or pre-development
+agreement may include:
+ii.
+
+Project planning and development
+
+iii.
+
+Design and engineering
+
+iv.
+
+Environmental analysis and mitigation
+
+v.
+
+Surveying
+
+vi.
+
+Ascertaining the availability of financing for the proposed facility through financial
+and revenue analysis
+
+vii.
+
+The timing of negotiation of the comprehensive agreement
+
+Version 1.0   July 19, 2013
+
+27
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+viii.
+
+Any other provisions related to any aspect of the development or operation of the
+project that the parties deem appropriate prior to the execution of a comprehensive
+agreement.
+
+c. The Trust and possibly the Chicago City Council and/or a Sister Agency board shall
+approve any comprehensive agreement entered into between the Trust and a
+counterparty. The Trust shall accept no liability for development or operation of the project
+prior to entering into a comprehensive agreement. The terms of the comprehensive
+agreement shall be tailored to address the rights and obligations of the Trust and the
+counterparty with regard to the project and may include:
+i.
+
+Project planning and development (if not completed under an interim or
+pre-development agreement).
+
+ii.
+
+Design and engineering (if not completed under an interim or pre-development
+agreement).
+
+iii.
+
+Environmental analysis and mitigation (if not completed under an interim or
+pre-development agreement).
+
+iv.
+
+Surveying (if not completed under an interim or pre-development agreement)
+
+v.
+
+Timelines and detailed budgets.
+
+vi.
+
+The availability of financing for the proposal through financial and revenue
+analysis.
+
+vii.
+
+The delivery of maintenance, performance and payment bonds or letters of credit
+in connection with any acquisition, design, construction, improvement, renovation,
+expansion, equipping or maintenance of the project.
+
+viii.
+
+The review of plans and specifications for the project by the Trust.
+
+ix.
+
+The rights of the Trust to inspect the project to ensure compliance with the
+comprehensive agreement.
+
+x.
+
+The maintenance of a policy or policies of liability insurance or self-insurance
+reasonably sufficient to insure coverage of the project and the tort liability to the
+public and employees to enable continued operation of the project.
+
+Version 1.0   July 19, 2013
+
+28
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+xi.
+
+The monitoring of the practices of the contracting individual or entity by the Trust
+and/or the City of Chicago, its sister agencies and departments to ensure proper
+maintenance.
+
+xii.
+
+The terms under which the contracting person or entity will reimburse the Trust for
+services provided.
+
+xiii.
+
+The policy and procedures that will govern the rights and responsibilities of the
+Trust and contracting person or entity in the event that the contract is terminated
+or there is a material default by the contracting person or entity, including the
+conditions governing assumption of the duties and responsibilities of the
+contracting person or entity by the Trust and the transfer or purchase of property
+or other interests of the contracting person or entity by the Trust.
+
+xiv.
+
+The terms under which the contracting person or entity will file financial statements
+prepared in accordance with generally accepted accounting principles on a
+periodic basis but not less than annually.
+
+xv.
+
+The mechanism by which user fees, lease payments or service payments, if any,
+may be established from time to time upon agreement of the parties. Any
+payments or fees shall be set at a level that are the same for persons using the
+facility under like conditions and that will not materially discourage use for the
+project.
+
+xvi.
+
+A copy of any service contract.
+
+xvii.
+
+A schedule of current user fees or lease payments.
+
+xviii.
+
+Classifications according to reasonable categories for assessment of user fees.
+
+xix.
+
+The terms and conditions under which the Trust may contribute financial
+resources, if any, for the project.
+
+xx.
+
+The terms and conditions under which site conditions will be assessed and
+addressed, including identifying the responsible party for conducting the
+assessment and taking necessary remedial action.
+
+xxi.
+
+The terms and conditions under which the Trust, the City of Chicago and/or its
+sister agencies and departments will be required to pay money to the contracting
+
+Version 1.0   July 19, 2013
+
+29
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+individual or entity or any other private entity and the amount of such payments for
+the project.
+xxii.
+
+A periodic reporting procedure that incorporates a description of the impact of the
+project on the City of Chicago and its residents.
+
+xxiii.
+
+Other requirements of the P3 program or applicable law that the Trust deems
+appropriate.
+
+d. With respect to construction projects, the Trust generally anticipates addressing the
+following in the contract:
+i.
+
+The contracting person or entity will be expected to assume a single
+point-of-contact responsibility and liability for all planning, designing, financing,
+permitting, constructing, operating and maintaining of the project.
+
+ii.
+
+The contracting person or entity shall perform a comprehensive geotechnical
+investigation of subsurface conditions at the project site. The risk of inadequate
+geotechnical investigation or improper interpretation of the results of the
+geotechnical investigation will be allocated to the contracting person or entity in
+the contract.
+
+iii.
+
+The Trust encourages the contracting person or entity to propose a formula for
+mutual sharing of cost savings realized during construction by virtue of value
+engineering initiatives, guaranteed maximum price with sharing provisions, trade
+allowances or otherwise. Mutually agreed upon terms for the sharing of such
+savings will be incorporated into the comprehensive agreements.
+
+iv.
+
+The Trust may enter into contracts with private entities that have formed business
+associations or special purpose entities such as joint ventures, limited partnerships
+and limited liability companies.
+
+v.
+
+The contracting person or entity will normally be expected to identify a single pointof-contact to assume responsibility and liability for all planning, designing,
+financing, permitting, constructing, operating and maintaining of the project on
+behalf of the contracting person or entity.
+
+vi.
+
+One or more of the principal members of the contracting person or entity will
+normally be expected to provide a performance guarantee of all obligations
+
+Version 1.0   July 19, 2013
+
+30
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+undertaken in the comprehensive agreement. This agreement is in addition to the
+statutory requirement for a performance bond. Individuals, corporations or other
+businesses interested in entering into P3 projects with the Trust must be willing to
+provide this security if their proposal is submitted as part of a contracting person
+or entity that limits the liability of its members, owners or partners. Any changes
+in the terms of the contract as may be agreed upon by the parties from time-totime shall be added to the contract only by written amendment. The contract may
+provide for the development of phases or segments of the project. Parties
+submitting proposals understand that representations, information and data
+supplied in support of or in connection with proposals play a critical role in the
+competitive evaluation process and the ultimate selection of a proposal by the
+Trust. Accordingly, as part of a comprehensive agreement, the prospective
+contracting individual and its team members shall certify that all material
+representations, information and data supplied in support of or in connection with
+a proposal are true and correct. Such certifications shall be made by authorized
+individuals who have knowledge of the information provided in the proposal. In the
+event any material changes occur with respect to representations, information and
+data provided for the proposal, the prospective contracting person or entity shall
+immediately notify the Trust of same.
+e. The contract will specify detailed terms of substantial completion and project hand-off,
+including:
+
+f.
+
+i.
+
+Performance requirements
+
+ii.
+
+Inspections and approvals
+
+iii.
+
+Regulatory requirements
+
+iv.
+
+Operational and maintenance readiness, possibly including training for staff
+
+For projects that include on-going operations and maintenance, the contract will include
+performance standards and process for regular review and response to ad hoc comments
+from the people of the City of Chicago.
+
+g. The contract will include financial terms, including:
+i.
+
+Payment amounts and schedules
+
+Version 1.0   July 19, 2013
+
+31
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ii.
+
+Revenue sharing terms, if any
+
+iii.
+
+Where applicable, allocation of revenues by the City of Chicago and/or a Sister
+Agency and the Trust
+
+h. The contract will include remedies for situations that arise, including, but not limited to:
+i.
+
+Delays in project delivery
+
+ii.
+
+Budget over-runs
+
+iii.
+
+Change in project scope
+
+iv.
+
+Failure to perform required operations and/or maintenance, as required by the
+contract
+
+v.
+
+Failure to meet financial obligations
+
+vi.
+
+Early termination or default by either party
+
+Version 1.0   July 19, 2013
+
+32
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+XI.
+
+Project Acceptance
+a. Substantial Completion – This often refers to the point at which the build phase of the
+project is complete. The contract will include a detailed definition of substantial completion
+for each project.
+i.
+
+Typically, a project is substantially complete if it is operationally ready, including
+full functionality as specified in the contract, safety inspections, regulatory approval
+and licensing as necessary.
+
+ii.
+
+If there is an operating and/or maintenance component to the project, the private
+entity will be required to demonstrate that capability.
+
+iii.
+
+The Trust must formally accept that the project is substantially complete.
+
+b. Project hand-off, if appropriate – If there is no operational or maintenance requirement
+for the project, then it will be handed-off to the City of Chicago and/or a Sister Agency or
+the Trust.
+i.
+
+The project will need to meet the criteria for substantial completion as specified in
+the contract.
+
+ii.
+
+The contracting entity may be required by contract to provide operational and/or
+maintenance training for City personnel.
+
+iii.
+
+The Trust must formally accept the project is substantially complete.
+
+Version 1.0   July 19, 2013
+
+33
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+XII.
+
+Summary
+The Chicago Infrastructure Trust thanks you for your interest in reading this manual, and offers
+its best regards and appreciation to persons or entities that seek to do projects with the Trust.
+We look forward to working together with contracting persons or entities on vital infrastructure
+projects that will serve the public interest of the people of the City of Chicago. Any comments
+or questions regarding the Trust and its work should be directed to the Trust at:
+comments@shapechicago.org
+
+Version 1.0   July 19, 2013
+
+34
+
+ 

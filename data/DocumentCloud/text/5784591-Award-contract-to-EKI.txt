@@ -1,0 +1,112 @@
+March 19, 2019
+
+Item No. 2
+
+RECOMMENDATION TO AWARD CONTRACT FOR AN UPGRADE AND EXPANSION
+OF THE ENTERPRISE CONTENT MANAGEMENT SYSTEM
+Presenter: Patricia Rios, Chief Administrative Officer
+RECOMMENDATION
+The Chief Executive Officer recommends that the Board of Commissioners (Board) of the
+Chicago Housing Authority approve the award of a contract to Electronic Knowledge
+Interchange Company to provide services for the upgrade and expansion of the CHA’s
+Enterprise Content Management System for a two (2) year base term with compensation in the
+not-to-exceed amount of $2,799,240.00, plus three (3) one-year options for staff augmentation
+and support with compensation for each option term in the not-to-exceed amount of
+$466,782.00, resulting in total compensation for the cumulative base and option terms in the
+not-to-exceed amount of $4,199,586.00. The Board delegates authority to the Chief Executive
+Officer to use his discretion to exercise the options. The Chief Executive Officer shall not
+exercise more than one option in any year.
+Recommended
+Awardee
+Electronic
+Knowledge
+Interchange
+Company
+
+NTE Total:
+
+Base Contract
+Value
+$2,799,240
+
+$ 2,799,240
+
+Base
+Term
+2-year
+
+Option Terms
+
+1st Option: $466,782
+2nd Option: $466,782
+3rd Option: $466,782
+Aggregate NTE Total:
+
+Total Contract
+Value
+$2,799,240
+
+$1,400,346
+$4,199,586
+
+The requested action complies in all material respects with all applicable federal, state and local
+laws, and Chicago Housing Authority board policies. Staff have completed all necessary due
+diligence to support the submission of this initiative.
+Funding
+Administrative Division Budget
+
+ Background
+In an effort to further expand the use one central document repository and improve business
+processes, CHA will further enhance its current SharePoint Enterprise Content Management
+System (“ECMS”). The requested enhancement of the current ECMS is referred to as iFile
+Phase II.
+In February 2015, the Chicago Housing Authority replaced its legacy document
+management solution by implementing a new Enterprise Content Management System (also
+known as iFile Phase I). This solution leveraged the Microsoft SharePoint platform and today
+consists of additional integrated systems and modules from KnowledgeLake, including its
+Imaging, Capture Server Pro, Unify and Advance Capture systems. This effort included the
+migration of over ten (10) million documents from the legacy system into iFile. The solution
+increased customer service delivery and operational efficiencies by providing rapid,
+intuitive records search and retrieval capability as well as providing an integrated means
+to scan, capture, store, manage and retain information assets across departments in the
+Authority.
+With iFile Phase II, CHA will upgrade to the most current versions of KnowedgeLake and
+Metalogix StoragePoint software, expand the use and capabilities of CHA’s iFile system, identify
+and create new document types and document libraries for selected departments, and
+optimize existing business process into electronic workflows.
+Respectfully Submitted:
+
+____________________________
+Patricia Rios
+Chief Administrative Officer
+
+2
+
+ RESOLUTION NO. 2019-CHAWHEREAS,
+
+the Board of Commissioners of the Chicago Housing Authority has reviewed the
+Board Letter dated March 19, 2019 entitled “RECOMMENDATION TO AWARD
+CONTRACT FOR AN UPGRADE AND EXPANSION OF THE ENTERPRISE CONTENT
+MANAGEMENT SYSTEM.”
+
+THEREFORE, BE IT RESOLVED BY THE BOARD OF COMMISSIONERS OF THE CHICAGO HOUSING
+AUTHORITY:
+THAT,
+
+the Board of Commissioners authorizes the Chief Executive Officer or his designee
+to execute a contract with Electronic Knowledge Interchange Company in the
+aggregate not-to-exceed amount of $4,199,586 to provide services for the
+upgrade and expansion of the CHA’s Enterprise Content Management System for
+a two (2) year base term, and with three (3) one-year options for staff
+augmentation and support services reserved to the CHA.
+This award is subject to the Contractor’s compliance with the CHA’s
+MBE/WBE/DBE/ Section 3 hiring and insurance requirements.
+
+____________________________
+Eugene E. Jones, Jr.
+Chief Executive Officer
+Chicago Housing Authority
+
+3
+
+ 

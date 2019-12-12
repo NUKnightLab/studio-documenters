@@ -1,0 +1,1666 @@
+ 
+
+PART II: GENERAL CONDITIONS
+For purposes of these General Conditions, references to the “County” include the Cook
+County Health and Hospitals System (“CCHHS”) and references to the “CCHHS” include
+the “County.”
+GC-01 SUBCONTRACTING OR ASSIGNMENT OF CONTRACT OR CONTRACT FUNDS
+The CCHHS has engaged the Contractor to perform all Services and to provide all the Goods,
+Services and/or Deliverables and Contractor hereby accepts such engagement upon such terms.
+Contractor shall be the prime contractor hereunder, and, subject to the terms and conditions hereof,
+Contractor hereby assumes full and total responsibility for obtaining and providing the
+Deliverables described herein.
+Contractor agrees, in accordance with terms and conditions of this Contract, to: (i) act at all times
+as the single point of reference and contact for the CCHHS with regard to this Contract and all
+performance hereunder; (ii) to procure and provide to the CCHHS all of the Deliverables specified
+in this Contract, regardless of whether any particular Goods or services are manufactured or
+supplied directly by Contractor or through third parties; (iii) to provide, install, configure,
+implement and integrate the Deliverables and to furnish efficient business administration and
+project management services with respect to the engagement, and appropriately supervise all work
+performed as part of the engagement, as necessary and appropriate to complete the installation,
+configuration, implementation and integration of such Deliverables; (iv) to provide ongoing
+support, maintenance, and repair of all such Goods; (iv), and to perform all of the Services
+described in this Contract including, but not limited to, coordinating the related activities of any
+of Contractor’s subcontractors and any applicable manufacturers, supplies, or licensors.
+Once awarded, this Contract shall not be subcontracted or assigned, in whole or in part, without
+the advance written approval of the Director of Supply Chain Management (“SCM Director”) or
+SCM Director designee in his or her sole discretion. In no case, however, shall such approval
+relieve the Contractor from its obligations or change the terms of the Contract. The Contractor
+shall not transfer or assign any Contract funds or any interest therein due or to become due without
+the advance written approval of the SCM Director. The unauthorized subcontracting or assignment
+of the Contract, in whole or in part, or the unauthorized transfer or assignment of any Contract
+funds, either in whole or in part, or any interest therein, which shall be due or are to become due
+the Contractor shall have no effect on the County. Notwithstanding the foregoing, the Parties agree
+that assignment of this Contract, in whole or in part, within an enterprise of which either party is
+a part or to a successor organization by merger or acquisition does not require the consent of the
+other, but in the event if such merger or acquisition, the Contractor shall provide notice to the SCM
+Director as soon as practicable. The CCHHS shall have the right to terminate the Contract for
+convenience, in the event the CCHHS in its sole discretion deems such merger or acquisition to
+have impaired the Contract.
+
+Page 1 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Prior to the commencement of the Contract, the Contractor shall identify in writing to the SCM
+Director all subcontractors it intends to use in the performance of the Contract. The SCM Director
+shall have the right to disapprove any subcontractor. Identification of subcontractors to the SCM
+Director shall be in addition to any communications with County offices other than the SCM
+Director. All subcontractors shall be subject to the terms of this Contract. Contractor shall
+incorporate into all subcontracts all the provisions of the Contract which affect such subcontract.
+Copies of subcontracts shall be provided to the SCM Director upon request.
+GC-02 PERSONNEL
+The quality, experience and availability of personnel employed by the Contractor are of the
+essence. The Contractor shall provide the County with a list of all key personnel to be used on the
+project and their designated assignment. The list shall include the qualifications of each person
+named. The County may at any time request, in writing, the Contractor to remove any of the
+Contractor's assigned personnel for cause and forthwith furnish to the County other acceptable
+personnel with thirty (30) days of notification. Notwithstanding the County's approval of
+Contractor's personnel, the Contractor shall be fully responsible to County for all work performed
+pursuant to this Contract by Contractor's employees, subcontractors or others who may be retained
+by the Contractor with the approval of the County. To the extent this Contract provides for
+Contractor to perform services for CCHHS, Contractor shall familiarize itself with the current
+Cook County Living Wage established by the County’s Chief Financial Officer and shall document
+that employees assigned to provide services hereunder are paid not less than the applicable Cook
+County Living Wage. To the extent that Contractors employees or subcontractor employees
+engage in construction hereunder, Contractor shall familiarize itself with the Illinois Prevailing
+Wage Act and shall document that employees assigned to perform construction hereunder are paid
+not less than the applicable Illinois Prevailing Wage. Additionally, as applicable, Contractor’s
+employees or subcontractors will provide services that require an appointment to the Medical Staff
+and/or that require appropriate clinical privileges, Contractor shall assure that such appointments
+and/or privileges have been secured prior to permitting such persons to provide the subject
+services.
+If the Services provided pursuant to this Contract are janitorial cleaning services, window cleaning
+services, elevator operator and starter services, and security services, they are considered “Covered
+Services” within the meaning of Cook County Ordinances, Section 34-163. In executing this
+contract, Contractor certifies all personnel assigned to provide Covered Services hereunder shall
+receive not less than the prevailing rate of wages, fringe benefits and prevailing working
+conditions, as defined hereunder. To satisfy the County’s requirements, wages, fringe benefits and
+working conditions shall be no less favorable than those posted by the Chief of the Bureau of
+Human Resources on the County’s website or, in the absence of information posted thereon, as
+posted on the website of the State Department of Labor. Contractor shall provide documentation
+in support of its certification as requested by the CCHHS.
+GC-03 INSURANCE
+Contractor shall purchase prior to commencing services and shall maintain at its own cost and
+expense, in full force and effect during the term of this Contract the following insurance coverages,
+Page 2 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Workers' Compensation Insurance.
+Workers' Compensation shall be in accordance with the laws of the State of Illinois or any other
+applicable jurisdiction. The Workers’ Compensation policy shall also include the following
+provisions:
+I.
+
+Employers' Liability coverage with limits of:
+
+$ 1,000,000 each Accident;
+$ 1,000,000 each Employee; and
+$ 1,000,000 Policy Limit for Disease.
+II.
+
+Broad form all states coverage
+
+Commercial General Liability Insurance.
+The Commercial General Liability shall be on an occurrence form basis to cover bodily injury and
+property damage including loss of use. General Liability limits shall not be less than $ 1,000,000
+per occurrence and $2,000,000 aggregate combined single limit for bodily injury and property
+damage. The General Liability policy shall include, without limitation the following coverages:
+I.
+II.
+III.
+IV.
+V.
+
+All premises and operations;
+Broad Form Blanket Contractual Liability;
+Products/Completed Operations;
+Broad Form Property Damage Liability; and
+Cross liability
+
+Comprehensive Automobile Liability Insurance.
+Comprehensive Automobile Liability to cover all owned, non-owned and hired automobiles,
+trucks and trailers. The Comprehensive Automobile Liability limits shall not be less than the
+following:
+Liability - All Autos: Bodily Injury & Property Damage – $1,000,000 per Occurrence; and
+Uninsured/Motorists: Per Illinois Requirements.
+Umbrella/Excess Liability Insurance.
+I.
+$2,000,000 each occurrence for all liability; and
+II.
+$2,000,000 in the aggregate per policy year separately with respect to products and
+completed operations.
+Professional Liability Insurance.
+I.
+
+$1,000,000.00 each occurrence; and
+Page 3 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+II.
+
+$3,000,000.00 in the aggregate.
+
+Cyber/Security and Privacy Liability Coverage.
+This coverage applies damages arising from failure of computer security, or wrongful release of
+private information, in an amount of at least $2,000,000 per claim and in the aggregate.
+Contractor shall furnish a certificate or certificates of insurance to CCHHS prior to commencing
+performance under the Contract which evidences the above coverages. The insurance purchased
+and maintained by Contractor shall be primary and not excess or pro rata to any insurance issued
+by the County.
+Additional Insured.
+The Commercial General Liability and Excess Liability policies must name the County of Cook, its
+elected and appointed officials, and its agents and employees as additional insureds in connection
+with the activities contemplated by the scope of this Contract.
+Qualification of Insurers.
+All insurance companies providing coverage shall be licensed or approved by the Department of
+Insurance, State of Illinois, and shall have a financial rating no lower than (A-) VII as listed in
+A.M. Best's Key Rating Guide, current edition or interim report. Companies with ratings lower
+than (A-) VII will be acceptable only upon written consent of the Cook County Department of
+Risk Management.
+Subcontractor Insurance Requirements.
+Contractor shall require that providers who become Subcontractors to Contractor perform such
+functions as utilization review or credentialing hereunder, carry professional liability insurance in
+an amount of $1,000,000 per each occurrence and $3,000,000 in the aggregate.
+GC-04 INSPECTION AND RESPONSIBILITY
+This paragraph shall be applicable to the sale of Goods: At all times during the term of the
+Contract and at any location where the Contract is performed, the County shall have a right to
+inspect any Goods provided in carrying out this Contract. The Contractor shall be solely
+responsible for the quality and standards of all Goods furnished under this Contract. Goods may
+be rejected by the SCM Director and/or the Designee of the Using Department if they fail to meet
+Contract requirements. In the event of such rejection, Goods shall be replaced and/or re-performed
+by the Contractor promptly and at no additional cost to the County. Any Goods rejected shall be
+removed within a reasonable time from the premises of the County at the entire expense of the
+Contractor, after notice has been given by the County to the Contractor that such have been
+rejected. As applicable, Goods shall be provided in a manner that complies with all accreditation
+standards including, but not limited to, the Medicare Conditions of Participation and standards of
+The Joint Commission.
+
+Page 4 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+This paragraph shall be applicable to the procurement of Services. Contractor shall be solely
+responsible for the quality and standards of all Services and applicable Deliverables furnished
+under this Contract and shall comply with the performance indicators described in Exhibit 2: Scope
+of Work. Deliverables may be rejected by the SCM Director and/or the Designee of the Using
+Department if they fail to meet Contract requirements. In the event of such rejection, Services shall
+be re-performed by the Contractor promptly and at no additional cost to the County., Services shall
+be provided in a manner that complies with applicable accreditation standards including, but not
+limited to, the Medicare Conditions of Participation and standards of The Joint Commission.
+GC-05 INDEMNIFICATION
+The Contractor covenants and agrees to indemnify and save harmless the County and its CCHHS,
+directors, commissioners, officials, employees, agents and representatives, and their respective
+heirs, successors and assigns, from and against any and all costs, expenses, attorneys’ fees, losses,
+damages and liabilities incurred or suffered to the extent caused directly and proximately by the
+negligence or willful misconduct of Contractor, its officers, agents, employees, contractors,
+subcontractors, in the course of performing services hereunder. The Contractor expressly
+understands and agrees that any Performance Bond or insurance protection required of the
+Contractor, or otherwise provided by the Contractor, shall in no way limit the responsibility
+to indemnify the County as herein provided. The County shall give the Contractor prompt notice
+of any such claim and County will consult with Contractor in the defense and settlement thereof.
+Subject to applicable law, approval of the Cook County State’s Attorney, if required, and at the sole
+discretion of the County, the County may assign defense to the Contractor.
+GC-06 PAYMENT
+Pursuant to the Cook County, Illinois Code of Ordinances Sec. 34-310 and 34-311. Invoices
+required for all Service contracts.
+(a)
+Work Performed. Contractor shall maintain and submit for review upon request by CCHHS,
+itemized records indicating the dates that Services were provided, a detailed description of the
+work performed on each such date, and the amount of time spent performing work on each such
+date.
+(b)
+Expenses. Contractors shall submit documentation of the types and amounts of expenses incurred
+related to the work performed if the Contractor seeks reimbursement for any such expenses
+incurred.
+(c)
+Invoice Documentation. Contractor shall submit itemized records indicating the dates or time
+period, in which the Services being invoiced were provided, a detailed description of the work
+performed for the time period being invoiced and the amount of time spent performing work for
+the time period in question. In addition, all Contracts for services that are procured as Sole Source
+must also contain a provision requiring the Contractor to submit itemized records indicating the
+
+Page 5 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+dates that services were provided, a detailed description of the work performed on each such date,
+and the amount of time spent performing work on each such date.
+(d)
+Payment. All Contracts for Services shall further require that the itemized work and expense
+records required in Section 34-310(b) and (c) be submitted to the Using Agency with the
+Contractor's invoice as a condition of payment for any services rendered.
+This paragraph applies to Goods and Services Notwithstanding the foregoing all invoices
+submitted by the Contractor shall be in accordance with the cost provisions contained in the
+Contracts. All invoices shall have a valid Purchase Order issued by CCHHS prior to invoicing
+CCHHS. No payments shall be made if invoices fail to comply with the requirements of this
+paragraph. County payment terms shall be Net 45 days from invoice date. Contractor shall not be
+entitled to invoice the County for any late fees or other penalties.
+GC-07 PREPAID FEES
+In the event this Contract is terminated by either party, for cause or otherwise, and the County has
+prepaid for any Goods, Services, or Deliverables, Contractor shall refund to the County, on a
+prorated basis to the effective date of termination, all amounts prepaid and not actually provided
+as of the effective date of the termination. The refund shall be made within fourteen (14) days of
+the effective date of termination.
+GC-08 TAXES
+Federal Excise Tax does not apply to materials purchased by the County by virtue of Exemption
+Certificate No. 36-75-0038K. Illinois Retailers' Occupation Tax, Use Tax and Municipal Retailers'
+Occupation Tax do not apply to Goods or Services, purchased by the County by virtue of statute.
+The price or prices quoted herein shall include all other federal and/or state, direct and/or indirect
+taxes which apply to this Contract. The County's State of Illinois Sales Tax Exemption
+Identification No. is E-9998-2013-07.
+GC-09 PRICE REDUCTION
+If at any time after the contract award, Contractor makes a general price reduction in the price of
+any of the Goods, Services, or Deliverables the equivalent price reduction based on similar
+quantities and/or considerations shall apply to this Contract for the duration of the Contract period.
+For purposes of this Section GC-09, Price Reduction, a general price reduction shall include
+reductions in the effective price charged by Contractor due to rebates, financial incentives,
+discounts, value points or other benefits with respect to the purchase. Such price reductions shall
+be effective at the same time and in the same manner as reductions Contractor makes in the price
+of the Goods, Services, or Deliverables to its prospective customers generally.
+GC-10 CONTRACTOR CREDITS
+To the extent the Contractor gives credits toward future purchases of goods or services, financial
+incentives, discounts, value points or other benefits based on the purchase of the materials or
+services provided for under this Contract, such credits belong to the County and not any specific
+Page 6 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+using department. Contractor shall reflect any such credits on its invoices and in the amounts it
+invoices the County.
+GC-11 DISPUTES
+Any dispute arising under the Contract between the County and Contractor shall be resolved by
+the SCM Director and Contractor to the extent possible. The parties will use good faith efforts to
+resolve a dispute within sixty (60) days following notification received by either party of a dispute.
+Notwithstanding a dispute, the parties shall continue to discharge their obligations, duties and
+responsibilities set forth in the Contract during any dispute resolution proceeding unless otherwise
+agreed to in writing.
+Dispute resolution as provided herein shall be a condition precedent to any other action at law or
+in equity. However, unless a notice is issued by the SCM Director indicating that additional time
+is required to review a dispute and the Contractor is in agreement, the parties may exercise their
+contractual remedies. No inference shall be drawn from the absence of a response by the SCM
+Director.
+GC-12 DEFAULT
+Contractor shall be in default hereunder in the event of a material breach by Contractor of any term
+or condition of this Contract including, but not limited to, a representation or warranty, where
+Contractor has failed to cure such breach within ten (10) days after written notice of breach is
+given to Contractor by the County, setting forth the nature of such breach. In the event Contractor
+shall breach any material terms or conditions of this Contract on more than one occasion during
+any twelve month period during the term hereof, or in the event Contractor expresses an
+unwillingness or inability to continue performing the Contract in accordance with its terms, the
+County may, at its option, declare the Contractor to be in default and the County shall be entitled
+to exercise all available remedies including, but not limited to, termination of the Contract, without
+affording the Contractor further opportunity to cure such breach. Failure of County to give written
+notice of breach to the Contractor shall not be deemed to be a waiver of the County’s right to assert
+such breach at a later time, should the Contractor commit a subsequent breach of this Contract.
+County shall be in default hereunder if any material breach of the Contract by County occurs which
+is not cured by the County within ninety (90) days after written notice has been given by Contractor
+to the County, setting forth the nature of such breach.
+GC-13 COUNTY'S REMEDIES
+Following notice of material breach to Contractor, the County reserves the right to withhold
+payments otherwise owed to Contractor until such time as Contractor has cured the breach. Except
+as extended in writing by the SCM Director, if the Contractor fails to remedy a material breach
+during the ten (10) day cure period pursuant to General Condition GC-12, Default, or if Contractor
+commits a subsequent material breach within a twelve month period or expresses an unwillingness
+Page 7 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+or inability to continue performing the Contract in accordance with its terms, the County shall have
+the right to terminate this Contract upon written notice to the Contractor which shall set forth the
+effective date of such termination. In addition, the County shall have the right to pursue all
+remedies in law or equity.
+GC-14 CONTRACTOR'S REMEDIES; LIMITATION ON COUNTY LIABILITY
+If the County has been notified of breach and fails to remedy the breach during the cure period
+pursuant to General Condition GC-12, Default, the Contractor shall have the right to terminate this
+Contract upon not less than thirty (30) days prior written notice to the County, which notice shall
+set forth the effective date of termination. Contractor shall have the right to pursue all remedies
+available in law or equity. Irrespective of the exercise of remedies hereunder, Contractor shall not
+disrupt the County’s operations, suspend Services or withhold the delivery of and Deliverable, or
+repossess any component thereof. Additionally, Contractor shall not be entitled to suspend the
+delivery of any Deliverable or the provision of Services at any time during the term of this Contract
+or any renewal options without the express written authorization of the SCM Director or his
+designee.
+CCHHS shall be not liable for any consequential, exemplary, incidental, indirect, or special
+damages or costs including, but not limited to, lost profits or loss of goodwill, resulting from any
+claim or cause of action based upon breach of warranty, breach of contract, negligence, strict
+liability, or any other legal theory, even if Contractor has been advised, knew, or should have
+known of the possibility thereof. The CCHHS’s aggregate liability shall be limited to the
+Contractor’s actual provable direct damages not to exceed the amount of the Contract as awarded
+by CCHHS Board of Directors, which amount is set forth on the Board Authorization Request
+and/or in Part I of this Contract (the “Maximum Contract Amount”) less all amounts paid to
+Contractor hereunder shall be limited as set forth in this Section. In no event shall the CCHHS’s
+liability be the aggregate amount of multiple contracts.
+GC-15 DELAYS
+Contractor agrees that no charges or claims for damages shall be made by Contractor for any delays
+or hindrances from any cause whatsoever during the progress of any portion of this Contract.
+GC-16 MODIFICATIONS AND AMENDMENTS
+The parties may from time to time during the term of the Contract make modifications and
+amendments to the Contract but only as provided in this section. Such modifications and
+amendments shall only be made by agreement in writing.
+The SCM Director may agree in writing to amend this Contract provided that, such amendment
+individually or cumulatively increases the amount payable to Contractor to One Hundred Fifty
+Thousand ($150,000) Dollars or more or, in the case of a Contract that was originally approved by
+the CCHHS Board, by more than ten percent of the Maximum Contract Amount, such amendment
+shall require the approval of the CCHHS Board of Directors. Similarly, amendments which extend
+Page 8 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+the term of the Contract by one year or longer shall require the approval of the CCHHS Board of
+Directors.
+Subject to the foregoing, the Director of the Using Department may, by written order, make
+changes with respect to the dates of delivery and places of performance of the Contract. Contractor
+is hereby notified that, except for modifications and amendments which are made in accordance
+with this Section GC-16, Modifications and Amendments, no County department or employee
+thereof has authority to make any modification or amendment to this Contract.
+GC-17 PATENTS, COPYRIGHTS AND LICENSES; OWNERSHIP OF DOCUMENTS
+(1)
+Furnishing of license rights and authorizations. Unless otherwise provided in this
+Contract, Contractor hereby grants to the County a perpetual and irrevocable, non-exclusive, nontransferable, fully paid-up and royalty-free license (or, as applicable with respect to software that
+constitutes a third-party product, sublicense) and right to use the software and its Documentation
+for the County’s internal business purposes. All licensed software shall be the latest commercially
+available release and version thereof as of the execution of this Contract.
+(a) Software Manufactured by a Third Party. To the extent certain software provided to
+the County hereunder may be licensed by a third-party manufacturer or supplier pursuant to the
+express terms of separate, written license agreements. Contractor shall notify the County of the
+existence of any such separate license agreements and shall provide each such separate license
+agreement to the CCHHS Chief Information Officer (CIO), in writing or electronically, no later
+than upon delivery to the County of the respective software to which it applies. Notwithstanding
+the terms of any license agreement issued by a third-party manufacturer or supplier, as between
+the parties to this Contract, Contractor shall ensure that all software is warranted in in accordance
+with the applicable sections of GC-26 Guarantees and Warrantees, and that the County obtains a
+perpetual, irrevocable, non-exclusive, non-transferable, paid-up, and royalty-free license and right
+for the County and its users to use the software in accordance with this Contract.
+(b) Third-Party Licenses. Contractor shall furnish the CCHHS CIO with all licenses,
+license rights or authorization required for the County to utilize any software, including firmware
+or middleware, provided by Contractor as part of the Goods or Services (and Deliverables if
+applicable). Such licenses shall be clearly marked with a reference to the number of this County
+Contract. Contractor shall also furnish a copy of such licenses to the SCM Director. Unless
+otherwise stated in these Contract documents, such licenses shall be perpetual and shall not limit
+the number of persons who may utilize the software on behalf of the County.
+(2)
+IP Indemnity. Contractor agrees to hold harmless and indemnify the County, its officers,
+agents, employees and affiliates from and defend, at its own expense (including reasonable
+attorneys', accountants' and consultants' fees), any suit or proceeding brought against County based
+upon a claim that the ownership and/or use of equipment, hardware and software or any part
+thereof provided to the County or utilized in performing Contractor's services constitutes an
+infringement of any patent, copyright or license or any other property right.
+
+Page 9 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+In the event the use of any equipment, hardware or software or any part thereof is enjoined,
+Contractor with all reasonable speed and due diligence shall provide or otherwise secure for
+County, at the Contractor's election, one of the following: the right to continue use of the
+equipment, hardware or software; an equivalent system having the Specifications as provided in
+this Contract; or Contractor shall modify the system or its component parts so that they become
+non-infringing while performing in a substantially similar manner to the original system, meeting
+the requirements of this Contract.
+(3)
+Intellectual Property of the County. County reserves all rights, including, but not limited
+to, ownership, title, intellectual property rights and all other rights and interest in and to any
+computer programs (in object or source code format or any other form), know-how, inventions,
+processes, data bases, documentation, training materials, designs, reports, manuals, documents,
+specifications, hardware, software and equipment and any other intellectual property and any
+tangible embodiments of it (collectively “Intellectual Property” or “IP”) that County makes
+available to Contractor (collectively “County IP”). No County IP shall be removed from County’s
+premises without the prior written consent of County. All County IP removed with consent shall
+be returned upon the earlier of (a) County’s request for its return; or (b) completion or termination
+of the Contract or an applicable statement of work thereunder. Contractor shall, at its risk and
+expense, maintain such County IP in good condition while it is in its custody or control.
+(4)
+County Ownership of Delivered Software or Other Proprietary Material. The Parties
+may contemplate that the County will order Goods, Services or Deliverables from Contractor that
+will result in the transfer of ownership rights of software or other proprietary material from
+Contractor to the County or the development by Contractor of such software or proprietary
+material for County’s exclusive ownership. In such case, the subject IP and the County’s
+ownership rights therein shall be set forth in Exhibit 1, Statement of Work.
+(5)
+Ownership of Documents and/or Data. All documents, data, studies, reports, work
+product or product created as a result of the performance of the Contract shall be included in
+Deliverables and shall be the property of the County of Cook. Except as expressly provided in the
+Contract, it shall be a breach of this Contract for the Contractor to reproduce or use any documents,
+data, studies, reports, work product or product obtained from the County of Cook or any County
+Documents created hereby, whether such reproduction or use is for Contractor’s own purposes or
+for those of any third party. During the performance of the Contract, Contractor shall be
+responsible of any loss or damage to the Documents while they are in Contractor’s possession, and
+any such loss or damage shall be restored at the expense of the Contractor. The County and its
+designees shall be afforded full access to the County Documents and the work at all times. In the
+event the CCHHS requests its data, Contractor will provide it to the CCHHS in a form that meets
+an industry-standard format such as, .XLSX, .CSV, .TXT, .MDB,.DAT. The data must
+comprehensively represent the record (e.g. all relevant fields) and exactly match the source
+information. The data element in a record must clearly separate using appropriate delimiters like
+comma, pipe etc., or must be fixed length. The end of line character must appear only at the end
+of each record. Embedded line feed and carriage return in data elements must be eliminated or
+replaced with appropriate characters.
+
+Page 10 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+GC-18 CORPORATE COMPLIANCE
+A. General. The Contractor and any subcontractors shall observe and comply with any
+accreditation standards applicable to Contractor in its regular business as well as the laws,
+ordinances, regulations and codes of the Federal, State, County and other local government
+agencies which may in any manner affect the performance of the Contract including, but not
+limited to, those County Ordinances set forth in the Certifications attached hereto and incorporated
+herein. Assurance of compliance with this requirement by the Contractor's employees, agents or
+subcontractors shall be the responsibility of the Contractor.
+B. Payment of Taxes and Fees. The Contractor shall secure and pay for all federal, state and local
+licenses, permits and fees required hereunder.
+C. Corporate Compliance Program. Contractor understands that the CCHHS has adopted a
+Corporate Compliance Program and is committed to complying with all applicable laws, rules and
+regulations. Accordingly, Contractor shall also comply with all laws, rules and regulations
+concerning the services or items furnished to CCHHS under this Contract. CCHHS will provide
+Contractor with the CCHHS Code of Ethics available at: http://www.cookcountyhhs.org/aboutcchhs/doing-business-with-cchhs/bids-rfp/ and Contractor agrees to fully comply with the CCHHS
+Code of Ethics concerning the services or items furnished to CCHHS under this Contract. In
+addition, Contractor shall cooperate fully with any review, audit, or investigation conducted by the
+CCHHS Chief Compliance and Privacy Officer, including the timely return of requested
+documentation, and shall bring to the attention of the Chief Compliance and Privacy Officer, or
+designee, any alleged improper practices or potential violations of CCHHS policies/ procedures
+that Contractor may discover in association with this Contract so that the Compliance Officer may
+take appropriate action. Assurance of compliance with this requirement by the Contractor's
+employees, agents or subcontractors shall be the responsibility of the Contractor.
+D. Training. Contractor shall ensure that all Contractor’s employees, agents and subcontractors,
+and their respective employees and agents, complete training as necessary to perform the
+responsibilities under this contract.
+This training shall include the completion of a
+Compliance/Code of Ethics training upon hire, and no less frequently than annually thereafter.
+CCHHS reserves the right to require Contractor to complete additional trainings utilizing
+compliance training materials or training sessions supplied by CCHHS. Assurance of compliance
+with this requirement by the Contractor's employees, agents or subcontractors shall be the
+responsibility of the Contractor.
+E. Debarment and Suspension Certification. As used in this paragraph c, the term "Principal"
+shall have the meaning set forth in 45 C.F.R. § 76.995 and shall include an officer, director; owner,
+partner, principal investigator, or other person having management or supervisory responsibilities
+related to a covered transaction. "Principal" also includes a consultant or other person, whether or
+not employed by the participant or paid with Federal funds, who: is in a position to handle Federal
+funds; is in a position to influence or control the use of those funds; or occupies a technical or
+professional position capable of substantially influencing the development or outcome of an
+activity required to perform the covered transaction.
+
+Page 11 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Other terms used in this paragraph E, such as covered transaction, debarred, excluded, exclusion,
+ineligible, ineligibility, participant, and person have the meanings set forth in the definitions and
+coverage rules of 45 C.F.R. Part 76 and other applicable federal regulations.
+In executing this Contract, each of Contractor's authorized signatories certifies that, to his or her
+knowledge and belief, based on reasonable diligence, the Contractor, its principals and any person
+employed or contracted by Contractor to provide Services:
+(1) Are not presently debarred, suspended, proposed for debarment, declared ineligible or
+voluntarily excluded from covered transactions by any governmental department, agency or
+federally funded health care program (including Medicare and/or Medicaid)
+(2) Have not, within a 3-year period preceding this proposal, been convicted of or had a civil
+judgment rendered against them for commission of fraud or a criminal offense in connection with
+obtaining, attempting to obtain, or performing a public (Federal, State, or local) transaction or
+contract under a public transaction; violation of Federal or State antitrust statutes or commission
+of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false
+statements, or receiving stolen property.
+(3) Are not presently indicted or otherwise criminally or civilly charged by a governmental entity
+(Federal, State, or local) with commission of any of the offenses enumerated in paragraph (b) of
+this certification.
+(4) Have not, within a 3-year period preceding this application/proposal, had one or more public
+transactions (Federal, State, or local) terminated for cause or default.
+Contractor shall screen all current and prospective employees, contractors and subcontractors prior
+to engaging their services, and at least monthly thereafter, by reviewing the list of sanctioned
+Persons through
+ the Department of Health and Human Services (HHS) Office of Inspector General (OIG) List
+of Excluded Individuals/Entities (LEIE) Searchable Database (https://exclusions.oig.hhs.gov),
+ HFS OIG exclusion (available at http://www.state.il.us/agency/oig),
+ the Excluded Parties List System (EPLS)/System of Award Management (SAM) maintained
+by the U.S. Government (available at https://www.sam.gov/portal/SAM/##11), and
+ the Office of Foreign Assets Control (OFAC) Specially Designated Nationals (SDN)
+(https://sanctionssearch.ofac.treas.gov/)
+Contractor shall notify CCHHS immediately in the event that it or anyone performing services
+under this Contract:
+(1) is convicted of a criminal offense related to health care and/or related to the provision of
+services paid for by Medicare, Medicaid or another federal health care program; or
+(2) is excluded or debarred from participation in any federal health care program, including
+Medicare and Medicaid. CCHHS may terminate this Contract immediately upon the occurrence
+
+Page 12 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+or notification of any of the above and such termination shall be the CCHHS’ sole remedy against
+Contractor.
+GC-19 MINORITY AND WOMEN BUSINESS ENTERPRISES - COOK COUNTY
+ORDINANCE CHAPTER 34, DIVISION 8
+I.
+A.
+
+POLICY AND GOALS
+
+It is the policy of the County of Cook to prevent discrimination in the award of or participation in
+County Contracts and to eliminate arbitrary barriers for participation in such Contracts by local
+businesses certified as a Minority Business Enterprise (MBE) and Women-owned Business
+Enterprise (WBE) as both prime and sub-contractors. In furtherance of this policy, the Cook
+County Board of Commissioners has adopted a Minority- and Women-owned Business Enterprise
+Ordinance (the "Ordinance") which establishes annual goals for MBE and WBE participation as
+outlined below:
+Contract Type
+Goods and Services
+Construction
+Professional Services
+
+Goals
+MBE
+WBE
+25%
+10%
+24%
+10%
+35% Overall
+
+B. The County may set contract-specific goals, based on the availability of MBEs and WBEs
+that are certified to provide commodities or services specified in this solicitation document.
+The MBE/WBE participation goals for each Contract are stated in the Special Conditions.
+A Bid, Quotation, or Proposal shall be rejected if the County determines that it fails to comply
+with this General Condition in any way, including but not limited to: (i) failing to state an
+enforceable commitment to achieve for this contract the identified MBE/WBE Contract goals; or
+(ii) failing to include a Petition for Reduction/Waiver, which states that the goals for MBE/WBE
+participation are not attainable despite the Bidder or Proposer Good Faith Efforts, and explains
+why. If a Bid, Quotation, or Proposal is rejected, then a new Bid, Quotation, or Proposal may be
+solicited if the public interest is served thereby. The Office of Contract Compliance has
+determined that the participation for this specific contract is XXXX MBE % participation
+and XXX WBE % participation.
+C.
+To the extent that a Bid, Quotation, or Proposal includes a Petition for Reduction/Waiver that is
+approved by the Office of Contract Compliance, the Contract specific MBE and WBE participation
+goals may be achieved by the proposed Bidder or Proposer’s status as an MBE or WBE; by the
+Bidder or Proposer’s enforceable joint-venture agreement with one or more MBEs and/or WBEs;
+by the Bidder or Proposer entering into one or more enforceable subcontracting agreements with
+one or more MBE and WBE; by the Bidder or Proposer establishing and carrying out an
+enforceable mentor/protégé agreement with one or more MBE and WBE; by the Bidder or
+Proposer actively engaging the Indirect Participation of one or more MBE and WBE in other
+aspects of its business; or by any combination of the foregoing, so long as the Utilization Plan
+evidences a commitment to meet the MBE and WBE Contract goals set forth in (B) above, as
+approved by the Office of Contract Compliance.
+Page 13 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+D.
+
+A single Person, as defined in the Procurement Code, may not be utilized as both an MBE and a
+WBE on the same Contract, whether as a contractor, subcontractor or supplier.
+
+E.
+
+Unless specifically waived in the Bid or Proposal Documents, this General Condition, GC-19; the
+Ordinance; and the policies and procedures promulgated thereunder shall govern. If there is a
+conflict between this GC-19 and the Ordinance or the policies and procedures, the Ordinance shall
+control.
+
+F.
+
+A Contractor’s failure to carry out its commitment regarding MBE and WBE participation in the
+course of the Contract’s performance may constitute a material breach of the Contract. If such
+breach is not appropriately cured, it may result in withholding of payments under the Contract,
+contractual penalties, disqualification and any other remedy provided for in Division 4 of the
+Procurement Code at law or in equity.
+II.
+
+REQUIRED BID OR PROPOSAL SUBMITTALS
+
+A Bidder or Proposer shall document its commitment to meeting the Contract specific MBE and
+WBE participation goals by submitting a Utilization Plan with the Bid or Proposal. The Utilization
+Plan shall include (1) one or more Letter(s) of Intent from the relevant MBE and WBE firms; and
+(2) current Letters of Certification as an MBE or WBE. Alternatively, the Bidder or Proposer shall
+submit (1) a written Petition for Reduction/Waiver with the Bid, Quotation or Proposal, which
+documents its preceding Good Faith Efforts and an explanation of its inability to meet the goals
+for MBE and WBE participation. The Utilization Plan shall be submitted at the time that the bid
+or proposal is due. Failure to include a Utilization Plan will render the submission not
+Responsive and shall be cause for the SCM Director to reject the Bid or Proposal.
+A.
+
+MBE/WBE Utilization Plan
+
+Each Bid or Proposal shall include a complete Utilization Plan, as set forth on Form 1 of the
+M/WBE Compliance Forms. The Utilization Plan shall include the name(s), mailing address, email
+address, and telephone number of the principal contact person of the relevant MBE and WBE
+firms. If the Bidder or Proposer submits a Bid or Proposal, and any of their subcontractors,
+suppliers or consultants, are certified MBE or WBE firms, they shall be identified as an MBE or
+WBE within the Utilization Plan.
+1.
+
+Letter(s) of Intent
+
+Except as set forth below, a Bid or Proposal shall include, as part of the Utilization Plan, one or
+more Letter(s) of Intent, as set forth on Form 2 of the M/WBE Compliance Forms, executed by
+each MBE and WBE and the Bidder or Proposer. The Letter(s) of Intent will be used to confirm
+that each MBE and WBE shall perform work as a subcontractor, supplier, joint venture, or
+consultant on the Contract. Each Letter of Intent shall indicate whether and the degree to which
+the MBE or WBE will provide goods or services directly or indirectly during the term of the
+Contract. The box for direct participation shall be marked if the proposed MBE or WBE will
+provide goods or services directly related to the scope of the Contract. The box for Indirect
+Page 14 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+participation shall be marked if the proposed MBE or WBE will not be directly involved in the
+Contract but will be utilized by the Bidder or Proposer for other services not related to the Contract.
+Indirect Participation shall not be counted toward the participation goal. Each Letter of Intent shall
+accurately detail the work to be performed by the relevant MBE or WBE firm, the agreed dollar
+amount, the percentage of work, and the terms of payment.
+Failure to include Letter(s) of Intent will render the submission not Responsive and shall be
+cause for the SCM Director to reject the Bid or Proposal.
+All Bids and Proposals must conform to the commitments made in the corresponding Letter(s) of
+Intent, as may be amended through change orders.
+The Contract Compliance Director may at any time request supplemental information regarding
+Letter(s) of Intent, and such information shall be furnished if the corresponding Bid or Proposal is
+to be deemed responsive.
+2.
+
+Letter(s) of Certification
+
+Only current Letter(s) of Certification from one of the following entities may be accepted as proof
+of certification for MBE/WBE status, provided that Cook County’s requirements for certification
+are met:
+ County of Cook
+ City of Chicago
+Persons that are currently certified by the City of Chicago in any area other than
+Construction/Public Works shall also complete and submit a MBE/WBE Reciprocal Certification
+Affidavit along with a current letter of certification from the City of Chicago. This Affidavit form
+can be downloaded from www.cookcountyil.gov/contractcompliance.
+The Contract Compliance Director may reject the certification of any MBE or WBE on the ground
+that it does not meet the requirements of the Ordinance, or the policies and rules promulgated
+thereunder.
+
+3.
+Joint Venture Affidavit
+In the event a Bid or Proposal achieves MBE and/or WBE participation through a Joint Venture,
+the Bid or Proposal shall include the required Joint Venture Affidavit, which can be downloaded
+from www.cookcountyil.gov/contractcompliance. The Joint Venture Affidavit shall be submitted
+with the Bid or Proposal, along with current Letter(s) of Certification.
+B.
+
+Petition for Reduction/Waiver
+
+In the event a Bid or Proposal does not meet the Contract specific goals for MBE and WBE
+participation, the Bid or Proposal shall include a Petition for Reduction/Waiver, as set forth on
+Form 3. The Petition for Reduction/Waiver shall be supported by sufficient evidence and
+documentation to demonstrate the Bidder or Proposer’s Good Faith Efforts in attempting to
+Page 15 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+achieve the applicable MBE and WBE goals, and its inability to do so despite its Good Faith
+Efforts.
+Failure to include Petition for Reduction/Waiver will render the submission not Responsive
+and shall be cause for the SCM Director to reject the Bid or Proposal.
+III.
+
+REDUCTION/WAIVER OF MBE/WBE GOALS
+
+A.
+
+Granting or Denying a Reduction/Waiver Request.
+
+1.
+
+The adequacy of the Good Faith Efforts to utilize MBE and WBE firms in a Bid or Proposal will
+be evaluated by the CCD under such conditions as are set forth in the Ordinance, the policies and
+rules promulgated thereunder, and in the “Petition for Reduction/Waiver of MBE/WBE
+Participation Goals” – Form 3 of the M/WBE Compliance Forms.
+
+2.
+
+With respect to a Petition for Reduction/Waiver, the sufficiency or insufficiency of a Bidder or
+Proposer’s Good Faith Efforts shall be evaluated by the CCD as of the date upon which the
+corresponding Bid or Proposal was due.
+
+3.
+
+The Contract Compliance Director or his or her duly authorized Waiver Committee may grant or
+deny the Petition for Reduction/Waiver based upon factors including but not limited to: (a)
+whether sufficient qualified MBE and WBE firms are unavailable despite good faith efforts on the
+part of the Bidder or Proposer; (b) the degree to which specifications and the reasonable and
+necessary requirements for performing the Contract make it impossible or economically infeasible
+to divide the Contract into sufficiently small tasks or quantities so as to enable the Bidder or
+Proposer to utilize MBE and WBE firms in accordance with the applicable goals; (c) the degree to
+which the prices or prices required by any potential MBE or WBE are more that 10% above
+competitive levels; and (d) such other factors as are determined relevant by the Contract
+Compliance Director or the duly authorized Waiver Committee.
+
+4.
+
+If the Contract Compliance Director or the duly authorized Waiver Committee determines that the
+Bidder or Proposer has not demonstrated sufficient Good Faith Efforts to meet the applicable MBE
+and WBE goals, the Contract Compliance Director or the duly authorized Waiver Committee may
+deny a Petition for Reduction/Waiver, declare the Bid or Proposal non-responsive, and recommend
+rejection of the Bid, Quotation, or Proposal.
+IV.
+
+CHANGES IN CONTRACTOR'S UTILIZATION PLAN
+
+A.
+
+A Contractor, during its performance of the Contract, may not change the original MBE or WBE
+commitments specified in the relevant Utilization Plan, including but not limited to, terminating a
+MBE or WBE Contract, reducing the scope of the work to be performed by a MBE/WBE, or
+decreasing the price to a MBE/WBE, except as otherwise provided by the Ordinance and according
+to the policies and procedures promulgated thereunder.
+
+B.
+
+Where a Person listed under the Contract was previously considered to be a MBE or WBE but is
+later found not to be, or work is found not to be creditable toward the MBE or WBE goals as stated
+Page 16 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+in the Utilization Plan, the Contractor shall seek to discharge the disqualified enterprise, upon
+proper written notification to the Contract Compliance Director, and make every effort to identify
+and engage a qualified MBE or WBE as its replacement. Failure to obtain an MBE or WBE
+replacement within 30 business days of the Contract Compliance Director's written approval of
+the removal of a purported MBE or WBE may result in the termination of the Contract or the
+imposition of such remedy authorized by the Ordinance, unless a written Petition for
+Reduction/Waiver is granted allowing the Contractor to award the work to a Person that is not
+certified as an MBE or WBE.
+V.
+
+NON-COMPLIANCE
+
+If the CCD determines that the Contractor has failed to comply with its contractual commitments
+or any portion of the Ordinance, the policies and procedures promulgated thereunder, or this GC19, the Contract Compliance Director shall notify the Contractor of such determination and may
+take any and all appropriate actions as set forth in the Ordinance or the policies and procedures
+promulgated thereunder which includes but is not limited to disqualification, penalties,
+withholding of payments or other remedies in law or equity.
+VI.
+
+REPORTING/RECORD-KEEPING REQUIREMENTS
+
+The Contractor shall comply with the reporting and record-keeping requirements in the manner
+and time established by the Ordinance, the policies and procedure promulgated thereunder, and
+the Contract Compliance Director. Failure to comply with such reporting and record-keeping
+requirements may result in a declaration of Contract default. Upon award of a Contract, a
+Contractor shall acquire and utilize all Cook County reporting and record-keeping forms and
+methods which are made available by the Office of Contract Compliance. MBE and WBE firms
+shall be required to verify payments made by and received from the prime contractor.
+VII.
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+Compliance with MBE and WBE requirements will not diminish or supplant other legal Equal
+Employment Opportunity and Civil Rights requirements that relate to contractor and subcontractor
+obligations.
+Any questions regarding this section should be directed to:
+Contract Compliance Director
+Cook County
+118 North Clark Street, Room 1020
+Chicago, Illinois 60602
+(312) 603-5502
+
+Page 17 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+GC-20 MATERIAL SAFETY DATA SHEET
+Where required under the Illinois “Toxic Substance Disclosure To Employees Act”, Illinois
+Compiled Statutes, 2002, 820 ILCS 255/1, Contractor shall submit with each delivery of Goods or
+Services, a Material Safety Data Sheet.
+GC-21 CONDUCT OF THE CONTRACTOR
+The Contractor agrees to inform the County on a timely basis of all the Contractor’s interests, if
+any, which are or which the Contractor reasonably believes may be incompatible with any interest
+of the County. In the event a significant conflict of interest is identified during the engagement,
+the parties shall endeavor to reach a mutually agreeable plan regarding a resolution of the conflict
+to avoid an adverse consequence to the County, or shall modify or terminate the scope of services
+affected thereby. The Contractor shall take notice of and comply with the Cook County Lobbyist
+Registration Ordinance (No. 93-0-22, 6-22-93). Neither the Contractor nor any of its employees,
+agents or subcontractors shall use for business or personal gain, or make other improper use of,
+confidential information which is acquired in connection with the Contract.
+GC-22 ACCIDENT REPORTS
+Contractor shall provide the SCM Director and the Director of the Using Department with prompt
+written notification of any occurrence, on County premises or otherwise, which pertains in any
+way to this Contract and which results in either bodily injury to employees or third parties or
+property damage. Contractor shall provide the SCM Director or his/her designee with verbal notice
+within twenty-four (24) hours of any occurrence, on County premises or otherwise, which pertains
+in any way to this Contract and which results in either bodily injury to employees or third parties
+or property damage. Within three (3) business days following any such occurrence, Contractor
+shall provide SCM Director of CCHHS with prompt written notification (no later than three (3)
+business days) of any occurrence, on County premises or otherwise, which pertains in any way to
+this Contract and which results in either bodily injury to employees or third parties or property
+damage. The report shall include the name of person(s) injured, if any; name of the injured person’s
+employer, if any; the date, time and location of the occurrence; description of the extent of injury
+and/or damage; the name(s) of witnesses; the names of any providers known to have provided
+treatment for injuries sustained; and such other information as may be required by the County. The
+Contractor shall notify the local police regarding any occurrence requiring an official police
+record.
+The report submitted to the County should indicate whether the police were notified and, if so, the
+number of the police report. The report shall include the name of person(s) injured, if any; name
+of the injured person’s employer, if any; the date, time and location of the occurrence;
+description of the extent of injury and/or damage; the name(s) of witnesses; the names of any
+providers known to have provided treatment for injuries sustained; and such other information
+as may be required by the County. The Contractor shall notify the local police regarding any
+occurrence requiring an official police record. The report submitted to the County should indicate
+whether the police were notified and, if so, the number of the police report.
+
+Page 18 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+GC-23 CONTRACTOR ON-SITE REQUIREMENTS
+The County reserves the right to prohibit any person from entering any County facility for any
+reason. All contractors and subcontractors of the Contractor shall be accountable to the Director
+of the Using Department or his/her designee while on any County property and shall abide by all
+rules and regulations imposed by the County and CCHHS Policies applicable to the scope of this
+Contract including but not limited the policy requiring use of CCHHS’ vendor credentialing and
+financial systems.
+Contractor shall confer with the SCM Director and/or Director of the Using Department(s) to
+ascertain full knowledge of all rules and regulations of the County facilities relative to this Contract
+and shall cause all of its employees, agents and subcontractors to comply therewith. The
+Contractor shall confine the operations of its employees, agents and subcontractors on County
+premises to the performance of the Contract consistent with limits indicated by laws, ordinances,
+permits and/or direction of the Director of the Using Department and shall not encumber the
+premises with materials or debris. In performing the Contract, the Contractor shall not cause or
+permit a condition that endangers the safety of others and shall not load or permit any part of a
+structure to be loaded with a weight that will endanger the safety of the structure or any persons.
+When required, Contractor shall provide documentation that all personnel assigned to provide
+services on-site at a CCHHS facility shall have had a fingerprint based background check, drug
+and TB tests, and designated immunizations/vaccinations. The costs of all such checks, tests and
+immunizations/vaccinations shall be borne by Contractor.
+GC-24 TERMINATION FOR CONVENIENCE AND SUSPENSION OF CONTRACT
+The County may terminate this Contract, or any portion, at any time by notice in writing from the
+County to the Contractor. Unless otherwise stated in the notice, the effective date of such
+termination shall be three business days after the date the notice of termination is mailed by the
+County. If the County elects to terminate the Contract in full, unless otherwise specified in the
+notice of termination, the Contractor shall immediately cease performance and shall promptly
+tender to the County all Deliverables, whether completed or in process. If the County elects to
+terminate the Contract in part, unless otherwise specified in the notice of partial termination, the
+Contractor shall immediately cease performance of those portions of the Contract which are
+terminated and shall promptly tender to the County all Deliverables relating to said portions of the
+Contract, whether completed or in process. Contractor shall refrain from incurring any further
+costs with respect to portions of the Contract which are terminated except as specifically approved
+by the SCM Director.
+Pursuant to Cook County Ordinance 38-85 (c), if this Contract is a multi-year contract, the
+following provision applies: This Contract is subject to County Board approval of appropriations
+for the purpose of the subject contract; and that in the event funds are not appropriated by the
+County Board, or there is a change in services which results in the elimination of the Services
+which are the subject of the Contract, the Contract shall be cancelled without penalty to, or further
+payment being required by, the System Board or the County. The System Board shall give the
+vendor notice of failure of funding or change in services as soon as practicable after the System
+Page 19 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Board becomes aware of the failure of funding. The System Board's or County's obligation to
+perform shall cease immediately upon receipt of notice to the vendor of lack of appropriated funds;
+and that the System Board's or County's obligation under the contract shall also be subject to
+immediate termination or cancellation at any time when there are not sufficient authorized funds
+lawfully available to the System Board to meet such obligation.
+GC-25 GENERAL NOTICE
+All notices required pursuant to this Contract shall be in writing and addressed to the parties at
+their respective addresses set forth below. All such notices shall be deemed duly given if hand
+delivered or if deposited in the United States mail, postage prepaid, registered or certified, return
+receipt requested. Notice as provided herein does not waive service of summons or process.
+TO THE COOK COUNTY HEALTH AND HOSPITALS SYSTEM:
+DIRECTOR OF SUPPLY CHAIN MANAGEMENT
+1901 West Harrison, Ste. 5360
+Chicago, Illinois 60612
+(Include County Contract Number in all notices)
+TO THE CONTRACTOR:
+At address provided on the Execution Pages or as otherwise indicated in writing to County
+Purchasing Agent in a written document which, in bold face type, references the name of the
+Contractor, the County Contract Number and states “NOTIFICATION OF CHANGE IN
+ADDRESS.”
+GC-26 GUARANTEES AND WARRANTIES
+The Contractor shall furnish all guarantees and warranties applicable to the Goods and Services to
+the SCM Director or designee prior to or at the time of delivery. All warrantees shall be the same
+or more favorable commercial warranties and guarantees the Contractor gives to any customer for
+the same or substantially similar Goods, and Services. The rights and remedies so provided shall
+be in addition to and shall not limit any rights afforded to County under this Contract. To the extent
+applicable:
+(1)
+General Service Warrantees. Contractor shall performed in a professional and
+workmanlike manner, and that the Goods and Deliverables, provided by Contractor to CCHHS
+will conform to specifications in the Contract The Services shall be performed in accordance with
+the recognized professional standards and practices in the industry, and Contractor’s Personnel,
+subcontractor(s) and any other person(s) employed or engaged by Contractor in connection with
+this Contract shall have the requisite ability, expertise, knowledge and skill, as appropriate to the
+duties assigned, to perform the Services shall act in accordance with such professional standards
+and industry practices, and in accordance with all applicable milestones and deadlines. Contractor
+shall promptly re-perform, at no additional charge to County, any Services that fail to satisfy the
+foregoing warranty.
+
+Page 20 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+(2)
+Maintenance and/or Support Services. Contractor warrants that during all time periods
+in which Contractor is providing maintenance and/or support Services to the County with respect
+to individual Goods and/or Goods that have been configured into an integrated whole, Contractor
+shall maintain the Goods and all component elements thereof, in good operating condition and in
+accordance with any applicable County-approved acceptance testing criteria, specifications and
+Documentation, and the other applicable requirements of this Contract. Contractor warrants that
+it shall dedicate a sufficient number of qualified personnel and equipment at all times to ensure
+that repairs or preventive maintenance shall be accomplished within twenty-four (24) hours after
+a problem is first reported to Contractor.
+The County shall be entitled to receive any new versions or updates of software as Contractor
+makes them commercially available to its other customers. For the avoidance of doubt, a “new
+version or update” is a change in software that typically provides operational performance
+corrections. At minimum, Contractor will provide maintenance and/or support Services for the
+current release of the software and the prior release.
+Goods that are supplied by or through Contractor pursuant to this Contract, including third party
+products, shall be new, originally manufactured Goods. In addition, experimental Goods will not
+be acceptable. Goods not produced by regular production methods and/or which have not been
+offered for sale to the public through accepted industry trade channels for a reasonable period prior
+to the commencement of the Contract will be considered experimental.
+Contractor shall not make changes to Goods or modify the specifications and documentation
+relating thereto except upon the express written consent of the Cook County Chief Information
+Officer or his or her designee
+Replacement Goods, or components thereof, provided as part of maintenance and/or support
+services may be: (1) new; or (2) factory reconditioned, refurbished, re-manufactured, provided
+that, such reconditioned, refurbished, re-manufactured replacement Goods or components are
+functionally equivalent to new, including, but not limited to, having materially the same
+performance and life expectancy as new.
+(3)
+Manufacturers’ Warranties. Contractor warrants that all Services shall be performed in
+such a manner so as not to void or otherwise limit any applicable manufacturer’s or supplier’s
+warranties or maintenance obligations with regard to any of the Goods installed at any County
+facilities. If any such manufacturer’s or supplier’s warranties or maintenance obligations are so
+voided or limited as a result of work being performed by Contractor hereunder, Contractor shall
+be responsible for servicing or, if necessary, replacing the applicable Good at no cost to the County,
+throughout what would have been the remaining warranty or maintenance period, notwithstanding
+any termination or expiration of this Contract.
+(4)
+Goods. All Goods provided hereunder, and all portions and components thereof, shall be
+free of material or frequent defects, shall be fully compatible with each other and shall operate,
+both on a component-by-component basis and as an integrated whole, in all material respects in
+conformance with the specifications set forth in this Contract, including any County-approved
+acceptance testing criteria and documentation. Contractor shall promptly repair or replace any
+Page 21 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Good or any portion thereof containing any such defect or that fails to so conform, and all such
+cures shall be at no additional charge to County.
+Contractor represents that, as of the installation by Contractor, the Goods and Software shall not
+contain any virus, timer, clock, counter, time bomb, or other instruction, routine, or harmful code
+designed to erase data or programming or to cause them to become inoperable or otherwise
+incapable of being used in the full manner for which designed and created. Contractor further
+warrants and covenants that all Goods that constitute Software shall be compatible with current
+major commercially available virus protection programs.
+Goods that are supplied by or through Contractor pursuant to this Contract, including third party
+products, shall be new, originally manufactured Goods, and Contractor shall not make changes to
+Goods or modify the specifications and documentation relating thereto except upon the express
+written consent of the CCHHS CIO or his or her designee.
+(5)
+Third Party Goods. Contractor hereby assigns to the County all warranties, indemnities,
+and other commitments that Contractor has obtained or shall obtain from any third-party
+manufacturers and suppliers of, and which are otherwise applicable to, any Goods purchased or
+licensed by the County from or through Contractor hereunder, to the fullest extent that the
+foregoing may be so assigned. Contractor warrants that it shall enforce on the County’s behalf
+any such warranties, indemnities, and other commitments, to the extent that they cannot be so
+assigned, as necessary or appropriate at any time during which such warranties, indemnities and
+other protections are in effect. Contractor further warrants and covenants that it shall, at all such
+times, work with and coordinate the efforts of such manufacturers and suppliers to ensure that the
+County promptly obtains any required warranty or other service.
+GC-27 STANDARD OF GOODS
+Except as may be expressly stated in this Contract, only new, originally manufactured Goods will
+be provided and no refurbished, rebuilt, restored or renovated Goods shall be acceptable. In
+addition, experimental materials are not acceptable. Goods not produced by regular production
+methods and/or which have not been offered for sale to the public through accepted industry trade
+channels for a reasonable period of time prior to the commencement of the Contract will be
+considered experimental.
+GC-28 DELIVERY
+All Contract Goods shipped to the County shall be shipped F.O.B., DESTINATION, FREIGHT
+PREPAID AND ALLOWED. Arrangements shall be made in advance by the Contractor in order
+that the County may arrange for receipt of the materials. Unless expressly provided in the Contract,
+truck deliveries will be accepted before 3:00 P.M. on weekdays only. No deliveries will be
+accepted on Saturdays, Sundays or County Holidays. The County is not responsible for delivery
+delays due to waiting times for loading and unloading at dock locations. The County reserves the
+right to add new delivery locations or delete previously listed delivery locations as required during
+the Contract period. The only restriction regarding the County’s right to add new delivery locations
+Page 22 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+shall be that any new or additional location shall be within the geographical boundaries of the
+County of Cook.
+GC-29 QUANTITIES
+Any quantities of Goods set forth in the Contract are estimates for the purpose of determining an
+approximate total Contract amount and may not be the actual quantities required by the County
+during the term of the Contract. The County reserves the right to increase or decrease such
+quantities at Contract pricing to correspond to the actual needs of the County. If the County
+increases the quantities required, any such increase shall be subject to an agreed written
+amendment in the Contract Amount. The County will be obligated to order and pay for only such
+quantities as are from time to time ordered, delivered, and accepted on purchase orders issued by
+the SCM Director.
+GC-30 CONTRACT INTERPRETATION
+Whenever the singular is used herein, the masculine, feminine and neuter gender shall be deemed
+to include the others. The headings of articles, paragraphs and sections in this Contract are included
+for convenience only and shall not be considered by either party in construing the meaning of this
+Contract. If any provision or clause of this Contract shall be held to be invalid, such provision or
+clause shall be deleted from the Contract and the Contract shall be construed to give effect to the
+remaining portions thereof.
+Unless otherwise stated in Part I of this Contract, this Contract shall be interpreted and construed
+based upon the following order of precedence of component parts. Such order of precedence shall
+govern to resolve all cases of conflict, ambiguity or inconsistency:
+Exhibit 2.) Part I, Contract; Exhibit 3.) Part II, General Conditions; Exhibit 4.) Statement of Work;
+Exhibit 5.) Evidence of Insurance; Exhibit 6.) Economic Disclosure Statements including
+Certifications and Execution Forms; Exhibit 1.) CCHHS Board Transmittal.
+
+GC-31 CONFIDENTIALITY
+(1)
+Confidentiality. Contractor acknowledges and agrees that information regarding this
+Contract is confidential and shall not be disclosed, directly, indirectly or by implication, or be used
+by Contractor in any way, whether during the term of this Contract or at any time thereafter, except
+solely as required in the course of Contractor’s performance hereunder. Contractor shall comply
+with the applicable privacy laws and regulations affecting County and will not disclose any of
+County’s records, materials, or other data to any third party. Contractor shall not have the right to
+compile and distribute statistical analyses and reports utilizing data derived from information or
+data obtained from County’s CCHHS without the prior written approval of the CCHHS CEO. In
+the event such approval is given, any such reports published and distributed by Contractor shall be
+furnished to County without charge. Additionally, Contractor shall not use the name or mark of
+the County or CCHHS for an advertising, marketing and/or endorsement or engage in any media
+outreach in any form whatsoever with regard to or arising from this Contract without the prior
+Page 23 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+approval of the CCHHS, Executive Director of Communications or designee. Any such breach of
+this provision shall be cause for immediate termination of the Contract or other applicable
+remedies without the opportunity to cure.
+(2)
+Freedom of Information Act. Contractor understands that the County as a public body is
+required to comply with the Illinois Freedom of Information Act (“FOIA”) [5 ILCS 140/1 et seq.,
+FOIA. Therefore, CCHHS shall have the right to determine whether it will or will not withhold
+information upon receipt of a FOIA request. However, Contractor may reasonably designate in
+writing certain information as Confidential Information as provided herein. If Contractor makes
+such a reasonable designation, CCHHS will use its best efforts to notify Contractor and provide
+an opportunity to assert the information as exempt from copying and inspection under Section
+7(1)(b) or (g) of the Illinois Freedom of Information Act. CCHHS may require Contractor to
+submit justification for asserting the exemption. To the extent that the County is assessed for
+attorneys’ fees and/ or court costs as a result of assisting Contractor in asserting an exemption from
+disclosure, Contractor shall indemnify and hold harmless the County from and against such
+expenses. Additionally, CCHHS may honor a properly executed criminal or civil subpoena for
+such documents without such being deemed a breach of this Contract including any language
+contained in any applicable Contract Exhibit or any subsequent amendment hereto. Contractor
+acknowledges that information regarding this Contract may be discussed in public meetings and
+be disclosed in public documents as a result.
+GC-32 AUDIT; EXAMINATION OF RECORDS
+Upon reasonable notice and during normal business hours, the Contractor agrees that the Cook
+County Auditor or any of its duly authorized representatives shall, until expiration of three (3)
+years after the final payment under the Contract, have access and the right to examine any books,
+documents, papers, canceled checks, bank statements, purveyor’s and other invoices, and records
+of the Contractor related to the Contract, or to Contractor’s compliance with any term, condition
+or provision thereof. The Contractor shall be responsible for establishing and maintaining records
+sufficient to document the costs associated with performance under the terms of this Contract.
+The Contractor further agrees that it shall include in all of its subcontracts hereunder a provision
+to the effect that the subcontractor agrees that the Cook County Auditor or any of its duly
+authorized representatives shall, until expiration of three (3) years after final payment under the
+subcontract, have access and the right to examine any books, documents, papers, canceled checks,
+bank statements, purveyor’s and other invoices and records of such subcontractor involving
+transactions relating to the subcontract, or to such subcontractor’s compliance with any term,
+condition or provision thereunder or under the Contract.
+In the event the Contractor receives payment under the Contract, reimbursement for which is later
+disallowed by the County, the Contractor shall promptly refund the disallowed amount to the
+County on request, or at the County’s option, the County may credit the amount disallowed from
+the next payment due or to become due to the Contractor under any contract with the County.
+To the extent this Contract pertains to Goods or Services which may be reimbursable under the
+Medicaid or Medicare Programs, Contractor shall retain and make available upon request, for a
+Page 24 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+period of four (4) years after furnishing services pursuant to this Contract, the contract, books,
+documents and records which are necessary to certify the nature and extent of the costs of such
+services if requested by the Secretary of Health and Human Services or the Comptroller General
+of the United States or any of their duly authorized representatives. If Contractor carries out any
+of its duties under the Contract through a subcontract with a related organization involving a value
+of cost of $10,000.00 or more over a 12 month period, Contractor will cause such subcontract to
+contain a clause to the effect that, until the expiration of four years after the furnishing of any
+service pursuant to said subcontract, the related organization will make available upon request of
+the Secretary of Health and Human Services or the Comptroller General of the United States or
+any of their duly authorized representatives, copies of said subcontract and any books, documents,
+records and other data of said related organization that are necessary to certify the nature and extent
+of such costs. This paragraph relating to the retention and production of documents is included
+because of possible application of Section 1861(v) (1) (I) of the Social Security Act to this
+Contract; if this Section should be found to be inapplicable, then this paragraph shall be deemed
+inoperative and without force and effect.
+GC-33 GOVERNING LAW
+This Contract shall be governed by and construed under the laws of the State of Illinois. The
+Contractor irrevocably agrees that, subject to the County’s sole and absolute election to the
+contrary, any action or proceeding in any way, manner or respect arising out of the Contract, or
+arising from any dispute or controversy arising in connection with or related to the Contract, shall
+be litigated only in courts within the Circuit Court of Cook County in the City of Chicago, County
+of Cook, State of Illinois, and the Contractor consents and submits to the jurisdiction thereof. In
+accordance with these provisions, Contractor waives any right it may have to transfer or change
+the venue of any litigation brought against it by the County pursuant to this Contract.
+GC-34 WAIVER
+No term or provision of this Contract shall be deemed waived and no breach consented to unless
+such waiver or consent shall be in writing and signed by the party claimed to have waived or
+consented. The waiver of any such provision shall be strictly limited to the identified provision.
+GC-35 ENTIRE CONTRACT
+It is expressly agreed that the provisions set forth in this Contract constitute all the understandings
+and agreements between the parties. Any prior agreements, promises, negotiations, or
+representations not expressly set forth in this Contract are of no force and effect.
+GC-36 FORCE MAJEURE OR UNAVOIDABLE DELAYS
+Neither Contractor nor County shall be liable for failing to fulfill any obligation under this Contract
+if such failure is caused by an event beyond such party’s reasonable control which is not caused
+by such party’s fault or negligence. Such events shall be limited to acts of God, acts of war, fires,
+lightning, floods, epidemics, or riots, any national or regional emergency, complete or partial
+government shutdown, or national or regional shortage of adequate power or telecommunications
+or transportation.
+Page 25 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+GC-37 INDEPENDENT CONTRACTOR STATUS; NO THIRD PARTY BENEFICIARIES
+The Contractor and its employees, agents and subcontractors are, for all purposes arising out of
+the Contract, independent contractors and not employees of the County. It is expressly understood
+and agreed that neither the Contractor nor Contractor’s employees, agents or subcontractors shall
+be entitled to any benefit to which County employees may be entitled including, but not limited
+to, overtime or unemployment compensation, insurance or retirement benefits, workers’
+compensation or occupational disease benefits or other compensation or leave arrangements.
+Nothing contained herein shall be deemed or construed by the parties hereto, or by any third party,
+as creating the relationship or principal and agent or of partnership or of a joint venturer or any
+relationship between the parties hereto other than that of independent contractors. Nothing herein
+shall be construed to confer upon any third parties the status of third party beneficiary.
+GC-38 COOPERATION WITH INSPECTOR GENERAL
+Persons or businesses seeking County contracts are required to abide by all of the applicable
+provisions of the Office of the Independent Inspector General Ordinance (Section 2-281 et seq. of
+the Cook County Code of Ordinances). Failure to cooperate as required may result in monetary
+and/or other penalties. Contractors, subcontractors, licensees, grantees or persons or businesses
+who have a County contract, grant, license, or certification of eligibility for County contracts shall
+abide by all of the applicable provisions of the Office of the Independent Inspector General
+Ordinance. Failure to cooperate as required may result in monetary and/or other penalties.
+GC-39 BUSINESS ASSOCIATE PROVISIONS
+This Section shall apply to the extent that Contractor (“Business Associate”), in performing the
+Contract, has access to Protected Health Information (“PHI”) from or on behalf of the CCHHS
+(“Covered Entity”).
+Business Associate may have access to Protected Health Information ("PHI") from or on behalf of
+Covered Entity. To the extent applicable, the Parties desire to meet their respective obligations
+under the Health Insurance Portability and Accountability Act of 1996, as amended (the "Act").
+The HIPAA Rules shall mean the Privacy, Security, Breach Notification, and Enforcement Rules
+codified in the Code of Federal Regulations ("C.F.R.") at 45 C.F.R. parts 160 and 164, Pub. Law
+No. 104-191 (collectively, "HIPAA") and the Health Information Technology for Economic and
+Clinical Health Act provisions of the American Recovery and Reinvestment Act of 2009, Pub.
+Law No. 111-5 and its implementing regulations (collectively, "HITECH").
+Business Associate agrees that as of the effective date this Contract it shall abide by the provisions
+of this Contract with respect to any Protected Health Information or Electronic Protected Health
+Information (as defined below).
+
+Page 26 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+1.
+
+DEFINITIONS
+
+Terms used, but not otherwise defined, in this Contract shall have the same meaning as those terms
+in the Privacy Rule, Security Rule, Breach Notification Rule, and Enforcement Rule.
+(a).
+
+Breach. "Breach" shall mean the unauthorized acquisition, access, use, or disclosure of Protected
+Health Information which compromises the security or privacy of such information subject to the
+exceptions set forth in 45 C.F.R. 164.402.
+
+(b).
+
+Business Associate. “Business Associate” shall generally have the same meaning as the term
+“Business Associate” at 45 C.F.R. 160.103, and in reference to the party to this agreement, shall
+mean the entity named above.
+
+(c).
+
+Covered Entity. “Covered Entity” shall generally have the same meaning as the term “Covered
+Entity” at 45 C.F.R. 160.103, and in reference to the party to this agreement, shall mean Cook
+County Health and Hospitals System.
+
+(d).
+
+Electronic Protected Health Information. "Electronic Protected Health Information" or "EPHI"
+shall have the same meaning as the term "Electronic Protected Health Information" in 45 C.F.R.
+160.103, limited to the information created, received, maintained, or transmitted by Business
+Associate from or on behalf of Covered Entity.
+
+(e).
+
+Individual. "Individual" shall have the same meaning as the term "Individual" in 45 C.F.R. 160.103
+and shall include a person who qualifies as a personal representative in accordance with 45 C.F.R.
+164.502(g).
+
+(f).
+
+Privacy Rule. "Privacy Rule" shall mean the Standards for Privacy of Individually Identifiable
+Health Information at 45 C.F.R. part 160 and part 164.
+
+(g).
+
+Protected Health Information. "Protected Health Information" or PHI shall have the same meaning
+as the term "Protected Health Information" in 45 C.F.R. 106.103, limited to the information
+created, received, maintained, or transmitted by Business Associate from or on behalf of Covered
+Entity.
+
+(h).
+
+Required By Law. "Required By Law" shall have the same meaning as the term "Required By
+Law" in 45 C.F.R. 164.103.
+
+(i).
+
+Secretary. "Secretary" shall mean the Secretary of the U.S Department of Health and Human
+Services or his designee.
+
+(j).
+
+Security Rule. "Security Rule" shall mean the Security Standards at 45 C.F.R. parts 160, and 164.
+
+(k).
+
+Unsecured Protected Health Information. "Unsecured Protected Health Information" shall mean
+Protected Health Information is not rendered unusable, unreadable, or indecipherable to
+unauthorized persons through the use of a technology or methodology specified by the Secretary.
+
+2.
+
+OBLIGATIONS AND ACTIVITIES OF BUSINESS ASSOCIATE
+Page 27 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+(a).
+
+For purposes of this Part 2, Business Associate shall ensure that any obligations, restrictions, or
+conditions set forth herein shall apply to any of its employees, agents, consultants, contractors or
+subcontractors or assigns who creates, receives, maintains or transmits Covered Entity’s Protected
+Health Information. Business Associate shall not use any Subcontractor to assist Business
+Associate with the provision of services under the Contract without the prior written consent of
+Covered Entity.
+
+(b).
+
+Business Associate shall not use or disclose Protected Health Information other than as permitted
+or required by this Contract or as Required By Law.
+
+(c).
+
+Business Associate shall implement administrative, physical, and technical safeguards that
+reasonably and appropriately protect the confidentiality, integrity, and availability of EPHI that
+Business Associate creates, receives, maintains, or transmits on behalf of Covered Entity as
+required by the Privacy Rule, Security Rule, and the HITECH Act.
+
+(d).
+
+Business Associate shall report to Covered Entity any use or disclosure of the Protected Health
+Information not provided for by this Contract of which it becomes aware.
+
+(e).
+
+Business Associate must, following the discovery of any appearance of a Breach, non-permitted
+use or disclosure, security incident, or other incident affecting unsecured Protected Health
+Information, notify the CCHHS Corporate Compliance and Privacy Program without unreasonable
+delay, and no later than 5 days from the date that the Business Associate discovers such Breach,
+non-permitted use or disclosure, security incident, or other incident. Business Associate shall
+provide any reports or notices required by HIPAA as a result of Business Associate’s discovery.
+On behalf of CCHHS, Business Associate will provide such reports or notices to any party or entity
+(including but not limited to media, Secretary, and individuals affected by the Breach) entitled by
+law to receive the reports or notices as directed by the CCHHS Corporate Compliance and Privacy
+Program. Business Associate agrees to pay the costs associated with notifying individuals affected
+by the Breach, which may include, but are not limited to, paper, printing, and mailing costs. In the
+event of a disagreement, the final determination of whether a Breach occurred will be made by the
+CCHHS Corporate Compliance and Privacy Program.
+
+(f).
+
+If applicable, Business Associate shall provide access, at the request of Covered Entity, and in a
+reasonable time and manner, to Protected Health Information in a Designated Record Set, to
+Covered Entity or, as directed by Covered Entity, to an Individual or an individual’s designee in
+order to meet the requirements under 45 C.F.R. 164.524.
+
+(g).
+
+Business Associate shall, when directed by Covered Entity, make amendment(s) to Protected
+Health Information in a Designated Record Set in a reasonable time and manner, or take other
+measures as necessary, as required by 45 C.F.R. 164.526.
+
+(h).
+
+Business Associate shall make internal practices, books, and records relating to the use and
+disclosure of Protected Health Information received from, or created or received by Business
+Associate on behalf of, Covered Entity available to the Secretary, in a reasonable time and manner
+or as designated by the Secretary, for purposes of the Secretary determining Covered Entity's
+compliance with HIPAA and the HITECH Act.
+Page 28 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+(i).
+
+Business Associate shall restrict disclosure of an Individual's Protected Health Information as
+directed by Covered Entity.
+
+(j).
+
+Business Associate shall provide to Covered Entity when requested for a specific individual, in a
+reasonable time and manner, an accounting of disclosures of Protected Health Information in
+accordance with 45 C.F.R. 164.528.
+
+(k).
+
+In order to monitor the privacy and security of its PHI, the Covered Entity may request, and
+Business Associate shall make available to Covered Entity, information regarding the Business
+Associate’s HIPAA Privacy and/or Security program, including the most recent electronic
+Protected Health Information risk analysis, policies, procedures, Security Incident log and
+responses, and evidence of training, including training materials and training logs.
+
+(l).
+
+To the extent Business Associate is to carry out one or more of Covered Entity's obligations under
+the Privacy Rule, Business Associate shall comply with the requirements of the Privacy Rule that
+apply to Covered Entity in the performance of such obligations.
+3.
+
+PERMITTED USES AND DISCLOSURES BY BUSINESS ASSOCIATE
+
+3.1
+
+For purposes of this Part 3, Business Associate shall ensure that any of its employees, agents,
+consultants, contractors or subcontractors or assigns who creates, receives, maintains or transmits
+Covered Entity’s Protected Health Information shall comply with the provisions set for herein.
+
+(a).
+
+Except as otherwise limited in this Contract, Business Associate may use or disclose Protected
+Health Information to perform functions, activities, or services for, or on behalf of, Covered Entity
+as set forth in this Contract.
+
+(b).
+
+Business Associate may use or disclose Protected Health Information as Required by Law.
+
+(c).
+
+Business Associate agrees to make uses and disclosures and requests for Protected Health
+Information consistent with Covered Entity's minimum necessary policies and procedures.
+
+(d).
+
+Business Associate may not use or disclose Protected Health Information in a manner that would
+violate the Privacy Rule if done by Covered Entity, except for the specific uses and disclosures set
+forth below in Section 3.1 (f), (g), and 3.2.
+
+(e).
+
+Business Associate shall not, directly or indirectly, receive remuneration in exchange for any
+Protected Health Information unless the exchange qualifies as an exception to the HIPAA general
+rule, as outlined in the HIPAA regulations and is permitted by this Contract and the Master
+Contract.
+
+(f).
+
+Business Associate may use Protected Health Information to report violations of law to appropriate
+Federal and State authorities, consistent with 45 C.F.R. 164.502(j)(1).
+
+(g).
+
+Except as otherwise limited in this Contract, Business Associate may use Protected Health
+Page 29 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Information for the proper management and administration of the Business Associate or to carry
+out the legal responsibilities of the Business Associate.
+(h).
+
+Except as otherwise limited in this Contract, Business Associate may disclose Protected Health
+Information for the proper management and administration of the Business Associate or to carry
+out the legal responsibilities of the Business Associate, provided that disclosures are Required By
+Law, or Business Associate obtains reasonable assurances from the person to whom the
+information is disclosed that it will remain confidential and used or further disclosed only as
+Required By Law or for the purpose for which it was disclosed to the person, and the person
+notifies the Business Associate of any instances of which it is aware in which the confidentiality
+of the information has been breached.
+
+(i).
+
+Except as otherwise limited in this Contract, Business Associate may use Protected Health
+Information to provide Data Aggregation services to Covered Entity as permitted by 45 C.F.R.
+164.504(e)(2)(i)(B).
+
+3.2
+
+Data Ownership
+Business Associate acknowledges and agrees that Covered Entity owns all right, title, and interest
+in and to all Protected Health Information of Covered Entity that Business Associate creates,
+receives, maintains or transmits and that such all such right, title, and interest is vested in Covered
+Entity; nor shall Business Associate nor any of its employees, agents, consultants or assigns have
+any right, title or interest to any of the Protected Health Information. Business Associate shall not
+use the Protected Health Information in any form including, but not limited to, stripped, deidentified, or aggregated information, or statistical information derived from or in connection with
+the Protected Health Information, except as expressly set forth in this Contract. Business Associate
+represents, warrants, and covenants that it will not compile and/or distribute analyses to third
+parties using any Protected Health Information without Covered Entity’s express written consent.
+
+4.
+
+OBLIGATIONS OF COVERED ENTITY
+
+4.1
+
+Provisions for Covered Entity to Inform Business Associate of Privacy Practices and
+Restrictions
+
+(a).
+
+Covered Entity shall notify Business Associate itself of any limitation(s) in the Notice of Privacy
+Practices of Covered Entity, to the extent that such limitation may affect Business Associate's use
+or disclosure of Protected Health Information.
+
+(b).
+
+Covered Entity shall notify Business Associate itself of any changes in, or revocation of,
+permission by Individual to use or disclose Protected Health Information, to the extent that such
+changes may affect Business Associate's use or disclosure of Protected Health Information.
+
+(c).
+
+Covered Entity shall notify Business Associate itself of any restriction on the use or disclosure of
+Protected Health Information that Covered Entity has agreed to as provided in 45 C.F.R. 164.522,
+to the extent that such restriction may affect Business Associate's use or disclosure of Protected
+Health Information.
+Page 30 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+(d).
+
+Covered Entity shall obtain any consent, authorization or permission that may be required by the
+Privacy Rule or applicable state law and/or regulations prior to furnishing Business Associate with
+Protected Health Information .
+4.2
+
+Permissible Requests by Covered Entity
+
+Covered Entity shall not request Business Associate to use or disclose Protected Health
+Information in any manner that would not be permissible under the Privacy Rule if done by
+Covered Entity except for uses and disclosures under Section 3.2.
+5.
+
+TERMINATION
+
+(a).
+
+Term. This Contract shall be effective as of the Effective Date, and shall either terminate when
+Covered Entity provides written notice to Business Associate or as provided in 5(b), Termination
+for Cause, below.
+
+(b).
+
+Termination for Cause. Upon Covered Entity's knowledge of a material breach by Business
+Associate, Covered Entity shall either:
+
+1.
+
+Provide an opportunity for Business Associate to cure the breach or end the violation and if
+Business Associate does not cure the breach or end the violation within the time specified by
+Covered Entity, terminate this Contract;
+Immediately terminate this Contract if Business Associate has breached a material term of this
+Contract and cure is not possible.
+
+2.
+
+(c).
+1.
+
+Effect of Termination.
+
+Except as provided in paragraph (2) of this Section, upon termination of this Contract, for any
+reason, Business Associate shall return or destroy all Protected Health Information received from
+Covered Entity, or created, received, or maintained by Business Associate on behalf of Covered
+Entity. This provision shall apply to Protected Health Information that is in the possession of
+consultants, contractors, subcontractors, employees or agents of Business Associate. Business
+Associate shall retain no copies of the Protected Health Information.
+a. Business Associate shall render all paper PHI unusable through an appropriate method, which may
+include shredding, pulverization or burning.
+b. Business Associate shall render all ePHI unusable, unreadable, or indecipherable to unauthorized
+individuals through the use of a technology or methodology specified by the Secretary of HHS.
+c. To the extent it is necessary for Business Associate to destroy any PHI, Business Associate shall
+provide a specific, detailed account of the destruction process if so account is requested by Covered
+Entity.
+
+Page 31 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+2.
+
+In the event that Business Associate determines that returning or destroying the Protected Health
+Information is infeasible, Business Associate shall provide to Covered Entity notification of the
+conditions that make returning or destroying it infeasible. If Covered Entity agrees that such return
+or destruction is infeasible, Business Associate shall extend the protections of this Contract to such
+Protected Health Information and limit further uses and disclosures of such Protected Health
+Information to those purposes that make the return or destruction infeasible, for so long as Business
+Associate maintains such Protected Health Information.
+
+3.
+
+The provisions of this Section 5(c), Effect of Termination, shall survive the termination of this
+Contract.
+
+6.
+
+MITIGATION
+
+(a).
+
+Mitigation. To the extent known or reasonably foreseeable, Business Associate agrees to use
+commercially reasonable efforts to mitigate, to the extent practicable, any harmful effect resulting
+from a use or disclosure of Protected Health Information by Business Associate or its agents in
+violation of the terms of this Contract. Business Associate agrees to establish procedures to
+investigate the PHI Incident, mitigate losses and protect against any future PHI Incidents, and to
+provide a description of these procedures and the specific findings of the investigation to Covered
+Entity in the time and manner reasonably requested by Covered Entity.
+7.
+
+MISCELLANEOUS
+
+(a).
+
+Regulatory References. A reference in this Contract to a Section in HIPAA or the HITECH Act
+means the Section as in effect or as amended.
+
+(b).
+
+Amendment. The Parties agree to meet and confer regarding amendment of this Contract from
+time to time as is necessary for either Party or both Parties to comply with the requirements of
+HIPAA and the HITECH Act. Any amendment, however, must be mutually agreed upon by the
+Parties in writing. In the event the Parties are, for any reason, unable to agree on an acceptable
+amendment, either Party may terminate this Contract on written notice to the other Party.
+
+(c).
+
+Interpretation. Any ambiguity in this Contract shall be resolved to permit the Parties to comply
+with the HIPAA and the HITECH Act as may be amended from time to time.
+
+(d).
+
+Construction of Terms. The terms of this Contract shall be construed in light of any applicable
+interpretation or guidance on HIPAA and/or the HITECH Act issued by HHS or the Office for
+Civil Rights ("OCR") from time to time.
+
+(e).
+
+No Third Party Beneficiaries. Nothing in this Contract shall confer upon any person other than the
+Parties and their respective successors or assigns, any rights, remedies, obligations, or liabilities
+whatsoever.
+
+GC-40 REQUIRED CONTRACTOR FILING WITH COOK COUNTY BOARD OF ETHICS
+
+Page 32 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+  
+
+Any person or persons doing business with Cook County, upon execution of a contract with Cook
+County, are required to disclose to the Cook County Board of Ethics the existence of familial
+relationships they may have with all persons holding elective office in the State of Illinois, the
+County of Cook, or in any municipality within the County of Cook. The disclosure required by
+this section shall be filed by January 1 of each calendar year or within thirty (30) days of the
+execution of any contract or lease. Any person filing a late disclosure statement after January 31
+shall be assessed a late filing fee of $100.00 per day the disclosure is late. Any person found guilty
+of violating any provision of this section or knowingly filing a false, misleading, or incomplete
+disclosure to the Cook County Board of Ethics shall be prohibited, for a period of three (3) years,
+from engaging, directly or indirectly, in any business with Cook County. Note: Please see Chapter
+2 Administration, Article VII Ethics, Section 2-582 of the Cook County Code, available at
+www.municode.com, to view the full provisions of this section. The Cook County Code of
+Ordinances is available on line at www.municode.com. Questions concerning this disclosure
+requirement should be directed to the Cook County Board of Ethics.
+GC-41 GOVERNMENT FUNDED HEALTHCARE EXCLUSIONS
+Contractor shall take those steps necessary to ensure that the supplies, goods, equipment, or
+services required to be furnished pursuant to this Contract are not being provided in whole or in
+part by individuals or entities who or which have been excluded from participation in Federally
+funded healthcare programs.
+GC-42 REPORTING SUSPECTED OR KNOWN FRAUDULENT ACTIVITY
+Pursuant to the Cook County, Illinois Code of Ordinances Sec. 34-250
+Any Person involved in the Cook County Procurement process, including employees, contractors,
+and those seeking to do business with the County, shall report directly and without any undue
+delay, any suspected or known fraudulent activity in the County’s procurement process to the
+Office of the Cook County Inspector General. In addition to any applicable laws protecting
+whistleblowers, the County shall ensure that a report made in good faith will not result in any
+adverse actions taken by the Board or the County against the Person making such a report. The
+System Director of Supply Chain Management’s procedures will include a mechanism to publish
+this provision to all appropriate Persons.
+
+END OF SECTION
+
+Page 33 of 33
+Part II General Conditions – For External Distribution. May 01, 2017
+
+ 

@@ -1,0 +1,1899 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Wednesday, April 10, 2013 at the hour of 8:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Michael called the meeting to order.
+Present:
+
+Chairman Edward L. Michael and Directors Luis Muñoz, MD, MPH and Carmen Velasquez (3)
+Director Hon. Jerry Butler
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+David Barker, MD – Ruth M. Rothstein CORE
+Center of Cook County
+Randolph Johnston – System Associate General
+Counsel
+Irene Marks – Ambulatory and Community Health
+Network of Cook County
+Enrique Martinez, MD – Medical Director,
+Outpatient Services
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+
+II.
+
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief of Clinical
+Integration
+Stephen Stabile, MD - Ambulatory and Community
+Health Network of Cook County
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+Pierre Wakim, MD – Provident Hospital of Cook
+County
+
+Public Speakers
+Chairman Michael asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Report from System Interim Director of Quality and Patient Safety (Attachment #1)
+Dr. John Jay Shannon, Chief of Clinical Integration, presented the April 2013 Quality Report from the
+Ambulatory and Community Health Network of Cook County (ACHN). He introduced the following
+individuals from ACHN, who provided an overview of the report: Dr. Stephen Stabile, Chair of the ACHN
+Quality Council; and Irene Marks, APN, Interim Director of Quality and Accreditation for ACHN. Subjects
+reviewed in the report included the following: ACHN Patients – data, demographics, prevalence of chronic
+disease and financial class; ACHN Quality Council; Quality Committees; current Committee initiatives; Quality
+monitoring; 2012 National Patient Safety Goals Compliance; strategy for improvement; Patient-Centered
+Medical Home Initiative; and ACHN Quality Goals. The Committee discussed the information.
+An error was noted on page 5 of the presentation. Ms. Marks indicated that the information should reflect that
+56% of the ACHN patients are female, and 44% of the patients are male.
+
+Page 1 of 45
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, April 10, 2013
+Page 2
+
+III.
+
+Report from System Interim Director of Quality and Patient Safety (continued)
+Chairman Michael noted that 65% of the patients in 2012 were uninsured, according to the information
+presented. He asked whether the administration knows what percentage of that 65% might be eligible for
+CountyCare. Dr. Ram Raju, Chief Executive Officer, responded that, as reflected on page 5 of the presentation,
+the patients between the ages of 25-64 (70%) and 19-24 (8%) would be eligible; the only exception to this
+would be those undocumented residents included within the two groups. In response to Chairman Michael’s
+question regarding the percentage of undocumented residents within those two groups, Dr. Raju stated that he
+was unsure, but indicated that he would follow-up on the question1.
+Chairman Michael inquired whether data is available regarding patient compliance with medications for those
+patients being treated for hypertension. He stated that, as the System moves to a medical home model, it will be
+important to be able to follow patients with chronic conditions and make sure they are taking their medications;
+it is relatively inexpensive to prescribe hypertension medication – if the patient takes the medication, the
+condition is able to be controlled, in a lot of cases. Dr. Enrique Martinez, Medical Director of Outpatient
+Services, stated that this data should be available; he indicated that he will produce a report2.
+Chairman Michael noted that the System will need to become more intensive in follow-up and tracking of
+patients. He inquired regarding the status of the implementation of information technology strategies for this
+purpose. Dr. Stabile responded that a care management application or patient registry is being built specifically
+for the System by staff in the Information Technology (IT) Department. Chairman Michael asked whether this
+application would allow for the ability to communicate directly with the patients. Dr. Stabile responded that
+this application is an internal tool; it is not a patient portal. Chairman Michael inquired whether there is a text
+messaging system that is linked to the day-of-care plan that can be used to remind patients to take their
+medication, especially for those patients with chronic diseases and conditions. Dr. Stabile responded that this
+concept is the next evolution that the IT Department is working on, in order to have better ways of connecting
+with the patients. Dr. Shannon stated that this concept is one that is currently being tested in clinical trials. Dr.
+Stabile noted that, with regard to the System’s specialty referral system, IRIS, patients get text messages and/or
+emails to notify them of their appointments and reminders. Dr. David Barker, Chief Medical Officer of the
+Ruth M. Rothstein CORE Center of Cook County, provided additional information regarding the subject. He
+stated that having a patient portal is a Meaningful Use requirement; staff from Health Information Systems and
+Cerner are working on creating a patient portal. He indicated that he is not sure whether text messaging will be
+included as a feature, but he stated that it will have several features for patients to access, including health
+education information and test results.
+With regard to care management, Director Velasquez inquired whether community health workers are currently
+part of the care management team. Dr. Stabile responded in the negative. Director Velasquez stated that
+community health workers help to support change in the behavior of the patient; their services are integral to the
+provision of primary care and the patient-centered medical home.
+Chairman Michael stated that great improvements have been made to improve the ability to electronically order
+medications and get them to the patient. He asked whether the percentage is known of those patients who fail to
+get their prescription the first time it is ordered. Dr. Stabile responded that he believes the percentage is very
+low, as the ability to address those types of issues is so much better now. Dr. Raju noted that, in the future, that
+percentage should shrink even further, because the CountyCare patients will have a pharmacy benefit
+management company; those patients will be able to get their prescriptions filled at their local pharmacy and
+will not be limited to having to have their prescriptions filled at Stroger Hospital or at Oak Forest Health Center.
+
+Page 2 of 45
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, April 10, 2013
+Page 3
+
+IV.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, March 13, 2013
+Director Velasquez, seconded by Director Muñoz, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of March 13, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+B. Request for authorization to enter into clinical training agreements
+This item was deferred.
+C. Any items listed under Sections IV, V and VI
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Pierre Wakim, President of the Executive Medical Staff (EMS) of Provident Hospital of Cook County,
+presented his report. The EMS met on Friday, April 5th; additionally the quarterly Medical Staff Dinner was
+held yesterday. At the meetings, an information technology update was provided; there were no quality
+issues presented. Dr. Wakim indicated that the Emergency Medicine yearly update is scheduled to be
+presented at the Provident Joint Conference Committee Meeting scheduled for later that morning. He noted
+that staff is trying to rejuvenate the working group committee that was previously in place for the purpose of
+discussing the best way to utilize resources at Provident Hospital.
+With regard to the Bylaws of the Medical Staff of Provident Hospital of Cook County, Dr. Wakim stated
+that they are complete. They were sent to the State’s Attorney’s Office; EMS will need to convene one
+more time; following that activity, it is expected that the complete changes will be brought to this
+Committee for approval.
+Dr. Ozuru Ukoha, President of the EMS of Stroger Hospital of Cook County, presented his report. He stated
+that the EMS met yesterday. A report was received from the Medical Records Committee. He stated that
+the goals of that Committee remain; the goals are to improve the documentation for the purpose of
+communication, regulatory requirement, and now billing. He stated that avoiding delinquencies is an issue.
+It is recognized that there is a need to somehow disseminate information regarding delinquencies well before
+the chart becomes delinquent; this is an ongoing chronic issue, but it is recognized and efforts are being
+made to address the issue.
+
+VI.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (Attachment #2)
+
+Note: the Committee did not recess the regular session and convene into closed session.
+Page 3 of 45
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, April 10, 2013
+Page 4
+
+VI.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (continued)
+Director Muñoz, seconded by Director Velasquez, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Michael declared that the meeting was
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Edward L. Michael, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+1
+
+Follow-up: question regarding the percentage of undocumented residents within the 65% of the ACHN patients
+in 2012 that were uninsured. Page 2.
+
+2
+
+Follow-up: report to be provided in response to request for report/data regarding patient compliance with
+medications for those patients being treated for hypertension. Page 2.
+
+Page 4 of 45
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+April 10, 2013
+
+ATTACHMENT #1
+
+Page 5 of 45
+
+  
+
+ 
+
+ACHN Quality
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACHN Quality
+2
+
+ Irene Marks,, APN,, Interim Director of Quality
+Q
+y and
+
+
+
+
+
+Accreditation
+Irv Pikelny, RHIA, Associate Director of Quality
+Doris Kelly, RN, Quality Nurse
+Steve Stabile, MD-Chair, Quality Council
+Frank Zayyad, AAIII
+
+Page 7 of 45
+
+ Who are our ACHN patients?
+3
+
+ Calendar y
+year 2012 data
+ Demographics
+ Prevalence of chronic disease
+ Financial Class
+•
+
+Includes primary, intermediate and
+specialty care
+
+Page 8 of 45
+
+ Race/Ethnicity
+4
+
+ 53
+53% African American
+ 21% White
+ 28% Latino/Hispanic/Spanish
+/
+p
+/ p
+origin
+g
+4
+4.6% Asian
+
+Page 9 of 45
+
+ Age/ Gender
+
+ 
+
+Page 10 of 45
+
+Financial Class
+6
+
+ 65%
+5 Uninsured
+ 18% Medicaid
+ 13%
+3 Medicare
+ 4% Other insurance
+
+Page 11 of 45
+
+ ACHN Adult Chronic Disease: 2011 vs. 2012
+
+.
+
+%
+
+7
+
+80.00
+2011
+
+70.00
+
+2012
+
+60.00
+50.00
+
+39.83
+
+41.74
+
+40.00
+30.00
+
+20.81 22.10
+
+21.88
+
+22.98
+
+20.00
+8 51
+7.54 8.51
+
+10.00
+
+7.00
+
+7.27
+3.97 4.11
+
+0.00
+DM
+
+HTN
+
+Asthma
+
+Lipid Disorder
+
+Page 12 of 45
+
+CAD
+
+CHF
+
+ ACHN Chronic Disease Ranking:
+Adult with Diabetes 2012
+Health Center/Clinic
+
+%
+
+Rank
+
+Logan Square
+
+46.62
+
+1
+
+Fantus GMC
+
+45.77
+
+2
+
+Prieto
+
+38 61
+38.61
+
+3
+
+33.21
+
+4
+
+32.19
+
+5
+
+Austin
+
+31.33
+
+6
+
+Englewood
+g
+
+30.85
+
+7
+
+Vista
+
+30.13
+
+8
+
+Robbins
+
+30.01
+
+9
+
+Near South
+
+28.73
+
+10
+
+Cottage Grove
+
+27.63
+
+11
+
+Woodlawn
+
+26.53
+
+12
+
+Cicero
+
+26.18
+
+13
+
+Sengstacke Primary Care
+
+25.92
+
+14
+
+Sengstacke Specialty
+
+25.06
+
+15
+
+SCC
+
+23 21
+23.21
+
+16
+
+Fantus Other2
+
+23.04
+
+17
+
+OFA Primary
+
+22.71
+
+18
+
+Fantus ASC
+
+19.39
+
+19
+
+Fantus Peds
+
+10.38
+
+20
+
+Morton East
+
+0.58
+
+21
+
+Children Advocacy
+
+0.00
+
+22
+
+Woody Winston
+OFA Specialty
+
+3
+
+8
+
+Page 13 of 45
+
+ ACHN Chronic Disease Ranking:
+Adult Patients with HTN 2012
+Health Center/Clinic
+
+%
+
+Rank
+
+Fantus GMC
+
+80.54
+
+1
+
+Englewood
+
+74.59
+
+2
+
+Austin
+
+70.44
+
+3
+
+Woody Winston
+
+68.33
+
+4
+
+64.94
+
+5
+
+64.73
+
+6
+
+Woodlawn
+
+62.87
+
+7
+
+Robbins
+
+61.71
+
+8
+
+OFA Specialty 3
+
+60.73
+
+9
+
+Cottage Grove
+
+59.11
+
+10
+
+Sengstacke Specialty
+
+56.11
+
+11
+
+L
+Logan
+Square
+S
+
+51.90
+
+12
+
+Prieto
+
+46.67
+
+13
+
+SCC
+
+42.74
+
+14
+
+Vista
+
+42.53
+
+15
+
+OFA Primary
+
+41.99
+
+16
+
+Cicero
+
+38.06
+
+17
+
+36.00
+
+18
+
+Fantus Other
+
+33.81
+
+19
+
+Fantus
+a us Peds
+eds
+
+16.43
+6 43
+
+20
+0
+
+Children Advocacy
+
+11.11
+
+21
+
+Morton East
+
+0.58
+
+22
+
+Sengstacke Primary Care
+Near South
+
+9
+
+Fantus ASC
+2
+
+Page 14 of 45
+
+ ACHN Chronic Disease Ranking:
+Adult Patients with Asthma 2012
+Health Center/Clinic
+
+%
+
+Rank
+
+Fantus Peds
+
+18.46
+
+1
+
+Sengstacke Primary Care
+
+16.08
+
+2
+
+Near South
+
+14 82
+14.82
+
+3
+
+Englewood
+
+14.35
+
+4
+
+14.21
+
+5
+
+Austin
+
+13.20
+
+6
+
+Fantus GMC
+
+12.72
+7
+
+7
+
+Woodlawn
+
+12.07
+
+8
+
+Woody Winston
+
+12.01
+
+9
+
+Fantus Other2
+
+11.37
+
+10
+
+10.93
+
+11
+
+10.81
+
+12
+
+Robbins
+
+9.30
+
+13
+
+OFA Primary
+
+8.66
+
+14
+
+SCC
+
+8.39
+
+15
+
+L
+Logan
+Square
+S
+
+7.83
+
+16
+6
+
+Fantus ASC
+
+7.34
+
+17
+
+Vista
+
+5.90
+
+18
+
+Prieto
+
+5.52
+
+19
+
+Cicero
+
+5 26
+5.26
+
+20
+
+Morton East
+
+3.47
+
+21
+
+Children Advocacy
+
+0.00
+
+22
+
+Sengstacke Specialty
+
+10
+
+Cottage Grove
+OFA Specialty
+
+3
+
+Page 15 of 45
+
+ What’s notable on previous slides
+11
+
+ Leading
+g ACHN Diagnoses
+g
+are chronic illnesses;;
+ Diabetes,
+
+Hypertension and Asthma
+ A large, growing proportion of ACHN utilization
+ Opportunities for improving care model and
+population
+p
+p
+health status
+ Sensitive to PCMH key Transformation
+Concepts
+p
+
+Page 16 of 45
+
+ ACHN Quality Council
+12
+
+ Meets monthly
+y
+ Alternating Quality and Accreditation focus
+ Interdisciplinary
+p
+y
+ Committee structure
+
+Review Quality data
+ Recommend Improvement strategies/initiatives
+ Develop and approve clinical guidelines
+
+
+Page 17 of 45
+
+ Quality Committees
+13
+
+ Chronic Disease-Anne Jacobson,, MD
+ Preventative-Emeka Ezike, MD
+ Pediatrics-Denise Cunill,, MD
+ Maternal-Open
+ Access-Enrique
+q Martinez,, MD,, CMO
+ Behavioral-Open
+ Occurrences/complaints-Irene
+/
+p
+Marks,, RN
+ Accreditation-Irene Marks, RN
+ Liaison to Lab Committee-Nevenka Maric,, MD
+
+Page 18 of 45
+
+ Current Committee Initiatives
+14
+
+ Cervical cancer screening
+gg
+guidelines
+ Analysis of care of poorly controlled diabetics
+ ACHN Guidelines for diabetes management
+g
+ ABC’s: Blood Glucose (A1c), Hypertension(BP) &
+ Dyslipidemia(Cholesterol)
+ Development of network-wide ambulatory maternal
+
+care guidelines
+ Depression
+D
+i screening,
+i
+diagnosis
+di
+i and
+d ttreatment
+t
+t pilot
+il t
+ Developmental screening in children
+
+Page 19 of 45
+
+ Summary: Poorly controlled diabetics
+280 charts, pts w/A1c >10, 20% random sample each site
+15
+
+Goal- To determine:
+
+
+
+
+
+
+Where to target resources
+Site specific issues to be addressed by Leadership
+D
+Determine
+i needed
+d d targeted
+d provider
+id education,
+d
+i
+iintervention
+i
+
+Patient Challenges Identified
+
+
+
+
+
+
+
+
+Multiple co-morbidities
+co morbidities
+Poor adherence w/meds and lifestyle recommendations
+Poor show-rates for appointments
+Failure to complete lab tests as ordered
+Reluctance/fear of medications/insulin
+
+Page 20 of 45
+
+ Diabetes study cont’d
+16
+
+ Provider challenges
+g in management:
+g
+
+Clinical measures not addressed sufficiently by
+therapeutic changes and intervals to assess impact of
+action too long
+ Cut/paste pre-completed
+ Note “poor
+poor compliance
+compliance” w/o exploration of cause
+ Missed opportunities to check labs
+ Missed opportunities
+pp
+to address p
+poor g
+glycemic
+y
+control
+ Competing clinical priorities
+
+
+Page 21 of 45
+
+ Diabetes study cont’d
+17
+
+ PCMH Key
+y Strategies
+g for Improvement
+p
+
+Systematic, prompt follow up of no-shows by care
+coordination
+ Increased
+d non-provider
+id clinical
+li i l support b
+between visits
+i i b
+by
+RNs and CMAs
+ IT support to better manage/track for highest need
+patients by a Patient Registry or Care Management App
+ Enhanced support for patient self-management through
+care management, group visits, health educators
+ Coordination of specialty and primary care
+
+
+Page 22 of 45
+
+ Depression Care: Modified IMPACT Model
+18
+
+ Universal screening
+g of adults
+ Development of adolescent strategy
+ PHQ9
+Q9 screening
+g tool
+ Diagnostic training and support
+ Treatment guidelines
+g
+ Patient Care Management
+ Consultative p
+psychiatric
+y
+care
+ Model for network-wide behavioral health
+
+integration
+
+Page 23 of 45
+
+ Quality Monitoring
+19
+
+ Care of Diabetics
+ Glucose Control
+ Lipid Control
+ Pediatric Immunizations
+ Influenza Vaccination
+
+Page 24 of 45
+
+ Diabetes 2012
+20
+
+23557 unique diabetic patients had an ACHN primary care clinic visit Jan. thru Dec, 2012. 
+ had an A1c test within the previous 1 year, (Bmk: 82%). 
+87.3%
+79 6%
+79.6%
+ had an LDL test within the year (Bmk: 81%) and
+h d LDL t t ithi th
+(B k 81%) d
+23.7%
+had A1c result > 9.0  (Bmk: <29%)
+55 3%
+55.3%
+had LDL result <100 (Hedis HMO Bmk: 47.7)
+had LDL result <100
+(Hedis HMO Bmk: 47 7)
+
+Page 25 of 45
+
+ Pediatric Immunization
+21
+
+ Primary Series of immunizations by age 2
+ Includes:
+ Dtap
+ IPV
+ Hib
+ Hep B
+ MMR
+ Varicella
+ Not included
+included, but focus remains:
+ PCV
+ Hepatitis A
+
+Page 26 of 45
+
+ Peds Immunizations
+22
+
+Qtr 4 2012 
+24 mo. Immunizations UTD%
+100.0%
+80 0%
+80.0%
+60.0%
+40.0%
+
+%
+
+20 0%
+20.0%
+0.0%
+
+CY 2012 Peds Immunizations 
+446  ACHN (IHC) patients reached 2 years of age Jan‐Dec 2012
+f h
+d f ( b 3) i
+i i ( C ' k %)
+349 78.3% of these were up‐to‐date for (combo3) immunizations (IHC B'mk 71%)
+Page 27 of 45
+
+ Influenza Immunization
+2009-2012
+2009 2012
+23
+
+Vaccines Administered
+50000
+49000
+48000
+47000
+6
+46000
+
+Total no. Vaccines Administered
+
+45000
+44000
+43000
+42000
+41000
+2009/10
+/
+
+2010/11
+/
+
+2011/12
+/
+
+Page 28 of 45
+
+ Influenza Immunization Rates
+2009-2012
+24
+
+70.00
+60.00
+50.00
+40.00
+30.00
+
+2009/10
+2010/11
+
+20.00
+
+2011/12
+
+10.00
+0.00
+
+Page 29 of 45
+
+ 2012 National Patient Safety Goals % Compliance
+25
+
+100
+90
+80
+70
+60
+50
+5
+40
+30
+20
+10
+0
+Patient Identification
+
+Medication
+Reconciliation
+ili i
+
+Critical/Panic Level
+
+Page 30 of 45
+
+Time-Out
+
+Hand Hygiene
+
+ ACHN Strategy for Improvement
+26
+
+ Transformation!
+ Patient Centered Care
+ Medical Homes
+ Team Based
+ Coordinated
+ Working
+ki at the
+h top off li
+licenses &
+skills
+ High
+High- Touch
+ Care management of high risk
+
+Page 31 of 45
+
+ Patient Centered Medical Home Initiative
+27
+
+ Piloted in 5 sites from July-December 2012
+ Rolling out to all primary care sites January through
+
+
+
+
+
+December 2013
+C
+Complementary
+l
+t
+tto CountyCare
+C
+t C
+and
+d in
+i preparation
+ti
+for increase in managed care
+PCMH team:
+Denise Gilbert, Irv Pikelny, Steve Stabile
+Resources:
+
+
+
+Staffing
+Technology- Empanelment, CMapp
+
+Page 32 of 45
+
+ CMapp
+28
+
+ Will overcome the challenge
+g of data
+ Three main features:
+ Day-of-Care plan
+ Panel-based care
+ Panel management
+ Quality reporting by site
+site, provider/team
+
+Page 33 of 45
+
+ SELF‐ASSESSMENT ‐ ALL PILOTS
+1ST EVAL
+
+7.7
+5.9
+
+1.0-3.9
+4.0-6.9
+7.0-9.9
+10 0-12 0
+10.0-12.0
+
+2ND EVAL
+
+7.5
+4.24.8
+
+6.1
+4.8
+
+4.1
+
+5.4
+5
+4
+3.9
+
+6.3
+4.58
+
+limited progress with the PCMH components
+basic progress with the PCMH components
+reasonably good progress with the PCMH components
+fully developed systems for the PCMH components areas
+29
+Page 34 of 45
+
+ PCMH Components
+30
+
+ Team-based care
+ Empanelment
+ Care Management
+g
+ Access
+ Registry
+g y ((Cmapp)
+pp)
+ High prevalence disease-specific care
+
+Page 35 of 45
+
+ ACHN Quality Goals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+Benchmark
+
+Quality Measure
+Diabetes Care
+A1c done annually for diabetics
+82% 
+% diabetics with A1c <9
+65%
+Lipids done annually in diabetics
+80%
+LDL 100 i di b i
+LDL < 100 in diabetics
+50%
+50% 
+Preventive
+Pap smears done this year or in previous three years women age 21‐64, excluding hysterectomy
+74%
+% age 6 months+ on 8/1/12 that receive one or more flu vaccine 8/1/12‐4/1/13
+
+50%
+%>=65 with pneumococcal vaccine
+81%
+% of all patients screened for tobacco use and exposure
+62.4%
+% of all patients with intervention for tobacco use/exposure
+85 %
+% of women age 50‐69 who received a mammogram in this year or the previous year
+65%
+Page 36 of 45
+
+ Quality Goals (cont’d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+Asthma Care
+Controller medication prescribed in past year for persistent asthmatics (mild, moderate or 
+severe—ii.e. all except mild intermittent)
+severe
+e all except mild intermittent)
+80%
+% of asthmatics with influenza vaccine during influenza season as defined above
+Behavioral Health
+50% 
+% Patients age 13+ who had a screening with PHQ‐2
+10%
+Access
+PCP visit within 7 days following inpatient admission
+50%, 
+Babies ‐a well‐baby PCP visit within 11 days of discharge
+90%
+PCP i i i hi 7 d
+PCP visit within 7 days of ED discharge
+f ED di h
+50%
+Phone Access global score 
+>80
+Pediatric
+% of children up‐to‐date
+% of children up
+to date with immunizations by 24mo
+with immunizations by 24mo
+71%
+% of children with one lead result by age 12mo 
+72%
+% of children with two lead results by age 24mo 
+72%
+% of children with one ASQ by age 12mo; 
+65% 
+% of children with one ASQ by age 12mo‐24mo; 
+55% 
+% of children with one ASQ by age 24mo‐36mo
+50% 
+Page 37 of 45
+
+ Quality Goals (cont’d)
+33
+
+ Maternal
+ % with Tdap documented
+ Influenza vaccine
+ %  with HIV test
+
+80%
+69.2 %
+
+ Safety
+ Compliance with national patient safety goals
+
+100%
+ Satisfaction
+ Good or very good
+
+80%
+
+Page 38 of 45
+
+ Any Questions?
+
+Page 39 of 45
+
+ 
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+April 10, 2013
+
+ATTACHMENT #2
+
+Page 40 of 45
+
+ John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+ 
+
+Medical Staff Appointments/Reappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+Andablo, Araceli, MD
+Appointment Effective:
+
+De Biase, Norbert, MD
+Appointment Effective:
+
+INITIAL APPOINTMENT APPLICATIONS 
+
+ACHN/General Medicine Active Physician
+April 10, 2013 thru April 9, 2015
+
+ACHN/Family Medicine Active Physician
+April 10, 2013 thru April 9, 2015
+
+Mal Non-Physician Appointment Applications
+
+ 
+
+Veliyathumalil, Jasseena B., CNP
+With Babu, Ambika R., MD
+
+Effective:
+
+Medicine/Endocrinology Nurse Practitioner
+
+April 10, 2013 thru April 9, 2015
+
+APPLICATIONS
+
+Department of Emergency Medicine
+
+Dissanayake, Vinodinee, MD
+
+Reappointment Effective:
+
+Karydes, Harry, DO
+Reappointment Effective:
+
+Nelson, Michael, MD
+Reappointment Effective:
+
+Schwab, Theresa, MD
+Reappointment Effective:
+
+Wu, Lisa, MD
+Reappointment Effective:
+
+Adult Emergency Services Voluntary Physician
+May 17, 2013 thru May 16,2015
+
+Emergency Medicine Consulting Physician
+May 26, 2013 thru May 25, 2015
+
+Emergency Medicine Active Physician
+May 17, 2013 thru May 16, 2015
+
+Emergency Medicine Service Physician
+May 14, 2013 thru May 13,2015
+
+Adult Emergency Services Consulting Physician
+May 17, 2013 thru April 9, 2015
+
+Department of Family Medicine
+
+Gibson, Sandy, DO
+Reappointment Effective:
+
+Rodriguez, Vimarie, MD
+Reappointment Effective:
+
+Item April 10, 2013
+
+Family Medicine Active Physician
+April 11, 2013 thru April 10, 2015
+
+Family Medicine Active Physician
+April 12, 2013 thru April 11,2014
+
+  
+
+5" ix
+APPROVED
+BY THE QUALITY AND PATIENT SAF MMITTEE
+
+ON APRIL 10, 2013
+
+Quality and Patient Safety Committee Meeting Page 1 0f 5
+
+Page 41 of 45
+
+John H. StrogerI Jr. Hospital of Cook County
+Reappointment Applications (continued)
+
+Department of Medicine
+Abiad, Homer de Guia, MD
+
+Reappointment Effective:
+
+Bangayan, Lorraine Y., MD
+
+Reappointment Effective:
+
+Chou, Carmel, MD
+Reappointment Effective:
+
+Coelho, Giselle C., DMD
+Reappointment Effective:
+
+Dunea, George, MD
+Reappointment Effective:
+
+Lachin, Zaia MD
+Reappointment Effective:
+
+Lenhardt, Richard, MD
+Reappointment Effective:
+
+Moswin, Arthur MD
+Reappointment Effective:
+
+Patterson, Carol J., MD
+Reappointment Effective:
+
+Piller, Simon J., MD
+Reappointment Effective:
+
+Rafiq, Muhammad, MD
+Reappointment Effective:
+
+Shah, Sejal, MD
+Reappointment Effective:
+
+'lnfectious Disease
+
+May 17, 2013 thru May 16, 2015
+
+Adult Cardiology
+May 17, 2013 thru May 16,2015
+
+Hematology-Oncology
+May 17, 2013 thru May 16, 2015
+
+Core Center
+May 17, 2013 thru May 16,2015
+
+Nephr/Hypertension
+May 19, 2013 thru May 18,2015
+
+ACHN/General Medicine
+May 17, 2013 thru May 16,2015
+
+Pulmonary Critical Care
+May 26, 2013 thru May 25, 2015
+
+infectious Disease
+May 17, 2013 thru May 16,2015
+
+Hospital Medicine
+May 26, 2013 thru May 25,2015
+
+ACHN/General Medicine
+May 14, 2013 thru May 13,2015
+
+ACHN/General Medicine
+June 19, 2013 thru June 18,2015
+
+ACHN/General Medicine
+May 14, 2013 thru May 13,2015
+
+Department of Obstetrics alt Gynecology
+
+Hansbrough, Valerie, MD
+
+Reappointment Effective:
+
+Patel, Ashlesha, MD
+Reappointment Effective:
+
+Item April 10, 2013
+
+OB/Gyne
+April 12, 2013 thru August 9, 2014
+
+OB/Gyne
+April 17, 2013 thru April 16,2015
+
+Quality and Patient Safety Committee Meeting Page 2 0f 5
+
+Page 42 of 45
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY 
+ON APRIL 10, 2013
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Consulting Dentist
+
+Honorary Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+. Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Af?liate Physician
+
+Active Physician
+
+ 
+
+John H. StrogerI Jr. Hospital of Cook County
+Reappointment Applications (continued)
+
+Department of Pediatrics
+
+Aronson, Andrew, MD
+Reappointment Effective:
+
+Department of 
+
+Fuentes, Harold, Psy.D
+Reappointment Effective:
+
+Kleinman, Amanda, MD
+Reappointment Effective:
+
+Ward Andrea, MD
+Reappointment Effective:
+
+Degartment of Radiology
+
+Kelekar, Anita, MD
+Reappointment Effective:
+
+Thakrar, Jagdish, MD
+Reappointment Effective:
+
+Trepashko, Donald, MD
+Reappointment Effective:
+
+Department of Surgem
+
+Bove? Michiel, MD
+Reappointment Effective
+
+Grevious, Mark, MD
+Reappointment Effective
+
+Mahmarian, Robert, DPM
+Reappointment Effective
+
+Pediatrics/ Nephrology
+April 10, 2013 thru April 10, 2015
+
+Center
+May 26, 2013 thru May 25, 2015
+
+Dermatology
+April 12, 2013 thru April 11,2015
+
+
+May 26, 2013 thru May 25, 2015
+
+Imaging Center
+May 15, 2013 thru May 14,2015
+
+Radiation Oncology
+April 28, 2013 thru April 27, 2015
+
+Nuclear Medicine 
+May 14, 2013 thru May 13, 2015
+
+Surgery/Urology
+April 10, 2013 thru April 9, 2015
+
+Surgery/General Surgery
+April 27, 2013 thru April 26, 2015
+
+Surgery/Podiatry
+April 27, 2013 thru April 26, 2014
+
+Renewal of Privileges for Non-Medical Staff
+
+David, Prema, CNP
+
+Irons, Sharon A., MD
+
+Effective
+
+DiGiacomo, Marie, CNP
+
+With Arensman, Robert, MD
+
+Patel, Mita, MD
+Effective
+
+Item April 10, 2013
+
+Quality and Patient Safety Committee Meeting
+
+Medicine General Medicine
+April 28, 2013 thru April 27, 2015
+Surgery Pediatric Surgery
+
+Pediatrics
+April 10, 2013 thru April 09/2015
+
+Page 43 of 45
+
+Page 3 (menu; QUALITY AND PATIENT SAFETY
+ON APRIL 10, 2013
+
+2 Voluntary Physician
+
+Clinical 
+- Voluntary Physician
+
+Active Physician
+
+Active Physician
+Consulting Physician
+
+Active Physician
+
+Active Physician
+Active Physician
+
+Active Podiatrist
+
+Nurse Practitioner
+
+I Nurse Practitioner
+
+. 1 
+APPROVED
+
+MMITTEE
+
+John H. StrogerI Jr. Hospital of Cook County
+Renewal of Privileges for Non-Medical Staff (continued)
+
+Lentz, Stacie E., Emergency Medicine
+
+With Schindbeck, Michael A., MD
+
+Alternate Lewis, Trevor MD
+
+With Rodriguez, Sergio H., MD Medicine General Medicine
+Alternate Shah, Sejal MD
+
+Effective April 28, 2013 thru April 27, 2015
+Pacyga, Rosemary J., CNP Medicine Infectious Disease
+With Herrera, Patricia, MD
+
+Effective April 28, 2013 thru April 27, 2015
+Shah, Palak K., Surgery General Surgery
+
+With Richter, Harry M., MD
+Alternate Bonomo, Steven R., MD
+Effective April 10, 2013 thru April 09, 2015
+
+Sikora-Jackson, Ann M. PA-C Emergency Medicine
+With Schaider, Jeffrey MD
+Alternate Steven H. Bowman, MD
+
+With Shah, Sejal MD ACHN General Medicine
+Alternate Rodriguez, Sergio H., MD
+
+Effective April 28, 2013 thru April 27, 2015
+Villaluna, Guia C., PA-C Ob/Gyne Maternal Fetal Medicine
+
+With Nguyen, Tuan M., MD
+
+Alternate Malapati, Radha, MD
+
+Effective April 10, 2013 thru April 09, 2015
+Additional Privile?s with no change in Appointment
+
+Jorelle Alexander, DMD Clinical Privileges in Oral Health
+
+Item April 10, 2013
+Quality and Patient Safety Committee Meeting Page 4 0f 5
+
+Page 44 of 45
+
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY
+ON APRIL 10, 2013
+
+Physician Assistant
+
+Nurse Practitioner
+
+Physician Assistant
+
+Physician Assistant
+
+Physician Assistant
+
+Active Dentist
+
+ 
+
+ 
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff Appointmentiseappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+REAPPOINTMENT APPLICATIONS
+
+Department of Surgem
+
+Dwarakanathan, Surendar, MD Ophthalmology Affiliate Physician
+Reappointment Effective: May 17, 2013 thru May 16, 2014
+
+Greenberg, DaVid, MD Ophthalmology Affiliate Physician
+Reappointment Effective: May 17, 2013 thru November 16, 2014
+
+Grevious, Mark, MD Plastics . Affiliate Physician
+Reappointment Effective: April 27, 2013 thru April 26,2015
+
+0
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY MITTEE
+
+on APRIL 10, 2013
+
+Item April 10, 2013
+Quality and Patient Safety Committee Meeting Page 5 Of 5
+
+Page 45 of 45
+

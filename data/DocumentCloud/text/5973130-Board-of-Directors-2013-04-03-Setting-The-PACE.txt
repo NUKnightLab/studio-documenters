@@ -1,0 +1,2125 @@
+Setting the PACE:
+Financing Commercial
+Retrofits
+
+Issue Brief
+Katrina Managan
+Program Manager, Institute for Building Efficiency, Johnson Controls
+
+Kristina Klimovich
+Associate, PACENow
+This report is the result of collaboration by the Johnson Controls
+Institute for Building Efficiency, PACENow, and the Urban Land Institute.
+
+February 2013
+
+ Table of Contents
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+ 
+
+The Opportunity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Background on PACE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+ 
+
+Early History of PACE. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+
+PACE Market Activity Today. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+PACE Financing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ 
+
+Advantages of PACE Financing. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+
+ 
+
+Financing Models. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+
+ 
+
+Municipal Bond Funded Model (Figure 4) . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+
+ 
+
+Privately Funded Model (Figure 5). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+
+ 
+
+Model Examples and Implications. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+
+Program Administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Eligible Technologies and Projects. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ 
+
+Technologies and Measures. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+
+ 
+
+Toledo, Ohio . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+ 
+
+Transaction Size. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+ 
+
+Loading Order Requirements . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+
+ 
+
+Minimum Energy Savings Requirement. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+
+ 
+
+Eligible Asset Classes, Target Market . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+
+Building Owner Engagement. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ 
+
+Marketing and Outreach. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+
+ 
+
+PACE Project Process. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+
+ 
+
+Prologis HQ in San Francisco. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Appendix 1: Research Methodology and Interview Questions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Appendix 2: Active PACE Programs as of January 2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Appendix 3: Building Efficiency Financing Options. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Appendix 4: Efficiency Measures Eligible in Each Program. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Appendix 5: Acknowledgements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+2
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Introduction
+Property Assessed Clean Energy (PACE) finance is a new and growing
+municipal approach to support energy efficiency and renewable energy
+upgrades in commercial buildings in the United States. As of February 2013,
+there were 16 commercial PACE programs accepting applications to finance
+building efficiency projects. Most of these have been active for less than a
+year, and some are just now working on their first projects. As this new market
+develops, early-stage PACE programs have taken different approaches to
+program design and administration. Lessons learned from their experiences
+may well shape the overall success of PACE in the years to come.
+Many reports have demonstrated that energy efficiency pays for itself and that there is a significant
+invest­ment opportunity in the building efficiency market. Yet many barriers impede investment in energy
+efficiency, and access to financing is consistently cited as the top barrier to action.1 Program designers and
+advocates believe that PACE financing structures offer significant advantages over other financing options,
+including:
+
+•  Zero up-front cash investment
+•  Immediate positive cash flow
+•  Long-term financing (up to 20 years)
+•  PACE assessment stays with the property upon sale
+•  Ability to pass payments through to tenants
+•  Low interest rates
+•  Higher rents and greater long-term property value because of energy efficiency
+•  Preservation of borrowing capacity through off-balance–sheet financing
+
+1
+Energy Efficiency
+Indicator Survey, Institute
+for Building Efficiency,
+Johnson Controls. 2012.
+
+PACE programs may also help advance energy efficiency improvements in the market because they provide
+validation of common technologies and improvement measures. In addition, PACE programs create a
+replicable transaction path that is accessible to a variety of commercial building owners.
+Four leading programs demonstrate the range of approaches within the PACE community. This analysis
+offers insights into the activities of these programs to date and is designed to preview future PACE activities.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+3
+
+ It must be noted that the PACE industry is still in the early stages of development, and therefore it is too
+early to predict which administrative and financing models will be the most successful. The four programs
+examined in this report are:
+
+•  Sonoma County (Calif.) Energy Independence Program (SCEIP)
+•  GreenFinanceSF (San Francisco) Commercial PACE Program
+•  Toledo-Lucas County (Ohio) Port Authority PACE Program
+•  DC PACE Program (Washington, DC)
+
+More information on the research approach and methodology can be found in Appendix 1.
+While PACE is designed to help overcome several key finance barriers, PACE alone will not remove all
+barriers to energy efficient buildings. Complementary policies and programs will be needed to help the
+building efficiency market reach scale.
+
+The Department of
+Energy Building Energy
+Data Book. 1.1 Buildings
+Sector Energy Consumption.
+March 2012. Retrieved
+November 8, 2012
+http://buildingsdatabook.
+eren.doe.gov/docs/
+xls_pdf/1.1.1.pdf.
+2
+
+2
+United States Building
+Energy Efficiency Retrofits:
+Market Sizing and Financial
+Models. March 2012. The
+Rockefeller Foundation and
+Deutsche Bank. Retrieved
+November 8, 2012.
+http://www.rockefeller
+foundation.org/news/
+publications/united-statesbuilding-energy-efficiency.
+
+The Department of
+Energy. Buildings Share
+of U.S. Primary Energy
+Consumption (Percent).
+March 2012. Retrieved
+November 8, 2012.
+http://buildingsdatabook.
+eren.doe.gov/docs/
+xls_pdf/1.1.3.pdf.
+2
+
+4
+
+Until recently, building owners have had
+limited options for financing energy efficiency,
+ranging from cash on hand (self-financing)
+to government-sponsored, unsecured loan
+products (sometimes subsidized and/or offset
+by rebates), to energy efficient mortgages.
+In the commercial sector, debt financing
+terms virtually never exceed 10 years, and
+one- to three-year terms are more common
+for construction projects. More recently, a
+number of new energy efficiency financing
+models have emerged, including Energy
+Service Agreements (ESA), utility on-bill
+repayment, and PACE. This paper focuses
+on PACE financing for energy efficiency
+improvements in commercial buildings.
+
+The Opportunity
+Buildings consume a substantial portion of the
+energy used in the U.S. and around the world, and
+there is a significant market opportunity to reduce
+demand by making buildings more energy efficient.
+In the U.S., buildings consume over 40 percent of
+the energy used, and nearly 75 percent of electricity.
+Making U.S. buildings more efficient represents
+an investment opportunity of nearly $280 billion,
+corresponding to over $1 trillion in energy savings
+over the next 10 years. At this level of investment,
+energy efficiency would create 3.3 million cumulative
+job-years of employment and reduce carbon
+emissions by 600 million metric tons per year.2
+
+Background on PACE
+Property owners participating in a PACE program receive financing support for energy efficiency or renewable
+energy measures from a local government or approved financial institution, and the investment is repaid by
+an assessment or other like charge added to the owner’s property tax bill for up to 20 years. PACE applies
+the same method American cities and towns have used for decades to finance property improvements
+that meet a clear public purpose. In the U.S., there are over 37,000 land-secured districts created by
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ local governments to finance, through
+property tax assessments, infrastructure
+improvements such as street paving, parks,
+open space, water and sewer systems,
+septic tank replacement, street lighting, and
+seismic strengthening.3
+Leading state and local governments in the
+U.S. are recognizing energy efficiency as a
+public benefit. The public benefits of effi­
+ciency include increased energy inde­pen­dence
+and security, avoiding or post­poning the
+costs of new power plants and transmission
+systems, improved air and water quality, and
+job creation. These effi­ciency benefits are
+no less important than the benefits derived
+from sidewalks, parks, water and wastewater
+systems and other improvements already
+financed with assessments.
+
+Early History of PACE
+The concept of PACE originated in 2008 in Berkeley
+and Palm Desert, Calif. Early PACE programs largely
+focused on the residential market. While these
+programs received strong encouragement from the
+Obama administration,4 issues relating to PACE lien
+seniority over mortgages at the time of the housing
+market crash brought residential PACE programs to
+a halt in 2010. Efforts to develop, staff, and launch
+commercial PACE programs began in earnest in
+2011 and 2012, and continue to date, with official
+program launches in Connecticut and Washington,
+DC announced in January, 2013. These programs all
+are aimed at unlocking energy efficiency potential in
+industrial, office, retail, services, and other types of
+commercial buildings.
+
+U.S Census Bureau,
+“Local Governments and
+Public School Systems by
+Type and State: 2007,”
+accessed March 12.
+http://www.census.gov/
+govs/cog/GovOrgTab03ss.
+html.
+3
+
+4
+http://www.whitehouse.
+gov/assets/documents/
+PACE_Principles.pdf
+
+Figure 1 illustrates the steps required to create a PACE program.
+Figure 1. How PACE Works5
+5
+
+Developed by PACENow
+
+State passes PACE-enabling
+legislation, local government creates
+or joins an assessment district
+
+Building owner evaluates projects
+that reduce energy costs and
+decides to go forward
+
+$
+
+$
+
+www.InstituteBE.com  
+
+Local government provides
+financing — adds assessment
+to tax roll
+
+Property owner pays assessment
+on tax bill (for up to 20 years)
+
+Institute for Building Efficiency
+
+5
+
+ In states with PACE-enabling legislation, a municipal government typically establishes a PACE district in
+which property owners can voluntarily participate. Sometimes one PACE administering entity forms in
+a county or state and enlists multiple municipalities. Property owners interested in energy efficiency or
+renewables engage an experienced contractor to evaluate the scope of desired improvements. This may
+involve a thorough energy audit of the building to identify efficiency measures and projected costs and
+energy savings, or an evaluation of specific on-site renewable technology options. After the building owner
+decides to proceed with the project and all desired measures have been selected, financing for the project is
+arranged. The building owner may secure financing, the municipality (or PACE program) may help facilitate
+financing, or the municipality may actually provide financing through municipal revenue bonds or other
+means. Building owners who receive a financing benefit from the municipality agree to accept a property
+tax assessment or charge for up to 20 years (owners may choose or the municipality may require shorter
+periods, often depending on the expected life of the improvements being financed).
+
+PACE Market Activity Today
+PACENow. 2012. List of all
+PACE enabling legislation.
+Retrieved December 4,
+2012 http://pacenow.org/
+resources/pace-enablinglegislation/.
+
+6
+
+Such status may be
+contingent on the
+finalization of a bond
+validation process, securing
+a line of credit, having
+sufficient number of staff
+on board, having enlisted at
+least one municipality, and
+having finalized program
+documents, handbooks
+defining program attributes.
+
+7
+
+A list of these programs is
+included in the Appendix.
+
+8
+
+The commercial PACE market is at a pivotal moment in its development. Twenty six states and the District
+of Columbia have PACE enabling legislation in place; some of these already have emerging or active
+PACE programs (Figure 2).6 Active PACE programs are those that can accept applications for property
+improvements.7 Sixteen such programs in seven states were active or launched as of February 2013.8 Many
+of the active programs have multiple municipalities participating. Emerging programs are those finalizing
+program documents and administration arrangements, securing financing, and expected to launch within
+six months. In some states, such as Texas, Massachusetts, and Illinois, efforts are underway to amend PACE
+legislation to improve its effectiveness or correct flaws that are barriers to program implementation. There
+are also a number of PACE programs in various stages of development in California, Florida, Louisiana,
+and other states. Additionally, there are programs in the early stages of development in states with PACEenabling legislation and in states where PACE law requires a legislative fix. In still other states, like Utah,
+Arkansas, and Arizona, efforts are being launched to get PACE legislation passed. Brief descriptions of the
+active PACE programs and web links for further information can be found in Appendix 2.
+Despite all the activity shown in Figure 2, only a handful of programs had financed a significant number of
+projects by the end of 2012. In California, 58 projects have been completed in Sonoma County, and several
+other projects have been completed elsewhere, including the Prologis headquarters building retrofit in San
+Francisco. Outside of California, a number of projects have been financed in Toledo, Ohio; Edina, Minn.;
+and Boulder, Colo. (although the Boulder program is no longer active). The other active programs shown in
+Figure 2 were recently established and are building a pipeline of projects for which formal applications have
+been submitted for approval and funding. These new programs are engaging with the real estate community,
+contractors and financial institutions to pursue energy efficiency and renewable energy deployment in their
+communities. The design of the programs, the technologies and the transaction approach will determine
+how quickly and successfully these programs are accepted by the market, and what adjustments may be
+required for success.
+
+6
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Figure 2. 2012 Commercial PACE Activity as of December 2012 9
+  Enabling legislation
+and active programs
+
+  Enabling legislation and
+emerging programs
+
+  Enabling legislation
+(26 states)
+
+  No commercial
+PACE legislation
+
+9
+The map shows active
+PACE programs and PACE
+programs in development.
+
+PACE Financing
+PACE financing is designed to overcome a number of financial barriers to investment in building efficiency.
+The details of the financing models vary, but in all cases program administrators and PACE market leaders
+believe PACE will have financial benefits for building owners. In this section we will first discuss the
+advantages to building owners of using PACE financing, and then walk through the two major categories
+of financing models found in PACE programs today.
+When asked about the barriers to pursuing energy efficiency in building operations, executives responsible
+for energy investments in their companies have cited lack of funding as their top barrier in all of the six
+years in which Johnson Controls has administered the Energy Efficiency Indicator (EEI) survey. Insufficient
+payback or return on investment (ROI) was the second major barrier (Figure 3).
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+7
+
+ Figure 3: Barriers to Investing in Energy Efficiency10
+10
+Energy Efficiency
+Indicator Survey, Institute
+for Building Efficiency,
+Johnson Controls. 2012.
+
+26%
+
+Lack of funding
+
+30%
+
+17%
+19%
+
+Insufficient payback/ROI
+
+Average Allowable
+Payback
+
+15%
+
+Uncertainty regarding
+savings/performance
+
+12%
+11%
+9%
+
+Lack of technical expertise
+Lack of awareness
+
+10%
+9%
+
+No organizational ownership
+
+10%
+8%
+
+2011
+
+2012
+
+3.7 yrs
+
+3.4 yrs
+
+2012
+2011
+
+9%
+8%
+
+Landlord/tenant
+split incentives
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+Advantages of PACE Financing
+Here is a summary of ways in which PACE financing should help building owners overcome
+financing barriers to energy efficiency, according to program administrators and market leaders.
+1.  Zero up-front investment: PACE provides up to 100 percent financing for building efficiency
+projects, providing external capital and freeing up internal budget resources. This feature
+addresses the number one barrier to pursuing energy efficiency as identified in the EEI
+survey – lack of internal funding.
+2.  Immediate positive cash flow: PACE projects are designed to ensure that the energy savings
+minus the PACE payment results in a positive cash flow each month based on a forecast of
+savings: Implementing PACE projects actually lowers monthly operating expenses. Some
+owners also consider in their cash flow calculations other avoided costs, including repairs
+and maintenance, equipment replacements, regulatory compliance costs, and tax deductions.
+Including these additional benefits could provide an additional incentive for owners to act.
+It may be possible for owners to combine PACE with other financing to support broader
+renovation projects.
+3.  Long-term financing: Financing for commercial property almost never exceeds 10 years.
+Terms from five to seven years are the most common for general real estate lending, and
+one- to three–year terms are most common for construction project lending. Funding of
+energy efficiency projects over their useful lives (up to 20 years) makes many more projects
+cost-effective. The EEI survey showed that building owners on average prefer a 3.4-year
+payback time on energy efficiency investments, but this is when they are investing their own
+capital and expect to be cash-flow negative until the payback date. By providing 100 percent
+financing with a 20-year amortization, PACE should help overcome the number two barrier
+to pursuing energy efficiency – insufficient payback/ROI.
+
+8
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Advantages of PACE Financing (continued)
+4.  A PACE assessment stays with the property upon sale: In the commercial buildings market
+where properties are often owned for short periods of time, PACE financing enables building
+owners to make deep energy efficiency improvements with financing that does not need to
+be paid off upon sale, but instead transfers to the new owner.
+5.  Ability to pass payments through to tenants: PACE projects are financed using a property tax
+assessment that can be passed through to tenants easily under many common lease structures.
+In most leases where tenants pay for their share of utilities, they also pay their share of
+property taxes. In contrast, capital expenses sometimes cannot be passed along to tenants,
+or when they can be passed along, the repayment amount is usually small, since it is based on
+the useful life of the equipment or a standard depreciation schedule. Under PACE, tenants, who
+generally pay the energy bills and will see the energy cost savings from a building efficiency
+project, also share in repayment of the energy efficiency investment. In this way, PACE
+structures overcome the landlord/tenant split incentives barrier to building efficiency projects.
+The building owner incurs no current costs and acquires permanent property improvements.
+6.  Low interest rates: Interest rates vary with lending type. PACE offers an opportunity to acquire a
+bond tax lien financing rate for projects with typical construction risks. Interest rates under PACE
+programs tend to be in the 6 to 7 percent range,11 and sometimes lower if a city or state provides
+incentives, such as by subsidizing the interest rate directly or providing a loan loss reserve or
+other credit enhancement. While these rates may not match the 3 percent range available to
+high-credit-quality borrowers, they can be competitive with rates accessible to most commercial
+properties.12 Interest rates in the 6 to 7 percent range can be attractive to a CFO because
+they can sometimes be locked in for up to 20 years. The longer borrowing term has a greater
+effect on improving cash flow than the interest rate. Rates at this level may also be attractive
+to building owners who are already above their leverage threshold13 and are unable to finance
+capital expenditures through self-funding or borrowing. In addition, in programs like ToledoLucas County PACE and the Sonoma County program that target small businesses, PACE financing
+provides access to the institutional grade debt market and to longer-term financing than owners
+could secure on their own. An increase in PACE project flow is likely to encourage more efficient
+borrowing mechanisms that drive PACE borrowing rates down relative to current levels.
+7.  Higher rents and greater long-term property value: Research is emerging that validates the
+assumption of market advocates that efficient (green) buildings can command higher rents and
+increased property values.14 PACE can enable more building owners to capture these potential
+financial benefits. Building owners note that since PACE adds a line item to the property taxes,
+it can help facilitate the discussion of the value of solar and energy efficiency projects when a
+property is sold or rented. Also, building owners noted that being the first in their community to do
+a PACE-financed project can enhance the public image of and add value to the improved building.
+8.  Off balance sheet: The accounting treatment is still an open question for building efficiency
+projects financed with PACE. The current year’s assessment would always be on the balance
+sheet, but the entire investment may not be entered as a long-term liability because
+assessments are only a one-year obligation. It remains to be seen how this is decided under
+the new accounting principles that will be released by the Federal Accounting Standards
+Board.15 If the full investment can be treated as off–balance-sheet, that helps building owners
+significantly with the first barrier cited in the EEI survey – the lack of funding – because a
+single year’s assessment is less likely to affect a building owner’s ability to take on additional
+debt for other projects.
+www.InstituteBE.com  
+
+11
+With up-front expenses
+included the real interest
+rates may be closer to
+7-8%.
+
+At scale, it is likely that
+PACE assessments will
+attract capital at much
+lower rates. Part of the rate
+premium for PACE reflects
+its longer term (commercial
+mortgages almost never
+exceed 10 years), but
+the current market is also
+very “illiquid”. Relatively
+few investors are familiar
+with PACE, and today’s
+investors would find it
+difficult or impossible to sell
+their PACE investments to
+another. Like other property
+taxes and assessments,
+PACE assessments are
+senior to mortgages and
+other liens, making them
+a strong credit that is
+attractive to investors.
+
+12
+
+Buildings with too much
+debt may not qualify for
+PACE. For example, many
+PACE programs limit total
+loan to value to 80 to 90%.
+
+13
+
+Institute for Building
+Efficiency Fact sheet
+on Valuation.
+http://www.institutebe.com/
+Green-Building/multiplestudies-document-greenbuildings-add.aspx
+14
+
+15
+Some people have
+hypothesized that because
+in California PACE was
+an extension of Mello
+Roos financing, which
+has been used for years
+to finance improvements
+on the property tax bill
+and is always off balance
+sheet, assessments there
+will always be off the
+balance sheet. Others
+have speculated that a
+PACE assessment may be
+treated differently since
+the investment is buildingspecific instead of for
+community infrastructure
+as in most Mello Roos
+financed projects.
+
+Institute for Building Efficiency
+
+9
+
+ Financing Models
+PACE has its own niche in the landscape of existing energy efficiency finance initiatives, such as government
+loans, on-bill financing, ESAs, lease purchase agreements, energy savings performance contracts, and internal
+financing. The table in Appendix 3 offers a broad overview of existing energy efficiency financing options.
+Four basic financing models exist in PACE programs. All four use the property tax assessment as the
+repayment mechanism, but the capital is provided in four different ways. Many programs use multiple
+financing models. For example, Sonoma County has primarily used the municipal bond funded model but
+has also done a privately funded project with Clean Fund. Here is a look at the four models:
+
+Municipal Bond Funded Model
+There are two different structures under which a municipality may issue bonds to finance PACE projects:
+1.  Municipal bond funded, available on demand. The PACE authority uses an unallocated reserve
+pool to finance projects as soon as applications are processed and work is completed. In Sonoma,
+revenue bonds will be issued to replenish the reserve pool. This model makes funds available on
+demand and with a long-term interest rate that can be determined immediately.
+2.  Municipal bond funded, available as sufficient project volumes can be pooled for a bond
+issuance. The PACE authority waits to aggregate a sufficient dollar amount of projects so that
+a bond issuance makes sense. Once the sufficient volume is reached (minimum $2 million to
+$5 million), a municipal revenue bond sale is arranged. The advantage to this approach lies in
+the volume of the transaction, which potentially leads to a lower interest rate. One disadvantage
+is that projects have to wait from the time of application and approval until the time of the bond
+issuance to proceed. Also, bond-funded programs cannot determine an interest rate until bonds are
+sold, which means some uncertainty exists for building owners, in terms of cost and the date on
+which funding will be provided. The commercial PACE program in Toledo to date has raised nearly
+$12 million with PACE-supported bond issues that have financed over 50 projects in a mix of city,
+Toledo-Lucas County Port Authority, and commercial buildings. In addition, the City of Ann Arbor,
+Mich., expects to issue bonds within the coming months to finance a number of approved projects.
+Program administrators and market participants noted that there may be an advantage to using the municipal
+bond funded model to finance retrofits of smaller buildings. Cities with more small buildings tend to choose
+this model to date. However, the model does require a significant number of projects to justify a large
+bond issuance.
+Figure 4. Municipal Bond Funded PACE Transaction16
+Figure adapted from
+Johnson Controls PACE
+presentation.
+
+16
+
+Municipal
+Bond
+Funded
+
+Investors
+
+Coupon
+
+Service
+
+Tax bill
+
+Capital
+
+Taxing Entity
+(Program
+Admin.)
+
+Bond Market
+
+Property
+Owner
+Capital
+
+Payment
+
+ESCO/
+Contractor
+
+or Direct Payment for Retrofit
+
+Primary and secondary bond market will develop
+where “PACE bonds” will be originated and traded.
+
+10
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Privately Funded Model
+In addition to the municipal models, there are two different structures under which PACE projects may be
+financed using private financing:
+3.  Open-market/owner-arranged programs, funded individually. Projects are financed individually
+through a capital provider of choice, municipal bonds, or a combination of the two. Programs pair
+each PACE project with a prospective funder, selected through a competitive bidding process or as
+part of a financing solution offered by a contractor/installer. Potential PACE project funders today
+include privately held investment funds, such as Clean Fund, Structured Finance Associates, Samas
+Capital, and others that have raised capital specifically to fund PACE projects. PACE programs have
+also focused on outreach to local, regional, and national banks as potential sources of funding.
+The advantage of this model is that funding is available for each project on demand. Interest rates,
+terms, and transaction costs vary and are established between the owner and capital provider.
+GreenFinanceSF (San Francisco), CaliforniaFIRST, Los Angeles County PACE program, DC PACE
+program, and Connecticut’s CT PACE are some examples of open-market/owner-arranged
+programs. Sometimes a line of credit from a capital provider is established that is available on
+demand to building owners. At other times, financing must be arranged for each individual project.
+The private funder is repaid through an assessment on the property taxes as arranged with the city.
+4.  Turnkey financing programs, funding on demand. These programs have one private financing
+option that is arranged by the program’s administrator. Ygrene Energy Fund, a company offering
+program administration and financing solutions, which recently launched its first program in
+Sacramento, Calif., is using this approach, which may provide easy access to funding, on demand,
+at attractive rates negotiated on the basis of scaled projections.
+Figure 5. Privately Funded PACE Transaction Process17
+
+Taxing Entity
+(Program Admin.)
+
+i
+
+Cap
+
+rty
+
+e
+rop
+
+oP
+tal t
+
+r
+
+ne
+Ow
+
+or Direct Payment for Retrofit
+
+Service
+
+Payments
+assigned to
+Investor
+
+Investors
+
+Property
+Owner
+
+Tax bill
+
+Payment
+
+Privately
+Funded
+
+17
+Figure adapted from
+Johnson Controls PACE
+presentation.
+
+Applicable for
+large commercial
+and industrial
+buildings
+
+ESCO/
+Contractor
+
+Program administrators and market participants noted that there may be an advantage to using the
+privately funded model to finance retrofits of larger buildings. Cities with more large buildings tend to
+choose this model to date.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+11
+
+ Model Examples and Implications
+All four models may offer access to the broader capital markets through greater standardization and
+securitization once the market matures. PACE financing at scale would create an opportunity for broad
+aggregation of PACE assessments and the creation of a PACE specialty sector in the fixed income asset
+class among large institutional investors, such as pension funds and insurance companies. Ultimately,
+structured PACE financing vehicles could be placed with end-stage investors at low yield spreads to U.S.
+Treasuries or other market indices. Scale creates an opportunity for much lower financing costs due to
+lower interest rates and economies of scale related to financing transaction costs. Table 1 describes the
+financing attributes of the four selected programs.
+Table 1: Financing Attributes of PACE Programs
+GreenFinanceSF
+(San Francisco)
+
+SCIEIP
+(Sonoma County)
+
+Financing model
+
+Open market/owner
+arranged program.
+Program allows
+multiple private
+capital sources for
+PACE retrofits.
+
+Interest rate
+
+~6-8% (varies by
+project)
+
+Loan loss
+reserve fund
+
+None
+American Recovery
+and Reinvestment
+Act (ARRA) debt
+service reserve
+fund; a portion of
+funding is likely to
+be made available
+for other potential
+enhancements, such
+as covering the costs
+of issuance.
+
+Program
+
+Toledo, OH
+
+DC PACE
+
+Municipal bond
+funded, available
+on demand. SCEIP
+is funded from the
+county treasury pool
+reserves.
+
+Municipal bond funded,
+available as sufficient
+project volumes can
+be pooled for a bond
+issuance. The Toledo
+Lucas County Port
+Authority (TLCPA)
+administers the program
+in conjunction with the
+NW Ohio Advanced
+Energy Improvement
+Corp. NWOAEIC signs a
+note with TLCPA, which
+then obtains the bond
+financing through the NW
+Ohio Bond Fund, which
+the port authority created
+and maintains. The port
+authority has established
+a revolving loan fund to
+facilitate the warehousing
+of smaller transactions
+into larger bond
+placements of $3.5M+.
+
+Open market/owner
+arranged program.
+Program has an
+initial commitment
+of $5 million from
+a regional bank.
+Program is also
+working with other
+capital providers.
+
+~7%
+
+4.32% for October bond
+issue and 4.67% for May
+bond issue with effective
+rate 5% to 5.5%
+
+~6%
+
+The loan loss reserve is
+built into the bond fund.
+
+None
+
+(continued on next page)
+
+12
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Table 1: Financing Attributes of PACE Programs (continued)
+GreenFinanceSF
+(San Francisco)
+
+SCIEIP
+(Sonoma County)
+
+Existing lender
+engagement
+
+Program requires
+lien holder’s
+consent/affirmative
+acknowledgment.
+
+Lender
+acknowledge­ment is
+required in the initial
+stage of application.
+Program staff does
+not engage with
+lenders.
+
+Program staff interfaces
+with lenders up front to
+acquire their consent.
+
+Program requires
+lender consent.
+Program staff report
+positive experiences.
+
+Was PACE
+combined
+with other
+government
+incentive
+programs?
+Under all
+programs,
+owners keep all
+available energy
+efficiency/
+renewable
+energy
+government
+incentives.
+
+Owners keep
+all government
+incentives.
+
+Teeter plan18 is being
+used to guarantee
+payments.
+
+The program uses
+Qualified Energy
+Conservation Bonds to
+support the rates and
+has used 1603 grants on
+solar energy. They also
+work with customers to
+obtain utility rebates and
+incentives.
+
+DC PACE encourages
+participants to
+take advantage of
+inventive programs
+in the District,
+including incentives
+offer by the DC
+Sustainable Energy
+Utility.
+
+Program
+
+Through the
+California Energy
+Commission, an
+ARRA grant-funded
+pilot program
+provided free home
+energy analyses,
+which were used
+by some property
+owners to qualify
+for solar PV project
+financing.
+
+Toledo, OH
+
+DC PACE
+
+Lender consent and
+lender affirmative
+acknowledgment are
+functionally the same.
+Some programs have
+chosen to use the term
+“affirmative acknowledge­
+ment” because the term
+“consent” in their opinion
+undermines the assertion
+that PACE is a valid use of
+municipal taxation
+authority. SCEIP, for
+instance, considered it
+necessary to clarify that
+they had the right to levy
+assessments without
+consulting the existing
+lender (even though they
+required consent to avoid
+triggering due-onencumbrance clauses). It
+must be noted, however,
+that not all PACE programs
+plan to require the
+acknowledgement or
+consent of existing lenders.
+Ygrene programs plan to
+simply notify existing
+lenders instead, but since
+none of those programs
+were active as of the
+beginning January 2013 and
+the first Ygrene program
+just launched when this
+paper went to print, they
+were not included in the
+highlighted examples.
+
+19
+
+The attributes of four of the leading PACE financing programs demonstrate similarities and differences
+among the types of programs in the market. All four programs help building owners find financing with
+competitive interest rates, though some use government funding and others help set-up financing with
+private lenders. Each PACE program can be used in combination with other government incentive programs.
+All require some sort of acknowledgement or consent from the existing lenders.
+The issue of acknowledgment or consent19 has been identified as one of the barriers for PACE projects.
+According to a study recently conducted by PACENow,20 based on 35 interviews with 25 lending institutions,
+there appears to be no blanket opposition to PACE in the lender community. The study found that lenders
+do insist on their right to consent to projects, but that they are receptive to approving projects that benefit
+their customers by improving cash flow and increasing the value of buildings. While lenders seem to
+support energy efficiency and renewable energy projects generally, they have limited firsthand experience
+in evaluating their effectiveness or in financing them.
+
+Program Administration
+There are several administrative models for PACE programs; much of the diversity can be attributed to the
+decentralized nature of the PACE universe. First, every PACE-enabled state has a different constitution and
+way of authorizing local government activities. No federal government agency is in charge of driving PACE
+programs and establishing uniformity. Instead, programs emerge as state and local initiatives. Hence, they
+vary in design, sources of financing, administration type, geography covered, types of eligible improvements,
+and other attributes. In some instances a PACE program has a permanent staff composed of municipal
+employees and a third-party administrator. In other instances, PACE financing is only a part of a city staff’s
+mandate. Additionally, PACE can be a component of a more extensive energy efficiency program.
+www.InstituteBE.com  
+
+18
+Teeter Plan allows
+municipalities to impose
+strict penalties and interest
+on delinquent taxes.
+Municipalities in California
+can opt-in to the Teeter
+Plan. See http://www.lao.
+ca.gov/ballot/2011/110462.
+aspx
+
+Lender Support Study.
+2012. PACENow. Retrieved
+http://pacenow.org/
+wp-content/
+uploads/2012/12/
+Lender-SupportGuide-12.28.20121.pdf
+
+20
+
+Institute for Building Efficiency
+
+13
+
+ With the development of PACE programs, a new market for PACE program service providers has emerged.
+Private-sector companies and nonprofits are organizing and offering program administration, marketing
+and financing services. All PACE programs do involve some local government resources (at a minimum,
+authorizing the issuance of debt and imposing, collecting and enforcing tax assessments), but programs
+vary greatly in their reliance on third-party providers. This can be a function of available financial resources
+(large or small) and the level of interest and active participation of the sponsoring state or local government.
+Some programs meet the needs of a single municipality, though it is more common for programs to seek
+economies of scale by enlisting multiple municipal members.
+
+Eligible Technologies and Projects
+PACE programs across the country have differing approaches to eligible technologies and eligible project
+sizes because PACE programs have been designed to reflect local market conditions. For instance, programs
+located in large urban centers tend to have a higher minimum project amounts, and programs in smaller
+towns with few large buildings welcome smaller projects.
+
+Technologies and Measures
+PACE programs are generally designed to finance nearly all types of building efficiency technologies and
+measures. This means the programs have potential to help building owners solve many challenges. For
+example, efficient lighting, upgraded wall and roof insulation, high-efficiency HVAC systems, solar panels,
+and many other improvement measures are eligible. Under all programs, all improvements have to be
+permanently affixed to the building. Lists of eligible improvement measures for GreenFinanceSF, Sonoma
+County, DC PACE and Toledo are included in Appendix 4.
+In the 2012 EEI survey, decision-makers listed a number of energy efficiency measures they had adopted
+in their buildings in the past 12 months, indicating which efficiency improvements are already the most
+popular in the market (Figure 6). Program administrators indicated that PACE financing has the potential to
+pay for these same types of technology investments.
+Figure 6. Energy Efficiency Measures Implemented by Decision Makers in the Last 12 Months21
+Energy Efficiency
+Indicator Survey, Institute
+for Building Efficiency,
+Johnson Controls. 2012.
+
+21
+
+Lighting improvements
+
+69%
+
+HVAC and/or controls improvements
+
+61%
+
+Water efficiency improvements
+
+50%
+
+Energy focused behavioral
+or educational programs
+
+44%
+33%
+
+Building envelope improvements
+Onsite renewable energy
+
+29%
+28%
+
+Smart grid or smart building technology
+Retro-commissioning and
+building system tune-ups
+
+27%
+
+Non-renewable distributed
+generation or demand management
+
+20%
+0%
+
+14
+
+Institute for Building Efficiency 
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+www.InstituteBE.com
+
+ Building renovations often take place
+at specific times in a building’s life.
+Program administrators indicate that
+building owners are, in part, interested
+in using PACE financing to undertake
+projects they needed or wanted to
+do anyway, but with greater efficiency
+gains than might have been achieved
+without PACE financing. Building
+owners have expressed interest in
+using PACE financing for building
+system upgrades and maintenance,
+whole-building renovations, projects
+to bring buildings into compliance
+with code, and other energy savings
+technologies. Program administrators
+hope PACE allows owners to achieve
+multiple goals, thus increasing the
+attrac­tiveness of program participation.
+
+Toledo, Ohio
+PACE is an attractive financing instrument for existing
+mortgage lenders. Energy efficiency measures financed
+with PACE can immediately improve a building’s cash flow,
+increasing the value of a mortgage lender’s collateral. A
+less typical example, from Toledo, further illustrates how
+PACE can benefit an existing lender. The Toledo-Lucas
+County Port Authority PACE program was approached
+by the owner of a property that needed a new boiler to
+stay in operation. The owner was able to finance a new,
+more energy efficient boiler using PACE. The building has
+housed a successful day care center and remains current
+on its mortgage and taxes. Overall project costs at about
+$45,000 were relatively low, but the property no longer
+met the lender’s loan-to-value criteria, so the lender
+preferred that the PACE program fund the boiler and was
+happy to provide consent. The additional cash flow from
+energy savings above the PACE payment improved the
+financials of this small business and the lender’s position.
+
+Transaction Size
+Several factors may influence a program’s preferred project size. There is a natural preference to find
+larger projects because of the economies of scale they represent. It may take only marginally more effort
+to source, analyze, administer and fund a large project that has potential to save substantially more energy
+than a smaller one. Programs, third-party administrators and funders may rely on project-specific fees to
+operate, so larger projects will generate more revenue. Programs in markets comprised mainly of smaller
+buildings will have to address their needs efficiently. Conversely, programs that operate in markets with a
+mix of large and small potential projects may need to develop dual-track project processes. Connecticut’s
+statewide program, for example, has established a fast-track application for projects with simple or single
+energy conservation measures, and a more detailed one for larger, deep energy efficiency upgrades.
+Table 2 provides information on the short-term and long-term goals for projects in the San Francisco,
+Sonoma, Toledo and Washington, DC PACE programs.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+15
+
+ Table 2: Target Project Size
+Location
+
+Preferred Initial
+Project Size
+
+Eligible Size of Projects
+
+GreenFinanceSF
+(San Francisco)
+
+> $500,000
+
+$50,000 (though ideally >$400,000), no maximum
+
+SCEIP
+(Sonoma County)
+
+N/A
+
+$2,500 to a maximum amount dependent upon property value;
+cannot exceed 10% of property value unless (for commercial projects)
+acknowledged by lender. (Projects $60,000 and over require a steering
+committee approval, and projects $500,000 and over require county
+Board of Supervisors approval)
+
+Toledo, OH
+
+$100,000 to
+$500,000
+
+$25,000 to $10 million
+
+DC PACE
+
+$1 million to
+$1.5 million
+
+$100,000 to $5 million
+
+Program administrators in San Francisco and Washington, DC noted that ideally they would like their
+first few transactions to be at the upper end of their eligible project size range, since the higher initial
+transaction costs can be more easily absorbed within a larger overall transaction. All programs expressed
+an interest in making PACE financing available to a more diverse range of transactions over time as the
+process becomes more standardized.
+
+Loading Order Requirements
+Loading order is a requirement in some PACE programs that ensures that property owners implement energy
+efficiency work before undertaking on-site renewable energy projects. Loading orders are well intentioned
+and make sense from a policy standpoint, since generally energy efficiency is more cost-effective than
+renewable energy, and after implementing energy efficiency measures the renewable energy system can be
+appropriately sized for the building’s new load. However, there are drawbacks to imposing loading orders.
+For instance, in Sonoma County, the loading order requirement significantly slowed the program because
+solar contractors, who might initiate a project, do not typically perform energy efficiency work. For these
+contractors, with a limit on the amount of PACE financing available, there was little incentive to split the
+value of a project with another contractor. As a result, PACE became less attractive for solar contractors.
+The Sonoma County program eventually eliminated its loading order requirement.
+The City of San Francisco program received ARRA funds from the California Energy Commission State Energy
+Program, which mandates the priority of energy efficiency improvements. Programs elect to implement a
+loading order based on their program design, geography, market peculiarities, and goals.
+
+16
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Table 3: Loading Order Requirements
+GreenFinanceSF
+(San Francisco)
+
+Property owners who access California Energy Commission grant funds for identified
+purposes must reduce energy use by 10% in order to be eligible for renewable energy
+upgrades. Program requires ASHRAE level II audits to demonstrate compliance with the
+loading order.
+
+SCEIP
+(Sonoma County)
+
+Program had a loading order for residential properties for the first year; today there is no
+requirement to install energy efficiency measures before renewable energy on any property.
+For commercial properties, the utility conducts a free energy analysis before the owner
+participates in the program.
+
+Toledo, OH
+
+A participating Commercial Real Estate (CRE) owner implementing renewable energy
+upgrades must be part of an energy efficiency plan as the Port of Toledo has to get
+approval from the U.S. Department of Energy (though no approval is required for solar
+projects on government buildings). There is no specific percentage or number; the Port
+Authority evaluates each project on a case-by-case basis.
+
+DC PACE
+
+A building has to be ENERGY STAR rated or, for buildings that are not supported by
+ENERGY STAR, reduce energy consumption by 10% before PACE can be used to finance
+renewable energy.
+
+Minimum Energy Savings Requirement
+Some programs have a minimum energy savings requirement as an eligibility criterion. For instance, the
+Toledo program requires that the portfolio of buildings reach 15 or 20 percent energy savings to qualify
+for funding. This requirement is necessitated by the U.S. Department of Energy and its Better Buildings
+Challenge. While all programs have a goal to save energy with PACE projects, few have set a specific
+requirement.
+Table 4 illustrates minimum savings requirements for the four programs.
+Table 4. Minimum energy savings requirement
+GreenFinanceSF
+(San Francisco)
+
+No minimum
+
+SCEIP
+(Sonoma County)
+
+No minimum
+
+Toledo, OH
+
+15% for DOE requirements, 20% for Better Buildings Challenge participants. These targets
+must be met on a portfolio basis, not necessarily for each individual project.
+
+DC PACE
+
+No minimum
+
+As the industry matures, some programs choose to remain flexible and avoid minimum energy savings
+requirements, while others prefer to have a preset mandate. Given that some programs have minimum
+energy savings requirements, this is a key attribute for market participants to understand when pursuing
+a PACE project.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+17
+
+ Eligible Asset Classes, Target Market
+In each municipality, the target market largely depends on the geography and goals of that locality. As
+noted earlier, the PACE markets described here, with the exception of Sonoma, are currently limited to
+nonresidential buildings.
+Table 5: Eligible Asset Classes
+Program
+
+Preferred initial asset class
+
+Eligible asset class
+
+GreenFinanceSF
+(San Francisco)
+
+Class A & B real estate
+
+Nonresidential (commercial, retail, industrial), and
+multifamily properties with 5+ units; nonprofit-owned
+properties are eligible.
+
+SCEIP
+(Sonoma County)
+
+Small-medium businesses,
+wineries, agricultural facilities
+(This program also includes
+single- and multi-family
+residential.)
+
+Nonresidential: (commercial, retail, industrial), and
+multifamily properties with 5+ units; nonprofit-owned
+properties are not eligible unless they are on the secured
+property tax roll.
+
+Toledo, OH
+
+Under-served markets, unrated Commercial buildings, including multi-family. The program
+small businesses, municipal
+follows Energy Efficiency Conservation Block Grant
+buildings, large office buildings. guidelines.
+
+DC PACE
+
+Class A buildings
+
+Commercial and multi-family
+
+While PACE programs are generally designed to include a broad range of building efficiency projects, each
+program has slightly different eligible technologies and measures, target transaction sizes and eligible asset
+classes. In addition, some programs require a certain amount of energy efficiency improvement to be met
+before they will finance renewable energy installations, and some others require a minimum level of energy
+savings to qualify for financing. Building owners need to check individual program attributes for their market
+to understand exactly what types of projects will qualify.
+
+Building Owner Engagement
+PACE programs are engaging building owners through marketing and outreach as well as through the project
+application process. Program managers and administrators reach out to the building owner community
+through formal and informal channels. At this time, a few large property owners function as market leaders
+(e.g., McKinley Property Group, Simon Property Group, Prologis Inc.). This process is expected to be more
+formal as the industry matures. PACE is a new mechanism, and building owners may be positively influenced
+by leaders in the industry.
+Once building owners are engaged with a PACE program, they are expected to go through a formal
+application process. Basic steps in the application process, as well as differences between the application
+processes of different programs, are analyzed below.
+
+18
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Marketing and Outreach
+The marketing and outreach strategies of PACE programs and PACE market participants will likely be
+crucial to their success. Discussions with market leaders and the EEI survey results indicate that PACE
+programs may help increase demand for building efficiency by providing the platform from which to start
+discussions with building owners. The strategies PACE programs are using to present their programs to
+building owners in their markets are summarized below.
+In the 2012 EEI survey, decision-makers in the U.S. indicated that the top three reasons they invest in
+building efficiency measures are cost savings, government incentives or rebates, and enhanced brand and
+public image. While building efficiency may still not be a top priority for building owners today, programs
+that appeal to these top three reasons will best help the market scale up.
+PACE, as a type of government incentive, may be a good platform for engaging with building owners on
+building efficiency projects, since owners already see government programs as key drivers for their invest­
+ments in building efficiency. By providing a platform for starting the building efficiency conversation, and by
+overcoming many financial barriers in its design, PACE enables building owners to address the other two
+top reasons they say they invest in building efficiency – cost savings and enhanced brand and public image.
+The four surveyed PACE programs use several outreach strategies. Programs tend to work with local
+partners, professional organizations, and chapters of national membership associations. Outreach and
+marketing efforts include:
+
+•  Traditional marketing through local TV, radio, and newspapers. The Sonoma, GreenFinanceSF, and
+Toledo PACE programs are using this form of marketing to a varying extent. Sonoma County reports
+that radio generated significant interest. Toledo program advertises at basketball and football games.
+
+•  Online marketing. This includes program websites, emails to partners, and contact databases with
+communication materials.
+
+•  Partnering with local economic development organizations such as Chambers of Commerce and
+economic development corporations. All program administrators noted that they used this channel,
+since these organizations often hold functions aimed at broad audiences, which include PACE
+stakeholders. These partners could include PACE-related communication materials in their
+mailing campaigns.
+
+•  Outreach to contractors. Since contractors generally have access to building owners, it is very
+important to reach them. In Sonoma County, contractors are the main source of projects.
+
+•  Working with utilities. Utilities could be valuable partners for several reasons. In some states, utilities
+are mandated to reduce energy consumption in their service areas, and PACE programs become natural
+allies to help achieve mandated goals. For instance, utilities may offer data on building energy usage
+and include PACE ads with monthly bills. All four programs are engaged with utilities in some way.
+
+•  Partnering with professional groups. The Sonoma County program actively engages professional
+associations, from lawyers and doctors to gas station and winery owners. The San Francisco, DC
+and Toledo programs recognize the importance of reaching out to engineer and architect associations.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+19
+
+ •  Participating in conferences, local forums and university panels. –The Toledo PACE program staff
+recently participated in the local Greentown conference and the International Facility Managers
+Association (IFMA) conference. All programs see value in speaking engagements at local forums.
+
+•  Working with national membership associations. Organizations such as the Building Owners and
+Managers Association, the Urban Land Institute, the U.S. Green Building Council and the American
+Institute of Architects remain important outreach partners for urban PACE programs.
+
+•  Targeted mailings. In Sonoma County, an insert is being added in property tax bills each year.
+It is too early to determine definitively which outreach strategies are the most successful in the long
+run. However, based on discussion with leaders of the four programs, partnering with contractors was a
+winning strategy, as was working with local professional organizations. Outreach/marketing differs with
+context (geography, priority market, program resources). In large urban areas, programs seem to put more
+emphasis on national membership associations.
+
+PACE Project Process
+Some PACE programs, such as Sonoma County, have a highly standardized application process. Others,
+often those in earlier stages of development, adapt their application processes to fit the project at hand.
+The following highlights the common application process steps (Figure 7) in the four programs analyzed and
+highlights some differences between them. Some of these steps may run at the same time, or in a slightly
+different order, depending on the project and the program.
+Figure 7: Steps in the PACE Application Process
+Application
+Audit or Initial Project Evaluation
+Financial Application
+Project Completion
+Project Performance Tracking
+
+•  Application - In all cases, the process begins with the submission of an application. The applications
+include basic information about the building and type of project to be undertaken. There is no fee
+for applying to any of the four programs today, though Washington, DC and San Francisco are
+considering a fee structure to cover their costs in the future, and Toledo builds a 2 to 2.5 percent
+fee into the whole transaction.
+
+•  Audit or Initial Project Evaluation - In San Francisco and Washington, DC, an ASHRAE Level 1 audit is
+required initially to assess whether the project is a good fit for the PACE program. Toledo’s program
+requires the work to be completed by certified industry professionals (e.g. Professional Engineers and
+Certified Energy Managers) and an ASHRAE Level 1 or 2 audit is required on more complex buildings.
+In Sonoma, most projects are fully prepared by the contractor and building owner before contact with
+the PACE program, so no further audit is required.
+
+20
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ •  Financial Application – The property is screened for eligibility using program-level underwriting
+criteria (property-based debt limit, mortgage and tax payment history, etc.). Financial health of
+the building owner is often assessed as part of the financial provider’s due diligence. The financial
+returns on the project are analyzed in greater detail with an ASHRAE Level 2 audit or other
+engineering analysis, the project is reviewed by the PACE program, the mortgage-holding lender
+acknowledges the assessment, underwriting is completed for the loan, and contracts are signed
+for the assessment. The cost of completing the more detailed audit required during this stage
+typically can be built into the project costs, and financing and does not need to be paid up front.
+The program administrator in Washington, DC pointed out that the process for approving a PACE
+assessment is similar in its complexity to a typical construction loan. There are transaction and legal
+costs in this stage. Programs are trying to subsidize these for early projects using federal funds.
+These costs should decline significantly as programs reach scale. For example in Sonoma, a more
+mature program, the program administrator estimated the total process costs at $200.
+
+•  Project Completion - The project is executed as planned.
+•  Project Performance Tracking - Program support for reviewing the performance of a project may
+help with mitigating building owner’s concern about performance risk. San Francisco and Toledo
+require their projects to use the U.S. EPA’s ENERGY STAR Portfolio Manager to track project
+performance over time. Sonoma collects its own energy data on projects. Washington, DC requires
+two years of detailed measurement and verification (M&V) based on the IPMVP protocol – the
+level of M&V is determined by an engineer based on what is necessary for the improvement. In
+Washington, DC, ENERGY STAR Portfolio Manager is used for M&V after the first two years. There
+is a trade-off between the convenience of using ENERGY STAR Portfolio Manager versus the
+confidence in using the IPMVP industry standard; each program has balanced that trade-off a little
+differently to date. Performance tracking that lowers the technology performance risk can lower the
+interest rates offered on the loan and builds understanding of technology risk over time, allowing
+financial institutions to factor in the relative technology risk into loans for energy efficiency.
+Most program administrators indicated that projects take six to 18 months from initial contact with a
+building owner to project completion. In Sonoma County, the PACE program administration is typically
+involved only in the later stages of a project; the time it takes to approve an application can vary from
+three weeks for small projects to two or three months for larger projects that require board approval.
+These variations in processing times match with the target transaction size for each market. San Francisco,
+Toledo and Washington, DC all focus on larger, more complicated transactions than Sonoma, and therefore
+the project development process takes longer. Program administrators commented that they have not yet
+seen any of their program requirements become barriers to the success of projects, though some did note
+that the audit can be perceived as a barrier, even though it is a standard part of contractor’s process of
+developing a building efficiency project.
+
+Prologis HQ in San Francisco
+San Francisco’s GreenFinanceSF program financed $1.4 million in PACE financing for energy
+efficiency and renewable energy upgrades at the historic Pier 1 headquarters of Prologis, a global
+real estate owner, operator and developer. Pier 1, next to San Francisco’s landmark Ferry Building
+on the Bay, is owned by the Port of San Francisco and leased on a long-term basis to Prologis.
+The project was completed using the open market/owner arranged financing model. Clean Fund, a
+PACE finance company based in San Francisco, purchased the $1.4 million bond to fund the project
+and other eligible administrative costs. The financing term is at 6.9 percent over 20 years, and
+(continued on next page)
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+21
+
+ Prologis HQ in San Francisco (continued from previous page)
+the assessment will be 70 percent allocated to five subtenants based on their square footage of
+occupancy in the building.
+Working with Johnson Controls, a global energy services company based in Milwaukee, cost
+effective energy measures were identified, including a retro-commissioning of building energy
+monitoring systems, LED lighting upgrades, and a 200kW rooftop solar electric array. When work is
+completed in 2013, overall grid demand for electricity is expected to fall by more than 30% from a
+2011 baseline, taking into account the efficiency measures and on-site generation (all of which will
+be used by the building). This amounts to nearly 400,000 kWh and 17,500 therms saved annually,
+and annual cost savings to Prologis and sub-tenants of approximately 25%. The project is expected
+to create nearly 30 jobs and should generate close to $4 million of economic benefit in the San
+Francisco economy and beyond.
+Prologis, with $18 billion in assets under management, has made a substantial commitment to
+finding energy efficiency and renewable energy project opportunities among the more than 500
+million square feet of industrial and commercial properties in its portfolio, here in the United States,
+and in 20 other countries around the globe. The Pier 1 project has special significance for Prologis,
+since it is their headquarters. They hope that Pier 1 will set an example for other property owners in
+San Francisco who want to make their buildings more energy efficient.
+
+Conclusion
+As 16 PACE programs begin accepting applications to finance building efficiency projects, the design of key
+attributes of those programs will shape the future of the PACE market. Given that the PACE market is in its
+earliest stages of development, it is unclear which program design options will be the most successful, but
+program administrators and industry leaders agree that PACE should help the market overcome financial
+barriers and scale up energy efficiency.
+Market leaders agree that the PACE finance features most attractive to building owners are zero up-front
+investment, immediate positive cash flow, and long-term financing of up to 20 years. Building owners also
+find it appealing that the PACE assessment stays with the property upon sale, owners can pass payments
+through to tenants, interest rates under PACE are low, PACE projects can lead to higher rents and greater
+property value in the long term, and PACE financing may be off the balance sheet.
+PACE programs have adopted project eligibility criteria that fit their local market needs. The programs follow
+a number of financing and administrative models, and all are testing different approaches to engaging their
+commercial markets. Once PACE becomes more mainstream, the application process and engagement
+approaches are likely to become more standardized.
+Future research could evaluate the most attractive features of PACE financing and which program attributes
+and design decisions best drive uptake in the market. Future research also could delve further into the
+question of existing mortgage-holder consent, since this is potentially a key barrier to PACE adoption.
+Additionally, once a significant number of PACE projects has been completed, a study with building
+owners could be useful in evaluating their experiences before and after project completion. Also, when
+a comprehensive project database exists, a study evaluating PACE project performance and economic
+impacts in the locality could be conducted.
+
+22
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Appendix 1: Research Methodology and Interview Questions
+The authors interviewed the program administrators of four of the most developed PACE programs, as well
+as a number of other leading participants in the PACE market. A list of those who contributed their time
+and energy to our research can be found in Appendix 5, and our interview questions can be found below.
+The data collection stage took 1.5 months.
+In addition to one-on-one interviews, the authors participated in a meeting of PACE program administrators
+and market leaders organized by PACENow and sponsored by the Rockefeller Brothers Fund in September
+2012 on “Accelerating Commercial PACE.”
+Based on those interviews and the PACENow meeting, we have attempted to summarize these market
+leaders’ working hypotheses about what attributes and design features of PACE programs will enable the
+building efficiency market to scale up.
+Interview Questions
+Overall
+1.  What resonates with building owners? What benefits do they find most attractive? What goals does
+it help them accomplish?
+2.  Who has already been applying to PACE programs? What has driven this early success?
+3.  What other drivers of success have you experienced in discussions so far? What challenges have
+you encountered?
+Finance
+1.  Who will provide financing (city bonds, owner-arranged/open-market, warehouse, etc.)? Has the
+funding been secured?
+2.  What is your current/anticipated interest rate?
+3.  Do you have a loan loss reserve fund or credit enhancement (if applicable)?
+4.  What has been your process for working with existing lenders? If you have gotten to this stage with
+a PACE project, who has been responsible for preparing the “sales” pitch to an existing lender?
+Eligible Transactions
+1.  What types of improvement measures, projects, and transactions are eligible to use PACE
+financing? Please select eligible measures from the attached list, add any that are not listed.
+2.  Does your program have a requirement regarding what type of improvement must be done first?
+3.  Is there a minimum energy savings requirement? If so, what is it?
+4.  What is the minimum/maximum size of an eligible project?
+Channels and Outreach
+1.  How are building owners hearing about your program?
+2.  What partners are you working with to find and reach out to building owners who are good
+candidates for PACE? Local lending community, contractors, utilities, others?
+3.  How do you explain PACE to building owners? What do you tell them when you get inquiries today?
+What do you use for marketing materials? Can you send us a copy? Do you have a handbook or
+technical assistance available?
+Application and Approval Process
+1.  Give a basic outline of the steps in the application process. What is the cost?
+2.  Do you require an audit? What level of audit? Is there any subsidy for audits? If yes, do you have a
+list of specific audit providers in your municipality?
+3.  What is the measurement and verification protocol?
+4.  How long do you expect it to take from first contact with building owner through project
+completion? How much time does it take to put a transaction together? How does that vary with
+transaction size?
+5.  Do any (all) of your program requirements (if applicable, such as application fees, audit
+requirements, benchmarking, M&V) appear to be barriers to success?
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+23
+
+ Appendix 2: Active PACE Programs, by state, as of January 2013
+State
+
+24
+
+Program Name
+
+Location
+
+Brief Description
+
+CA
+
+Energy Upgrade California LA
+PACE Program
+
+Los Angeles
+County
+
+Program is using open market/owner arranged
+model. Program is open for non-residential
+commercial properties.
+
+CA
+
+mPower Placer
+
+Placer County
+
+The program uses municipal bond financing. Open
+for commercial property owners in Placer County.
+The program has a simple 6% interest rate.
+
+CA
+
+GreenFinanceSF
+
+San Francisco City An open market/owner arranged program, provides
+and County
+financing for commercial properties. The program
+has completed a $1.4 million project on a Prologis
+building.
+
+CA
+
+Sonoma County Energy
+Sonoma County
+Independence Program (SCEIP)
+
+Government-funded program, has completed 58
+commercial PACE projects.
+
+CA
+
+CaliforniaFIRST
+
+Statewide
+
+Owner-arranged open market program, launched in
+September 2012.
+
+CA
+
+California PACE, Figtree
+Program
+
+Presence in
+18 counties
+
+The program is open to commercial properties.
+
+CA
+
+HERO Program
+
+Western Riverside The program has an arrangement with a few capital
+County, becoming providers: Samas capital and Structured Finance
+statewide
+Associates for commercial project financing.
+
+CA
+
+Yucaipa PACE Program
+
+City of Yucaipa
+
+Program is government-funded, using general fund
+of the City of Yucaipa.
+
+CA
+
+Clean Energy Sacramento
+
+City of
+Sacramento
+
+A turnkey program available for residential and
+commercial properties in Sacramento. Program was
+launched in the end of January, 2013.
+
+CT
+
+CT Statewide PACE Program
+
+Statewide
+
+A statewide commercial PACE program established
+through Connecticut Clean Energy Finance and
+Investment Authority (CEFIA). The program will
+develop a list of potential funders.
+
+DC
+
+DC PACE Program
+
+DC
+
+Owner-arranged/open market program, open for
+commercial properties, soft-launched in September
+2012.
+
+FL
+
+Florida Green Energy
+Works Program
+
+Statewide
+
+The owner-arranged/open market program launched
+in the spring of 2012 and is accepting applications.
+
+MI
+
+Ann Arbor's PACE
+
+Ann Arbor
+
+Bond-pooling PACE program, open for small to
+medium commercial projects in the City of Ann
+Arbor.
+
+MI
+
+Lean & Green Michigan™
+
+Statewide
+
+Owner-arranged/open market statewide PACE
+program, structured to allow every municipality
+to join after holding a public hearing and passing
+a resolution of intent and adoption. Open to
+commercial properties.
+
+MN
+
+Edina Emerald Energy Program
+
+Edina
+
+The program has completed one commercial
+PACE project, it's an owner-arranged/open market
+program.
+
+OH
+
+Toledo PACE Program
+
+Toledo-Lucas
+county
+
+Bond-pooling PACE program, financed over
+50 projects with $12 million in PACE financing in
+2 bond issuances.
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Appendix 3: Building Efficiency Financing Options
+Financing type
+
+Description
+
+Internal Financing
+
+This is a straightforward financing option and requires no external funding.
+Property owners become responsible for 100% of underperformance. Real estate
+owner must have sufficient cash reserves and identify energy efficiency/renewable
+energy upgrades as a priority among other compelling investment opportunities.
+
+Energy Savings
+Performance Contract
+
+ESPCs are typically implemented by energy service companies (ESCOs), which
+design a project specific to the property and put together a contract to finance the
+up-front costs in exchange for a portion of the energy savings over the term of
+the contract. The ESCO guarantees a certain level of energy savings sufficient to
+pay off the up-front costs of the project by end of contract’s term. This gives the
+ESCO incentive to closely monitor results. Generally ESCOs prefer large projects.
+
+Energy Services Agreement
+
+Energy efficiency service firms offer 100% financing with no upfront costs and
+assume the responsibility to manage the project over its lifetime. The property
+owner agrees to pay a fixed or floating rate fee over a term of 5 to 15 years, and
+the revenues are distributed to investors. Energy efficiency service firms earn from
+savings generated by the new equipment, while building owners continue to pay a
+fee to an energy efficiency service firm that is treated as an operating expense.
+
+Property Assessed
+Clean Energy
+
+PACE offers secure 100% assessment financing. Additionally, the PACE
+assessment can be passed through to tenants, and the assessment stays with the
+property upon sale. PACE is a relatively new mechanism, and it requires lender
+acknowledgment due to the first lien status of the property tax assessment.
+
+Government Loans
+
+The American Recovery and Reinvestment Act allocated $11.6 billion in 2010 to
+state and local governments to finance energy efficiency programs. State and
+Local governments use this capital to offer loans for energy efficiency retrofits.
+The loan rates correlate with projected savings from the project, favoring more
+comprehensive approaches.
+
+On-bill Repayment
+
+A third party covers the up-front cost of a limited-scale energy efficiency
+upgrade, and the utility charges the customer on the monthly utility bill. This takes
+advantage of billing and monitoring mechanisms already in place. Loans are tied
+either to the customer or to the property.
+
+On-bill Financing
+
+Similar to on-bill repayment, but instead of third-party financing, the utility covers
+the up-front cost and charges the customer on the monthly utility bill.
+
+Sustainable Energy Utility
+
+A statewide SEU is created and funded to administer financing programs, offer
+technical assistance, and provide incentives to building owners to implement
+energy efficiency measures. This allows standardization and aggregation of
+investments to help access capital markets.
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+25
+
+ Appendix 4: Efficiency Measures Eligible in Each Program
+Program Name
+
+26
+
+Improvements
+
+SCEIP (Sonoma County)
+
+High-efficiency windows
+Solar and/or tankless water heaters
+Solar panels
+Upgraded wall and roof insulation
+“Smart” irrigation controllers
+High-efficiency HVAC systems
+Cool roofs
+Multiple improvements for deep energy savings
+
+GreenFinanceSF
+(San Francisco)
+
+Lighting
+HVAC
+Domestic hot water
+Building envelope
+Refrigeration
+Compressed air
+Process/plug loads
+Energy storage
+Renewable energy
+Water conservation measures
+
+Toledo-Lucas,
+Ohio PACE Program
+
+Lighting
+HVAC
+Compressors
+Refrigeration
+Waste energy recovery
+Electrical distribution
+
+DC PACE Program
+
+Projects eligible for PACE financing include upgrading, repairing, or replacing
+energy-using systems and equipment, provided that (a) the measurable savings
+produced exceed the costs on a discounted lifecycle cost basis; (b) the cost and
+savings projections are made by licensed professional engineers with relevant
+experience; (c) recognized measurement and verification protocols are employed
+during the loan term to ensure the savings are valid and sustained; and (d) the work
+is done by general contractors and subcontractors who meet District standards.
+
+Institute for Building Efficiency 
+
+www.InstituteBE.com
+
+ Appendix 5: Acknowledgements
+Thank you to the following individuals who contributed their time and energy to our research through
+interviews and/or reviews of our paper and directional advice provided during our research process. The
+views contained in this analysis are those of the authors alone and are not necessarily shared by individuals
+or organizations listed here.
+Program Administrators:
+Dave Good, District Department of the Environment, Washington, DC
+Jane Elias, Sonoma County Energy Independence Program
+Kevin Moyer, Toledo-Lucas County Port Authority
+Liz Yager, Sonoma County Energy Independence Program
+Rich Chien, GreenFinanceSF, City and County of San Francisco
+Sheila Berger, Sonoma County Energy Independence Program
+Contributors:
+Aaron Binkley, Prologis
+Beau Engman, Johnson Controls
+Ben Speed, Johnson Controls
+Bill Beres, Johnson Controls
+Chuck McGinnis, Johnson Controls
+Cisco DeVries, Renewable Funding
+Clay Nesler, Johnson Controls
+David Gabrielson, PACENow
+Geof Syphers, Syphers Consulting
+Jean Dunn, Structured Finance
+Jennifer Layke, Johnson Controls
+John Kinney, Clean Fund
+John Krappman, Structured Finance
+Molly McCabe, Hayden Tanner
+Natalie Trojan, PACENow
+Russell Garcia, Johnson Controls
+Scott Henderson, C40 – Clinton Climate Initiative
+Scott Muldavin, Green Building Finance Consortium
+Uwe Brandes, Urban Land Institute
+
+www.InstituteBE.com  
+
+Institute for Building Efficiency
+
+27
+
+ web logo
+
+Thank you to our partners:
+PACENow is an advocate for Property Assessed
+Clean Energy, an innovative way of financing
+
+print logo
+
+energy efficiency and related upgrades in our
+nation’s homes and commercial buildings. Our
+mission is to promote and assist the development
+of PACE programs by state and local governments b&w logo
+and provide leadership and support for a growing
+universe of energy efficiency and PACE stakeholders.
+www.pacenow.org
+
+web logo
+
+The Urban Land Institute provides leadership in
+the responsible use of land and in creating and
+sustaining thriving communities worldwide. ULI print logo
+is an independent global nonprofit supported by
+members representing the entire spectrum of real
+estate development and land use disciplines.
+www.uli.org
+
+b&w logo
+
+The Institute for Building Efficiency is an initiative
+
+color info
+
+of Johnson Controls providing information and
+
+HEX: #008AC2
+RGB: 0, 138, 194
+CMYK: 81, 34, 5, 0
+
+HEX: #4AB654
+RGB: 74, 182, 84
+CMYK: 71, 0, 92, 0
+
+analysis of technologies, policies, and practices
+for efficient, high performance buildings and smart
+
+font info
+
+energy systems around the world. The Institute
+leverages the company’s 125 years of global
+experi­ence providing energy efficient solutions for
+buildings to support and complement the efforts of
+nonprofit organizations and industry associations.
+The Institute focuses on practical solutions that are
+innovative, cost-effective and scalable.
+If you are interested in contacting the authors, or
+engaging with the Institute for Building Efficiency,
+please email us at: InstituteforBE@jci.com.
+
+© 2013 Johnson Controls, Inc.  444 North Capitol St., NW Suite 729, Washington, DC 20001  Printed in USA
+www.johnsoncontrols.com
+
+(logotype)
+
+(tagline)
+
+ 

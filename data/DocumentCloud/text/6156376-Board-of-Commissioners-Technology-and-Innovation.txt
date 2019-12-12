@@ -1,0 +1,301 @@
+REPORT OF THE COMMITTEE ON TECHNOLOGY
+
+February 28, 2011
+
+The Honorable,
+The Board of Commissioners of Cook County
+
+Present:
+
+Absent:
+
+Also
+Present:
+
+ATTENDANCE
+
+Chairman Fritchey, Vice Chairman Gorman, Commissioners Butler, Daley, Garcia,
+Schneider, Silvestri and Steele (8)
+
+Commissioner Goslin (1)
+
+Greg Wass Chief Information Officer, Cook County Bureau of Technology; John
+Phillips Securus Technologies, Inc.
+
+Ladies and Gentlemen:
+
+Your Committee on Technology of the Board of Commissioners of Cook County met
+pursuant to notice on Monday, February 28, 2011 at the hour of 11:30 AM. in the Board Room.
+Room 569, County Building, 118 North Clark Street, Chicago, Illinois.
+
+Your Committee has considered the following items and, upon adoption of this report, the
+recommendations are as follows:
+
+310757
+
+MICROSOFT PROFESSIONAL SUPPORT (PROPOSED CONTRACT).
+Transmitting a Communication dated December 28, 2010 from Greg Wass, Chief
+Information Officer, Bureau of Technology:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+MICROSOFT PROFESSIONAL SUPPORT, Dallas, Texas, for integration and
+enhancement services to core Microsoft software infrastructure for Cook County.
+
+Reason: Services are needed to establish a Microsoft development, test and
+production environment. This integration will enhance Cook County's
+core computer foundation and integrate previously installed software
+systems such as Exchange, Microsoft SharePoint, System Center
+Configuration Manager, and various application systems throughout
+Cook County. This enhancement will allow for the configuration of
+Unified Messaging and the creation of workflow processes and self
+service portals that will generate process efficiencies.
+
+Estimated Fiscal Impact: $1,000,000.00. Contract period: February 1, 2011
+through January 31, 2014. (717/023?441 Account). Requisition No. 10230002.
+
+This item was included in the 2010 Capital Equipment Program approved by the
+Board of Commissioners on November 19, 2009.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+TECHNOLOGY COMMITTEE REPORT
+
+PAGE2
+
+*Referred to the Committee on Technology on January 19, 2011.
+
+Commissioner Silvestri inquired whether Greg Wass, Chief Information Officer, Cook County
+Bureau of Technology, is in favor of this Item.
+
+Mr. Wass replied in the affirmative, and noted that representatives from Microsoft Professional
+Support were present and available for any questions the Commissioners might have.
+
+Commissioner Silvestri, seconded by Commissioner Steele, moved the approval of
+Communication No. 310757. The motion carried.
+
+310951
+
+CLERK OF THE CIRCUIT COURT, Dorothy Brown, transmitting a
+Communication, dated January 6, 2011:
+
+requesting authorization to accept a grant award in the amount of $129,600.00
+from the Illinois Criminal Justice Information Authority (ICJIA). The funds will be
+used to improve disposition reporting to Illinois State Police. This grant requires a
+cash match or an in-kind match of a minimum of 20 percent to provide for the
+additional funds for providing an overall method or system of correcting the
+rejected postings from the Illinois State Police's Criminal History Record
+Information (CHRI) system.
+
+As the Clerk of the Circuit Court lacks an overall method or system of
+correcting the rejected postings from the Illinois State Police?s CHRI system, 
+is proposing to build an application that will process the rejected dispositions that
+did not post to CHRI, provide a user interface to allow for updates to the
+information contained in the Clerk?s disposition reporting, and to transmit that
+information so that it successfully posts to CHRI. This solution will specifically
+provide for:
+
+Automating the interface of records that are pushed back to for
+correction and resubmission to system for updating to and
+
+Implementing improved data capture procedures (technical and
+operational) that would facilitate complete arrest reporting, research
+missing dispositions and information for reporting to ISP's system; and
+
+Reengineering business processes that are impacted by the new
+application build; and
+
+Examining and improving data collection at critical points throughout the
+justice process; and
+
+Establishing more effective accuracy and information quality and auditable
+controls; and
+
+Reducing the backlog of missing disposition or related information.
+
+TECHNOLOGY COMMITTEE REPORT
+FEBRUARY 28, 2011
+PAGE 3
+
+Additionally, the solution will have to examine the collection points of information
+coming into the Circuit Court. There may be opportunities for improvements in
+receiving critical data through an electronic exchange as opposed to many of
+manual entry points that exist today. Lastly, will also add stakeholders to the
+project as necessary, especially as it relates to agencies that are identified through
+the data collection and exchange points, where improvements can be made in
+ensuring accurate and complete information at its point of origin. Justice XML
+standards will be used as appropriate.
+
+Any and all contracts to be funded in whole, or in part. from the subiect qrant shall
+be subiect to review by the Cook County Chief Information Officer and approyal by
+the Board of Commissioners.
+
+Estimated Fiscal Impact: $32,400.00. (528?818 Account). Grant Award:
+$129,600.00. Funding period: January 1, 2011 through March 31, 2012.
+
+Sufficient funds are available in the Circuit Court Automation Fund.
+
+The Budget Department has received all requisite documents and determined the
+fiscal impact on Cook County, if any.
+
+*Referred to the Committee on Technology on February 1, 2011.
+
+Commissioner Silvestri, seconded by Commissioner Schneider, moved to adopt the
+amendment to Communication No. 310951.
+
+Commissioner Silvestri requested that, per Chairman Fritchey?s and Commissioner German's
+request, he be added as a Sponsor to the above-mentioned Amendment, along with Chairman
+
+Fritchey.
+
+Commissioner Silvestri read the Amendment into the record.
+
+Commissioner Silvestri, seconded by Commissioner Daley, moved the approval of
+Communication No. 310951 as amended. The motion carried.
+
+311140
+
+PRO-WEST ASSOCIATES, INC. (PROPOSED CONTRACT). Transmitting a
+Communication, dated January 26, 2011 from Greg Wass, Chief Information
+Officer, Bureau of Technology:
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+PRO-WEST ASSOCIATES, INC., Walker, Minnesota, for application
+development and automation of data that will coordinate business work flow
+primarily between the offices of the Department of Building and Zoning and the
+Zoning Board of Appeals.
+
+TECHNOLOGY COMMITTEE REPORT
+FEBRUARY 28, 2011
+PAGE 4
+
+Reason: The objective of this project is to streamline workflows between
+Building Zoning and the Zoning Board of Appeals. This project will
+automate the process for handling requests for zoning changes and
+permits, inventory of existing municipal zoning ordinances, creation of a
+web-based application for municipalities to report zoning changes, and
+the development of a countywide zoning permit application that is
+integrated into the County?s enterprise GIS environment. Based on an
+RFP for the selection of a vendor to develop a zoning workflow
+management application and related services, award is being
+recommended based on ProWest's technical solution, expertise and
+ability to meet all of the County?s specifications.
+
+Estimated Fiscal Impact: $657,112.00. Contract period: March 1, 2011 through
+July 31, 2012. (717/545?5753 Account). Requisition No. 15450002.
+
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+
+*Referred to the Committee on Technology on February 15, 2011.
+
+Commissioner Daley inquired whether Mr. Wass has any concerns regarding this Item.
+
+Mr. Was replied that he is in support of this Item, and that it helps all of the municipalities as
+
+well.
+
+Commissioner Silvestri, seconded by Commissioner Steele, moved the approval of
+Communication No. 311140. The motion carried.
+
+311141
+
+SECURUS TECHNOLOGIES, INC. (PROPOSED CONTRACT AMENDMENT).
+Transmitting a Communication, dated January 26, 2011 from Greg Wass, Chief
+Information Officer, Bureau of Technology:
+
+requesting authorization for the Purchasing Agent to amend Contract No. 08-45-
+256 with SECURUS TECHNOLOGIES, INC., Dallas, Texas, for the Coinless
+Inmate Public Pay Telephone Equipment and Services by adding coinless
+telephone equipment and services to the Juvenile Detention Center facilities,
+create inmate debit accounts, and implement a simplified rate structure.
+
+Reason: Juvenile Facility Project Securus will provide the
+equipment/Applications in connection with the Secure Call Platform
+(SCP) services needed to support the required number and type of
+phones and other components and storage. Inmate Debit Accounts 
+Upon the successful implementation of Voice Biometrics, it is the
+County's intent to install Debit accounts. This allows the inmates to call
+anyone and provides inmates the option of immediately paying for and
+making calls. Secure pins will be provide for easy investigation of calls
+and complaints, it enhances reporting capabilities and reduces
+administrative costs. Simplified Rates rates at Cook County
+today are based on rates that were previously in place. The
+current structure is extremely complicated for inmates and their
+families. A simplified rate plan will reduce complaints, reduce fraud,
+
+TECHNOLOGY COMMITTEE REPORT
+FEBRUARY 28, 2011
+PAGES
+
+eliminates the need to use illegal remote call forwarding services and
+increase County revenues by an estimated $623,000.00 annually.
+
+Estimated Fiscal Impact: None. Contract period: December 1, 2007 through
+November 30, 2012.
+
+*Referred to the Committee on Technology on February 15, 2011.
+Commissioner Steele inquired who is the minority or women vendor on this Item.
+
+In response, Mr. Wass requested that a representative from Securus Technologies, Inc.
+address this question.
+
+John Phillips of Securus Technologies, Inc. stated that an entity entitled ?Informity" is the m/wbe
+vendor on this Item.
+
+Chairman Fritchey inquired whether this entity is certified as such.
+
+IVlr. Phillips replied in the affirmative.
+
+Commissioner Beavers inquired what, exactly, Informity does as a company.
+
+Mr. Phillips replied that they provide support services at the Cook County Jail, such as the
+installation and maintenance of the phones, the general help desk, and all associated local
+suppon.
+
+Commissioner Beavers inquired what percentage of this entity is minority.
+
+Mr. Phillips replied 33.5% of the profit margin.
+
+Commissioner Daley inquired whether Mr. Wass supports this item.
+
+Mr. Wass replied in the affirmative.
+
+Commissioner Beavers requested that Mr. Wass, in the future, note for the Commissioners
+whether an entity is in compliance with the m/wbe ordinance.
+
+Mr. Wass replied that he would do this.
+
+Commissioner Silvestri, seconded by Commissioner Steele, moved the approval of
+Communication No. 311141. The motion carried.
+
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speaker,
+in accordance with Cook County Code, Sec. 
+
+1. George Blakemore Concerned Citizen
+
+Commissioner Steele moved to adjourn the meeting, seconded by Commissioner
+Silvestri. The motion carried and the meeting was adjourned.
+
+TECHNOLOGY COMMITTEE REPORT
+
+PAGEG
+
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTER NAMED HEREIN:
+
+Communication Number 310757 Approved
+Communication Number 310951 Approved As Amended
+Communication Number 311140 Approved
+Communication Number 311141 Approved
+
+Respectfully submitted,
+Committee on Technology
+
+ 
+
+$23 
+
+/Mah?hew B. DeLeon, Secretary
+
+*An audio recording of this meeting is available in the Office of the Secretary to the Board, 118
+North Clark Street, Room 567, Chicago, IL 60602.
+

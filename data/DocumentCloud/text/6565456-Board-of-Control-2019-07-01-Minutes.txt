@@ -1,0 +1,695 @@
+Minutes
+Cuyahoga County Board of Control
+Monday, July 1, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:01 a.m.
+Attending:
+Dennis Kennedy, Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Councilman Dale Miller
+Councilwoman Nan Baker
+Trevor McAleer, County Council (Alternate for Dan Brady)
+Michael Chambers, Finance and Operations Administrator, Department of Public Works
+(Alternate for Michael Dever)
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 6/24/2019
+Dennis Kennedy motioned to approve the minutes from the June 24, 2019 meeting; Trevor McAleer
+seconded. The minutes were unanimously approved as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+B. – New Items for Review
+BC2019-490
+Department of Public Works, submitting an amendment to Contract No. CE1700151 with Quick
+Employment, LLC for sourcing and staffing of temporary employees for the period 8/8/2017 – 12/31/2019
+for additional funds in the amount not-to-exceed $19,152.00.
+Funding Source: General Fund – Internal Service Fund
+Michael Chambers, Department of Public Works, presented. Dale Miller asked if hiring practices are
+contributing to the need for temporary staffing services and what portions of this amendment are related
+to position vacancies and the Enterprise Resource Planning Project; and expressed his support for this
+amendment due to the important work the department provides to the communities. Nan Baker asked
+how much lead time is needed to prepare for staff that are retiring. Dennis Kennedy motioned to approve
+the item; Dale Miller seconded. Item BC2019-490 was unanimously approved.
+
+ BC2019-491
+Department of Information Technology, submitting an amendment to Contract No. CE1600126 with
+Mythics, Inc. for Oracle database software support and maintenance services for the period 6/1/2016 –
+5/31/2019 to extend the time period to 5/31/2020, to expand the scope of services to add Oracle
+Database Standard Edition One license, effective 6/1/2019 and for additional funds in the amount not-toexceed $327,236.85.
+Funding Sources: General Fund; Domestic Relations Bureau of Support; DoIT Mainframe Operations and
+Fiscal Real Estate Assessment, Tax Assessments
+Jeanelle Greene and Dennis Sullivan, Department of Information Technology, presented. Nan Baker asked
+if the contract is being extended due to the Enterprise Resource Planning Project (ERP) schedule; asked
+for clarification on the end date and asked how that date and additional funding correlates with the
+anticipated ERP roll out. Dennis Kennedy stated that the original proposed savings will not be realized
+until current operating system costs can be eliminated and that the longer the ERP Project is delayed, the
+longer it will take for savings to occur. Ms. Baker asked if funds are being tracked and that all costs,
+including those caused by delays, will be identified when budgets are approved; and expressed the
+importance that all project funds are being accounted for.
+Mr. Kennedy stated that the current systems, such as FAMIS, must be in place for a period of time to
+continue operations and that the County is not yet ready for services to be eliminated, due to delays with
+ERP, as originally anticipated. Mr. Kennedy stated that the Harris Project has similar issues and additional
+renewals are expected; and stated that the accounting of these expenses will be shared with the Board
+members to get a better perspective of the current state.
+Trevor McAleer asked if the Harris Project completion date has been determined. Dennis Kennedy
+motioned to approve the item; Trevor McAleer seconded. Item BC2019-491 was unanimously approved.
+BC2019-492
+Department of Information Technology, on behalf of the Department of Public Works, submitting an
+amendment to Contract No. CE1900129 with Infor Public Sector, Inc. for the purchase of (88) Enterprise
+Asset Management Module Enterprise Edition mobile subscription licenses for the period 3/1/2018 –
+2/29/2024, to expand the scope of services by adding (30) licenses, effective 7/1/2019 and for additional
+funds in the amount not-to-exceed $78,926.40.
+Funding Source: Central Services Fund
+Jeanelle Greene, Department of Information Technology and Michael Chambers, Department of Public
+Works, presented. Trevor McAleer asked why the additional 30 licenses were not included in the original
+purchase and whether all 88 licenses are currently in use. Nan Baker asked if this will be an on-going
+expense in the future. Dennis Kennedy motioned to approve the item; Dale Miller seconded. Item BC2019492 was unanimously approved.
+
+ BC2019-493
+Department of Information Technology, submitting an amendment to Contract No. CE1600274 with Infor
+Public Sector, Inc. for information technology services and solutions for the Enterprise Resource Planning
+System for the period 10/27/2016 – 10/26/2021 to expand the scope of services to add 8 hours of
+retraining on the WFM Clocks for ERP staff, effective 7/1/2019; no additional funds required.
+Funding Source: Original Contract – ERP Capital Projects Fund (General Fund)
+Jeanelle Greene, Department of Information Technology, presented. Trevor McAleer asked what the
+starting and remaining balances of the 99 Fund are and requested a breakdown of expenses used from
+this Fund; and asked if the County has sole discretion on use of 99 Funds or does Infor need to approve
+also. Dennis Kennedy stated that a decision document must be proposed and signed by Infor and the
+County to accept the changes for use of the original funds.
+Nan Baker asked if all the 99 Fund will be used and if not, will that money be returned and asked how the
+remaining funds will be used.
+Dale Miller asked if the features included in the training are already in use or not yet operational; and
+asked for further clarification of Ms. Greene’s presentation, as to whether the clock system for ERP is
+ready but not yet implemented. Dennis Kennedy motioned to approve the item; Dale Miller seconded.
+Item BC2019-493 was unanimously approved.
+BC2019-494
+Department of Human Resources,
+a) Submitting an RFP exemption on RQ46085, which will result in a payment to Medical Resource Group,
+Inc. in the amount of $1,995.00 for deposition scheduling fees, impairment ratings, exam letters, file
+reviews and no-show impairment rating fees for Workers' Compensation claims and Fitness for Duty for
+the period 3/7/2019-5/7/2019.
+b) Recommending an award on RQ46085 to Medical Resource Group, Inc. in the amount of $1,995.00 for
+payment of deposition scheduling fees, impairment ratings, exam letters, file reviews and no-show
+impairment rating fees for Workers' Compensation claims and Fitness for Duty for the period 3/7/20195/7/2019.
+Funding Source: Workers’ Compensation Fund
+Patrick Smock, Department of Human Resources, presented. There were no questions. Dale Miller
+motioned to approve the item; Trevor McAleer seconded. Item BC2019-494 was unanimously approved.
+
+ BC2019-495
+Fiscal Department,
+a) Submitting an RFP exemption on RQ45960, which will result in an award recommendation to
+Environments 4 Business, LLC in the amount not-to-exceed $21,016.95 for a state contract purchase of
+office furniture for the Bedford Auto Title facility located at 22121 Rockside Road.
+b) Recommending an award on RQ45960 to Environments 4 Business, LLC in the amount not-to-exceed
+$21,016.95 for a state contract purchase of office furniture for the Bedford Auto Title facility located at
+22121 Rockside Road.
+Funding Source: Certificate of Title Administration Fund
+Christina Papa, Fiscal Department, presented. Dennis Kennedy thanked Ms. Papa and the Department of
+Public Works for coordinating the opening of the Bedford Auto Title facility. Dale Miller asked if this office
+is located next to similar State facilities. Dennis Kennedy motioned to approve the item; Dale Miller
+seconded. Item BC2019-495 was unanimously approved.
+BC2019-496
+Office of Procurement and Diversity, submitting an amendment to Contract No. CE1800477 with Dunbar
+Armored, Inc. for armed guard and armored truck services for various County departments for the period
+1/1/2019 – 12/31/2021, to expand the scope of services by adding 7 pick-up locations for Fiscal
+Office/General Services, effective 7/1/2019 and for additional funds in the amount not-to-exceed
+$13,825.00.
+Funding Source: General Fund
+Lenora Lockett, Office of Procurement and Diversity, presented. There were no questions. Dennis
+Kennedy motioned to approve the item; Trevor McAleer seconded. Item BC2019-496 was unanimously
+approved.
+BC2019-497
+Department of Public Safety and Justice Services,
+a) Submitting an RFP exemption, which will result in an award recommendation to AT&T Corporation in
+the amount not-to-exceed $178,272.00 for network connectivity services for the Next Generation VendorHosted 911 System for the period 7/1/2019 – 6/30/2024.
+b) Recommending an award to AT&T Corporation in the amount not-to-exceed $178,272.00 for network
+connectivity services for the Next Generation Vendor-Hosted 911 System for the period 7/1/2019 –
+6/30/2024.
+Funding Source: Wireless 9-1-1 Government Assistance Fund
+Alex Pellom, Department of Public Safety and Justice Services, presented. Dale Miller asked for an
+explanation of how this system operates in connection with the 911 System and asked for clarification
+that this system is just one part of the emergency response system. Dennis Kennedy motioned to approve
+the item; Dale Miller seconded. Item BC2019-497 was unanimously approved.
+
+ BC2019-498
+Department of Public Safety and Justice Services, recommending an award on RQ45315 to EdgeOne LLC
+dba EdgeTech (10-2) in the amount not-to-exceed $46,750.00 for the purchase of a Towfish Sonar System
+for the Ohio Region 2 Water Rescue Group.
+Funding Source: FY2017 Urban Area Security Initiative Grant Funds
+Alex Pellom, Department of Public Safety and Justice Services, presented. Trevor McAleer asked for
+clarification on the department’s item details summary as to the number of bids submitted and how many
+vendor awards are being made. Lenora Lockett stated that the 2 bids referred to in the item details are
+presumed to be those that were further evaluated after receipt. Nan Baker asked how the Towfish Sonar
+System is used. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded. Item BC2019498 was unanimously approved.
+BC2019-499
+Department of Health and Human Services/Community Initiatives Division/ Office of Homeless Services,
+submitting an amendment to Contract No. CE1800292 with Stella Maris, Inc. for temporary housing for
+homeless single adult males in Cuyahoga County with substance abuse issues for the period 7/1/2018 –
+6/30/2019 to extend the time period to 6/30/2020 and for additional funds in the amount not-to-exceed
+$265,000.00.
+Funding Source: Health and Human Services Levy Fund
+There was no department representative available to present this item. Trevor McAleer stated that this is
+a routine contract and was comfortable proceeding to vote on this item. The remaining Board members
+concurred with Mr. McAleer’s recommendation. Dennis Kennedy motioned to approve the item; Trevor
+McAleer seconded. Item BC2019-499 was unanimously approved.
+BC2019-500
+Department of Health and Human Services/Community Initiatives Division/Office of Early Childhood,
+submitting an amendment to Agreement No. AG1800108 with Educational Service Center of Cuyahoga
+County for the provision of an Early Childhood Mental Health Coordinator for the period 7/1/2018 –
+6/30/2019 to extend the time period to 9/30/2019, to modify the terms, effective 7/1/2019 and for
+additional funds in the amount not-to-exceed $21,418.62.
+Funding Source: Health and Human Services Levy Fund
+Marcos Cortes, Office of Early Childhood, presented. Nan Baker asked if the Early Childhood Mental Health
+Coordinator will be a new position and asked what the salary will be. Dennis Kennedy motioned to
+approve the item; Trevor McAleer seconded. Item BC2019-500 was unanimously approved.
+
+ BC2019-501
+Department of Health and Human Services/Cuyahoga Job and Family Services, submitting an amendment
+to Contract No. CE1600221 with Seattle Jobs Initiative for implementation of a Supplemental Nutrition
+Assistance and Employment Training Program for the period 8/15/2016 – 6/30/2019 to extend the time
+period to 6/30/2020, to expand the scope of services by adding technical assistance services, effective
+7/1/2019 and for additional funds in the amount not-to-exceed $150,000.00.
+Funding Source: Health and Human Services Levy
+Paul Bounds, Cuyahoga Job and Family Services, presented. Dale Miller, Nan Baker and Dennis Kennedy
+asked various questions for clarification on the contract history and time periods of prior amendments
+referenced in the item details. Mr. Kennedy asked for additional information on how the scope of services
+are being expanded. Ms. Baker asked if this will be the last amendment to this contract. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-501 was unanimously approved.
+BC2019-502
+Department of Health and Human Services/Division of Children and Family Services, submitting an
+amendment to Agreement No. AG1800043 with University of Maryland, Baltimore, on behalf of the
+School of Social Work/Institute for Innovation and Implementation to develop, integrate and sustain best
+practices and programs to improve the well-being, stability and permanency of Lesbian, Gay, Bisexual,
+Transgender, Questioning, and Two-Spirit (LGBTQ2S) Children and Youth in foster care for the period
+9/30/2017 – 9/29/2019 to extend the time period to 9/30/2019 and for additional funds in the amount
+not-to-exceed $240,000.00.
+Funding Source: University of Maryland, Baltimore Grant
+Jennifer Croessman, Division of Children and Family Services, presented. Dale Miller asked if the
+amendment is extending time from 2018 or 2019 and asked for confirmation if this request is to accept
+additional funds for this program. Mr. Miller also reflected upon the recent 50th anniversary of Stonewall.
+Trevor McAleer asked if the time extension of one day is correct, as printed on the agenda. Andria
+Richardson, Clerk of the Board of Control explained that the one-day extension is due to the prior
+amendment for funding from the University of Maryland, Baltimore being submitted with the incorrect
+end date of 9/29/2019 and that the end date should have been 9/30/2019. Dennis Kennedy asked for
+confirmation that the one-day extension is just to correct a technical error on the part of the grantor and
+to accept the receipt of the grant funds; and asked what the cumulative total of this contract is. Mr.
+McAleer asked how many youths are being served and if youths on a waiting list could be helped with
+additional staffing. Dale Miller motioned to approve the item; Dennis Kennedy seconded. Item BC2019502 was unanimously approved.
+BC2019-503
+Department of Health and Human Services/Division of Senior and Adult Services, submitting an
+amendment to Agreement No. AG1800124 with the City of Euclid for development and implementation
+of Senior Center Innovation Programming in connection with the Senior Center Innovation Grant Program
+for the period 8/1/2018 – 7/31/2019 to extend the time period to 12/31/2019 and for additional funds in
+the amount not-to-exceed $5,000.00.
+Funding Source: Health & Human Services Levy
+Paul Porter, Division of Senior and Adult Services, presented. Nan Baker asked why this service is only for
+the City of Euclid and if the award was due to the City of Euclid’s entry into this challenge. Trevor McAleer
+asked if this could become a County-wide program and asked for data related to implementing this
+
+ program throughout the County. Dennis Kennedy asked if there are prohibiting factors for using Health
+and Human Services Levy Funds to expand services. Dennis Kennedy motioned to approve the item; Dale
+Miller seconded. Item BC2019-503 was unanimously approved.
+The following item was held at the request of the Board of Control members.
+BC2019-504
+Department of Sustainability,
+a) Submitting an RFP exemption on RQ45381, which will result in an award recommendation to Cleveland
+State University in the amount not-to-exceed $80,000.00 for Microgrid and Clean Energy development
+support services for the period 7/1/2019 – 6/30/2020.
+b) Recommending an award on RQ45391 and enter into a contract with Cleveland State University in the
+amount not-to-exceed $80,000.00 for Microgrid and Clean Energy development support services for the
+period 7/1/2019 – 6/30/2020.
+Funding Source: Sustainability Projects Fund
+Monica Busam, Department of Sustainability, presented. Dennis Kennedy asked for clarification on the
+number of awards being requested and asked for confirmation that a related contract is being considered
+by County Council. Nan Baker stated that a related contract will be considered for approval at the
+7/23/2019 County Council meeting and recommended that this item be held until Council votes on the
+other contract to ensure funding is secure for both contracts. Ms. Baker asked if there was any urgency
+to approve this contract and said that this may be returned to Board of Control after the related contract
+is considered by all Council members. The other Board members concurred with Ms. Baker’s
+recommendation.
+C. – Consent Agenda
+Andria Richardson, Clerk of the Board of Control, referred to Item BC2019-508- Proposed Purchases Department of Public Works for a direct open market purchase award to Carr Bros. to change the
+Requisition No. from CT-19-2019 to CT-19-46155. There were no questions on the consent items. Dennis
+Kennedy motioned to approve items BC2019-505 through – 508; Dale Miller seconded, the consent items
+were unanimously approved as amended.
+BC2019-505
+Department of Public Works, submitting an amendment to Contract No. CE1900110 with Catts
+Construction, Inc. for resurfacing of Warrensville Center Road from Broadway Avenue to the Maple
+Heights North Corporation Line in the Cities of Bedford and Maple Heights for a decrease in the amount
+of ($0.01).
+Funding Source: (Original Contract): 73% Federal and 13% Ohio Public Works Commission (Issue 1), 14%
+Cuyahoga County using funds from $5 Vehicle License Tax Fund
+BC2019-506
+Department of Health and Human Services/Community Initiatives Division/Office of Homeless Services,
+requesting authority to apply for grant funds from Ohio Development Services Agency in the amount of
+$1,460,000.00 for the Homeless Crisis Response Program for the period 1/1/2020 – 12/31/2021.
+Funding Source: Ohio Development Services Agency
+
+ BC2019-507
+Fiscal Office presenting proposed Travel for the week of 7/1/2019
+
+Travel Requests
+Department
+
+Department
+of Workforce
+Development
+
+Staff
+
+Mary
+Kelley
+
+Event
+
+Host
+
+A conference
+entitled
+“National
+Association of
+Job Training
+Assistance
+(NAJA) Annual
+Conference”
+
+National
+Association
+of Job
+Training
+Assistance
+(NAJA)
+
+Dates of
+Travel
+6/17/6/20/2019
+
+Location
+
+Detroit,
+MI
+
+Expenses
+
+*Registration
+Fees –
+$609.00
+**Lodging$669.30
+
+Funding
+Source
+Workforce
+Innovation
+and
+Opportunity
+Act Fund
+
+**Meals $178.00
+**Mileage$174.23
+
+Total- $1,630.53
+
+*Paid to the Host
+**Staff reimbursement
+Purpose:
+The National Association of Job Training Assistance (NAJA) Annual Conference provides seminars, workshops, and
+training for professionals in the field of workforce development.
+
+ Travel Requests
+Department
+
+Department of
+Public Safety
+and Justice
+Services –
+Division of
+Public Safety
+and Justice
+Services
+Administration
+
+Staff
+
+Dennis
+Waina
+
+Event
+
+Host
+
+A seminar
+entitled “FY19
+Department of
+Justice
+Financial
+Management
+Training
+Seminar”
+
+United
+States
+Department
+of Justice
+
+Dates of
+Travel
+7/23/7/26/2019
+
+Location
+
+Washington,
+D.C.
+
+Expenses
+
+**Lodging$617.28
+
+Funding
+Source
+Public
+Safety
+Grant
+
+**Meals $240.00
+**Ground
+Transportation$156.00
+**Mileage$17.40
+**Parking$80.00
+**Baggage$100.00
+***Airfare$518.30
+
+Total- $1,728.98
+
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($518.30)
+
+Purpose:
+Th Office of Justice Programs (OJP) FY19 Department of Justice Financial Management Training Seminar offers 24
+modules emphasizing the basics of financial grants management. As an OJP award recipient and award project
+coordinator, the Department of Justice has extended the invitation to the training seminar to support federal
+certification requirements.
+
+ BC2019-508
+Office of Procurement & Diversity, presenting proposed purchases for the week of 7/1/2019
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+WT-19-45996
+
+(100) Replacement Hon
+Ignition chairs and (15)
+bariatric chairs for Virgil E.
+Brown Building
+(60) Protective helmets and
+headlamps for the Urban
+Search & Rescue team
+members
+Ready mix concrete for
+various road and bridge
+projects
+Guardrails and related
+materials for various road
+and bridge repairs
+Kraft record jackets for
+Print Shop
+
+Cuyahoga Job and
+Family Services
+
+WB Mason
+
+$29,258.90
+
+Health and
+Human Services
+Levy Fund
+
+Department of
+Public Safety and
+Justice Services
+
+Team Wendy LLC
+
+$18,376.54
+
+FY2017 Urban
+Area Security
+Initiative
+
+Department of
+Public Works
+
+Carr Bros.
+
+Road and
+Bridge Fund
+
+Department of
+Public Works
+
+American Timber &
+Steel Inc.
+
+Department of
+Public Works
+
+Husky Envelope
+
+Not-toexceed
+$49,500.00
+Not-toexceed
+$20,000.00
+$5,906.00
+
+SH-19-45907
+
+Bulletproof vests for the
+Protective Service Officers
+
+Sheriff’s
+Department
+
+Vance Outdoors Inc.
+
+SH-19-45928
+
+(4,000) Rounds of duty
+ammunition and
+(14,000) rounds of practice
+ammunition for Protective
+Service Officers
+(1,100) Replacement
+mattresses for Jail
+
+Sheriff’s
+Department
+
+Vance Outdoors Inc.
+
+Not-toexceed
+$24,500.00
+$5,451.20
+
+Sheriff’s
+Department
+
+JCS Jail Supplies
+
+$48,235.00
+
+General Fund
+
+JA-19-46042
+
+CT-19-2019
+CT-19-46155
+CT-19-45288
+
+CT-19-46082
+
+SH-19-45991
+
+Road and
+Bridge Fund
+General Fund –
+Internal Service
+Fund
+General Fund
+
+General Fund
+
+Items/Services Received and Invoiced but not Paid:
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CC002-1945806
+
+(1) (7) Adaptive Ergo
+Sit-Stand Workstation and
+filing supplies
+(1,000) Bus tickets for
+transportation needs for
+trainings, job interviews,
+and workshops for
+returning citizens
+
+Department of
+Human Resources
+
+WB Mason
+
+$1,348.15
+
+General Fund
+
+Office of Reentry
+
+Greater Cleveland
+Regional Transit
+Authority
+
+$3,750.00
+
+General Fund
+
+RE-19-45901
+
+ Open Market Purchases
+(Over $50,000 or requiring assistance from the Office of Procurement & Diversity)
+Requisition #
+None
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding
+Source
+
+ V – OTHER BUSINESS
+Time Sensitive/Mission Critical
+BC2019-509
+Department of Health and Human Services, Division of Children and Family Services, recommending an
+award on RQ46077 to Anne Grady Services in the amount not-to-exceed $24,999.99 for emergency
+placement services for the period 3/19/2019 – 12/31/2019.
+Funding Source: 70% Health and Human Services Levy Fund and 30% Title IV-E
+Christine Alexander, Cuyahoga Job and Family Services on behalf of Division of Children and Family
+Services, presented. Dale Miller asked what is the likelihood that the County will be providing services to
+this child until they are 18 years old, given the present age of the child now. Nan Baker asked how the
+child sustained their injuries. Trevor McAleer asked if this vendor will be added to the master contract.
+Dennis Kennedy motioned to amend the agenda to consider the item; Trevor McAleer seconded. Dennis
+Kennedy motioned to approve; Dale Miller seconded. Item BC2019-509 was unanimously approved.
+Items of Note (non-voted)
+Item No. 1
+Department of Health and Human Services/Community Initiatives Division/ Office of Homeless Services,
+submitting a grant agreement from U.S. Department of Housing and Urban Development/Community
+Planning and Development in the amount of $732,555.00 for the FY2018 Continuum of Care Program
+Competition for the period 11/1/2019 – 10/31/2020.
+Funding Source: U.S. Department of Housing and Urban Development
+Item No. 2
+Department of Health and Human Services/Community Initiatives Division/ Office of Homeless Services,
+submitting a grant agreement from U.S. Department of Housing and Urban Development/Community
+Planning and Development in the amount of $538,941.00 for Rapid Re-housing services for Families in
+connection with the FY2018 Continuum of Care Program Competition grant for the period 10/1/2019 –
+9/30/2020.
+Funding Source: U.S. Department of Housing and Urban Development
+Item No. 3
+Court of Common Pleas/Corrections Planning Board, submitting a grant award from Substance Abuse and
+Mental Health Services Administration in the amount of $2,000,000 for the Cuyahoga County MAT Drug
+Court Expansion Project for the period 05/31/2019 - 05/30/2024.
+Funding Source: Substance Abuse and Mental Health Services Administration
+Item No. 4
+Court of Common Pleas/Corrections Planning Board, submitting a grant award from Ohio Department of
+Public Safety in the amount of $53,331.95 for the Cuyahoga County Violence Intervention Program for
+the period 1/1/2019 - 12/31/2019.
+Funding Source: Ohio Department of Public Safety
+
+ Item No. 5
+Contracts $0.00 - $4,999.99 – Processed and executed (no vote required)
+
+RQ No.
+RQ
+33803
+
+Contract
+Number
+Amend
+Contract No.
+CE1500113
+
+Vendor
+Wingswept
+LLC
+
+Service
+Description
+Maintenance
+and support of
+the case
+management
+system, amend
+to change scope
+of services to
+increase
+storage
+capacity,
+effective
+6/20/2019 and
+for additional
+funds
+
+Amount
+
+Department
+
+$2,400.00
+
+Agency of the
+Inspector
+General
+
+Date(s) of
+Service
+4/23/2015 –
+4/23/2020
+
+Funding
+Source
+General
+Fund
+
+Date of
+Execution
+6/20/2019
+
+VI – PUBLIC COMMENT
+VII – ADJOURNMENT
+Dennis Kennedy motioned to adjourn; Trevor McAleer seconded. The motion to adjourn was unanimously
+approved at 12:08 p.m.
+
+ 

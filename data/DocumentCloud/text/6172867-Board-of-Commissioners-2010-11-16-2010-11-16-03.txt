@@ -1,0 +1,157 @@
+ITEM NO. A2
+
+November 10, 2010
+
+AUTHORIZATION TO ENTER INTO A CONTRACT WITH RIGHTPOINT
+CONSULTING, LLC FOR MICROSOFT SHAREPOINT IMPLEMENTATION
+SERVICES
+To the Honorable Board of Commissioners:
+RECOMMENDATION
+It is recommended that the Board of Commissioners authorize the Chief Executive Officer or his
+designee to enter into a contract with Rightpoint Consulting, LLC for Microsoft SharePoint
+Implementation Services, which incorporates a fixed-fee component of $89,435.00 for the initial
+start up phase, and $660,565.00 for subsequent task orders to be authorized at the CHA’s
+direction and discretion in a total amount not-to-exceed $750,000.00.
+
+RECOMMENDATION SUMMARY
+Funding Code: General Fund
+Vendor: Rightpoint Consulting, LLC
+Address: 200 West Madison, Suite 200
+City, State, Zip: Chicago, IL 60606
+RFP Number: 10-00505
+Contract Type: Fixed Fee Base/Not-To-Exceed
+Task Orders
+Original Contract Amount: $750,000.00
+Original Contract Period: One (1) year
+Extension Options: None
+Number of Vendors Solicited: 117
+Number of Pick-Ups: 69
+45 MBE, 3 WBE, 2 DBE
+19 Non-Minority firms
+M/W/DBE Participation
+Direct
+%
+MBE
+%
+MBE
+Indirect
+Waiver_____& Yes/No
+
+Number of Proposals Received: 11
+(4 MBE, 1 WBE, and 6 Non-Minority)
+Date Advertised: 3/29/10
+Date Bids/Proposal Opened: 5/21/10
+Pre-Proposal Conference: 5/11/10
+Addendum Issued: 3
+Advertisement Publications: Chicago SunTimes, Chicago Defender, El Dia, CHA’s Website
+and BuySpeed
+
+% WBE __20%__% DBE ______%
+% WBE ______% DBE ______%
+
+Section 3
+___2___ (#) Hiring ______ ($) Subcontracting $_______ ($) Other Economic Opportunities
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ BACKGROUND
+To enhance collaboration and communication across the Chicago Housing Authority (“CHA”),
+the CHA has chosen to strategically leverage Microsoft SharePoint (“SharePoint”). The
+SharePoint Implementation project is slated to provide a solution to effectively leverage and
+manage a variety of collaboration and communication tools (e.g., portals, on-line collaboration
+spaces and workflow management).
+Some objectives of the project include the following:
+•
+•
+•
+•
+
+Develop a comprehensive intranet that defines and extends the agency’s universal
+communication strategy and segments communication to internal target audiences
+Develop a Resident Services Public Relations and Communications site that will assist in
+managing up-to-date communications, providing employees real-time access to
+headline/newsworthy information about the Authority
+Develop an extranet-based Resident Services External Agencies site that allows internal
+and external stakeholders (e.g., vendors) to easily access pertinent information (e.g.,
+event calendar, training materials, etc.)
+Develop an extranet-based Housing Choice Voucher site that facilitates processes such as
+application changes, work order submissions and customer service requests
+
+The CHA sought out the services of a vendor with experience in SharePoint web design &
+implementation. The scope of these services includes:
+•
+•
+•
+•
+•
+
+A complete analysis of the existing SharePoint environment
+Business requirements gathering
+Prototype design
+Intranet portal development
+Targeted extranet-based applications
+ PROCUREMENT INFORMATION
+
+On March 29, 2010 the CHA advertised Request for Proposal No. 10-00505 Creation of
+SharePoint Portal, Intranet Portal, Extranets & Related Tools. The solicitation sought both
+business requirements gathering and implementation of a SharePoint Portal and externally facing
+sites for the CHA. On April 7, 2010, the CHA held a Pre-Proposal Conference where 12
+potential vendors attended in person. The initial due date of the proposals was April 29, 2010.
+The Department of Procurement and Contracts (“DPC”) received a high volume of inquiries and
+118 written questions from prospective vendors. Due to the volume and nature of questions, two
+addendums were issued to amend the proposed contract structure and provide answers to the
+questions. The due date of proposals was subsequently extended to May 21, 2010.
+To effectively manage the phases of the SharePoint roll-out, the original RFP was amended to
+more formally define each phase and checkpoint. Where the original RFP document requested a
+fixed price proposal for all of the phases of work included, the amendment required a fixed price
+proposal for the introductory phase (Requirements Gathering & Assessment) and each
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ subsequent phase will be managed by task orders with agreed upon scope and deliverables. For
+each task order, the selected vendor will provide a quote based on the estimated effort and prenegotiated hourly staffing rates. The CHA reserves the right not to dispatch a task order if order
+pricing, deliverable(s) and/or the vendor’s proposed approach is inconsistent with the CHA’s
+expectations.
+A second Pre-Proposal Conference was held on May 11, 2010 to ensure that interested vendors
+understood the nature of the changes to the proposed contract structure. The due date was
+changed to May 21, 2010. On May 21, the CHA received 11 proposals. The Evaluation Team,
+comprised of representatives from Information Technology Services, Resident Services and the
+Housing Choice Voucher program reviewed each proposal and provided their individual scoring
+results to the DPC.
+Procurement set a competitive range of 70, which resulted in 6 of the 11 vendors being selected
+to conduct Oral Presentations. To ensure that Oral Presentations provided a detailed
+understanding of the key components of the proposed solution and the requirements outlined in
+the RFP, the evaluation team devised an intensive Oral Presentation script that each vendor was
+required to follow.
+After Oral Presentations were completed, all scoring was submitted to the DPC and this resulted
+in the selection of Rightpoint Consulting, LLC as the best vendor for this engagement. With an
+average score of 111.26, Rightpoint was the highest scoring vendor for each phase of the
+evaluation (written RFP response & Oral Presentation). Rightpoint initially submitted a “best
+and final” pricing proposal of $112,515. The CHA’s team conducted a series of negotiation
+meetings with Rightpoint to ensure a mutual understanding of the project’s scope and specific
+elements of proposed pricing. Rightpoint subsequently adjusted their pricing accordingly,
+submitting a final pricing offer of $89,435 for the Requirements Gathering and Assessment fixed
+price portion of the project and an average hourly rate of $99.38 for successive task orders. This
+average rate is comprised of $110 for SharePoint resources and $25 for administrative resources.
+Based on the foregoing, it is in the best interest of the CHA to enter into a one year contract
+which incorporates a fixed fee component of $89,435 and a variable component accommodating
+subsequent task orders not to exceed $660,565, constituting a total contract cost not to exceed
+$750,000.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ RESOLUTION NO. 2010-CHA-138
+WHEREAS, the Board of Commissioners has reviewed the Board Letter dated November 10,
+2010, “AUTHORIZATION TO ENTER INTO A CONTRACT WITH
+RIGHTPOINT CONSULTING, LLC FOR MICROSOFT SHAREPOINT
+IMPLEMENTATION SERVICES”.
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+THAT
+
+The Board of Commissioners authorizes the Chief Executive Officer or his
+designee to enter into a contract with Rightpoint Consulting, LLC for SharePoint
+Implementation Services in an amount not to exceed $750,000.00.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312)913-7282· www.thecha.org
+
+ 

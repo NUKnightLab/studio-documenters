@@ -1,0 +1,440 @@
+Chicago Infrastructure Trust
+Financial Statements and
+Independent Auditor's Report
+December 31, 2013
+
+ Chicago Infrastructure Trust
+Index
+
+Page
+Independent Auditor's Report
+
+2
+
+Financial Statements
+Statement of Financial Position
+
+4
+
+Statement of Activities
+
+5
+
+Statement of Cash Flows
+
+6
+
+Notes to Financial Statements
+
+7
+
+1
+
+ Independent Auditor's Report
+To the Board of Directors
+Chicago Infrastructure Trust
+We have audited the accompanying financial statements of the Chicago Infrastructure Trust,
+which comprise the statement of financial position as of December 31, 2013, and the related
+statements of activities and cash flows for the period from April 24, 2012 (commencement of
+operations) through December 31, 2013, and the related notes to the financial statements.
+Management's Responsibility for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial
+statements in accordance with accounting principles general accepted in the United States of
+America; this includes the design, implementation, and maintenance of internal control relevant
+to the preparation and fair presentation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+Auditor's Responsibility
+Our responsibility is to express an opinion on these financial statements based on our audit.
+We conducted our audit in accordance with auditing standards generally accepted in the
+United States of America. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of material
+misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and
+disclosures in the financial statements. The procedures selected depend on the auditor's
+judgment, including the assessment of the risks of material misstatement of the financial
+statements, whether due to fraud or error. In making those risk assessments, the auditor
+considers internal control relevant to the entity's preparation and fair presentation of the
+financial statements in order to design audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the
+entity's internal control. Accordingly, we express no such opinion. An audit also includes
+evaluating the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluating the overall
+presentation of the financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit opinion.
+
+2
+
+ Opinion
+In our opinion, the financial statements referred to above present fairly, in all material respects,
+the financial position of the Chicago Infrastructure Trust as of December 31, 2013 and the
+changes in its net assets and cash flows from April 24, 2012 (commencement of operations)
+through December 31, 2013, in accordance with accounting principles generally accepted in
+the United States of America.
+
+Chicago, Illinois
+July 17, 2014
+
+3
+
+ Chicago Infrastructure Trust
+Statement of Financial Position
+December 31, 2013
+
+Assets
+Current assets
+Cash
+Grant receivable
+Prepaid expenses
+
+$
+
+Total current assets
+
+32,335
+77,806
+1,525
+111,666
+
+Total assets
+
+$
+
+111,666
+
+$
+
+87,849
+22,775
+1,042
+
+Liabilities and Net Assets
+Current liabilities
+Accounts payable
+Accrued expenses
+Deferred revenue
+Total current liabilities
+
+111,666
+
+Net assets
+Unrestricted net assets
+Temporarily restricted net assets
+
+77,806
+(77,806)
+
+Total net assets
+
+-
+
+Total liabilities and net assets
+
+$
+
+See Notes to Financial Statements.
+4
+
+111,666
+
+ Chicago Infrastructure Trust
+Statement of Activities
+Period from April 24, 2012 (Commencement of Operations)
+through December 31, 2013
+
+Temporarily
+restricted
+
+Unrestricted
+Revenue
+Grant revenue
+$
+Net assets released from restrictions:
+
+444,945
+
+Satisfaction of grant restrictions
+
+$
+
+77,806
+
+Total
+$
+
+522,751
+
+77,806
+
+(77,806)
+
+Total support and revenue
+
+522,751
+
+-
+
+522,751
+
+Expenses
+Supporting activities
+Bookkeeping fees
+Committee expenses
+Computer and software
+Employee taxes and benefits
+General and administrative
+Insurance
+IT support
+Office supplies and expenses
+Professional fees / consulting
+Salaries and wages
+Telephone and internet
+Travel and meals
+Website design
+
+40,205
+17,052
+12,136
+28,686
+12,900
+38,444
+29,500
+14,683
+89,040
+168,039
+4,041
+19,275
+48,750
+
+-
+
+40,205
+17,052
+12,136
+28,686
+12,900
+38,444
+29,500
+14,683
+89,040
+168,039
+4,041
+19,275
+48,750
+
+522,751
+
+-
+
+522,751
+
+Total expenses
+
+-
+
+Change in net assets
+
+-
+
+-
+
+-
+
+Net assets, beginning of period
+
+-
+
+-
+
+-
+
+Net assets, end of period
+
+$
+
+-
+
+See Notes to Financial Statements.
+5
+
+$
+
+-
+
+$
+
+-
+
+ Chicago Infrastructure Trust
+Statement of Cash Flows
+Period from April 24, 2012 (Commencement of Operations)
+through December 31, 2013
+
+Cash flows from operating activities
+Adjustments to reconcile the change in net assets to net cash provided by
+operating activities
+Increase in operating assets:
+Grant receivable
+$
+Prepaid expenses
+Increase in operating liabilities:
+Accounts payable
+Accrued expenses
+Deferred revenue
+
+(77,806)
+(1,525)
+87,849
+22,775
+1,042
+
+Net cash provided by operating activities
+
+32,335
+
+Net increase in cash
+
+32,335
+
+Cash, beginning of period
+
+-
+
+Cash, end of period
+
+$
+
+See Notes to Financial Statements.
+6
+
+32,335
+
+ Chicago Infrastructure Trust
+Notes to Financial Statements
+December 31, 2013
+
+Note 1 - Organization
+The Chicago Infrastructure Trust (the "Trust") was incorporated as a non-profit organization
+on April 24, 2012 under executive order of the Mayor and City Council resolution. The Trust
+operates exclusively for civic and charitable purposes in the Chicago Metropolitan area and
+is a tax exempt entity pursuant to Section 501(c)(3) of the Internal Revenue Code.
+The Trust assists the people of the City of Chicago, the City government and its sister
+agencies in providing alternative financing and project delivery options for transformative
+infrastructure projects. To accomplish this, the Trust hopes to structure innovative financing
+strategies and attract capital from diverse groups of investors. The Trust also hopes to
+achieve and demonstrate real risk transfer to third-party investors, and to stimulate crossagency financing while creating efficient capital structures.
+The sole source of revenue is from the City of Chicago's grant program further discussed in
+Note 2.
+Note 2 - Summary of significant accounting policies
+Basis of presentation
+The Trust presents its financial statements in accordance with the accounting guidance for
+nonprofit entities. Under this guidance, the Trust is required to report information regarding
+its financial position and activities according to three classes of net assets: unrestricted net
+assets, temporarily restricted net assets and permanently restricted net assets.
+Furthermore, information is required to segregate program service expenses from support
+expenses. Support expenses include accounting fees, committee expenses, computer and
+software, insurance, IT support, office supplies and expenses, professional and consulting
+fees, salaries and wages, employee taxes and benefits, telephone and internet, travel and
+meals, website design and other general and administrative expenses.
+Revenue recognition
+Grants received are recorded as unrestricted, temporarily restricted or permanently
+restricted support, depending on the existence and/or nature of any donor restrictions.
+Conditional promises to give are not recognized until they become unconditional: that is,
+when the conditions on which they depend are substantially met.
+For the period from April 24, 2012 (commencement of operations) through December 31,
+2013, the Trust was awarded two cost reimbursement grants from the City of Chicago
+totaling $653,350. As of December 31, 2013, grant funds of $450,000 were received,
+$77,806 remains receivable, of which $63,729 was approved by the City of Chicago, and
+an additional $14,077 has been incurred and is pending approval although conditions have
+been met. The remaining balance of the awarded 2013 grants totaling $125,544 will be
+carried over into the subsequent year.
+
+7
+
+ Chicago Infrastructure Trust
+Notes to Financial Statements
+December 31, 2013
+
+Prepaid expenses
+Advance payments for expenses related to subscriptions and insurance policies are
+classified as prepaid expenses.
+Use of estimates
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+Net assets
+The Trust classifies net assets as unrestricted, temporarily restricted or permanently
+restricted.
+Unrestricted net assets are neither permanently restricted nor temporarily restricted by
+donor-imposed stipulations.
+Temporarily restricted net assets of the Trust result (a) from contributions and other inflows
+of assets whose use by the Trust is limited by donor-imposed stipulations that either expire
+by passage of time or can be fulfilled and removed by actions of the Trust pursuant to those
+stipulations, (b) from other asset enhancements and diminishments subject to the same
+kinds of stipulations and (c) from reclassifications to (or from) other classes of net assets as
+a consequence of donor-imposed stipulations, their expiration by passage of time, or their
+fulfillment and removal by actions of the Trust pursuant to those stipulations.
+Income taxes
+The Trust has applied for and received a determination letter from the Internal Revenue
+Service ("IRS") to be treated as a tax exempt entity pursuant to Section 501(c)(3) of the
+Internal Revenue Code and did not have any unrelated business income for the period from
+April 24, 2012 (commencement of operations) through December 31, 2013. Due to its tax
+exempt status, the Trust is not subject to income taxes, but is required to file and does file
+tax returns with the IRS and other taxing authorities. Accordingly, these financial
+statements do not reflect a provision for income taxes and the Trust has no other tax
+positions which must be considered for disclosure. Income tax returns filed by the company
+are subject to examination by the Internal Revenue Service for a period of three years.
+While no income tax returns are currently being examined by the Internal Revenue Service,
+tax years since inception remain open.
+Advertising
+Advertising costs are charged to operations when incurred.
+
+8
+
+ Chicago Infrastructure Trust
+Notes to Financial Statements
+December 31, 2013
+
+Note 3 - Concentration of revenue / related party
+A substantial portion of the Trust's revenue was received from the City of Chicago.
+Substantial revenue is defined as revenue earned from any source that is in excess of 10%
+of the total revenue of the company. From the period April 24, 2012 (commencement of
+operations) through December 31, 2013, revenue from the City of Chicago was $522,751,
+or 100% of total revenue.
+Note 4 - Temporarily restricted net assets
+Temporarily restricted net assets as of December 31, 2013 are subject to the following
+restrictions:
+
+Approval by City of Chicago Budget
+
+$
+
+77,806
+
+Net assets released from restrictions, during the period April 24, 2012 (commencement of
+operations) through December 31, 2013, consist of the following:
+
+Approval by City of Chicago Budget
+
+$
+
+(77,806)
+
+Note 5 - Evaluation of subsequent events
+Events that occur after the statement of financial position date, but before the financial
+statements were available to be issued, must be evaluated for recognition or disclosure.
+The effects of subsequent events that provide evidence about conditions that existed at the
+statement of financial position date are recognized in the accompanying financial
+statements. Subsequent events which provide evidence about conditions that existed after
+the statement of financial position date require disclosure in the accompanying notes.
+Management evaluated the activity of Chicago Infrastructure Trust through July 17, 2014
+(the date the financial statements were available to be issued) and concluded that no
+subsequent events have occurred that would require recognition in the financial statements
+or disclosure in the notes to financial statements.
+
+9
+
+ 

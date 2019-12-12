@@ -1,0 +1,3568 @@
+CHICAGO PUBLIC SCHOOLS EQUITY REPORT
+Taking stock of proposed school boundary changes: Issues and
+opportunities to achieve equity
+
+23 February, 2018
+
+Prepared for: Chicago Public Schools
+Chicago, IL
+
+Prepared by:
+Westat
+An Employee-Owned Research
+Corporation®
+1600 Research Boulevard
+Rockville, Maryland 20850-3129
+(301) 251-1500
+
+ TABLE OF CONTENTS
+EXECUTIVE SUMMARY ............................................................................................................................................. i
+INTRODUCTION ....................................................................................................................................................... 1
+FINDINGS ................................................................................................................................................................. 4
+EQUITY AREA: ENGAGEMENT ............................................................................................................................. 5
+EQUITY AREA: SCHOOL CLIMATE ........................................................................................................................ 6
+EQUITY AREA: LEADERSHIP ................................................................................................................................. 9
+EQUITY AREA: STUDENT LEARNING .................................................................................................................. 11
+EQUITY AREA: EDUCATORS ............................................................................................................................... 15
+EQUITY AREA: ACCESS....................................................................................................................................... 15
+EQUITY AREA: FISCAL ........................................................................................................................................ 18
+CONCLUSION ......................................................................................................................................................... 19
+Challenges ......................................................................................................................................................... 19
+Recommendations ............................................................................................................................................ 21
+APPENDIX A: CPS Transition Plan.......................................................................................................................... 32
+Full Transition Plan from CPS ............................................................................................................................ 32
+Near South Proposal Summary ......................................................................................................................... 40
+Proposed High School Boundaries Map ........................................................................................................... 42
+APPENDIX B: Methodology ................................................................................................................................... 43
+Qualitative ......................................................................................................................................................... 43
+Quantitative ...................................................................................................................................................... 45
+Works Cited ....................................................................................................................................................... 46
+APPENDIX C: Equity Indicators .............................................................................................................................. 47
+Definitions ......................................................................................................................................................... 47
+Comprehensive Equity Indicators ..................................................................................................................... 48
+Framing the Comprehensive Equity Indicators ................................................................................................ 48
+Family and Community Engagement ............................................................................................................ 48
+School Climate & Culturally Relevant Leadership......................................................................................... 49
+Student Centered Learning ........................................................................................................................... 49
+Diverse Staff of Excellent Educators & Equitable Student Access ................................................................ 49
+Fiscal Equity................................................................................................................................................... 49
+Resource Bibliography ...................................................................................................................................... 50
+Family and Community Engagement ............................................................................................................ 50
+School Climate .............................................................................................................................................. 51
+Culturally Relevant Leadership Practices...................................................................................................... 52
+i
+
+ Student-Centered Learning........................................................................................................................... 53
+Diverse Staff of Excellent Educators ............................................................................................................. 54
+Equitable Student Access .............................................................................................................................. 54
+Fiscal Responsibility and Equity .................................................................................................................... 56
+
+ii
+
+ EXECUTIVE SUMMARY
+Chicago Public Schools (CPS) is investigating how best to serve its Pre-K through 12th grade
+students in the Near South Side. One proposal under consideration is moving the attendance boundary
+for the South Loop Elementary School (South Loop) and converting National Teachers Academy (NTA)
+into a neighborhood high school serving the South Loop, North Bronzeville, Chinatown, Armour
+Square, and Bridgeport neighborhoods. In May 2017, CPS introduced a preliminary framework to
+gradually convert NTA into this neighborhood high school. The CPS Transition Plan (provided in
+Appendix A) proposes to move the Pre-K to 3rd grades to the new South Loop Elementary school in fall
+2019. For students in grades 4–8, it provides an option for them to either remain at NTA through the
+remainder of elementary school and high school, or to transition to South Loop. Under this plan, the
+first cohort of 9th graders would attend the NTA high school beginning in fall 2019, adding a grade level
+each subsequent year. It is important to note that all NTA students are guaranteed a seat in the new
+proposed high school, regardless of where they live. The proposed high school would have a traditional
+neighborhood school boundary with the addition of a preference boundary that will provide families
+living just outside the neighborhood boundary with first access to any available seats after students in
+the neighborhood boundary enroll. Students living in the current South Loop and NTA boundaries are
+guaranteed a seat at the new high school because they reside within the proposed neighborhood
+boundary. The other elementary schools that fall within the proposed neighborhood boundary are
+Drake, Haines, Healy, and Ward. The proposed preference boundary incorporates the following
+elementary school boundaries – Armour, Holden and Pershing.
+In December 2017, CPS commissioned a study to understand the implications of this proposal.
+The goal was to describe the potential impacts, both positive and negative, that this proposal may have
+on various stakeholders in the Near South community and make a series of recommendations. This
+report summarizes the findings and is framed around seven critical areas for equity: (1) Family and
+Community Engagement, (2) School Climate, (3) Culturally Relevant Leadership Practices, (4) StudentCentered Learning, (5) Diverse Staff of Excellent Educators, (6) Equitable Student Access, and (7) Fiscal
+Equity.
+Executive Summary
+
+i
+
+ Westat utilized a multi-method approach to this task, combining information from focus
+groups1, interviews, a document review (including the CPS Transition Plan), and an analysis of CPS
+enrollment data (see Appendix B for the full Methodology). Interviews were conducted with CPS
+leaders, elected officials and community stakeholders identified by CPS and community groups. Focus
+groups were conducted with parents and educators from both South Loop and NTA. Additional focus
+groups were conducted with parents of students of other elementary schools which are in the
+proposed boundary of the new high school. It should be noted that focus group participants are a
+convenience sample and have self-selected to participate. The views expressed by participants are
+therefore not necessarily representative of the wider community, but are nevertheless valuable in
+identifying important issues relevant to the CPS proposal.
+Our analysis demonstrates that a myriad of concerns, opportunities and challenges have arisen
+from the CPS proposal. In many cases the issues are not new and are known to CPS. Some have been
+addressed in the Transition Plan. What we present are issues that remain to be addressed as CPS
+reviews its next steps in implementing the plan. High level findings with their requisite challenges are
+presented below by equity indicator, followed by a series of process recommendations.
+What are the key findings, challenges, and opportunities in the area of family and
+EQUITY AREA:
+ENGAGEMENT
+
+community engagement?
+1. A high level of mistrust of CPS leadership and a significant level of acrimony
+between the two communities currently exist.
+2. Only 3 percent of students attend their neighborhood high school with the
+remaining students dispersed throughout the city to 117 other schools. This
+
+Westat conducted seven one-on-one interviews and eight focus groups of parents and educators representing affected schools and
+communities. Interviews were conducted with the following: Three CPS school and district leaders, one elected official, two community
+representatives, and one community organizer. Focus groups included:
+•
+South Loop Parents (two focus groups with a total of 24 participants)
+•
+National Teachers Academy Parents (two focus groups with a total of 32 participants)
+•
+South Loop Educators (one focus group with 13 participants)
+•
+National Teachers Academy Educators (one focus group with 15 participants)
+•
+Outlying Boundary Parents (two focus groups representing Chinatown, Drake, Healy, Haines, and Bronzeville, with a total of 15
+participants)
+
+1
+
+Executive Summary
+
+ii
+
+ scattering of students throughout the city is a challenge for maintaining and
+improving family and community engagement with the schools.
+3. There was a high level of agreement that having a neighborhood high school
+would be a significant benefit because parents would more easily be able to engage
+in school activities which contribute to a stronger sense of community.
+Key Recommendations: One of the priorities of successful schooling is to engage and partner
+with the families and community stakeholders through genuine, purposeful, deliberate, and sustaining
+ways. The mistrust of CPS leadership and the acrimony between neighborhoods must be addressed for
+the proposed plan to be implemented successfully. Participants agreed that the strongest
+recommendation was for CPS to authentically listen to all constituent voices, be transparent in the
+decision-making process, and “over-communicate” with parents. The Transition Plan outlines a process
+to create a joint Culture and Climate Team from both elementary schools to engage parents and school
+staff in creating a shared vision for the future. We suggest using interactive and structured protocols
+like, but not limited to, Open Space Technology, Problems of Practice, learning circles, customized
+gallery walks with highly skilled and trained facilitators to ensure all voices are heard and valued. In
+addition, we suggest that the Principal Transition Coordinator (PTC), collaborate with the school
+principals to identify a number of ways in which parents and community stakeholders can actively
+participate in creating this shared vision.
+EQUITY
+AREA:
+SCHOOL
+CLIMATE
+
+What are the key findings, challenges, and opportunities in the area of school
+climate?
+1. The concept of ‘integration’ was met with intense resistance, where some
+parents felt that having one “welcoming school” and one “closing school” will result
+in one school losing its identity. The challenge will be to merge two schools that
+have distinct educational philosophies and strong relationships with their respective
+communities.
+2. CPS views the merging of the schools as an opportunity to “strengthen
+educational options,” with the added benefit of providing schools with the
+opportunity to learn from each other. The challenge is assuring parents that their
+
+Executive Summary
+
+iii
+
+ children would not lose the very educational philosophies that made their individual
+schools successful.
+3. NTA and South Loop may be addressing disciplinary incidents in different ways.
+While NTA had more students involved in more disciplinary incidents than South
+Loop, those incidents that occurred at South Loop were of greater severity. The
+challenge will be to integrate these potentially differing philosophies to serve the
+best interests of all students.
+4. Despite the outreach efforts of CPS (including more than 25 small group
+meetings and emails to parents and community members), the details of the
+Transition Plan are not well understood by community members. The challenge will
+be finding ways to effectively communicate detailed information with the
+community.
+Key Recommendations: In order to facilitate a positive school climate in which both the adults
+and students take ownership in creating and maintaining a harmonious, welcoming, and inclusive
+school community, both school identities would need to be transformed into a new identity that
+develops and nurtures all students. Early in the transition process, staff and student representatives of
+the new school need to collaboratively discuss their new vision for a school climate and culture that
+continues to honor creating and maintaining a safe space for all students that is harmonious,
+welcoming, and inclusive. A critical part of this effort will be ensuring that NTA students continue to
+receive the equitable services, culturally responsive teaching, and social-emotional support that they
+currently enjoy. The Transition Plan acknowledges many of these challenges and takes some initial
+proactive steps to address them through allocation of funding, resources and support. Working in
+partnership with community members, the existing plan will need to evolve into a detailed action plan
+with metrics of success, benchmarks, and timelines, but will also have to be purposefully and
+repeatedly disseminated.
+What are the key findings, challenges, and opportunities in the area of culturally
+EQUITY
+AREA:
+LEADERSHIP
+
+relevant leadership practices?
+
+Executive Summary
+
+iv
+
+ 1. The CPS Transition Plan provides funding to support school leadership during the
+transition period. It provides for a transition coordinator who would work with
+principals to provide the supports identified by the Culture and Climate Team.
+2. Both NTA and South Loop participants were concerned about the loss of familiar
+leaders if the transition takes place. The challenge is one of assuring parents that
+their children would not lose the leaders and leadership philosophies that made
+their individual schools successful.
+Key Recommendations: We also recommend that CPS employ a suite of culturally relevant
+leadership practices, including the provision of purposeful, ongoing, job-embedded, and sustained
+professional learning that supports the shared vision for cultural responsive and culturally relevant
+pedagogy. In addition, provide readily available resources, tools, professional learning communities,
+learning modules, and engaging and interactive activities that support the ways in which the entire
+faculty and staff will practice culturally relevant leadership to ensure all students are valued, honored,
+and celebrated.
+EQUITY
+AREA:
+STUDENT
+LEARNING
+
+What are the key findings, challenges, and opportunities in the area of studentcentered learning?
+1. Students are currently academically successful in both NTA and South Loop
+school settings.
+•
+
+While NTA serves a significantly larger disadvantaged population, both schools
+are rated as 1+ by CPS, and both are categorized by CPS as having “above
+average” 2 year to year growth in test scores.
+
+•
+
+After controlling for poverty, demographics, and other factors, 3 South Loop
+students scored significantly higher on spring 2017 MAP reading and math
+
+Student Growth measures the change in standardized test scores between two points in time, in this case between spring 2016 and
+spring 2017. This growth is compared to the average national growth for schools that had similar scores in 2016. A 50th percentile score
+means the school grew at the same rate as the national average. http://cps.edu/Schools/Find_a_school/Pages/findaschool.aspx
+3 The multiple regression equation controlled for gender, race, ethnicity, RGC status, Special Education status, Disability status, Free and
+Reduced Lunch status, and attendance.
+2
+
+Executive Summary
+
+v
+
+ assessments than their NTA counterparts. There was no significant difference
+when looking at year to year growth.
+•
+
+Neighborhood, economically disadvantaged, and African American South Loop
+students scored significantly higher in math and reading than their NTA peers
+in Spring 2017. However, there are no significant differences when year to year
+growth scores are examined.
+
+2. NTA parents firmly believed that a holistic, whole child approach benefits their
+children’s overall well-being as well as their academics. The challenge is ensuring the
+benefit of a holistic approach and acknowledging the perception of the potential loss
+of this approach as a grave concern for some parents.
+Key Recommendations: Tailoring instructional academic programming with the student at the
+center of the planning, development, delivery, assessment, reflection, and evaluation phases is an
+ongoing, cyclical practice of successful schooling. In addition to the student supports outlined in the
+Transition Plan, we also recommend that CPS provide support and technical assistance to school
+leaders and teachers on the differentiated ways instruction can be tailored to meet students’ individual
+learning needs based on in-depth data analyses. In addition, CPS should ensure that teachers have
+flexibility in the multiple approaches that have been successfully employed at both schools to support
+student-centered learning for continued student academic success.
+What are the key findings, challenges, and opportunities in the area of diverse
+EQUITY
+AREA:
+EDUCATORS
+
+staff of excellent educators?
+1. Both NTA and South Loop have the same level of diversity in their teaching staff.
+There are no statistically significant differences in the racial and ethnic makeup of
+each school’s teacher cadre. There is a great opportunity to staff the new
+elementary school with exemplary and diverse educators from both NTA and South
+Loop, if the proposal is approved by the board.
+2. NTA parents directly tied the dedication of the faculty and staff to the academic,
+social, and emotional well-being of their children.
+
+Executive Summary
+
+vi
+
+ 3. There was great uncertainty regarding the process of selecting faculty, staff, and
+administrators for the proposed new school.
+4. The Transition Plan acknowledges the need for purposeful staffing of the new
+school with high-quality administrators and teachers trained in equity issues, holistic
+instructional methodologies, and transition/change dynamics. Nevertheless, NTA
+parents and educators worry that the teachers and staff at the new school would
+not be equipped to effectively handle the needs of the NTA population of students.
+Key Recommendations: We strongly recommend that CPS communicates a clear and equitable
+plan for staffing the new elementary school with administrators and teachers from both existing
+schools. Though the PTC supports an exemplary leadership model, we encourage CPS to further
+explore multiple leadership models. For example, lead principals for the new elementary school can
+collaboratively implement a shared leadership approach to support the entire multi-school campus.
+These lead principals will also work collaboratively with the PTC and new high school principal for
+successful transition and continuous support through a shared leadership model.
+What are the key findings, challenges, and opportunities in the area of equitable
+EQUITY
+AREA:
+ACCESS
+
+student access?
+Consistently, participants expressed reservation regarding the proposed NTA
+conversion. The widespread impression among focus group participants was that a
+successful (i.e., 1+ rating) school was being sacrificed for the promise of a high
+school. CPS leadership acknowledges these concerns and stresses that it is a merging
+of two 1+ schools and that equitable opportunities for access will not diminish.
+1. All interviewees and focus groups agreed that having a neighborhood high
+school is extremely valuable and agreed that being able to spare their children from
+the stressful high school selection process was a significant benefit. That said, focus
+group participants consistently expressed concern that existing high schools were
+being neglected in favor of establishing a new high school for a wealthier
+neighborhood. The Transition Plan acknowledges that it also seeks to rectify a
+
+Executive Summary
+
+vii
+
+ historical wrong though this proposal. There is also an opportunity for the district to
+communicate the support services it provides to the existing high schools.
+2. While students are currently zoned to Phillips or Tilden (both level 2 schools)
+only 55 out of 2,032 attended them in 2017-18. The remaining students attended
+117 other high schools, travelling an average of 3.8 miles to school each way
+(ranging from 0.1 to 13.5 miles). If NTA is converted into a high school, this creates
+an opportunity to reduce travel distance by nearly two-thirds: to 1.3 miles.
+3. Participating parents from outlying boundaries were excited about the prospect
+of having a state-of-the-art high school nearby. However, they were concerned that
+there would not be enough space and no priority status for them. Our analysis of
+CPS data indicates the maximum capacity of the proposed high school would be 88
+percent, leaving 220 available slots for the rest of the city, a positive
+benefit/opportunity.
+Key recommendations: Though the Plan and January 8th press release clearly describes that the
+new high school will serve students in the Near South Area, we encourage CPS to further reassure
+parents that this includes students from Chinatown, Bridgeport, North Bronzeville, and South Loop.
+What are the key findings, challenges, and opportunities in the area of fiscal
+EQUITY AREA
+FISCAL
+
+equity?
+1. NTA parents and educators were distressed because they perceived that all the
+resources which had been put into making NTA a 1+ rated school would be lost.
+2. Participants in all focus groups questioned how resources would be provided to a
+new school when parents feel that resources have not been available to improve
+existing high schools.
+3. The CPS Transition Plan allocates $3.5 million to fund transition and support
+mechanisms for students through graduation. Upon reading a summary of the
+Transition Plan, participants were confused about the allocation of the funding,
+many thinking that the funding would also be used for establishing the new high
+school.
+
+Executive Summary
+
+viii
+
+ Key Recommendations: Equitable school funding is a critical component to achieving equity,
+and the opportunity to more clearly illustrate the district’s commitment to fiscal equity (beyond what
+is outline in the Transition Plan) will benefit the entire the school community. Therefore, we
+recommend that CPS further clarify and communicate the financial implications of the Transition Plan.
+Specifically, CPS would need to provide details of how the $3.5 million will be allocated, and to
+communicate this information using multiple methods.
+Our analysis identifies continuing potential challenges, issues and opportunities confronting CPS
+as they construct their transition plan. As we are more than a year away from actual implementation,
+many of the concerns raised can be addressed through inclusive planning, utilization of multiple and
+diverse communication channels, and a collectively agreed upon sense of what short term and long
+term success for all students can be. The equity concerns will always be present, should be identified
+and monitored, and action taken to address inequities when they exist. The request for this analysis is
+a responsible step in this process.
+
+Executive Summary
+
+ix
+
+ INTRODUCTION
+As the population of the Near South neighborhoods continues to grow, Chicago Public Schools
+(CPS) is investigating how best to serve its Pre-K through 12th grade students. One proposal under
+consideration is moving the attendance boundary for the South Loop Elementary School (South Loop)
+and converting National Teachers Academy (NTA) into a neighborhood high school serving South Loop,
+North Bronzeville, Chinatown, Armour Square, and Bridgeport neighborhoods. In May 2017, CPS
+introduced a preliminary framework to gradually convert NTA into this neighborhood high school
+starting in the fall of 2019. NTA is a top-rated Pre-K–8 elementary school located at 55 W Cermak Road
+that currently serves 723 students (in SY 2017-18). It also has a Regional Gifted Center (RGC) program
+for students in grades K–5. South Loop is also a top-rated K 4-8 elementary school located at 1212
+South Plymouth Ct. that currently serves 780 students. South Loop also has an RGC program currently
+serving students in grades 6-8.
+The full Transition Plan is provided in Appendix A. It provides the option for NTA students in
+grades 4 and above (in fall 2019) to either remain at NTA through the remainder of elementary school
+and high school or to transition to South Loop. Students in grades K-3 as of the 2019-20 school year do
+not have the option to remain at NTA and will be assigned to South Loop. Under this plan, the first
+cohort of 9th graders would attend the NTA high school beginning in 2019-20. This transition is
+displayed graphically in Figure 1.
+
+South Loop previously had a pre-K program located at its Early Childhood Center, located at 1915 S Federal St. However, due to
+overcrowding, South Loop had to cut its pre-K program and use the space for additional kindergarten classrooms.
+
+4
+
+CPS Equity Report
+
+1
+
+ Figure 1. Proposed transition plan for current NTA students by grade
+GRADE
+
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+2024-25
+2025-26
+2026-27
+2027-28
+2028-29
+2029-30
+2030-31
+
+PK
+
+(NTA)
+
+K (NTA)
+1 (SL)
+2 (SL)
+3 (SL)
+4 (SL)
+5 (SL)
+6 (SL)
+7 (SL)
+8 (SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+K (NTA)
+
+1 (NTA)
+
+2 (NTA)
+
+3 (NTA)
+
+4 (NTA)
+
+5 (NTA)
+
+6 (NTA)
+
+7 (NTA)
+
+8 (NTA)
+
+1 (NTA)
+2 (SL)
+3 (SL)
+4 (SL)
+5 (SL)
+6 (SL)
+7 (SL)
+8 (SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+2 (NTA)
+3 (SL)
+4 (SL)
+5 (SL)
+6 (SL)
+7 (SL)
+8 (SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+3 (NTA)
+4 (NTA/SL)
+5 (NTA/SL)
+6 (NTA/SL)
+7 (NTA/SL)
+8 (NTA/SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+4 (NTA)
+5 (NTA/SL)
+6 (NTA/SL)
+7 (NTA/SL)
+8 (NTA/SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+5 (NTA)
+6 (NTA/SL)
+7 (NTA/SL)
+8 (NTA/SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+6 (NTA)
+7 (NTA/SL)
+8 (NTA/SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+7 (NTA)
+8 (NTA/SL)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+8 (NTA)
+9 (NTA HS)
+10 (NTA HS)
+11 (NTA HS)
+12 (NTA HS)
+
+9 (HS)
+10 (HS)
+11 (HS)
+12 (HS)
+
+(NTA) = Students attend NTA, transition has not yet begun
+(SL) = Students transition to South Loop
+(NTA/SL) Students may remain at NTA or transition to South Loop
+(NTA HS) = Students have guaranteed spot in the proposed NTA high school
+(HS) = Students attend high school as normal
+
+In addition to the gradual transition of students shown above, the Plan also contains a
+guarantee that every current NTA student, regardless of where they live, will have a guaranteed spot in
+the new high school. CPS has also set aside $3.5 million to support the transition of NTA students
+through graduation and including the creation of a joint Culture and Climate Team comprised of staff,
+parents, and student representatives from NTA and South Loop. In addition, part of this funding is
+earmarked for the implementation of restorative practices and professional development for South
+Loop and NTA staff.
+The focus of this report is to describe the potential impacts, both positive and negative, that
+this proposal may have on various stakeholders in the Near South community. This work will allow CPS
+to fully understand the concerns and expectations of stakeholders, likely challenges, and potential
+solutions. After a request for proposal and vendor selection process, CPS contracted with Westat to
+conduct this study. The revised Transition Plan was released on December 1, 2017, and Westat was
+contracted to begin work soon after, on December 11th, concluding February 23, 2018. Westat utilized
+a multi-method approach to this task, combining information from focus groups, interviews, a
+
+CPS Equity Report
+
+2
+
+ document review (including the CPS Transition Plan), and an analysis of CPS enrollment data 5 (see
+Appendix B for the full Methodology). Interviews were conducted with CPS leaders, elected officials
+and community stakeholders identified by CPS and community groups. Focus groups were conducted
+with parents and educators from both South Loop and NTA. Additional focus groups were conducted
+with parents of students of other elementary schools which are in the proposed boundary of the new
+high school. For the purpose of this report, all those interviewed or participating in a focus group will
+be referred to as “participants,” with the understanding that their input may not necessarily reflect the
+community at-large. Any references to input from parents and educators within this report reflect
+focus group participation.
+The report continues with the Findings chapter that contains information on the historical
+background and context for the proposal, followed by the results organized around the following
+equity indicators: (1) Family and Community Engagement, (2) School Climate, (3) Culturally Relevant
+Leadership Practices, (4) Student-Centered Learning, (5) Diverse Staff of Excellent Educators, (6)
+Equitable Student Access, and (7) Fiscal Equity. Next is the Conclusion, which includes detailed
+recommendations. The appendices follow: Appendix A contains the full Transition Plan from CPS,
+Appendix B is the methodology, while Appendix C contains information on the equity indicators.
+
+Westat conducted seven one-on-one interviews and eight focus groups of parents and educators representing affected schools and
+communities. Interviews were conducted with the following: Three CPS school and district leaders, one elected official, two community
+representatives, and one community organizer. Focus groups included:
+•
+South Loop Parents (two focus groups with a total of 24 participants)
+•
+National Teachers Academy Parents (two focus groups with a total of 32 participants)
+•
+South Loop Educators (one focus group with 13 participants)
+•
+National Teachers Academy Educators (one focus group with 15 participants)
+•
+Outlying Boundary Parents (two focus groups representing Chinatown, Drake, Healy, Haines, and Bronzeville, with a total of 15
+participants)
+
+5
+
+CPS Equity Report
+
+3
+
+ FINDINGS
+One of the topics which resonated with the parent groups and stakeholders was the historical
+context around past school boundary issues. Community stakeholders repeatedly referenced painful
+past boundary decisions that segregated schools by race and income. In 2005, CPS redrew the
+boundary lines which created a clear demarcation of between NTA and South Loop. Students south of
+18th street went to NTA (then a low-performing school) and students north of that were zoned to
+South Loop (a high-performing school). This boundary resulted in lower-income, primarily African
+American residents being zoned to a low-performing school, while more affluent residents were zoned
+to a high-performing school. NTA parents feel that this boundary decision was made specifically “to
+exclude poor African American students and families from a
+The two schools serve very distinct
+populations, differing significantly
+on all demographic characteristics
+
+high-quality school [i.e., South Loop]” and was seen as an
+example of how CPS historically has segregated schools.
+Today, only 33 percent of South Loop neighborhood
+
+students are eligible for Free and Reduced Price Lunches (FRPL) compared to 86 percent of the
+neighborhood students at NTA. A comparison of the demographics of the students of the two schools
+and the projected demographics of the combined school are provided in Table 1.
+Table 1. Demographic characteristics of NTA and South Loop schools: 2017-2018
+
+Special Ed students
+Economically
+disadvantaged
+White
+African American
+Hispanic
+RGC students
+
+All
+6%
+
+South Loop
+Neighborhood
+7%
+
+RGC
+--
+
+Projected Combined
+Elementary
+All
+Neighborhood RGC
+7%
+8%
+--
+
+26%
+
+31%
+
+33%
+
+20%
+
+46%
+
+51%
+
+19%
+
+27%
+31%
+17%
+NA
+
+25%
+46%
+10%
+11%
+
+24%
+47%
+9%
+NA
+
+34%
+38%
+15%
+NA
+
+18%
+58%
+9%
+17%
+
+16%
+63%
+8%
+NA
+
+32%
+30%
+17%
+NA
+
+National Teachers Academy
+All
+Neighborhood RGC
+9%
+11%
+-72%
+
+86%
+
+7%
+78%
+7%
+23%
+
+-92%
+4%
+NA
+
+Note: NA = not applicable. ‘—‘ = cell size too small to report. RGC students grade K-5 all attend NTA and students grade 6-8 all attend
+South Loop. Economically disadvantaged refers to students who are eligible to receive Free or Reduced Price Lunch (FRPL). The projection
+was created by extrapolating the demographics from NTA in 2017-18, and assuming that all K-3 students would attend South Loop, and
+that 50% of grades 4-8 would attend South Loop (selected randomly).
+
+In fact, because the NTA (neighborhood and RGC) population is 78 percent African American, it
+is less “diverse” than South Loop. Looking at the diversity index (the probability of having two students
+CPS Equity Report
+
+4
+
+ who are from different racial categories), South Loop is 72 percent, while for NTA that probability is 38
+percent. For the combined school, the diversity index is projected to be 62 percent.
+Building on this historical context, participants expressed their frustration that
+EQUITY AREA:
+ENGAGEMENT
+
+CPS leadership had not effectively communicated with the communities throughout
+the decision-making process of this proposal. CPS has attempted to address this
+perception by conducting “community meetings, more than 25 small group meetings
+
+with various stakeholders, and collecting over 900 emails from parents and community members” (CPS
+Draft Transition Plan). From this input, CPS made modifications to the draft Plan to address community
+concerns; however, negative perceptions of lack of communication persist. One interviewed
+participant explained that CPS leadership might not be “getting equally balanced voice, and the result
+is [CPS] coming up with solutions people will continue to reject until there is open and transparent
+access to the decision-making process.” NTA participants were the most vocal in their frustration with
+the CPS decision-making process, with one parent saying, “I do not believe CPS will use any of this
+information as I intend.”
+All participants agreed that the strongest recommendation was the need for CPS to
+authentically listen to all constituent voices. NTA parent participants emphasized the need for
+transparency in the decision-making process and “over-communication” from CPS. CPS has been
+transparent with operational aspects of the proposal, such as transportation, timeline, and transition
+support. Programmatic strategies, such as how the two schools will develop a new identity and
+staffing, would be developed with community input during the 2018-19 school year. However, it is
+precisely this lack of programmatic details that concerns parents the most.
+All interview and focus group participants agreed that the current high school environment is
+not conducive to family and community engagement. At this time, only 3 percent of students attend
+one of the designated neighborhood high schools. All other students disperse throughout the city to
+117 other schools, preventing the possibility of building a sense of community around school events
+such as sports, fine arts productions, and other student performances. The Transition Plan describes a
+comprehensive system of student supports to ensure that all students will experience a smooth
+CPS Equity Report
+
+5
+
+ transition from one school to the other if the proposal is approved, which include supports for diverse
+learners, English learners, students in temporary living situations, and students’ social and emotional
+needs. These comprehensive systems of student supports should also be provided during the entire
+phase-in plan and extend to both the new high school and existing high schools in the area.
+Participants agreed that having a safe and successful high school in the community would boost
+community engagement. Participants spoke emotionally on the topic of the stress and difficulty with
+the existing selective high school/lottery process and the break-up of the community when students
+disperse to far-flung high schools throughout the city. Focus group participants from the outlying
+communities agreed that having all the schools feed into a single safe high school would strengthen
+their communities. They shared excitement about having the opportunity to actively participate in high
+school activities and school/parent groups.
+According to the CPS Transition Plan, funding will be designated to address
+EQUITY
+AREA:
+SCHOOL
+CLIMATE
+
+school climate concerns. The plan creates a Culture and Climate advisory group made
+up of administrators, faculty/staff, parents, and students from both affected schools.
+This team will develop a shared vision, identify programming/curriculum needed to
+
+fully support all students, develop staff development, and organize
+community events to encourage the merging of the two communities.
+That said, the potential integration of two successful schools with
+
+The two schools have very
+distinct cultures, each with a
+different focus
+
+dynamically different school cultures still poses a significant challenge.
+Participants from both NTA and South Loop boast a strong sense of community. They spoke of the
+“South Loop Way” and the “NTA Way” and participants indicated that both communities tie the
+success of the school directly to their school’s culture.
+South Loop participants indicated that the South Loop community directly ties a successful
+school environment to rigorous, accelerated academic standards and achievement. As a result, South
+Loop participants strongly supported their school’s leadership, because of their “strong commitment to
+a high-quality education.” They also directly correlated high academic standards to the growth and
+development of their neighborhood. South Loop focus group consensus was that when a
+CPS Equity Report
+
+6
+
+ neighborhood boasts an academically strong school, people will want to stay in the community. South
+Loop parents were also excited that the merging of the two schools would allow their children to learn
+about and experience alternative educational models (e.g., restorative justice, holistic learning, etc.).
+Participants from the NTA community directly tied a successful school environment to student
+wellness, with a focus on the “whole child” and a culturally relevant curriculum. They emphasized that
+the NTA culture teaches students to advocate for themselves, developing “strong Black leaders of the
+community.” NTA participants believed their children “were well” due to strong, committed school
+leaders and teachers. They shared stories of the principal greeting each child by name at the start of
+each day, and one parent emphasized that the NTA school leadership maintains a consistent “message
+to the children of safety and acceptance.”
+Participants from both NTA and South Loop strongly believe in their schools, their students, and
+their existing school cultures. CPS conducts an annual survey to assess perceptions of school culture
+across 5 domains. The 2017 survey results show that both schools are considered “strong” in
+“ambitious instruction” according to students and teachers. South Loop is also rated as “strong” or
+“very strong” in the other four domains, whereas NTA is “neutral” in the other areas (see Figure 2).
+Figure 2. School climate survey results 2017
+
+Source: http://cps.edu/Schools/Find_a_school/Pages/findaschool.aspx. The response rates were not high enough to report out survey
+results related to school community, parent-teach partnerships and quality of facilities.
+
+CPS Equity Report
+
+7
+
+ Discipline and attendance are another aspect of school culture. Looking at the data for both
+schools, discipline can be described by the number of
+incidents occurring during a given school year, as well as
+
+Figure 3: Number of disciplinary
+incidents per 100 students in 2016-17
+100
+
+Figure 3 shows the number of incidents per 100 students
+
+90
+
+in the 2016-17 school year, with NTA having statistically
+significantly more disciplinary incidents than South Loop.
+Similarly, 22 percent of NTA students were involved in at
+least one disciplinary incident, compared to 3 percent of
+South Loop students. However, the severity of the
+disciplinary incidents should also be taken into account.
+To better understand disciplinary incidents, we created an
+index that included severity. The index was calculated as
+the number of incidents multiplied by the severity of
+
+Number of incidents per 100 students
+
+the number of students involved in at least one incident.
+
+80
+70
+
+75.1
+
+60
+50
+40
+30
+20
+10
+4.1
+
+0
+NTA
+
+South Loop
+
+those incidents (from a scale of 1 to 6). 6 Looking at this index, we found that—for the 152 NTA
+students involved in an incident—the average severity index was 2.4. For the 20 South Loop students
+involved in an incident, this score was statistically significantly higher—3.5. That is, while NTA had
+more students involved in more incidents, South Loop had fewer incidents but of higher severity.
+Westat also examined the number of in- and out-of-school suspensions over time in both
+schools (see Figure 4 below). Here we can see that the proportion of out-of-school suspensions have
+been declining for both schools, with NTA coming down from a peak in 2012-13. NTA also exhibits a
+dramatic decrease in the number of in-school suspensions since 2015-16.
+
+Group 1 lists behaviors that are inappropriate. • Group 2 lists behaviors that disrupt. • Group 3 lists behaviors that seriously disrupt. •
+Group 4 lists behaviors that very seriously disrupt. • Group 5 lists behaviors that most seriously disrupt. • Group 6 lists behaviors that are
+illegal and most seriously disrupt. See pages 18-31 for examples:
+http://cps.edu/SiteCollectionDocuments/SCC_StudentCodeConduct_English.pdf
+
+6
+
+CPS Equity Report
+
+8
+
+ Figure 4. Number of in-school and out-of-school suspensions per 100 students by school, 2011-12 to
+2016-17
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2011-2012
+
+2012-2013
+
+2013-2014
+
+2014-2015
+
+2015-2016
+
+2016-2017
+
+SOUTH LOOP ISS
+
+SOUTH LOOP OSS
+
+NATIONAL TEACHERS ISS
+
+NATIONAL TEACHERS OSS
+
+Note: ISS = in school suspension; OSS = out of school suspensions.
+
+Looking at attendance data, there are no statistically significant difference in the number of
+absences between NTA and South Loop students, with about 7 days missed for neighborhood students,
+and 4 days missed for RGC students.
+The CPS Transition Plan provides funding to create leadership positions focused
+EQUITY
+AREA:
+LEADERSHIP
+
+on transition support. One such position will be a transition coordinator assigned
+during SY 2018-19 and maintained at least through 2019-20. This coordinator would
+act as a point of contact for transitioning students and families, directing them to
+
+support and resources and would work with school principals to assist in programming and other
+supports identified by the Culture and Climate Team. Both NTA and South Loop parent and educator
+participants understood that the changes in school leadership and staffing would effectively change
+the individual missions of the schools (i.e., South Loop’s academic rigor and NTA’s holistic approach).
+
+CPS Equity Report
+
+9
+
+ Both NTA and South Loop participants were also concerned about the loss of familiar leaders if
+the transition takes place. With each school having a very clearly distinct philosophy of education,
+parents worried that their children would lose the very leadership philosophies that made their
+individual schools successful. A CPS leadership interview participant acknowledged these differences
+in school culture saying, “The schools have so much to share with each other. South Loop has a very
+strong academic focus while NTA has done an amazing job of creating a culture and core values around
+motivating students and bringing a sense of community.” However, it is these strengths that focus
+group participants believed might be lost by combining the schools. While the South Loop participants
+felt that the proposal would have some positive impacts, NTA participants felt the implementation of
+the current CPS proposal would have lasting and severe negative impacts on both their children and
+their community.
+Of greatest concern, across both communities’ participant groups, was the concept of
+“integration” which they perceived could have negative consequences.
+South Loop parents expressed concern that the transition had the
+potential to seriously disrupt student learning. NTA educator and
+
+The underlying anger and
+distrust must be addressed
+before any movement towards a
+merger can occur
+
+parent participants agreed, indicating that rather than an “integration”
+of schools, the implementation of this proposal would result in unbalanced impacts, where one
+community wins and the other loses. An outer-boundary parent expressed a similar sentiment by
+saying, “Just because there’s a mixture of people does not mean good things will happen.” One South
+Loop educator emphasized the need for CPS to address underlying anger, which has been building
+between the communities. Some participants, though, believed that if done correctly, long-term
+benefits of having a high-quality, diverse school would be great, making the school a model for others
+to follow. This work would fall under the auspices of the proposed Culture and Climate Team, which
+would be tasked with addressing problematic issues surrounding the concepts of integration and
+merging of the two schools.
+
+CPS Equity Report
+
+10
+
+ EQUITY
+AREA:
+STUDENT
+LEARNING
+
+Both South Loop and NTA are rated as 1+ schools, and both have shown a
+steady increase in test scores over the last 5 years, as illustrated in Figure 5, below.
+Figure 5: Spring math and reading scores (grades 3–8), spring 2013- spring 2017
+
+Figures 6 and 7 show that South Loop neighborhood students, students who are eligible for
+FRPL, African American, and chronically absent (missing more than 18 days of school) students in South
+Loop score statistically significantly higher in both math and reading than their peers in NTA.
+
+CPS Equity Report
+
+11
+
+ Figure 6. 2016-17 math achievement by demographic and academic characteristics
+100
+
+NTA
+
+90
+
+Significant
+difference
+
+80
+
+93.2
+
+91.1
+
+Significant
+difference
+
+70
+
+Percentile
+
+60
+
+64.5
+
+40
+
+Significant
+difference
+
+30
+
+Significant
+difference
+
+67.0
+
+52.5
+
+47.8
+
+44.6
+
+80.9
+
+71.8
+
+59.9
+
+57.8
+
+50
+
+84.3
+
+SL
+
+48.2
+
+35.9
+
+20
+10
+0
+Neighborhood
+
+RGC
+
+Economically Chronically
+disadvantaged
+absent
+
+White
+
+African
+American
+
+Hispanic
+
+Note: “Significant” difference refers to a statistically significant difference between the two schools at the .05 level
+RGC students grade K-5 all attend NTA and students grade 6-8 all attend South Loop. Economically disadvantaged refers to students who
+are eligible to receive Free or Reduced Price Lunch (FRPL)
+
+Figure 7. 2016-17 Reading achievement by demographic and academic characteristics
+Significant
+difference
+
+100
+90
+80
+
+Significant
+difference
+
+Percentile
+
+70
+
+87.2
+
+NTA
+
+93.6
+
+40
+
+84.1
+
+Significant
+difference
+
+76.6
+
+72.6
+
+60
+50
+
+88.6
+
+Significant
+difference
+
+67.7
+
+64.7
+53.3
+
+51.1
+
+SL
+
+69.3
+
+60.7
+53.2
+
+49.8
+
+30
+20
+10
+0
+Neighborhood
+
+RGC
+
+Economically Chronically
+disadvantaged
+absent
+
+White
+
+African
+American
+
+Hispanic
+
+Note: “Significant difference” refers to a statistically significant difference between the two schools at the .05 level
+RGC students grade K-5 all attend NTA and students grade 6-8 all attend South Loop. Economically disadvantaged refers to students who
+are eligible to receive Free or Reduced Price Lunch (FRPL).
+
+CPS Equity Report
+
+12
+
+ It is important to note that the demographics of the two schools are very different, as noted
+earlier in Table 1, with NTA serving a more disadvantaged population. However, even after controlling
+for poverty, demographics, and other factors, 7 South Loop students still scored significantly higher on
+spring 2017 MAP reading and mathematics assessments (p=<.0001) than their NTA counterparts.
+Another way to consider achievement is to examine year to year growth. In fact, both NTA and
+South Loop are categorized as having “above average” 8 growth by CPS. And while South Loop students
+scored significantly higher on math and reading in the spring of 2017, when we examine year to year
+growth, there are no statistically significant differences (see Figures 8 and 9).
+Figure 8. Spring 2016 to spring 2017 mathematics growth by demographics and academic
+characteristics
+NTA
+
+9
+
+SL
+
+Change in percentile
+
+7
+5
+4.1
+
+3
+1
+-1
+
+1.3
+
+2.5
+
+Neighborhood
+
+0.2
+
+0.3
+
+RGC
+
+1.3
+Economically
+disadvantaged
+
+3.4
+0
+
+0
+
+Chronically
+absent
+
+-1.9
+
+1.4
+
+White
+
+1.6
+African
+American
+
+-0.1
+
+1.9
+
+Hispanic
+
+-3
+-5
+-7
+Note: None of the differences are statistically significant. Chronically absent is not displayed because the cell size was too small RGC
+students grade K-5 all attend NTA and students grades 6-8 all attend South Loop. Economically disadvantaged refers to students who are
+eligible to receive Free or Reduced Price Lunch (FRPL.)
+
+The multiple regression equation controlled for gender, race, ethnicity, RGC status, Special Education status, Disability status, Free and
+Reduced Lunch status, and attendance.
+8 Student Growth measures the change in standardized test scores between two points in time, in this case between spring 2016 and
+spring 2017. This growth is compared to the average national growth for schools that had similar scores in 2016. A 50th percentile score
+means the school grew at the same rate as the national average. http://cps.edu/Schools/Find_a_school/Pages/findaschool.aspx
+7
+
+CPS Equity Report
+
+13
+
+ Figure 9. Spring 2016 to spring 2017 reading growth by demographics and academic characteristics
+NTA
+
+9
+
+SL
+
+Change in percentile
+
+7
+5
+3
+1
+-1
+
+4.7
+3.5
+
+3.4
+1.5
+
+Neighborhood
+
+-0.4
+
+1.5
+
+RGC
+
+3.2
+1.8
+
+Economically
+disadvantaged
+
+0
+
+0
+
+Chronically
+absent
+
+0
+
+0
+
+White
+
+0.9
+African
+American
+
+1.8
+Hispanic
+
+-3
+-5
+-7
+Note: None of the differences are statistically significant. Chronically absent and White are not displayed because the cell sizes were too
+small RGC students grade K-5 all attend NTA and students grade 6-8 all attend South Loop. Economically disadvantaged refers to students
+who are eligible to receive Free or Reduced Price Lunch (FRPL).
+
+While the data from South Loop and NTA does not allow us to predict the future achievement
+should the schools be merged, it is apparent the South Loop students currently realize high levels of
+achievement, with economically disadvantaged and African American students scoring significantly
+higher than their peers at NTA.
+NTA educator and parent participants expressed concern about the large size of the new
+elementary school, feeling that the size would make it difficult to meet the needs of former NTA
+students accustomed to a small school environment with individualized attention. They firmly believed
+their primarily high-needs African American students thrive in smaller schools with individualized and
+differentiated instruction allowing them to succeed academically. South Loop parents and educators,
+while acknowledging the strain on NTA constituents, were generally positive when identifying impacts
+of the school merger. The South Loop educators were very excited about the possibility of working
+with a more diverse population while South Loop parents believed that it was “good to create a larger,
+more diverse community.”
+
+CPS Equity Report
+
+14
+
+ Analysis show that there are no statistically significant differences in the racial
+EQUITY
+AREA:
+EDUCATORS
+
+and ethnic makeup of each school’s teacher cadre. Parent participants from both
+South Loop and NTA expressed deep admiration and appreciation for the teachers,
+administrators and staff of each school. NTA parents directly tied the dedication of the
+
+faculty and staff to the academic, social, and emotional well-being of their children. However, there
+was great uncertainty regarding the process of selecting faculty, staff, and administrators for the
+proposed new school. South Loop educators were under the impression that while NTA teachers and
+staff would need to re-apply for their positions, South Loop teachers and staff would not. The South
+Loop educators felt “caught in the middle” and expressed a willingness to address concerns of NTA
+parents and community members. The Transition Plan acknowledges the need for purposeful staffing
+of the new school with high-quality administrators and teachers trained in equity issues, holistic
+instructional methodologies, and transition/change dynamics. The plan designates funding be used for
+purposeful professional development in each of these areas. However, NTA parents and educators
+worry that the teachers and staff at the new school would not be equipped to effectively handle the
+needs of the NTA population of students, but would, rather, expect the NTA students to transition back
+to a traditional school setting (i.e., not focused on a “whole child,” restorative justice approach) which
+would not be conducive to their well-being or academic success.
+Elementary School
+EQUITY
+AREA:
+ACCESS
+
+Successful schools strongly believe and ensure that all students should engage
+in equitable student access daily with no hesitation to provide interactive, engaging,
+challenging, reflective, high-quality instruction using a variety of strategies that
+
+support all stages of student academic progress. The impression across all participant groups was that
+a successful (i.e., 1+ rating) school was being sacrificed for the promise of a high school. Consistently,
+participants expressed reservation regarding the proposed conversion, with one stating, “If they can
+close NTA, they could close our school.” CPS leadership acknowledged these concerns and addressed
+them by positing that it is rather a merging of two 1+ schools and emphasized that the merger of the
+two schools meets all CPS guidelines, including that students not be moved to a lower-performing
+CPS Equity Report
+
+15
+
+ school (see Transition Plan in Appendix A). NTA parent and educator participants focused on the term
+“equitable” and its inherent definition of “criteria applied on a case-by-case basis to meet individual
+needs,” pointing out that this was at the core of the “NTA Way” and would be lost under the proposal.
+NTA parent participants assumed that the youngest grades (e.g., Pre-K to 2nd grade) would be
+assigned to the original South Loop building (Note: This has not yet been determined by CPS). Working
+with that assumption, they believed that since the transition begins with the youngest grades, their
+children would have to leave a great facility only to be placed in the old South Loop building, which was
+perceived to be “rundown” and “outdated.” It was the understanding of the South Loop parent and
+educator participants that the new building would be built even if the current CPS proposal was not
+adopted. The South Loop participants were excited about the possible return of the full RGC (grades
+K–5 currently reside at NTA), and improved library, nurse’s station, and other school support systems.
+Proposed High School
+All interviewees and focus groups agreed that having
+a neighborhood high school is extremely valuable and agreed
+that being able to spare their children from the stressful high
+school selection process was a significant benefit. That said,
+participants consistently expressed concern that existing high
+schools were being neglected in favor of establishing a new
+high school for a wealthier neighborhood. Focus group
+participants expressed reluctance to send their children to
+the existing high schools in the current boundary, and agreed
+that many families move away from the neighborhood to the
+suburbs or to be within the boundary of a “good” CPS high
+school.
+The proposed high school would have a traditional
+neighborhood school boundary with the addition of a preference boundary that will provide families
+living just outside the neighborhood boundary with first access to any available seats after students in
+the neighborhood boundary enroll. The proposed neighborhood boundary incorporates the following
+CPS Equity Report
+
+16
+
+ elementary school boundaries – Drake, Haines, Healy, NTA, South Loop, and Ward. The proposed
+preference boundary incorporates the following elementary school boundaries – Armour, Holden and
+Pershing.
+While students are currently zoned to Phillips or Tilden (both level 2 schools) only 55 out of
+2,032 attended in 2017-18. The remaining students attend 117 other high schools, travelling an
+average of 3.8 miles to school each way (ranging from 0.1 to 13.5 miles). If NTA is converted into a high
+school, this travel distance would be reduced by nearly two-thirds: to 1.3 miles. Currently, Asian
+students travel the farthest distance (4.1 miles), while White students travel the least distance (2.9
+miles). Looking at the demographics of high school attendance by school quality, Table 3 shows us that
+60 percent of all current high school students who live within the proposed boundary attend a level 1+
+high school, and travel nearly 4 miles each way to do so. Moreover, the proportion of economically
+disadvantaged and minority youth attending a 1+ high school is substantially lower than the
+proportions attending lower ranked high schools.
+Table 3. Quality of high schools attended in 2017-18 by students in grades 9–12 who live within the
+proposed boundary
+School
+quality
+1+
+1
+2+
+2
+3
+
+# of students
+attending
+(n=2,022)
+1,220
+117
+508
+173
+--
+
+% of students
+attending
+(n=2,022)
+60%
+6%
+25%
+9%
+--
+
+% Economically
+disadvantaged
+attending
+(n=1,503)
+64%
+90%
+90%
+92%
+--
+
+% minority
+attending
+(n=1,809)
+87%
+99%
+95%
+92%
+--
+
+% Economically
+disadvantaged AND
+minority attending
+(n=1,428)
+61%
+89%
+85%
+86%
+--
+
+Average
+distance in
+miles
+3.9
+5.1
+3.5
+2.9
+--
+
+Note: ‘—‘ = cell size too small to report. Economically disadvantaged refers to students who are eligible to receive Free or Reduced Price
+Lunch (FRPL). Minority students refers to African American, Hispanic, Asian, and mixed race students.
+
+While participating parents from outlying boundaries expressed that they did not want to see a
+1+ school closed in order to make room for a high school, they were excited about the prospect of
+having a state-of-the-art high school nearby. They did, however, express great concern that because
+the NTA and South Loop students would have automatic entry into the high school, there would not be
+enough space and no priority status for their own students. Our analysis of CPS data indicates capacity
+of the proposed high school would be between 7 percent and 88 percent, under a varied set of
+assumptions, as illustrated in Table 4.
+CPS Equity Report
+
+17
+
+ Table 4. Percent of school capacity, assuming different quality ratings of new high school
+School Quality
+Rating
+Level 1+
+Level 1
+Level 2+
+Level 2
+Level 3
+
+Neighborhood + preference students
+projected 1,200 student capacity
+73%
+68 %
+46%
+19%
+7%
+
+Neighborhood + preference students
+projected 1,000 student capacity
+88%
+81%
+55%
+22%
+8%
+
+Note: Neighborhood boundaries give students living in the boundary a guaranteed seat at the school. Preference boundaries give
+preference to students living in the boundary over other students in the city if additional seats are not occupied by students in the
+neighborhood boundary.
+
+Under the most conservative estimates of a capacity where the school holds 1,000 students and
+
+is rated as 1+, our analysis predicts that it will be at 88 percent of maximum capacity, after enrolling
+students from within the neighborhood and preference boundaries, leaving 220 available slots for the
+rest of the city.
+Participants within each of the constituent groups identified three issues
+EQUITY
+AREA: FISCAL
+
+regarding fiscal investment and resource allocation. First, groups expressed concern
+over setting a precedent of closing a successful, high-rated neighborhood school. NTA
+parents and educators were distressed that all the time, effort and resources which
+
+had been put into making NTA a 1+ rated school would be lost. Second, participants questioned how
+resources would be provided to a new school when parents feel that resources have not been available
+to improve existing high schools. The CPS Transition Plan allocates $3.5 million to fund transition and
+support mechanisms for students through graduation. Parent participants from both schools agreed
+that the allotted $3.5 million set aside for the school transition probably would not be enough to cover
+everything required for transition support services for a new elementary school. Upon reading a
+summary of the transition plan at the focus group (see Appendix A), participants were confused about
+the allocation of the funding, many thinking that the funding would also be used for establishing the
+new high school. The Transition Plan, however, states:
+“CPS has set aside approximately $3.5 million to support the transition 9 of current NTA
+students until they graduate. These funds will go toward supports and resources for
+students and families in order to ensure a smooth transition into one, unified school
+community.”
+
+9
+
+No mention is made in the transition plan of using the funding to establish the new high school.
+
+CPS Equity Report
+
+18
+
+ CONCLUSION
+Challenges
+A myriad of concerns and challenges have arisen from the CPS proposal. The greatest challenge
+is ensuring that NTA students continue to receive the equitable services, culturally responsive teaching,
+and social-emotional support that NTA staff successfully provide. Currently, extreme mistrust of the
+CPS leadership is very high—NTA stakeholders perceive that
+their children are being displaced for the convenience of
+more wealthy stakeholders. In fact, the South Loop
+participants acknowledged that the burden of this proposal
+
+The greatest challenge is ensuring that the
+students of NTA continue to receive the
+equitable services, culturally responsive
+teaching, and social-emotional support
+
+would be shouldered largely by the NTA community, with
+NTA students being the ones transitioned rather than the South Loop students. Projecting the
+enrollment of the high school, which would serve both communities, Table 5 illustrates the similarities
+and differences between the population that currently attends NTA and the projected population that
+would attend NTA should it be converted into a high school.
+Table 5. Comparison of current NTA neighborhood demographics with that of projected
+demographics of proposed NTA high school
+Demographic Variables
+Special Ed students
+Economically disadvantaged
+White
+African American
+Hispanic
+Asian
+Diversity Index
+
+Current NTA students
+(N=723)
+% students
+10%
+72%
+7%
+78%
+7%
+4%
+38%
+
+Proposed NTA high school
+(N=875)
+% students
+11%
+78%
+9%
+27%
+19%
+44%
+69%
+
+Statistically
+significant?
+No
+Yes
+No
+Yes
+Yes
+Yes
+
+Note: “Significant” difference refers to a statistically significant difference between the two schools at the .05 level. Economically
+disadvantaged refers to students who are eligible to receive Free or Reduced Price Lunch (FRPL).
+
+We found that while the proposed high school is projected to be more racially diverse than the
+existing NTA elementary school population (with a diversity index of 69 percent compared to 38
+percent), it would serve statistically significantly fewer African American students and more Hispanic
+and Asian students because the high school would draw students from neighboring communities.
+
+CPS Equity Report
+
+19
+
+ CPS leadership acknowledged that past actions and failed promises had created an
+environment that would make the implementation of the proposal particularly challenging. They also
+emphasized that because “Chicago is so segregated, if we don’t start making hard decisions like this
+and having tough conversations, then we’re going to lose the great opportunity we have to create truly
+more diverse and successful schools.” However, a community member interviewed acknowledged,
+“Racial diversity is an important factor, but when you see it have a negative impact on students of
+color and a disruption to student lives, the benefits of diversity are not realized.”
+Inherent in the perceptions of this proposal is the idea of having one “welcoming school” and
+one “closing school” with one school losing its identity and existence. This was the overwhelming
+understanding of the focus group participants. One parent stated, “Integration will be difficult because
+the process has created bitterness on many levels and all sides.” The perception of involuntary
+integration, is that “NTA students will always be ‘those kids.’” The Transition Plan, in some ways
+reinforces this perception by referring to the new school as “South Loop.” However, the plan does
+acknowledge inherent challenges and attempts to be proactive in addressing challenges through the
+promised allocation of funding, resources and support. In the event that identified challenges are
+overcome, there is great potential to develop a diverse, high-quality school environment and
+community that is able to address the holistic needs of all the attending students.
+CPS leaders and community stakeholders interviewed also acknowledged the risks as well as
+the potential benefits inherent in such a school merger. Having a high-quality, neighborhood high
+school for the community to coalesce around was the most advantageous benefit identified by all
+participants. South Loop educator participants identified another benefit as being able to learn from
+NTA educators how to implement more high-quality differentiated and holistic approaches to learning
+and supporting students. When addressing the risk inherent in the plan, one of those interviewed
+stated, “Whenever you come up with a proposal like this, it’s met with a lot of resistance for a lot of
+different reasons. When you integrate homogenous communities, that’s hard. People have their own
+affinities and histories tied to their community schools.” One participant from the outlying boundary
+focus group urged the two communities to come together to “define the climate and culture of the
+new school,” adding that “too much screaming, with each person with their own vested interests
+CPS Equity Report
+
+20
+
+ blocks out the needs of others.” One community stakeholder interviewed agreed, saying, “To have
+successful integration requires the valuing of both communities.” All participants agreed that for the
+plan to have a chance of success, both school identities would need to be transformed into a new
+identity that develops and nurtures all students. To make this happen, not only would surface-level
+changes be required (e.g., name changed, new mission/vision, new mascot, uniforms etc.) but deeper
+changes would also be needed (e.g., no more “NTA Way” or “South Loop Way” but rather a “New
+School Way”). Participants agreed that the new school would need a mix of educators from the two
+existing schools as well as familiar administrators from both schools. In fact, NTA participants
+emphatically recommended that educators, support staff, and administrators from NTA be
+transitioned to the proposed new school in order to continue supporting the NTA students.
+Recommendations
+Equity is a process and must be a shared goal by all parties involved. There is an acute
+awareness that combining schools is also combining communities, and to that end, CPS understands
+the need to “continue to identify issues of concern” as demonstrated by requesting this study. The
+transition plan captures critical elements that must be addressed; however, we are still at beginning
+stages with much to be articulated and agreed upon. An open question that remains is the agreed
+upon “metrics of success and timeline” to assure that equity across a broad array of practices and
+outcomes is realized.
+The recommendations that follow support the transition plan, stakeholder feedback, and data
+analyses organized by our key equity indicators.
+Concerns and Recommendations from Interview and Focus Group Participants
+The following concerns and recommendations in Table 6 were identified by the participants in
+the interviews and focus groups. It is important to note that many of these concerns and
+recommendations have already been addressed in the Transition Plan that CPS provided. These
+concerns and recommendations are arranged within the identified equity indicators used throughout
+this report (see Table 6).
+Table 6. Focus Group participants and interviewees’ concerns and recommendations arranged by equity
+indicator with aligned details from Transition Plan
+
+CPS Equity Report
+
+21
+
+ Equity Indicator
+EQUITY
+INDICATOR:
+ENGAGEMENT
+
+EQUITY
+INDICATOR:
+SCHOOL
+CLIMATE
+
+CPS Equity Report
+
+Concerns
+
+Recommendations
+
+Transition Plan
+
+• Loss of community support • CPS needs to listen
+systems (e.g., health clinic,
+“authentically” to all
+counselors, etc.)
+voices
+• “Integration”
+• Decision-making
+transparency
+• Loss of community identity
+• Need for “overcommunication”
+• Establishing parent
+advisory council
+• Creating social
+mechanisms for the two
+communities to come
+together (needs to include
+outlying boundaries when
+optimal)
+• Professional development
+centered around
+developing a sense of
+community, holistic
+approaches to education,
+restorative justice and
+social advocacy for
+students
+
+• CPS has conducted
+multiple town-hall
+meetings and focus
+groups to understand
+the concerns of affected
+community members
+• CPS has adapted the
+transition plan to
+address concerns
+expressed and to ease
+the transition
+• CPS has created a
+culture/climate advisory
+council (including
+educators, parents and
+students)
+• Advisory council will be
+responsible for
+developing a schedule of
+activities that bring the
+communities together –
+social venues and
+training. Activities
+include, but are not
+limited to:
+o Develop a shared
+vision
+o Identify
+programming &
+curriculum needed to
+support all students
+o Develop training for
+educators and
+parents
+o Organize community
+events to encourage
+the merging of the
+two communities
+•
+
+• Perception that “one
+community loses and the
+other wins” (i.e.,
+imbalanced impacts)
+• Resistance to “integration”
+• Loss of unique school
+culture of NTA’s holistic
+approach
+
+• Has created a
+culture/climate advisory
+council (including
+educators, parents and
+students)
+• Advisory council will be
+responsible for
+developing a schedule of
+activities that bring the
+
+• Need to establish a new
+school identity/culture
+(“no South Loop Way or
+NTA Way, but a New
+Way”)
+• Address resistance as
+“authentic voice” –do not
+dismiss
+
+22
+
+ Equity Indicator
+
+EQUITY
+INDICATOR:
+LEADERSHIP
+
+EQUITY
+INDICATOR:
+STUDENT
+LEARNING
+
+CPS Equity Report
+
+Concerns
+
+• Loss of familiar
+administrators and
+teachers
+• Loss of foundational
+“educational philosophies”
+(e.g., “NTA Way” & “SL
+Way”)
+
+• Accelerated learners will
+be “slowed down” to
+accommodate
+transitioning students
+• Large size of new school
+will adversely affect NTA
+students used to smallschool individualized
+attention
+
+Recommendations
+
+Transition Plan
+
+• Train all educators/staff of
+the new school in holistic
+approaches to education &
+restorative justice
+• Bring communities
+together in social venues
+and workshops to learn
+about best practices
+
+communities together –
+social venues and
+training. Activities
+include, but are not
+limited to:
+o Develop a shared
+vision
+o Identify
+programming &
+curriculum needed to
+support all students
+o Develop training for
+educators and
+parents
+o Organize community
+events to encourage
+the merging of the
+two communities
+• CPS has set aside
+funding ($3.5 million) to
+provide support and
+resources throughout
+transition process
+• CPS has committed to
+addressing equitable
+staffing and has
+committed to having a
+Principal Transition
+Coordinator (PTC) who
+will support
+transitioning students
+and families
+
+• Create SMART goals for
+every aspect of transition
+• Need “overcommunication” and
+transparency throughout
+the transition
+• Connect with business
+community to explore
+“effective mergers”
+processes
+• Connect with local
+universities to negotiate
+for services
+• Have high ideals
+• Identify fundamental and
+successful elements of
+educational practices from
+each school and develop a
+plan for incorporating
+these into the
+development of a new
+school
+• Develop detailed plan for
+addressing individual
+needs of children
+transitioning
+• Maintain high academic
+standards and rigor
+
+23
+
+• CPS has committed to
+having a PTC who will
+support transitioning
+students and families
+• If the proposal is
+approved by the Board,
+the advisory council will
+begin to develop a plan
+for professional
+
+ Equity Indicator
+
+EQUITY
+INDICATOR:
+EDUCATORS
+
+EQUITY
+INDICATOR:
+ACCESS
+
+CPS Equity Report
+
+Concerns
+• High academic
+standards/rigor is
+maintained
+• Selection of staffing –
+perception that South
+Loop educators/
+administrators will not
+apply for positions in new
+school, but NTA educators
+will
+• NTA educators – job
+uncertainty
+• Loss of familiar, supportive
+staff
+• Lack of training of existing
+South Loop teachers in
+holistic educational
+practices (e.g., restorative
+justice), thus loss of these
+supports in the new school
+
+• Closing a 1+ school
+• Potential overcrowding in
+the near future due to
+development/growth
+(both elementary and high
+school)
+• Loss of “equitable” and
+individualized access to
+support and resources
+• During transition years,
+having middle school
+students in a school with
+older students
+• Traffic issues –increased
+traffic around new school
+campuses
+• Managing multiple
+students going to different
+campuses
+
+Recommendations
+
+Transition Plan
+
+• Equitable staffing process
+(everyone reapplies)
+• Peer observations
+between schools prior to
+transition
+• Social interaction of
+educators
+• Professional development
+in
+o Holistic educational
+philosophy
+o Differentiated learning
+o Restorative Justice
+o Supporting students
+through
+transition/change
+o Diversity/equity issues
+in the classroom
+• Clear communication from
+CPS about expectations for
+new school leadership
+
+•
+
+• Keep both elementary
+schools and build a new
+high school on vacant land
+• Invest the $3.5 million in
+existing high schools for
+renovation, operational
+and programming
+improvements to create a
+school to which the
+community wishes to send
+their children
+
+•
+
+High School Issues
+• Put money and resources
+into improving existing
+high schools to make them
+more enticing to
+community
+
+24
+
+•
+
+•
+
+•
+
+•
+
+•
+
+development and a
+merging of the two
+school communities
+$3.5 million set aside for
+transition support,
+training and resources
+Advisory council of
+educators, parents and
+administrators
+established to create
+detailed plan for
+professional
+development
+Establishment of PTC to
+provide support and
+resources to
+transitioning students
+The Transition Plan
+indicates that “a major
+factor in the proposed
+re-assigned boundary
+change of NTA schools is
+the desire to retain all of
+the exceptional teachers
+and staff that currently
+teach our students. We
+know this is a priority for
+the school
+communities”.
+NTA students will be
+transitioning to a 1+
+school
+CPS has conducted a
+demographic analysis to
+determine required
+number of seats (to
+accommodate all of the
+Near South community
+and outlying boundaries
+for the high school)
+The transition process
+increases the high
+school population in
+conjunction with the
+decrease in middle
+school students (entire
+population shifts in age),
+resulting in the widest
+age gap within the new
+
+ Equity Indicator
+
+Concerns
+High School Issues
+• Current high school
+situation is not conducive
+to family/ community
+engagement
+• Outlying students will not
+have a guaranteed seat at
+the new high school –
+worried about available
+seats for non-South Loop
+or NTA students
+• Worried about potential
+near-future overcrowding
+which would trigger more
+transitions
+
+Recommendations
+• Look at alternative
+locations for the new high
+school
+
+Transition Plan
+high school being 5
+years
+• CPS will provide a
+shuttle bus to all
+campuses
+• CPS will increase the
+number of crossing
+guards to control traffic
+and walking students
+High School Issues
+New high school plans are
+not discussed in the
+existing transition plan
+Per the January 8, 2018,
+CPS Press Release, the
+proposed neighborhood
+high school boundary will
+encompass the entire
+boundaries of the
+following elementary
+schools:
+• John B Drake ES
+• John Charles Haines
+ES
+• Robert Healy ES
+National Teachers
+Academy
+• South Loop ES
+• James Ward ES
+To reiterate, all current
+NTA students will be
+guaranteed a seat at the
+new high school regardless
+of whether or not they live
+in the school’s enrollment
+boundary.
+The larger proposed
+preference boundary will
+encompass the boundaries
+of the following
+elementary schools:
+• Phillip D Armour ES
+• Charles N Holden ES
+• John J Pershing ES
+
+CPS Equity Report
+
+25
+
+ Equity Indicator
+EQUITY
+INDICATOR:
+FISCAL
+
+Concerns
+
+Recommendations
+
+Transition Plan
+
+• How will $3.5 million
+budget be spent – does
+this include establishment
+of the new high school?
+• Loss of small-school
+setting for NTA students
+• Loss of successful school
+meeting the needs of atrisk students
+• Loss of money for existing
+high schools
+• Perception of money and
+resources being “funneled
+to wealthier
+neighborhoods”
+
+• Identify detailed budget
+for funding ($3.5 million) –
+indicating on what money
+will be spent
+• Put money and resources
+into improving existing
+high schools to make them
+more enticing to
+community
+
+• CPS has set aside $3.5
+million for transition
+support and resources
+• Established advisory
+council of parents and
+educators who if the
+proposal is approved by
+the Board, will develop a
+detailed budget for the
+transition
+
+Recommendations from Westat
+Family and Community Engagement (Create a shared vision that honors and values all voices)
+•
+
+The Transition Plan outlines a process to create a joint Culture and Climate Team that includes a
+cadre of school leaders, teachers, staff, parents, and students from both elementary schools
+during the 2018-19 school year to support NTA and South Loop in creating a shared vision for
+the future. Due to the large number of active stakeholders, we suggest using interactive and
+structured protocols like, but not limited to, Open Space Technology, Problems of Practice,
+learning circles, customized gallery walks with highly skilled and trained facilitators to ensure all
+voices are heard and valued.
+
+•
+
+In addition to the critical duties and responsibilities outlined in the Transition Plan for the
+Principal Transition Coordinator (PTC), we suggest that the PTC collaborate with the school
+principals to identify a number of ways in which parents and community stakeholders can
+actively participate in creating this shared vision (e.g., establish multiple advisory committees
+with specific areas of focus; and identify key priorities, goals, actions steps, and performance
+measures to guide the work and track interim progress). The ideas, recommendations, and
+suggestions will be shared and/or presented to the Culture and Climate Team.
+
+CPS Equity Report
+
+26
+
+ •
+
+Though the Transition Plan indicates that there is a “desire to retain all of the exceptional
+teachers and staff” from both school communities and indicates that this is a priority, we
+strongly recommend that CPS communicates their staffing plan clearly explaining how
+administrators and staff will be selected for the new school. This will reassure the NTA
+community that NTA staff will play an integral role in the merging of the two school
+communities if the current proposal receives board approval.
+
+Culturally Relevant Leadership Practices (Provide sustained professional learning focused on cultural
+responsiveness)
+Funds will support professional development activities for staff, students, parents, and
+community members to engage in courageous conversions related to culture, class, and race. These
+activities will be invaluable to support the merging of the school communities. We also recommend the
+following additional culturally relevant leadership practices:
+•
+
+Adopt and outline the ways in which the school leaders, teachers, and the entire faculty and
+staff will practice and activate culturally relevant leadership to ensure that all students are
+valued, honored, and celebrated.
+
+•
+
+Provide purposeful, ongoing, job-embedded, and sustained professional learning that supports
+the shared vision for cultural responsiveness and culturally relevant pedagogy.
+
+•
+
+Provide readily available resources, tools, suggested book studies, learning modules, etc., that
+support the school’s shared vision for achieving cultural responsiveness (see Appendix E for
+sample resources).
+
+School Climate (Provide safe spaces for facilitated, interactive discussions)
+•
+
+The Culture and Climate Team, as described in the Transition Plan, will include a cadre of school
+leaders, teachers, staff, parent, and students from both elementary schools during the 2018-19
+school year. Since the team will focus on “identifying potential professional development or
+training opportunities for teachers and staff aligned with the shared vision,” we strongly
+recommend providing safe spaces to convene facilitated, interactive discussions using protocols
+
+CPS Equity Report
+
+27
+
+ and processes that honor the principles of adult learning for the staff early in the transition
+process to collectively discuss their vision for school climate that continues to honor their vision
+for maintaining a safe space every day for their students that is harmonious, welcoming, and
+inclusive. These interactive and engaging sessions will take the conversations and discussions
+deeper after the “get to know you” socials that students, families, and teachers will be invited
+to attend.
+•
+
+We also recommend that the Culture and Climate Team conducts a study on successful school
+integration using a plethora of resources including an article/book study, visit or conduct virtual
+meetings with successful school integration models (e.g., Morris School District in New Jersey,
+Clinton School District in Mississippi, Jefferson County Public Schools in Kentucky), and carefully
+review the successful tenets for successful school integration that these models advocate. Each
+of the examples listed continue to experience successes as well as challenges; therefore, having
+authentic dialogue with these districts and others may provide insightful information about
+successful school integration. Share your findings with CPS, the administrators, and school
+board to inform the school integration plan for two school communities. 10
+
+Student Centered Learning (Ensure differentiated, individualized, and student-centered learning)
+The Transition Plan describes a comprehensive system of student supports to ensure that all
+students will experience a smooth transition from one school to the other if the proposal is approved.
+Although the description outlines supports for diverse learners, English learners, and support for
+students in temporary living situations, and students’ social and emotional needs, we also recommend
+the following:
+
+10 Ablamsky, J. (2017, February 20). A model for school integration: Students in racially, socioeconomically integrated public schools
+perform better academically. [Non-profit organization]. Retrieved February 11, 2018, from
+https://www.districtadministration.com/article/model-integration?&utm_source=google_gmail&utm_medium=socialmedia&utm_campaign=addtoany
+Mader, J. (n.d.). How one Mississippi district made integration work: Can other districts follow suit? [News/Advocacy]. Retrieved January
+12, 2018, from https://www.huffingtonpost.com/entry/mississippi-integration_us_57151ff2e4b0060ccda3df7c
+Potter, H., Quick, K., & Davies, E. (2018, February 9). A new wave of school integration: Districts and charters pursuing socioeconomic
+diversity [Advocacy/Research]. Retrieved January 12, 2018, from https://tcf.org/content/report/a-new-wave-of-school-integration/
+
+CPS Equity Report
+
+28
+
+ •
+
+Provide support and technical assistance to school leaders and teachers on the differentiated
+ways instruction can be tailored to meet students’ individual learning needs based on in-depth
+data analyses.
+
+•
+
+Ensure that teachers have flexibility in the multiple approaches that have been successfully
+employed at both schools to support student-centered learning for continued student
+academic success.
+
+Equitable Student Access (Reassure parents and students in outlying neighborhoods)
+•
+
+In the spirit of over-communicating the details outlined in the Transition Plan and in the January
+8, 2018, CPS Press Release that describes the proposed neighborhood boundary and the
+proposed preference boundary (see high school information in Table 6), we
+recommend providing more clarity to reassure the outlying neighborhoods that their students
+will have a seat at the new high school if the proposal receives board approval. Though the plan
+and January 8th press release clearly describes that the new high school will serve students in
+the Near South Area, we encourage an emphasis that this obviously includes students from
+Chinatown, Bridgeport, North Bronzeville, and South Loop. Parents who attended the focus
+group in Chinatown emphasized how appreciative they would be if student access to the new
+high school include all the potential students in the outlying boundary areas.
+
+Diverse Staff of Excellent Educators (Implement an equitable plan to retain the exemplary teachers and
+staff from both schools)
+•
+
+Though the Transition plan indicates that there is a “desire to retain all of the exceptional
+teachers and staff” from both school communities, we strongly recommend that CPS
+communicates a clear and equitable plan for staffing the new elementary school with
+administrators and teachers from both existing schools, thus ensuring a diverse staff of
+excellent educators.
+
+•
+
+The PTC will play a supportive leadership role during the 2018-19 school year and in 2019-20.
+Though this is certainly an exemplary supportive leadership model, we encourage CPS to
+
+CPS Equity Report
+
+29
+
+ further explore multiple leadership models (e.g., Lead principals for the new elementary school
+can implement a shared leadership approach to support the multiple schools on the campuses,
+and all three principals—lead principals of the elementary school and new high school
+principal—will work collaboratively for successful transition). Findings from the focus group
+sessions indicated strong advocacy for maintaining leadership at both elementary school
+communities.
+•
+
+Ensure that both the new elementary and high schools participate in shared decision-making
+with CPS to recruit, hire, and retain a diverse cadre of excellent educators.
+
+Fiscal Equity (Ensure transparent use of funds to support the transition)
+We recognize that the Transition Plan has appropriated $3.5 million to support the transition
+through a number of ways (e.g., ongoing professional development and training opportunities, a series
+of meaningful and engaging events and activities for students and families in the school communities,
+the creation of a purposeful Culture and Climate team, and a shuttle bus for NTA students transitioning
+to the newly-merged elementary school). In an effort to clarify a host of inquiries from the focus group
+participants, we recommend the following:
+•
+
+Examine the resources that support the transition plan, which includes initial details to merge
+the two school communities and the ongoing professional development plan to ensure that
+equitable funding is allocated to support the unique needs to ensure a successful newly-merged
+elementary school and new high school.
+
+•
+
+Communicate using multiple sources (e.g., designated page on the CPS website; newsletters;
+correspondence to both schools during both academic years, 2018-19 and 2019-20) a clear plan
+for how all existing support services will either remain in the NTA community or will move to
+the new school to continue to support the existing NTA students and their families.
+
+•
+
+Ensure transparency and provide detailed budget information to both schools so that school
+leaders can clearly communicate allocations to the entire school communities to support the
+transition, integration, and ongoing professional development plans.
+
+CPS Equity Report
+
+30
+
+ High School Supports
+While this analysis has focused primarily on the impacts of the elementary school transition, it
+is important to highlight the need for a plan for improvement of existing high schools around the Near
+South and surrounding neighborhoods as well as a detailed plan describing funding, operational, and
+programming efforts that will take place to make the new high school a 1+, safe school.
+
+CPS Equity Report
+
+31
+
+ APPENDIX A: CPS Transition Plan
+
+Full Transition Plan from CPS
+
+ 
+
+ 
+
+ 
+
+ 
+
+hicogo DRAFT TRANSITION PLAN
+
+*3 Public For the Proposed Reassigned Boundary Change of
+SC National Teachers Academy
+
+. Introduction
+
+Chicago Public Schools (CPS) is committed to providing every child from every community with a
+high quality education that prepares them for success in college and in life. CPS students continue to
+make record-breaking academic progress in every part of the city. Our vision is that all CPS schools
+can build on this progress by offering high quality, rigorous instruction from talented educators that
+help put Chicago students on a path to lasting success.
+
+In May 2017, in response to community requests to strengthen educational options in the Near South
+area, CPS introduced a preliminary framework to expand high quality neighborhood options from
+pre-K through high school in the Near South area by expanding the boundaries of South Loop
+Elementary School [South Loop] and converting National Teachers Academy (PITA) to a
+neighborhood high school. This preliminary framework was designed to address key priorities in the
+Near South community, including providing a continuum of high quality neighborhood school
+options for all students from pre-K through high school graduation, as well as building diverse school
+communities.
+
+With a new facility under construction to relieve overcrowding at South Loop Elementary School,
+CPS is proposing expanding South Loop?s boundaries south to include the entire National Teachers
+Academy?s boundary. This will increase access to this new, state-of?the-art school facility and create
+one of the most racially and economically diverse schools in the city. In addition, expanding South
+Loop?s boundaries seeks to right a historical wrong in the Near South area by including students who
+were previously excluded from South Loop. As CPS noted in a letter to Near South families earlier
+this year: ?Years ago, when South Loop Elementary School was built, boundaries were drawn that
+excluded and separated low-income black children from their peers. This was wrong then, and it is
+wrong now, and this recommendation will right a historical wrong.?
+
+Additionally, gradually converting NTA to a neighborhood high school seeks to increase high quality,
+neighborhood high school seats in the Near South area. Current high school students in the Near
+South area have very few nearby high school options. Currently, only 8 percent of high school
+students in the Near South area attend their neighborhood high school and, as a result, 57 percent of
+high school students in the Near South area travel more than three miles to attend high school.
+Introducing a high quality, neighborhood high school option close to home will create a continuum
+of high quality options for Near South students in pre-K through high school graduation.
+
+After introducing this proposal to the Near South community in May, CPS conducted extensive
+community engagement to seek further feedback on the preliminary framework. This engagement
+included three community meetings, more than 25 small group meetings with various stakeholders
+in the Near South and collecting over 900 e-mails from various parents and community members. As
+a result of this feedback, CPS amended its proposal to better serve the community. In particular, CPS
+drafted a more gradual conversion timeline for NTA students so that the vast majority of existing
+NTA students could continue their academic careers at NTA as the high school expands.
+
+ 
+
+Appendix A: CPS Proposal 32
+
+Based on additional input from community members, CPS also adjusted its proposal so that South
+Loop's boundaries will expand further south than 22?? street, to incorporate the entirety of N'l?l?t?s
+current boundary and a high school boundary will be determined in coming weeks. Moving forward,
+we will continue to work with all stakeholders to ensure that all children receive the best possible
+education from pre-K through high school graduation.
+
+As part of this process, CPS formed a Near South Community Leadership Steering Committee,
+comprised of community leaders, educators and parents who will provide critical input as the
+process moves forward. CPS has engaged the Steering Committee to discuss transition supports
+needed to ensure success of this proposal. The Steering Committee?s recommendations have been
+incorporated in the transition supports below. Should this proposal move forward, the Steering
+Committee will play a vital role in helping CPS and the community as we move into the
+implementation phase, including developing recommendations on plans for the new high school.
+
+II. Summary af?iction
+
+CPS is proposing to reassign National Teachers ?cademy's boundary and students overtime, starting
+in the fall of 2019. National ?cademy is a elementary school located at 55 Cermalc
+Road that currently serves T29 students. National Teachers Academy has a pre?K program as well as
+a Regional Gifted Center program for students in grades South Loop Elementary School is a 
+elementary school located at 1212 South Plymouth Ct. that currently serves 7?33 students. South Loop
+previously had a pre-K program located at its Early Childhood Center. located at 1915 Federal St.
+However, due to overcrowding issues over the past five to 10 years, South Loop had to cut its pre-K
+program and use the space for additional kindergarten classrooms. South Loop also has an RGC
+program currently serving students in grades 6-8.
+
+In the fall of 2018, all students attending National Teachers Academy can remain at NTA. The pre-K
+program currently at will remain at for the 2018-19 school year. In addition, there will be
+no changes to the boundaries and South Loop for the 2018-19 school year.
+
+In the fall of2019, NTA students in grades 3 and below will be transferred to South Loop Elementary
+School. These students will also have the option to transfer to a different elementary school, including
+their neighborhood elementary school. The RGC program for grades K-3 will re-locate to South Loop
+and phase in grades over time. In addition, the pro-K program currently at NTA will relocate to South
+Loop. 1n the fall of 2019, N'l?l?t students in grades 4: and above will have the option to either remain at
+through elementary school and high school or transition to South Loop Elementary School.
+
+In the fall of 2019, students living in the current NTA boundary will be zoned to South Loop
+Elementary School. The re-assignment of school boundaries will occur over the following timeline:
+
+0 Effective fall of 2019-20, for grades K-3, current NTA boundary will be zoned to South Loop.
+Students living in the current boundary in grades 4-8 will remain zoned to N'l?I?l.
+
+0 Effective fall of 2020-21, for grades K-4, current NTA boundary will be zoned to South Loop.
+Students living in the current boundary in grades 5-8 will remain zoned to 
+
+0 Effective fall of 2021-22, for grades current N'l'l'l boundary will be zoned to South Loop.
+Students living in the current NTA boundary in grades 6-8 will remain zoned to NTA.
+
+I Effective fall of 2022-23, for grades current NTA boundary will be zoned to South Loop.
+Students living in the current NTA boundary in grades 7-3 will remain zoned to NTA.
+
+ 
+
+an Effective fall of 2023-24, for grades K-T, current boundary will be zoned to South Loop.
+Students living in the current NTA boundary in grade will remain zoned to NTA.
+0 Effective fall of 2024-25, for grades K-8, current boundary will be zoned to South Loop.
+
+Starting in 2019-20, NTA will simultaneously begin phasing in high school grades and phasing
+out the remaining elementary school grades, eventually converting to a 9-12 neighborhood high
+school serving students in Near South Area, including Chinatown, Bridgeport, North Eronaeville and
+South Loop. The timeline for this conversion will he as follows:
+
+In SY will contain students in grades 4-9
+
+In S?i? 2020-21, NTA will contain students in grades 5-10
+
+In S?i? 2021-22, NTA will contain students in grades 6-11
+
+In S?i? 2022-23, NTA will contain students in grades 7-12
+
+In SY will contain students in grades 8-12
+
+In S?i? 2024-25 and beyond, NTA will contain students in grades 9-12
+
+   
+  
+  
+
+El SO Ll IH :23[Th-corp
+?3 Pudic
+Echo-015
+
+ 
+
+scrum tour
+3
+
+.F 5.: lc-r'nl on
+
+El :qu?aud haul-neon :lcm.
+snenoar :e 
+
+Cir-url' NI) til-u
+
+Cu'nrm? can ?ll. 
+
+
+u:
+
+The proposed re-assignment of N'l?A's boundary meets the criteria of the Chief Executive Officer?s
+Guidelines for School Actions (Guidelines) because it is a proposal requested by parents or
+community members via the process to request proposals outlined in the Guidelines. Specifically, we
+have heard the request for this proposal from recommendations by public of?cials, parents,
+community members and community groups in the Near South area in the form of petitions, e-mail
+and statements at community meetings. This proposal is also consistent with the Guidelines because
+the resulting space utilization after the reassignment boundary change will not exceed any affected
+schools' enrollment ef?ciency range as de?ned by Space Utilization Standards. Finally, the 
+
+ 
+
+students impacted by this proposed re?assignment boundary change are being provided the option
+to enroll at South Loop Elementary School, a higher performing school, as defined by the Guidelines.
+
+CPS has set aside approximately $3.5 million to support the transition of current NTA students until
+they graduate. These funds will go toward supports and resources for students and families in order
+to ensure a smooth transition into one, uni?ed school community.
+
+The transition plan outlined below summarizes what will he provided to support the transition of
+NTA and South Loop students and families into one school community. Throughout this plan, we will
+be offering answers to key questions and considerations that parents and community members
+raised throughout the community engagement process CPS held earlier this year. We expect to
+provide additional information as transition plans are finalized in partnership with the community
+and school administrations.
+
+Ill. Community Building and Culture Integration
+
+One of the major benefits of this proposal is the opportunity to create a more integrated school
+community, not just among students but among parents and the broader community as well.
+Successful integration requires time, effort and resources to unite communities around a shared,
+cohesive identity. Though students from NTA would not transition to South Loop until the fall of
+2019, the process to bring these two communities will start this school year, should the Board
+approval this proposal. These supports may be further customized as feedback is obtained at
+community meetings and a public hearing regarding this proposal. Additionally, resources may be
+adjusted to meet the unique needs ofaffected students ifdeemed necessary.
+
+0 Provide stipends for the creation of a joint Culture and Climate Team, with representation
+from principals, teachers, staff, parents and students at both N'l?l?t and South Loop,
+responsible for:
+
+0 Developing a shared vision and set of values for the culture at South Loop;
+
+Identifying any programs, curriculum, or other activities in school to achieve the
+vision;
+
+Identifying potential professional development or training opportunities for teachers
+and staff, in accordance with vision;
+
+Developing a schedule of activities, prior to the fall of 2019, to bring school
+communities together;
+
+0 Create a schedule of activities, with input from the transition committee, for students
+and families to come together. Such activities could include pool parties, board game
+nights, merging of existing events at each school, tour of the new elementary school
+facility in S?r? 2018-19, specific events and forums for parents, mutual service project,
+pen pals andfor book share, opportunities for communities to learn about each
+other?s culture, etc.
+
+0 Provide funding for activities through which and South Loop students and parents can
+come together prior to fall of 2019. The schedule ofactivities will be determined with input
+from the joint Culture and Climate team and may include activities such as:
+
+0 Pool parties, board game nights, cook-outs, joint talent shows and similar events;
+
+to NTA invitations to SL to attend their events and vice versa;
+
+0 Students and families tour the new facility together once it is available (mid?year SY
+2018-19);
+
+ 
+
+to Speci?c events and forums just for parents;
+
+to Kids work on a service project together;
+
+0 Joint leadership committees among students;
+
+Book share or pen pals.
+
+0 Provide funding for professional development andfor trainingr opportunities for students,
+parents and other community members, designed to help bring students and families from
+different backgrounds together cultural and racial awareness trainings].
+
+0 Explore options to provide affordable afterschoolprogram options at South Loop Elementary
+School Park District run after school programs, such as the program currently located at
+
+
+
+0 Launch a community-requested Racial Equity Analysis to ensure that students and families
+from all backgrounds would be treated equitably in the transition and the years to come. CPS
+has budgeted roughly $85,000 for a third party study.
+
+IV. Safety and security
+
+Through various community meetings and comments made at CPS board meetings, CPS has collected
+feedback from the community on the safety supports regarding this proposal. These supports may
+be further customized as feedback is obtained at community meetings and a public hearing regarding
+this proposal. Additionally. resources may be adjusted to meet the unique needs ofaffected students
+ifdeemed necessary.
+
+0 Examine any existing Safe Passage routes and determine the need to expand Safe Passage to
+support student travel to South Loop Elementary School;
+
+I Expand the use of crossing guards as needed to ensure safety among students crossing the
+street;
+
+I Provide a shuttle bus for NTA students who transition to South Loop elementary school;
+
+0 Work with the community to identify and address the any additional safety or travel
+concerns;
+
+a Review Security Officer Staffing levels based on approved action.
+
+V. Supports for Students and Schools
+
+CPS is committed to ensuring a successful transition during this process. To accomplish this, CPS will
+provide the following supports to meet the academic, social and emotional. and speci?c learning
+needs of affected students. These resources may be further customized as feedback is obtained at
+community meetings and a public hearing regarding this proposal. Additionally, resources may be
+adjusted to meet the unique needs ofaffected students ifdeemed necessary.
+
+Support for Smdents?Acodenl ic Needs
+To ensure students are academically prepared and supported with high-quality instruction
+throughout the transition, CPS will provide the following academic supports:
+
+0 ft Principal Transition Coordinator fP'fC] will be assigned during the School Year 2018-2019
+and will be maintained at least through the 2019?20 school year. PTCs are former
+
+5
+
+ 
+
+administrators [principals, Al?s, Chiefs] who in many cases have helped ensure smooth
+transitions following school actions. The FTC will support the NTA and South Loop school
+administrations in handling the additional work that comes with school transitions, including
+administrative support such as helping the administration close out school records and
+accounts for transitioning students and transferring those records and accounts to South
+Loop.
+
+I A school-based transition coordinator will be assigned during the 2018-19 school year and
+will be maintained at least through the 2019-20 school year. The school-based administrator
+will be responsible for ensuring transitioning students are supported throughout the
+transition process. The school-based transition coordinator will act as a point of contact for
+transitioning students and families, helping to answer questions and direct them to
+resources. In addition, the school-based transition coordinator will work with the principals
+to assist in the implementation of new programs or other supports designed to support
+students following the transition supports identified by the joint Culture and Climate
+team].
+
+I Students and parents will be given the opportunity to meet with school staff at South Loop
+Elementary School. including teachers, principals and other staff, prior to the beginning of
+the 2019?20 school year.
+
+I School communities will work with CPS to determine any additional academic supports for
+transitioning students.
+
+to CPS will provide comprehensive data on all transitioning students to the schools where
+students transition.
+
+Support for smdents'SociaI and Emotional Needs
+
+CPS understands that whenever students transition into new situations and environments,
+additional support is needed to help them adjust. CPS and the Office of Social Emotional Learning
+will consult with the NTA and South Loop school communities to evaluate existing SEL
+supports and determine additional resource needs for a school-specific plan that may include the
+Following:
+
+Implementing restorative practices [such as talking circles and peer councils] to encourage
+peer-to-peer problem-solving and resolution;
+
+0 Developing behavioral health systems to identify when students have higher levels of social
+and emotional need, connect them to targeted interventions and track their progress to
+ensure success;
+
+0 Implementing targeted small group supports or circles aimed at helping students work
+through concerns associated with transition as needed;
+
+0 Access to social 3: emotional or trauma interventions for students in need of more
+in dividualized attention;
+
+a Transition Team will work with to develop Student Leadership and Culture-Building
+Activities to ensure students feel welcome in schools they transition to,-
+
+Providing professional development and training opportunities in trauma-sensitive
+practices, restorative practices, social emotional learning and other relevant topics to staff at
+schools where students transition.
+
+ 
+
+Appendix A: CPS Proposal 37
+
+Support for Speci?c Eniden is? Needs
+
+Support for Diverse Learners
+
+Students with disabilities and their families will be supported in the transition process through clear
+communication, continual support for academic instruction and ensuring that transition schools are
+fully able to implement student Individual Education Programs Students with disabilities, as
+with all students impacted by school actions, will receive intensive support to ensure their academic
+and social-emotional needs are met. Students with disabilities will also receive the Following
+categories of support, adj ustable to individual student/family need:
+
+Current students with disabilities will continue to receive the following supports, required by law:
+0 A free and appropriate public education 
+The implementation ofthe student?s in the least restrictive environment 
+
+1 A focus on student academic and social emotional progress
+
+In addition, a district representative from the Office of Diverse Learner Supports and Services
+will be assigned to work with families and students to support them. Specifically,the district
+
+representative will:
+i Work with teachers on appropriate programming to support the diverse learners.
+0 Make sure classrooms are appropriately set up for the students with diverse learning needs.
+NTA families can reach their District Representative, Shani Boone, at sahoonei?chsedu.
+South Loop families can reach their District Representative, Sarah Briggs, at
+
+srbriggs?wcgsedu.
+
+Support for swdents in Temporary Living Situations
+
+The Office of Students in Temporary Living Situations will continue the supports
+currently provided to Students in Temporary Living Situations as required by
+law. These include free school meals, enrollment support, provision of required school
+uniforms and school supplies as needed, transportation assistance when eligible, and waiver
+ofall school related fees.
+
+In Students in Temporary Living Situations will he encouraged to attend any events in which
+they can meet with school staff and/or learn about schools to transition to.
+
+For those students who had been homeless prior to the 2019?2020 school, their school of
+origin will become the first school they enroll in for the 2019-202U school year.
+
+0 Students in Temporary Living Situations will have the opportunity to meet with STLS staff, in
+addition to other staff on the Transition Team, to discuss their options, develop academic
+readiness plans and safety plans to support them throughout the transition period.
+
+In For families currently enrolled in the STLS program, younger siblings may attend the same
+school that their older sibling elects under this proposed action [assuming the younger and
+older siblings are both in high school}.
+
+In Additionally, CPS will provide professional development and support to staff on providing
+transition services for STLS students.
+
+Support for English Learners
+I Current and future English Language Learners will receive state mandated bilingual
+services [Transitional Bilingual Education or Transitional Program of Instruction
+as required. English as a Second Language instruction provided by an 
+endorsed teacher is part ofhoth programs.
+
+ 
+
+ Meaningful access to the core curriculum is provided to THE students through native
+language instruction in the core content [language arts, math, science, and social studies].
+
+0 For 'l'Pl students, meaningful access to core curriculum is delivered through sheltered English
+content instruction and native language supports, based on the individual student?s need, and
+provided by appropriately endorsed [bilingual? or ESL?endorsed] teacher[s].
+
+Sapportfor Students' Transportation Needs
+0 Provisions for specific student populations student with disabilities, Students in
+Temporary Living Situations and NCLB qualifying students], as determined by the CPS
+transportation policy, will continue to apply.
+
+VI. The Teachers and Staff
+
+A major factor in the proposed re-assigned boundary change of NTA schools is the desire to retain
+all ofthe exceptional teachers and staffthat currently teach our students. We know this is a priority
+for the school communities.
+
+VII. Additional Logistical Information
+
+Information Regarding Choice ofSchoois
+
+CPS is committed to providing educational options that fit each student's unique learning needs and
+each family's priorities. To support families in understanding their enrollment options, information
+
+from the Office ofAccess 8a Enrollment is available:
+0 Online fowcpsedu or 
+
+By email {oaetc?cpsedu},
+
+By phone and
+
+In person [42 W. Madison St. Chicago, Ill 
+Public Comment
+
+Community Meetings and Public Hearing.-
+
+CPS will hold two community meetings and one formal public hearing regarding this proposed action.
+Public comment will he accepted during each meeting or hearing. CPS is committed to considering
+community feedback and will amend this draft transition plan accordingly.
+
+Community Meeting 1 Community Meeting 2 Public Hearing
+January 9, 2018 January 16, 2018 Ianuary 29, 2018
+
+6 to 8 p.m. CD to ti p.m. 6 to 8:30 p.m.
+
+Illinois Institute of'l?echnology Second Presbyterian  Church CPS Central Office
+[Hermann Hall Auditorium)
+
+3241 South Federal Street 1936 South Michigan Avenue 42 West Madison Street
+
+Further Questions and Concerns:
+
+?ll of this information can be found at if you have any questions or concerns
+regarding this proposal and the draft transition plan, please call Chicago Public Schools at 553-
+1500 or email Transitionsgt?cpsedu.
+
+ 
+
+Near South Proposal Summary
+(Distributed at Focus Group sessions)
+Note – The below information is a summary of the Near South proposal. This proposal has not yet been voted on by the
+Board of Education. The discussions from the focus groups will better inform a decision for this proposal. A potential
+board vote could occur in February following two community meetings and one public hearing in January.
+Overview of proposal:
+• NTA high school conversion: Convert National Teachers' Academy (NTA) to a high school serving South Loop,
+North Bronzeville, Chinatown, Armour Square, and Bridgeport communities over time, starting in SY 2019-20.
+NTA students in grades K–3 are re-assigned to South Loop Elementary School (South Loop); students in grades 4
+and above will have the option to remain at NTA through elementary school and high school or transition to
+South Loop Elementary School.
+•
+
+South Loop expansion: Add a new elementary school facility to the South Loop campus in SY 2019-20. Maintain
+existing facilities at South Loop—South Loop will be a three campus model. Expand South Loop's boundaries to
+incorporate NTA’s current boundary over time.
+
+Detail on Elementary School Transitions:
+• Transition supports: CPS has budgeted approximately $3.5 million to support the transition of NTA students
+through graduation. These supports include:
+o Budget for a variety of events and activities designed to support community building and culture
+integration, starting the year prior to any proposed action;
+o Create a joint Culture and Climate Team comprised of staff, parents and student representatives from
+NTA and South Loop;
+o Collaborate with Principal and School-Based Transition Coordinators to assist with implementation of
+new programs and practices at each school, administrative support and other supports identified by
+both schools' leadership;
+o Support the implementation of restorative practices;
+o Provide ongoing professional development and training opportunities for school staff;
+o Provide a shuttle bus for NTA students who transition to South Loop elementary school.
+•
+
+High school guarantee: All NTA students as of SY 2018-19, regardless of where they live, will have a guaranteed
+seat at the high school as they matriculate from elementary school to high school.
+
+•
+
+Elementary school transition details starting in SY 2019-20:
+o Pre-K program will be located at South Loop.
+o Rising Kindergarten students living in NTA’s current boundary will be zoned to South Loop.
+o Rising NTA students in grades 1-3 transition to South Loop.
+o Rising NTA students in grades 4-8 have the option to stay at NTA or transfer to South Loop.
+o Regional Gifted Center (RGC) program for grades K-3 will be located at South Loop. RGC program at
+South Loop will phase in grades over time.
+
+o RGC program for grades 4-8 will be located at NTA. RGC program at NTA will phase out grades
+over time.
+
+Appendix A: CPS Proposal
+
+40
+
+ •
+
+Conversion timeline (if proposal is approved by the Board of Education):
+o In SY 2019-20, NTA will contain students in grades 4-9
+o In SY 2020-21, NTA will contain students in grades 5-10
+o In SY 2021-22, NTA will contain students in grades 6-11
+o In SY 2022-23, NTA will contain students in grades 7-12
+o In SY 2023-24, NTA will contain students in grades 8-12
+o In SY 2024-25 and beyond, NTA will contain students in grades 9-12
+
+Detail on proposed HS boundaries:
+Overview: The proposed high school in the Near South community will have a traditional neighborhood school boundary
+with the addition of a preference boundary that will provide families living just outside the neighborhood boundary with
+first access to any available seats after students in the neighborhood boundary enroll.
+• Proposed Neighborhood Boundary incorporates the following elementary school boundaries – Drake, Haines,
+Healy, NTA, South Loop, and Ward.
+• Proposed Preference Boundary incorporates the following elementary school boundaries – Armour, Holden, and
+Pershing.
+Boundary Descriptions:
+• Neighborhood boundaries give students living in the boundary a guaranteed seat at the school. Many high
+school students choose to attend schools other than their neighborhood school. Across the district,
+approximately 22 percent of high school students attend their neighborhood school.
+• Preference boundaries give preference to students living in the boundary over other students in the city if
+additional seats are not occupied by students in the neighborhood boundary.
+Current enrollment trends among students in proposed enrollment boundary:
+• Currently, only three percent of current high school students in the draft enrollment boundaries for the
+proposed high school attend their designated neighborhood high school.
+• 69 percent of current high school students in the draft enrollment boundaries travel more than three miles to
+attend high school.
+Demographics and capacity information:
+• There are 2,037 high school age students living in the draft boundary area (including both neighborhood and
+preference boundaries).
+o The demographics of current high school students living in the enrollment boundaries are 27 percent
+African American, 19 percent Hispanic, 41 percent Asian, 10 percent White, 3 percent Other, and 74
+percent Low Income students.
+• The estimated capacity of the high school is between 1,000–1,200 students, depending upon final space
+configuration if the proposal moves forward.
+• 60 percent of the current high school students who live in the draft boundary area attend a selective enrollment
+or level 1+ high school.
+• Across the district, the highest percentage of high school students attending their neighborhood boundary high
+school is 63 percent at Washington HS.
+Sources:
+CPS Draft Transition Plan – http://schoolinfo.cps.edu/SchoolActions/Download.aspx?fid=6311
+CPS Press Release on Jan 8 - http://cps.edu/News/Press_releases/Pages/PR1_01_08_2018.aspx
+CPS Community Meeting Presentation on Jan 9
+CPS Steering Committee Presentation on Dec. 18
+
+Appendix A: CPS Proposal
+
+41
+
+ Proposed High School Boundaries Map
+
+ 
+
+ESDUTH LOUP
+
+ 
+ 
+
+
+
+  
+ 
+   
+
+i
+
+ 
+
+AHMDUH .
+i I
+I
+Legend
+Elementary School Location Boundaries HOLDEN
+ARM OUR NATIONAL TEACH ERS
+Neighborhood Boundary
+DRAKE PERSHING
+I Preference Boundary
+HAINES SOUTH LOOP
+uuL-I
+a a l- :1 HEALY WARD. 
+
+ 
+
+Appendix A: CPS Proposal 42
+
+APPENDIX B: Methodology
+Qualitative
+Westat conducted seven one-on-one phone interviews and eight focus groups of parents and educators
+representing affected schools and communities. Interview time averaged 40 minutes and were conducted
+with the following:
+•
+
+CPS Leadership (3 school and district-level leaders)
+
+•
+
+Elected Official (1)
+
+•
+
+Community Representatives (2 from out-lying boundaries)
+
+•
+
+Community Organizer (1)
+
+Focus group time averaged 90 minutes and included parents and educators from each of the affected
+communities:
+•
+
+South Loop Parents (2 focus groups with a total of 24 participants)
+
+•
+
+National Teachers Academy Parents (2 focus groups with a total of 32 participants)
+
+•
+
+South Loop Educators (1 focus group with 13 participants)
+
+•
+
+National Teachers Academy Educators (1 focus group with 15 participants)
+
+•
+
+Outlying Boundaries Parents (2 focus groups representing Chinatown, Drake, Healy, Haines, and
+Bronzeville, with a total of 15 participants)
+
+Participants from outlying communities were parents/guardians of students (several with multiple children)
+ranging from Pre-K to high school, with the majority representing elementary level students.
+•
+•
+•
+•
+•
+
+Pre-K (x3)
+1st
+2nd (x4)
+3rd (x4)
+4th
+
+•
+•
+•
+•
+
+5th (x3)
+6th (x2)
+7th (x2)
+8th (x2)
+10th (x2)
+
+Using qualitative analysis software (NVivo), responses were analyzed using node-indicator, frequency and
+matrix coding systems. The following were identified nodes, with responses being coded to them:
+
+Appendix B: Methodology
+
+43
+
+ Systems
+Nodes
+Context
+Nodes
+
+Attitudinal Valence Codes
+• Positive
+• Negative
+• Neutral
+Components of Equity
+• Family & Community Engagement
+• Culturally Relevant Leadership
+• Student-centered Learning
+• School Climate
+• Equitable Student Access
+• Diverse/High-quality Educators
+• Fiscal Equity
+High School Issues
+• Existing High School Issues
+• Facility Issues
+• Expected Impacts
+
+Response Type
+• Statement
+• Question
+• Concern
+• Recommendation
+Frequency
+• Impacts
+• Concerns
+• Historical Contexts
+• Community-Specific Issues
+• Wellness of Children
+• Resource Allocations
+• Facility Issues
+• Protocol Questions
+• Other (single-frequency responses
+
+It has become increasingly accepted practice to utilize verbatim quotations in social
+research. Literature in qualitative research methodology identifies multiple purposes for using quotations
+within analytical text. Corden & Sainsbury (2006) identify 7 purposes for using quotations. They are:
+•
+
+Presenting discourse as the matter of enquiry
+
+•
+
+Presenting quotations as evidence
+
+•
+
+Presenting spoken words for explanation
+
+•
+
+Using quotations as illustration
+
+•
+
+Using quotations to deepen understanding
+
+•
+
+Using spoken words to enable voice
+
+•
+
+Using quotations to enhance readability
+
+Sandelowski (1994) explains that “Quotes are used to support researcher claims, illustrate ideas,
+illuminate experience, evoke emotion, and provoke response.” Quotations used to “illustrate emotions,” as
+used in this report, were identified as words which represented not just the speaker of the words, but multiple
+people within the focus groups or interview groups. These quotations are reflective of emotional impact of
+the topic and secondarily served the purpose of providing authentic voice to those who participated in the
+process.
+
+Appendix B: Methodology
+
+44
+
+ Quantitative
+We received student-level demographic, assessment, discipline, and attendance data from Chicago
+Public Schools. All data sets were restructured, cleaned, and merged by student ID numbers. We examined
+missing data and outliers, deleted duplicate entries and coded those students who moved between schools.
+Altogether, there are 2 years of data (school years 2015-16 and 2016-17) for student assessment, discipline
+and attendance, and 3 years of data (2017-18 included) for student demographics.
+Projecting the future demographics of the combined South Loop elementary school. The projection
+was created by extrapolating the demographics from NTA in 2017-18, and assuming that all K-3 students
+would attend South Loop, and that 50 percent of grades 4-8 would attend South Loop (selected randomly).
+Diversity Index. Simpson’s Diversity Index (Simpson, 1949) measures the probability that two
+individuals randomly selected from a sample will belong to the same categories. The formula used for our
+race diversity calculation is as follows:
+Diversity Index = 1 - ((proportion of White students)2 + (proportion of Black students)2 +
+(proportion of Asian students)2 + (proportion of Hispanic student)2 + (proportion of
+multi-racial students)2 )
+Discipline and attendance. The number of discipline incidents per 100 students, the percentage of
+students involved in at least one incident, and the severity index were examined. The severity index was
+calculated as the number of incidents multiplied by the severity of the incident. The discipline data in 2016-17
+were analyzed to determine if there were significant differences. A negative binomial regression was used
+because the variance was greater than the mean for both the total number of incidents and total severity
+score (Agresti, 2002). The attendance data in 2016-17 were analyzed to determine if there were significant
+differences in the number of days absent overall and by RGC status. An independent samples t-test was used
+to analyze differences in the number of days absent.
+Academic performance. When comparing the academic performance of the two schools, mathematics
+and reading scores were provided descriptively (Figure 1) and analyses were conducted to determine if
+differences were statistically significant. Mathematics and reading scores in 2016-17 were analyzed to
+determine if there were significant differences across schools overall and for each subgroup using an
+independent samples t-test (Figures 2 and 3). Multiple hypothesis tests were corrected for each subject
+separately using the Benjamin-Hochberg technique. In these analyses there was no matching or adjustment
+for other demographic or academic characteristics. Since there are many factors that could affect student
+Appendix B: Methodology
+
+45
+
+ academic achievement, we also looked at the difference in student MAP percentile scores across the two
+schools using multiple regression analysis. The regression analyses were limited to students who had both
+years (2015-16 and 2016-17) of MAP test data. Student demographic variables (gender, special education
+status, disability statues, ethnicity) were included in the regression model. We also controlled for student
+baseline performance (student MAP percentile scores in year 2015-16), their attendance record and their
+program type (RGC vs. neighborhood). Regression analyses were carried out using spring 2016-17 MAP
+reading and math percentile scores as the outcome variables.
+Projected high school capacity. The percent of students attending a neighborhood school is affected by
+the school quality rating. The higher the school quality rating is, the more likely neighborhood students will
+attend. Based on the neighborhood enrollment statistics across the whole school district, CPS compiled a
+table of expected percent of student enrollment by school quality rating (e.g. for level 1+ schools, about 43
+percent of the students within the school boundary would attend). Based on the data provided by CPS, we
+first calculated the expected numbers of students who would enroll in the proposed NTA high school. The
+anticipated enrolment numbers would vary by school quality rating. The estimated capacity of the proposed
+high school is between 1,000–1,200 students. We first calculated the percent of student enrollment based on
+1,200 student capacity. The percentage was calculated by using 1,200 students as the denominator and the
+anticipated student enrollment at each of the given school quality.
+Works Cited
+Agresti, A. (2002). Categorical data analysis (2nd ed.). Hoboken, New Jersey: John Wiley & Sons.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach to
+multiple testing. Journal of the Royal Statistical Society Series B Methodological, 57(1), 289-300.
+Corden, A., & Sainsbury, R. (2006). Using verbatim quotations in reporting qualitative social research:
+researchers' views (pp. 11-14). York: University of York.
+Sandelowski, M. (1994). Focus on qualitative methods. The use of quotes in qualitative research. Research in
+nursing & health, 17(6), 479-482.
+Simpson, E. H. (1949). “Measurement of diversity”. Nature. 163: 688.
+
+Appendix B: Methodology
+
+46
+
+ APPENDIX C: Equity Indicators
+Definitions
+Comprehensive Equity Indicators- Targeted indicators which support the development and implementation of
+a comprehensive equity plan. These must be specific to the local district context. Can include, but are not
+limited to:
+•
+
+Family and community engagement
+
+•
+
+School climate
+
+•
+
+Culturally relevant leadership
+
+•
+
+Student-centered learning
+
+•
+
+Diverse staff of excellent educators
+
+•
+
+Equitable student access
+
+•
+
+Fiscal equity
+
+Equality- Criteria applied equally to all students.
+Equity- Criteria applied on a case-by-case basis to meet individual needs of students.
+Liberation- No criteria or barriers to participation. Involves having a curriculum that supports how all students
+are smart, emphasizing individualized/differentiated instruction, growth mindset and ethical and inclusive
+policies.
+
+Citation: Equality, equity, liberation. (n.d.). [Digital Image]. Retrieved from https://www.huffingtonpost.com/elierlick/why-equality-is-toxic-to-_b_10319836.html. This image has many iterations, but has become a go-to image for
+equity issues in education.
+
+Appendix C: Equity Indicators
+
+47
+
+ Comprehensive Equity Indicators
+
+Framing the Comprehensive Equity Indicators
+Purposeful strategic planning around equity issues is a hallmark for successful schools trying to
+eliminate equity gaps. Grounded in research and informed by equity studies, the seven equity indicators used
+to frame this report are part of a comprehensive approach to achieving educator equity through the technical
+assistance services Westat provides states, districts, and national organizations (Williams, 2015, 2016, 2017).
+While the indicators used in this report are contextually broad, it is understood that as districts and schools
+begin to implement strategies to eliminate equity gaps, there will be a need to work around both the broad
+indicators as well as indicators specific to the local school and community context. Below are brief
+descriptions of each of the seven broad equity indicators as well as a bibliography of additional resources.
+Family and Community Engagement
+Successful schools, more often than not, have made it a priority to engage and partner with the
+families and stakeholders in the school community through strategic, deliberate, genuine, and sustaining
+ways.
+
+Appendix C: Equity Indicators
+
+48
+
+ School Climate & Culturally Relevant Leadership
+Successful schools also embrace the importance of ensuring that all of their children are well by
+honoring and deepening their understanding of the funds of knowledge that each student brings to the school
+community, the multiple languages that they use, the amazing ways in which they are smart, rituals, ways of
+being, and practices that they experience in their homes, community centers, civic centers, and sacred,
+religious organizations. The adults in successful schools recognize that they, too, must share their own lived
+experiences with their students as well to create a welcoming and inclusive school atmosphere that embraces
+the uniqueness and similarities of all in the school community. Honoring these norms of daily school behaviors
+and having open dialogue in safe school spaces for both the students and adults create a harmonious,
+welcoming, and inclusive school community with curricula, activities, and opportunities to celebrate and learn
+continuously the importance of cultural responsiveness.
+Student Centered Learning
+Successful schools also have a commitment to tailoring their instructional academic programming with
+the student at the center of the planning, development, and delivery phases. Deeply knowing, understanding,
+and appreciating the multiples ways that students learn, the importance of legitimizing their student voice in
+the learning-meaning making process, and creating a variety of learning strategies in school, outdoor, and
+community partnership settings to create these student-centered learning opportunities, is at the core of a
+school’s faculty and staff ongoing professional development vision with the student always at the center of
+the complex planning, delivery, assessing, evaluation, and reflective phases.
+Diverse Staff of Excellent Educators & Equitable Student Access
+Successful schools strongly believe and ensure that all students should engage in equitable student
+access daily with no hesitation to provide interactive, engaging, challenging, reflective, high-quality instruction
+using various learning strategies that support all stages of student academic progress. Every student is given
+opportunities to excel at all stages of their academic journey through a continuously rigorous academic
+program with a cadre of exceptional, diverse, excellent teachers, who are reflective, self-confident, culturally
+responsive, socially and politically aware, and content experts.
+Fiscal Equity
+A successful school, in collaboration with its community partnerships, prioritizes the importance of
+fiscal equity for its school and neighboring schools and the greater state and nation. This means that they
+advocate to their school board and convey to its students, families, and communities that equitable school
+Appendix C: Equity Indicators
+49
+
+ funding is vital for its students, teachers, administrators, and community as a whole. Equitable school funding
+is a critical component to achieving comprehensive educator equity for all.
+These seven equity indicators represent a more comprehensive approach to achieving educator equity.
+Because of that, from a neutral equity lens built around these seven framing equity indicators, we have
+analyzed and captured the participants’ voices thematically to better inform the Near South Proposal. This
+report also frames our quantitative analysis, key findings, and recommendations around these seven framing
+equity indicators.
+Resource Bibliography
+The equity indicators, which provide the framework for this report, were developed by Mr. Wesley
+Williams who has worked on equity issues with state and local education agencies for over 15 years.
+Williams, W., II. (2015). The educator equity resource tool: A guide for America’s schools. Retrieved from
+Westat website: https://www.westat.com/our-work/education/educator-effectiveness/educatorequity-research-tool
+Williams, W., II. (2016). The educator equity resource tool: Using comprehensive equity indicators. Rockville,
+MD: Westat.
+Williams, W., II. (2017, July). And how are the children: Using comprehensive equity indicators to ensure that
+all children are well. Keynote address at the National Network of State Teachers of the Year Annual
+National Conference, Washington, D.C.
+Williams, W., II. (2017). And how are the children? [Online Video]. Rockville, MD: Westat. Retrieved from
+https://www.westat.com/our-work/featured-stories/and-how-are-children
+Family and Community Engagement
+Berg, A., Melaville, A., & Blank, M. (2006, October). Community & family engagement: Principals share what
+works. Coalition for Community Schools. Retrieved from
+http://www.communityschools.org/assets/1/AssetManager/CommunityAndFamilyEngagement.pdf
+Henderson, A., & Mapp, K. (2002). A new wave of evidence: The impact of school, family, and community
+connections on student achievement. National Center for Family and Community Connections with
+Schools. Retrieved from https://files.eric.ed.gov/fulltext/ED536946.pdf
+Appendix C: Equity Indicators
+
+50
+
+ Parent, Family, Community Involvement in Education. (2008). National Education Association. Retrieved from
+www.nea.org/assets/docs/PB11_ParentInvolvement08.pdf
+Redding, S., Murphy, M., & Sheley, P. (2011). Handbook on Family and Community Engagement. School
+Community Network. Retrieved from
+http://www.schoolcommunitynetwork.org/downloads/FACEHandbook.pdf
+Weiss, H., Lopez, E., & Rosenberg, H. (2010, December). Beyond Random Acts: Family, School, and Community
+Engagement as an Integral Part of Education Reform. National Policy Forum for Family, School, &
+Community Engagement. Harvard Family Research Project. Retrieved from
+https://eric.ed.gov/?id=ED517978
+School Climate
+Cardichon, J., & Darling-Hammond, L. (2017). Advancing educational equity for underserved youth: How new
+state accountability systems can support school inclusion and student success. Palo Alto, CA: Learning
+Policy Institute. Retrieved from https://learningpolicyinstitute.org/sites/default/files/productfiles/Advancing_Educational_Equity_Underserved_Youth_REPORT.pdf
+Loukas, A. (2007). What is school climate? High-quality school climate is advantageous for all students and
+may be particularly beneficial for at-risk students. Leadership Compass, 5(1). Retrieved from
+https://www.naesp.org/sites/default/files/resources/2/Leadership_Compass/2007/LC2007v5n1a4.pdf
+National Center on Safe Supportive Learning Environments. (2018). [Government agency: US Department of
+Education & American Institutes for Research]. Retrieved December 20, 2017, from
+https://safesupportivelearning.ed.gov/
+O’Brennan, L., & Bradshaw, C. (2013, November). Importance of school climate. National Education
+Association & Johns Hopkins Center for the Prevention of Youth Violence. Retrieved from
+https://www.nea.org/assets/docs/15584_Bully_Free_Research_Brief-4pg.pdf
+Spotlight on School Climate. (2018). American Institutes for Research [Research Institute]. Retrieved December
+20, 2017, from https://www.air.org/resource/spotlight-school-climate
+
+Appendix C: Equity Indicators
+
+51
+
+ Culturally Relevant Leadership Practices
+Local Education Agencies
+Cultural Competence Curriculum, Phase III, 2009–2010. (2010). Arlington Public Schools. Retrieved from
+http://www.doe.virginia.gov/special_ed/tech_asst_prof_dev/self_assessment/disproportionality/arlingto
+n_adapted_cultural_competence_notebook.pdf
+Cultural Competence Facilitator’s Handbook and Participant’s Workbook. (2018). [Educational Institution].
+Retrieved December 20, 2017, from https://www.fcps.edu/node/32087
+Equity initiatives unit. (2018). Montgomery Schools [Educational Institution]. Retrieved December 20, 2017,
+from http://www.montgomeryschoolsmd.org/departments/clusteradmin/equity/index.aspx
+State Education Agencies
+Equity toolkit for administrators. (2010). Colorado Department of Education. Retrieved from
+https://www.cde.state.co.us/postsecondary/equitytoolkit
+Stith-Williams, V., & Haynes, P. (2007, September). For cultural competence: Knowledge, skills, and
+dispositions needed to embrace diversity. Virginia Department of Education. Retrieved from
+http://www.doe.virginia.gov/special_ed/tech_asst_prof_dev/self_assessment/disproportionality/cultural
+_competence_manual.pdf
+Advocate Agencies
+Diversity toolkit: Cultural competence for educators. (2017). National Education Association [Advocacy].
+Retrieved December 20, 2017, from http://www.nea.org/tools/30402.htm
+National equity project. (2017). [Advocacy]. Retrieved December 20, 2017, from
+http://nationalequityproject.org/
+Spotlight on cultural proficiency: Working group for educator excellence. (2013, December). Spotlight on
+Cultural Proficiency. Retrieved from http://wgee.org/wpcontent/uploads/2013/12/CulturalProficiency4.pdf
+Book Study Resources
+Ferguson, A. (2000). Bad boys: Public schools in the making of Black masculinity. MI: University of Michigan.
+Ladson-Billings, G. (2009). Dreamkeepers: Successful teachers of African American children (Second). San
+Francisco, CA: Jossey-Bass, A Wiley Imprint.
+Nuri-Robins, K., & Lindsey, D. (2012). Culturally proficient instruction: A guide for people who teach (Third).
+Thousand Oaks, CA: Corwin (SAGE).
+Appendix C: Equity Indicators
+
+52
+
+ Singleton, G. (2015). Courageous conversations about race: A field guide for achieving equity in schools.
+London: SAGE Publications.
+Sollman, C., Emmons, B., & Paolini, J. (n.d.). Through the cracks. Davis.
+Valenzuela, A. (1999). Subtractive schooling: U.S.-Mexican youth and the politics of caring. New York: State
+University of New York.
+Student-Centered Learning
+Addressing the root causes of disparities in school discipline: An educator’s action planning guide. (2015, July).
+Safe Supportive Learning: Engagement, Safety, Environment (US Dept. of Education). Retrieved from
+https://safesupportivelearning.ed.gov/sites/default/files/151547%20NCSSLE%20Root%20Causes%20Guide%20FINAL02%20mb.pdf
+Cardichon, J., & Darling-Hammond, L. (2017, February). Advancing educational equity for underserved youth:
+How new state accountability systems can support school inclusion and student success. Learning Policy
+Institute. Retrieved from https://learningpolicyinstitute.org/sites/default/files/productfiles/Advancing_Educational_Equity_Underserved_Youth_REPORT.pdf
+Chang, H., & Romero, M. (2008). Present, engaged and accounted for: The critical importance of addressing
+chronic absence in the early grades. National Center for Children in Poverty. Retrieved from
+http://www.ecs.org/clearinghouse/84/20/8420.pdf
+Jacob, B., & Lovett, K. (2017, July 27). Chronic absenteeism: An old problem in search of new answers.
+Brookings Institute. Retrieved from https://www.brookings.edu/research/chronic-absenteeism-an-oldproblem-in-search-of-new-answers/
+Kolodner, M. (2015, April 2). How schools can lower suspension rates and raise graduation rates: Why aren’t
+traditional school discipline policies working? The Hechinger Report Covering Innovation & Inequality in
+Education. Retrieved from http://hechingerreport.org/how-schools-can-lower-suspension-rates-andraise-graduation-rates/
+Roderick, M., Kelley-Kemple, T., Johnson, D., & Beechum, N. (2014, April). Preventable failure: Improvements
+in long-term outcomes when high schools focused on the ninth grade year. University of Chicago
+Consortium on Chicago Schools Research. Retrieved from https://files.eric.ed.gov/fulltext/ED553174.pdf
+
+Appendix C: Equity Indicators
+
+53
+
+ Safe supportive learning: Engagement, safety, environment. (2018). [Resource clearinghouse: National Center
+on Safe Supportive Learning Environments]. Retrieved January 15, 2018, from
+https://safesupportivelearning.ed.gov/
+School climate and discipline. (2017, January 4). [Government agency: US Department of Education]. Retrieved
+December 30, 2017, from https://www2.ed.gov/policy/gen/guid/school-discipline/index.html
+
+Diverse Staff of Excellent Educators
+Bireda, S., & Chait, R. (2011, November 9). Increasing teacher diversity [Advocacy]. Retrieved December 20,
+2017, from https://www.americanprogress.org/issues/education-k12/reports/2011/11/09/10636/increasing-teacher-diversity/
+Building a strong and diverse teacher and principal recruitment pipeline. (n.d.). Coalition for Teaching Quality.
+Retrieved from http://coalitionforteachingquality.org/images/upload/201606_Recruitment.pdf
+Douglas, E. (2014, September 23). 8 promising practices for recruiting diverse educator talent. Ed Week
+[Education Information]. Retrieved December 20, 2017, from http://blogs.edweek.org/topschooljobs/k12_talent_manager/2014/09/8_practices_recruiting_diverse_talent.html
+Guenter-Schlesinger, S., & Ojikutu, K. (2009). Best practices: Recruiting & retaining faculty and staff of color.
+Western Washington University. Retrieved from
+https://www.wwu.edu/eoo/docs/Best%20Practices_Recruiting%20and%20Retaining%20Staff%20of%20C
+olor.pdf
+Equitable Student Access
+Bromberg, M. (2016, April). Achieving equitable access to strong teachers: A guide for district leaders. The
+Education Trust. Retrieved from https://edtrust.org/wpcontent/uploads/2014/09/EdTrust_AchievingEquitableAccessStrongTeachers_GuideDistrictLeaders_April
+2016.pdf
+Cardichon, J., & Darling-Hammond, L. (2017). Advancing educational equity for underserved youth: How new
+state accountability systems can support school inclusion and student success. Palo Alto, CA: Learning
+Policy Institute. Retrieved from https://learningpolicyinstitute.org/sites/default/files/productfiles/Advancing_Educational_Equity_Underserved_Youth_REPORT.pdf
+Appendix C: Equity Indicators
+
+54
+
+ How career and technical education can help students be college and career ready: A primer. (2013, March).
+American Institutes for Research. Retrieved from
+https://ccrscenter.org/sites/default/files/CCRS%20Primer%20Brief.pdf
+James, D., Lefkowits, L., & Hoffman, R. (n.d.). Dual enrollment: A pathway to college and career readiness.
+Source [Education Information]. Retrieved December 20, 2017, from http://www.advanced.org/source/dual-enrollment-pathway-college-and-career-readiness
+Laturno, P., Lemons, R., & Crews, K. (2011, December). Poised to lead: How school counselors can drive college
+and career readiness. The Education Trust. Retrieved from http://edtrust.org/wpcontent/uploads/2013/10/Poised_To_Lead_0.pdf
+Max, J., & Glazerman, S. (2014, January). Do disadvantaged students get less effective teaching? Key findings
+from recent institute of education sciences studies. Institute of Education Sciences: National Center for
+Educational Evaluation and Regional Assistance. Retrieved from
+https://ies.ed.gov/ncee/pubs/20144010/pdf/20144010.pdf
+Mechur-Karp, M., & Hughes, K. (2008, October). Dual enrollment can benefit a broad range of students.
+National Research Center for Career and Technical Education. Retrieved from
+https://files.eric.ed.gov/fulltext/EJ815413.pdf
+Promoting more equitable access to effective teachers: Strategic options for states to improve placement and
+movement. (2015, February). Reform Support Network. Retrieved from
+https://www2.ed.gov/about/inits/ed/implementation-support-unit/techassist/equitableaccesstoeffectiveteachersstrategicoptions.pdf
+Redden, E. (2007, October 17). Benefits of Dual Enrollment. Inside Higher Ed [Education Information].
+Retrieved December 20, 2017, from https://www.insidehighered.com/news/2007/10/17/dualenroll
+Rose-Socol, A., & Metz, R. (2017, October 3). Tackling gaps in access to strong teachers. The Education Trust.
+Retrieved from https://edtrust.org/resource/tackling-gaps-access-strong-teachers/
+Worthen, M., & Patrick, S. (2014, October). Course access: Equitable opportunities for college and career ready
+students. International Association for K-12 Online Learning. Retrieved from
+https://eric.ed.gov/?id=ED561295
+
+Appendix C: Equity Indicators
+
+55
+
+ Fiscal Responsibility and Equity
+Boser, U. (2014, July 9). Educational equity and effectiveness: The need for fiscal fairness and fiscal
+productivity. Center for American Progress [Advocacy]. Retrieved December 20, 2017, from
+https://www.americanprogress.org/issues/education-k-12/news/2014/07/09/93240/educational-equityand-effectiveness-the-need-for-fiscal-fairness-and-fiscal-productivity/
+Maximizing federal education funds for student achievement: A toolkit for states seeking to enhance flexibility
+and reduce burden. (2013, November). Council of Chief State School Officers (CCSSO). Retrieved from
+http://www.aep-arts.org/wp-content/uploads/2014/04/CCSSO-Toolkit-on-Maximizing-Funds.pdf
+Parker, E., & Griffith, M. (2016, June). The importance of at-risk funding. Education Commission of the States.
+Retrieved from http://www.ecs.org/wp-content/uploads/The-Importance-of-At-risk-Funding.pdf
+Using financial data to support student success. (2014, October). Data Quality Campaign. Retrieved from
+http://2pido73em67o3eytaq1cp8au.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/FinancialData-for-Student-Success.pdf
+Wiener, R., Goldstein, M., & Gonzales, D. (2016, October). Advancing equity through ESSA: Strategies for state
+leaders. Aspen Institute: Education & Society Program. Retrieved from
+http://www.aspendrl.org/portal/browse/DocumentDetail?documentId=2962&download&admin=2962 2
+315855687
+
+Appendix C: Equity Indicators
+
+56
+
+ 

@@ -1,0 +1,631 @@
+ORDINANCES
+MAY 16, 2018 BOARD MEETING
+
+ BUREAU OF FINANCE
+DEPARTMENT OF RISK MANAGEMENT
+
+ 18-0734 WAS REFERRED TO THE HEALTH AND HOSPITALS COMMITTEE AT THE MAY
+16, 2018 BOARD MEETING
+18-0734
+Sponsored by: TONI PRECKWINKLE, President, Cook County Board of Commissioners
+PROPOSED ORDINANCE
+DESIGNATION OF COOK COUNTY AS A HYBRID ENTITY FOR THE PURPOSES OF
+COMPLIANCE WITH THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY
+ACT
+WHEREAS, the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and its Rules
+(codified in the Code of Federal Regulations at 45 CFR parts 160 and 164, Pub. Law No. 10-191) impose
+privacy and security standards and requirements upon health plans, health care clearing houses, and health
+care providers that transmit any health information in electronic form in connection with standard
+transactions within the scope of HIPAA, otherwise known as Covered Entities; and
+WHEREAS, Cook County (“County”), a unit of local government under the laws of the State of Illinois,
+is a single legal entity which conducts both Covered Functions and non-covered Functions; and
+WHEREAS, the operation of the Cook County Health & Hospitals System (“CCHHS”) and the County’s
+patient arrestee program, self-insured health, dental, vision and pharmacy benefit plans as administered by
+the Department of Risk Management are Covered Functions subject to the HIPAA Privacy and Security
+Rules; and
+WHEREAS, HIPAA allows a Covered Entity to designate itself as a Hybrid Entity when it performs both
+Covered and non-Covered Functions and to designate Health Care Components, which must comply with
+HIPAA; and
+WHEREAS, a Hybrid Entity limits the Covered Entity’s potential liability by requiring only those
+departments designated as Health Care Components to comply with HIPAA; and
+WHEREAS, HIPAA requires any entity that performs a function on behalf of a Covered Entity or a Health
+Care Component of a Hybrid Entity, which involves the use or disclosure of protected health information
+(“PHI”), shall be required to execute a business associate agreement (“BAA”); and
+WHEREAS, the Cook County Board of Commissioners desires to declare Cook County a Hybrid Entity,
+designates the County’s Health Care Components; directs the Cook County Health System Board to
+designate a Privacy and Security Officer at the CCHHS and directs that the Director of Risk Management
+or his/her designee serve as the Privacy Officer and designate a Security Officer to ensure that the County’s
+patient arrestee program, self-insured health, dental, and pharmacy benefit plans are HIPAA compliant;
+and
+BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 2 - ADMINISTRATION,
+ARTICLE XIV- HIPAA Compliance, SECTION 2-1020 - 2-1026- is hereby enacted as follows:
+ARTICLE XIV - HIPAA Compliance
+Sec. 2-1020 - Definitions
+
+ The definitions of terms set forth in HIPAA are adopted and incorporated herein by reference as if fully set
+forth.
+Business Associate - A person or entity that performs a function on behalf of a Covered Entity or
+assists a Covered Entity with a function or activity involving the use or disclosure of PHI.
+Business Associate Agreement (“BAA”) - A contract between a HIPAA covered entity and a
+HIPAA business associate which protects PHI in accordance with HIPAA guidelines.
+Covered Entity - A health plan, a health care clearinghouse or a health care provider that transmits
+any health information in electronic form within the scope of HIPAA.
+Covered Functions - Those functions of a Covered Entity which make it a health plan, health care
+provider or health care clearinghouse.
+Electronic Protected Health Information (“ePHI”) - Protected health information created or
+received by a Covered Entity that is transmitted by electronic media or maintained by electronic media.
+Health Care Component - A component or combination of components of a Hybrid Entity
+designated by the Hybrid Entity, including any component that would meet the definition of a Covered
+Entity if it were a separate legal entity. Health Care Component(s) may include a component only to the
+extent that it performs covered functions.
+Hybrid Entity - A single legal entity that is a Covered Entity whose business functions include
+covered and non-covered functions as defined by HIPAA. The entity must designate Health Care
+Components and document the designation in accordance with HIPAA requirements.
+Non-covered Functions- Those functions performed by components of a Hybrid Entity that are not subject
+to HIPAA requirements.
+Protected Health Information (“PHI”) - Individually identifiable health information collected from
+an individual that is created or received by a Covered Entity. PHI encompasses information that identifies
+an individual and relates to the past, present or future physical or mental health of an individual, the
+provision of health care to an individual or payment for the provision of health care to the individual.
+Sec. 2-1021 - Health Care Component Designation for Hybrid Entity
+(a) Cook County is required to comply with HIPAA privacy and security standards to maintain the
+confidentiality of PHI as referenced in Cook County Resolution 03-R-300 (adopted on July 1, 2003).
+(b) Cook County delegates itself as a Hybrid Entity pursuant to HIPAA as it conducts business
+activities which include Covered Functions and non-Covered Functions.
+(c) In accordance with HIPAA, only departments or organizations which administer Cook County’s
+patient arrestee program, self-insured health plans or provide electronically billed health care services and
+transmit ePHI will be designated as a Health Care Component of Cook County.
+(d) The following Cook County self-insured health plans and organizations are hereby designated
+as Health Care Components of Cook County:
+
+ 1. Self-insured health, dental, vision and pharmacy plans as administered by the Department of
+Risk Management;
+2. Patient Arrestee Medical Care program as administered by the Department of Risk Management;
+and
+3. Cook County Health and Hospitals System.
+(e) All other departments, organizations or functions of Cook County that do not engage in covered
+functions are hereby designated as non-covered functions of Cook County.
+(f) The Cook County Board may amend the designation of the Health Care Components by adding
+or removing a department, office, division or self-insured health plan to or from such designation.
+Sec. 2-1022 - HIPAA Privacy Rule and Security Rule Compliance
+(a) Notwithstanding the designation of the County Health Care Components herein, the County
+shall be responsible for developing policies and procedures to ensure compliance with the HIPAA Privacy
+Rule and Security Rule, and shall be responsible for activities related to oversight of compliance with, and
+enforcement of the aforementioned rules.
+A Health Care Component shall not disclose any PHI, ePHI or HIPAA-required documentation which it
+receives or maintains to another County department or agency 1) if such disclosure would be prohibited by
+the HIPAA Privacy or Security Rules, 2) if the Health Care Component and 3) such other County
+department or agency were separate and distinct legal entities.
+Sec. 2-1023 - Designation of Privacy Officers and Security Officers
+(a) Each Health Care Component shall have a designated Privacy Officer and Security Officer. A
+Health Care Component’s Privacy Officer and Security Officer may appoint an employee of the Health
+Care Component to assist in the performance of the Privacy Officer and/or Security Officer’s
+responsibilities.
+(b) The Privacy Officer and Security Officer for the Healthcare Components of the County (other
+than the CCHHS) shall be the Director of the Department of Risk Management or his or her designee.
+(c) The Privacy Officer and a Security Officer for the CCHHS shall be the Chief Compliance and
+Privacy Officer for the Cook County Health and Hospital System or his or her designee.
+(d) The Privacy and Security Officers for their respective Health Care Components shall each
+develop written policies and procedures and perform any other duties or obligations as required by HIPAA.
+Sec. 2-1024 - HIPAA Required Agreements; Authorization
+(a) Any entity (including another County department or agency) that performs a function on behalf
+of the County or a Health Care Component of the County as defined in Section 2-1021 (d), which involves
+the use or disclosure of PHI shall be required to execute a business associate agreement.
+(b) The Chief Compliance and Privacy Officer of CCHHS and the Director of Risk Management
+of the County are hereby authorized to enter into BAAs necessary to comply with the HIPAA Privacy and
+Security Rules and, to enter into all other agreements required by the HIPAA.
+
+ Sec. 2-1026 - Severability
+If any section, subsection, sentence, clause, phrase or portion of this ordinance is held to be invalid
+or unconstitutional, or unlawful for any reason, by any court of competent jurisdiction, such portion shall
+be deemed and is hereby declared to be a separate, distinct and independent provision of this ordinance,
+and such holding or holdings shall not affect the validity of the remaining portions of this ordinance.
+Effective date: This ordinance shall be in effect immediately upon adoption.
+
+ OFFICE OF THE SHERIFF
+FISCAL ADMINISTRATION AND SUPPORT SERVICES
+..end
+
+ 18-3310 WAS REFERRED TO THE CRIMINAL JUSTICE COMMITTEE AT THE MAY 16, 2018
+BOARD MEETING
+18-3310
+Sponsored by: LARRY SUFFREDIN, Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+INCREASING PENALTIES AND FINES FOR PUBLIC MORALS VIOLATIONS
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 58 Offenses and
+Miscellaneous Provisions, Article IV Offenses Involving Public Morals, Section 58-163.1 of the Cook
+County Code is hereby amended as Follows:
+Sec. 58-163.1. - Public morals nuisance violations.
+***
+(e) Public morals nuisance violations, penalties.
+(1) Any person who violates any provision of Subsections (c) and (d) of this section shall be civilly
+liable for a public morals nuisance violation and shall be fined not less than $500.00 and not more
+than $1,000.00 $2,000.00. In addition to payment of fines imposed under this subsection, a
+violator may be required to perform a minimum of 100 hours of community service in a program
+under the direction of the Sheriff. Failure to complete required community service hours shall
+result in an additional minimum penalty of $500.00.
+(2) Any person who is found in violation of any provision of Subsections (c) and (d) two or more times
+within two years shall have their name, hometown and photograph Posted on a Web site operated
+by the Cook County Sheriff’s Office for two years Following the date of the most recent violation.
+(2)(3) Any violations of Subsections (c) and (d) by a county licensee, including, but not limited to
+liquor, and roadhouse licensees, may be cause for suspension or revocation of such license.
+(3)(4) Any motor vehicle that is used in violation of Subsections (c) and (d) shall be subject seizure
+and impoundment pursuant to Section 58-164.
+(4)(5) Fines collected under this subsection shall be deposited in the Women’s Justice Services Fund
+established by County Ordinance and shall be used to fund rehabilitation services, including
+mental health and substance abuse treatment services, provided by and through the Sheriff’s Office
+Department of Women’s Justice Services.
+BE IT FURTHER ORDAINED, by the Cook County Board of Commissioners, that Chapter 58 Offenses
+and Miscellaneous Provisions, Article IV Offenses Involving Public Morals, Section 58-163.1 of the Cook
+County Code is hereby amended as Follows:
+Sec. 58-163.1. - Public morals nuisance violations.
+***
+
+ (f) Administrative adjudication. Any person issued a notice of violation by the Sheriff for violation
+of any provision of this section may request an administrative hearing.
+(1) Notice.
+a.(i) Before any administrative adjudication proceeding may be conducted, the parties shall be
+afforded notice in compliance with this section.
+b.(ii) Unless otherwise provided by law or rule, the issuer of a notice of violation or notice of
+hearing shall specify on the notice his or her name and department; where known, the name
+and address of the person or entity charged with the violation; the date, time and place of the
+violation; and the section of the code or departmental rule or regulation which was allegedly
+violated; and shall certify the correctness of the specified information by signing his or her
+name to the notice. A notice of hearing shall also include the date, time and location of the
+hearing and the penalties for failure to appear at the hearing. Notice of violation or notice of
+hearing shall be served upon the alleged violator no less than seven calendar days prior to the
+date of the hearing: (a) by first class, certified, or express mail or by overnight carrier at the
+violator’s residence address or (b) by personal service.
+c.(iii) The County shall notify the violator, within ten days, by certified mail return receipt
+requested, that an administrative adjudication hearing will be conducted. The hearing shall be
+scheduled and held, unless continued by order of the administrative law officer, no later than
+30 days after the date of the violation.
+BE IT FURTHER ORDAINED, by the Cook County Board of Commissioners, that Chapter 58 Offenses
+and Miscellaneous Provisions, Article IV Offenses Involving Public Morals, Section 58-163.1 of the Cook
+County Code is hereby amended as Follows:
+Sec. 58-163.1. - Public morals nuisance violations.
+***
+(g) Administrative hearings.
+(1) Any administrative adjudication proceeding conducted by the County shall afford the parties an
+opportunity for a hearing before an administrative law officer.
+(2) An attorney who appears on behalf of any person shall file with the administrative law officer a
+written appearance on a form provided for such purpose.
+(3) While theThe case for the County will not be presented by the administrative law officer,;
+documentary evidence, however, including the notice of violation, which has been prepared by
+the Sheriff, may be presented at the hearing by the administrative law officer,however,
+documentary evidence including the notice of violation which has been prepared by the Sheriff or
+a representative of the Sheriff’s Office, may be presented at hearing by the administrative law
+officer.
+(4) The administrative law officer may grant continuances only upon a finding of good cause.
+(5) All testimony shall be given under oath or affirmation.
+
+ (6) The administrative law officer may permit witnesses to submit their testimony by affidavit.
+(7) The formal and technical rules of evidence shall not apply in the conduct of the hearing. Evidence,
+including hearsay, may be admitted only if it is of a type commonly relied upon by reasonably
+prudent persons in the conduct of their affairs.
+(8) No violation may be established except upon proof by a preponderance of the evidence, provided,
+however, that a violation notice, or a copy thereof, shall be prima facie evidence of the correctness
+of the facts specified therein.
+(9) Upon the timely request of any party to the proceeding, any person, who the administrative law
+officer determines may reasonably be expected to provide testimony which is material and which
+does not constitute a needless presentation of cumulative evidence, shall be made available for
+cross-examination prior to a final determination of liability.
+(10) The record of all hearing before an administrative law officer shall include: (i) a record of the
+testimony presented at the hearing, which may be made by tape recording or other appropriate
+means; (ii) all documents presented at the hearing (iii) a copy of the notice of violation or notice
+of hearing: and (iv) a copy of the findings and decision of the administrative law officer.
+(11) Upon conclusion of a hearing, the administrative law officer shall issue a final determination of
+liability or no liability. Upon issuing a final determination of liability the administrative law
+office may; (i) impose penalties and/or fines that are consistent with this Section or other
+applicable provisions of the County Code; (ii) issue orders that are consistent with applicable
+provisions of the County Code; and/or (iii) assess costs reasonably related to instituting the
+administrative adjudication proceeding; provided, however, that in no event shall the
+administrative law officer have the authority to impose a penalty of imprisonment. or, except in
+cases to enforce the collection of any tax imposed and collected by the county, where this
+limitation shall not apply, impose a fine in excess of $5,000.00 exclusive of costs of
+enforcement or costs imposed to secure compliance with this Code.
+(12) In the issuance of a final determination of liability, an administrative law officer shall Inform the
+violator of his or her right to seek judicial review of the final determination.
+(h) Compliance bond. In order to ensure that code violations are remedied or fines are paid in a timely
+manner, an administrative law officer, upon issuing a final determination of liability, may require a code
+violator to post with the County a compliance bond. Bonds shall be approved by the County Comptroller
+as to form and amount.
+(i)(h) Hearing procedures not exclusive. The use of the administrative adjudication procedure for
+public morals nuisance violations shall not preclude the county from using other methods to enforce the
+provisions of Section 58-167.
+(j)(i) Women’s Justice Services Fund. As set forth in County Ordinance, fines collected for violations
+of this section shall be accounted for and turned over not less than monthly to the Cook County Treasurer.
+The Treasurer shall create and deposit all such fees in a special fund, the “Women’s Justice Services Fund”
+which shall be subject to budget and appropriation for purposes related to operation of the rehabilitation
+programs provided by the Department of Women’s Justice Services and for female juveniles in the Juvenile
+Temporary Detention Center. The Fund shall be appropriated as follows:
+
+ (1) Sixty per cent shall be appropriated to the Office of the Sheriff for the operation of the rehabilitation
+programs of the Department of Women’s Justice Services; and
+(2) Forty percent shall be appropriated to the Juvenile Temporary Detention Center Foundation to
+continue rehabilitation programs for girls detained on the Wings unit of the Juvenile Temporary Detention
+Center.
+BE IT FURTHER ORDAINED, by the Cook County Board of Commissioners, that Chapter 58 Offenses
+and Miscellaneous Provisions, Article IV Offenses Involving Public Morals, Section 58-163.1 of the Cook
+County Code is hereby amended as Follows:
+Sec. 58-163.1. - Public morals nuisance violations.
+***
+(j) Court Fees and Costs
+Court Fees and/or costs added to fines imposed related to conducting the administrative proceeding
+shall be appropriated to the Department of Administrative Hearings and shall be deposited with the Cook
+County Department of Revenue.
+Effective date: This ordinance shall be in effect immediately upon adoption
+
+ COMMITTEE ITEMS REQUIRING BOARD ACTIONS
+
+ FINANCE COMMITTEE
+MEETING OF MAY 16, 2018
+
+ 18-2073 WAS DEFERRED AS SUBSTITUTED AT THE MAY 16, 2018 BOARD MEETING
+18-2073
+Sponsored by: JESUS G. GARCIA and LARRY SUFFREDIN, County Commissioners
+PROPOSED ORDINANCE
+AN ORDINANCE TO ESTABLISH A CONSENSUS REVENUE FORECASTING COMMISSION
+FOR COOK COUNTY
+BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 2 Administration, Article
+III, County Board, Division sections 2-84 through 2-85 of the Cook County Code, is hereby enacted as
+follows:
+Sec. 2-84. An Ordinance to establish a Consensus Revenue Forecasting Commission for Cook County
+(a)
+The purpose of the Commission will be to develop a consensus revenue forecast on an
+annual basis to be updated quarterly. The forecast will include but not be limited to: Sales and taxes,
+Property Taxes, Cigarette Taxes, Fuel Taxes and other sources of County revenue.
+(b)
+The Commission will also be responsible for evaluating and forecasting any new revenue
+sources proposed by the Board and or Executive.
+(c)
+The forecast will be completed no later than September 15th of each fiscal year, and will be
+updated quarterly thereafter, to enable coordination with the County Budget and to allow for mid-year
+adjustments.
+(d)
+The Commission will have seven members appointed by the County Board President and
+confirmed by the County Board, but also by virtue of their respective positions including:
+Chairman of the Business and Economic Development Committee, Chairman of the Pension
+Committee, Chairman of the Finance Committee, the Chief Financial Officer of Cook County, an
+economist working for the Federal Reserve Bank of Chicago, an academic economist with expertise
+in local economic conditions housed at a University located in Cook County, one member of the
+public with expertise in public finance.
+(e)
+
+Board Members will serve for three years and can be reappointed for consecutive terms.
+
+(f)
+The Commission has the authority to purchase subscriptions to economic and financial
+data, engage outside forecasting resources and hire staff as needed as approved by the Board of
+Commissioners.
+(g)
+
+All meetings of the Commission will be open to the public.
+
+(h)
+
+The forecast and assumptions will be made publicly available on the County’s website.
+
+Effective Date: This Ordinance shall be in effect immediately upon adoption.
+
+ NEW ITEMS
+
+ 18-1356 WAS REFERRED TO THE ZONING AND BUILDING COMMITTEE AT THE MAY 16,
+2018 BOARD MEETING
+18-1356
+Sponsored by: TONI PRECKWINKLE, President and PETER N. SILVESTRI, Cook County
+Commissioners
+PROPOSED ORDINANCE AMENDMENT
+ZONING ORDINANCE TEXT AMENDMENT
+BE IT ORDAINED, by the Board of Commissioners of Cook County that Appendix A, Zoning, Article 4
+Residential Districts, Sections 4.1., 4.2, 4.3, 4.4, 4.5, 4.5A, 4.6, 4.7 and 4.8 of the Cook County Code shall
+be amended as follows:
+4.1. - R-1 SINGLE-FAMILY RESIDENCE DISTRICT.
+4.1.5.
+
+TEMPORARY USES.
+
+4.1.6.
+
+ACCESSORY USES.
+
+4.1.8.
+
+SITE AND STRUCTURE PROVISIONS.
+4.2. - R-2 SINGLE-FAMILY RESIDENCE DISTRICT.
+
+4.2.5.
+
+TEMPORARY USES.
+
+4.2.8.
+
+SITE AND STRUCTURE PROVISIONS.
+4.3. - R-3 SINGLE-FAMILY RESIDENCE DISTRICT.
+
+4.3.5.
+
+TEMPORARY USES.
+
+4.3.8.
+
+SITE AND STRUCTURE PROVISIONS.
+4.4. - R-4 SINGLE-FAMILY RESIDENCE DISTRICTS.
+
+4.4.5.
+
+TEMPORARY USES.
+
+4.4.8.
+
+SITE AND STRUCTURE PROVISIONS.
+4.5. - R-5 SINGLE-FAMILY RESIDENCE DISTRICT.
+
+4.5.5.
+
+TEMPORARY USES.
+
+4.5.8.
+
+SITE AND STRUCTURE PROVISIONS.
+4.5A. - R-5A RESIDENTIAL TRANSITION DISTRICT.
+
+ 4.5A.5. TEMPORARY USES.
+4.5A.6. ACCESSORY USES.
+4.5A.8.SITE AND STRUCTURE PROVISIONS.
+4.6. - R-6 GENERAL RESIDENCE DISTRICT.
+4.6.5.
+
+TEMPORARY USES.
+
+4.6.6.
+
+ACCESSORY USES.
+
+4.8.6
+
+SITE AND STRUCTURE PROVISIONS.
+4.7. - R-7 GENERAL RESIDENCE DISTRICT.
+
+4.7.5.
+
+TEMPORARY USES.
+
+4.7.6.
+
+ACCESSORY USES.
+4.8. - R-8 GENERAL RESIDENCE DISTRICT.
+
+4.8.5.
+
+TEMPORARY USES.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 5, Commercial Districts, Sections 5.1, 5.3, 5.4, 5.5, 5.6, 5.7 and 5.8 of the Cook County
+Code shall be amended as follows:
+5.1. - C-1 RESTRICTED BUSINESS DISTRICT.
+5.1.5
+
+TEMPORARY USES.
+5.3. - C-3 GENERAL SERVICE DISTRICT.
+
+5.3.4.
+
+SPECIAL USES.
+5.4. - C-4 GENERAL COMMERCIAL DISTRICT.
+
+5.4.4.
+
+SPECIAL USES.
+5.5. - C-5 COMMERCIAL TRANSITION DISTRICT.
+
+5.5.5.
+
+TEMPORARY USES.
+5.6. - C-6 AUTOMOTIVE SERVICE DISTRICT.
+
+5.6.5.
+
+TEMPORARY USES.
+5.7. - C-7 OFFICE/RESEARCH PARK DISTRICT.
+
+ 5.7.5.
+
+TEMPORARY USES.
+5.8. - C-8 INTENSIVE COMMERCIAL DISTRICT.
+
+5.8.5.
+
+TEMPORARY USES.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 6 Industrial Districts, Sections 6.1 and 6.2 of the Cook County Code shall be amended as
+follows:
+6.1. - I-1 RESTRICTED INDUSTRIAL DISTRICT.
+6.1.4
+
+SPECIAL USES.
+
+6.1.5.
+
+TEMPORARY USES.
+6.2. - I-2 GENERAL INDUSTRIAL DISTRICT.
+
+6.2.4.
+
+SPECIAL USES.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 8, General Provisions, Section 8.6, 8.7 and 8.10 of the Cook County Code shall be amended
+as follows:
+8.6. - STRUCTURE HEIGHT.
+8.6.1.
+
+DISTRICT REGULATIONS.
+
+8.6.3. BUILDING APPURTENANCES.
+8.7. - REGULATIONS FOR SPECIFIC USES.
+8.7.1.
+
+FENCES, WALLS, HEDGES AND SHRUBBERY.
+
+8.7.2.
+
+MOBILE HOMES OR TRAILER.
+
+8.7.7.
+
+PETS ANIMALS.
+
+8.7.8.
+
+PORTABLE STORAGE CONTAINERS.
+
+8.7.9. MEDICAL CANNABIS DISPENSING ORGANIZATION.
+8.7.10. MEDICAL CANNABIS CULTIVATION CENTERS.
+8.10.-ENVIRONMENTALLY SENSITIVE AREAS
+8.10.1. ENVIRONMENTALLY SENSISTIVE
+
+ BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 9, Planned Unit Development, Sections 9.3 of the Cook County Code shall be amended as
+follows:
+9.3. - GENERAL REQUIREMENTS.
+9.3.6
+
+REQUIRED PUDS.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 12, Signs, Section 12.1 and 12.4 of the Cook County Code shall be amended as follows:
+12.1. - SIGN PERMITS FOR ON-PREMISES SIGNS.
+12.1.3. GENERAL REQUIREMENTS APPLICABLE TO SIGNS.
+12.4. - DYNAMIC MESSAGE SIGNS.
+12.4.1 LUMINANCE:
+12.4.2 TRANSITION TIME:
+12.4.3 MOTION:
+12.4.4 CONTROL/TESTING.
+12.4.5 CONVERSION:
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 13, Administration and Enforcement, Sections 13.2, 13.3, 13.5, 13.6, 13.7, 13.8, 13.10 and
+13.13 of the Cook County Code shall be amended as follows:
+13.2. - DEPARTMENT OF BUILDING AND ZONING AND
+THE ZONING ADMINISTRATOR.
+13.2.1. DUTIES OF THE DEPARTMENT OF BUILDING AND ZONING.
+13.3 ZONING BOARD OF APPEALS.
+13.3.2. JURISDICTION.
+13.3.3 MEETINGS AND RULES.
+
+13.3.4 DECISIONS. -RESERVED The decisions and findings of the Zoning Board of Appeals, except
+as provided in 13.3.5, shall be final administrative decisions and shall be subject to review as
+provided by law.
+13.3.6. SECRETARY OF THE ZONING BOARD OF APPEALS.
+13.5. - CERTIFICATES OF OCCUPANCY.
+
+ 13.5.2. PROCEDURE.
+13.6. - VARIANCES.
+13.6.1. PURPOSE.
+13.6.2. APPLICATION, HEARING, AND NOTICE OF HEARING.
+13.6.3. STANDARDS.
+13.6.4. CONDITIONS AND RESTRICTIONS.
+13.6.5: AUTHORIZED VARIANCES
+13.6.6 RECOMMENDING VARIANCES ACTION BY THE ZONING BOARD OF APPEALS.
+13.6.7. ACTION BY THE COOK COUNTY BOARD OF COMMISSIONERS.
+
+13.6.8. EFFECT OF DENIAL.
+13.7. - MAP AMENDMENTS.
+13.7.6. PROCESSING APPLICATIONS.
+13.8. - SPECIAL USE.
+13.8.6. PROCESSING APPLICATIONS
+13.8.14 REVOCATION
+13.10. PENALTIES
+13.13. PROTESTS BY MUNICIPALITIES OR PROPERTY OWNERS.
+13.13.1. RULES FOR WRITTEN PROTEST.
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Appendix A,
+Zoning, Article 14, Rules and Definitions, Section 14.2 of the Cook County Code shall be amended as
+follows:
+14.2. - DEFINITIONS.
+14.2.1.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Chapter 10
+Animals, Article 1, Section 10-2 and Section 10-8 of the Cook County Code shall be amended as follows:
+
+ Sec. 10-2. - Definitions
+
+Sec. 10-8. - Animal care.
+
+BE IT FURTHER ORDAINED, by the Board of Commissioners of Cook County that Chapter 38 Health
+and Human Services, Article 3, Section 38-52 and Section 38-54 of the Cook County Code shall be
+amended as follows:
+
+Sec. 38-52. Definitions
+
+Sec. 38-54 -Declared nuisances.
+Effective date: This ordinance shall be in effect immediately upon adoption.
+Full text of ordinance amendment: https://tinyurl.com/y8sxgqba
+
+ 18-3799 WAS REFERRED TO THE FINANCE COMMITTEE AT THE MAY 16, 2018 BOARD
+MEETING
+18-3799
+Sponsored by: TIMOTHY O. SCHNEIDER, GREGG GOSLIN and JEFFREY R. TOBOLSKI, Cook
+County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+AUTHORIZING VIDEO GAMING IN UNINCORPORATED COOK COUNTY
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 58 Offenses and
+Miscellaneous Provisions, Offensives Involving Public Morals, ARTICLE IV, SECTION 58-161 of the
+Cook County Code is hereby amended as Follows:
+Sec. 58-161. Gaming devices
+***
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 54, Video Gaming,
+ARTICLE XIV, SECTIONS 54-424 THROUGH 54-460 of the Cook County Code is hereby enacted
+as Follows:
+Sec. 54-424. Short title
+This Article shall be known and may be cited as the "Video Gaming Ordinance."
+Sec. 54-425. - Definitions.
+Sec. 54-427. License required; restrictions.
+Sec. 54-428. - Display of license; hours of operation.
+Sec. 54-429. - Residency Requirement.
+Sec. 54-430. - Multiple types of licenses prohibited.
+Sec. 54-431. - Video gaming terminal use by minors prohibited.
+Sec. 54-432. - Licensing qualifications.
+Sec. 54-433. - Licensing procedures.
+Sec. 54-434. - Process of denial of license.
+Sec. 54-435. - Location and placement of video gaming terminals.
+Sec. 54-436. - Complaints initiated by a private party.
+Sec. 54-437. - Procedures for assessment of a fine, revocation or suspension of license.
+
+ Sec. 54-438. - Inspection.
+Sec. 54-439. - Duties of all video gaming licensees.
+Sec. 54-440. - Continuing duty to report violations.
+Sec. 54-441. - Minimum standards for use agreements.
+Sec. 54-442. - Direct dispensing of receipt tickets only.
+Sec. 54-443. - Disposal of video gaming terminals.
+Sec. 54-444. - State-local relations.
+Sec. 54-445. - Privilege granted by license; transferability.
+Sec. 54-446. - Licenses subject to amendments.
+Sec. 54-447. - Applicability of Video Gaming Act and Riverboat Gambling Act.
+Secs. 54-448 - 54-460. - Reserved.
+***
+BE IT ORDAINED, by the Cook County Board of Commissioners, CHAPTER 32 FEES, CHAPTER 54,
+LICENSES,PERMITS AND MISCELLANEOUS BUSINES REGULATION, SECTION 32-1 of the Cook
+County Code is hereby amended as Follows:
+Sec. 32-1 Fee schedule.
+The fees or charges provided for or required by the below-listed sections shall be as shown below:
+***
+Effective date: This ordinance shall be in effect sixty days upon adoption.
+Full text of Ordinance Amendment: https://tinyurl.com/yd9n8bu5
+
+ 18-3836 WAS WITHDRAWN AT THE MAY 16, 2018 BOARD MEETING
+18-3836
+Sponsored by: RICHARD R. BOYKIN, Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+SYNTHETIC MARIJUANA BAN
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 58, Offenses and
+Miscellaneous Business Regulations, Article VI Offenses Against the Public Peace, Section 58-170 of the
+Cook County Code is hereby amended as Follows:
+Sec. 58-170 - Possession of Cannabis.
+(a) Definitions All terms and phrases used herein shall have the same meaning as ascribed to them
+in the Cannabis Control Act (720 ILCS 550/1 et seq.); except the term "person" is limited to natural
+persons who have attained the age of 17 years or more. It shall also include synthetic cannabis.
+***
+Effective date: This ordinance shall be in effect immediately upon adoption.
+
+ 

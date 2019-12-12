@@ -1,0 +1,715 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Monday, June 23, 2014 at the hour of 8:00 A.M., at 1900 West Polk Street, in
+the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Muñoz called the meeting to order.
+Present:
+
+Chairman Luis Muñoz, MD, MPH and Director Carmen Velasquez (2)
+Directors Lewis M. Collens and Ada Mary Gugenheim
+Gerald Bauman (non-Director Member)
+
+Absent:
+
+Director Reverend Calvin S. Morris, PhD (1)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – System Chief Compliance and
+Privacy Officer
+John Cookinham – System Chief Financial Officer
+Donald Croswell – Washington, Pittman &
+McKeever, LLP
+Randolph Johnston – System Associate General
+Counsel
+Patrick Kitchen - McGladrey LLP (telephonically)
+
+II.
+
+Gladys Lopez – Chief of Human Resources
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+Thomas Schroeder – System Director of Internal
+Audit
+Steve Sehy - McGladrey LLP
+John Jay Shannon, MD – Interim Chief Executive
+Officer and Chief of Clinical Integration
+
+Public Speakers
+Chairman Muñoz asked the Secretary to call upon the registered public speakers.
+The Secretary called upon the following registered public speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+**Report from System Corporate Compliance and Privacy Officer (Attachment #1)
+Cathy Bodnar, System Corporate Compliance and Privacy Officer, presented her report containing updates
+on the following subjects: Issue Breakdown by Category; Status Report – Work Plan Activities; Inpatient
+DRG Project and Review; and Health Information Management Plan. The Committee reviewed and
+discussed the information.
+Director Velasquez inquired regarding the information provided on reactive Compliance issues; she asked if
+Ms. Bodnar could provide the total number of issues that were substantiated. Ms. Bodnar responded that she
+can provide that information for this fiscal year at the next Committee meeting1.
+
+Page 1 of 15
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Monday, June 23, 2014
+Page 2
+
+III.
+
+**Report from System Corporate Compliance and Privacy Officer (continued)
+Ms. Bodnar noted that, as of July 1st, the County MCCN will be in effect. There is a lot of work needed to
+be done to build a managed care compliance program; staff are actively working on this, and they are
+partnering with the System’s third party administrator (TPA), IlliniCare, and their compliance officer, to
+make sure that the full breadth of what is needed for the compliance program is in place on the System’s side
+and on the IlliniCare/Centene side, as well. Ms. Bodnar added that, in early 2010, an Audit and Compliance
+Committee Charter was developed; this Charter has not been re-evaluated since its creation. She stated that,
+at the next Committee meeting, the Charter will be presented for discussion and for determination of whether
+or not any additions or modifications are needed2.
+Chairman Muñoz noted the importance of the understanding by CountyCare management and staff that the
+compliance component resides within this Committee, and that the structure of the compliance has to be built
+under Ms. Bodnar’s direct oversight; she will need to have direct oversight of this component, as she reports
+to this Committee and Chair on the outcomes of her compliance activities and monitoring.
+Ms. Bodnar stated that, internally, the Executive Director of Managed Care, Steven Glass, is well aware of
+the relationship that Corporate Compliance has with the Board and this Committee. She stated that he is
+extremely supportive, and they speak on a regular basis about compliance. Similarly, with regard to
+IlliniCare, she stated that one of the things she has started to do is have regular conference calls with their
+compliance officer, Jeffery Torres; she noted that she recently suggested that he attend one of the
+Committee’s meetings.
+With regard to the information provided on the Coding Assessment, under the Status Report of Work Plan
+Activities, Director Collens asked for further information on the consequences of miscoding. John
+Cookinham, System Chief Financial Officer, stated that the System is paid on a per-diem basis by its largest
+payer, Medicaid; in these cases, the code assigned to it does not affect the ultimate payment, but the coding,
+if it is inappropriate, could affect the case if it is used to determine that services were not medically
+necessary. The System could get a denial on that basis if the coding is inadequate. Under CountyCare,
+during the waiver period, the System is paid on a per-member per-month basis (PMPM); that coding needs to
+be accurate because that data is used to build the information for negotiation of rates. Medicare pays the
+System on the basis of diagnosis-related group (DRG) assignment and that coding; if it is inaccurate, it will
+produce the wrong payment. Dr. John Jay Shannon, Interim Chief Executive Officer and Chief of Clinical
+Integration, provided additional information. In addition to affecting the reimbursement of services, which is
+important, coding accuracy is also important because it relates to external reporting, both at an institutional
+level and on an individual performance level.
+
+IV.
+
+Recommendations, Discussion/Information Items
+A. **CCHHS Audited Financial Statements
+i. CCHHS Financial Statements, for the year ended November 30, 2013
+ii. CCHHS Management Letter, for the year ended November 30, 2013
+iii. Required Communications – Report relating to the CCHHS Financial Statements, for the year
+ended November 30, 2013
+B. **Cook County Single Audit Report on Federal Awards, for the fiscal year ended November 30, 2013
+Pat Kitchen, of McGladrey LLP, reviewed the information contained in the Report relating to the audit of
+the CCHHS Financial Statements, for the year ended November 30, 2013. The Committee discussed the
+information.
+Page 2 of 15
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Monday, June 23, 2014
+Page 3
+
+IV.
+
+Recommendations, Discussion/Information Items (continued)
+With regard to the issues described in the Report relating to the CountyCare analysis and financial
+reporting, Mr. Cookinham stated that, through the audit process, a lot was learned. He provided
+information relating to the audit adjustment to reduce the accrued CountyCare revenue. He stated that the
+System receives a payment file and some files that suggest who is eligible from the State. Staff had
+originally been told that if people appear on a list in the prior month, then that was paid for in the
+subsequent month. For example, when the System received $33 million in December, it was believed that
+everything received on that file for November was for 2013, so the $33 million was accrued as a 2013
+item. However, when the file was examined, payments for December were included in there, which
+would be 2014. As the State resolves the backlog of applications that have been submitted, and the
+System has greater history of these things, he believes that the System will have few problems in those
+areas in the future.
+Mr. Cookinham stated that, given the size of the CountyCare program and its impact on the System’s
+finances, this has been an evolutionary process. A lot of improvements have been made over the last year,
+and there are areas for improvement. All of the measurement tools need to be in place, and, in any
+capitated program, there are also some other controls that have to be put in place. At the Finance
+Committee, an initial estimate of the first six months of the operation of CountyCare in 2014 was
+presented. As indicated in the Report, the plan is to provide some monthly financial information to the
+Finance Committee and to the County, in terms of CountyCare operations.
+Chairman Muñoz indicated that, from this Committee’s perspective, he wanted to encourage staff to work
+closely with Tom Schroeder, System Director of Internal Audit, to ensure that the internal controls are
+fixed and that these new procedures and database systems are aligned to track the data.
+Dr. Shannon noted that he believes that the challenges outlined in the Report are going to be one shade
+more complex in the current fiscal year; as the System is transitioning from its historical or legacy TPA,
+and coming on board for the last five months of the current fiscal year with a new TPA, there are going to
+be a lot of moving parts.
+Steve Sehy, of McGladrey LLP, reviewed the CCHHS Financial Statements, for the year ended November
+30, 2013. During the review, Mr. Cookinham provided additional information regarding the advance of
+$30 million from the State of Illinois in 2013. This had been set up for the System to receive some funds
+early from the State to help finance this process, because the State was in fact quite far behind in
+processing applications. It was always planned that the advance would be returned to the State; the
+System returned the $30 million in early June.
+Donald Croswell, of Washington, Pittman & McKeever, LLP, reviewed the information relating to the
+System contained in the Cook County Single Audit Report on Federal Awards, for the fiscal year ended
+November 30, 2013. The Committee discussed the information.
+Director Velasquez, seconded by Chairman Muñoz, moved to receive and file the reports
+contained in Section IV.A. and IV.B. THE MOTION CARRIED UNANIMOUSLY.
+At the June 27, 2014 CCHHS Board of Directors Meeting, the Minutes of this Audit and
+Compliance Committee Meeting were approved, with the exception of the CCHHS Audited
+Financial Statements documents under Section IV.A. That action relating to that item/documents
+was deferred. The item/documents under Section IV.A. will be placed on the Agenda of the July
+27th Board of Directors Meeting for review and discussion in a closed meeting.
+Page 3 of 15
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Monday, June 23, 2014
+Page 4
+
+V.
+
+Action Items
+A. Minutes of the Audit and Compliance Committee Meeting, March 12, 2014
+Director Velasquez, seconded by Chairman Muñoz, moved to accept the minutes of the
+Audit and Compliance Committee Meeting of March 12, 2014. THE MOTION
+CARRIED UNANIMOUSLY.
+B. Any items listed under Sections IV, V and VI
+
+VI.
+
+Closed Meeting Items
+A. **CCHHS Audited Financial Statements
+i. CCHHS Financial Statements, for the year ended November 30, 2013
+ii. CCHHS Management Letter, for the year ended November 30, 2013
+iii. Required Communications – Report relating to the CCHHS Financial Statements, for the year
+ended November 30, 2013
+B. **Cook County Single Audit Report on Federal Awards, for the fiscal year ended November 30, 2013
+C. Report from System Director of Internal Audit
+D. **Report from System Corporate Compliance Officer
+E. Discussion of Personnel Matters
+Director Velasquez, seconded by Chairman Muñoz, moved to recess the open meeting
+and convene into a closed meeting, pursuant to the following exceptions to the Illinois
+Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the appointment, employment,
+compensation, discipline, performance, or dismissal of specific employees of the public
+body or legal counsel for the public body, including hearing testimony on a complaint
+lodged against an employee of the public body or against legal counsel for the public
+body to determine its validity,” and 5 ILCS 120/2(c)(29), regarding “meetings between
+internal or external auditors and governmental audit committees, finance committees, and
+their equivalents, when the discussion involves internal control weaknesses, identification
+of potential fraud risk areas, known or suspected frauds, and fraud interviews conducted
+in accordance with generally accepted auditing standards of the United States of
+America.” THE MOTION CARRIED UNANIMOUSLY.
+Chairman Muñoz declared that the closed meeting was adjourned.
+reconvened into the open meeting.
+
+The Committee
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Muñoz declared the meeting ADJOURNED.
+
+Page 4 of 15
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Monday, June 23, 2014
+Page 5
+
+Respectfully submitted,
+Audit and Compliance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Luis Muñoz, MD, MPH, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+1
+
+Follow-up: for next Committee Meeting, provide the total number of reactive Compliance issues that were
+substantiated for this fiscal year. Page 1.
+
+2
+
+Follow-up: for next Committee Meeting, Audit and Compliance Committee Charter to be presented for review
+and discussion. Page 2.
+
+Page 5 of 15
+
+ Cook County Health and Hospitals System
+Audit and Compliance Committee Meeting Minutes
+June 23, 2014
+
+ATTACHMENT #1
+
+Page 6 of 15
+
+ Corporate Compliance
+Report
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance & Privacy Officer
+June 23, 2014
+
+Page 7 of 15
+
+ Meeting
+g Objectives
+j
+To review the Fiscal Year-to-Date Activity within
+Corporate Compliance
+
+
+S b it and
+Submit
+d Fil
+File 1st and
+d 2nd Quarter
+Q t Reactive
+R
+ti IIssues
+
+
+
+Report the Status of 2014 Work Plan Activities
+
+2
+Page 8 of 15
+
+ Issue Breakdown by
+y Category
+g y
+348* Reactive Corporate Compliance Issues Were Raised in the 1st & 2nd Quarter 2014
+Regulatory/Policy
+R
+l t /P li
+8%
+Research
+0%
+Political
+Other
+Activity
+10%
+1%
+
+False
+F
+l Claims
+Cl i
+3%
+
+Volumes continue to
+increase.
+There has been a 69% 
+compared to the 1st and
+2nd Quarter last year.
+
+Human
+Resources
+6%
+
+HC Fraud
+3%
+Theft
+0%
+Conflict of
+Interest
+6%
+Category Count*
+Privacyy ((HIPAA))
+Accurate Books
+Regulatory/Policy
+*
+
+3
+
+HIPAA
+54%
+Accurate Books
+9%
+
+189 Conflict of Interest
+30 Human Resources
+27 HC Fraud
+
+23 False Claims
+9 Theft
+21 Research
+2 Other
+11 Political Activity 1
+
+1
+34
+
+This is a total count of the issues raised to Corporate Compliance. Not all issues are validated/substantiated.
+Page 9 of 15
+
+ Status Report
+p
+– Work Plan Activities
+Coding Assessment
+p
+g
+Inpatient DRG Assignment
+Outpatient CPT Assignment
+Conflict of Interest Survey Development and Roll Out
+Accounting of Disclosures
+Dual Employment
+Dual Employment
+Education
+Transition System‐wide Annual Education (Safety, Infection 
+Control, Communication, and Compliance) from Corporate 
+Compliance
+Develop Updated Annual Compliance Education Modules
+Managed Care 
+Regulatory Requirement to Implement a Compliance Program
+G id the Institutional Review Board on
+Guide
+th I tit ti
+lR i B d
+Pi
+Privacy Matters
+M tt
+Monitor Advanced Beneficiary Notice Compliance
+Monitor ICD‐10‐CM/PCS Documentation Quality
+
+4
+Page 10 of 15
+
+Completed
+p
+Planned
+Roll Out Completed
+Roll Out Completed
+Roll Out Completed
+
+In Process
+In
+Process
+In Process
+In Process
+Pl
+Planned
+d
+Planned
+Regulatorily Delayed
+
+ Inpatient
+p
+DRG Assignment
+g
+Patient 
+Services 
+Services
+are 
+Performed
+Payment 
+Received
+
+Each Service  
+Documented
+
+Hospital 
+Stay Billed
+
+Record  
+Reviewed   
+and Coded
+and Coded
+DRG  
+Assigned
+
+5
+Page 11 of 15
+
+ Inpatient
+p
+DRG Project
+j
+Objectives
+j
+Goal:
+To assess the accuracy of coding leading to DRG assignment through a coding 
+review.
+Scope:
+Review activity at John H. Stroger, Jr. Hospital and Provident Hospital
+ Identify a timeframe
+ Identify the top 10 DRGs at John H. Stroger, Jr. Hospital 
+Identify the top 10 DRGs at John H Stroger Jr Hospital
+ Identify the top 5 DRGs at Provident Hospital
+ Engage an external coding expert to perform a probe review
+Sample Size:
+ Date Parameters – November and December 2013
+ Sample Size John H. Stroger, Jr. Hospital – 100 Inpatient Records
+ Sample Size Provident Hospital – 25 Inpatient Records
+6
+Page 12 of 15
+
+ Top
+p Inpatient
+p
+DRGs
+Date Parameters: November – December 2013
+Top 10 DRGs ‐ John H. Stroger, Jr. Hospital
+DRG #
+392
+313
+603
+743
+775
+794
+812
+690
+192
+292
+313
+292
+293
+195
+743
+
+Description
+p
+Esophagitis, Gastroent & Misc Digest Disorders w/o MCC
+Chest Pain
+Cellulitis w/o MCC
+Uterine Adnexa Proc for Non‐Maligancy w/o CC/MCC
+g y /
+/
+Vaginal Delivery w/o Complicating Diagnosis
+Neonate w Other Significant Problems
+Red Blood Cell Disorders w/o MCC
+Kidney & Urinary Tract Infections w/o MCC
+Kidney & Urinary Tract Infections w/o MCC
+Chronic Obstructive Pulmonary Disease w/o CC/MC
+Heart Failure & Shock w CC
+Top 5 DRGs – Provident Hospital
+Chest Pain
+Chest Pain
+Heart Failure & Shock w CC
+Heart Failure & Shock w/o CC/MCC
+Simple Pneumonia & Pluerisy w/o CC/MCC
+Uterine Adnexa Proc for Non Maligancy w/o CC/MCC
+Uterine Adnexa Proc for Non‐Maligancy w/o CC/MCC
+
+‐ Complications or Comorbidities
+MCC ‐ Major Complications or Comorbidities
+CC
+
+7
+
+Page 13 of 15
+
+Volume
+100
+91
+85
+76
+68
+59
+49
+48
+44
+43
+41
+16
+14
+12
+10
+
+ Results of DRG Review
+John H. Stroger, Jr. Hospital
+Element
+
+Provident Hospital
+
+Target Accuracy Result
+
+Element
+
+Target Accuracy Result
+
+DRG Change
+
+95%
+
+84%
+
+
+
+DRG Change
+
+95%
+
+96%
+
+
+
+Principal Diagnosis
+
+95%
+
+86%
+
+
+
+Principal Diagnosis
+
+95%
+
+100%
+
+
+
+C
+Complication/Comorbidity
+li ti /C
+bidit 95%
+
+98%
+
+
+
+C
+Complication/Comorbidity
+li ti /C
+bidit
+
+95%
+
+88%
+
+
+
+Missing Diagnosis
+
+95%
+
+93%
+
+
+
+Missing Diagnosis
+
+95%
+
+88%
+
+
+
+Unspecified Diagnosis
+
+95%
+
+98%
+
+
+
+Unspecified Diagnosis
+
+95%
+
+96%
+
+
+
+Wrong Diagnosis
+
+95%
+
+97%
+
+
+
+Wrong Diagnosis
+
+95%
+
+100%
+
+
+
+Missing Procedure
+
+95%
+
+96%
+
+
+
+Missing Procedure
+
+95%
+
+100%
+
+
+
+Wrong Procedure
+Wrong Procedure
+
+95%
+
+99%
+
+
+
+Wrong Procedure
+Wrong Procedure
+
+95%
+
+100%
+
+
+
+Sequencing
+
+95%
+
+99%
+
+
+
+Sequencing
+
+95%
+
+100%
+
+
+
+Disposition
+
+95%
+
+91%
+
+
+
+Disposition
+
+95%
+
+100%
+
+
+
+8
+Page 14 of 15
+
+ Health Information Management
+g
+Plan
+Operational Next Steps:
+ Review and Re‐Educate Coding Staff
+ Monitor Coder Performance through External Consultants
+ Ongoing Monitoring of Individual Coding Performance
+
+9
+Page 15 of 15
+
+ 

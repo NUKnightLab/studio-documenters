@@ -1,0 +1,157 @@
+AUDIT & COMPLIANCE
+COMMITTEE OF THE
+BOARD OF DIRECTORS
+Corporate Compliance Report
+November 15, 2018
+
+ Meeting Objectives
+
+2
+
+
+
+Review Privacy & Security Rules
+
+
+
+Recognize the National Landscape
+
+
+
+Discuss Current Internal Activity
+
+
+
+View CCH Measures for Compliance
+o
+
+Proactive
+
+o
+
+Reactive
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ The “Alphabet Soup” of Privacy
+ The Health Insurance Portability and Accountability Act
+o 2003 – HIPAA Privacy Rule
+o 2005 – HIPAA Security Rule
+ Patient/member privacy rights related to health data
+ Key Terms:
+Protected Health Information (PHI) and
+Electronic Protected Health Information (ePHI)
+
+ CCH has a responsibility to safeguard PHI and ePHI
+3
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ March 13, 2018
+By Elizabeth Snell
+A New York surgery center reported a
+potential data breach stemming from a
+server being accessed by an unauthorized
+user.
+
+Nearly 280,000 Medicaid patient records breached
+in Oklahoma State University Center for Health
+Sciences.
+
+ Privacy Allegations Received by Compliance
+F-YTD 238 Issues Attributed to HIPAA
+26% of the Total Issues Received F-YTD
+
+Of the 238 Privacy
+allegations received,
+13% or 30 incidents
+were validated privacy
+breaches
+
+Breach Breakdown
+P
+r
+i
+v
+a
+c
+y
+
+Individuals = 70
+Incidents = 30
+
+Other Privacy matters = 87%
+(Determination of no breach and
+guidance requests, e.g. Contract and
+Business Associate Agreement, data
+sharing, subpoena requests)
+
+5
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ Security Intelligence
+Intrusion Events
+500
+400
+300
+200
+
+480
+
+Connection Events
+328
+
+14,000,000
+
+290
+232 226
+176
+
+12,000,000
+
+146 144
+
+101 101
+
+100
+0
+
+10,000,000
+8,000,000
+6,000,000
+4,000,000
+
+Sample Reports Received Monthly
+
+2,000,000
+-
+
+6
+
+Audit & Compliance Committee of the Board I November 15, 2018
+
+ CCH Proactive & Reactive Measures
+Security Tools
+ Intruder Prevention (Cisco Firepower)
+ MS Office 365 (Recent Optimizations)
+ Infoblox Secure DNS (How it helps with Phishing Attacks)
+ Cerner 724 Read-Only upgrade to 724 Access Downtime
+Viewer (Business Continuity Plan/Disaster Recovery)
+ Cerner Instant Access (Security and Authentication)
+
+ Additional Security Controls
+ Updated privacy & security training
+ Adapted policies to evolving environment including
+o Mobile Device Management
+(also implementing controls)
+ Developed vendor questionnaire
+
+ Future Initiatives
+ Optimizing medical device management
+ Developing an anti-phishing program
+ Enhancing asset control through IT Service Management
+(ITSM)
+ Requiring multi-factor-authorization (remote access)
+
+ 

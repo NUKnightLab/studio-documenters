@@ -1,0 +1,5513 @@
+ 
+
+
+INFRASTRUBTIIRE
+TRUST
+
+ 
+
+ 
+
+Chicago Infrastructure Trust
+Contracting Manual
+
+Version 2.0
+
+February 24, 2014
+
+CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Introduction
+In April 2012, the Chicago Infrastructure Trust (“CIT” or the “Trust”) was created via executive order
+and Chicago City Council resolution. CIT will provide focus and leadership to build a pipeline of
+executable Public-Private Partnership (“P3”) projects that will meet Chicago’s infrastructure needs,
+drive economic development and create jobs. Public-Private Partnership contracting is valuable to
+the people of the City of Chicago because it harnesses private investment, expertise and innovation
+to complete important infrastructure projects that the City of Chicago could not complete using
+traditional public finance. In addition, P3 contracting leverages the technical and operating expertise
+of private industry to perform design, construction, operational and maintenance functions that may
+not be core competencies of the City of Chicago.
+This Contracting Manual explains how CIT will identify infrastructure projects and the process and
+procedures for contracting using private partners. It includes policy discussions that will help
+architects, engineers, construction companies, financing sources, service companies, other interests
+and citizens understand how CIT will operate.
+Please note that terms in the manual will evolve over time, and you should look for the most current
+version on CIT’s website, www.ShapeChicago.org
+
+Version 2.0   February 24, 2014
+
+2
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Table of Contents
+I.
+
+Definitions…………………………………………………………………….…4
+
+II.
+
+Best Practice Concepts…………………………………………………….....7
+
+III.
+
+Initial Programs and Project Selection……………………………………10
+
+IV.
+
+Conflicts of Interest……………………………………………………....…..13
+
+V.
+
+Project Advertisement/Announcement……………………….………….14
+
+VI.
+
+Proposal Selection Process………………………………………………...15
+
+VII.
+
+Proposal Evaluation………………………………………………………….28
+
+VIII.
+
+Award of Contract………………………………………………………….....31
+
+IX.
+
+Rights and Obligations of the Chicago Infrastructure Trust……..…..32
+
+X.
+
+Pre-Development Agreement, Interim Agreement and Comprehensive
+Agreement………………………………………………...35
+
+XI.
+
+Project Acceptance…………………………………………………………..41
+
+XII.
+
+Summary………………………………………………………………………..42
+
+I.
+
+Definitions
+
+Version 2.0   February 24, 2014
+
+3
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+There are a variety of terms that are used regularly in discussing infrastructure contracting.
+Definitions for a number of these terms are set forth in this Section.
+a. Potential Roles for Private Partner
+i. Design – Create design for a project as specified in the contracting process
+through competitive bid, collaborative bid, unsolicited bid, citizen-proposed bid or
+schedule contracting.
+ii. Build – Provide a plan and complete construction of an approved design as
+specified, within an agreed time-frame. The builder shall have the capability, in all
+respects, to perform fully the contract requirements and has the business integrity
+and reliability that will assure good faith performance.
+iii. Finance – Secure and provide financing to build and operate project requested.
+Methods to finance can include government grants, government loans, public debt,
+private debt and private equity. In many projects, there will be a mix of these
+sources. Financing approaches will be considered as part of the evaluation
+process. This will occur on a case-by-case basis, but generally CIT will be
+concerned with the value for money, financial return, financial capability and
+capacity of the bidder.
+iv. Operate – Assume responsibility to manage and staff an asset for a defined
+period, according to project specifications. Operational performance will be subject
+to review at regular intervals and on an ad-hoc basis.
+v. Maintain - Assume responsibility to maintain and support an asset for a defined
+period, according to project specifications. Maintenance performance will be
+subject to review at regular intervals and on an ad-hoc basis.
+b. Additional Relevant Terms
+i. Availability Payment – Compensation made by CIT to a private concessionaire
+for its responsibility to design, construct, operate, and/or maintain an asset for a set
+period of time, based upon particular project milestones or facility performance
+standards.
+
+Version 2.0   February 24, 2014
+
+4
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ii. Best Price – The proposal that provides the lowest price to fulfill the requirements
+as predetermined by the RFP.
+iii. Best Value - The overall combination of quality, price and various elements of the
+required services that, in total, are optimal relative to CIT’s needs, as
+predetermined in the RFP.
+iv. Contract – The written agreement between CIT and a vendor for the provision of
+goods and/or services to CIT by that vendor.
+v. Evaluation Team – The board of directors and management personnel of CIT,
+plus any additional third-party experts or advisors CIT deems necessary, to
+evaluate proposals including RFI/RFQ/RFP, unsolicited bids, collaborative bids,
+bids from citizens or schedule bids. The evaluation team may vary by project
+depending upon the expertise required for evaluation.
+vi. “Offeror” (also referred to as Bidder) - any individual, partnership, corporation,
+or joint venture that formally responds to a Request for Information (RFI), Request
+for Qualifications (RFQ) or Request for Proposal (RPF). It also refers to suppliers
+who submit unsolicited proposals, participate in collaborative proposals or submit
+qualifications to be a schedule supplier. Offeror or bidder can include any
+company, firm, partnership, corporation, association, joint venture, or other entity
+permitted by law to practice engineering, architecture, construction contracting, or
+other services required in the City of Chicago. Any company, firm, partnership,
+corporation, joint venture or other entity that is barred or ineligible to perform the
+services required in the City of Chicago will be excluded. Typically, the term
+offeror (or bidder) is used prior to the award of a contract.
+vii. Private Entity (also referred to as a Contractor) – The private interest involved
+in P3 contracting that partners with CIT to implement a project.
+viii. Request for Information (RFI) – A solicitation sent to potential suppliers for the
+purpose of securing feedback, developing strategy, building a database and
+understanding potential project approaches based on the suppliers’ expertise.
+While it is part of the competitive contracting process, it does not lead directly to
+contracting, which is done based on a follow-up RFP or RFQ.
+
+Version 2.0   February 24, 2014
+
+5
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ix. Request for Proposals (RFP) – A solicitation to identify a preferred bidder to
+implement a new project. This can include any or all phases of the project:
+design, build, finance, operate and maintain. Bidders should expect to furnish
+evidence of their experience and ability to meet CIT’s requirements along with a
+proposed price when responding to an RFP. This is because CIT is as concerned
+with the Bidder’s capability as with its proposed price.
+x. Request for Qualifications (RFQ) – A solicitation released to obtain qualifications
+that will identify best-qualified bidders that possess a technical expertise in specific
+disciplines, financial capacity, financing capability and operating capability. RFQs
+differ from RFPs in that pricing information is not requested. Often, an RFQ will be
+issued to identify a set of potential bidders to receive an RFP.
+xi. Sister Agencies – A group of agencies that serve the people of the City of
+Chicago but subject to approval by the Chicago City Council, including: Chicago
+Public Schools (CPS); Chicago Housing Authority (CHA); Chicago Park District
+(CPD); Chicago Transit Authority (CTA); City Colleges of Chicago (CCC);
+Metropolitan Pier & Exposition Authority (MPEA); Metropolitan Water Reclamation
+District of Greater Chicago (MWRDGC) and Public Building Commission (PBC).
+xii. Special Purpose Entity (SPE) – Any one or more companies, firms, partnerships,
+corporations, joint ventures or other entities created or used for the express
+purpose of completing a project. They may be multi-disciplinary in nature to
+provide expertise for all required phases of a project. An SPE may be created in
+order to execute a contract with CIT or with a bidder.
+
+xiii. Value for Money – The process of developing and comparing total project costs
+when considering traditional contracting vs. alternative contracting such as a P3.
+Value for money exists when the risk-adjusted costs of alternative contracting are
+less than the risk-adjusted costs of traditional contracting.
+
+Version 2.0   February 24, 2014
+
+6
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+II.
+
+Best Practices Concepts
+CIT will structure each project to meet the specific needs of the people of the City of Chicago
+for successful completion. In general, projects will typically reflect a set of key best practices
+for Public-Private Partnerships:
+a. Stakeholder Alignment – CIT will secure alignment among stakeholders from all
+relevant departments and agencies of the City of Chicago and the Chicago City Council.
+This will create stability in the contracting process and provide assurance to participants
+of the commitment to projects for which bid requests are released. Approval of terms of
+final bids may be subject to approval of the Chicago City Council or other Agency boards
+or Commissions, prior to contracting.
+b. Duration – Agreements will typically run for 20 – 40 years, to enable building of realistic
+financial models.
+c. Shared Revenue Streams – To create a true partnership between public and private
+entities, agreements may be designed to create mutual on-going interest through shared
+revenue streams.
+d. Asset Ownership – CIT or City will typically retain ownership of underlying assets (e.g.,
+real estate, roads, right-of-ways) even when procuring long-term operating and
+maintenance.
+e. Shared Risk and Risk Allocation – Risks associated with the project will be allocated
+between the public and private sectors based upon the party best able to manage and
+mitigate them. Shared risk is a cornerstone of alternative contracting models.
+f.
+
+Risk Transfer - As the private entity assumes a greater share of responsibility via project
+requirements, the private entity assumes a greater share of the risk. The table below
+describes the range of potential project requirements and the associated degree of risk
+transfer.
+
+Version 2.0   February 24, 2014
+
+7
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Figure 2.0 Project Requirements and Risk Transfer
+
+Risk
+Transfer
+
+100%
+Public
+
+Project Requirements
+
+Design – Build
+
+Design – Build with
+Operating Contract
+
+Description
+
+
+
+
+Traditional contracting
+Government contracts for the design and
+construction of assets directly
+
+
+
+
+Mix of interim and completion payments
+Government to manage and operate assets
+
+
+
+Traditional contracting with an operating
+contract with private sector for operating the
+assets post construction
+Often operating contract includes a payment
+penalty mechanism to ensure performance
+
+
+
+
+Trust contracts with private developer to
+deliver newly constructed assets
+
+
+
+Payment at completion or paid over time as
+lease
+Government to manage and operate assets
+
+Design – Build – Finance
+
+
+
+Design – Build – Finance
+– Operate – Maintain
+
+
+
+
+
+100%
+Private
+
+Asset Sale/Full
+Privatization
+
+Version 2.0   February 24, 2014
+
+
+
+Trust contracts with private developer to
+deliver newly constructed assets and operate
+under a long-term “concession” agreement
+Government and/or Trust can (a) pay fixed
+“availability payments” quarterly or (b) grant
+rights to the Private Developer to collect fees
+or tolls
+20-year+ operating period post-construction
+Government and/or Trust sells constructed
+assets to Private sector
+Government and/or Trust may retain some
+monitoring and enforcement rights
+
+8
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+g. Full Scale Projects vs. Demonstration Projects – CIT will target full-scale projects for
+competitive bids as opposed to demonstration projects.
+i. Full-scale projects demonstrate a more significant commitment on behalf of CIT
+and the City of Chicago than demonstration projects
+ii. Consequently, they present the greatest opportunity to attract the strongest interest
+from private partners who respond to RFIs/RFQs/RFPs. This will maximize
+competition within the private sector and provide the most advantageous terms to
+the people of the City of Chicago.
+h. Evaluation Based on Short-term and Long-term Factors – CIT will consider a range
+of short-term and long-term factors when evaluating project approaches and bids, to
+ensure that completed projects best serve the needs of the people of the City of Chicago.
+These will be discussed in greater detail in Section VII, Proposal Evaluation. In general
+they include:
+i. Financial
+ii. Technical
+iii. Timeline
+iv. Experience
+v. Appropriateness of Recommended Approach
+
+Version 2.0   February 24, 2014
+
+9
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+III.
+
+Initial Programs and Project Selection
+a. Initial Programs - The broad mandate for CIT is to provide alternative, innovative
+financing and project delivery for transformative infrastructure projects of all types –
+including but not limited to renewable energy, transportation, utilities, social or cultural
+facilities, government facilities, educational facilities, water, waste management, real
+property, telecommunications, etc.
+Over time, CIT anticipates working on projects
+across the infrastructure spectrum; however, in order to focus its early efforts, CIT has
+prioritized the following initial program areas:
+
+
+Energy: Leverage energy technologies, systems or programs to provide more
+cost effective and environmentally friendly energy or reduce energy consumption.
+
+
+
+Transportation: Facilitate cost-effective renewal or expansion of transportation
+infrastructure to provide better service at a lower cost and reduce congestion.
+
+
+
+Underutilized Property: Repurpose underutilized city assets (land, improved
+properties, rooftops, right-of-ways, etc.) to their highest and best use to reduce
+cost and increase revenue.
+
+At all times, CIT is open to exploring infrastructure projects of all types or receiving
+unsolicited proposals related to any infrastructure project that aligns with its mandate.
+b. Project Selection - CIT will identify projects from a range of sources: its own research
+about emerging technologies and best practices; City of Chicago and Sister Agency
+operational goals, infrastructure needs and capital budget constraints; and input from
+potential investors, citizens, public interest groups and other potential users. Both
+greenfield and brownfield projects, defined as follows, will be considered:
+
+
+Brownfield Projects: Existing assets or structure that require improvements,
+repairs or expansion and may be partially operational or generating income.
+
+
+
+Greenfield Projects: Assets or structures that need to designed and constructed
+where no infrastructure improvements exist.
+
+Version 2.0   February 24, 2014
+
+10
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+Figure 3.0 Example Projects
+
+PROGRAMS
+
+Energy
+
+Greenfield
+
+Brownfield
+
+
+
+Vehicle Fuel
+Conversion
+
+
+
+Renewable Energy
+Programs (e.g.
+wind, solar,
+geothermal)
+
+
+
+Property Assessed
+Clean Energy
+(PACE)
+
+
+
+Energy Retrofit
+
+Property
+Utilization
+
+
+
+
+
+Develop vacant
+property (market
+uses, affordable
+housing, urban
+agriculture)
+Repurpose assets
+or portions of
+assets to higher
+use
+
+
+
+Rationalize city
+owned properties
+
+
+
+Air rights
+development
+
+Transportation
+
+
+
+New transit modes
+(e.g. Bus Rapid
+Transit)
+
+
+
+Link transportation
+modes
+
+
+
+Station
+redevelopment /
+Transit Oriented
+Development
+
+
+
+Rehabilitate or
+expand existing
+transit
+
+Other /
+Opportunistic
+
+
+
+Tourism projects
+(attractions,
+amenities,
+services)
+
+
+
+Telecom
+infrastructure
+
+
+
+Water or
+wastewater
+renewal or
+expansion
+
+CIT will maintain a pipeline of potential projects in different phases of pre-procurement that
+will be prioritized based on their economic and social impact and their feasibility. As part of
+the pre-procurement process, CIT will engage the appropriate stakeholders and subject
+matter experts in the evaluation and development of the project business case and
+procurement approach. In all cases, CIT will endeavor to obtain the government preapprovals relevant to a given transaction that will increase project certainty for private sector
+participants before the CIT project contracting process is initiated. A high-level overview of
+
+Version 2.0   February 24, 2014
+
+11
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+this pre-approval process for projects that involve assets, rights, permissions and liabilities of
+the City of Chicago is outlined as follows:
+
+CIT Contracting
+Process
+
+Figure 3.1 Pre-Approval Process for City Projects
+
+Version 2.0   February 24, 2014
+
+12
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+IV.
+
+Conflicts of Interest
+a. CIT’s consideration of potential conflicts issues will be managed in accordance with its
+Conflicts of Interest Policy.
+b. CIT reserves the right, in its sole discretion, to make determinations relative to
+potential conflicts of interest on a project specific basis.
+c. CIT may, in its sole discretion, determine that a conflict of interest or a real or
+perceived competitive advantage may be mitigated by disclosing all or a portion of
+the work product produced by the organization or individual subject to the conflict.
+
+Version 2.0   February 24, 2014
+
+13
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+V.
+
+Project Advertisement/Announcement
+d. CIT will publish submission
+www.ShapeChicago.org
+
+requests
+
+on
+
+its
+
+public
+
+internet
+
+web
+
+site,
+
+e.
+
+The project advertisement will state a general description of the work and any technical
+qualifications desired, and the time frames for submitting a response to the solicitation.
+
+f.
+
+The duration of the proposal development period will be based on the project deadlines
+and level of complexity of the project (when allowed by the project schedule).
+
+g. CIT may waive or alter a contractor’s pre-qualification requirements based on any
+specialized nature of the project.
+
+h. CIT has the right to contact potential bidders directly in addition to publishing submission
+requests. Contacting potential bidders directly will not indicate preference in the review
+process.
+
+Version 2.0   February 24, 2014
+
+14
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+VI.
+
+Proposal Selection Process
+
+a.
+
+Solicited Proposals - Solicited proposals will be evaluated as part of an additional bidding
+process.
+i.
+
+Request for Information (RFI) – CIT will issue RFIs for specific projects publicly via its
+website (www.ShapeChicago.org) and reserves the right to contact potential suppliers
+directly with an RFI concurrent with public release. The RFI will include project
+objectives and provide evaluation criteria, and will request feedback, project strategy and
+understanding potential project approaches based on the suppliers’ expertise. CIT will
+not issue contracts based on RFI responses, but will instead generally follow the RFI
+responses with an RFQ or RFP. Based on RFI responses, CIT has the discretion to:
+1. Provide follow-up questions orally or in writing to all of the potential
+suppliers who submit an RFI response or with a subset of the potential
+suppliers;
+2. Issue an open RFQ or RFP to all potential suppliers whether or not they
+have submitted an RFI response;
+3. Issue an RFP only to a subset of bidders who have submitted an RFI
+response;
+4. Suspend the project;
+5. Permanently cancel the project;
+6. Reissue the RFI at a later time.
+
+ii. Request for Qualification (RFQ) – CIT will release RFQs for specific projects publicly
+via its website (www.ShapeChicago.org), and reserves the right to contact potential
+bidders directly with an RFQ concurrent with public release. The evaluation criteria for
+a project will be published in the RFQ. The criteria will be consistent with the
+qualifications requested and will include a description of CIT’s project understanding,
+
+Version 2.0   February 24, 2014
+
+15
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+management approach and organizational structure; demonstration of applicable
+experience, manpower and equipment resources; experience in obtaining permits,
+obtaining right-of-way and successfully completing similar projects; and financial
+capability and capacity to complete the work. Based on RFQ responses, CIT has the
+discretion to:
+1. Provide follow-up questions orally or in writing to all of the potential bidders
+who submit an RFQ response or with a subset of the potential bidders;
+2. Proceed to an RFP with all bidders who submit an RFQ response, or with a
+subset of potential bidders;
+3. Suspend the project;
+4. Permanently cancel the project;
+5. Reissue the RFQ at a later time.
+iii.
+
+b.
+
+Request for Proposal (RFP) – CIT will issue RFPs to all bidders, or to a subset of
+all bidders, who respond to an RFQ. The basis of award will be clearly defined in the
+RFP.
+The RFP will also define proposal requirements, including technical
+requirements and evaluation criteria.
+The evaluation process will consider
+understanding of the project, applicable experience, anticipated complex problems
+and the solutions to those problems. Thoroughness and quality will also be
+considered.
+
+Pre-Development Proposals - CIT may enter into a pre-development agreement when a
+project is not completely defined; financial feasibility has not been determined, but looks
+financeable on a preliminary basis; or CIT is seeking private sector innovation and expertise
+in accelerating an optimally feasible project.
+1. The private partner participates in project planning and design and
+prepares the master financial plan and master development plan.
+2. The private partner absorbs initial phase work – “sweat equity.”
+
+Version 2.0   February 24, 2014
+
+16
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+3. If project proves feasible, the private partner may deliver an unsolicited bid
+or participate in a collaborative bid covering implementation.
+c.
+
+Unsolicited Proposals - Unsolicited proposals originate within the private sector. Private
+entities or individuals may choose to submit proposals to CIT when no RFI/RFQ/RFP has
+been issued. Unsolicited proposals may result from the identification by the private sector of
+an infrastructure need that may be met by a privately financed project. They may also involve
+innovative proposals for infrastructure management.
+Once an unsolicited proposal has been received, CIT will undertake a process of due
+diligence to determine if the proposal presents a clear public value and conforms to an
+appropriate project type for CIT to pursue. If it is determined that the unsolicited proposal
+does not meet the requisite criteria the Trust has the discretion to reject the proposal and will
+formally notify the submitter. Any unsolicited proposal that meets the requisite criteria will be
+evaluated by CIT staff to determine if (i) such proposal should be routed into a transparent,
+open process where challengers will have a chance to participate in making a competing
+proposal and may be selected over the submitter or (ii) due to the sensitive and/or
+proprietary nature of the proposal, such proposal should advance to the negotiation stage
+with the submitting party without being subjected to open bidding. Furthermore, CIT staff
+may submit unsolicited proposals, on a case by case basis, to the Board of Directors.
+CIT views the unsolicited proposal process as an important methodology for engaging the
+private sector and for encouraging private entities to bring forward innovative approaches or
+ideas. In order to encourage unsolicited proposals, private entities submitting unsolicited
+proposals to CIT will receive:
+1. A prompt response that includes evaluation of and feedback on the
+proposal by CIT staff;
+2. An initial opportunity to resubmit a refined proposal before it is presented to
+the Board of Directors;
+3. A commitment from CIT that, should it be in the best interests of the City
+and its taxpayers not to subject any such proposal to open bidding, such
+proposal will be excluded from any additional bidding process;
+
+Version 2.0   February 24, 2014
+
+17
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+4. A second opportunity to resubmit a further refined proposal as part of the
+open bidding process, if any;
+5. A guarantee that the submitting party will be included in the final bidding
+round as part of any open bidding process; and
+
+6. An assurance that confidential or proprietary information submitted by the
+proposer will be treated as such.
+Public Requests for CIT Project Ideas: CIT will on occasion announce on www.ShapeChicago.org,
+as well as in public meetings and other venues, a project idea. In such instances, it will be made
+clear that CIT has identified a project concept that is still being explored. Instead of formally issuing
+an RFI or an RFP, CIT will encourage interested parties to submit proposals. Responsive proposals
+for project ideas will need to react to the basic project concept outlined by CIT, but submitters will
+have the latitude to innovate and further define the specifics for the potential project. Such proposals
+for project ideas will be treated in the same manner as any other type of unsolicited proposal.
+
+Stage 1: Unsolicited Proposals Evaluation
+Version 2.0   February 24, 2014
+
+18
+
+ Propone
+Proponen
+Propone
+Propone
+
+CHICAGO INFRASTRUCTURE TRUST
+
+Ministry/
+Agency
+Ministry/
+Ministry/Agency
+Agency
+Ministry/
+Agency
+
+Time
+Time
+Time
+Time
+In-depth
+In-depth
+analysis
+analysis
+In-depth
+analysis
+In-depth
+analysis
+
+Preliminary
+Preliminary
+Preliminary
+Preliminary
+assessment
+assessment
+assessment
+assessment
+
+Contracting Manual
+
+Preparation
+Preparation
+ofof
+ofof
+bidding
+bidding
+Preparation
+bidding
+Preparation
+bidding
+documents
+documents
+documents
+documents
+
+Call
+Call
+for
+Callfor
+for
+Call
+for
+
+Public
+Public
+Public Proposals
+Figure2.1:
+2.1:Approval
+ApprovalSteps
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+Figure
+Stepsfor
+forUnsolicited
+Unsolicited
+Proposals(Stage
+(Stage1)1)1)
+Public
+announcement
+announcement
+Declarationofof“public
+“public
+Declaration
+announcement
+Declarationofof“public
+“public
+announcement
+Declaration
+interest”;
+additional
+interest”;
+interest”;additional
+additional
+interest”;
+additional
+information
+ororstudies
+studies
+information
+informationoror
+studies
+information
+studies
+requested
+requested
+requested
+requested
+
+Proposal
+Proposal
+Proposal
+Proposal
+
+accepted
+accepted
+accepted
+accepted
+Approval Process
+Process For
+For Unsolicited
+Unsolicited
+Proposal
+(Stage
+1)
+Approval
+1)
+UnsolicitedProposal
+Proposal(Stage
+(Stage
+1)orororor
+rejected
+rejected
+rejected
+rejected
+
+Proponent
+Proponent
+Proponent
+
+Unsolicited
+Unsolicited
+Unsolicited
+
+Unsolicited
+Unsolicited
+proposal
+proposal
+proposal
+Unsolicited
+Unsolicited
+Unsolicited
+proposal
+Unsolicited
+completedproposal
+Detailed
+Detailed
+studiescompleted
+Detailedstudies
+studies
+completed
+proposal
+proposal
+presented
+toto
+presented
+Proposalto
+Proposal
+presented
+to
+proposal
+presented
+to
+Proposal
+presented
+presented
+to
+presented
+to
+government
+government
+Submitted
+to
+Submitted
+to
+government
+government
+presented
+to
+Submitted
+to
+government
+government
+government
+Trust
+Trust
+government
+Trust
+In-depthanalysis
+analysis
+In-depth
+In-depth
+analysis
+
+Declaration
+Declaration
+“public
+Declarationofof
+of“public
+“public
+interest”;
+interest”;
+additional
+interest”;additional
+additional
+information
+information
+studies
+informationoror
+orstudies
+studies
+requested
+requested
+requested
+
+Preliminary
+Preliminary
+Preliminary
+Preliminary
+Preliminary
+Preliminary
+assessment
+assessment
+Preliminary
+assessment
+assessment
+Preliminary
+assessment
+assessment
+assessment
+assessment
+
+Stage111
+Stage
+Stage
+
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+bond
+Bid
+Bidbond
+bond
+submission
+submission
+submission
+Bid
+bond
+submission
+submission
+submission
+submission
+submission
+submission
+submission
+submission
+
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+
+Complete
+Complete
+Complete
+proposal
+proposal
+proposal
+proposal
+Complete
+proposal
+proposal
+proposal
+proposal
+Time
+Time
+Time submission
+Time
+proposal
+proposal
+proposal
+submission
+submission
+submission
+submission
+proposal
+submission
+submission
+
+Stage
+Stage
+1111
+Stage
+Stage
+
+submission
+Detailed
+studies
+completed
+Detailed
+studies
+Detailed
+studiescompleted
+completed
+submission
+submission
+submission
+Detailed
+studies
+completed
+submission
+
+Time
+Time
+Time
+
+Preparation
+of
+bidding
+Preparation
+bidding
+Preparationofof
+ofSource:
+bidding Authors.
+Source:
+Authors.
+Source:
+Authors.
+Preparation
+bidding
+Source:
+Authors.
+documents
+documents
+documents
+
+documents
+Detailed
+studies
+completed
+Detailed
+studies
+completed
+studies
+completed
+Detailed
+studies
+completed
+Detailed
+Detailed
+studies
+completed
+Detailed
+studies
+completed
+Detailed
+studies
+completed
+Stage
+2:
+Tendering
+Unsolicited
+Proposals
+Stage
+Stage2:
+2:Tendering
+TenderingUnsolicited
+UnsolicitedProposals
+Proposals
+Detailed
+studies
+completed
+Detailed
+Detailed
+studiescompleted
+completed
+Stage
+2:
+Tendering
+Unsolicited
+Proposals
+Detailedstudies
+studies
+completed
+
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+
+Time
+Time
+In-depth
+analysis
+Preliminary
+Preparation
+ofofbidding
+bidding
+In-depth
+Preliminary
+Preparation
+In-depthanalysis
+analysis Time
+Preliminary
+Preparationofof
+bidding
+Time
+In-depth
+analysis
+Preliminary
+Preparation
+bidding
+Call
+for
+Call
+for
+Call
+for
+If
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+Call
+for
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+documents
+assessment
+Ifaccepted,
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+documents
+assessment
+documents
+assessmentIfpublic
+In-depth
+analysis
+Preparation
+of
+bidding
+In-depth
+analysis
+Preparation
+of
+bidding
+In-depth
+analysis
+Preparation
+of
+bidding
+If
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+documents
+assessment
+In-depth
+analysis
+Preparation
+of
+bidding
+In-depth
+analysis
+Preparation
+of
+bidding
+In-depth
+analysis
+Preparation
+Preparation
+of
+transaction
+bidding
+Preparation
+ofofof
+transaction
+In-depth
+analysis
+Preparation
+of
+bidding
+Preparation
+of
+transaction
+In-depth
+analysis
+Preparation
+bidding
+Preparation
+transaction
+public
+
+Proposal
+Proposal
+Proposal
+Proposal
+accepted
+or
+accepted
+acceptedoror
+or
+accepted
+rejected
+rejected
+rejected
+rejected
+
+Ministry/ Agency
+Agency
+Ministry/
+Ministry/
+Agency
+
+Preliminary
+Preliminary
+Preliminary
+Preliminary
+assessment
+assessment
+assessment
+assessment
+
+Call
+Call
+for
+for
+Call
+for
+Call
+for
+public
+public
+public
+public
+tender
+tender
+tender
+tender
+
+Unsolicited
+Unsolicited
+Unsolicited
+Unsolicited
+Figure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Figure
+2.1:
+Approval
+Steps
+for
+Proposals
+1)
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Figure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Figure
+Proposals
+(Stage
+1)
+Bid
+bond
+Complete
+forUnsolicited
+Unsolicited
+Bid
+Proposals
+bond
+(Stage
+1) Complete
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Bid
+bond (Stage
+Complete
+proposal
+proposal
+proposal
+Figure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Complete
+Bid
+bond
+Bid
+Complete
+Bid
+bond Figure
+proposal
+Bidbond
+bond
+Complete
+Figure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+Unsolicited
+Proposals
+(Stage
+1) Complete
+Figure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+proposal
+submission
+proposal
+submission
+submission
+proposal
+submission
+proposal
+submission
+proposal
+submission
+proposal
+presented
+to
+presented
+to
+presented
+to
+submission
+proposal
+presented to
+submission
+submission
+submission
+submission
+submission
+submission
+government
+government
+government
+submission
+government
+Unsolicited
+Unsolicited
+Proponent
+Proponent
+Proponent
+Proponent
+Proponent
+Proponent
+Proponent
+Proponent
+Proponent
+Unsolicited
+Submitter
+Unsolicited
+Submitter
+Unsolicited
+Submitter
+
+Unsolicited
+Unsolicited
+Unsolicited
+Unsolicited
+proposal
+proposal
+proposal
+proposal
+presentedtoto
+presented
+presented
+presented
+to
+government
+government
+government
+government
+
+Ministry/
+Agency
+Ministry/
+Agency
+Ministry/
+Agency
+Ministry/
+Agency
+Ministry/
+Agency
+Ministry/
+Agency
+Ministry/
+Agency
+Infrastructure
+Trust
+Ministry/
+Agency
+Infrastructure
+Trust
+Infrastructure
+Trust
+
+Proponent
+Proponent
+Proponent
+
+proposal
+proposal
+proposal
+proposal
+submission
+submission
+submission
+submission
+
+Detailed
+studies
+completed
+Detailed
+Detailedstudies
+studiescompleted
+completed
+Detailed
+studies
+completed
+
+Figure
+4.0 Process
+igure
+2.1:Approval
+ApprovalSteps
+Stepsfor
+forUnsolicited
+Unsolicited
+Proposals
+(Stage1)
+1)Overview
+gure
+Proposals
+(Stage
+gure 2.1:
+igure
+2.1:
+Approval
+Steps
+for
+Unsolicited
+Proposals
+(Stage
+1)
+
+Ministry/Agency
+Agency
+Ministry/
+Agency
+Ministry/
+
+submission
+submission
+submission
+submission
+
+presented
+presented
+to
+presentedtoto
+to
+presented
+government
+government
+government
+government
+
+Declaration
+of
+“public
+Declaration
+of
+“public
+Declaration
+of
+“public
+Declaration
+of
+“public
+Declaration
+of
+“public
+Declaration
+of
+“public
+Declaration
+of
+“public
+interest”;
+additional
+interest”;
+additional
+Declaration
+of
+“public
+Declaration
+of
+Declaration
+of“public
+“public
+interest”;
+additional
+additional
+additional
+interest”;
+additional
+Declaration
+of
+“public
+interest”;
+additional
+or
+studies
+information
+or
+studies
+interest”;additional
+additional
+interest”;
+additional
+information
+or
+studies
+information
+or
+studies
+information
+or
+studies
+information
+or
+studies
+interest”;
+additional
+information
+or
+studies
+requested
+requested
+informationor
+or
+studies
+information
+orstudies
+studies
+requested
+requested
+requested
+information
+or
+studies
+requested
+requested
+requested
+requested
+
+public
+public
+In-depth
+analysis
+documents
+Preparation
+of
+bidding
+In-depth
+analysis
+documents
+Preparation
+of
+bidding
+In-depth
+analysis
+documents
+Preparation
+of
+bidding or
+out,
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+ororaaaabest
+best
+and
+final
+offer
+out,
+typically
+one
+three
+bonus,
+Swiss
+challenge,
+out,
+typicallyunder
+under
+oneof
+of
+threesystems:
+systems:
+bonus,
+Swiss
+challenge,
+bestand
+andfinal
+finaloffer
+offer
+documents
+documents
+documents
+In-depth
+analysis
+documents
+Preparation
+of
+bidding
+out,
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+best
+and
+final
+offer
+documents
+documents
+tender
+documents
+tender
+documents
+tender
+documents
+tender
+documents
+documents
+documents
+system.
+documents
+system.
+system.
+system.
+
+Bonus
+System
+Bonus
+BonusSystem
+System
+Bonus
+System
+
+Call
+for
+Call
+for
+Call
+for
+Call
+Call
+for
+Call
+for
+Call
+forfor
+Call
+for
+Call
+for
+Call
+Callfor
+for
+Call
+for
+Call
+for
+public
+public
+public
+Call
+for
+Call
+for
+Call
+for
+public
+public
+public
+public
+public
+Call
+for
+public
+public
+public
+The
+governments
+of
+Chile
+and
+Korea
+use
+a
+system
+to
+promote
+unsolicited
+proposals
+that
+The
+governments
+of
+Chile
+and
+Korea
+use
+a
+system
+to
+promote
+unsolicited
+proposals
+that
+The
+governments
+of
+Chile
+and
+Korea
+use
+a
+system
+to
+promote
+unsolicited
+proposals
+that
+public
+tender
+The governments of Chile and Korea use a system totender
+promote
+unsolicited proposals that
+tender
+public
+public
+public
+tender
+tender
+tender
+tender
+public
+tender
+announcement
+Proposal
+Declaration
+ofof“public
+“public
+Proposal
+Declaration
+of
+Proposal
+Declaration
+“public
+Proposal
+Proposal
+Proposal
+Proposal
+awards
+bonus
+in
+the
+formalized
+bidding
+procedure
+toto
+the
+original
+project
+proponent.
+tender
+tender
+awards
+inin
+bidding
+the
+awardsaaaabonus
+bonus
+inthe
+theformalized
+formalized
+biddingprocedure
+proceduretoto
+theoriginal
+originalproject
+projectproponent.
+proponent.
+Proposal
+tender
+tender
+tender
+tender
+awards
+bonus
+the
+formalized
+bidding
+procedure
+the
+original
+project
+proponent.
+tender
+accepted
+or
+accepted
+or
+accepted
+or
+Proposal
+Proposal
+Proposal
+accepted
+or
+accepted
+or
+accepted
+or
+Proposal
+Proposal
+accepted
+or
+Proposal
+interest”;
+additional
+interest”;
+additional
+interest”;
+additional
+accepted
+or
+Proposal
+This
+bonus
+can
+take
+many
+forms,
+but
+most
+commonly
+it
+is
+an
+additional
+theoretical
+value
+This
+can
+but
+most
+commonly
+it
+is
+an
+additional
+theoretical
+value
+Thisbonus
+bonus
+cantake
+takemany
+manyforms,
+forms,
+but
+most
+commonly
+it
+is
+an
+additional
+theoretical
+value
+This
+bonus
+can
+take
+many
+forms,
+but
+most
+commonly
+it
+is
+an
+additional
+theoretical
+value
+rejected
+rejected
+rejected
+accepted
+or
+accepted
+acceptedor
+or
+rejected
+rejected
+rejected
+rejected
+accepted
+or
+rejected
+accepted
+or
+accepted
+or purposes
+information
+or
+studies
+information
+or
+applied
+to
+the
+original
+proponent’s
+technical
+or
+financial
+offer
+for
+bidding
+purposes
+only.
+information
+orstudies
+studies
+applied
+original
+technical
+or
+for
+appliedtoto
+tothe
+the
+originalproponent’s
+proponent’s
+technical
+orfinancial
+financialoffer
+offer
+accepted
+forbidding
+or
+bidding
+purposesonly.
+only.
+applied
+the
+original
+proponent’s
+technical
+or
+financial
+offer
+for
+bidding
+purposes
+only.
+rejected
+rejected
+rejected
+rejected
+
+rejected
+rejected
+In
+these
+cases,
+the
+original
+proponent’s
+offer
+isisselected
+selected
+ififititititisis
+isiswithin
+within
+stipulated
+In
+ifif
+In these
+these cases,
+cases,the
+theoriginal
+originalproponent’s
+proponent’soffer
+offerisis
+selected
+withinaaaastipulated
+stipulated
+requested
+requested
+requested
+rejected
+In
+these
+cases,
+the
+original
+proponent’s
+offer
+selected
+within
+stipulated
+percentage
+of
+the
+best
+offer
+ininthe
+the
+competitive
+process.
+InInother
+other
+cases,
+the
+bonus
+percentage
+percentage of
+of the
+the best
+best offer
+offerinin
+thecompetitive
+competitiveprocess.
+process.In
+othercases,
+cases,the
+thebonus
+bonus
+percentage
+of
+the
+best
+offer
+the
+competitive
+process.
+In
+other
+cases,
+the
+bonus
+1111
+11
+11
+translates
+into
+additional
+points
+ininthe
+the
+total
+score
+when
+evaluating
+the
+proposal.
+translates
+translatesinto
+intoadditional
+additionalpoints
+pointsinin
+thetotal
+totalscore
+scorewhen
+whenevaluating
+evaluatingthe
+theproposal.
+proposal.
+translates
+into
+additional
+points
+the
+total
+score
+when
+evaluating
+the
+proposal.
+
+urce: Authors.
+ource:
+Authors.
+
+tage
+Proposals
+age
+age2:
+2:Tendering
+TenderingUnsolicited
+UnsolicitedProposals
+
+Stage
+Stage
+Stage
+11111111
+Stage
+Stage
+Stage
+Stage
+Stage
+Stage
+Stage
+Stage
+Stage1111
+Stage22where
+whereaacompetitive
+competitive
+process
+will
+be
+carried
+accepted,
+accepted, the
+the project
+projectmoves
+moveson
+ontotoStage
+competitiveprocess
+processwill
+willbe
+be
+carried
+carried
+means
+the
+original
+proponent
+received
+20–40
+points
+more
+than
+third
+party.
+Furthermore,
+when
+anan
+original
+meansthe
+theoriginal
+originalproponent
+proponentreceived
+received20–40
+20–40points
+pointsmore
+morethan
+thanaaathird
+athird
+thirdparty.
+party.Furthermore,
+Furthermore,
+when
+original
+means
+when
+an
+original
+means
+the
+original
+proponent
+received
+20–40
+points
+more
+than
+party.
+Furthermore,
+when
+an
+original
+bonus,Swiss
+Swisschallenge,
+challenge,
+best
+and
+final
+offer
+ut,
+t, typically
+typically under
+underone
+oneof
+ofthree
+threesystems:
+systems:bonus,
+challenge,oror
+oraaabest
+bestand
+andfinal
+final
+offer
+offersubmits
+proponent
+submits
+modified
+proposal
+ininthe
+the
+process
+ofofinviting
+inviting
+alternative
+proposals,
+then
+looses
+the
+right
+proponent
+proponent
+submitsaaaamodified
+modifiedproposal
+proposalinin
+theprocess
+processofof
+invitingalternative
+alternativeproposals,
+proposals,
+then
+then
+itititlooses
+itlooses
+looses
+the
+the
+right
+right
+proponent
+submits
+modified
+proposal
+the
+process
+inviting
+alternative
+proposals,
+then
+the
+right
+stem.
+stem.
+to
+receive
+the
+bonus
+points.
+toreceive
+receivethe
+thebonus
+bonuspoints.
+points.
+toto
+ystem.
+Stage
+Stage111
+Stage
+receive
+the
+bonus
+points.
+Source:
+Source:
+Authors.
+Source:Authors.
+Source:
+Authors.
+11
+1111
+11In
+In
+Korea,
+bonus
+points
+awarded
+have
+been
+within
+0–4
+percent
+out
+ofofaaatotal
+total
+1,000
+evaluation
+points,
+which
+InKorea,
+Korea,bonus
+bonuspoints
+pointsawarded
+awardedhave
+havebeen
+beenwithin
+within0–4
+0–4percent
+percentout
+outofof
+atotal
+total1,000
+1,000
+evaluation
+evaluation
+points,
+points,
+which
+which
+In
+Korea,
+bonus
+points
+awarded
+have
+been
+within
+0–4
+percent
+out
+1,000
+evaluation
+points,
+which
+
+Source: Authors.
+777
+Authors.
+Source:Authors.
+Source:
+onusSystem
+System
+onus
+Stage
+2:
+Tendering
+Unsolicited
+Proposals
+Proposals
+Stage
+2:2:ATendering
+Unsolicited
+Proposals that approaches CIT with an unsolicited proposal
+Stage
+Unsolicited
+Stage1:
+Tendering
+Unsolicited
+Proposals
+Step
+company Unsolicited
+or
+group of Proposals
+companies
+2:Tendering
+TenderingUnsolicited
+UnsolicitedProposals
+Proposals
+Stage2:
+Proposals
+Stage
+private
+infrastructure
+development
+shall be requested to submit an initial proposal
+he
+governments of
+of Chile
+Chile and
+promote
+unsolicitedproposals
+proposals
+that
+e governments
+system
+totopromote
+unsolicited
+that
+and Korea
+Korea use
+use aafor
+system
+promote
+unsolicited
+proposals
+that
+accepted,
+the
+project
+moves
+on
+to
+Stage
+aaacompetitive
+process
+will
+be
+carried
+If
+on
+to
+Stage
+where
+competitive
+process
+will
+be
+carried
+If
+accepted,
+the
+moves
+on
+Stage
+2222where
+aCIT
+be
+carried
+project
+moves
+onto
+to
+Stage
+2where
+where
+acompetitive
+competitive
+process
+will
+be
+carried of
+If
+moves
+competitive
+process
+will
+be
+carried
+wards aa bonus
+bonus inin the
+the formalized
+formalized
+the
+original
+project
+proponent.
+wards
+procedure
+to
+the
+original
+project
+proponent.
+Authors.
+Source:
+Authors.
+Ifbidding
+accepted,
+theproject
+project
+moves
+on
+to
+Stage
+where
+competitive
+process
+will
+be
+carried
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+Source:
+Authors.
+containing
+sufficient
+information
+to
+allow
+to make process
+a
+primawill
+facie
+assessment
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+If
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+If
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2
+where
+a
+competitive
+process
+will
+be
+carried
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+out,
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+out,
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+his
+bonus can
+can take
+takemany
+manyforms,
+forms,but
+an
+additional
+theoretical
+value
+is bonus
+most
+commonly
+ititisisan
+additional
+theoretical
+value
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+out,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+but
+most
+commonly
+an
+additional
+theoretical
+value
+out,
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+whether the conditions for proceeding with the unsolicited proposal are
+met. In
+typically
+or
+financial
+under
+offer
+one
+for
+of
+bidding
+three
+purposes
+systems:
+only.
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+pplied
+the original
+original proponent’s
+proponent’s
+out,
+technical
+bidding
+three
+purposes
+systems:
+only.
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+offer
+plied toto the
+out,
+technical
+typically
+or
+financial
+under
+offer
+one
+for
+of
+bidding
+three
+purposes
+systems:
+only.
+bonus,
+Swiss
+challenge,
+or
+a
+best
+and
+final
+system.
+system.
+system.
+system.particular, whether the proposed project is in the public interest. The initialoffer
+proposal
+Tendering
+UnsolicitedProposals
+Proposals
+Tendering
+Unsolicited
+Stage
+2:within
+Tendering
+Unsolicited
+Proposals
+these cases,
+cases, the
+the original
+original proponent’s
+selectedStage
+within
+stipulated
+these
+ififif ititit isisis2:
+aaa stipulated
+proponent’s
+offer isis selected
+selected
+within
+stipulated
+system.offer
+system.
+ercentage
+of the
+the best
+best offer
+offer ininBonus
+process.
+In
+other
+cases,
+the
+bonus
+rcentage of
+the
+competitive
+process.
+In
+other
+cases,
+the
+bonus
+should
+include,
+the
+following
+information:
+the
+competitive
+process.
+In
+other
+cases,
+the
+bonus
+System
+Bonus
+System
+Bonus
+Bonus System
+11
+11
+anslates
+intoadditional
+additionalpoints
+pointsininthe
+the
+totalscore
+score
+whenevaluating
+evaluatingthe
+the
+proposal.
+theproposal.
+proposal.1111
+nslates into
+total
+when
+System
+Bonus
+Bonus
+System
+project
+moves
+on
+to
+Stage
+2unsolicited
+where
+competitive
+processwill
+willbe
+carried
+IfChile
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2unsolicited
+where
+aaaproposals
+competitive
+process
+IfChile
+accepted,
+the
+project
+moves
+on
+to
+Stage
+2unsolicited
+where
+competitive
+process
+will
+bebecarried
+carried
+1. A of
+statement
+of
+the
+author’s
+previous
+project
+experience
+and
+financial
+governments
+of
+and
+Korea
+use
+to
+promote
+unsolicited
+proposals
+that
+The
+Korea
+use
+system
+to
+promote
+unsolicited
+proposals
+that
+The
+use
+aaaasystem
+to
+promote
+unsolicited
+that
+governments
+of
+Chileand
+andKorea
+Korea
+use
+system
+to
+promote
+proposals
+that
+Thegovernments
+Korea
+use
+asystem
+system
+to
+promote
+proposals
+that
+The
+and
+to
+promote
+proposals
+that
+under
+one
+of
+threetosystems:
+systems:
+bonus,
+Swiss
+challenge,
+or
+bestand
+andfinal
+finaloffer
+offer
+out,
+typically
+under
+one
+of
+three
+bonus,
+Swiss
+challenge,
+or
+aaabest
+out,
+typically
+under
+one
+of
+three
+systems:
+bonus,
+Swiss
+challenge,
+or
+best
+and
+final
+offer
+governments
+of
+Chile
+and
+Korea
+use
+aaprocedure
+system
+to
+promote
+unsolicited
+proposals
+that
+The governments
+andKorea
+Korea
+use
+system
+to
+promote
+unsolicited
+proposals
+that
+awards
+bonus
+in
+the
+formalized
+formalized
+bidding
+bidding
+procedure
+to
+to
+the
+the
+original
+original
+project
+project
+proponent.
+proponent.
+The
+Chile
+and
+use
+aprocedure
+system
+promote
+unsolicited
+proposals
+that
+awards
+aaabonus
+in
+the
+formalized
+bidding
+to
+the
+original
+project
+proponent.
+the
+formalized
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+awards
+to
+the
+original
+project
+proponent.
+awards
+bonusstanding;
+inof
+the
+formalized
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+a
+bonus
+in
+the
+formalized
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+awards
+formalized
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+This
+bonus
+can
+take
+many
+forms,
+forms,
+but
+but
+most
+most
+commonly
+commonly
+it
+it
+is
+is
+an
+an
+additional
+additional
+theoretical
+theoretical
+value
+value
+awards
+a
+bonus
+in
+the
+formalized
+bidding
+procedure
+to
+the
+original
+project
+proponent.
+This
+bonus
+can
+take
+many
+forms,
+but
+most
+commonly
+it
+is
+an
+additional
+theoretical
+value
+In
+Korea,
+Korea,bonus
+bonuspoints
+pointsawarded
+awardedhave
+ofaaatotal
+total
+1,000evaluation
+evaluation
+points,
+which commonly
+nInKorea,
+within
+0–4
+out
+ofof
+1,000
+many
+forms,points,
+butwhich
+most
+commonlyitititisisisan
+anadditional
+additionaltheoretical
+theoreticalvalue
+value
+This
+havebeen
+been
+withinbonus
+0–4percent
+percent
+outtake
+total
+1,000
+evaluation
+points,
+which
+system.
+This
+can
+many
+forms,
+but
+most
+commonly
+an
+additional
+theoretical
+value
+system.
+eans
+eans
+the
+theoriginal
+originalproponent
+proponentreceived
+received20–40
+party.
+Furthermore,
+whenan
+an
+original
+ans the
+points
+more
+than
+aaoriginal
+third
+party.
+Furthermore,
+when
+original
+20–40
+points
+more
+than
+third
+party.
+Furthermore,
+when
+an
+original
+bonus
+to
+the
+can
+original
+take
+many
+proponent’s
+forms,
+but
+technical
+most
+commonly
+or
+financial
+is
+an
+for
+additional
+bidding
+purposes
+theoretical
+only.
+value
+applied
+This
+proponent’s
+forms,
+but
+technical
+mostcommonly
+commonly
+or
+financial
+itoffer
+offer
+is
+an
+for
+additional
+bidding
+purposes
+theoretical
+only.
+value
+applied
+This
+bonus
+to
+the
+can
+take
+many
+proponent’s
+forms,
+but
+technical
+most
+or
+financial
+ititoffer
+is
+an
+for
+additional
+bidding
+purposes
+theoretical
+only.
+value
+proponent’s
+technical
+or
+financial
+offer
+for
+bidding
+purposes
+only.
+applied
+financial
+offer
+for
+bidding
+purposes
+only.
+applied
+to
+the
+original
+proponent’s
+technical
+or
+financial
+offer
+for
+bidding
+purposes
+only.
+oponent
+oponent
+submitsaamodified
+modifiedproposal
+proposalininthe
+alternative
+proposals,then
+thenitof
+looses
+theright
+right
+ponent submits
+alternative
+proposals,
+the
+theprocess
+processofofinviting
+inviting
+alternative
+proposals,
+then
+ititlooses
+looses
+the
+right
+2.
+A
+description
+the
+project
+(type
+of
+project,
+location,
+regional
+impact,
+In
+proponent’s
+offer
+is
+selected
+itit
+within
+aaastipulated
+stipulated
+proponent’s
+technical
+oris
+financial
+offer
+for
+bidding
+only.
+In
+these
+cases,
+the
+proponent’s
+offer
+ifififififif
+itfor
+isisis
+within
+apurposes
+applied
+the
+proponent’s
+technical
+or
+financial
+offer
+bidding
+purposes
+only.
+original
+proponent’s
+offer
+isselected
+selected
+is
+within
+astipulated
+stipulated
+the
+original
+proponent’s
+offer
+is
+selected
+itfor
+within
+apurposes
+applied
+to
+the original
+original
+proponent’s
+technical
+or
+financial
+offer
+bidding
+only.
+In
+these
+cases,
+original
+selected
+is
+within
+stipulated
+In
+theseto
+cases,
+theoriginal
+original
+proponent’s
+offer
+is
+selected
+itit
+is
+within
+stipulated
+receive
+receivethe
+thebonus
+bonuspoints.
+points.
+receive
+System
+Bonus
+System
+Bonus
+System
+proposed
+investment,
+operational
+costs,
+financial
+and
+resources
+percentage
+in
+the
+competitive
+process.
+In
+cases,
+bonus
+original
+proponent’s
+offer isisisprocess.
+selected
+it
+within
+athe
+stipulated
+percentage
+of
+best
+offer
+in
+In
+cases,
+the
+bonus
+In
+the
+original
+proponent’s
+selected
+if
+itother
+isassessment
+athe
+stipulated
+offer
+inthe
+thecompetitive
+competitive
+process.
+Inother
+other
+cases,
+the
+bonus
+the
+best
+offer
+in
+the
+competitive
+process.
+In
+other
+cases,
+bonus
+percentage
+In these
+these cases,
+cases,
+of
+the
+original
+offer
+proponent’s
+777offer
+offer
+process.
+selected
+In
+ifif
+it
+other
+isis within
+within
+cases,
+athe
+the
+stipulated
+bonus
+percentage
+of the
+the
+best
+offer
+in
+the
+competitive
+process.
+In
+other
+cases,
+bonus
+11
+11
+11
+11
+11
+11
+translates
+in
+the
+total
+score
+when
+evaluating
+the
+proposal.
+translates
+into
+bestfrom
+points
+offer
+in
+in
+in
+the
+the
+total
+competitive
+score
+when
+evaluating
+process.
+Inthe
+other
+proposal.
+cases, the
+the bonus
+bonus
+percentage
+of
+the
+offer
+competitive
+process.
+In
+other
+cases,
+additional
+points
+the
+total
+score
+when
+evaluating
+the
+proposal.
+additional
+points
+in
+the
+total
+score
+when
+evaluating
+the
+proposal.
+translates
+into
+points
+evaluating
+the
+proposal.
+percentage
+ofadditional
+the best
+best
+offer
+the
+competitive
+process.
+In
+other
+cases,
+the
+bonus
+needed
+CIT
+or
+third
+parties);
+translates
+into
+additional
+points
+in
+the
+total
+score
+when
+evaluating
+the
+proposal.
+11
+11
+11
+additionalpoints
+pointsin
+inthe
+thetotal
+totalscore
+scorewhen
+whenevaluating
+evaluatingthe
+theproposal.
+proposal.
+translates
+translates into
+into additional
+additional
+points
+in
+the
+total
+score
+when
+evaluating
+the
+proposal.
+
+governmentsofof
+ofChile
+Chileand
+andKorea
+Koreause
+useaaasystem
+systemtototopromote
+promoteunsolicited
+unsolicitedproposals
+proposalsthat
+that
+The
+The governments
+governments
+Chile
+and
+Korea
+use
+system
+promote
+unsolicited
+proposals
+that
+19
+theformalized
+formalizedbidding
+biddingprocedure
+proceduretototothe
+theoriginal
+originalproject
+projectproponent.
+proponent.
+awards
+awards aa bonus
+bonus inininthe
+the
+formalized
+bidding
+procedure
+the
+original
+project
+proponent.
+11
+11
+11In
+11
+11
+points
+awarded
+have
+been
+within
+0–4
+percent
+out
+of
+a
+total
+1,000
+evaluation
+points,
+which
+11
+awarded
+have
+been
+within
+0–4
+percent
+out
+of
+a
+total
+1,000
+evaluation
+points,
+which
+awarded
+have
+been
+within
+0–4
+percent
+out
+of
+a
+total
+1,000
+evaluation
+points,
+which
+In
+InKorea,
+Korea,
+Korea,bonus
+bonus
+bonuspoints
+points
+pointsThis
+awarded
+awarded
+have
+have
+been
+been
+within
+within
+0–4
+0–4
+percent
+percent
+out
+out
+of
+of
+a
+total
+a
+total
+1,000
+1,000
+evaluation
+evaluation
+points,
+points,
+which
+which
+outbut
+of amost
+total 1,000
+evaluation
+which
+cantake
+takemany
+manypercent
+forms,
+but
+most
+commonly
+isan
+anadditional
+additionaltheoretical
+theoreticalvalue
+value
+bonus
+can
+forms,
+commonly
+itititpoints,
+isis
+This
+bonus20–40
+can
+take
+many
+forms,
+but
+most
+commonly
+an
+additional
+theoretical
+value
+means
+the
+proponent
+20–40
+points
+more
+than
+party.
+Furthermore,
+when
+an
+original
+means
+the
+proponent
+received
+points
+more
+aaaathird
+Furthermore,
+when
+an
+original
+11In Korea,
+proponent
+received
+20–40
+points
+more
+than
+athird
+third
+party.
+Furthermore,
+when
+an
+original
+proponent
+received
+20–40
+points
+more
+than
+party.
+Furthermore,
+when
+an
+original
+11
+means
+the
+original
+received
+third
+party.
+Furthermore,
+when
+an
+original
+11
+means
+theoriginal
+original
+proponent
+received
+20–40
+points
+more
+than
+athird
+third
+party.
+Furthermore,
+when
+an
+original
+pointsawarded
+awarded
+have
+been
+within
+0–4than
+percent
+outparty.
+of
+total
+1,000evaluation
+evaluation
+points,
+which
+bonus
+points
+have
+been
+within
+0–4
+percent
+out
+of
+aaatotal
+1,000
+points,
+which
+In Korea,
+bonus
+points
+awarded
+have
+been
+within
+0–4
+percent
+out
+of
+total
+1,000
+evaluation
+points,
+which
+original
+proponent’s
+technical
+financial
+offer
+for
+biddingpurposes
+purposesonly.
+only.
+applied
+toto the
+original
+proponent’s
+technical
+orororfinancial
+offer
+for
+bidding
+proponent
+proposal
+in
+the
+process
+of
+inviting
+proposals,
+then
+itlooses
+looses
+the
+right
+submits
+aproponent
+modified
+proposal
+in
+the
+process
+of
+inviting
+proposals,
+then
+looses
+the
+right
+applied
+the
+original
+proponent’s
+technical
+financial
+offer
+for
+bidding
+purposes
+only.
+proponent
+proposal
+in
+the
+process
+of
+inviting
+proposals,
+then
+ititwhen
+the
+right
+modified
+proposal
+in
+the
+process
+of
+inviting
+alternative
+proposals,
+then
+itlooses
+looses
+the
+right
+proponent
+inviting
+alternative
+proposals,
+then
+itwhen
+the
+right
+proponent
+submitsaproponent
+amodified
+modified
+proposal
+in
+the
+process
+of
+inviting
+alternative
+proposals,
+then
+it
+looses
+the
+right
+proponent
+received
+20–40
+points
+more
+thanaalternative
+aalternative
+third
+party.
+Furthermore,
+an
+original
+means
+original
+received
+20–40
+points
+more
+than
+third
+party.
+Furthermore,
+an
+original
+meansthe
+thesubmits
+original
+received
+20–40
+points
+more
+than
+aalternative
+third
+party.
+Furthermore,
+when
+an
+original
+to
+points.
+receive
+to
+receive
+the
+bonus
+points.
+points.
+points.
+to
+receive
+the
+bonus
+to
+receive
+the
+bonus
+points.
+modified
+proposal
+inthe
+the
+process
+ofinviting
+inviting
+alternativeproposals,
+proposals,
+then
+looses
+right
+proponent
+proposal
+inin
+process
+of
+alternative
+itititlooses
+proponentsubmits
+submitsaamodified
+modified
+proposal
+the
+process
+of
+inviting
+alternative
+proposals,
+then
+looses
+the
+original
+proponent’s
+offer isisisthen
+selected
+iftheititright
+itright
+withinaaastipulated
+stipulated
+InIn these
+cases,
+the
+original
+proponent’s
+offer
+selected
+ifthe
+isisiswithin
+these
+cases,
+the
+original
+proponent’s
+offer
+selected
+ifthe
+within
+stipulated
+777777
+points.
+to
+toreceive
+receivethe
+thebonus
+bonuspoints.
+points.
+best offer
+offer ininin the
+the competitive
+competitive process.
+process. InInIn other
+othercases,
+cases,the
+thebonus
+bonus
+percentage ofof the
+the best
+best
+offer
+the
+competitive
+process.
+other
+cases,
+the
+bonus
+percentage
+
+Version 2.0   February 24, 2014
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+3. Details about the site (ownership and whether land or other property will have
+to be expropriated);
+4. And a description of the service;
+5. Full disclosure regarding whether the submitting party has previously
+discussed or proposed the project to any city of Chicago employee,
+department or agency.
+6. The proponent shall submit this preliminary project proposal to CIT at the
+
+Submit Unsolicited Proposal link at ShapeChicago.org
+Step 2: Within a reasonable timeframe following receipt and preliminary examination of an
+unsolicited proposal CIT will issue an initial response, assessing whether the project
+serves a “public interest,” fits within a strategic infrastructure need/plan for the City
+and is an appropriate project type for CIT. If the project is found to be in the public
+interest, CIT will invite the proponent to submit a formal proposal in sufficient detail
+to allow CIT to make a proper evaluation of the concept or technology and
+determine whether the proposal meets CIT’s needs and is likely to be successfully
+implemented at the scale of the proposed project.
+Notice of Unsolicited Proposal Submission: CIT will publish a notice on ShapeChicago.org
+that it has received an unsolicited proposal serving a clearly defined public interest. In this
+notice, CIT will post a brief description of the project and invite other interested parties to
+submit competing proposals or offer a potential supportive collaboration.
+The notice will state that CIT has received and accepted an unsolicited proposal,that it
+intends to further evaluate the proposal, that it may negotiate an interim or comprehensive
+agreement with the proponent based on the proposal, and that it may accept any competing
+proposals for simultaneous consideration. If the original proposal is modified or amended,
+then the proponent will also be given the opportunity to add information during the initial
+evaluation period. Absent unusual circumstances, the Notice of Unsolicited Proposal
+Submission will be posted for no more than 30 days, and then removed until further notice.
+CIT reserves the right to treat any other proposal received after the original proposal as
+either a competing proposal or a non-competing unsolicited proposal.
+Step 3: At this juncture, the proponent is invited to present a fully detailed proposal. CIT will
+list all legal, financial, and environmental studies that the proponent will be required
+Version 2.0   February 24, 2014
+
+20
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+to conduct at its own expense. At this point, CIT should have information on:
+
+1.
+
+The justification of project need;
+
+2.
+
+The applicant’s ability to construct and/or operate the project;
+
+3.
+
+A technical feasibility study;
+
+4.
+
+An estimated total project cost and financing plan;
+
+5.
+
+An expenditure and income plan for operations specifying the
+revenue stream(s);
+
+6.
+
+Environmental or other social impact studies;
+
+Step 4: After a subsequent In-Depth Analysis Period, normally lasting no more than 90 days,
+the project may be (i) approved to proceed via the processes outlined in this manual
+or (ii) rejected. If the project is rejected, then the project proponent may resubmit a
+modified version of the proposal or CIT may use the project concept in a public bid
+at a later time. If necessary, once the preliminary project proposal is enhanced via
+supplemental information requests and is accepted, the proponent receives formal
+recognition as the original project bidder.
+The total project review period will typically last between 90 and 120 days
+depending on the technical and financial considerations of the project. Longer
+review periods may be warranted by specific projects. Additional time will be
+needed for CIT to prepare public bid documents.
+Stage 2: Open Bidding & Best and Final Offers
+If accepted, the unsolicited proposal progresses to Stage 2, whereby either (i) the CIT
+staff or Board Of Directors recommends the received proposal should be pursued or (ii)
+an open process will be implemented, in which case it will be advanced under a Best And
+Final Offer System.
+Best and Final Offer System: The key element of a Best and Final Offer System is multiple
+rounds of bidding, in which the original submitter is given the advantage of automatically
+
+Version 2.0   February 24, 2014
+
+21
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+participating in the final round. Once the project proposal completes the initial assessment
+(see Stage 1: Approving Unsolicited Proposals, Steps 1–4) and the bidding documents
+are ready, CIT will invite competing proposals from other firms. The procedure continues
+as follows:
+Step 5: The project concept and a Request for Proposals (RFP) are publicized on
+ShapeChicago.org as well as in various local publications. Information about the
+bid price is not disclosed to the other bidders and the original proponent has to
+resubmit a formal bid.
+Step 6: Bids are received, evaluated, and ranked. The two most advantageous bids are
+selected in the first round, from which a final round of bidding will take place. If the
+original proponent is not one of these two selected, it will then automatically be
+allowed to compete in the final round as well.
+Step 7: The second round takes place where best and final offers are requested only from
+those selected in the first round. All winning bidders from the first round are notified
+and a request for each firm’s best and final offer is issued. Information about bid
+prices is not disclosed. The preferred bid will only be selected in the second and
+final round.
+
+Stage 3: Notice of Project Award
+Step 8: CIT will publish a notice of the awarded contract. This notice will identify the winning
+firm or consortium and include a summary of the essential terms of the project
+agreement.
+Project agreements frequently include provisions that are of direct interest for
+parties other than CIT and the winning firm and who might have a legitimate interest
+in being informed about certain essential elements of the project. This is the case in
+particular for projects involving the provision of a service directly to the public.
+Therefore, CIT will publish a notice of the award of the project, indicating the
+essential elements of the proposed agreements, including:
+
+
+The name of the winning firm;
+
+Version 2.0   February 24, 2014
+
+22
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+
+
+A description of the works and services to be performed by the winning firm;
+
+
+
+The duration of the contract;
+
+
+
+The price structure;
+
+
+
+A summary of the essential rights and obligations of the winning firm and the
+guarantees to be provided by it;
+
+
+
+A summary of the monitoring rights of CIT and remedies for breach of the
+project agreement;
+
+
+
+A summary of the essential obligations of the City, including any payment,
+subsidy or compensation offered by it; and
+
+
+
+Any other essential terms of the project agreement, as provided in the
+request for proposals.
+
+Concerns Regarding The Bidding Process
+Intellectual Property Rights: For infrastructure projects that require the use of a particular
+kind of industrial process or method, CIT will have an interest in stimulating the
+submission of proposals incorporating the most advanced processes, designs,
+methodologies or engineering concepts with demonstrated ability to enhance the project’s
+outputs. Enhanced project outputs may include significantly reducing construction costs,
+accelerating project execution, improving safety, enhancing project performance,
+extending economic life, reducing costs of facility maintenance and operations or reducing
+negative environmental impacts during either the construction or the operational phase of
+the project.
+Companies proposing unsolicited projects often claim to use new techniques or
+technologies that cannot be sourced elsewhere. As such, there exists the potential to
+violate the proprietary rights of the submitter by exposing their methods in a competitive
+process. However, it is often the case substitutes or equivalent technologies of similar
+quality are available to complete the project.
+When seeking alternatives, CIT will define a selection process that emphasizes the
+Version 2.0   February 24, 2014
+
+23
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+expected output of the project without being prescriptive of a particular technology or
+methodology that must be used to achieve the desired output. Competitive bidders are
+then able to propose their own processes or methods. This will ensure the original
+submitter’s proprietary rights remain secure as well as determining the offer with the
+greatest public value. In such a situation, the fact that each of the bidders has its own
+proprietary processes or methods will not pose an obstacle to competition, provided that
+all the proposed methods are technically capable of generating the output expected by
+CIT.
+CIT will guarantee that all proprietary information submitted by each bidder will be kept
+confidential by it throughout the bidding process. Proponents will retain title to all
+documents submitted throughout the process and those documents will be returned in the
+event that the proposal is rejected.
+If the original submitter’s specific proprietary techniques are required, but the original
+submitter is not the desired party to develop or operate the project for separate reasons,
+then it is possible to set up either a licensing arrangement for only the specific proprietary
+techniques or have two firms resubmit a Collaborative Proposal.
+Proprietary rights to techniques or engineering technologies should not be confused with
+the intellectual property rights to the project itself. The original submitter of an unsolicited
+proposal does not possess an exclusive right to the project concept that would prevent
+CIT from pursuing an open bidding process.
+Confidentiality: Negotiations between CIT and all bidders will be confidential and one
+party to the negotiations shall not reveal to any other person any technical, price or other
+commercial information relating to the negotiations without the consent of the other party.
+CIT will keep an appropriate record of key information pertaining to the selection and
+award proceedings. Such records may be subject to Freedom of Information Act (FOIA)
+requests.
+In order to ensure transparency and accountability and to facilitate the exercise of the
+right of aggrieved bidders to seek review of decisions made by CIT, CIT will be required to
+keep an appropriate record of key information pertaining to the selection proceedings.
+The record to be kept by CIT will contain, as appropriate, general information concerning
+the selection proceedings as is usually required to be recorded for public procurement, as
+Version 2.0   February 24, 2014
+
+24
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+well as information of particular relevance for privately financed infrastructure projects.
+Such information may include the following:
+
+
+The names and addresses of the companies participating in bidding consortia;
+
+
+
+The name and address of the members of the bidders with whom the project
+agreement has been entered into;
+
+
+
+A description of the publicity requirements, including copies of the publicity use;
+
+
+
+Information relative to the qualifications, or lack thereof, of bidders;
+
+
+
+A summary of the evaluation and comparison of proposals, including the
+application of any margin of preference;
+
+
+
+A summary of the conclusions of the preliminary feasibility studies commissioned
+by CIT and a summary of the conclusions of the feasibility studies submitted by
+the qualified bidders;
+
+
+
+A summary of any requests for clarification of the pre-selection documents or the
+request for proposals, the responses thereto, as well as a summary of any
+modification of those documents;
+
+
+
+A summary of the principal terms of the proposals and of the project agreement;
+
+
+
+If CIT has found most advantageous a proposal other than the proposal offering
+the lowest unit price for the expected output, a justification of the reasons for that
+finding by CIT;
+
+
+
+If all proposals were rejected, a statement to that effect and the grounds for
+rejection; and
+
+
+
+If the negotiations with the consortium that submitted the most advantageous
+proposal and any subsequent negotiations with remaining responsive consortia
+did not result in a project agreement, a statement to that effect and of the grounds
+therefor.
+
+Version 2.0   February 24, 2014
+
+25
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+d. Collaborative Proposals – In some instances, CIT will work with a potential partner to
+develop an approach or proposal to address a specific opportunity.
+1. Based on discussions/joint work, the bidder will submit a proposal that meets
+specific criteria.
+2. CIT will then publish a note of interest on its website (www.ShapeChicago.org) to
+request additional submissions of proposals or ideas within a specified number of
+days.
+3. Based on responses received, CIT will have the right to:
+i.
+
+Move forward with original responder.
+
+ii.
+
+Begin an open process by publishing an RFQ or by issuing an RFP to two
+or more responders.
+
+e. Citizen Submissions – Citizens will submit ideas for potential projects to CIT.
+1. Ideas should be submitted to: Proposal@ShapeChicago.org
+2. CIT will evaluate ideas in the context of current priorities and programs and decide
+whether to pursue through competitive bid, publish a note of interest for a
+collaborative bid or to forward to an appropriate City agency or department, or not
+pursue the proposal.
+3. All content in citizen submissions will be the property of CIT and the City of
+Chicago, and the private entities or individuals who submit a proposal forfeit all
+rights to ideas, confidentiality, financial interest and copyrights for the use of
+registered trademarks for the purpose of evaluating proposals or bidding.
+4. In taking any of the actions described above regarding citizen submissions, CIT
+will not undertake any obligation for specific action. Also, when citizens submit
+
+Version 2.0   February 24, 2014
+
+26
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ideas to CIT, they surrender all ownership of the ideas, copyrights, confidentiality
+and financial interest in the ideas.
+f.
+
+Contracting Schedules – For some goods and services CIT will issue publicly on its
+website (www.ShapeChicago.org) contracting schedules, similar to GSA or City of
+Chicago schedule contracting, depending upon requirements or task order contracts or
+master consulting agreements.
+1. Schedule contracting is intended to reduce costs, shorten lead times,operate with
+transparency and increase flexibility and choice.
+2. CIT will request specific terms, including item or service, period of time/end date,
+quantities required and price.
+3. In addition, bidders will be required to demonstrate financial capacity, operating
+capacity and technical capability to provide the item or service specified.
+4. Indefinite Delivery/Indefinite Quantity (IDIQ) – for some schedule contracting, CIT
+will publish IDIQ requests. CIT will use IDIQ when it cannot predetermine, above
+a specified minimum, the precise quantities of supplies or services required during
+the contract period. Minimum and maximum quantity limits are specified in the
+basic contract as either number of units (for supplies) or as dollar values (for
+services).
+
+VII.
+
+Proposal Evaluation
+Proposals will be evaluated on a variety of factors that will impact short-term and long-term
+project performance.
+These will be specified on a project-by-project basis in
+RFIs/RFPs/RFQs. In general, these will include:
+a. Financial
+i. Best Value for Money – The proposal provides the best positive value for money
+over traditional public financing. This is calculated as total cost savings vs.
+traditional public financing. This will apply to RFPs only, as RFQs and RFIs do not
+include pricing information.
+
+Version 2.0   February 24, 2014
+
+27
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+ii. Best Price – The proposal that provides the lowest price to fulfill the requirements
+as predetermined by the RFP.
+iii. Best Value - The overall combination of quality, price and various elements of the
+required services that, in total, are optimal relative to CIT’s needs, as
+predetermined in the RFP
+iv. Financial Impact – The proposal provides the greatest positive cash flows for the
+people of the City of Chicago and CIT.
+v. Financial Capacity – The proposal demonstrates that the bidder has the financial
+capacity to undertake and fulfill the responsibilities of the project in the short-,
+medium- and long-term.
+vi. Financial Capability – The proposal demonstrates that the bidder can raise the
+necessary financing and provide the funding if the bidder is selected. This typically
+includes commitment letters from prospective lenders, an analysis of the equity
+providers to ensure that they have the necessary liquidity and the bidder’s
+experience in raising financing for similar projects.
+
+Version 2.0   February 24, 2014
+
+28
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+b. Technical
+i.
+
+Expertise – The proposal indicates that the bidder has the technical knowledge to
+complete the project as requested.
+
+ii.
+
+Capacity - The bidder has the resources available to ensure that the project is
+completed as requested. This may include the scale to complete large, complex
+multi-year construction projects and to fulfill operating and maintenance obligations
+as requested.
+
+c. Timeline – The proposal delivers the project per the timeline required and includes
+assessment of risks, plans to mitigate and contingencies.
+d. Qualifications and Experience – The bidder has a proven track record of successfully
+completing similar projects on-time and on-budget. Specifics will vary by project based
+on project requirements, and may encompass design, build,finance, operate and
+maintain criteria. Experience and qualifications include:
+i.
+
+Experience working with the public sector on public-private projects.
+
+ii.
+
+Experience, training and preparation with projects of similar size, scope and
+complexity.
+
+iii.
+
+The extent of personnel, logistical resources, bonding capacity and the ability to
+complete the project in a timely and professional manner.
+
+iv.
+
+Demonstrated record of successful past performance, including timeliness of
+project delivery, compliance with plans and specifications, quality of
+workmanship, effective operation and maintenance of similar projects (if
+required), cost-control and project safety.
+
+v.
+
+Demonstrated compliance with applicable laws, codes, standards, regulations
+and agreements on past projects.
+
+vi.
+
+Demonstrated ability to obtain permits and to successfully pass inspections so
+that timelines are maintained.
+
+Version 2.0   February 24, 2014
+
+29
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+vii.
+
+Knowledge of
+experience.
+
+appropriate
+
+leadership
+
+structure
+
+and
+
+project
+
+manager’s
+
+viii.
+
+Demonstrated financial capability and capacity on projects of similar size, scope
+and complexity.
+
+e. Appropriateness of Recommended Approach
+i. The bidder provides the soundest approach for project completion. This will apply
+to all project phases specified in the RFI/RFQ/RFP and risk assessment,
+management and mitigation. It may also include management of regulatory and
+permitting issues.
+ii. As necessary, CIT will use third-party technical advisors/consultants to evaluate
+proposals.
+
+Version 2.0   February 24, 2014
+
+30
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+VIII.
+
+Award of Contract
+a. Contract terms may be subject to approval by the Chicago City Council and/or a Sister
+Agency board.
+b. For competitive bids (RFI/RFQ/RFP), CIT will select the bid that best delivers project
+requirement criteria, as described in Section VII.
+i.
+
+Project award criteria will be included in requests when they are released.
+
+ii.
+
+Once the successful bidder has been identified, CIT will perform any appropriate
+follow-up as required. After the follow-up, CIT will notify the successful bidder.
+
+iii.
+
+CIT can conduct negotiations with the selected bidder to clarify remaining issues
+regarding scope, schedule, financing, etc.
+
+iv.
+
+If RFP evaluation does not indicate a clear winner, CIT has the right to conduct
+follow-up discussions with all or some of the RFP bidders and request a Best and
+Final Offer (BAFO).
+
+c. For unsolicited proposals and collaborative bids that do not include competitive bidding,
+final terms will be negotiated directly.
+d. For schedule contracting, terms and criteria will be included in the notifications published
+on CIT website (www.ShapeChicago.org)
+
+Version 2.0   February 24, 2014
+
+31
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+IX.
+
+Rights and Obligations of the Chicago Infrastructure Trust
+
+1
+
+a. For each project, CIT reserves to itself all rights (which rights shall be exercisable by CIT
+in its sole discretion) available to it under applicable law, including without limitation, the
+following, with or without cause and with or without notice:
+
+1
+
+i.
+
+The right to cancel, withdraw, postpone or extend an RFQ/RFP in whole or in
+part at any time prior to the execution by CIT of the contract, without incurring
+any obligations or liabilities.
+
+ii.
+
+The right to issue a new RFQ/RFP.
+
+iii.
+
+The right to reject any and all submittals, responses and proposals received at
+any time.
+
+iv.
+
+The right to modify all dates set or projected in an RFQ/RFP.
+
+v.
+
+The right to terminate evaluations of responses received at any time.
+
+vi.
+
+The right to suspend and terminate the contracting process for the project, at any
+time.
+
+vii.
+
+The right to revise and modify, at any time prior to the RFI/RFQ/RFP submission
+dates, factors it will consider in evaluating responses to an RFQ/RFP and to
+otherwise revise its evaluation methodology.
+
+viii.
+
+The right to waive or permit corrections to data submitted with any response to
+an RFQ/RFP until such time as CIT declares in writing that a particular stage or
+phase of its review of the responses to this RFQ/RFP has been completed and
+closed.
+
+ix.
+
+The right to issue addenda, supplements, and modifications to an RFQ/RFP,
+including but not limited to modifications of evaluation criteria or methodology
+and weighting of evaluation criteria.
+
+Virginia Department of Transportation, Design-Build Procurement Manual, October, 2010, p. 16-18
+
+Version 2.0   February 24, 2014
+
+32
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+x.
+
+The right to permit submittal of addenda and supplements to data previously
+provided with any response to an RFQ/RFP until such time as CIT declares in
+writing that a particular stage or phase of its review of the responses to this
+RFQ/RFP has been completed and closed.
+
+xi.
+
+The right to hold meetings and conduct discussions and correspondence with
+one or more of the bidders responding to an RFQ/RFP to seek an improved
+understanding and evaluation of their responses to the RFQ/RFP.
+
+xii.
+
+The right to seek or obtain data from any source that has the potential to improve
+the understanding and evaluation of the responses to an RFQ/RFP, including the
+right to seek clarifications from bidders.
+
+xiii.
+
+The right to permit bidders to add or delete partners, contractors, advisors and/or
+key personnel until such time as CIT declares in writing that a particular stage or
+phase of its review has been completed and closed.
+
+xiv.
+
+The right to add or delete bidder responsibilities from the information contained in
+an RFQ/RFP.
+
+xv.
+
+The right to designate and change appointees of the evaluation team.
+
+xvi.
+
+The right to use assistance of outside technical and legal experts and consultants
+in the evaluation process.
+
+xvii.
+
+The right to waive deficiencies, informalities and irregularities in an RFI/RFQ/RFP
+response, accept and review a non-conforming RFI/RFQ/RFP response or seek
+clarifications or supplements to a proposal.
+
+xviii.
+
+The right to disqualify any bidder that changes its submission without CIT’s
+approval.
+
+xix.
+
+The right to change the method of award or the evaluation criteria and scoring at
+any time prior to submission of the RFI/RFQ/RFP responses.
+
+xx.
+
+The right to respond to all, some, or none of the inquiries, questions and/or
+requests for clarification received relative to the RFI/RFQ/RFP.
+
+Version 2.0   February 24, 2014
+
+33
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+xxi.
+
+The right to use all or part of a proposal submitted by a bidder that accepts a
+proposal payment.
+
+xxii.
+
+The right to increase or decrease the number of bidders between the
+RFI/RFQ/RFP stages, if it is in the best interest of CIT to do so.
+
+xxiii.
+
+The right to negotiate the allocation of prices identified for specific portions of the
+work depicted within a Proposal.
+
+xxiv.
+
+The right to disqualify and/or cease negotiations with a bidder if CIT, in its sole
+discretion, determines that the bidder’s proposal contains unbalanced pricing
+among the specific portions of work identified therein.
+
+b. No Assumption of Liability
+i. CIT assumes no obligations, responsibilities, and liabilities, financial or otherwise,
+to reimburse all or part of the costs incurred or alleged to have been incurred by
+parties considering a response to and/or responding to an RFI/RFQ/RFP. All such
+costs shall be borne solely by each bidder and its team members.
+ii. CIT assumes no obligations, responsibilities, and liabilities, financial or otherwise,
+to reimburse all or part of the costs incurred or alleged to have been incurred by
+parties considering submission of an unsolicited proposal, collaborative proposal,
+proposal by citizens or schedule contracting proposal. All such costs shall be
+borne solely by each bidder and its team members
+iii. In no event shall CIT be bound by, or liable for, any obligations with respect to a
+project until a contract that is satisfactory to CIT has been executed and authorized
+by CIT. Upon execution of a contract, CIT will only be bound by, liable for and
+obligated to the extent set forth therein.
+
+X.
+
+Pre-Development Agreement, Interim Agreement and Comprehensive
+Agreement
+Any pre-development agreement, interim agreement or comprehensive agreement (also
+called “contract”) shall define the rights and obligations of CIT and of the counterparty with
+regard to a project. CIT shall obtain all required approvals prior to entering into any interim
+
+Version 2.0   February 24, 2014
+
+34
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+agreement or comprehensive agreement. CIT shall accept no liability for the project prior to
+entering into a contract.
+a. CIT may enter into a pre-development agreement when a project is not completely
+defined; financial feasibility has not been determined, but looks financeable on a
+preliminary basis; or CIT is seeking private sector innovation and expertise in
+accelerating an optimally feasible project.
+i.
+
+The private partner participates in project planning and design and prepares the
+master financial plan and master development plan.
+
+ii.
+
+The private partner absorbs initial phase work – “sweat equity.”
+
+iii.
+
+If project proves feasible, the private partner may deliver an unsolicited bid or
+participate in a collaborative bid covering implementation.
+
+b. An interim agreement may be entered into prior to entering into a comprehensive
+agreement, in order to permit the counterparty to perform compensable activities related
+to the project. Prior to developing or operating a project, the counterparty shall enter
+into a comprehensive agreement with CIT. The scope of an interim or pre-development
+agreement may include:
+i.
+
+Project planning and development
+
+ii.
+
+Design and engineering
+
+iii.
+
+Environmental analysis and mitigation
+
+iv.
+
+Surveying
+
+v.
+
+Ascertaining the availability of financing for the proposed facility through financial
+and revenue analysis
+
+vi.
+
+The timing of negotiation of the comprehensive agreement
+
+vii.
+
+Any other provisions related to any aspect of the development or operation of the
+project that the parties deem appropriate prior to the execution of a
+comprehensive agreement.
+
+Version 2.0   February 24, 2014
+
+35
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+c. CIT and possibly the Chicago City Council and/or a Sister Agency board shall approve
+any comprehensive agreement entered into between CIT and a counterparty. CIT shall
+accept no liability for development or operation of the project prior to entering into a
+comprehensive agreement. The terms of the comprehensive agreement shall be tailored
+to address the rights and obligations of CIT and the counterparty with regard to the
+project and may include:
+i.
+
+Project planning and development (if not completed under an interim or
+pre-development agreement).
+
+ii.
+
+Design and engineering (if not completed under an interim or pre-development
+agreement).
+
+iii.
+
+Environmental analysis and mitigation (if not completed under an interim or
+pre-development agreement).
+
+iv.
+
+Surveying (if not completed under an interim or pre-development agreement)
+
+v.
+
+Timelines and detailed budgets.
+
+vi.
+
+The availability of financing for the proposal through financial and revenue
+analysis.
+
+vii.
+
+The delivery of maintenance, performance and payment bonds or letters of credit
+in connection with any acquisition, design, construction, improvement,
+renovation, expansion, equipping or maintenance of the project.
+
+viii.
+
+The review of plans and specifications for the project by CIT.
+
+ix.
+
+The rights of CIT to inspect the project to ensure compliance with the
+comprehensive agreement.
+
+x.
+
+The maintenance of a policy or policies of liability insurance or self-insurance
+reasonably sufficient to insure coverage of the project and the tort liability to the
+public and employees to enable continued operation of the project.
+
+Version 2.0   February 24, 2014
+
+36
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+xi.
+
+The monitoring of the practices of the contracting individual or entity by CIT
+and/or the City of Chicago, its sister agencies and departments to ensure proper
+maintenance.
+
+xii.
+
+The terms under which the contracting person or entity will reimburse CIT for
+services provided.
+
+xiii.
+
+The policy and procedures that will govern the rights and responsibilities of CIT
+and contracting person or entity in the event that the contract is terminated or
+there is a material default by the contracting person or entity, including the
+conditions governing assumption of the duties and responsibilities of the
+contracting person or entity by CIT and the transfer or purchase of property or
+other interests of the contracting person or entity by CIT.
+
+xiv.
+
+The terms under which the contracting person or entity will file financial
+statements prepared in accordance with generally accepted accounting
+principles on a periodic basis but not less than annually.
+
+xv.
+
+The mechanism by which user fees, lease payments or service payments, if any,
+may be established from time to time upon agreement of the parties. Any
+payments or fees shall be set at a level that are the same for persons using the
+facility under like conditions and that will not materially discourage use for the
+project.
+
+xvi.
+
+A copy of any service contract.
+
+xvii.
+
+A schedule of current user fees or lease payments.
+
+xviii.
+
+Classifications according to reasonable categories for assessment of user fees.
+
+xix.
+
+The terms and conditions under which CIT may contribute financial resources, if
+any, for the project.
+
+xx.
+
+The terms and conditions under which site conditions will be assessed and
+addressed, including identifying the responsible party for conducting the
+assessment and taking necessary remedial action.
+
+Version 2.0   February 24, 2014
+
+37
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+xxi.
+
+The terms and conditions under which CIT, the City of Chicago and/or its sister
+agencies and departments will be required to pay money to the contracting
+individual or entity or any other private entity and the amount of such payments
+for the project.
+
+xxii.
+
+A periodic reporting procedure that incorporates a description of the impact of the
+project on the City of Chicago and its residents.
+
+xxiii.
+
+Other requirements of the P3 program or applicable law that CIT deems
+appropriate.
+
+d. With respect to construction projects, CIT generally anticipates addressing the following
+in the contract:
+i.
+
+The contracting person or entity will be expected to assume a single
+point-of-contact responsibility and liability for all planning, designing, financing,
+permitting, constructing, operating and maintaining of the project.
+
+ii.
+
+The contracting person or entity shall perform a comprehensive geotechnical
+investigation of subsurface conditions at the project site. The risk of inadequate
+geotechnical investigation or improper interpretation of the results of the
+geotechnical investigation will be allocated to the contracting person or entity in
+the contract.
+
+iii.
+
+CIT encourages the contracting person or entity to propose a formula for mutual
+sharing of cost savings realized during construction by virtue of value
+engineering initiatives, guaranteed maximum price with sharing provisions, trade
+allowances or otherwise. Mutually agreed upon terms for the sharing of such
+savings will be incorporated into the comprehensive agreements.
+
+iv.
+
+CIT may enter into contracts with private entities that have formed business
+associations or special purpose entities such as joint ventures, limited
+partnerships and limited liability companies.
+
+v.
+
+The contracting person or entity will normally be expected to identify a single
+point-of-contact to assume responsibility and liability for all planning, designing,
+
+Version 2.0   February 24, 2014
+
+38
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+financing, permitting, constructing, operating and maintaining of the project on
+behalf of the contracting person or entity.
+vi.
+
+One or more of the principal members of the contracting person or entity will
+normally be expected to provide a performance guarantee of all obligations
+undertaken in the comprehensive agreement. This agreement is in addition to
+the statutory requirement for a performance bond. Individuals, corporations or
+other businesses interested in entering into P3 projects with CIT must be willing
+to provide this security if their proposal is submitted as part of a contracting
+person or entity that limits the liability of its members, owners or partners. Any
+changes in the terms of the contract as may be agreed upon by the parties from
+time-to-time shall be added to the contract only by written amendment. The
+contract may provide for the development of phases or segments of the project.
+Parties submitting proposals understand that representations, information and
+data supplied in support of or in connection with proposals play a critical role in
+the competitive evaluation process and the ultimate selection of a proposal by
+CIT. Accordingly, as part of a comprehensive agreement, the prospective
+contracting individual and its team members shall certify that all material
+representations, information and data supplied in support of or in connection with
+a proposal are true and correct. Such certifications shall be made by authorized
+individuals who have knowledge of the information provided in the proposal. In
+the event any material changes occur with respect to representations,
+information and data provided for the proposal, the prospective contracting
+person or entity shall immediately notify CIT of same.
+
+e. The contract will specify detailed terms of substantial completion and project hand-off,
+including:
+i.
+
+Performance requirements
+
+ii.
+
+Inspections and approvals
+
+iii.
+
+Regulatory requirements
+
+iv.
+
+Operational and maintenance readiness, possibly including training for staff
+
+Version 2.0   February 24, 2014
+
+39
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+f.
+
+For projects that include on-going operations and maintenance, the contract will include
+performance standards and process for regular review and response to ad hoc
+comments from the people of the City of Chicago.
+
+g. The contract will include financial terms, including:
+i.
+
+Payment amounts and schedules
+
+ii.
+
+Revenue sharing terms, if any
+
+iii.
+
+Where applicable, allocation of revenues by the City of Chicago and/or a Sister
+Agency and CIT
+
+h. The contract will include remedies for situations that arise, including, but not limited to:
+i.
+
+Delays in project delivery
+
+ii.
+
+Budget over-runs
+
+iii.
+
+Change in project scope
+
+iv.
+
+Failure to perform required operations and/or maintenance, as required by the
+contract
+
+v.
+
+Failure to meet financial obligations
+
+vi.
+
+Early termination or default by either party
+
+Version 2.0   February 24, 2014
+
+40
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+XI.
+
+Project Acceptance
+a. Substantial Completion – This often refers to the point at which the build phase of the
+project is complete. The contract will include a detailed definition of substantial
+completion for each project.
+i.
+
+Typically, a project is substantially complete if it is operationally ready, including
+full functionality as specified in the contract, safety inspections, regulatory
+approval and licensing as necessary.
+
+ii.
+
+If there is an operating and/or maintenance component to the project, the private
+entity will be required to demonstrate that capability.
+
+iii.
+
+CIT must formally accept that the project is substantially complete.
+
+b. Project hand-off, if appropriate – If there is no operational or maintenance requirement
+for the project, then it will be handed-off to the City of Chicago and/or a Sister Agency or
+CIT.
+i.
+
+The project will need to meet the criteria for substantial completion as specified in
+the contract.
+
+ii.
+
+The contracting entity may be required by contract to provide operational and/or
+maintenance training for City personnel.
+
+iii.
+
+CIT must formally accept the project is substantially complete.
+
+Version 2.0   February 24, 2014
+
+41
+
+ CHICAGO INFRASTRUCTURE TRUST
+Contracting Manual
+
+XII. Summary
+The Chicago Infrastructure Trust thanks you for your interest in reading this manual, and
+offers its best regards and appreciation to persons or entities that seek to do projects with
+the Trust. We look forward to working together with contracting persons or entities on vital
+infrastructure projects that will serve the public interest of the people of the City of Chicago.
+Any comments or questions regarding the Trust and its work should be directed to the Trust
+at: comments@ShapeChicago.org
+
+Version 2.0   February 24, 2014
+
+42
+
+ 

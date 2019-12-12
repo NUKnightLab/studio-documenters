@@ -1,0 +1,219 @@
+Illinois Department of Public Health
+Genetic and Metabolic Disease Advisory Committee (GMDAC)
+Meeting Minutes – May 21, 2019
+Holiday Inn Chicago SW – Countryside Conference Center
+Countryside, IL
+Members Present:
+Carrie Balian, EHDI parent
+Barbara Burton, M.D., Lurie Children’s Hospital
+Glynis Cailteux, R.N., Kankakee County Health Department
+Janine Kahn, M.D., Lurie Children’s Hospital
+Rachel Katz, L.S.W., Lurie Children’s Hospital
+George Hoganson, M.D., University of Illinois at Chicago
+Beth Leeth, M.S., Lurie Children’s Hospital
+Melanie Makhija, M.D., Lurie Children’s Hospital
+Shannon O’Brien, R.D., University of Illinois Medical Center
+Erin Paquette, M.D., J.D., Lurie Children’s Hospital
+Other Attendees:
+Rich Dineen, C.G.C., Rush University
+Lauren Hitchens, A.P.N, Lurie Children’s Hospital
+Talana Hughes, M.S., Sickle Cell Disease Association of Illinois
+Tess Rhodes, R.N., Division of Specialized Care for Children
+Akira Yoshi, M.D., University of Illinois at Chicago
+Beth, Jared, Celia and Benny Robinson-GAMT affected family
+Emily and Caroline Sans-family of a child with GAMT
+Mathew and Emily Partner-parents of child with GAMT
+IDPH Representatives:
+Matt Charles, Chief Division of Laboratories
+Vineet Dhiman, Ph.D., Molecular Section
+Yen Ping, Ph.D., Tandem Mass Spectrometry Section
+Khaja Basheerrudin, Ph.D., Tandem Mass Spectrometry Section Supervisor
+Pam Smith, Newborn Screening Program Manager
+Shannon Harrison, Newborn Screen Follow-Up Nursing Supervisor
+Laura Ashbaugh, Newborn Screening Follow-Up Nursing Supervisor
+Chrissy Knepler, Newborn Screening Follow-up Nursing Supervisor
+Ginger Mullin, Newborn Hearing Screen Program Coordinator
+Rebecca Barnett, Grants Coordinator
+Welcome and Introductions:
+Meeting was called to order at 10:32 A.M., and Pam Smith welcomed attendees. Pam Smith stated she is
+the new Newborn Screening Follow-up Program Manager. Attendee introductions were made. Pam
+stated that at the current time, there are no vacancies on the committee.
+Review of Bylaws, Committee Members, Terms and Vacancies:
+Dr. Burton asked the committee to review the changes made to the bylaws. She stated they are not ready
+for a vote; the program is asking for feedback from the committee at this time. Pam highlighted the
+following areas: changing the name of the committee to the “Universal Newborn Screening Advisory
+1
+
+ Illinois Department of Public Health
+Genetic and Metabolic Disease Advisory Committee (GMDAC)
+Meeting Minutes – May 21, 2019
+Committee,” including the EHDI program in the bylaws, increasing the committee member
+appointments to four years, changing the chair’s term appointment, adding an EHDI parent to the
+committee, and including Early Intervention on the committee. Suggestions were made to add a
+geneticist and a pediatric neurologist to the list of recommended members. Pam asked that members
+send any additional input to her.
+Approval of Minutes-May 24, 2018 Meeting:
+A motion to approve the May 24, 2018 meeting minutes was made by Dr. Makhija. Dr. Khan seconded
+the motion. All committee members were in favor. Meeting minutes were approved.
+IDPH Reports:
+Newborn Screening Laboratory
+Matt Charles outlined the IDPH laboratory policy for residual newborn screening blood spots. He stated
+the current retention time is four months for all normal specimens, after which time they are destroyed.
+The retention time is six years for positive specimens, after which time they are destroyed. The
+laboratory has received requests to release specimens for research purposes in the past, but Illinois rules
+do not allow for this. Therefore, a statutory change would be needed in order to release blood spots.
+Screening by Mayo Clinic Laboratories for Krabbe disease is the only exception to releasing specimens to
+outside entities since Mayo is performing additional tiers of testing.
+Dr. Burton stated she would like an administrative rule change to release specimens with consent from the
+patient’s family. Dr. Khan agreed and stated the consent could be for the family to retrieve the specimen,
+so IDPH would not have to send it anywhere else or perform additional tests. No objections were noted
+from the committee. Matt Charles asked Dr. Burton to send him proposed language for a consent to
+release the specimen to parents for clinical purposes only and not for research. Dr. Hoganson asked the
+laboratory to look at keeping the dried blood spots available for a longer period of time.
+Dr. Burton stated she has been asked by neonatologists why NICU patients are supposed to have a
+specimen collection when they are less than 24 hours newborn screen of age. IDPH staff stated this
+recommendation was made by the Clinical and Laboratories Standards Institute and was a national
+recommendation for states to follow. The NICU protocol was discussed as well as future changes that
+will be made regarding reporting of these results to the committee.
+Matt Charles and Yen Ping gave a PowerPoint presentation on the progress of adrenoleukodystrophy
+(ALD) screening. The projected start date is June 3, 2019 with two pilot hospitals and statewide
+screening in mid-June.
+Vineet Dhiman gave a PowerPoint presentation on cystic fibrosis screening. IDPH switched to the Agena
+IPLEX Pro Panel on March 1, 2018. He stated that although the Agena panel takes longer to run the
+screen, the Agena panel screens has more mutations.
+Vineet Dhiman also presented on the status of spinal muscular atrophy (SMA) screening. He stated the
+plan is to screen only for the SMN 1 gene and multiplex SMA screening into the existing SCID PCR
+assay. The lab is currently testing on de-identified dried blood spots to determine if screening can work on
+high throughput. The target start date is June of 2020. There was discussion regarding the possibility and
+feasibility of reporting carrier status. IDPH will convene a work group to discuss these types of matters
+before they implement SMA screening.
+2
+
+ Illinois Department of Public Health
+Genetic and Metabolic Disease Advisory Committee (GMDAC)
+Meeting Minutes – May 21, 2019
+Matt Charles stated the Program has staff hired to work a Tuesday-Saturday schedule. The lab is doing a
+phased approach: hiring, completing Friday specimen runs on Saturdays, receiving and accessioning
+specimens on Saturdays, then initiating testing for specimens received on Saturdays.
+Matt Charles stated the Program had their NewSTEPs APHL site visit in April of 2018. The committee
+pointed out Program strengths and weaknesses and outlined recommendations for improvement. The
+Program has already initiated a number of quality improvements that were identified.
+Newborn Screening Follow-Up Program
+Pam Smith stated effective January 1, 2019, the newborn screening fee was increased to $128 per
+specimen for the implementation of SMA screening. Carrie Balian asked if there is a way to increase the
+fee to support the EHDI Program as well as to screen for CMV since currently none of the screening fees
+are going to the EHDI Program. DSCC services and follow-up of abnormal hearing results were
+discussed.
+Pam Smith stated the Follow-up Program currently has a nurse and three support staff working a
+Tuesday-Saturday schedule. The biggest issue they have encountered is contacting physicians on
+Saturdays.
+Shannon Harrison stated the Program recently implemented the UPS web portal “CampusShip” with all
+birthing facilities who currently ship their specimens using UPS. CampusShip is a quality improvement
+initiative that allows for streamlined access to produce shipping labels as hospitals need them. It also
+includes several user-friendly aspects such as automatic email delivery alerts, timely status alerts of where
+all shipments are in the pipeline, and integrated ordering of shipping supplies. These services also enable
+UPS to be more responsive in addressing shipments that are delayed in transit for any reason. In April,
+IDPH and UPS hosted two web-based training sessions to cover various aspects of CampusShip. Full
+implementation of CampusShip is expected to begin on June 1, 2019.
+Pam Smith and Laura Ashbaugh discussed ALD implementation. The Program will refer patients with
+abnormal screening results to biochemical geneticists. If they are diagnosed with disease, the geneticists
+will refer the patient to the appropriate specialists. There was discussion regarding referring patients to
+medical geneticists and criteria for being an IDPH consultant for ALD.
+Pam Smith and Shannon Harrison discussed SMA implementation. Several questions arose regarding if
+patients could start with a referral to genetics, then be referred to pediatric neurology if diagnosed with
+SMA. The committee agreed a work group should be formed to discuss such items.
+Pam Smith and Matt Charles discussed the status of GAMT legislation that has been proposed. It passed
+in the House of Representatives and is currently moving through the Senate.
+Rebecca Barnett reported that the IDPH grants were delayed due to the new Grants Accountability
+Transparency Act (GATA) requirements. The approximate funding for fiscal year 2019 is 2.7 million
+dollars for genetic counseling services, local public health department case finding and referral and
+pediatric hematology follow-up for sickle cell disease. There are 16 genetic counseling grants at 1.7
+million dollars. There are 33 local health departments who participated in $716,000 grant funds. Eight
+3
+
+ Illinois Department of Public Health
+Genetic and Metabolic Disease Advisory Committee (GMDAC)
+Meeting Minutes – May 21, 2019
+sickle cell clinics were awarded $306,000. July 1, 2019 is the start date for the 2020 fiscal year
+applications.
+Early Hearing Detection and Intervention Program (EHDI)
+Ginger Mullin reported on the EHDI program which works towards the national 1-3-6 goals for hearing
+screening and follow-up. Recent accomplishments include: integration with the Illinois birth certificate
+system; updating the list of pediatric audiology providers; completion of the Centers for Disease Control
+and Prevention annual data survey; and state office implementation of HiTRACK 5 (the new EHDIinformation system platform). Ginger reported the current federal initiatives include increasing the use of
+data exchange; improving timeliness of screening/diagnosis/intervention; reducing loss to follow-up and
+improving the state’s data information system. Finally, programmatic data was shared revealing:
+statewide greater than 98% of infants are screened with an overall refer rate of 3.2%; current incidence is
+2.1/1000; and the loss-to follow-up for the 2017 birth cohort was 30% down from 78% for the 2013 birth
+cohort.
+Other Reports:
+Newborn Screening and Laboratory Subcommittee
+The Laboratory Subcommittee met for the first time in two years via teleconference on January 23, 2019.
+Several areas were discussed including <24-hour specimen collection for NICU patients, the need to
+standardize age appropriate cutoffs, the high false positive rate for galactosemia, and a plan to work on
+these issues while the laboratory director is taking a leave of absence.
+Newborn Screening Cystic Fibrosis Collaborative
+There has been no recent meetings or activity.
+Newborn Screening Hemoglobinopathy Collaborative
+Shannon Harrison reported the Hemoglobinopathy Collaborative continues to meet every other month by
+teleconference. There are currently 11 hematology centers as well as 2 centers in St Louis on the calls
+along with SCDAI and STORM. The collaborative discusses QI projects, sickle cell disease events, and
+issues with testing, insurance, referrals, medication coverage, etc.
+Severe Combined Immune Deficiency (SCID) Newborn Screening Collaborative
+There has been no recent meetings or activity.
+Newborn Screening Expansion Subcommittee
+There has been no recent meetings or activity.
+Reports from Partners:
+Center for Jewish Genetics
+Jason Rothstein was not present, and no update was given.
+Sickle Cell Disease Association of Illinois (SCDAI)
+Talana Hughes reported that SCDAI is focusing on partnerships with health departments to help them
+reach as many patients as possible. They assist newly diagnosed sickle cell disease patients as well as
+teenage patients while transitioning to adult care. They have been focusing on services for patients and
+making connections between patients, partners and stakeholders.
+4
+
+ Illinois Department of Public Health
+Genetic and Metabolic Disease Advisory Committee (GMDAC)
+Meeting Minutes – May 21, 2019
+Illinois Society of Genetic Professionals
+Lauren Hitchens stated the organization changed their name to Illinois Society of Genetic Professionals.
+Sudden Infant Death Services of Illinois, Inc.
+Nancy Maruyama was not present but sent a report to IDPH. IDPH provides grant funding for safe sleep
+education and bereavement services for deaths on children from birth to age one. The cause of death is no
+longer called SIDS, but “death by unsafe sleep situations.” As part of NICHQ, SIDS conducted a survey
+on Safe Sleep practices from birth to age one year. The survey was given to birthing hospitals with
+survey questions such as “What are your sleep policies?” and “Do you have a sleep policy?” SIDS of
+Illinois is working with UIC epidemiology to interpret the data. The Illinois SIDS rate is 6 per 1000 with
+50% of deaths in Cook County. SIDS of Illinois was formed in 1968 and is celebrating their 50-year
+anniversary.
+Division of Specialized Care for Children
+Tess Rhodes from the Division of Specialized Care for Children (DSCC) reported that DSCC has 11
+regional offices throughout Illinois, provides care for children age’s birth to 21 years old and covers
+diagnostic testing for many disorders included in the newborn screening panel not covered by insurance.
+Their goal is partner with patients and providers to make necessary referrals. Their new assessment is
+family focused for ongoing care coordination. DSCC has a specific form for anyone doing diagnostic
+testing to submit to DSCC to start a referral and will contact the family even if the patient doesn’t qualify.
+They also offer care coordination and financial assistance for medical plans, transportation, and out of
+state care. She encouraged to the group to partner together since DSCC now covers costs that weren’t
+previously covered, such as sickle cell disease. ALD and SMA will also be covered. Tess will finalize
+their new referral form and post it on their website. Rich Dineen requested that the county finder be
+reinstated on their website, so centers know which office they need to refer their children to.
+Other New Business:
+Members stated that the group needs to look at the subcommittees and determine if they are still
+functional.
+Public Comments:
+Several parents attended the meeting to discuss screening for Guanidinoacetate Methyltransferase
+(GAMT) Deficiency. An overview was given, and parents asked if Illinois was planning on initiating
+screening for it. Matt Charles stated he has been talking with the Michigan NBS Program who is trying
+to implement GAMT screening into their existing Neobase assay. He also outlined the costs and a
+timeline if Illinois were to implement screening.
+Next Meeting Date:
+The date for the next meeting was not established, but a late fall 2019 meeting via videoconference was
+proposed. The group also discussed having all meetings in Chicago. The group indicated that in-person
+meeting were the preference of the majority. IDPH will send out a Doodle Poll for member availability
+to schedule a fall meeting. The meeting was adjourned at 1:35 PM.
+
+5
+
+ 

@@ -1,0 +1,2175 @@
+Minutes of the meeting of the Board of Directors of the Cook County Health and Hospitals System held Friday,
+February 1, 2013 at the hour of 7:30 A.M. at 1900 West Polk Street, in the Second Floor Conference Room, Chicago,
+Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Carvalho called the meeting to order.
+Present:
+
+Chairman David Carvalho, Vice Chairman Jorge Ramirez and Directors Hon. Jerry Butler; Quin
+R. Golden; Edward L. Michael; Luis Muñoz, MD, MPH; Heather E. O'Donnell, JD, LLM;
+Carmen Velasquez; and Dorene P. Wiese, EdD (9)
+
+Absent:
+
+Director Reverend Calvin S. Morris, PhD (1)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – System Chief Compliance and
+Privacy Officer
+John Cookinham – System Chief Financial Officer
+Hon. Bridget Gainer – Cook County
+Commissioner
+Susan Greene – System Interim Director of
+Managed Care
+David Harris - PricewaterhouseCoopers
+Helen Haynes – System Associate General
+Counsel
+Bala Hota, MD – System Interim Chief
+Information Officer
+
+II.
+
+Nancy Jaracek – John H. Stroger, Jr. Hospital of
+Cook County
+William Luallen – PricewaterhouseCoopers
+Terry Mason, MD – System Chief Medical Officer
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+Tom Schroeder – System Director of Internal
+Audit
+Joy Wykowski – Chief of Staff to the Chief
+Executive Officer
+
+Public Speakers
+Chairman Carvalho asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Board and Committee Reports
+A. Minutes of the Board of Directors Meeting, December 14, 2012
+Director Golden, seconded by Director O’Donnell, moved the approval of the minutes of
+the Board of Directors Meeting of December 14, 2012. THE MOTION CARRIED
+UNANIMOUSLY.
+B. Minutes of the Quality and Patient Safety Committee Meeting, December 18, 2012
+Director Velasquez, seconded by Director Muñoz, moved the approval of the minutes of
+the Quality and Patient Safety Committee Meeting of December 18, 2012. THE
+MOTION CARRIED UNANIMOUSLY.
+
+Page 1 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 2
+
+III.
+
+Board and Committee Reports (continued)
+C. Minutes of the Quality and Patient Safety Committee Meeting, January 23, 2013
+ Video presentation regarding the Board’s role in quality and patient safety –Transparency
+During the presentation of the Minutes, Director Michael stated that a topic that the Board ought to continue
+to discuss on a regular basis is the implementation process and status of the electronic medical records (EMR)
+system. Staff are still seeing some issues with the implementation; one of the suggestions mentioned by Dr.
+David Barker, Chief Medical Officer of the Ruth M. Rothstein CORE Center of Cook County, which was
+discussed at the meeting, is that the Committee and the Board should perhaps look at the addition of
+additional medical assistants in order to make the workflow more efficient and to free up the time of the
+medical professionals to be able to treat more patients.
+Chairman Carvalho requested that Dr. Bala Hota, System Interim Chief Information Officer, provide
+information regarding the subject. Dr. Hota responded that there are mandates, as far as what pieces of the
+patient clinical interaction have to take place. While those are generally accepted to be parts of the
+interaction, they have now been mandated and they are being measured; they have to be structured in a very
+specific way. He provided an example of this relating to medication reconciliation - every time there is a
+transfer of the patient, there should be a complete review of all the medications and an assessment of what the
+patient is currently taking; anything the patient is not currently taking should be removed from the list.
+Another example involves the depart process; this is a checklist of things that need to be done before the
+patient is allowed to leave, including follow-up appointments and patient education.
+Dr. Hota stated that the main thing that has changed is that the Centers for Medicare and Medicaid Services
+(CMS) and the Office of the National Coordinator want to know the rates at which the providers are doing
+these tasks. The Joint Commission has always mandated that medication reconciliation, for example, should
+be done, but sites are free to do it in the way they see fit; now this information has to be captured in the EMR.
+Every location has an opportunity to decide how that will implemented; Cerner had a set of recommendations,
+based on best practices, for some of these steps. Their recommendation for medication reconciliation, for
+example, was that a medication-by-history evaluation should be done by a non-physician at the start of every
+visit. As the System’s engaged group of leaders went through the planning process, it was determined that the
+System did not have the non-physician staff at that time to do that step, so the physicians perform that task.
+Similarly, with regard to the depart process, during which patient education is provided and follow-up
+appointments are scheduled for the patient, there is a lot of variability across the System as to who takes that
+role. When the Meaningful Use metrics are reported to CMS, they are reported under the national provider
+identifier (NPI) number of the physician who was assigned to the encounter; ultimately, the responsibility in
+the metric rolls up to the physician, even though it is very multi-disciplinary in terms of who should own
+different tasks. This organization has an opportunity to make that evaluation and decide the best work flow,
+and it does not necessarily have to be a “one size fits all.”
+Chairman Carvalho clarified that the System’s plan is to try to align tasks so that they are done in a best
+practice situation – tasks that could be done by non-physicians would be done by non-physicians. Dr. Hota
+responded affirmatively.
+He stated that he believed that Dr. Barker’s suggestion was to allow nonphysicians to be available to do steps that would fall under the domain of a non-physician – this would allow
+for a more clear assignment of roles within each clinic so that physicians can focus on patient care. Dr. Hota
+stated that there has been an effort to address this issue; however, the challenge is whether there are nonphysicians available for that purpose. The global philosophy has been that if there are people available to do
+this non-physician work, then have them do it.
+
+Page 2 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 3
+
+III.
+
+Board and Committee Reports
+C. Minutes of the Quality and Patient Safety Committee Meeting, January 23, 2013 (continued)
+A short video was presented to the Board that addressed the subject of transparency; this video was received
+at a recent National Association of Public Hospitals and Health Systems (NAPH) conference. This video was
+also presented at the January 23, 2013 Quality and Patient Safety Committee Meeting.
+Following the presentation of the video, Director Michael noted that Dr. Ram Raju, Chief Executive Officer,
+has been a leader in trying to improve transparency. Management is taking steps to get more information on
+the website so that all of the measures that the System is tracking from a quality and safety standpoint will be
+available to the public. He recommended that a little time be taken at the next Board Meeting to review the
+subject and to have Dr. Krishna Das, System Interim Director of Quality and Patient Safety, recap the
+performance metrics that the System has been measuring for 20121. That will be a good starting point for a
+discussion about areas for needed improvement, and also will lead into a discussion about the Quality
+Dashboard and key improvement areas that the Board wants to focus on moving forward.
+Chairman Carvalho noted that for several years now, the System’s quality data, along with data from all other
+Illinois hospitals, has been on the Illinois Department of Public Health’s website. The information on the
+website contains measures of national benchmarks and state benchmarks, but it is six to nine months old, due
+to the collection process. He stated that there is value for a hospital putting its own data on its own website
+because it would be much more current. Dr. Raju stated that the plan is to have quality data posted to the
+website by the end of the year.
+Director Michael, seconded by Director Butler, moved the approval of the minutes of the
+Quality and Patient Safety Committee Meeting of January 23, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+D. **Minutes of the Audit and Compliance Committee Meeting, January 23, 2013
+During the presentation of the Minutes, the Board discussed the subject of the status of facility/technical
+coding. For professional fees, coding is performed and monitored by staff from McKesson, an external
+vendor. Facility/technical coding is performed internally.
+McKesson monitors its professional fee coders very carefully to make sure they are performing at national
+levels; it was noted that some of the data relating to their performance is included in the minutes. Director
+Muñoz stated that at the Committee Meeting, he asked for the performance data on the internal
+facility/technical coding. It was communicated that monitoring of internal facility/technical coding is not
+actively being done. Director Muñoz expressed his frustrations upon hearing this information, as this issue
+has been a problem for years, and he was concerned that there has been little improvement. Upon further
+discussion at the Committee Meeting, it was communicated that there have been initial efforts by a consultant
+to assist with some review of emergency room billing and coding – this is part of a plan for a larger program
+for this type of monitoring, similar to the coding and quality assessment done by McKesson for professional
+fee coding. It is expected that the Committee will receive an update at their next meeting on the full program
+that is to be implemented in the very near future2.
+Chairman Carvalho noted that many of the System’s quality measures are derived from coding – if the coding
+is not accurate, then the quality measures are similarly not accurate. Four years ago, the Board identified
+coding as a deficiency; at that time, it was determined that if the System cannot do it internally at national
+standards of efficiency and quality, then it should not be done internally. There must be an audit system in
+place to ensure that internal coders are meeting the standards of efficiency and quality.
+Page 3 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 4
+
+III.
+
+Board and Committee Reports
+D. **Minutes of the Audit and Compliance Committee Meeting, January 23, 2013 (continued)
+Cathy Bodnar, System Chief Compliance and Privacy Officer, provided an overview of a matter that was
+discussed at the Committee Meeting regarding disclosures and the Conflict of Interest Policy. Ms. Bodnar
+noted that the survey tool for the annual Conflict of Interest Questionnaire will be rolled out in February to
+those individuals with decision-making capacity as part of their role. It will somewhat overlap the Statement
+of Economic Interest that the County requires to be completed; however, the Conflict of Interest
+Questionnaire does not take the place of the County’s form – both forms are required to be completed
+annually.
+Director Muñoz, seconded by Director O’Donnell, moved the approval of the minutes of
+the Audit and Compliance Committee Meeting of January 23, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+
+E. Minutes of the Finance Committee Meeting, January 25, 2013
+During the review of the Minutes, the Board discussed the CountyCare implementation activities, including
+those activities relating to communication and outreach efforts. It was noted that contractual requests relating
+to communication and outreach activities were included in these Minutes; those requests were recommended
+for approval by the Committee at the meeting.
+Director O’Donnell noted that the Committee discussed an issue regarding those patients who have declined
+to enroll in the Waiver, who are then potentially being enrolled in CareLink. She stated that this is
+problematic – the System will need to address a culture change within the organization and with the patients.
+Director Michael stated that it is important that the outreach efforts be monitored very closely to determine
+whether the enrollment rate among people who are eligible for CountyCare is increasing to acceptable levels.
+He noted that, if these new outreach efforts are effective, he believes that there is a good chance that the
+System can reach its goal of 115,000 enrollees. If the outreach efforts are not effective, and if one of the
+reasons they are not effective is because people are declining to enroll and are signing up for CareLink
+instead, then the issue of incentives and requirements needs to be reconsidered by the full Board.
+Susan Greene, System Interim Director of Managed Care, stated that, upon further research of the issue
+involving those patients who decline to enroll in CountyCare, it was determined that those individuals are not
+being offered CareLink as an option. The policy is that if the patient is eligible for any type of insurance,
+specifically Medicaid, they are not eligible for CareLink. How that is being implemented is a different
+question; it does raise some issues because several thousand people who are currently enrolled in CareLink
+have been identified as potentially being eligible for CountyCare; once staff begins to reach out to that group,
+will the System dis-enroll them from CareLink?
+Ms. Greene stated that an individual is ineligible for CareLink if they screen as eligible for CountyCare; if an
+individual files an application for CountyCare and is denied, then they are eligible for CareLink. In response
+to a question from Chairman Carvalho regarding what recommendations he might have to address the issue of
+those individuals who are eligible for CountyCare and decline to enroll, Dr. Raju stated that one of the major
+efforts that will be used to address the issue will be to use the System’s physician workforce to tell the
+patients how important it is for them to enroll. It is also in the patients’ best interests to enroll, because
+CountyCare gives them other benefits, such as full pharmacy and mental health benefits.
+
+Page 4 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 5
+
+III.
+
+Board and Committee Reports
+E. Minutes of the Finance Committee Meeting, January 25, 2013 (continued)
+Dr. Raju indicated that currently, the patients have not received enough information on CountyCare; more
+needs to be done to educate them. At this point, management is focusing on educating the patients, and has
+not yet discussed the policy with regard to that subject.
+Director O’Donnell stated that it is important to acknowledge that the System is in the early stages of
+implementation. Management needs to be allowed time to do community outreach and be able to educate
+patients and the community; however, in order to be successful in the enrollment efforts, it may require a
+change in behavior for some of the patients.
+Chairman Carvalho requested that further information be provided for the outreach contract regarding the
+contract scope, estimation of how the dollars will be spent, and process used to develop the Request for
+Proposals (RFP). Joy Wykowski, Chief of Staff to the Chief Executive Officer, stated that the outreach RFP
+went out in December and had eight responses. Responses to the RFP were reviewed by a team of six people;
+selection of The Prairie Group as the vendor for the outreach contract was unanimous. She noted that the
+System is also entering into a smaller contract with a different vendor for additional targeted outreach in the
+Hispanic community.
+There will be a very coordinated effort between media, outreach and enrollment
+activities done through the third party administrator (TPA). Moving forward, weekly meetings will take place
+to have that coordinated effort between the following individuals: Ms. Wykowski; Marisa Kollias, System
+Interim Director of Public Affairs; vendors for outreach and media; and representatives from the TPA and
+from two of the Federally-Qualified Health Centers (FQHCs) participating in the Waiver Project.
+Ms. Wykowski stated that management has the initial plans for both the media and outreach vendors; those
+initial plans are to be finalized by next Friday, and then the complete and finalized plans will be ready by
+March 8th. The initial focus of the outreach campaign relates to engagement with the FQHCs, and
+determining the initial reach-outs for the education component. There will be a kickoff meeting held possibly
+at the end of February; the meeting will include all of the stakeholders that are invested in the Waiver,
+including System Board Members, County Commissioners, faith-based organizations, elected officials and
+other community organizations. Also being considered is the development of a speakers’ bureau; Board
+Members will be contacted to see if they are interested in participating in this initiative. As part of the plan
+for coordination, The Prairie Group has split up the County into five districts; each district has a regional
+coordination manager, who will be responsible for setting up enrollment fairs and for all the reporting of their
+district’s data.
+With regard to the question of how the dollars under the outreach contract will be spent, Ms. Wykowski stated
+that a good portion of it will be spent on materials and costs for enrollment fairs - in securing the venues and
+getting the materials printed. The details for this are expected to be finalized with the development of the
+work plans. Chairman Carvalho stated that management needs to make sure that the contract includes an
+oversight function and provides a very clear ability to articulate how the money was spent and how the
+expenditures have been monitored.
+Chairman Carvalho noted that, in the Finance Committee and at the Board, there has been a focus on getting
+the Waiver, getting the contracts in place, getting the enrollment activities going, and receiving reports on all
+those activities. Now the Board should focus more on the provision of care and the fundamental internal
+restructuring that will be needed for the medical home model, to ensure that the System will be ready to
+manage those lives and provide the care in accordance with the waiver. He recommended that the Finance
+Committee receive information or a presentation on that aspect of it, which is just as critical to the Waiver
+Demonstration Project being successful as is the enrollment aspect3.
+Page 5 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 6
+
+III.
+
+Board and Committee Reports
+E. Minutes of the Finance Committee Meeting, January 25, 2013 (continued)
+Director Golden referenced information provided earlier regarding the potential 1,000 patients who are
+enrolled in CareLink but are eligible for enrollment in CountyCare. She asked whether Automated Health
+Systems (AHS) is reaching out to those patients to navigate them over to CountyCare. Ms. Greene responded
+affirmatively. Director Golden inquired whether the outreach entity will be working very closely with AHS
+or whether AHS will provide the reports for the outreach vendors; she stated that this could help them to have
+a more narrow focus, in terms of where the outreach vendor targets some of their community saturation
+activities. Ms. Greene stated that that is a very good idea. At this point, management is getting the report
+back from AHS on the identity of the individual System patients who are declining, and then trying to work
+with the clinics to identify the provider for that patient.
+Director O’Donnell, seconded by Director Butler, moved the approval of the minutes of
+the Finance Committee Meeting of January 25, 2013. THE MOTION CARRIED.
+Chairman Carvalho voted PRESENT on request numbers 1 and 10, under the Contracts
+and Procurement Items contained within the Minutes.
+F. **Minutes of the Human Resources Committee Meeting, January 25, 2013
+Director Golden, seconded by Director Muñoz, moved the approval of the minutes of the
+Human Resources Committee Meeting of January 25, 2013. THE MOTION CARRIED
+UNANIMOUSLY.
+
+IV.
+
+Action Items
+A. Contracts and Procurement Items
+There were no Contract and Procurement Items presented for the Board’s consideration.
+B. Any items listed under Sections III, IV and VII
+
+V.
+
+Report from Chairman of the Board
+Chairman Carvalho noted that on January 24th, Dr. Raju delivered a speech at a City Club of Chicago event.
+Chairman Carvalho stated that the speech was well received; Dr. Raju spoke regarding the fundamental changes
+in the way the System delivers care that are required in order to be successful.
+
+VI.
+
+Report from Chief Executive Officer (Attachment #1)
+Dr. Raju provided an update on the following subjects: Public Health Update; Gift of Hope; and Stroger Hospital
+Executive Medical Staff Annual Meeting. The Board reviewed and discussed the information.
+Additionally, Dr. Raju provided an update on the pro-bono assistance that has been received from Bain &
+Company, a consulting firm. He stated that the consultants set up a project management office (PMO) and have
+taken on various projects, including the 1115 Waiver enrollment. He noted that their engagement with the
+System is nearing its end; they will probably be gone at the end of this month. The PMO will continue to run
+internally after Bain has gone, as this is a very disciplined way of running projects. Dr. Raju stated that, at some
+Page 6 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 7
+
+VI.
+
+Report from Chief Executive Officer (continued)
+point, he would be happy to give a full presentation on Bain’s total activities during their four-month engagement.
+Chairman Carvalho responded that the Board would be interested in receiving a report on this subject4.
+Dr. Raju’s report included the recognition of the following events/individuals/subjects:
+ Dave Krupa, Painter – Provident Hospital
+ Roger Perry, Machinist Foreman – Stroger Hospital
+A. Wrap-up Report from PricewaterhouseCoopers (Attachment #2)
+Chairman Carvalho introduced William Luallen and David Harris, of PricewaterhouseCoopers (PwC).
+Chairman Carvalho stated that he had asked for this report, in the nature of an exit interview. PwC has been
+fundamentally intertwined with the System over the last several years, working at all sorts of levels to make
+up for/help out with/share best practices with every level of the organization. Chairman Carvalho thought
+that the Directors would benefit from hearing their perspectives as they exit, both to inform the Board of the
+accomplishments during that time frame, as well as to provide an idea of what remains to be done. He added
+that the premise for this and several other engagements of consultants in the System has been the aim of
+hiring consultants to leave the System in a better position and with knowledge transfer.
+During the presentation, Mr. Luallen noted that the one issue PwC did not recognize until they began working
+in July 2010 was how many people they would have to inject into the departments to actually do the work.
+He stated that he was happy to say there are not any staff positions being augmented by PwC staff at this
+time. Back in July 2011, when the current management team came on board, it was determined that
+elimination of the staff augmentation and recruitment of employees to do this work was a top priority.
+During Mr. Harris’ review of the information provided regarding the Revenue Cycle activities, he
+recommended that further thought and focus should be provided to the issue surrounding the System’s
+inability to collect co-pays at the point of service. He noted that this issue ties into some of the programs like
+CareLink, and it will become an increasingly bigger issue as it relates to health care reform. One of the big
+inhibitors relating to this issue is the fact that the System cannot process credit cards, because the patient
+would have to assume the credit card fee or the basis points for that transaction. He recommended that the
+System work very closely with the County to have the County absorb those credit card processing fees. If the
+System really wants to collect money at the point of service, he believes that most people prefer to use their
+debit or credit card, even for a $5 or $10 co-pay.
+Chairman Carvalho referenced Mr. Luallen’s earlier comments regarding a revenue cycle report card; he
+inquired whether Mr. Luallen could perhaps be able to work with Director O’Donnell to tailor something
+similar for this Board – something of a higher-level view, not a management-level view. Mr. Luallen
+responded affirmatively5.
+Chairman Carvalho stated that, with regard to the subject of point of service collection of co-pays, there are
+policy implications in that and a policy choice; he asked whether Mr. Luallen or Mr. Cookinham have access
+to information of what other systems, particularly other public health systems, are doing in this regard - both
+the specific detail that was mentioned regarding credit cards, and whether those systems are collecting copays at all. Mr. Luallen responded that there was an April 2010 report prepared by PwC that compared the
+System with other health systems, and addressed subjects such as the collection of co-pays. He stated that
+this information can be re-examined and updated to see what has evolved6.
+
+Page 7 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 8
+
+VI.
+
+Report from Chief Executive Officer
+A. Wrap-up Report from PricewaterhouseCoopers (continued)
+Chairman Carvalho inquired further regarding the information provided on optimizing the Cerner System. He
+asked whether Mr. Harris could elaborate further on the following three questions: What it is that the Cerner
+System has the capacity to do, in addition to its current utility? What would be the benefit from using it that
+way? What would be the impediments?
+Mr. Harris stated that the Cerner System is a very good clinical information system, widely used in the
+academic teaching hospital setting around the country. The System’s EMR is Cerner. There are certain
+feeder systems that will feed the EMR - one of those is called orders. One does orders to a certain degree
+with other applications, but one could use Cerner for all the orders; that would be optimal, because one
+integrated system would be used to do all the orders, instead of using multiple systems.
+Dr. Terry Mason, System Chief Medical Officer, provided additional information. Cerner functions on what
+are called “orderables”; everything put in Cerner is an orderable. Because Cerner is a link to the interface to
+Siemens, which is the billing system, anything that does not get to Cerner will not get to Siemens. Many of
+the tests are ordered in another system, the IRIS System. When a person makes a referral in IRIS, that does
+not in turn translate to an orderable in Cerner. Dr. Hota is currently leading a project to create the
+functionality in Cerner that currently exists in IRIS, so that staff can then order all of these tests in Cerner, as
+opposed to ordering them in IRIS.
+Chairman Carvalho clarified that Mr. Harris’ suggestion of enhancing the system in order for orderables and
+all tests to all be done in the Cerner System is actively being pursued by System staff. Dr. Mason responded
+affirmatively, and indicated that the plan to achieve success on this initiative will be brought for discussion to
+the Board or to one of the Committees in the near future7.
+With regard to the Cook County Health Foundation, Mr. Luallen offered to provide assistance in a pro-bono
+capacity, on behalf of PwC. He noted that PwC helped to form the 501(c)3 organization at Grady Health
+System; that organization has now raised over $450 million. Additionally, PwC similarly assisted Jackson
+Health System; over $100 million has been raised for that organization within the last two years.
+
+VII. Closed Session Items
+A. Claims and Litigation
+B. **Minutes of the Audit and Compliance Committee Meeting, January 23, 2013
+C. **Minutes of the Human Resources Committee Meeting, January 25, 2013
+Director Muñoz, seconded by Director Velasquez, moved to recess the regular session and
+convene into closed session, pursuant to the following exceptions to the Illinois Open Meetings
+Act: 5 ILCS 120/2(c)(1), regarding “the appointment, employment, compensation, discipline,
+performance, or dismissal of specific employees of the public body or legal counsel for the
+public body, including hearing testimony on a complaint lodged against an employee of the
+public body or against legal counsel for the public body to determine its validity,” 5 ILCS
+120/2(c)(2), regarding “collective negotiating matters between the public body and its
+employees or their representatives, or deliberations concerning salary schedules for one or more
+classes of employees,” 5 ILCS 120/2(c)(11), regarding “litigation, when an action against,
+affecting or on behalf of the particular body has been filed and is pending before a court or
+administrative tribunal, or when the public body finds that an action is probable or imminent, in
+which case the basis for the finding shall be recorded and entered into the minutes of the closed
+Page 8 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 9
+
+VII. Closed Session Items (continued)
+meeting,” 5 ILCS 120/2(c)(12), regarding “the establishment of reserves or settlement of claims
+as provided in the Local Governmental and Governmental Employees Tort Immunity Act, if
+otherwise the disposition of a claim or potential claim might be prejudiced, or the review or
+discussion of claims, loss or risk management information, records, data, advice or
+communications from or with respect to any insurer of the public body or any intergovernmental
+risk management association or self insurance pool of which the public body is a member,” and
+5 ILCS 120/2(c)(28), regarding “meetings between internal or external auditors and
+governmental audit committees, finance committees, and their equivalents, when the discussion
+involves internal control weaknesses, identification of potential fraud risk areas, known or
+suspected frauds, and fraud interviews conducted in accordance with generally accepted auditing
+standards of the United States of America.”
+On the motion to recess the regular session and convene into closed session, a roll call was
+taken, the votes of yeas and nays being as follows:
+Yeas:
+
+Chairman Carvalho, Vice Chairman Ramirez and Directors Butler, Golden,
+Michael, Muñoz, O’Donnell, Velasquez and Wiese (9)
+
+Nays:
+
+None (0)
+
+Absent:
+
+Director Morris (1)
+
+THE MOTION CARRIED UNANIMOUSLY.
+Chairman Carvalho declared that the closed session was adjourned. The Board reconvened into
+regular session.
+VIII. Adjourn
+As the agenda was exhausted, Chairman Carvalho declared the MEETING
+ADJOURNED.
+Respectfully submitted,
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXX
+David Carvalho, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 9 of 45
+
+ Minutes of the Meeting
+of the CCHHS Board of Directors
+Friday, February 1, 2013
+Page 10
+
+1
+
+Follow-up: for next Board Meeting, discussion of quality and patient safety-related matters (page 3).
+
+2
+
+Follow-up: for April Audit and Compliance Committee Meeting, update to be provided on plan for monitoring
+facility/technical coding (page 3).
+
+3
+
+Follow-up: for future Finance Committee Meeting, request for presentation on the status of Waiver Demonstration
+preparations to address the aspect of the provision of care and fundamental internal restructuring (page 5).
+
+4
+
+Follow-up:
+
+for future Board or Committee Meeting, presentation to be made regarding Bain & Company’s
+engagement at the System (page 7).
+
+5
+
+Follow-up: request for development of a Board-level informational tool, similar to a revenue cycle report card (page
+7).
+
+6
+
+Follow-up: request for update regarding comparison of other health systems’ policies regarding collection of co-pays
+at point of service and acceptance of credit cards for payment (page 7).
+
+7
+
+Follow-up: for future Board or Committee Meeting, update to be provided on initiative to optimize functionality for
+Cerner System (page 8).
+
+Page 10 of 45
+
+ Cook County Health and Hospitals System
+Board of Directors Meeting Minutes
+February 1, 2013
+
+ATTACHMENT #1
+
+Page 11 of 45
+
+  
+RAM RAJU, MD, MBA, FACHE, FACS 
+CHIEF EXECUTIVE OFFICER 
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM 
+REPORT TO THE BOARD OF DIRECTORS 
+February 1, 2013 
+ 
+PUBLIC HEALTH UPDATE 
+Cook County Department of Public Health continues on its path toward accreditation. Documents have 
+been loaded on the e‐PHAB website (electronic Public Health Accreditation Board site) in preparation for 
+the mock site review that is scheduled for February 1, 2013.  
+ 
+An all staff educational update was held in December 2012 to update staff on the Accreditation process, 
+implementation of the Strategic Plan 2015, and implementation of the action plans to address the four 
+health  priorities  identified  in  the  health  improvement  plan  ‐  Cardiovascular  Disease,  Youth  Violence, 
+Adolescent  Sexual  Health,  and  Access  to  Care.  In  addition,  the  staff  all  received  an  orientation  to  the 
+1115 Waiver, strategies, and its impact on the Cook County Health and Hospitals System.  
+ 
+The  Communicable  Disease  Control  Unit  continues  to  conduct  active  surveillance  of  influenza  activity 
+from  sentinel  sites  including  Ambulatory  and  Community  Health  Network  sites  in  suburban  Cook 
+County.  It  appears  that  influenza  activity  has  peaked  in  the  area.  Over  the  past  two  weeks,  there  has 
+been a decrease in the number of ICU admissions associated with influenza and reports of influenza like 
+illness from emergency rooms in suburban Cook County. The CD Unit continues to actively investigate 
+outbreaks of Norovirus. There is increased Norovirus activity in the community mostly reported in long 
+term care facilities and restaurants.  
+ 
+The Childhood Lead Poisoning Program (LPPU) is currently working on a grant application for submission 
+in the next month to HUD seeking $3,000,000 over 3 years to conduct lead‐based paint hazard reduction 
+and outreach through the Cook County Lead Education, Engagement and Remediation Project (CCLEER). 
+This grant will focus on 200 housing units of children with blood lead levels between 5ug/dL and 9ug/dL 
+
+Page 12 of 45
+
+ in  the  highest  risk  areas  of  suburban  Cook  County  –  Maywood,  Bellwood,  Cicero,  and  Berwyn.  These 
+levels  are  below  current  Illinois  Department  of  Public  Health  (IDPH)  requirements  but  consistent  with 
+the  new  recommendations  of  the  Centers  for  Disease  Control  and  Prevention  for  lead  poisoning 
+intervention.  
+ 
+The LPPU received notice that they will also be managing windows provided through a settlement with 
+the  Environmental  Protection  Agency  (EPA)  with  Feldco®  for  use  in  lead  paint  hazard  remediations  in 
+suburban  Cook  County.  These  windows  will  supplement  existing  Torrens  Remediation  Grant  funded 
+projects. 
+GIFT OF HOPE 
+The Gift of Hope Organ & Tissue Donor Network President and CEO Jarold Anderson sent two thank you 
+letters for the assistance in coordinating organ donation cases.  The case dated October 24, 2012 saved 
+three lives: a 45 year‐old man Illinois that had been waiting for over a year received the lungs; a 48 year‐
+old woman from Illinois received the liver; and a 58 year old man from Illinois had been waiting for over 
+one and a half years for the right kidney and pancreas.  The case dated October 31, 2012 saved seven 
+lives: a 17 year old boy from Illinois received the heart; a nine month old baby from Illinois and a 52 year 
+old woman from Illinois received a part of the liver; a 65 year old man from Ohio had been waiting for 
+one  month  received  the  right  lung;  a  65  year  old  man  from  Ohio  had  been  waiting  for  three  months 
+received the left lung; a 48 year old woman from Illinois had been waiting a year and received the left 
+kidney  and  pancreas;  and  a  70  year  old  man  from  Illinois  received  the  right  kidney.    Mr.  Anderson 
+extended  his  deepest  appreciation  to  each  Stroger  Hospital  staff  member  that  played  a  role  in  the 
+donation process for this patient, beginning with the Intensive Care Unit.  Working together, CCHHS and 
+the Gift of Hope to save and enhance the lives of as many people as possible through organ and tissue 
+donation. 
+STROGER HOSPITAL EXECUTIVE MEDICAL STAFF ANNUAL MEETING 
+On January 30, 2013 the Executive Medical Staff (EMS) of Stroger Hospital held their Annual Meeting in 
+which they recognized two physicians for their forty years of service:  
+Dr. Norman Jacobs, Pediatrics – Dr. Jacobs continues to give a weekly infectology lecture to the 
+residents,  is  the  ward  attending  more  weeks  on  service  than  any  other  member  of  the 
+Department,  and  is  the  infectologist  365  days  a  year.   He  is  the  Department  historian  and 
+
+2   P a g e  
+ 
+
+Page 13 of 45
+
+ archivist, with pictures of every resident class ‐ on arrival and at graduation going back decades.  
+He  has  an  intricate  filing  system  of  3x5  cards  with  patient  histories,  findings  and  diagnoses  so 
+could tell you that in such‐and‐such a year we saw 10 kids with epiglottitis and their ages and 
+presenting  symptoms.   He  is  the Chicago‐based  father  or  grandfather  for  generations  of 
+international grads who are far from their families. 
+ 
+Dr. Lily Hussein, Oncology ‐  Dr. Hussein came to Cook County Hospital in 1966 to do an internal 
+
+medicine residency. Following this she completed a fellowship in hematology at county, which 
+was then a one year program.  At that time the subspecialties were in a state of evolution and 
+Medical  Oncology  did  not  exist.    She  went  to  UIC  in  1971  where  Dr  DasGupta  had  just  come 
+from  Memorial  Sloan  Kettering  in  New  York  and  had  initiated  post‐graduate  training  in 
+oncology.    This  was  a  pioneering  effort  and  as  a  result  Dr.  Hussein  became  one  of  the  first 
+medical  oncologists  in  Chicago.    She  has  remained  at  Cook  County  ever  since  with  a  strong 
+commitment to caring for our population.   She has kept abreast of a continuously changing field 
+while providing the perspective of her long experience to our oncology trainees.  Cook County 
+Hospital  and  its  cancer  patients  have  been  the  beneficiaries  of  her  dedication,  expertise,  and 
+wisdom for the past 40 years.   
+The EMS also acknowledged Dr. David Goldberg two terms he served as President of the Executive Medical Staff 
+for Stroger Hospital.  During his tenure as president from 2009‐2012 he performed outstanding service as the 
+
+chief  administrative  officer  of  the  Medical  Staff  and  as  the  Chair  of  the  Executive  Medical  Staff 
+Committee with some of the highlights as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presided over several EMS peer review deliberations to enforce Medical Staff Bylaws and its 
+Rules  and  Regulations,  for  implementation  of  sanctions  where  these  are  indicated  and  for 
+the Medical Staff’s compliance with procedural safeguards.  
+Served  as  Joint  Conference  Committee  (JCC)  Chairman  and  Ex‐officio  member  of  17  other 
+Medical Staff Committees. 
+Acted  as  liaison  ‐  collaborated  between  the  Medical  Staff  and  Hospital/System  leadership, 
+the  CCHHS  Board  of  Directors,  and  the  Board  of  Commissioners  to  represent  the  views, 
+policies and needs of the patients and the Medical Staff. 
+Continued  efforts  (from  role  as  VP  of  Medical  Staff  ‐2007/2009)  to  advocate  and  support 
+independent governance for the health system. 
+ Co‐drafted Medical Staff Resolution  
+ Presented at Board of Commissioners hearings  
+Held annual meetings and presented annual State of the Medical Staff reports at the same. 
+Supported and participated in hospital regulatory and related activities. 
+Attended regular Quality and Patient Safety Committee meetings. 
+Appointed committee  chairs for:  Internal Review Board (IRB) Committee and Department 
+Chair Search Committee. 
+Appointed several medical staff committee members as the need arose. 
+3   P a g e  
+
+ 
+
+Page 14 of 45
+
+ 
+
+
+
+
+
+
+Honored as Stroger Hospital’s “Physician of the Year”. 
+Serves as (interim) Stroger Hospital Bylaws Committee Chairman. 
+Appointed committee chairs for:  Credentials, Nominations, and Department Chair Search 
+Committees. 
+Bylaws:  Headed efforts to amend and obtain approval for recently approved Medical Staff 
+bylaws ‐ effective 12/14/12. 
+Communications:  Forwards regular electronic updates to the Medical Staff. 
+Continuing work on Rules and Regulations Update. 
+
+ 
+We thank Drs. Hussein, Jacobs and Goldberg for the contributions and dedication. 
+ 
+RECOGNITION 
+Dave Krupa, Painter ‐ Provident Hospital 
+Dave goes out of his way to provide the patients, visitors and staff with a home like environment.  He is 
+always at the ready for any project and handles an emergency like a pro.  There is not job that is too big 
+or  small  for  Dave,  he  is  also  the consummate  team  player.    During  preparations  for  the  Christmas 
+Holiday the decorations were accidently miss‐placed, Dave purchased a tree and other decorations with 
+his own money.  He engages visitors, families and staff and treats all like family. 
+  
+Roger Perry, Machinist Foreman ‐ Stroger Hospital 
+Coordinated all the transfer of equipment from Oak Forest to Stroger Hospital.  Roger is the person to 
+call when you need something moved, fixed or taken away. He is never too busy to stop and ask how 
+you are doing having seen the way Roger interacts with all staff, visitors and families is proof that he is 
+patient  focused.    Over  the  past  25  years  and  even  when  short  staffed,  Roger  has  never  complained 
+about any assignment. He is a pleasure to work with and is an asset to CCHHS. 
+ 
+Note:  The Sumner L. Koch Burn Center Annual Report 2012 was submitted under separate cover. 
+
+4   P a g e  
+ 
+
+Page 15 of 45
+
+ Cook County Health and Hospitals System
+Board of Directors Meeting Minutes
+February 1, 2013
+
+ATTACHMENT #2
+
+Page 16 of 45
+
+ www.pwc.com
+
+Working together to
+achieve success
+Cook County Health &
+Hospital Systems
+Summary Value Report
+November 2012
+
+Page 17 of 45
+
+  
+
+I Our commitment to 
+
+ 
+
+
+
+Our opportunity to serve youIf one person falls, the other can reach out and help. But someone who falls alone is in real trouble.
+
+We have been fortunate to be working shoulder to shoulder with the dedicated board and
+employees at Cook County Health and Hospital Systems for these last two years. We have
+had the privilege of supporting one of the country's best safety net hospitals when it
+encountered a period of economic strain related to providing unprecedented levels of
+uncompensated care for many of the over 300,000 patients who annually come through
+their doors. The System was not left alone.
+Through blizzards, mandatory furlough days, 3 CEOs, and the worse economic recession
+this country has seen since the Great Depression, together we remained steadfast in
+honoring CCHHS’ commitment to provide a “comprehensive program of Quality
+healthcare with respect and dignity, to the residents of Cook County, regardless of their
+ability to pay.”
+In the pages that follow, we have highlighted our collective accomplishments across
+several areas such as revenue cycle reimbursement, IT optimization, supply chain, clinical
+operations, research & grants and public health. Underlying these accomplishments is a
+robust knowledge transfer, education, training and knowledge sharing program whereby
+we provided over 1200+ deliverables on your Knowledge Web at CCHHS in an effort to
+ensure the noted accomplishments are sustained. When we arrived, the organization was
+reliant fully on outside assistance. Today, all major business and operating functions are
+provided by talented, trained CCHHS employees.
+Thank you for the opportunity to be at your side. We are honored to serve.
+
+Best regards,
+
+Bill Luallen
+Global Engagement Partner
+
+Joe Albian
+Senior Relationship Partner
+PwC
+
+Page 19 of 45
+
+3
+
+  
+
+I Collaborating for success
+
+ 
+
+
+
+Collaborating for success
+The following pages provide an overview of where we have supported ,
+trained , served and transitioned a sustainable CCHHS over the past 27
+months .
+
+PwC
+
+Page 21 of 45
+
+5
+
+ Revenue Cycle - Cash
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+
+CCHHS narrows budget deficit through improved cash management
+transitioning from outsource reliance to a robust and talented internal revenue
+cycle team.
+
+FY 2012 Cash vs. Budget and Previous Fiscal Years
+
+$700,000,000
+$634.4 M
+$600,000,000
+
+$578.3 M
+$536.5 M
+
+$500,000,000
+
+$480.9 M
+
+Actual
+through
+11/30/12
+
+FY2011
+
+FY2012
+
+$400,000,000
+$300,000,000
+$200,000,000
+$100,000,000
+
+$-
+
+FY2010
+
+PwC
+
+Page 22 of 45
+
+6
+
+ Revenue Cycle - Cash
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+
+CCHHS narrows budget deficit through improved revenue management
+ FY2011 CCHHS experienced a budget shortfall of approximately $151
+Million
+ FY2012 , CCHHS experienced a cash to budget shortfall of approximately
+$56.1 Million
+
+$700
+
+Cumulative Fiscal 2012 Cash vs. Budget and
+Previous Fiscal Year (in Millions)
+
+$600
+
+$500
+
+$400
+
+$300
+
+$200
+
+$100
+
+$-
+
+Cumulative 2011
+PwC
+
+Cumulative 2012
+
+Page 23 of 45
+
+Cumulative 2012 Budget
+7
+
+ Revenue Cycle - Cash
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+
+CCHHS narrows budget deficit through improved revenue management
+ FY2012, Medicare cash exceeded FY2011 by $3 Million and Other cash by
+$9.3 Million
+ 15.9% improvement in non-Medicaid cash due to implementation of
+commercial claims scrubber group
+Cumulative Medicare (in Millions)
+$70
+FY11
+
+FY12
+
+$60
+$50
+$40
+$30
+$20
+$10
+$-
+
+$30
+
+Cumulative Other (in Millions)
+FY11
+
+FY12
+
+$25
+$20
+$15
+$10
+$5
+$-
+
+PwC
+
+Page 24 of 45
+
+8
+
+ Revenue Cycle – Reimbursement
+CCHHS Sponsor: John Cookinham, Bob Vais
+PwC Leadership Team: Dave Harris, Jose Robles
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• Need for optimal reimbursement
+rates from both Medicare and
+Medicaid
+
+• Identified issues on Medicare cost
+reports causing understated cost to
+charge ratios for Medicare outlier
+reimbursement
+
+. Estimated benefit realized for FY11
+is $700K with anticipated annual
+benefit of $1M
+
+• Need for methodology to capture
+all Medicaid Eligible days
+allowable for Medicare DSH
+calculation
+
+• Estimated benefit related to filing of
+amended cost reports is $1M per
+• Worked with CCHHS
+year. Total estimated benefit $5M
+reimbursement team to perform
+analysis and revise revenue reported
+• Medicaid Per Diem and APL Retro
+on report schedules; based on
+• Need for methodology to convert
+rates analysis negotiation and
+analysis, filed amended FY07-FY10
+Medicare Cost Report Data based
+independent calculation support to
+cost reports
+on “All Inclusive “ provider type to
+realize benefit to date of $49M
+serve Medicaid rate setting
+• For Medicaid Per Diem and APL
+• Estimated impact of revised DSH
+process
+Retro rates, identified issues on
+calculation for FY2009 is $500K;
+Medicare/Medicaid cost reports
+• Need methodology for reporting
+Estimated impact for FY06 is also
+causing understated cost to charge
+costs and optimizing
+$500k.
+ratios being used an d incorrectly
+reimbursement for services
+applied by Medicaid rate setting
+• Provided various exercises that will
+provided under the proposed
+team
+allow CCHHS to develop cost report
+Medicaid 1115 Waiver.
+methodology and process to capture
+• Developed independent rate
+• Need ongoing support for the
+all Waiver related costs and optimize
+calculation indicating material
+successful implementation of the
+reimbursements
+underpayments; presented findings
+1115 Waiver program as it relates
+to Medicaid rate setting team and
+• Successfully supported CCHHS
+to identifying billing and claiming
+their consultants; officials agreed
+Waiver team in securing optimal
+process for services provided
+that the rates must be amended
+PMPM rate and we were an integral
+under the program.
+effective 7/1/2012
+part of the team that helped secure
+the 1115 Waiver that could be worth
+• Assisted CCHHS team in identifying
+up to $100M to the system
+additional Medicaid eligible days to
+be included in the DSH calculation
+• Identified opportunities and
+operational gaps to be considered
+• Worked with CCHHS
+during the design of process.
+reimbursement team to develop
+model for consolidated “system cost
+• Updated FY12 and FY13 Medicaid
+report” and proposed methodology
+Per Diem and APL Retro rates
+to capture costs and optimize
+embedded PwC findings which were
+reimbursement.
+the basis for earlier $49M. UPL
+payment for Dec 2012 estimated at
+• Worked with Medicaid to propose
+$8.5 M (Gross) with an additional
+approach for cost reconciliation
+undetermined payment in Jan 2013
+related to Waiver
+
+Original CCHHS Sponsor: Michael Ayres
+
+PwC
+
+Page 25 of 45
+
+9
+
+ Revenue Cycle – Patient Access
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+Business Driver
+
+PwC’s response
+
+• Lack of Pre-Processing prior to
+point-of-service
+
+• Implemented Pre-Processing Center
+to capture patient information prior
+to point-of-service
+
+•
+•
+
+•
+•
+•
+
+Value to CCHHS
+
+• Increase in capturing accurate
+patient information and
+collaboration with Financial
+CCHHS Identified a need to revise
+Counseling prior to patient visit to
+• Designed and implemented Carelink
+Charity Care Program
+improve efficiency at time of
+charity care program
+registration at the point-of-service
+Immediate staffing needs to
+• Implemented Centralized
+support registration at all patient
+• Improved customer service and
+Scheduling Center to centralize,
+access points
+access to the hospital and ACHN
+streamline scheduling at the clinics
+clinics
+as well as to improve customer
+Inconsistent Scheduling Processes
+service
+among hospital and ACHN clinics
+• Identified opportunities and
+• Developed and revised registration
+operational gaps that led to review
+Inconsistent Registration
+processes , job descriptions,
+of billing denials and
+Processes
+implemented policies and
+implementation of managed care
+procedures and Key Performance
+processes such as Illinois Health
+Lack of Denials Management
+Indicators to support leading
+Connect
+practice models. Published
+• Acquire and report accurate
+documents on CCHHS Knowledge
+financial information
+Web to track and monitor
+performance for select clinics
+• Key Performance Indicators
+• Established Patient Access system
+• Leadership and Management
+structure and realigned staffing to
+development
+streamline processes, training and
+provide added efficiency
+• Conducted multiple educational
+sessions for management, site level
+business owners and site clinic
+registrars to improve scheduling and
+registration accuracy and customer
+service
+• Developed and implemented a
+Denials Management program in
+Patient Access to review and
+adjudicate denial claims
+• Functioned in a paired advisor role
+to facilitate information system
+changes and project management
+for revenue cycle initiatives
+• Designed a communication plan
+among the revenue cycle areas
+
+Original CCHHS Sponsor: Michael Ayres
+
+PwC
+
+Page 26 of 45
+
+10
+
+ Revenue Cycle – Revenue Integrity
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+Business Driver
+
+PwC’s response
+
+• Lack of standard process to create
+and update the Charge
+Description Master (CDM)
+
+• Implemented Revenue Integrity
+• Increase in charge capture at the
+Program to increase revenue via
+clinics
+charge capture awareness and
+enhance communication with clinics • Improved knowledge and awareness
+as to the importance of charge
+• Created a priority schedule to
+capture and revenue integrity
+engage clinics to the Revenue
+Integrity Program
+• Identified opportunities and
+operational gaps that led to review
+• Developed and implemented
+of CDM inconsistencies and
+policies and procedures, Key
+implementation a process to update
+Performance Indicators to support
+CMS going forward
+leading practice models. Published
+documents on CCHHS Knowledge
+• Acquire and report accurate
+Web and Intranet to track and
+financial information
+monitor performance for selected
+clinics as well as to enhance
+• Developed Key Performance
+communication
+Indicators to track and monitor
+performance
+• Designed and implemented a
+
+• Multiple inconsistent CDMs
+• Lack of a formal system-wide
+pricing strategy
+• Lack of general charge capture
+and CDM knowledge and
+awareness in the clinics and the
+impact on the organization
+• Inconsistent charge capture
+processes in the clinics
+• Lack of a Revenue Integrity
+Program
+• Lack of formal policies and
+procedures as well as
+communication with clinics
+• CCHHS identified a need to
+capture and charge for services
+provided in Employee Health
+
+system-wide Pricing Policy
+
+• Established Revenue Integrity
+system structure and realigned
+staffing to streamline processes,
+training and provide added
+efficiency
+
+Value to CCHHS
+
+• Leadership and Management
+development
+
+• Conducted multiple educational
+sessions for management, site level
+business owners, site clinic
+registration staff as well as clinical
+staff to improve charge capture as
+well as to gain proficiency in
+understanding the CCHHS Charge
+Report
+• Functioned in a paired advisor role
+to facilitate information system
+changes and project management
+for Revenue Integrity initiatives
+• Designed a communication plan
+between Revenue Integrity and the
+clinics
+
+Original CCHHS Sponsor: John Cookinham
+
+PwC
+
+Page 27 of 45
+
+11
+
+ Revenue Cycle – Central Business
+Office
+CCHHS Sponsor: John Cookinham
+PwC Leadership Team: Dave Harris
+
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• Need for integrated patient
+accounting system and
+consolidated business office
+
+• Assisted with the planning, design,
+and implementation of one patient
+accounting platform and one central
+business office
+
+• Consolidated all Enterprise
+activities into a single system to
+standardize information, reporting,
+and data management.
+
+• Worked closely with Union and
+CCHHS HR to create a Central
+Business Office
+
+• KPI monitoring
+
+• Three separate business offices
+with three separate CDM’s
+• Outdated billing software and
+workflow management tools
+• Need for A/R reduction and
+improved net revenue
+performance
+• Lack of Denials Management
+program
+• Need for a Vendor Management
+program
+• Need for a Cash Reconciliation
+policy and procedures
+
+• Implemented Executive Dashboard
+and KPI monitoring
+• Assisted with RFP and
+implementation of Emdeon billing
+software
+• Developed and redesigned workflow
+management tools for CCHHS staff
+and vendors through Siemens
+Collector Workstation
+• Developed policies and procedures
+to support future state workflow
+• Focused activity and training on
+account resolution
+
+• Improved claims submitted (clean
+claim rate and volume) and reduced
+of backlogs
+• Accelerated Commercial and
+Medicare payments through new
+billing software.
+• Improved overall cash collections
+and tools to maintain sustainability
+• 30 reduction in A/R since April
+2012
+• Identified $24M in Medicaid
+vouchers previously unapplied to
+host system ($15 M Legacy)
+
+• Developed Denials Management
+tools within Siemens Collector
+Workstation
+• Established policies and procedures
+to reconcile cash receipts from the
+bank deposits to the host patient
+accounting system
+
+PwC
+
+Page 28 of 45
+
+12
+
+ Revenue Cycle – Central Business
+Office
+CCHHS Revenue Cycle
+
+Average Monthly IP and OP A/R Trend
+$500,000,000
+
+$443.5 M
+
+$450,000,000
+
+Decrease of $133.3 M
+
+$400,000,000
+
+$310.2 M
+
+$350,000,000
+$300,000,000
+$250,000,000
+$200,000,000
+$150,000,000
+
+April
+
+May
+
+June
+IP
+
+July
+
+August
+
+September October November
+
+OP (Less OPEX)
+
+CCHHS Revenue Cycle
+
+Average Monthly Charges Held in Emdeon (2012)
+$12,000,000
+
+$10.9 M
+
+$10,000,000
+
+Decrease of $8.5 M
+
+$8,000,000
+$6,000,000
+$4,000,000
+
+$2.4 M
+
+$2,000,000
+$-
+
+PwC
+
+Page 29 of 45
+
+13
+
+ Infrastructure Development
+PwC was asked to build an infrastructure to make the Health System a
+“consultant-free” environment. To that end, PwC employees served as paired
+advisors in various departments to work side-by-side with CCHHS leadership
+and staff and successfully implemented:
+ Trained 250+ CCHHS employees including Knowledge Transfer
+ Successfully integrated MEB/WEB firms including transition of selected
+work tasks at 12/1/12
+ Provided full knowledge transfer of all processes, policies and
+procedures and uploaded onto Knowledge Web (1200+ deliverables)
+ Seventy-seven (77) PwC employees and subcontractors served in staff
+augmentation roles in mission critical positions to ensure continuity
+during the transformation transition period to a Cook employee for each
+designated function
+
+ PwC employees supported and/or created the infrastructure for specific
+departments, in addition to developing and implementing new business
+processes for improved operational efficiencies (see table)
+Department
+
+Infrastructure
+
+Revenue Cycle
+
+Provided training and staff augmentation roles in
+Patient Access, HIM, Charge Capture, Regulated
+Payments, Patient Billing and Collections,
+Siemens/Cerner Optimization, Vendor Management
+
+Supply Chain
+
+Provided training and Interim Management roles for
+Supply Chain Management Director, Director of
+Operations, Value Analysis Director and Strategic
+Sourcing Director
+
+Clinical Operations
+
+Provided training and 1nterim staff augmentation roles
+in Case Management and ED Management
+
+Office of Sponsored Programs (OSP)
+
+Served as Interim Grant Management Director to
+establish OSP department
+
+PMO Knowledge Web
+
+Designed, deployed, trained and populated 1200+
+deliverables, procedures, process flows and
+implementation plans
+
+PwC
+
+Page 30 of 45
+
+14
+
+ Cerner/Siemens
+CCHHS Sponsor: Dan Howard, Donna Hart, Dr. Bala Hota
+PwC Leadership Team: Pam McCarey
+Business Driver
+
+PwC’s response
+
+• To utilize the full functionality • Mapped current and future state
+of the existing Cerner
+clinical workflow to support
+electronic medical record that
+Cerner design implementation
+will support standardized and
+• Completed gap assessment to
+complete capture of all data
+depict clinical/department
+related to the patient visit and
+mapping of services performed
+the patient care delivered
+(order sets) to CDM in Siemens
+• Reengineer and standardize
+clinic workflow variations for
+• Functioned in a paired advisor
+the 207 locations
+role to facilitate information
+system changes and project
+management for select tasks
+
+Value to CCHHS
+• Increased credibility with
+County and State for support for
+additional funding
+• Connects clinical services (data
+standards) directly to financial
+performance
+• Uses data standards and
+corresponding volume as
+foundation to measure and
+monitor service trending, acuity,
+and planning
+• Acquires and reports accurate
+data to use for negotiating Payer
+contracts
+• Acquires and reports accurate
+data for receiving
+incentive/reward payments for
+providing preventative care
+measures
+• Standardized Electronic Medical
+Record– required for
+Meaningful Use
+• Compliant physician billing
+(Standardized Physician
+Documentation)
+• Increased accurate revenue feefor-service & cost reporting
+• Allows CCHHS to achieve
+sustainable results
+
+PwC
+
+Page 31 of 45
+
+15
+
+ Supply Chain
+CCHHS Sponsor: Carol Schneider, Gina Besenhofer
+PwC Leadership Team: Ryan Siemers
+
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• Supply Chain struggling to
+provide consistent value and
+appropriately support supply
+chain management activities
+
+• Establishment of Supply Chain
+system structure designed to
+support effective, efficient
+expense reduction throughout
+the organization and a focus on
+improved outcomes for patients
+
+• Increased focus on expense
+management and reduced nonlabor costs
+
+• Supply Chain operations
+antiquated, inefficient and
+lacking tools, technology and
+defined business processes to
+support the organization
+
+• Better engagement of
+physicians/clinicians and focus
+on quality outcomes
+
+• Improved Non-labor expense
+• Improved utilization of
+management, including
+technology and business process
+implementation of Value
+efficiencies
+Analysis program, and Supply
+Chain operations related to
+• Improved customer service of
+quality, productivity, compliance
+end-users
+and financial expectations
+• Over $25 million in realized
+• Developed and revised Supply
+non-labor cost reductions over a
+Chain Business Processes and
+two year period
+established Contract and Capital
+Management structure to
+• CCHHS fully staffed and
+support leading practice models.
+managed department
+• Effectively incorporate
+technology in maximizing the
+effective utilization of systems to
+enhance efficiency objectives
+
+Original CCHHS Sponsor: Anthony Tedeschi
+
+PwC
+
+Page 32 of 45
+
+16
+
+ Operations
+CCHHS Sponsor: Carol Schneider
+PwC Leadership Team: Deedie Root
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• Improve productivity of the
+labor force across the
+enterprise with specific goals
+of reduction in overtime and
+agency/contract utilization
+and costs
+
+• Completed benchmark analysis
+of the system departments with
+opportunities identified,
+including overtime and agency
+use and established volume
+driven productivity targets
+
+• Provided CCHHS with a
+productivity monitoring tool and
+methodology for budgeting and
+managing day-to-day operations
+
+• A tiered nursing services
+• Nursing services had
+Resource/Float Pool Model was
+immediate staffing needs to
+developed
+effectively support patient care
+without significant reliance on
+• OR simulation modeling was
+overtime and agency/contract
+performed, and OR processes
+utilization
+were redesigned to maximize
+utilization and align
+• The organization desired to
+perioperative services with
+improve efficiencies and
+inpatient, ambulatory and other
+maximize OR
+points of access and patient
+capacity/utilization
+throughput
+
+• Allow for realigning resources
+for staffing to reduce the
+amount for overtime and
+agency/contract utilization
+• Simulation modeling provided
+recommendations to increase
+OR throughput and room
+utilization
+• Comprehensive policies and
+procedures for schedule
+management and block
+utilization were provided to
+improve efficient and effective
+OR room utilization
+
+Original CCHHS Sponsor: Roz Lennon
+
+PwC
+
+Page 33 of 45
+
+17
+
+ Operations
+CCHHS Sponsor: Carol Schneider
+PwC Leadership Team: Deedie Root
+
+Business Driver
+
+PwC’s response
+
+• Standardized framework for
+case management and
+utilization management to
+support the flow of patients
+through the system
+
+• Redesigned the case
+• Standardized Case Management
+management model that
+Model that facilitates patient
+included a care coordination and
+throughput and appropriate
+utilization review/management
+level of care assignment for
+function
+reimbursement
+
+• Desire to decrease length of
+stay in the ED and improve
+patient throughput
+
+• Simulation modeling performed
+at Stroger and process changes
+for laboratory and radiology
+identified
+• The front-end process for
+Provident ED was redesigned
+
+Value to CCHHS
+
+• Simulation modeling identified
+bottlenecks and opportunities to
+improve performance based
+upon scenario testing. The
+redesign of the bottlenecks and
+opportunities would reduce
+length of stay and improve
+throughput in the ED
+• The front-end process changes
+at Provident ensured
+appropriate triage and reduced
+length of stay
+
+Original CCHHS Sponsor: Roz Lennon
+
+PwC
+
+Page 34 of 45
+
+18
+
+ Physician Effort & Funding
+(Teaching, Affiliation, Administrative)
+CCHHS Sponsor: Dr. Terry Mason, Dr. Maurice Lemon, Dr. John O’Brien
+PwC Leadership Team: Margaret Stover, Pam McCarey
+
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• CCHHS identified a goal of
+assessing and establishing a
+mission based model for the
+management of its physicians
+and faculty" defined by five
+areas:
+
+• Assessed the affiliation
+agreements and related
+operating fund flows and
+processes and the teaching
+programs including
+Undergraduate Medical
+Education (UME), Graduate
+Medical Education (GME) and
+Non-MD Programs.
+
+•
+
+• Conducted effort survey to
+obtain an baseline faculty time
+distribution— Patient Care,
+Teaching, Research and
+Administration activities
+
+• Improved grants management
+and financial oversight by
+CCHHS grants management
+team
+
+1. Clinical care;
+2. Administrative functions;
+3. Research activities;
+4. Synergies of Teaching; and
+5. Strategic initiatives
+
+Identification of $2.2M per
+year of unreimbursed cost
+related to UME rotations of the
+primary affiliate, Rush
+University Medical Center.
+
+• Lower administrative support
+cost and redistribution of time
+allocation to clinical activities
+
+• Established Office of Sponsored
+Programs (OSP) for grants
+management
+• Implemented new processes to
+streamline grant submissions;
+identified new grants
+opportunities and diversified
+CCHHS grant funding
+• Developed policies to stimulate
+and increase external
+sponsorships while protecting
+clinical service levels and
+compliance controls
+• Developed data collection and
+reporting tools for grants
+management
+PwC
+
+Page 35 of 45
+
+19
+
+ ACHN
+CCHHS Sponsor: Dr. Terry Mason, Dr. Enrique Martinez
+PwC Leadership Team: Pam McCarey
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• ACHN operational business
+process inefficiencies
+impacting access to care,
+provider productivity, clinical
+staffing resources, and cost to
+treat
+
+• Developed operating model
+incorporating core business
+processes
+
+• Increased volume and patient
+throughput
+
+• Conducted multiple educational
+sessions for management and
+site level business owners
+• Developed and published
+interactive web based tool for
+analysis and implementation
+
+• Identified opportunities and
+operational gaps which served as
+the framework for the
+development of outpatient IT
+Cerner/Siemens
+implementation plan
+
+• Initiative transitioned to Dr.
+Mason due to CCHHS resource
+• Published documents on CCHHS
+constraints and ACHN
+Knowledge Web to track and
+governance. Key contributing
+monitor performance for select
+factors:
+clinics
+o Lack of Information
+• Recommended to institute
+technology to support
+Physician Billing
+clinical needs thru EHR and
+establish productivity and
+performance goals
+o Multiple operating and
+reporting structures without
+common organizational
+goals
+
+o Competing priorities within
+departments
+
+Original CCHHS Sponsors: Dr. Terry Mason and Roz Lennon
+
+PwC
+
+Page 36 of 45
+
+20
+
+ Cermak
+CCHHS Sponsor: Roz Lennon
+PwC Leadership Team: Deedie Root
+
+Business Driver
+
+PwC’s response
+
+Value to CCHHS
+
+• Need for stronger leadership
+to ensure regulatory
+compliance
+
+• Staff Augmentation
+
+• Leadership and staff
+development
+
+• Developed job descriptions
+policies and procedures
+• Realigned staffing resources to
+more efficiently deliver care
+
+• Developed new model for
+delivering medications
+
+PwC
+
+Page 37 of 45
+
+• Protocols for delivering care
+within a detention center
+• Productivity monitoring tool
+
+• Successful transition to CCHHS
+management
+
+21
+
+ Public Health
+CCHHS Sponsor: Dr. Stephen Martin
+PwC Leadership Team: Courtney Showell
+
+Business Driver
+
+PwC’s response
+
+• The Cook County Department
+of Public Health (CCDPH)
+identified the need for agency
+strategic planning.
+• Recent shifts at the county and
+state level indicated the need
+for a possible shift in agency
+approaches to address the
+following public health
+problems:
+o Financial and oversight
+changes
+o Increased personnel costs
+o Shifts in demographics
+o Categorical funding
+o Increased grants
+deliverables and mandates
+o Closure or diminished
+resources of other certified
+local health departments
+o Shift in public health role
+in provision of traditional
+services
+o Unclear and increased
+pressure on the agency to
+respond to all-hazard
+threats
+o Overall Cook County
+budget limitations.
+
+• Performed a benchmark study
+• The Cook County Department of
+that examined five (5) other
+Public Health had a strategic
+Health Departments
+plan that was grounded in
+• Gathered and presented
+objective information about:
+quantitative and qualitative data
+o Leading practices in county
+to inform the development of
+public health
+vision for the future
+• Planned, facilitated, and
+o Their own performance and
+documented the strategic
+impact results
+planning process, using input
+from CCDPH leadership and key
+o Community priorities
+stakeholders
+• Designed, validated and
+o Customer perspectives and
+executed a methodology (and
+expectations
+associated tools) to gather and
+o Opportunities to integrate
+analyze quantitative and
+improvements with the
+qualitative information
+health system
+including input from internal
+and external stakeholders
+• The Department was provided
+• Designed a communication and
+with information and support to
+training plan and associated
+engage its employees in
+materials (such as group process
+understanding the priorities and
+design, presentations and
+goals of CCDPH
+curriculum) to facilitate the buyin and involvement from a range • The Department was provided
+of internal and external
+with tools to track the
+stakeholders including CCHHS
+achievement of its strategic goals
+• Designed structure and process
+for facilitating decisions
+regarding roles and ownership
+with key system partners
+
+PwC
+
+Page 38 of 45
+
+Value to CCHHS
+
+22
+
+  
+
+I Sharing our insight
+
+ 
+
+
+
+23
+
+Thought Leadership
+
+PwC draws from its broad perspective and capabilities across and beyond the health
+industries to help solve the array of emerging complex problems health organizations face,
+lead cultural and clinical transformation, and create a new, sustainable model for care
+delivery that is quality driven, patient centered and technology enabled.
+We have 4,000 professionals with deep health industry expertise, including physicians,
+nurses, information system specialists, health policy analysts, actuaries, financial advisors,
+and data analysts. This enables us to collaborate with health industry clients to help them
+manage strategic initiatives, deliver financial performance and operational improvements,
+manage risk and compliance programs and to align core business processes with health
+information technology. PwC’s Health Industries clients include 20 of the top 100
+hospitals in the U.S., we audit 40% of the Fortune magazine’s Most Admired: Healthcare,
+Insurance and Managed care; all of top 10 commercial payers; municipal, state, and
+federal government agencies; and many of the world's preeminent medical foundations
+and associations.
+
+Health Research Institute
+Through PwC's Health Research Institute we provide new intelligence, perspective and
+analysis on trends affecting health-related industries, including healthcare providers,
+pharmaceuticals, life sciences and payers. PricewaterhouseCoopers is the only Big Four
+firm with a dedicated healthcare research unit. The Institute helps executive decisionmakers and stakeholders navigate chance through a process of research and collaborative
+exchange that draws on a network of professionals with day-to-day experience in the
+health industries.
+PricewaterhouseCoopers offers our clients the benefit of our deep client relationships that
+bring real-life value to our engagements. We bring our clients intellectual capital from
+around the world to help develop solutions. Our consultants monitor Capitol Hill, state
+houses, Wall Street, and global markets to help you understand the issues and make
+decisions that enhance healthcare organization's mission, reputation, and financial
+strength.
+
+PwC
+
+Page 40 of 45
+
+24
+
+ Thought Leadership
+Recent examples of PwC Thought Leadership produced by our Health Research Institute
+and subject matter experts include:
+Implications of the US Supreme Court ruling on healthcare
+The US Supreme Court ruling upholding the Affordable Care Act re-injects a sense of urgency into the transformation of
+an industry that represents nearly one-fifth of the US economy. Implementation deadlines that once seemed far off are
+now rapidly approach, putting fresh pressure on health organizations to devise innovative ways of delivering highquality, affordable care. This report from the Health Research Institute shares analysis of the implications of the ruling
+for health insurers, providers, pharmaceutical and life sciences, state governments, and employers.
+Health reform: Prospering in a post-reform world
+Through PwC's Health Research Institute we provide new intelligence, perspective and analysis on trends affecting
+health-related industries, including healthcare providers, pharmaceuticals, life sciences and payers.
+PricewaterhouseCoopers is the only Big Four firm with a dedicated healthcare research unit. The Institute helps
+executive decision-makers and stakeholders navigate chance through a process of research and collaborative exchange
+that draws on a network of professionals with day-to-day experience in the health industries.
+Designing a health IT backbone for Accountable Care Organizations (ACOs)
+In theory, ACOs can help clinicians deliver more effective and efficient care across a continuum of preventive, acute, and
+chronic care services. However, success will hinge, in part, on the ability to share patient data at the point of care and
+rely on historical and longitudinal data for use in managing population health. Unfortunately, the data necessary to
+manage a patient's whole health isn't widely shared; currently, it's locked in a myriad of databases. This report looks at
+how ACOs will need to unlock and use that data, using the regulatory and market mechanisms available -- or soon to be
+available (e.g. health information exchanges (HIEs). To gauge how health executives are designing their health IT
+backbone for ACOs, PwC surveyed more than 300 provider executives and administrators. The key findings from that
+survey and how to harness key components of the health and stimulus funding are detailed in this report.
+Experience Radar 2012: Customer insights for the US healthcare provider industry
+PwC’s Experience Radar helps businesses search out and find the often hidden sources of value that drive truly
+exceptional, differentiating customer experiences. By helping healthcare providers rank their consumer features by
+relative importance to the healthcare public and potential economic benefit to themselves, Experience Radar locates
+opportunities to create value—pointing the way toward both top-line growth and bottom-line results.
+Top Ten Health Industry Issues in 2012
+This year’s report provides more insight into the following trends: the impact of higher deductibles, how providers and
+insurers are teaming up for population health, potential drug shortages, health informatics, privacy and security, health
+insurance exchanges, Pharma industry adapts to a post-blockbuster business model, social media in health, how politics
+may influence policy.
+
+Behind the Numbers: Medical cost trends for 2012
+This year's report from PwC finds that the medical cost trend is expected to decrease in 2013. The Medical cost trend
+report shares key findings, which includes an explanation of trends contributing to rising costs (accelerators) as well as
+decreasing cost trends (deflators).
+
+For more information about PricewaterhouseCoopers in the health industries, please visit us on the web at
+www.pwc.com/healthindustries.
+
+PwC
+
+Page 41 of 45
+
+25
+
+  
+
+I Our dedicated team serving
+
+
+ 
+
+
+
+Our dedicated team serving CCHHS
+Bill Luallen, Partner
+Lead Engagement Partner
+
+Larry Patrick, Partner
+
+Phone: (317) 695-1088
+Email: bill.luallen@us.pwc.com
+
+Phone: (678) 419-8729
+Email: larry.patrick@us.pwc.com
+
+Phone: (312) 298-2018
+Email: joe.albian@us.pwc.com
+
+David Harris
+Revenue Cycle Team Lead
+
+Margaret Stover
+AMC Team Lead
+
+Deedie Root
+Clinical Operations Team Lead
+
+Phone: (646) 471-1241
+Email: david.harris@us.pwc.com
+
+Phone: (267) 330-1379
+Email: margaret.stover@us.pwc.com
+
+Phone: (713) 356-8532
+Email: deedie.root@us.pwc.com
+
+Ryan Siemers
+
+Pam McCarey
+
+Engagement Partner
+
+Joe Albian
+Senior Relationship Partner
+
+Supply Chain Team Lead
+
+Courtney Showell
+Ambulatory Clinics Team Lead Public Health/COE Team Lead
+
+Phone: (312) 298-3783
+Email: ryan.d.siemers@us.pwc.com
+
+Phone: (412) 355-8013
+Email: pam.mccarey@us.pwc.com
+
+PwC
+
+Page 43 of 45
+
+Phone: (678) 419-7077
+Email: courtney.showell@us.pwc.com
+
+27
+
+ Our continuing goal is to add value
+by providing high quality and
+objective advice to CCHHS and to do
+so in a very trusted manner.
+
+We look forward to serving you in the
+future.
+
+PwC
+
+Page 44 of 45
+
+28
+
+ www.pwc.com/us
+
+©2012 PricewaterhouseCoopers LLP. All rights reserved. In this document, "PwC" refers to PricewaterhouseCoopers (a
+Delaware limited liability partnership), which is a member firm of PricewaterhouseCoopers International Limited, each
+member firm of which is a separate legal entity.
+.
+
+Page 45 of 45
+
+ 

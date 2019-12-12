@@ -1,0 +1,667 @@
+ 
+
+ 
+
+
+
+ 
+
+I
+
+
+
+
+
+3
+
+
+
+
+?3
+L13
+
+
+
+COOK COUNTY Quality
+
+A LT Dashboard
+
+August 23, 2019
+Health Outcomes
+
+ 
+
+HEDIS - Diabetes Management: HbA1c 8%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+100?:
+-IEDIS 75th PCTL: 
+50?:
+45.3%
+no;
+Aug-13 ct-lS Dec-18 Res-19 Apr-19 Jpn-19
+Core Measure - Venous Thromboembolism (VTE) Prevention
+Goa 310033 100.0%
+logo; 
+
+87.9%
+60?:
+40?:
+I Provident
+W3: I Stroger
+
+Hug-13 Dec-:8 =ec--9 Apr-L9 Jpn-19
+30 Day Readmission Rate
+16% IL Av .
+15% National Avg_.
+15?:
+10.9%
+1% 103% 9.6% 9.7%
+
+
+?10-
+
+2018 O3 2018 Q4
+
+2019 01 2019 CE
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+ 
+
+Hospital Acquired Conditions
+
+ 
+
+(I)
+
+
+Zea-19 ADV--9 
+Hospital Acquired Infections
+I CALTI I CDI I CLABS I MRSA 60
+1.5
+1.20
+1.20
+1.0
+
+
+7 0.70
+3.5
+0.0
+CB 2?18 04 CV19 01 0?19 CE
+
+SIR (Standardized Infection Ratio) is a summary measure which compares the actual number of
+
+Healthcare Associated Infections (HAI) in a facility with the baseline data for standard population.
+
+SIR 1.0 indicates more HAIs were observed than predicted, conversely SIR of< 10 indicates that
+fewer HAIs were observed than predicted.
+
+Jul- Aug- Sep- Oct- Nov- Dec- Jan- Feb- Mar- Apr- May- JunCAUTI CLABSI MRSA Mean Score
+
+Top Box Score
+
+Top Box Score
+
+ACHN-0vera   Clinic Assessment
+
+ 
+
+100?:
+82.0%
+80C:
+63:0:
+40?:
+one;
+3c,
+~18 Sap-18 Nov-18 .ar-l? Mar-19 May-19
+Provident?Willingness to Recommend Hospital
+100?:
+90C: Goa 
+soc .
+
+Jul-18 Sep-18 Nov-18 Jan-19 Mar-19 May-19
+Stroger--Wi lingness to Recommend Hospital
+100?: 90?: Goa
+
+ 
+
+ 
+
+JJ -18 Sap-18 \C?v-lS Jaw-19 "?y-19
+
+a 3' - 19
+
+HEDIS – Diabetes Management: HbA1c < 8%
+100%
+90%
+80%
+70%
+60%
+
+HEDIS 75th PCTL, 54%
+
+50%
+45.3%
+40%
+30%
+20%
+10%
+0%
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+Jul-19
+Source: Business Intelligence
+
+3
+
+ Core Measure – Venous Thromboembolism (VTE) Prevention
+120%
+
+100%
+
+100%
+88%
+
+80%
+
+60%
+
+40%
+
+20%
+Stroger
+
+Provident
+
+0%
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Jul-19
+
+Source: Quality Dept.
+4
+
+ 30 Day Readmission Rate
+
+20%
+18%
+16%
+
+16%
+15%
+
+14%
+12%
+
+11.0%
+
+10.3%
+10%
+8%
+
+9.6%
+
+9.70%
+
+CY19 Q1
+
+CY19 Q2
+
+8.56%
+
+6%
+4%
+2%
+0%
+CY18 Q3
+
+CY18 Q4
+IL AVG
+
+National AVG
+
+HRO Goal
+
+Source: Business Intelligence
+5
+
+ Hospital Acquired Conditions
+18
+
+17
+16
+
+16
+
+15
+
+14
+12
+12
+
+11
+10
+
+10
+8
+8
+
+8
+
+7
+
+7
+
+7
+
+6
+6
+4
+
+3
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Jul-19
+
+0
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Pressure Injury (Stage III & IV)
+
+Mar-19
+
+Falls with Injury
+
+Source: Business Intelligence
+6
+
+ Hospital Acquired Infections
+1.8
+
+CAUTI
+
+CDI
+
+CLABSI
+
+MRSA
+
+1.6
+
+1.6
+
+1.4
+
+1.2
+
+1.2
+
+1.2
+
+1
+0.8
+0.7
+0.6
+0.4
+0.2
+0
+CY18 Q3
+
+CAUTI
+CDI
+CLABSI
+MRSA
+
+CY18 Q4
+
+CY19 Q1
+
+Jul-1 Aug- Sep-1 Oct- Nov- Dec-1 Jan- Feb- Mar- Apr- May- Jun8
+18
+8
+18 18
+8
+19 19 19 19
+19
+19
+0
+1
+0
+0
+1
+3
+1
+1
+2*
+1
+2*
+5
+5
+
+4
+
+2
+
+10
+
+4
+
+4
+
+6
+
+2
+
+6
+
+5
+
+4
+
+4
+
+2
+
+3
+
+0
+
+0
+
+0
+
+2
+
+1
+
+0
+
+2*
+
+2
+
+2
+
+3
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+*Amended
+
+CY19 Q2
+
+SIR (Standardized Infection Ratio) is a summary
+measure which compares the actual number of
+Healthcare Associated Infections (HAI) in a facility
+with the baseline data for standard population. SIR >
+1.0 indicates more HAIs were observed than predicted,
+conversely SIR of < 1.0 indicates that fewer HAIs were
+observed than predicted.
+Source: Infection Control Dept.
+7
+
+ ACHN – Overall Clinic Assessment
+100%
+90%
+82%
+
+80%
+
+Mean Score
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Jul-18
+
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Source: Press Ganey
+8
+
+ Provident – Willingness to Recommend the Hospital
+100%
+
+100%
+
+90%
+
+90%
+
+80%
+
+Top Box Score
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Jul-18
+
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Source: Press Ganey
+9
+
+ Stroger – Willingness to Recommend the Hospital
+100%
+90%
+
+90%
+
+80%
+
+77%
+
+Top Box Score
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Jul-18
+
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Source: Press Ganey
+10
+
+ 

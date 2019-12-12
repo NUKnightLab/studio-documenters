@@ -1,0 +1,1002 @@
+ 
+
+ 
+
+ 
+
+Agenda
+1. System-wide Financials & Stats
+a.
+
+Financials and Observations
+
+b.
+
+Financial / Revenue Cycle metrics
+
+2. CCH Provider Service Financials
+a. Operational Statistics and Observations
+3. CountyCare Financials & Stats
+4. Correctional Health services Financials & Stats
+5. Cook County Department of Public Health Financials & Stats
+6. Administration Financials
+
+7. System-wide volumes/stats
+
+2
+
+ 
+Systems-wide
+Financials, Observations, and Revenue Cycle Metrics
+
+COOK COUNTY
+
+ EALTH
+
+ 
+
+Observations on Financials
+ Net Patient Service Revenues - $284M , 23% unfavorable to target due to increasing charity care and some lower
+clinical activity
+•
+
+System-wide uninsured numbers
+
+•
+
+Captured by Visits, held at 45% (Provident 33%, ACHN 44%, Stroger 47%)
+
+•
+
+Captured by Charges, held at 42% (Provident 38%, ACHN 46%, Stroger 41%)
+
+ CountyCare Capitation Revenues - $1.1B, 4% unfavorable to target due to lower than budgeted enrollment as a
+result of lower State/County MCO enrollment
+ Other Revenues - $2.8M , ongoing review of outstanding payments to ensure we get caught up by year end
+
+ Cost of People - $347.1M, favorable by 7.3% compared to budget
+
+ Cost of Pharma - $35.4M, favorable by 12.4% compared to budget
+
+4
+
+ Income Statement for the Six Months ending May 2019
+(in thousands)
+
+*Year to Date (6 months) Pension Liability per GASB
+Pension includes Other Post Employment Benefits (OPEB) Expense
+
+Unaudited Financial Statement
+
+5
+
+ Financial Metrics
+Metric
+Days Cash On Hand*
+Operating Margin**
+Overtime as Percentage
+of Gross Salary***
+Average Age of Plant
+(Years)
+
+As of end
+May18/YTD
+
+As of end
+May19/YTD
+
+Target
+
+31
+
+0
+
+60
+
+-5.5%
+
+-11.6%
+
+-5.4%
+
+7.2%
+
+7.5%
+
+5.0%*
+
+23.3
+
+23.2
+
+10.7
+
+*Days Cash in Hand – Point in time i.e. as of end of each month. Note State owed CCH
+in payments as of end May 2019
+**Excludes Pension Expense-Target based on compare group consisting of ‘like’ health systems : Alameda Health System, Nebraska Medical Center,
+Parkland Health & Hospital System, and UI Health
+***Overtime as percentage of Gross Salary – CCH target 5% , Moody's 2%
+
+6
+
+ Revenue Cycle Metrics
+Metric
+Average Days in
+Accounts Receivable
+
+Average
+FYTD
+2019
+
+April-19
+
+May-19
+
+June-19
+
+97
+
+92
+
+93
+
+97
+
+45.85 –
+54.9*
+
+11
+
+10
+
+10.5
+
+12
+
+7.0
+
+21%
+
+21%
+
+19%
+
+17%
+
+20%
+
+Benchmark
+/Target
+
+(lower is better)
+
+Discharged Not Finally
+Billed Days (lower is better)
+
+Claims Initial Denials
+Percentage (lower is better)
+
+: Total accounts receivable over average daily revenue
+: Total charges of discharge not finally billed over average daily revenue
+: Percentage of claims denied initially compared to total claims submitted.
+* Source HFMA Key Hospital Statistics and Ratio Margins – Posted 2014
+
+7
+
+ Provider of Care Services
+Financial and Operational Statistics
+
+COOK COUNTY
+
+cook
+0
+
+
+I 
+
+
+
+ 
+
+Income Statement for the Six Months ending May 2019
+(in thousands)
+
+*Year to Date (6 months) Pension Liability per GASB
+Pension includes Other Post Employment Benefits (OPEB) Expense
+
+Unaudited Financial Statement
+
+9
+
+ CCH as a Provider - Revenue Statement for the Six Months ending
+May 2019 (in thousands)
+
+Unaudited Financial Statement
+
+10
+
+ Clinical Activity Observations
+ Primary Care visits are up by 8% versus FY18, and up 3% versus FY19 target
+ Specialty Care visits are up by 3% versus FY18, and down 2% versus FY19 target
+ Surgical Cases are down by 3% versus FY18, and down 9% versus FY19 target
+ Inpatient Discharges are down 9% versus FY18
+ Length of Stay is up 1% versus FY18, and up 1% versus FY19 target
+ Emergency Department visits are down 1% versus FY18
+ Deliveries are up by 3% versus FY18, and down 7% versus FY19 target
+
+11
+
+ Stroger Operations Overview for the Six Months ending May 2019
+GROSS CHARGES
+SELF PAY,
+125,242,977
+
+CHARITY CARE,
+184,865,645
+
+MEDICARE
+MANAGED CARE,
+33,853,628
+
+MEDICARE,
+84,486,715
+
+COUNTYCARE,
+99,313,657
+
+COMMERCIAL,
+51,363,756
+
+MEDICAID
+MANAGED CARE,
+87,047,769
+
+MEDICAID,
+87,559,675
+
+Comments:
+•
+
+Targeted efforts to improve surgical volumes is ongoing focused on
+throughput and expedited equipment purchases
+
+•
+
+Focused efforts on reviewing observation days
+
+12
+
+ Provident Operations Overview for the Six Months ending May 2019
+GROSS CHARGES
+
+SELF PAY,
+10,364,398
+
+CHARITY CARE,
+9,300,513
+
+MEDICARE
+MANAGED CARE,
+2,803,850
+MEDICAID,
+2,874,255
+
+MEDICARE,
+5,715,657
+COUNTYCARE,
+10,402,730
+
+MEDICAID
+MANAGED CARE,
+6,968,571
+
+Comments:
+•
+
+Leadership reviewing left without being seen in Emergency Dept.
+
+•
+
+Expect more volume growth as we complete equipment procurement ,
+fully staff new clinical capacity including the ICU
+
+13
+
+ ACHN Operations Overview for the Six Months ending May 2019
+GROSS CHARGES
+
+MEDICARE
+MANAGED CARE,
+1,723,605
+
+SELF PAY,
+9,073,578
+
+CHARITY
+CARE,
+17,431,632
+
+MEDICARE,
+4,775,998
+
+COUNTYCARE,
+10,785,401
+
+MEDICAID,
+3,482,926
+
+MEDICAID MANAGED
+CARE, 7,569,559
+
+Comments :
+
+•
+
+Positive growth trends in Primary care and Specialty care provider
+visits on track to meet /exceed FY2019 targets
+
+•
+
+Leadership continues to focus on initiatives including patient access
+and increasing specialty care availability at clinics
+*excludes Stroger Specialty Care, CORE, Stroger-Hospital Based Clinics, Sengstacke
+GMC & Psych, Austin Behavioral Health, and assuming all registrations are provider
+visits
+
+14
+
+ CountyCare Health Plan
+
+Financial and Operational Statistics
+
+COOK COUNTY
+
+ EALTH
+
+ 
+
+Income Statement for the Six Months ending May 2019
+(in thousands)
+
+Unaudited Financial Statement
+
+16
+
+ CountyCare - Observations
+
+•
+
+CountyCare contributes $100.5M to CCH through internal capture of CountyCare business at CCH
+
+•
+
+CountyCare Medical Loss Ratio is better than National and Regional, sustained at 95% YTD
+
+•
+
+Total membership was 317,886 as of June 5, 2019
+
+•
+
+Leadership focusing on several initiatives to achieve cost efficiency, protect market share and deepen engagement
+of targeted demographics
+
+•
+
+Working with CCH leadership to increase appropriate Countycare memberships access to clinical services at CCH
+facilities
+
+Unaudited Financial Statement
+
+17
+
+ .l
+Correctional Health Services 1
+Financial and Operational Statistics
+
+COOK COUNTY
+
+c??k
+
+
+
+I 2
+
+
+
+ 
+
+Income Statement for the Six Months ending May 2019
+(in thousands)
+
+Unaudited Financial Statement
+*Year to Date (6 months) Pension Liability per GASB
+Pension includes Other Post Employment Benefits (OPEB) Expense
+
+19
+
+ Total Intakes
+4500
+
+4000
+3500
+3000
+2500
+
+2000
+1500
+1000
+500
+
+0
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+2018 Actual
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+Comments:
+• 92% of intakes are screened by financial counselling to ensure continuity of coverage
+
+20
+
+ Cook County Dept. of Public Health
+
+Financial and Operational Statistics
+
+ COOK COUNTY
+
+  HEALTH
+
+ 
+
+Income Statement for the Six Months ending May 2019 (in
+thousands)
+
+Unaudited Financial Statement
+*Year to Date (6 months) Pension Liability per GASB
+Pension includes Other Post Employment Benefits (OPEB) Expense
+
+22
+
+  Operation Overview for the Six Months ending May 2019
+
+Public Health
+
+Administration
+
+Percent of high-risk infant APORS (Adverse Pregnancy Outcome
+
+Reporting System) referrals received that are contacted for follow-up by
+
+ 
+
+ 
+
+ 
+
+the Public Health Nurse within 14 calendar days of referral 100% 85%
+
+Cost per county residents served $5.71 $5.71
+
+. Cost per Inspection Efficiency $208.56 $208.56
+Envuronmental Health 
+
+Time from receipt of Chlamydia or gonorrhea report to field (days) 5 5
+
+ 
+
+ 
+
+ 
+
+Communicable Diseases
+
+ 
+
+ 
+
+ 
+
+Percent of food establishments with isolated illness complaints within a
+contracted community or unincorporated Suburban Cook County that
+are ins ected within 2 business da 5 of recei of com - laint
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lead Percentage of cases with elevated blood levels visited within the timeline
+Poisoning Lead Poisoning _provided in protocols 86% 90%
+Prevention Prevention
+Percentage of cases with elevated blood lead levels who receive joint
+nursin visit and environmental risk assessment visit 100% 95%
+. - -
+TB Program TB Pr 
+0g a Number of completed Direct Observation Treatments (DOT) 94% 91%
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+CCH Administration
+
+Financial Statements
+
+COOK COUNTY
+
+Cook
+
+
+
+I 
+
+
+
+ 
+
+Income Statement for the Six Months ending May 2019
+(in thousands)
+
+Unaudited Financial Statement
+*Year to Date (6 months) Pension Liability per GASB
+Pension includes Other Post Employment Benefits (OPEB) Expense
+
+25
+
+ . 11
+Appendix
+System-wide Volumes I Stats
+
+COOK COUNTY
+
+c??k
+
+0
+
+I 
+
+
+
+ 
+
+System Payor Mix By Visit as of May 2019
+2%
+4%
+
+All Medicare = 36%
+
+Uninsured
+
+12%
+
+County Care
+
+45%
+Uninsured
+
+16%
+12%
+All Medicaid = 17%
+
+Commercially
+Insured
+Medicaid
+Medicaid Managed
+Care
+County Care
+Medicare
+
+5% 5%
+
+Medicare Managed
+Care
+Other
+
+27
+
+ System Payor Mix By Charges as of May 2019
+Uninsured
+
+Self pay
+17%
+144M
+
+4%
+38M
+
+25%
+211M
+
+Commercially
+Insured
+Medicaid
+
+Charity Care
+
+All Medicare = 15%
+132M
+
+11%
+94M
+14%
+120M
+
+County Care
+
+12%
+101M
+
+11%
+93M
+
+7%
+57M
+
+All Medicaid = 37%
+314M
+
+Medicaid Managed
+Care
+County Care
+Medicare
+Medicare Managed
+Care
+Other (Self Pay)
+
+28
+
+ Primary Care Provider Visits
+30,000
+
+10,000
+Dec
+
+Jan
+
+Feb
+
+Mar
+Apr
+2019 Target
+
+May
+Jun
+2018 Actual
+
+Jul
+2019 Actual
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+29
+
+ Specialty Care Provider Visits
+40,000
+
+10,000
+
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+2019 Target
+
+May
+2018 Actual
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+30
+
+ Total Inpatient Discharges
+2,000
+
+1,000
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+2019 Target
+
+May
+
+Jun
+
+2018 Actual
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+31
+
+ Average Length of Stay
+10
+
+0
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+2019 Target
+
+May
+
+Jun
+
+2018 Actual
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+32
+
+ Total Emergency Room Visits
+15,000
+
+10,000
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+2019 Target
+
+May
+2018 Actual
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+33
+
+ Total Deliveries
+150
+
+50
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+2019 Target
+
+May
+
+Jun
+
+2018 Actual
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+34
+
+ Total Surgical Cases
+1,500
+
+1,000
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+2019 Target
+
+May
+
+Jun
+
+2018 Actual
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2019 Actual
+
+35
+
+ Case Mix Index
+1.66
+1.63
+1.59
+1.53
+
+1.56
+1.53
+
+1.55
+
+1.55
+
+1.55
+
+1.49
+
+1.52
+1.49
+
+1.45
+
+Dec
+
+Jan
+
+1.48
+
+1.44
+
+1.44
+
+Feb
+
+Mar
+
+Apr
+
+May
+FY18
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+FY19
+
+36
+
+ .I
+Questions? 1
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

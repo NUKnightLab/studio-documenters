@@ -1,0 +1,1039 @@
+ 
+
+5 ?Huxlbi?u 
+21v, a! .: W413. 5.1
+I a 31
+
+ 
+
+Agenda
+•
+•
+•
+•
+•
+•
+
+HIS Overview
+Summary of the Past
+Impact 2020 Progress-to-date
+HIS Capabilities in the Healthcare Landscape
+The Journey Ahead-2020-2022 Strategic Planning Recommendations
+Budget
+2
+
+ HIS
+MISSION
+“To deliver, optimize and sustain an integrated
+information technology system that will strengthen the
+ability of CCH to be a leading-edge institution in clinical
+services, education and research."
+
+3
+
+ HIS
+VISION
+“To improve and promote the utilization of health
+information technology, to its highest capacity, by both
+patients and health care providers, to optimize health
+outcomes and overall quality.”
+
+4
+
+ HIS Supports the Following Organizations
+• John H. Stroger, Jr. Hospital
+• Provident Hospital
+• Ambulatory Community Health
+Network
+• Cook County Department of Public
+Health
+• Cermak Health Services
+• Juvenile Temporary Detention Center
+• Professional Building
+
+5
+3
+
+ HIS Healthcare Solution Services
+Consulting
+-Compliance
+
+•
+Clinical Standardization
+•
+MU Readiness
+•
+Care Coordination (PCMH)
+•
+Quality/Regulatory Reporting
+-Financial/Business
+• Revenue Cycle
+• Audit Support
+-Technology Solution
+• New Technologies
+• Industry Best Practices
+• Product Development
+-Clinical
+• Clinical Documentation
+Optimization
+• Enhanced clinical decision support
+• Education and Training
+• Improved user experience
+
+Project Management
+-Planning
+•
+
+Current state vs. Future state
+analysis
+Risk Analysis/ Management
+Integrated Testing Plan
+
+•
+•
+-System Development/
+
+Engineering
+
+•
+System/Process design
+•
+System/Process build
+•
+System Testing
+•
+System Training
+-Implementation/
+
+Deployment
+
+•
+System Go Live Support
+•
+Clinical Content
+•
+Reporting
+•
+Issues Management
+-Post Implementation
+• System Optimization
+• System Upgrade Support
+
+Technology
+-Infrastructure
+
+•
+Network Operations
+•
+Hardware Management
+•
+Data Center Operations
+•
+Disaster Recovery
+•
+Virtualization
+•
+System Patch Management
+-Security
+• HIPAA Readiness/Data
+Encryption
+• Identity Management
+• Intrusion Detection/Prevention
+Management
+• Access Management
+-Service Management
+• Web Services
+• Intranet/Internet/Extranet
+• Telephony/Communications
+• Audio/Visual
+
+Application
+Management/Support
+-Application Management
+•
+
+Application Upgrades and
+Optimization
+Production Systems
+Life Cycle System Management
+Change Management
+Workflow design/build
+Education/Training
+Product Build/Develop
+
+•
+•
+•
+•
+•
+•
+-Support Services
+• Help Desk Services
+• Application Maintenance
+• Web Services
+• Document/Asset Management
+• Patient Logistics Management
+
+-Integration Management
+• Interface Engine Support
+• HL7/ADT/PP
+
+6
+
+ HIS Supports IntegratIon Between these Systems
+
+Ceunty Health El Hespitels System System Diagram
+. Steger, Jr. Hespitel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+new Emerita Invisidn :1 EDM Ce mer Indicia Hetumrlt Ede nee MERGE Finds
+InlerceChirne Ins-J :11: a ?lling: Patient 5elr5en-iee [seek Caseumaganent Ineurmeeye??aeen [er-uh: Ehth Dimming
+Tenu'e
+Nuance Bridge Medical
+. Cnunty Ehre
+l'IMCn-dng ?lial-5&5, 
+. hill: 
+EUDLEMT ADT Butter 5 5" I cab' :15
+laborinry Result: ADT ADT ?pm! ur?ery H3 
+hbd' I He H11 
+S?ftl?tl xx ADT, DEM, "Tuner: 
+Lab-oratnry System DHU ?ll-U ":11 3-me
+. . nnT, Med id
+Quest Diegndsuee MIT: enruu, Enterprise lb: PmmL?h
+Rdererte Huh uh a 
+um, Perry Jehnsun
+HALE a. . F/v Tn riseriptinn
+memene?e Earner ?ner: Englne m. I I I
+[i Digital lmeyetmn
+ll] gm! gnu-I Cern? Illinlium 'I'nun: Burn Registry
+El Inlul Dneurnerrlatlm 2.5159125
+-
+lmpruuernent ff AID-T. Benin]:
+Hum, ?Ruff? inerchart?mhulatnry ems. Howard-1:1. Radf'ht. Pharml-let. System
+. Fi'FtHet, Pee. Petiene scheduler and Resin-elem, ADT
+He
+Engine. a? 
+ASCEHD fee??H hn Deeumeme :Ind h'ldh'le runner-n 'urn F-?uk Management
+Ehrd' in
+Hill gr den-II, emu mn\ IEAHE
+lrnr'nuniatinn Re?rh'y
+UE ?Er emu
+Natl-I Hemmer MIT, DFIHI, Gnu
+Am- ?ese-ne nee ADT ?recle
+GE PACE DRU UPLU HIE ADT Item Mater? Suppl-(Ilsa:
+Rad ill-i=5; ImeE'nE ff mm- Feed Cern er EKG
+um, MD 
+ADT Iigiail 'rty AID-T Meta re
+ISE PACE [Fr . Me?eat in'n
+Rama-by; Peer'u'ue .- History, GE Patient Mentoring
+- IJ I111: System -
+ADT. Am. Ceunty Fare ADT, and, 5m Cemer
+redeem Dun.- neu new! ?dammit? "Tm . .
+Smnna?ter Di'E?n?r Fetel ring
+Rad. lelliTech- . I'Venen L'l' ?eiryie
+n- Edn?hnn'l'l'renpy Hum mega. it!
+(EU Teletreclting 5111' Phoenix -I ePreseribe FALSE EAR m?um
+?ed reppu't Empluyue l'halth DEW Elm-chm: Cerner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COU NTY Interfaces Running Daily: 325
+A LT Average Daily Transactiuns: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HIS Supported Patient Activities
+•
+
+Emergency Visits
+
+•
+
+Inpatient Admissions
+
+•
+
+Observation Discharges
+
+•
+
+Outpatient Registrations
+
+•
+
+Outpatient prescriptions filled daily
+
+•
+
+Inpatient doses dispensed daily
+
+•
+
+Fieldwork
+
+8
+
+ HIS Users and Systems Supported
+•
+
+•
+•
+•
+
+•
+•
+
+•
+•
+•
+•
+
+Total User Count: 8,455
+ Employees: 6,254
+ Contingent Workers (Contractors, Residents, etc.): 2,201
+End User Computers (PCs, Laptops, WoWs, etc.) : 8,440
+Mobile Devices (Cell Phones, Tablets, etc.): 515
+Server Count:
+ Physical: 91
+ Virtual: 484
+Peak Concurrent Cerner Users: 2,961
+3 Data Centers (Stroger, Oak, Provident)
+ 777-Access Point
+ 165-Data Closets
+Email Accounts: 7,791
+Total Supported Applications: 234
+Interfaces Running Daily: 325
+1,400,000 Average Daily Transactions
+
+9
+
+ FY 20 10 -20 18
+
+The Past
+
+The Information Technology Strategic Push to Meaningful
+meet
+Use Mandate
+From hybrid of paper and
+electronic documentation
+
+Implementation of the
+Electronic Medical Record
+
+Physical request for
+patient information
+
+Implementation of the
+Patient Portal
+
+~25 IT supported systems
+
+~200 IT supported
+systems
+10
+
+ Summary of the Past
+Information Technology & Patient Centered Healthcare
+Regulatory guidelines for meaningful use and other regulations drove IT into a leadership role.
+
+Knowledge
+
+Patient Experience
+
+Practice
+
+Information
+Repeatable, Actionable
+Practices and Processes
+
+Data
+
+Improve
+Health of
+Populations
+
+Patient Centered
+Healthcare
+Better Patient, Users
+Experience
+
+Reducing the Cost of Healthcare
+11
+
+ Summary of the Past
+20 0 2-20 10
+•
+•
+•
+•
+•
+•
+•
+•
+
+Hybrid paper and electronic record
+Focused on inpatient
+Paper clinical documentation in community clinics
+Patients physically visited clinics for medical information
+Phone calls & messages
+Few system-wide, integrated systems (25 Applications)
+Computerized Physician Orders (CPOE)
+Three separate patient accounting billing systems
+
+12
+
+ Summary of the Past
+20 10 -20 14
+• Electronic Medical Records (EMR) across health system
+• Ambulatory technologies (PowerChart) allowed for more efficient patient coordination,
+clinician decision-making, and billing
+• Meaningful Use Inpatient
+• Consolidated Financial Platform – Patient Accounting
+• 200+ Centralized and Integrated applications and immediate access to information
+• Development of CMIO (Chief Medical Information Officer) and Clinical Informaticist
+roles within HIS (Hospital Information System) as liaisons for physicians and nursing
+staff
+• Developed clinical documentation to support PCMH (Patient Centered Medical Home
+certification)
+
+13
+
+ Summary of the Past
+20 14-20 18
+• Implemented at JDTC Cerner PowerChart with behavioral health documentation and
+management system
+• A link to eConsult is embedded in Cerner PowerChart
+• A new Professional Building that modernizes healthcare and patient experience
+• Supported Oracle Enterprise Resource Planning Solution
+• Meaningful Use Inpatient & Outpatient ($33 million to CCH)
+• HIMSS 7 Certification
+• Integrated Ophthalmology Imaging and Testing Devices
+• Self-Check-in kiosks
+• Patient Portal (download the app or via the internet)-English and Spanish
+• Increased interoperability & cost savings by creating IT partnerships with other hospitals
+
+14
+
+ Summary of the Past
+Obtaining HIMSSStage 7
+
+PREMIER
+
+"This recognition supports our embrace of health IT and
+demonstrates how Cook County Health leverages EMRs to
+improve clinical outcomes for an individual patient and also
+the health of our community through data,"
+
+John Jay Shannon, MD, CEO of CCHHS
+
+In achieving Stage 7, CCHHS was able to treat an entire population of patients
+who otherwise may have gone undetected. In identifying and treating these
+patients more effectively, CCHHS was able to improve the health and
+satisfaction of their patients with depression, reduce the frequency of return
+visits and as a result, save time, money and effort to direct toward improving
+other areas of healthcare. HIMSS Analytics Magazine. April 2018
+
+Just over 3 percent of U.S hospitals meet Stage 7
+
+15
+
+ Impact 2020 Recap
+
+Status and Results
+•
+•
+•
+•
+•
+
+Deliver High Quality Care
+Foster Fiscal Stewardship
+Leverage Valuables Assets
+Impact Social Determinants
+Advocate for Patients
+
+16
+
+ The Information Technology Impact
+20 20
+Progress & Updates
+Focus Area
+
+Strategic Initiative
+
+Notes
+
+Deliver High
+Quality Health
+Care
+Leverage Valuable
+Assets
+
+Enable users to exchange and view patient
+data from different connected sources via a
+web-based portal allowing the aggregation
+and exchange of clinical health data.
+
+Complete
+
+Deliver High
+Quality Health
+Care
+
+Facilitate transmission of orders and results
+between different electronic medical record
+systems.
+
+• Implemented CommonWell
+Complete
+
+• Implemented Connectivity Hub in Cerner
+for external partners
+
+17
+
+ The Information Technology Impact 2020
+Progress & Updates
+Focus Area
+
+Strategic Initiative
+
+Status
+
+Deliver High
+Quality Health
+Care
+
+Implement a fully electronic medical
+record across the health system.
+• Achieved HIMSS 7 Certification for
+Hospital and Ambulatory
+
+Complete
+
+Deliver High
+Quality Health
+Care
+
+Provide clinicians with a mobile
+In Progress
+solution that provides the ability to
+communicate, take clinical images, and
+receive clinical information in a
+HIPAA compliant fashion.
+• Implement Cerner CareConnect
+18
+
+ The Information Technology Impact 2020
+Progress & Updates
+Focus Area
+
+Strategic Initiative
+
+Status
+
+Foster Fiscal
+Stewardship
+
+Leverage other information technology
+initiatives such as Countywide Enterprise
+Resource Planning (ERP)
+implementation, Vizient (GPO) data and
+Clairvia (nursing management).
+
+Complete/On-going
+
+Leverage
+Valuable Assets
+
+Enable providers to improve the
+management of patients with chronic
+disease conditions and optimize the
+
+On-going
+
+• Implemented HealtheIntent
+
+19
+
+ The Information Technology Impact 2020
+Progress & Updates
+Focus Area
+
+Strategic Initiative
+
+Status
+
+Impact Social
+Determinants of
+Health
+
+Enable providers to improve the management On-going
+of patients with food insecurity, transportation
+and care coordination needs
+• Implemented Health Risk Screening with
+referrals to internal services and resources
+
+Advocate for
+Patients
+
+Provide patients with a mobile Patient Portal. On-going
+• Enhanced Patient Portal to allow for
+additional results, communicate with the
+care team, request medication renewals and
+request appointments in English and
+Spanish.
+
+20
+* Applies to multiple Focus Areas
+
+ FY 201920 22
+
+COOK COUNTY
+
+
+
+
+.,
+I 1111 
+?1 \5
+
+ 
+
+Environmental Scan of Market, Best Practices, Trends
+Telehealth takes center stage- more medical connected devices by 2020.
+Artificial Intelligence- by 2019, there will be 50 percent increase in the use of robots to deliver
+medications and supplies within the hospitals.
+Wearables for health and wellness- Fitbits, smart watches, fitness trackers to monitor fitness
+e.g. Apple Watch’s heart features including EKG.
+Prescriptive analytics- will help determine what should go into the care plan for a specific type of
+patient.
+Interoperability- with better capabilities to share information across the healthcare spectrum, a
+patient’s data follows them wherever they go.
+Predictive analytics- encompasses data mining, predictive modelling, and machine learning, that
+analyze current and historical facts to make predictions on the likelihood of future outcomes.
+Sources; Modern Healthcare; Deloitte; IT Healthcare News; CCH partners
+22
+
+ SWOT Analysis
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+SWOT Analysis
+•
+•
+•
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Strengths
+•
+Integrated EMR across all facilities
+•
+Alignment of technology to business
+•
+High performing teams
+Cerner Enterprise Interoperability
+Ability to work outside of standard application packages
+Meet business and regulatory requirements
+(Meaningful Use, Joint Commission)
+Physicians and Nurses within HIS Team
+
+Opportunities
+AI/Predictive Analytics
+Internet of Things (IoT)
+Telehealth
+Alignment with Strategic Plan
+Strengthen Cybersecurity
+Training
+Improve collaboration between IT and business process
+owners
+Patient Engagement and Learning
+
+•
+•
+•
+•
+
+Weaknesses
+Limited resources in a growing industry
+Industry EMR lack of agility
+Employee & IT skillsets-Emerging Technologies
+
+Threats
+
+Cybersecurity
+Competition for IT Staff
+Disruptive Innovation
+Lack of coordination between departments
+
+24
+
+ The RoadAhead 2020-2022
+Information Technology
+Patient Centric/Quality
+Standards
+• Improve patient
+experience
+• Operational efficiency
+
+Data/Ambulatory
+Focused
+• Leverage technologies
+• Support expansion of
+PCMH
+• Data in real time
+• Innovation
+
+Financial
+Integration/Population
+Health
+• Adjust to New
+Financial Models
+
+25
+
+ Deliver High Quality Care
+FY 20 20 -20 22 Strategic Planning Recommendations
+2020-2022
+• Partner with Quality to enhance quality metrics for the organization
+• Partner with clinicians to enhance secure interdisciplinary
+communication (CareConnect)
+• Partner with clinicians to improve patient communication (portal,
+texting)
+Enabling Technologies
+• Telehealth
+• Predictive Analysis (technology not only identifies issues but is used to
+prevent health issues)
+26
+
+ Grow to Serve and Compete
+FY 20 20 -20 22 Strategic Planning Recommendations
+2020-2022
+• Support organization improve innovative patient centered services (e.g. selfenrollment patient portal, online bill pay, online financial counseling)
+• HIMSS For Infrastructure certification: INFRAM focuses on five technical areas:
+mobility, security, collaboration, transport and data center
+• Implementation of 8 additional registries for Population Health
+• Increasing community health care facilities
+• Leverage IT to improve revenue capture
+Enabling Technologies
+• Revenue Cycle process improvements
+• Internet of Things (IoT) home monitoring
+• Telehealth to the clinic and the home
+
+27
+
+ Leverage Valuables Assets
+FY 20 20 -20 22 Strategic Planning Recommendations
+2020-2022
+• Modernization of our Revenue Cycle and process
+• Leveraging IT in the expansion of clinical services at Provident
+• Modernizing community health facilities
+Enabling Technologies
+• CCH managed wide-area network 24/7/365
+• Natural Language Processing systems, i.e. Dragon Naturally Speaking
+• Free Guest Wi-Fi access across CCH
+• Leveraging Voice Over Internet Protocol (VoIP) to lower cost, improve portability,
+increase functionality
+• Refreshed network infrastructure enabling faster network speeds, high availability,
+and next generation technologies
+28
+
+ Budget
+Funding the Future
+FY19 HIS Budget
+County Employees
+Number of HIS Positions
+Number of System Wide Positions
+HIS Employees as a % of Total FTE's
+540135 - Working Capital of Data Processing Equipment (Cerner budget, etc.)
+12555 - Health Information Systems (HIS) (salaries & operating budget)
+
+Contracted Employees
+73
+111
+7,239.56
+1.01%
+
+$83,155,602
+$7,655,976
+$90,811,578
+
+$25,243,000
+
+FY19 HIS Budget
+Total FY19 Budget
+
+HIS %of Budge
+
+$2,690,454,544
+
+3.38%
+
+29
+
+ 11
+Thank you.
+
+COOK COUNTY
+
+
+
+ 
+

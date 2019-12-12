@@ -1,0 +1,1324 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Wednesday, October 9, 2013 at the hour of 8:00 A.M., at 1900 West Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Muñoz called the meeting to order. In the absence of a quorum at that time, he appointed Director
+Collens as a substitute Member of the Committee for quorum purposes; therefore, a quorum of members was
+present.
+Present:
+
+Chairman Luis Muñoz, MD, MPH and Director Lewis M. Collens (substitute Committee
+Member) (2)
+Director Hon. Jerry Butler
+
+Present
+Telephonically: Gerald Bauman (non-Director Member)
+Absent:
+
+Directors Reverend Calvin S. Morris, PhD and Carmen Velasquez (2)
+
+Chairman Muñoz stated that Gerald Bauman was unable to be physically present, but was able to participate
+in the meeting telephonically.
+Director Collens, seconded by Chairman Muñoz, moved to allow Gerald Bauman
+to participate in this meeting telephonically. THE MOTION CARRIED
+UNANIMOUSLY.
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – System Chief Compliance and
+Privacy Officer
+John Cookinham – System Chief Financial Officer
+Bala Hota, MD – System Chief Information Officer
+Natasha Lafayette-Jones - Director of Health
+Information Management
+
+II.
+
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+Thomas Schroeder – System Director of Internal Audit
+John Jay Shannon, MD – Chief of Clinical Integration
+Dianne Willard – CCHHS Compliance Officer
+
+Public Speakers
+Chairman Muñoz asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+**Report from System Corporate Compliance and Privacy Officer (Attachment #1)
+Cathy Bodnar, System Corporate Compliance and Privacy Officer, presented her report containing updates
+on the following subjects: Fiscal Year-To-Date Activity; Privacy Issues; Update on 340B Drug Pricing
+Program; and Professional Coding Reviews and Quality Improvement Actions. The Committee reviewed
+and discussed the information.
+Page 1 of 24
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, October 9, 2013
+Page 2
+
+III.
+
+**Report from System Corporate Compliance and Privacy Officer (continued)
+Chairman Muñoz requested an update on information technology security. Dr. Bala Hota, System Chief
+Information Officer, noted that the former System Information Security Officer had spearheaded that effort,
+and had a pretty well-established road map that he developed last year, prior to his leaving the organization;
+staff is in the process of executing their tasks relating to the project. Additionally, Dr. Hota noted that the
+equipment relating to the project has been placed in the budget.
+Dianne Willard, CCHHS Compliance Officer, and Natasha Lafayette-Jones, Director of Health Information
+Management, provided additional information regarding the Professional Coding Reviews. Following the
+presentation of the information, Chairman Muñoz suggested that further thought be given to the idea of
+presenting the internal coding data in a format similar to McKesson’s presentation of the external coding
+data. Ms. Lafayette-Jones stated that the information presented in the McKesson data is relating to their
+internal review; however, the information presented on the System’s internal coding was the product of an
+external review – similarities and differences between internal and external reviews are like an apples to
+oranges comparison. In response to Chairman Muñoz’s question regarding whether the System does the data
+points for each coder internally, as well, Ms. Lafayette-Jones responded affirmatively. She stated that the
+administration started that program shortly after the last Committee meeting; they are fine-tuning the data
+and will bring it back for the Committee’s review at the next meeting.
+
+IV.
+
+Action Items
+A. Minutes of the Audit and Compliance Committee Meeting, July 10, 2013
+Director Collens, seconded by Chairman Muñoz, moved to accept the minutes of the
+Audit and Compliance Committee Meeting of July 10, 2013. THE MOTION CARRIED
+UNANIMOUSLY.
+
+B. Any items listed under Sections IV and V
+
+V.
+
+Closed Session Items
+A. Report from System Director of Internal Audit
+B. **Report from System Corporate Compliance Officer
+C. Discussion of Personnel Matters
+Director Collens, seconded by Chairman Muñoz, moved to recess the regular session and
+convene into closed session, pursuant to the following exceptions to the Illinois Open
+Meetings Act:
+5 ILCS 120/2(c)(1), regarding “the appointment, employment,
+compensation, discipline, performance, or dismissal of specific employees of the public
+body or legal counsel for the public body, including hearing testimony on a complaint
+lodged against an employee of the public body or against legal counsel for the public
+body to determine its validity,” and 5 ILCS 120/2(c)(29), regarding “meetings between
+internal or external auditors and governmental audit committees, finance committees, and
+their equivalents, when the discussion involves internal control weaknesses, identification
+of potential fraud risk areas, known or suspected frauds, and fraud interviews conducted
+in accordance with generally accepted auditing standards of the United States of
+America.” THE MOTION CARRIED UNANIMOUSLY.
+Chairman Muñoz declared that the closed session was adjourned.
+reconvened into regular session.
+Page 2 of 24
+
+The Committee
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, October 9, 2013
+Page 3
+
+VI.
+
+Adjourn
+As the agenda was exhausted, Chairman Muñoz declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Audit and Compliance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Luis Muñoz, MD, MPH, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 3 of 24
+
+ Cook County Health and Hospitals System
+Audit and Compliance Committee Meeting Minutes
+October 9, 2013
+
+ATTACHMENT #1
+
+Page 4 of 24
+
+ Corporate Compliance
+Report
+
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance Privacy Officer
+
+October 9, 2013
+
+ 
+
+  
+
+COOK COUNTY HEALTH
+.1?058: HOSPITALS SYSTEM
+. 
+
+ 
+
+Page 5 of 24
+
+Meeting Objectives
+ To file quarterly statistics on reactive compliance issues;
+ To discuss HIPAA/Patient Privacy, Confidentiality & Security issues
+in both the internal and external environment;
+ To provide an update on the current status of the 340B Drug Pricing
+Program; and
+ To report monitoring statistics for facility/technical coding and
+professional fee coding.
+
+2
+Page 6 of 24
+
+ F YTD 2013 Activity
+F-YTD
+A Total of 316 Reactive Corporate Compliance Issues for 1st – 2nd – 3rd Quarter 2013
+The Allegations Fall into the Categories that Follow
+False Claims
+6%
+Regulatory/Policy
+12%
+Research
+1%
+Other
+13%
+HIPAA
+51%
+Human
+Resources
+6%
+HC Fraud
+Theft
+2%
+1%
+Actual Counts
+Privacy (HIPAA) 160 Conflict of Interest
+Regulatory/Policy
+37 False Claims
+3
+
+Conflict of Interest
+6%
+
+Accurate Books
+2%
+
+20 Human Resources 19 HC Fraud
+18 Accurate Books
+8 Theft
+Page 7 of 24
+
+7 Research 2
+4 Other
+41
+
+ Privacy Issues
+HIPAA/Patient Privacy, Confidentiality & Security Issues
+51% or 160 issues
+Not all issues are privacy breaches
+ Requests for guidance
+– Release
+e ease o
+of information
+o at o
+– Data exchange
+– Business Associate Agreements
+There are p
+privacy
+y breaches
+ Case-by-case analysis of each incident to determine if a breach
+ F-YTD issues – 36 or 22.5%
+ Individuals affected – 137
+Recognize our “HIPAA Heroes”
+
+4
+Page 8 of 24
+
+ Micro to Macro Corrective Measures
+ Specialty education does occur for the individual affected and/or the
+
+department affected
+
+ Annual education
+
+A 2013 focus on HIPAA/Patient Privacy, Confidentiality & Security Fundamentals
+
+5
+
+ Process reviews, including policy updates
+Page 9 of 24
+
+ Current Events
+HHS wants photocopy machines
+examined as part of data security
+“Affinity Health Plan, a New York managed care
+company, recently settled for $1.2 million in fines
+regarding claims that the company forgot to clear
+a hard drive containing PHI that was attached to
+a copy machine being removed from their
+administrative offices.”
+September 17, 2013   By Michael Stovsky   The
+Washington Post
+
+Personal data of 4M patients at risk after
+Advocate burglary
+
+1,300 patient files hacked at University of
+Chicago Physicians Group
+
+“Personal information for more than 4 million ppatients
+of Advocate Medical Group may be at risk after four
+computers were stolen in a July 15 burglary of an
+administrative building in Park Ridge, Advocate said
+Friday.
+
+“Someone hacked into more than 1,300 files of University
+of Chicago Physicians Group patients, according to news
+releases from the university and one of its collections
+contractors.”
+
+August 23, 2013   By Peter Frost and Julie Wernau  
+Tribune
+
+BY ART GOLAB
+Sun-Times Staff Reporter September 13
+13, 2013
+
+6
+Page 10 of 24
+
+ July 10th Audit & Compliance Committee
+Report on CCHHS Information Security
+The following
+g categories
+g
+were presented
+p
+Administrative Safeguards
+ Administrative actions, policies, and procedures to manage the selection,
+development, implementation, and maintenance of security measures to
+protect
+t t electronic
+l t i protected
+t t d health
+h lth information
+i f
+ti and
+d tto manage th
+the conduct
+d t
+of the covered entity's workforce in relation to the protection of that
+information.
+Physical Safeguards
+ Physical measures, policies, and procedures to protect a covered entity's
+electronic information systems and related buildings and equipment, from
+natural and environmental hazards
+hazards, and unauthorized intrusion
+intrusion.
+Technical Safeguards
+ Technology
+gy and the p
+policy
+y and p
+procedures that p
+protect electronic
+protected health information (ePHI) and control access to the ePHI.
+7
+
+Definitions from the Security Rule 45 CFR Part 160 and Part 164, Subparts A and C
+Page 11 of 24
+
+ Questions?
+
+Page 12 of 24
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+Update on 340B Drug Pricing Program
+Obtained approval for all 16-off site clinics to participate in the HRSA OPA 340B Drug
+Pricing Program through John H. Stroger, Jr. Hospital of Cook County.
+Clinic Location
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Austin Health Center of Cook County
+Cicero Health Center of Cook County
+Englewood Health Center of Cook County
+Cottage Grove Health Center of Cook County
+Fantus Health Center of Cook County
+Logan Square Health Center of Cook County
+Near South Health Center of Cook County
+Oak Forest Specialty Health Center of Cook County
+Dr. Jorge Prieto Health Center of Cook County
+Robbins Health Center of Cook County
+Vista Health Center of Conk County
+Woodlawn Health Center of Cook County
+Woodyy Winston Health Center of Cook Countyy
+Morton East Adolescent Health Center of Cook County
+(School Based)
+Children's Advocacy Center
+CORE Center
+
+9
+Page 13 of 24
+
+340B ID Number
+DSH140124R
+DSH140124Q
+DSH140124P
+DSH140124N
+DSH140124M
+DSH140124L
+DSH140124K
+DSH140124A
+DSH140124J
+DSH140124H
+DSH140124G
+DSH140124F
+DSH140124E
+DSH140124D
+DSH140124C
+DSH140124B
+
+ 10
+
+Questions?
+
+Page 14 of 24
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+Professional Coding Reviews
+Externally Performed by McKesson
+ Retrospective
+R t
+ti reviews
+i
+are performed
+f
+d quarterly.
+t l
+ All staff performing CCHHS coding are reviewed.
+ Thirty
+y (30)
+( ) patient records are selected.
+ The records reviewed reflect a range of services.
+ Performance is scored utilizing the following table:
+Accuracy Levels
+Minimum Standard
+
+Scoring
+CPT/Modifiers ICD-9-CM
+95%
+
+95%
+
+Green
+Yellow
+Orange
+
+95 - 100%
+90 - 94.99%
+85 - 89.99%
+
+95 - 100%
+90 - 94.99%
+85 - 89.99%
+
+Red
+
+Below 85%
+
+Below 85%
+
+Remediation
+
+Feedback on errors
+Feedback; if no improvement in 3 quarters - corrective action plan.
+Corrective action plan with customized training to address
+weaknesses. Corrective actions become more focused with
+increasing levels of monitoring until improvement.
+Monitoring
+o to g aall cod
+coding.
+g Co
+Corrective
+ect e act
+action
+o plan
+p a with
+t customized
+custo ed ttraining
+a g
+to address weaknesses. If no improvement, removed from production.
+
+11
+
+Data provided by McKesson
+Page 15 of 24
+
+ Professional Coding
+g – E&M
+Quarter 1
+Jan - Mar 2013
+ICD-9-CM
+Action
+
+Coder
+
+CPT/Modifiers
+
+1
+2
+3
+4
+5
+6
+12
+15
+19
+29
+30
+31
+33
+
+100.0%
+90 0%
+90.0%
+96.7%
+86.7%
+90.0%
+90.0%
+92.0%
+93.3%
+87.5%
+93.8%
+93.1%
+86.7%
+93.3%
+
+100.0%
+97 0%
+97.0%
+100.0%
+99.2%
+92.0%
+92.0%
+93.0%
+93.3%
+99.2%
+96.1%
+95.7%
+91.7%
+100.0%
+
+80 6%
+80.6%
+
+89 2%
+89.2%
+
+83.3%
+
+99.2%
+
+91.9%
+
+99.2%
+
+90.9%
+
+97.0%
+
+66.0%
+
+75.0%
+
+91.9%
+86.0%
+76.7%
+60.0%
+90.0%
+86.7%
+96.0%
+
+93.5%
+90.0%
+90.0%
+84.2%
+100.0%
+96.7%
+NA
+
+35
+36
+37
+39
+42
+43
+45
+48
+49
+50
+51
+54
+
+CPT/Modifiers
+Evaluation and Management Codes
+93.5%
+NA
+86 7%
+86.7%
+NA
+100.0%
+NA
+90.6%
+Feedback; ongoing monitoring
+NA
+86.0%
+NA
+NA
+NA
+Coder removed from production
+90.0%
+NA
+100.0%
+NA
+90.0%
+Feedback; ongoing monitoring
+90.0%
+NA
+Remediation; 100% monitoring until
+compliant.
+Feedback; ongoing monitoring
+NA
+NA
+Remediation; 100% monitoring until
+compliant.
+NA
+Feedback; ongoing monitoring
+Removed from coding
+Removed from coding
+NA
+Removed from coding
+NA
+
+12
+
+Data provided by McKesson
+Page 16 of 24
+
+Quarter
+Apr - Jun 2013
+ICD-9-CM
+Action
+96.8%
+90 0%
+90.0%
+99.2%
+96.7%
+
+NA
+F db k ongoing
+Feedback;
+i monitoring
+it i
+NA
+NA
+
+99.0%
+
+Feedback; ongoing monitoring
+
+96.7%
+93.3%
+100.0%
+100.0%
+
+81 1%
+81.1%
+
+93 9%
+93.9%
+
+86.7%
+
+96.7%
+
+86.7%
+
+89.2%
+
+85.9%
+
+98.3%
+
+NA
+NA
+NA
+NA
+Remediation; 100% monitoring until
+compliant.
+Feedback; ongoing monitoring.
+Terminated 08/14/2013
+Feedback; ongoing monitoring.
+Terminated 08/13/2013
+Feedback; ongoing monitoring
+
+88.3%
+
+86.7%
+
+Feedback; ongoing monitoring
+
+ Professional Coding – E&M +
+Specialty
+p
+y
+Quarter 1
+Jan - Mar 2013
+Coder
+
+CPT/Modifiers
+
+ICD-9-CM
+
+57
+58
+59
+
+76.7%
+96.7%
+86.7%
+
+83.3%
+95.8%
+100.0%
+
+33.3%
+
+62.5%
+
+86.3%
+90.0%
+
+96.9%
+95.0%
+
+60
+62
+63
+75
+77
+78
+
+93.9
+
+100
+
+Quarter
+Apr - Jun 2013
+
+Action
+
+CPT/Modifiers
+
+ICD-9-CM
+
+Action
+
+g
+Codes
+Evaluation and Management
+Removed from coding
+NA
+93.3%
+Feedback; ongoing monitoring
+Remediation; 100% monitoring
+until compliant.
+81.3%
+Feedback; ongoing monitoring
+90.0%
+NA
+91.70%
+
+100.0%
+100.0%
+89.20%
+
+76.70%
+
+86.70%
+
+93.9
+
+99.2
+
+94.7%
+
+96.9%
+
+NA
+
+100.00%
+90.70%
+100.00%
+96 40%
+96.40%
+
+96.00%
+91.70%
+100.00%
+100 00%
+100.00%
+
+NA
+NA
+NA
+NA
+
+100.00%
+97.37%
+90.91%
+
+90.00%
+99.14%
+96.67%
+
+NA
+NA
+NA
+
+N/A
+
+95.0%
+
+NA
+
+Feedback; ongoing monitoring
+NA
+Coder is on FMLA.
+Remediation; 100% monitoring
+until compliant.
+N/A
+
+Podiatry
+41
+
+94.3%
+
+98.6%
+
+NA
+
+71
+72
+73
+74
+
+98.1%
+97.7%
+97.8%
+100 0%
+100.0%
+
+100.0%
+99.3%
+97.5%
+99 2%
+99.2%
+
+NA
+NA
+NA
+NA
+
+65
+66
+67
+
+97.1%
+94.4%
+100.0%
+
+100.0%
+92.7%
+96.7%
+
+NA
+NA
+NA
+
+Pathology
+
+Radiology
+
+13
+
+Data provided by McKesson
+Page 17 of 24
+
+ Professional Coding
+g – Specialty
+p
+y Only
+y
+Quarter 1
+Jan - Mar 2013
+Coder
+
+CPT/Modifiers
+
+ICD-9-CM
+
+26
+27
+28
+55
+56
+
+93.9%
+90.6%
+96.8%
+90.3%
+93.9%
+
+100.0%
+100.0%
+100.0%
+96.8%
+100.0%
+
+32
+38
+40
+44
+61
+
+100.0%
+100 0%
+100.0%
+94.7%
+90.9%
+100.0%
+
+98.6%
+100.0%
+100
+0%
+94.1%
+96.2%
+98.0%
+
+Action
+
+Quarter
+Apr - Jun 2013
+CPT/Modifiers
+Emergency Department
+NA
+94.1
+NA
+97.5
+NA
+100
+NA
+NA
+General Surgery
+100.0%
+NA
+95 0%
+95.0%
+NA
+98.5%
+NA
+NA
+93.0%
+NA
+84.80%
+
+76
+34
+
+93.2%
+
+99.4%
+
+46
+
+100.0%
+
+100.0%
+
+7
+
+98.1%
+
+100.0%
+
+9
+
+96.4%
+
+98.2%
+
+92.2%
+
+100.0%
+
+64
+
+Ophthalmological Surgery
+92.3%
+NA
+Orthopaedic Surgery
+100.0%
+NA
+Plastic Surgery
+NA
+Urologic Surgery
+NA
+NA
+
+ICD-9-CM
+
+Action
+
+100
+100
+100
+
+NA
+NA
+NA
+
+95.0%
+97 5%
+97.5%
+96.9%
+
+NA
+NA
+NA
+
+100.0%
+100.00%
+
+NA
+Remediation; 100% monitoring
+until compliant.
+
+100.0%
+
+NA
+
+97.0%
+
+NA
+
+44.80%
+
+82.50%
+
+94.60%
+94 10%
+94.10%
+100.00%
+
+100.00%
+99 20%
+99.20%
+98.30%
+
+Remediation; 100% monitoring
+until compliant.
+
+Anesthesia
+68
+69
+70
+
+95.2%
+95
+2%
+94.6%
+
+98.4%
+98
+4%
+96.7%
+
+NA
+NA
+
+14
+
+Data provided by McKesson
+Page 18 of 24
+
+NA
+NA
+NA
+
+ Process Improvement
+- McKesson
+p
+Request for Additional Information
+ Query
+Q
+process between
+b t
+coders
+d
+and
+d providers.
+id
+ An intranet based, electronic communication portal.
+ Links to the electronic medical record to allow providers to
+update the record.
+ Identifies areas for documentation improvement to allow for
+coding
+g specificity.
+p
+y
+
+15
+
+Data provided by McKesson
+Page 19 of 24
+
+ CCHHS Coding Reviews
+Externally Performed Review of Records
+D t Parameters:
+Date
+P
+t
+January
+J
+1,
+1 2012 – December
+D
+b 31
+31, 2012
+Inpatient Records – Provident Hospital
+ 1,635
+1 635 inpatient records reviewed – 100% retrospective review
+review.
+Number of Records
+with Changes
+
+Total Number
+of Records Reviewed
+
+Accuracy
+Percentage
+
+10
+
+1,635
+
+99.4%
+
+16
+
+Data provided by CCHHS Health Information Management
+Page 20 of 24
+
+ CCHHS Coding Reviews
+Externally Performed Review of Records
+D t Parameters:
+Date
+P
+t
+January
+J
+1,
+1 2012 – December
+D
+b 31
+31, 2012
+Emergency Room Records (including Trauma)
+Provident and John H.
+H Stroger,
+Stroger Jr.
+Jr Hospitals
+Provident Hospital ED – 5% Retrospective Review
+
+
+
+A random sample of 720 records reviewed
+Coded b
+by CCHHS coding staff
+
+John H. Stroger, Jr. Hospital ED – 5% Retrospective Review
+
+
+A random sample
+p of 2,269
+,
+records coded byy CCHHS coding
+g staff
+
+
+
+A random sample of 2,130 records coded by CCHHS External Vendor
+
+17
+
+Data provided by CCHHS Health Information Management
+Page 21 of 24
+
+ CCHHS Coding Results
+Coding Category
+p Diagnosis
+g
+Principal
+Secondary Diagnoses
+Evaluation & Management (E&M)
+Modifiers
+Procedures
+1
+Nursing Documentation
+1 Nursing
+
+Stroger ED
+Internal Coders
+Accuracy
+Percentage
+97%
+98%
+83%
+61%
+96%
+89%
+
+Stroger ED
+External Coders
+Accuracy
+Percentage
+94%
+94%
+94%
+50%
+92%
+87%
+
+Documentation - Medication infusion start and stop times
+
+18
+
+Data provided by CCHHS Health Information Management
+Page 22 of 24
+
+Provident ED
+Internal Coders
+Accuracy
+Percentage
+99%
+99%
+98%
+98%
+100%
+
+ CCHHS Quality Improvement Actions
+ Educate coders to improve coding accuracy by sharing
+external audit results.
+results
+– Emphasize official coding guidelines for the assignment of
+principal diagnosis, secondary diagnosis and procedures.
+– IInstruct
+t t coders
+d
+on th
+the assignment
+i
+t off Current
+C
+tP
+Procedural
+d l
+Terminology (CPT) modifiers.
+ Develop query process between coders and providers.
+ Initiate internal quality review process.
+
+19
+
+Data provided by CCHHS Health Information Management
+Page 23 of 24
+
+ 20
+
+Questions?
+
+Page 24 of 24
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+

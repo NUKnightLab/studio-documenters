@@ -1,0 +1,137 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY
+AND AUTOMATION
+June 2, 2009
+The Honorable,
+The Board of Commissioners of Cook County
+ATTENDANCE
+Present:
+
+Chairman Beavers, Vice Chairman Gorman, Commissioners Butler, Daley,
+Goslin and Schneider (6)
+
+Absent:
+
+Commissioners Moreno, Peraica and Steele (3)
+
+Also Present:
+
+Antonio Hylton – Chief Information Officer, Cook County Bureau of Technology;
+Takashi Reinbold – Director, Department of Budget and Management Services;
+Mr. John Lewis – Associate Vice President, Northern Illinois University
+
+Ladies and Gentlemen:
+Your Committee on Information Technology and Automation of the Board of
+Commissioners of Cook County met pursuant to notice on Tuesday, June 2, 2009 at the hour of
+9:30 A.M. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago,
+Illinois.
+Your Committee has considered the following items and, upon adoption of this report, the
+recommendations are as follows:
+300003
+
+COOK COUNTY BOARD OF COMMISSIONERS, by Todd H. Stroger,
+President. Transmitting a Communication, dated April 14, 2009:
+requesting authorization to enter into and execute an Intergovernmental
+Agreement with the CITY OF CHICAGO (the “City”). The City, subject to its
+proprietary rights and interests, has agreed to provide the County with the City’s
+propriety source code used for budget management and bookkeeping
+purposes.
+Estimated Fiscal Impact: None.
+*Referred to the Committee on Information Technology and Automation
+on April 15, 2009.
+
+Vice Chairman Gorman, seconded by Commissioner Butler, moved the approval of
+Communication No. 300003. The motion carried.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+JUNE 2, 2009
+PAGE 2
+
+300004
+
+COOK COUNTY BOARD OF COMMISSIONERS, by Todd H. Stroger,
+President. Transmitting a Communication, dated April 15, 2009:
+requesting authorization to enter into and execute an Intergovernmental
+Agreement with NORTHERN ILLINOIS UNIVERSITY (“NIU”) for the following
+services:
+1.
+
+Assistance in the preparation, implementation, operations and
+administration of a Comprehensive and Unified County-wide
+Disaster Recovery (DR) and Continuity of Government (COG)
+capability;
+
+2.
+
+Independent Advisory assistance to the Bureau of Technology
+(BOT) for the development of applications for all eligible State
+and Federal broadband technology grants;
+
+3.
+
+Assistance in the development and implementation of mutually
+beneficial technology related initiatives with the State of Illinois
+and the City of Chicago to help reduce costs and maximize
+collaboration;
+
+4.
+
+Assistance in the development and implementation of the Cook
+County Broadband Tariff of Services for the recently issued
+Certificate of Service Authority to monetize appropriately
+approved technology investments; and
+
+5.
+
+Assistance in the development of cost effective Regional
+Collaboration partnerships with entities which include, but are not
+limited to, the Illinois Rural Healthcare Network, the Northern
+Illinois Technology Triangle Fiber Optic Network, the Illinois
+Broadband Deployment Council, and the Federal Broadband and
+Infrastructure initiative.
+
+Estimated Fiscal Impact: $2,500,000.00 $1,500,000.00. Contract period: Ten
+(10) years upon execution. (009-260 Account).
+*Referred to the Committee on Information Technology and Automation
+on April 15, 2009.
+Commissioner Daley noted for the record that there has been no plan that addresses the issue
+of disaster planning to help facilitate disaster recovery and business continuity. He noted that
+findings of a need for such disaster planning have been part of every audit that has been
+conducted, and that this item addresses this need.
+Vice Chairman Gorman, seconded by Commissioner Goslin moved the approval of
+Communication No. 300004 as amended. The motion carried.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+JUNE 2, 2009
+PAGE 3
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speakers,
+in accordance with Cook County Code, Sec. 2-108(dd):
+1.
+
+George Blakemore – Concerned Citizen
+
+Commissioner Butler moved to adjourn the meeting, seconded by Commissioner
+Gorman. The motion carried and the meeting was adjourned.
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTERS NAMED HEREIN:
+Communication Number 300003
+Communication Number 300004
+
+Approved
+Approved as Amended
+
+Respectfully submitted,
+Committee on Information Technology
+& Automation
+
+____________________________
+William M. Beavers, Chairman
+
+Attest:
+
+_________________________________
+Matthew B. DeLeon, Secretary
+
+*The audio recording for this meeting is available from the Office of the Secretary to the Board,
+118 North Clark Street, Room 567, Chicago, IL 60602.
+
+ 

@@ -1,0 +1,842 @@
+OPEN MEETINGS ACT
+HANDBOOK
+
+Attorney General Dana Nessel
+Additional copies available at mi.gov/foia-oma
+
+ The Handbook is intended to be a quick reference guide. It is not intended to be
+encyclopedic on every subject or resolve every situation that may be encountered.
+TABLE OF CONTENTS
+
+THE BASICS
+The Act.............................................................................................................................................4
+What bodies are covered?................................................................................................................4
+Public notice requirements...............................................................................................................4
+Agendas and the OMA.....................................................................................................................6
+Penalties for OMA violations ..........................................................................................................6
+Lawsuits to compel compliance .......................................................................................................6
+Correcting non-conforming decisions ..............................................................................................6
+DECISIONS MUST BE MADE IN PUBLIC MEETINGS
+All decisions must be made at a meeting open to the public ...........................................................7
+Meeting "informally" to discuss matters..........................................................................................7
+Canvassing board members on how they might vote ......................................................................7
+May a quorum of a board gather outside an open meeting without violating the OMA? ...............8
+Advisory committees and the OMA................................................................................................8
+Use of e-mail or other electronic communications during an open meeting ...................................9
+CLOSED SESSIONS
+Meeting in closed session..............................................................................................................10
+A closed session must be conducted during the course of an open meeting .................................10
+Going into closed session...............................................................................................................11
+Leaving a closed session................................................................................................................11
+Decisions must be made at an open meeting, not the closed session............................................12
+Avoid using the terms "closed session" and "executive session" interchangeably ........................12
+Staff and others may join the board in a closed session ............................................................... 12
+Forcibly removing a person from a closed session ........................................................................12
+PUBLIC ATTENDING OPEN MEETINGS
+Excluding individuals....................................................................................................................13
+Identifying public attendees ...........................................................................................................13
+Limiting public comment ...............................................................................................................13
+Meeting location............................................................................................................................14
+Timing of public comment.............................................................................................................14
+2
+
+ Taping and broadcasting................................................................................................................14
+MINUTES
+What must be in the minutes..........................................................................................................15
+When must the minutes be available.............................................................................................15
+When must the minutes be approved.............................................................................................15
+Closed session minutes..................................................................................................................15
+Inadvertent omissions from the minutes ........................................................................................16
+PARLIAMENTARY PROCEDURES
+Core principle.................................................................................................................................17
+QUORUM
+Quorum..........................................................................................................................................17
+What is the quorum? ......................................................................................................................17
+Disqualified members....................................................................................................................17
+Losing a quorum............................................................................................................................18
+Resigned members.........................................................................................................................18
+VOTING
+Abstain...........................................................................................................................................19
+Adjourning the meeting ................................................................................................................19
+Chairperson voting.........................................................................................................................19
+Expired-term members...................................................................................................................19
+Imposing a greater voting requirement ..........................................................................................19
+Majority..........................................................................................................................................19
+Proxy voting ...................................................................................................................................20
+Roll call vote..................................................................................................................................20
+Round-robin voting........................................................................................................................20
+Rule of necessity............................................................................................................................20
+Secret ballot...................................................................................................................................21
+Tie vote..........................................................................................................................................21
+
+3
+
+ OPEN MEETINGS ACT
+THE BASICS
+The Act – the Open Meetings Act (OMA) is 1976 PA 267, MCL 15.261 through 15.275. The
+OMA took effect January 1, 1977. In enacting the OMA, the Legislature promoted a new era in
+governmental accountability and fostered openness in government to enhance responsible
+decision making.1
+Nothing in the OMA prohibits a public body from adopting an ordinance, resolution, rule, or
+charter provision that requires a greater degree of openness relative to public body meetings than
+the standards provided for in the OMA.2
+What bodies are covered? – the OMA applies to all meetings of a public body.3 A "public
+body" is broadly defined as:
+[A]ny state or local legislative or governing body, including a board, commission,
+committee, subcommittee, authority, or council, that is empowered by state
+constitution, statute, charter, ordinance, resolution, or rule to exercise
+governmental or proprietary authority or perform a governmental or proprietary
+function; a lessee of such a body performing an essential public purpose and
+function pursuant to the lease agreement.4 [Emphasis added.]
+As used in the OMA, the term "public body" connotes a collective entity and does not include an
+individual government official.5 The OMA does not apply to private, nonprofit corporations.6
+Public notice requirements – a meeting of a public body cannot be held unless public notice is
+given consistent with the OMA.7 A public notice must contain the public body's name,
+telephone number, and address, and must be posted at its principal office and any other locations
+
+1
+
+Booth Newspapers, Inc v Univ of Michigan Bd of Regents, 444 Mich 211, 222-223; 507 NW2d 422 (1993).
+MCL 15.261.
+3
+MCL 15.263. When the Handbook refers to a "board," the term encompasses all boards, commissions, councils,
+authorities, committees, subcommittees, panels, and any other public body.
+4
+MCL 15.262(a). The provision in the OMA that includes a lessee of a public body performing an essential public
+purpose is unconstitutional because the title of the act does not refer to organizations other than "public bodies."
+OAG, 1977-1978, No 5207, p 157 (June 24, 1977). Certain boards are excluded "when deliberating the merits of a
+case." MCL 15.263(7). See also MCL 15.263(8) and (10).
+5
+Herald Co v Bay City, 463 Mich 111, 129-133; 614 NW2d 873 (2000) – a city manager is not subject to the OMA.
+Craig v Detroit Public Schools Chief Executive Officer, 265 Mich App 572, 579; 697 NW2d 529 (2005). OAG,
+1977-1978, No 5183A, p 97 (April 18, 1977).
+6
+OAG, 1985-1986, No 6352, p 252 (April 8, 1986) – the Michigan High School Athletic Association is not subject
+to the OMA. See also Perlongo v Iron River Cooperative TV Antenna Corp, 122 Mich App 433; 332 NW2d 502
+(1983).
+7
+MCL 15.265(1). Nicholas v Meridian Charter Twp, 239 Mich App 525, 531; 609 NW2d 574 (2000).
+2
+
+4
+
+ the public body considers appropriate.8 If a public body is a part of a state department, a public
+notice must also be posted in the principal office of the state department.9
+Public notice requirements are specific to the type of meeting:
+(1) For regular meetings of a public body, there shall be posted within 10 days
+after the first meeting of the public body in each calendar or fiscal year a public
+notice stating the dates, times, and places of its regular meetings.
+(2) For a change in schedule of regular meetings of a public body, there shall be
+posted within three days after the meeting at which the change is made, a public
+notice stating the new dates, times, and places of its regular meetings.
+(3) For a rescheduled regular or a special meeting of a public body, a public
+notice stating the date, time, and place of the meeting shall be posted at least 18
+hours before the meeting.
+(4) A meeting of a public body which is recessed for more than 36 hours shall be
+reconvened only after public notice has been posted at least 18 hours before the
+reconvened meeting.10
+At their first meeting of the calendar or fiscal year, each board must set the dates, times, and
+places of the board's regular meetings for the coming year. The OMA does not require any
+particular number of meetings. The board's schedule of regular meetings is not, of course, set in
+stone. The board is free to cancel or reschedule its meetings.
+The minimum 18-hour notice requirement is not fulfilled if the public is denied access to the
+notice of the meeting for any part of the 18 hours.11 The requirement may be met by posting at
+least 18 hours in advance of the meeting using a method designed to assure access to the notice.
+For example, the public body can post the notice at the main entrance visible on the outside of
+the building that houses the principal office of the public body.12
+A public body must send copies of the public notices by first class mail to a requesting party,
+upon the party's payment of a yearly fee of not more than the reasonable estimated cost of
+printing and postage. Upon written request, a public body, at the same time a public notice of a
+meeting is posted, must provide a copy of the public notice to any newspaper published in the
+state or any radio or television station located in the state, free of charge.13
+
+8
+
+MCL 15.264(a)-(c).
+MCL 15.264(c).
+10
+MCL 15.265(2)-(5).
+11
+OAG, 1979-1980, No 5724, p 840 (June 20, 1980).
+12
+OAG No 5724.
+13
+MCL 15.266.
+9
+
+5
+
+ Agendas and the OMA – while the OMA requires a public body to give public notice when it
+meets, it has no requirement that the public notice include an agenda or a specific statement as to
+the purpose of a meeting.14 No agenda format is required by the OMA.15
+Penalties for OMA violations – a public official who "intentionally violates" the OMA may be
+found guilty of a misdemeanor16 and may be personally liable for actual and exemplary damages
+of not more than $500 for a single meeting.17 The exemptions in the OMA must be strictly
+construed. The "rule of lenity" (i.e., courts should mitigate punishment when the punishment in
+the criminal statute is unclear) does not apply to construction of the OMA's exemptions.18
+A decision made by a public body may be invalidated by a court, if the public body has not
+complied with the requirements of MCL 15.263(1), (2), and (3) [i.e., making decisions at a
+public meeting] or if failure to give notice in accordance with section 5 has interfered with
+substantial compliance with MCL 15.263(1), (2), and (3) and the court finds that the
+noncompliance has impaired the rights of the public under the OMA.
+Lawsuits to compel compliance – actions must be brought within 60 days after the public
+body's approved minutes involving the challenged decision are made publicly available.19 If the
+decision involves the approval of contracts, the receipt or acceptance of bids, or the procedures
+pertaining to the issuance of bonds or other evidences of indebtedness, the action must be
+brought within 30 days after the approved minutes are made publicly available.20 If the decision
+of a state public body is challenged, venue is in Ingham County.21
+Correcting non-conforming decisions – in any case where a lawsuit has been initiated to
+invalidate a public body's decision on the ground that it was not made in conformity with the
+OMA, the public body may, without being deemed to make any admission contrary to its
+interest, reenact the disputed decision in conformity with the OMA. A decision reenacted in this
+manner shall be effective from the date of reenactment and is not rendered invalid by any
+deficiency in its initial enactment.22 If the board acts quickly, the reenactment may defeat a
+claim for attorney's fees, since plaintiffs would not be successful in "obtaining relief in the
+action" within the meaning of the OMA.23
+
+14
+
+OAG, 1993-1994, No 6821, p 199 (October 18, 1994). But, as discussed in OAG No 6821, other statutes may
+require a public body to state in its notice the business to be transacted at the meeting.
+15
+Lysogorski v Bridgeport Charter Twp, 256 Mich App 297, 299; 662 NW2d 108 (2003).
+16
+MCL 15.272.
+17
+MCL 15.273.
+18
+People v Whitney, 228 Mich App 230, 244; 578 NW2d 329 (1998).
+19
+MCL 15.270(3)(a).
+20
+MCL 15.270(3)(b).
+21
+MCL 15.270(4).
+22
+MCL 15.270(5).
+23
+Leemreis v Sherman Twp, 273 Mich App 691, 700; 731 NW2d 787 (2007). Felice v Cheboygan County Zoning
+Comm, 103 Mich App 742, 746; 304 NW2d 1 (1981).
+
+6
+
+ DECISIONS MUST BE MADE IN PUBLIC MEETINGS
+All decisions must be made at a meeting open to the public – the OMA defines "decision" to
+mean "a determination, action, vote, or disposition upon a motion, proposal, recommendation,
+resolution, order, ordinance, bill, or measure on which a vote by members of a public body is
+required and by which a public body effectuates or formulates public policy."24 The OMA
+provides that "[a]ll decisions of a public body shall be made at a meeting open to the public," and
+that, with limited exceptions, "[a]ll deliberations of a public body constituting a quorum of its
+members shall take place at a meeting open to the public."25
+The OMA does not contain a "voting requirement" or any form of "formal voting requirement."
+A "consensus building process" that equates to decision-making would fall under the act.26 For
+example, where board members use telephone calls or sub-quorum meetings to achieve the same
+intercommunication that could have been achieved in a full board or commission meeting, the
+members' conduct is susceptible to "round-the-horn" decision-making, which achieves the same
+effect as if the entire board had met publicly and formally cast its votes. A "round-the-horn"
+process violates the OMA.27
+Meeting "informally" to discuss matters – while the OMA "does not apply to a meeting which
+is a social or chance gathering or conference not designed to avoid this act,"28 a meeting of a
+public body must be open to the public. The OMA does not define the terms "social or chance
+gathering" or "conference," and provides little direct guidance as to the precise scope of this
+exemption.29 To promote openness in government, however, the OMA is entitled to a broad
+interpretation and exceptions to conduct closed sessions must be construed strictly.30 Thus, the
+closed session exception does not apply to a quorum of a public body that meets to discuss
+matters of public policy, even if there is no intention that the deliberations will lead to a decision
+on that occasion.31
+Canvassing board members on how they might vote – an informal canvas by one member of a
+public body to find out where the votes would be on a particular issue does not violate the OMA,
+
+24
+
+MCL 15.262(d).
+MCL 15.263(2) and (3).
+26
+Booth Newspapers, Inc v Univ of Michigan Bd of Regents, 444 Mich at 229.
+27
+Booth Newspapers, Inc, 444 Mich at 229 – "any alleged distinction between the [public body's] consensus
+building and a determination or action, as advanced in the OMA's definition of 'decision,' is a distinction without a
+difference."
+28
+MCL 15.263(10).
+29
+OAG, 1981-1982, No 6074, p 662, 663 (June 11, 1982).
+30
+Wexford County Prosecutor v Pranger, 83 Mich App 197, 201, 204; 268 NW2d 344 (1978).
+31
+OAG, 1977-1978, No 5298, p 434, 435 (May 2, 1978). See also OAG, 1979-1980, No 5444, p 55, 56 (February
+21, 1979) – anytime a quorum of a public body meets and considers a matter of public policy, the meeting must
+comply with the OMA's requirements. Compare OAG, 1979-1980, No 5437, p 36, 37 (February 2, 1979), where
+members of a public body constituting a quorum come together by chance, the gathering is exempt from the OMA;
+however, even at a chance meeting, matters of public policy may not be discussed by the members with each other.
+25
+
+7
+
+ so long as no decisions are made during the discussions and the discussions are not a deliberate
+attempt to the avoid the OMA.32
+May a quorum of a board gather outside an open meeting without violating the OMA? –
+yes, in some instances. In addition to a purely social gathering or chance gathering33 that does
+not involve discussions of public policy among the members of the board, a quorum may accept
+an invitation to address a civic organization,34 listen to the concerns of a neighborhood
+organization, or observe demonstrations, if the board doesn't deliberate toward, or make, a
+decision.35
+A board quorum also may meet for a workshop, seminar, informational gathering, or
+professional conference designed to convey, to the conference participants, information about
+areas of professional interest common to all conference participants.36 These kinds of meetings
+involve a conference designed primarily to provide training or background information and
+involve a relatively broad focus upon issues of general concern, rather than a more limited focus
+on matters or issues of particular interest to a single public body.37 However, when gatherings
+are designed to receive input from officers or employees of the public body, the OMA requires
+that the gathering be held at a public meeting.38
+The OMA was not violated when several members of the board of county commissioners
+attended a public meeting of the county planning committee (which had more than fifty
+members, two who were county commissioners), which resulted in a quorum of the board being
+present at the meeting (without the meeting also being noticed as a county commission meeting),
+so long as the nonmember commissioners did not engage in deliberations or render decisions.39
+Advisory committees and the OMA – the OMA does not apply to committees and
+subcommittees composed of less than a quorum of the full public body if they "are merely
+advisory or only capable of making 'recommendations concerning the exercise of governmental
+authority.'"40
+Where, on the other hand, a committee or subcommittee is empowered to act on matters in such
+a fashion as to deprive the full public body of the opportunity to consider a matter, a decision of
+the committee or subcommittee "is an exercise of governmental authority which effectuates
+
+32
+
+St Aubin v Ishpeming City Council, 197 Mich App 100, 103; 494 NW2d 803 (1992).
+OAG, 1979-1980, No 5437, p 36 (February 2, 1979).
+34
+OAG, 1977-1978, No 5183, p 21, 35 (March 8, 1977).
+35
+OAG, 1977-1978, No 5364, p 606, 607 (September 7, 1978).
+36
+OAG, 1979-1980, No 5433, p 29, 31 (January 31, 1979).
+37
+OAG, 1981-1982, No 6074, at p 664.
+38
+OAG No 5433 at p 31.
+39
+OAG, 1989-1990, No 6636, p 253 (October 23, 1989), cited with approval in Ryant v Cleveland Twp, 239 Mich
+App 430, 434-435; 608 NW2d 101 (2000) and Nicholas v Meridian Charter Twp, 239 Mich App at 531-532. If,
+however, the noncommittee board members participate in committee deliberations, the OMA would be violated.
+Nicholas, 239 Mich App at 532.
+40
+OAG, 1997-1998, No 6935, p 18 (April 2, 1997); OAG No 5183 at p 40.
+33
+
+8
+
+ public policy" and the committee or subcommittee proceedings are, therefore, subject to the
+OMA.41
+If a joint meeting of two committees of a board (each with less than a quorum of the board)
+results in the presence of a quorum of the board, the board must comply in all respects with the
+OMA and notice of the joint meeting must include the fact that a quorum of the board will be
+present.42
+Use of e-mail or other electronic communications among board members during an open
+meeting – e-mail, texting, or other forms of electronic communications among members of a
+board or commission during the course of an open meeting that constitutes deliberations toward
+decision-making or actual decisions violates the OMA, since it is in effect a "closed" session.
+While the OMA does not require that all votes by a public body must be by roll call, voting
+requirements under the act are met when a vote is taken by roll call, show of hands, or other
+method that informs the public of the public official's decision rendered by his or her vote. Thus,
+the OMA bars the use of e-mail or other electronic communications to conduct a secret ballot at
+a public meeting, since it would prevent citizens from knowing how members of the public body
+have voted.43
+Moreover, the use of electronic communications for discussions or deliberations, which are not,
+at a minimum, able to be heard by the public in attendance at an open meeting are contrary to the
+OMA's core purpose – the promotion of openness in government.44
+Using e-mail to distribute handouts, agenda items, statistical information, or other such material
+during an open meeting should be permissible under the OMA, particularly when copies of that
+information are also made available to the public before or during the meeting.
+
+41
+
+Schmiedicke v Clare School Bd, 228 Mich App 259, 261, 263-264; 577 NW2d 706 (1998); Morrison v East
+Lansing, 255 Mich App 505; 660 NW2d 395 (2003); and OAG, 1997-1998, No 7000, p 197 (December 1, 1998) – a
+committee composed of less than a quorum of a full board is subject to the OMA, if the committee is effectively
+authorized to determine whether items will or will not be referred for action by the full board, citing OAG, 19771978, No 5222, p 216 (September 1, 1977).
+42
+OAG, 1989-1990, No 6636, at p 254.
+43
+See Esperance v Chesterfield Twp, 89 Mich App 456, 464; 280 NW2d 559 (1979) and OAG, 1977-1978, No
+5262, p 338 (January 31, 1978).
+44
+See Booth Newspapers, Inc, 444 Mich at 229; Schmiedicke, 228 Mich App at 263, 264; and Wexford County
+Prosecutor, 83 Mich App at 204.
+
+9
+
+ CLOSED SESSIONS
+Meeting in closed session – a public body may meet in a closed session only for one or more of
+the permitted purposes specified in section 8 of the OMA.45 The limited purposes for which
+closed sessions are permitted include, among others46:
+(1) To consider the dismissal, suspension, or disciplining of, or to hear complaints or
+charges brought against, or to consider a periodic personnel evaluation of, a public
+officer, employee, staff member, or individual agent, if the named person requests a
+closed hearing.47
+(2) For strategy and negotiation sessions connected with the negotiation of a collective
+bargaining agreement if either negotiating party requests a closed hearing.48
+(3) To consider the purchase or lease of real property up to the time an option to
+purchase or lease that real property is obtained.49
+(4) To consult with its attorney regarding trial or settlement strategy in connection with
+specific pending litigation, but only if an open meeting would have a detrimental financial
+effect on the litigating or settlement position of the public body.50
+(5) To review and consider the contents of an application for employment or
+appointment to a public office if the candidate requests that the application remain
+confidential. However, all interviews by a public body for employment or appointment
+to a public office shall be held in an open meeting pursuant to this act.51
+(6) To consider material exempt from discussion or disclosure by state or federal
+statute.52 But note – a board is not permitted to go into closed session to discuss an
+attorney's oral opinion, as opposed to a written legal memorandum.53
+A closed session must be conducted during the course of an open meeting – section 2(c) of
+the OMA defines "closed session" as "a meeting or part of a meeting of a public body that is
+
+45
+
+MCL 15.268. OAG, 1977-1978, No 5183, at p 37.
+The other permissible purposes deal with public primary, secondary, and post-secondary student disciplinary
+hearings – section 8(b); state legislature party caucuses – section 8(g); compliance conferences conducted by the
+Michigan Department of Community Health – section 8(i); and public university presidential search committee
+discussions – section 8(j).
+47
+MCL 15.268(a) (Emphasis added.)
+48
+MCL 15.268(c) (Emphasis added.)
+49
+MCL 15.268(d).
+50
+MCL 15.268(e) (Emphasis added.)
+51
+MCL 15.268(f) (Emphasis added.)
+52
+MCL 15.268(h).
+53
+Booth Newspapers, Inc v Wyoming City Council, 168 Mich App 459, 467, 469-470; 425 NW2d 695 (1988).
+46
+
+10
+
+ closed to the public."54 Section 9(1) of the OMA provides that the minutes of an open meeting
+must include "the purpose or purposes for which a closed session is held."55
+Going into closed session – section 7(1) of the OMA56 sets out the procedure for calling a
+closed session:
+A 2/3 roll call vote of members elected or appointed and serving is required to
+call a closed session, except for the closed sessions permitted under section 8(a),
+(b), (c), (g), (i), and (j). The roll call vote and the purpose or purposes for calling
+the closed session shall be entered into the minutes of the meeting at which the
+vote is taken.
+Thus, a public body may go into closed session only upon a motion duly made, seconded, and
+adopted by a 2/3 roll call vote of the members appointed and serving57 during an open meeting
+for the purpose of (1) considering the purchase or lease of real property, (2) consulting with their
+attorney, (3) considering an employment application, or (4) considering material exempt from
+disclosure under state or federal law. A majority vote is sufficient for going into closed session
+for the other OMA permitted purposes.
+We suggest that every motion to go into closed session should cite one or more of the
+permissible purposes listed in section 8 of the OMA.58 An example of a motion to go into closed
+session is:
+I move that the Board meet in closed session under section 8(e) of the Open
+Meetings Act, to consult with our attorney regarding trial or settlement strategy in
+connection with [the name of the specific lawsuit].
+Another example is the need to privately discuss with the public body's attorney a memorandum
+of advice as permitted under section 8(h) of the OMA – "to consider material exempt from
+discussion or disclosure by state or federal statute."59 The motion should cite section 8(h) of the
+OMA and the statutory basis for the closed session, such as section 13(1)(g) of the Freedom of
+Information Act, which exempts from public disclosure "[i]nformation or records subject to the
+attorney-client privilege."60
+Leaving a closed session – the OMA is silent as to how to leave a closed session. We suggest
+that you recommend a motion be made to end the closed session with a majority vote needed for
+54
+
+MCL 15.262(c).
+MCL 15.269(1).
+56
+MCL 15.267(1).
+57
+And not just those attending the meeting. OAG No 5183 at p 37.
+58
+MCL 15.268.
+59
+MCL 15.268(h). Proper discussion of a written legal opinion at a closed meeting is, with regard to the attorneyclient privilege exemption to the OMA, limited to the meaning of any strictly legal advice presented in the written
+opinion. People v Whitney, 228 Mich App at 245-248.
+60
+MCL 15.243(1)(g).
+55
+
+11
+
+ approval. Admittedly, this is a decision made in a closed session, but it certainly isn't a decision
+that "effectuates or formulates public policy."
+When the public body has concluded its closed session, the open meeting minutes should state
+the time the public body reconvened in open session and, of course, any votes on matters
+discussed in the closed session must occur in an open meeting.
+Decisions must be made during an open meeting, not the closed session – section 3(2) of the
+OMA requires that "[a]ll decisions of a public body shall be made at a meeting open to the
+public."61 Section 2(d) of the OMA defines "decision" to mean "a determination, action, vote, or
+disposition upon a motion, proposal, recommendation, resolution, order, ordinance, bill, or
+measure on which a vote by members of a public body is required and by which a public body
+effectuates or formulates public policy."62
+Avoid using the terms "closed session" and "executive session" interchangeably – we
+suggest that a public body not use the term "executive session" to refer to a "closed session."
+The term "executive session" does not appear in the OMA, but "closed session" does.
+"Executive session" is more of a private sector term and is often used to describe a private
+session of a board of directors, which is not limited as to purpose, where actions can be taken,
+and no minutes are recorded.
+Staff and others may join the board in a closed session – a public body may rely upon its
+officers and employees for assistance when considering matters in a closed session. A public
+body may also request private citizens to assist, as appropriate, in its considerations.63
+Forcibly excluding persons from a closed session – a public body may, if necessary, exclude
+an unauthorized individual who intrudes upon a closed session by either (1) having the individual
+forcibly removed by a law enforcement officer, or (2) by recessing and removing the closed
+session to a new location.64
+
+61
+
+MCL 15.263(2). St Aubin v Ishpeming City Council, 197 Mich App at 103. See also, OAG, 1977-1978, No 5262,
+at p 338-339 – the OMA prohibits a voting procedure at a public meeting which prevents citizens from knowing
+how members of the public body have voted and OAG, 1979-1980, No 5445, p 57 (February 22, 1979) – a public
+body may not take final action on any matter during a closed meeting.
+62
+MCL 15.262(d).
+63
+OAG, 1979-1980, No 5532, p 324 (August 7, 1979).
+64
+OAG, 1985-1986, No 6358, p 268 (April 29, 1986), citing Regents of the Univ of Michigan v Washtenaw County
+Coalition Against Apartheid, 97 Mich App 532; 296 NW2d 94 (1980).
+
+12
+
+ PUBLIC ATTENDING OPEN MEETINGS
+Excluding individuals – no one may be excluded from a meeting otherwise open to the public
+except for a breach of the peace actually committed at the meeting.65
+Identifying public attendees – no one may be required to register or otherwise provide his or
+her name or other information or otherwise to fulfill a condition precedent to attend a public
+meeting.66
+Building security at the meeting site may cause issues. Members of the public might object,
+based on the OMA, to signing in to gain access to the building where a public meeting is being
+held.67 We, therefore, recommend that public bodies meet in facilities or areas not subject to
+public access restrictions.
+If the public body wishes the members of the public to identify themselves at the meeting, we
+suggest the board chair announce something like this:
+The Board would appreciate having the members of the public attending the
+meeting today identify themselves and mention if they would like the opportunity
+to speak during the public comment period. However, you do not need to give
+your name to attend this meeting. When the time comes to introduce yourself and
+you do not want to do so, just say pass.
+Since speaking at the meeting is a step beyond "attending" the public meeting and the
+OMA provides that a person may address the public body "under rules established and
+recorded by the public body," the board may establish a rule requiring individuals to
+identify themselves if they wish to speak at a meeting.68
+Limiting public comment – a public body may adopt a rule imposing individual time limits for
+members of the public addressing the public body.69 In order to carry out its responsibilities, the
+board can also consider establishing rules allowing the chairperson to encourage groups to
+designate one or more individuals to speak on their behalf to avoid cumulative comments. But a
+rule limiting the period of public comment may not be applied in a manner that denies a person
+the right to address the public body, such as by limiting all public comment to a half-hour
+period.70
+
+65
+
+MCL 15.263(6).
+MCL 15.263(4).
+67
+In addition, "[a]ll meetings of a public body . . . shall be held in a place available to the general public." MCL
+15.263(1).
+68
+MCL 15.263(5). OAG, 1977-1978, No 5183, at p 34.
+69
+OAG, 1977-1978, No 5332, p 536 (July 13, 1978). The rule must be duly adopted and recorded. OAG, 19771978. No 5183, at p 34.
+70
+OAG No 5332 at p 538.
+66
+
+13
+
+ Meeting location – the OMA only requires that a meeting be held "in a place available to the
+general public;" it does not dictate that the meeting be held within the geographical limits of the
+public body's jurisdiction.71 However, if a meeting is held so far from the public which it serves
+that it would be difficult or inconvenient for its citizens to attend, the meeting may not be
+considered as being held at a place available to the general public. Whenever possible, the
+meeting should be held within the public body's geographical boundaries.
+Timing of public comment – a public body has discretion under the OMA when to schedule
+public comment during the meeting.72 Thus, scheduling public comment at the beginning73 or
+the end74 of the meeting agenda does not violate the OMA. The public has no right to address
+the commission during its deliberations on a particular matter.75
+Taping and broadcasting – the right to attend a public meeting includes the right to tape-record,
+videotape, broadcast live on radio, and telecast live on television the proceedings of a public
+body at the public meeting.76 A board may establish reasonable regulations governing the
+televising or filming by the electronic media of a hearing open to the public in order to minimize
+any disruption to the hearing, but it may not prohibit such coverage.77 And the exercise of the
+right to tape-record, videotape, and broadcast public meetings may not be dependent upon the
+prior approval of the public body.78
+
+71
+
+OAG, 1979-1980, No 5560, p 386 (September 13, 1979). Of course, local charter provisions or ordinances may
+impose geographical limits on public body meetings.
+72
+MCL 15.263(5).
+73
+Lysogorski v. Bridgeport Charter Twp, 256 Mich App at 302.
+74
+OAG, 1979-1980, No 5716, p 812 (June 4, 1980).
+75
+OAG, 1977-1978, No 5310, p 465, 468 (June 7, 1978).
+76
+MCL 15.263(1).
+77
+OAG, 1987-1988, No 6499, p 280 (February 24, 1988).
+78
+MCL 15.263(1).
+
+14
+
+ MINUTES
+What must be in the minutes – at a minimum, the minutes must show the date, time, place,
+members present, members absent, any decisions made at a meeting open to the public, and the
+purpose or purposes for which a closed session is held. The minutes must include all roll call
+votes taken at the meeting.79 The OMA does not prohibit a public body from preparing a more
+detailed set of minutes of its public meetings if it chooses to do so.80
+When must the minutes be available – proposed minutes must be made available for public
+inspection within eight days after the applicable meeting. Approved minutes must be made
+available for public inspection within five days after the public body's approval.81
+When must the minutes be approved – at the board's next meeting.82 Corrected minutes must
+show both the original entry and the correction (for example, using a "strikethrough" word
+processing feature).
+Closed session minutes – a separate set of minutes must be taken for closed sessions. While
+closed session minutes must be approved in an open meeting (with contents of the minutes kept
+confidential), the board may meet in closed session to consider approving the minutes.83
+Closed session minutes shall only be disclosed if required by a civil action filed under sections
+10, 11, or 13 of the OMA.84 The board secretary may furnish the minutes of a closed session of
+the body to a board member. A member's dissemination of closed session minutes to the public,
+however, is a violation of the OMA, and the member risks criminal prosecution and civil
+penalties.85 An audiotape of a closed session meeting of a public body is part of the minutes of
+the session meeting and, thus, must be filed with the clerk of the public body for retention under
+the OMA.86
+Closed session minutes may be destroyed one year and one day after approval of the minutes of
+the regular meeting at which the closed session occurred.87
+
+79
+
+MCL 15.269(1).
+Informational letter to Representative Jack Brandenburg from Chief Deputy Attorney General Carol Isaacs dated
+May 8, 2003.
+81
+MCL 15.269(3).
+82
+MCL 15.269(1)
+83
+OAG, 1985-1986, No 6365, p 288 (June 2, 1986). This, of course, triggers the need for more closed session
+minutes.
+84
+MCL 15.270, 15.271, and 15.273; Local Area Watch v Grand Rapids, 262 Mich App 136, 143; 683 NW2d 745
+(2004); OAG, 1985-1986 No 6353, p 255 (April 11, 1986).
+85
+OAG, 1999-2000, No 7061, p 144 (August 31, 2000).
+86
+Kitchen v Ferndale City Council, 253 Mich App 115; 654 NW2d 918 (2002).
+87
+MCL 15.267(2).
+80
+
+15
+
+ Inadvertent omissions from the minutes – the OMA does not invalidate a decision due to a
+simple error in the minutes, such as inadvertently omitting the vote to go into closed session
+from a meeting's minutes.88
+
+88
+
+Willis v Deerfield Twp, 257 Mich App 541, 554; 669 NW2d 279 (2003).
+
+16
+
+ PARLIAMENTARY PROCEDURES
+Core principle – for the actions of a public body to be valid, they must be approved by a
+majority vote of a quorum, absent a controlling provision to the contrary, at a lawfully convened
+meeting.89
+QUORUM
+Quorum – is the minimum number of members who must be present for a board to act. Any
+substantive action taken in the absence of a quorum is invalid. If a public body properly notices
+the meeting under OMA, but lacks a quorum when it actually convenes, the board members in
+attendance may receive reports and comments from the public or staff, ask questions, and
+comment on matters of interest.90
+What is the quorum? – look to the statute, charter provision, or ordinance creating the board.
+On the state level, the Legislature in recent years has taken care to set the board quorum in the
+statute itself. The statute will often provide that "a majority of the board appointed and serving
+shall constitute a quorum." For a 15-member board, that means eight would be the quorum,
+assuming you have 15 members appointed and serving. Without more in the statute, as few as
+five board members could then decide an issue, since they would be a majority of a quorum.91
+But, be careful, recent statutes often provide that "voting upon action taken by the board shall be
+conducted by majority vote of the members appointed and serving." In that instance, the board
+needs at least eight favorable votes to act.92 The Legislature has a backstop statute, which
+provides that any provision that gives "joint authority to 3 or more public officers or other
+persons shall be construed as giving such authority to a majority of such officers or other
+persons, unless it shall be otherwise expressly declared in the law giving the authority."93
+Disqualified members – a member of a public body who is disqualified due to a conflict of
+interest may not be counted to establish a quorum to consider that matter.94
+
+89
+
+OAG, 1979-1980, No 5808, p 1060 (October 30, 1980). Robert's Rules of Order Newly Revised (RRONR) (10th
+ed.), p 4. We cite to Robert's Rules in this Handbook as a leading guide on parliamentary procedures. This is not to
+imply that public bodies are, as a general rule, bound by Robert's Rules.
+90
+OAG, 2009-2010, No 7235, p (October 9, 2009).
+91
+See OAG, 1977-1978, No 5238, p 261 (November 2, 1977).
+92
+See OAG, 1979-1980, No 5808, at p 1061.
+93
+MCL 8.3c. Wood v Bd of Trustees of the Policemen and Firemen Retirement System of Detroit, 108 Mich App
+38, 43; 310 NW2d 39 (1981).
+94
+OAG, 1981-1982, No 5916, p 218 (June 8, 1981). But see MCL 15.342a, which provides a procedure for
+disqualified public officials to vote in some limited circumstances where a quorum is otherwise lacking for a public
+body to conduct business.
+
+17
+
+ Losing a quorum – even if a meeting begins with a quorum present, the board loses its right to
+conduct substantive action whenever the attendance of its members falls below the necessary
+quorum.95
+Resigned members – the common law rule in Michigan is that a public officer's resignation is
+not effective until it has been accepted by the appointing authority (who, at the state level, is
+usually the governor). Acceptance of the resignation may be manifested by formal acceptance or
+by the appointment of a successor.96 Thus, until a resignation is formally accepted or a
+successor appointed, the resigning member must be considered "appointed and serving," be
+counted for quorum purposes, and be permitted to vote.
+
+95
+
+RRONR (10th ed.), p 337-338.
+OAG, 1985-1986, No 6405, p 429, 430 (December 9, 1986), citing Clark v Detroit Bd of Education, 112 Mich
+656; 71 NW 177 (1897).
+96
+
+18
+
+ VOTING
+Abstain – means to refuse to vote. Thus, a board member does not "vote" to abstain. If a vote
+requires a majority or a certain percentage of the members present for approval, an abstention
+has the same effect as a "no" vote.97
+Adjourning the meeting - a presiding officer cannot arbitrarily adjourn a meeting without first
+calling for a vote of the members present.98
+Chairperson voting – perhaps as a spillover from the well-known constitutional rule that the
+vice president can only vote to break a tie in the United States Senate99 or that a legislative
+presiding officer usually refrains from voting unless his or her vote affects the result,100 some
+believe that a board's presiding officer (usually, the chairperson) can only vote to break a tie.
+However, absent a contrary controlling provision, all board members may vote on any matter
+coming before a board.101 A board's presiding officer can't vote on a motion and then, if the vote
+is tied, vote to break the tie unless explicitly authorized by law.102
+Expired-term members – look first to the statute, charter provision, or ordinance creating the
+public body. Many statutes provide that "a member shall serve until a successor is appointed."
+Absent a contrary controlling provision, the general rule is that a public officer holding over after
+his or her term expires may continue to act until a successor is appointed and qualified.103
+Imposing a greater voting requirement – where the Legislature has required only a majority
+vote to act, public bodies can't impose a greater voting requirement, such as requiring a twothirds vote of its members to alter certain policies or bylaws.104
+Majority – means simply "more than half."105 Thus, on a 15-member board, eight members
+constitute a majority.
+
+97
+
+RRONR (10th ed.), p 390-395.
+Dingwall v Detroit Common Council, 82 Mich 568, 571; 46 NW 938 (1890),
+99
+US Const, art I, §3.
+100
+RRONR (10th ed.), p 392-393 – an assembly's presiding officer can break or create a tie vote.
+101
+See OAG, 1981-1982, No 6054, p 617 (April 14, 1982).
+102
+Price v Oakfield Twp Bd, 182 Mich 216; 148 NW 438 (1914).
+103
+OAG, 1979-1980, No 5606, p 493 (December 13, 1979), citing Greyhound Corp v Public Service Comm, 360
+Mich 578, 589-590; 104 NW2d 395 (1960). See also, Cantwell v City of Southfield, 95 Mich App 375; 290 NW2d
+151 (1980).
+104
+OAG, 1979-1980, No 5738, p 870 (July 14, 1980). OAG, 2001-2002, No 7081, p 27 (April 17, 2001), citing
+Wagner v Ypsilanti Village Clerk, 302 Mich 636; 5 NW2d 513 (1942).
+105
+RRONR (10th ed.), p 387.
+98
+
+19
+
+ Proxy voting – the OMA requires that the deliberation and formulation of decisions effectuating
+public policy be conducted at open meetings.106 Voting by proxy effectively forecloses any
+involvement by the absent board member in the board's public discussion and deliberations
+before the board votes on a matter effectuating public policy.107 Without explicit statutory
+authority, this practice is not allowed.108
+Roll call vote – there is no bright line rule for conducting a roll call vote.109 We suggest some
+rules of thumb. One, when a voice vote reveals a divided vote on the board (i.e., more than one
+no vote), a roll call vote should be conducted to remove doubt about the vote's count. Two, if
+you have board members participating by teleconference, a roll call will permit the secretary to
+accurately record the entire vote. Three, when the board is acting on matters of significance,
+such as, contracts of substantial size or decisions that will have multi-year impacts, a roll call
+vote is the best choice.
+Round-robin voting – means approval for an action outside of a public meeting by passing
+around a sign-off sheet. This practice has its roots in the legislative committee practice of
+passing around a tally sheet to gain approval for discharging a bill without a committee meeting.
+"Round-robining" defeats the public's right to be present and observe the manner in which the
+body's decisions are made and violates the letter and the spirit of the OMA.110
+Rule of necessity – if a state agency's involvement in prior administrative or judicial
+proceedings involving a party could require recusal of all of its board members or enough of
+them to prevent a quorum from assembling, the common law rule of necessity precludes recusing
+all members, if the disqualification would leave the agency unable to adjudicate a question.111
+But the rule of necessity may not be applied to allow members of a public body to vote on
+matters that could benefit their private employer.112
+106
+
+Esperance v Chesterfield Twp, 89 Mich App at 464, quoting Wexford County Prosecutor v Pranger, 83 Mich
+App 197; 268 NW2d 344 (1978).
+107
+Robert's Rules concur: "Ordinarily it [proxy voting] should neither be allowed nor required, because proxy voting
+is incompatible with the essential characteristics of a deliberative assembly in which membership is individual,
+personal, and nontransferable." RRONR (10th ed.), p 414. The Michigan House and Senate do not allow proxy
+voting for their members.
+108
+OAG, 2009-2010, No 7227, p (March 19, 2009). OAG, 1993-1994, No 6828, p 212 (December 22, 1994),
+citing Dingwall, 82 Mich at 571, where the city council counted and recorded the vote of absent members in
+appointing election inspectors. The Michigan Supreme Court rejected these appointments, ruling that "the counting
+of absent members and recording them as voting in the affirmative on all questions, was also an inexcusable
+outrage."
+109
+"The fact that the Open Meetings Act prohibits secret balloting does not mean that all votes must be roll call
+votes." Esperance v Chesterfield Twp, 89 Mich App at 464 n 9. The OMA does provide that votes to go into closed
+session must be by roll call. MCL 15.267.
+110
+OAG, 1977-1978, No 5222, at p 218. See also, Booth Newspapers, 444 Mich at 229, which concluded that
+"round-the-horn" deliberations can constitute decisions under the OMA.
+111
+Champion's Auto Ferry, Inc v Michigan Public Service Comm, 231 Mich App 699; 588 NW2d 153 (1998). The
+Court noted that the PSC members did not have any personal financial interest in the matter. Id. at 708-709.
+112
+OAG, 1981-1982, No 6005, p 439, 446 (November 2, 1981). After OAG No 6005 was issued, the Legislature
+amended section 2a of 1973 PA 196, MCL 15.342a, to provide a procedure for voting by public officials in some
+limited circumstances where a quorum is otherwise lacking for a public entity to conduct business.
+
+20
+
+ Secret ballot – the OMA requires that all decisions and deliberations of a public body must be
+made at an open meeting and the term "decision" is defined to include voting.113 The OMA
+prohibits a "voting procedure at a public meeting that prevents citizens from knowing how
+members of a public body have voted."114 Obviously, the use of a secret ballot process would
+prevent this transparency. All board decisions subject to the OMA must be made by a public
+vote at an open meeting.115
+Tie vote – a tie vote on a motion means that the motion did not gain a majority. Thus, the
+motion fails.116
+
+113
+
+See MCL 15.262(d) and 15.263(2) and (3).
+OAG, 1977-1978, No 5262, at p 338-339.
+115
+Esperance, 89 Mich App at 464.
+116
+Rouse v Rogers, 267 Mich 338; 255 NW 203 (1934). RRONR (10th ed.), p 392.
+114
+
+21
+
+ 

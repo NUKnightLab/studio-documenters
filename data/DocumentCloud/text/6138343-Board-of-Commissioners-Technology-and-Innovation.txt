@@ -1,0 +1,249 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+
+Wednesday, March 22, 2017
+
+9:00 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present: Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+Also Present: Commissioners Boykin, Moody, Moore, Sims and Suffredin
+
+PUBLIC TESTIMONY
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+No Public Speakers
+
+17-2282
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 1/18/2017
+
+A motion was made by Commissioner Silvestri, seconded by Commissioner García, to approve
+17-2282. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+ 17-1041
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Bureau of Technology and Bureau of Human Resources
+Vendor: Oracle America, Inc., Redwood Shores, California
+Request: Authorization for the Chief Procurement Officer to increase contract
+Good(s) or Service(s): Oracle E-Business Suite and Talent Software, Licenses, and Hosting Services
+Current Contract Period: 1/22/2015 - 1/21/2020 with five (5) one (1)-year renewal options
+Proposed Contract Extension Period: N/A
+Total Current Contract Amount Authority: $12,821,331.50
+Original Approval (Board or Procurement): 2/10/2015, $12,150,000.00
+Previous Board Increase(s) or Extension(s): 2/10/2016 $671,331.50 (for addition of ESB licenses)
+Previous Chief Procurement Officer Increase(s) or Extension(s): N/A
+This Increase Requested: $5,550,901.40
+Potential Fiscal Impact:
+FY 2020: $187,500.00
+
+FY 2017: $2,299,962.80; FY 2018: $1,644,277.80; FY 2019 $1,419,160.80;
+
+Accounts: E-Business Suite Software and Licenses: (490/441, $1,313,000.00); (Capital/Project #:
+22432, $732,000.00) Talent Software and Hosting Services: (032-441, $990,338.40)
+Contract Number(s): 1390-12899
+Concurrences:
+The contract-specific goal set on this contract was zero.
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology requests approval of two amendments to Contract no.
+1390-12899 with Oracle America, Inc. to 1) exercise the County’s Universal License Agreement
+(“ULA”) expansion option, and 2) add Oracle’s Talent Software and Hosting Services to the product pool
+of the County’s agreement.
+The ULA is a component of the overarching Contract that allows the County to establish its license
+consumption levels before entering maintenance mode. Because the County is currently implementing
+multiple large Oracle-based projects with varying go-live dates through 2020, such as Enterprise
+Resource Planning, Integrated Property, and the Enterprise Service Bus, it is important that the County
+
+ exercises its ULA expansion option in order to accommodate the license consumption required by these
+projects in the coming years.
+The Oracle Talent Software and Hosting Services element represent the products purchased by Oracle
+from Taleo Corporation, which the County previously purchased from Taleo Corporation under Contract
+No. 09-41-351 in 2009 to provide automated recruiting, hiring, and onboarding for the County, Health
+and Hospital System, Separately Elected Officials and Forest Preserve District.
+The contract was awarded through the Request for Proposals (RFP) process in accordance with the Cook
+County Procurement Code. Oracle America, Inc. was awarded this contract based on established
+evaluation criteria.
+A motion was made by Commissioner Steele, seconded by Commissioner Morrison, to recommend
+for approval 17-1041. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+17-1516
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT AMENDMENT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: Ensono OpCo Holdings, Inc. (previously known as Acxiom Corporation), Downers Grove,
+Illinois
+Request: Authorization for the Chief Procurement Officer to increase contract
+Good(s) or Service(s): Mainframe hosting services
+Original Contract Period: 12/1/2011 - 11/30/2016
+Proposed Contract Extension Period: N/A
+Total Current Contract Amount Authority: $27,278,793.00
+Original Approval (Board or Procurement): 12/14/2011, $23,203,710.00
+
+Previous Board Increase(s) or Extension(s): 9/10/2012, $1,087,543.00; 5/8/2013, $1,353,946.00
+12/1/2016 - 4/30/2017; 4/1/2015, $1,633,594.00, 5/1/2017 - 6/30/2019)
+Previous Chief Procurement Officer Increase(s) or Extension(s): N/A
+
+ This Increase Requested: $8,251,415.00
+Potential Fiscal Impact: FY 2017, $2,372,329.00; FY 2018, $3,788,028.00; FY 2019, $2,091,058.00
+Accounts: 499-441
+Contract Number(s): 11-88-061
+Concurrences:
+The vendor has met the Minority-and Women-owned Business Enterprise Ordinance via direct and
+indirect participation and partial M/WBE waiver.
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology requests approval of an increase to Contract No. 11-88-061 to
+ensure provision of Mainframe hosting services through the expiration of the agreement. The agreement
+currently provides Midrange hosting services through 6/30/2019, with Mainframe hosting services
+scheduled to expire in 4/30/2017. The Mainframe hosts critical applications for County Justice and
+Property Agencies and must be maintained through 2019 in order to ensure the continuity of core County
+functions during the County’s migration from the Mainframe.
+This contract was originally award as a Comparable Procurement pursuant to Section 34-140 of the Cook
+County Procurement Code. Ensono OpCo Holdings, Inc., previously known as Acxiom Corporation,
+was awarded a contract by the City of Chicago through a competitive Request for Proposal process.
+Cook County wishes to leverage this procurement effort.
+A motion was made by Commissioner Morrison, seconded by Commissioner Steele, to recommend
+for approval 17-1516. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+ 17-1942
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: Sentinel Technologies, Inc., Downers Grove, Illinois
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Unified Communications (Voice Over IP)
+Contract Value: $24,557,634.93
+Contract period: 4/1/2017 - 3/31/2022 with three (3) one (1)-year renewal options
+Potential Fiscal Year Budget Impact: FY 2017 $8,626,332.27, FY 2018 $4,972,856.00, FY 2019
+$5,122,856.00, FY 2020 $5,055,365.66, FY 2021 $780,225.00
+Accounts: Legacy CPID#: 9639; Fund #: 11569; Project #:21075; Award #:10095; Organization
+#:1009; Object Account #:560227
+Fund #: 11620, Award #: 10387
+Contract Number(s): 1590-14365A
+Concurrence(s):
+The vendor has met the Minority-and Women-owned Business Enterprise Ordinance via direct
+participation.
+The Chief Procurement Officer concurs.
+Summary: The Bureau of Technology requests Board authorization for the Chief Procurement Officer
+to enter into Contract No. 1590-14365A for the implementation of a unified communications Voice Over
+IP (VoIP) solution to replace the County’s aging telephony infrastructure.
+This contract was awarded through Request for Proposals (RFP) procedures in accordance with the Cook
+County Procurement Code. Sentinel Technologies, Inc. was awarded based on established evaluation
+criteria.
+A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to
+recommend for approval 17-1942. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+ 17-1491
+Presented by: DOROTHY BROWN, Clerk of the Circuit Court
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Clerk of the Circuit Court
+Vendor: Tyler Technologies, Inc. Plano, Texas
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Implementation of an Electronic Case Management and Court Docket System
+Contract Value: $36,449,035.00
+Contract period: 4/9/2017 - 4/8/2021, with two (2) three (3)-year renewal options
+Potential Fiscal Year Budget Impact: FY 2017 ($6,181,245.00), FY 2018 ($8,563,007.00), FY 2019
+($8,724,301.00), FY 2020 ($7,954,082.00) FY 2021 ($5,026,400.00)
+Accounts: 335-579 ($28,817,803) 528-441($6,966,243) 528-260 ($664,989)
+Contract Number(s): 1590-14357
+Concurrence(s):
+The vendor has met the Minority- and Women-owned Business Enterprise Ordinance via direct
+participation.
+The Chief Procurement Officer concurs.
+The Bureau of Technology concurs
+Summary: The Office of the Clerk of the Circuit Court is requesting authorization for the Chief
+Procurement Officer to enter into and execute a contract with Tyler Technologies, Inc. to implement the
+most technically sound, scalable, and state of the art comprehensive case management solution to replace
+its current case management / court docketing system for all areas of law and supporting administrative
+departments, which is currently located on the County’s legacy mainframe system. Prior to releasing the
+RFP, a thorough needs analysis of the Clerk’s business processes and our data sharing efforts with our
+justice partners was conducted to ensure that all of the critical functions and specifications for the new
+system were identified and included in the RFP.
+The new case management system will provide sufficient flexibility and has met all of the requirements
+that were defined, this system is also in alignment with the best-in-industry project implementation and
+data migration approach which will convert over forty (40) years of case and court history.
+Through the implementation of the case management system, the Clerk’s Office will be able to provide
+the following:
+•
+
+Implement improved Integration with Cook County Integrated Criminal Justice through the
+
+ •
+•
+•
+•
+•
+
+County’s Enterprise Service Bus (ESB)
+Provide enhanced the public’s access to the court system allowing for improved transparency
+within the court docket and case files;
+Improve and streamline operations and modernize business processes;
+Increase case processing efficiency;
+Decrease repetitive work;
+Reduce reliance on paper and printing
+
+The contract was awarded through the Request for Proposal (RFP) process in accordance with the Cook
+County Procurement Code. Tyler Technologies, Inc. was selected based on established evaluation
+criteria.
+A motion was made by Commissioner Morrison, seconded by Commissioner Silvestri, to return to
+the Board with no recommendation 17-1491. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+ADJOURNMENT
+A motion was made by Commissioner Silvestri, seconded by Commissioner Morrison, to adjourn
+the meeting. The motion carried by the following vote:
+Ayes:
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin, Schneider,
+Silvestri and Steele (8)
+Absent:
+
+Commissioner Butler (1)
+
+Respectfully submitted,
+
+__________________________________
+Chairman
+
+_________________________________
+Secretary
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+ 

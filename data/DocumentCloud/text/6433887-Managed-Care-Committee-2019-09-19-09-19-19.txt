@@ -1,0 +1,998 @@
+Minutes of the meeting of the Managed Care Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Thursday, September 19, 2019 at the hour of 10:30 A.M. at 1950 W. Polk
+Street, in Conference Room 5301, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chair Thomas called the meeting to order.
+Present:
+
+Chair Sidney A. Thomas, MSW and Directors Mike Koetting and David Ernesto Munar (3)
+Board Chair M. Hill Hammock and Directors Mary Driscoll, RN, MPH; Ada Mary Gugenheim;
+and Layla P. Suleiman Gonzalez, PhD, JD
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Debra Carey – Deputy Chief Executive Officer of
+Operations
+James Kiamos – Chief Executive Officer, CountyCare
+
+II.
+
+Jeff McCutchan –General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+Public Speakers
+Chair Thomas asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+IV.
+
+Report on CountyCare Health Plan (Attachment #1) and
+Recommendations, Discussion/Information Items
+A.
+
+Cook County Health (CCH) – Medicare Advantage Delivery Innovations Relationship (included in
+Attachment #1)
+
+James Kiamos, Chief Executive Officer of CountyCare, provided an overview of the presentation regarding
+the Report on the CountyCare Health Plan and CCH – Medicare Advantage Delivery Innovations
+Relationship. The Committee reviewed and discussed the information.
+The presentation included information on the following subjects:
+ Metrics:
+- Current Membership
+- Managed Medicaid Market
+- Medicaid Managed Care Trend
+- Claims Payment
+- Overall Care Management Performance
+- Overall Member Age Distribution
+- Affordable Care Act (ACA) Member Age Distribution
+ Medicare Advantage
+- Medicare 101
+- Traditional Medicare vs. Medicare Advantage
+- Medicare Advantage Market
+- Age-In Populations and Continuity of Care
+- Medicare Advantage Partnership
+- Medical Home Network (MHN) Partnership
+- Relationship between MHN and Medicare1Advantage
+Delivery Innovations d/b/a MoreCare
+of 31
+- MoreCare Health Plan Launching in 2020
+
+ Minutes of the Meeting of the Managed Care Committee
+Thursday, September 19, 2019
+Page 2
+
+-
+
+V.
+
+Division of Responsibility Structure
+Timeline of Initiative
+Financial Assumptions
+Medicare Pro-Forma Summary
+Key Activities
+Medicare.gov Star Rating
+Keys to Success
+
+Action Items
+A. Minutes of the Managed Care Committee Meeting, June 20, 2019
+Director Koetting, seconded by Director Munar, moved to accept the minutes of the
+Managed Care Committee Meeting of June 20, 2019. THE MOTION CARRIED
+UNANIMOUSLY.
+B. Any items listed under Section V
+
+VI.
+
+Adjourn
+As the agenda was exhausted, Chair Thomas declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Managed Care Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+Sidney A. Thomas, MSW, Chair
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Requests/Follow-up:
+There were no requests for follow-ups.
+
+2 of 31
+
+ Cook County Health and Hospitals System
+Minutes of the Managed Care Committee Meeting
+September 19, 2019
+
+ATTACHMENT #1
+
+3 of 31
+
+ CountyCare Update
+Prepared for: CCH Managed Care Committee
+
+James Kiamos
+CEO, CountyCare
+September 19, 2019
+
+4 of 31
+
+ Board
+Metrics
+
+ 
+
+ 
+
+l< CountyCare
+PLAN
+
+5of31
+
+ 
+
+Current Membership
+Monthly membership as of September 6, 2019
+Category
+
+Total Members
+
+ACHN Members
+
+FHP
+
+211,329
+
+17,244
+
+8.2%
+
+ACA
+
+71,926
+
+13,130
+
+18.3%
+
+ICP
+
+29,552
+
+5,927
+
+20.1%
+
+MLTSS
+
+6,008
+
+0
+
+N/A
+
+Total
+
+318,816
+
+36,301
+
+11.4%
+
+ACA: Affordable Care Act
+FHP: Family Health Plan
+
+ICP: Integrated Care Program
+MLTSS: Managed Long-Term Service and Support (Dual Eligible)
+
+6 of 31
+3
+
+% ACHN
+
+ Managed Medicaid Market
+Illinois Department of Healthcare and Family Services July 2019 Data
+Cook County
+Enrollment
+
+Managed Care Organization
+
+Cook County Market
+Share
+
+318,207
+
+31.6%
+
+Blue Cross Blue Shield
+
+235,707
+
+23.4%
+
+Meridian (a WellCare Co.)
+
+229,757
+
+22.8%
+
+IlliniCare (a Centene Co.)
+
+110,390
+
+11.0%
+
+66,139
+
+6.6%
+
+47,853
+
+4.7%
+
+1,008,053
+
+100.0%
+
+*CountyCare
+
+Molina
+*Next Level
+Total
+
+* Only Operating in Cook County
+Meridian and WellCare (dba Harmony) merged as of 1/1/2019. Pending Merger with Centene (dba IlliniCare)
+
+7 of 31
+
+4
+
+ Medicaid Managed Care Trend
+1,200,000
+1,100,000
+1,000,000
+900,000
+800,000
+700,000
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+Aug '18 Sept '18 Oct '18 Nov '18 Dec '18
+
+Jan '19
+
+Feb '19 Mar '19 Apr '19 May '19 June '19 July '19
+
+Cook County Medicaid Managed Care
+
+8 of 31
+5
+
+CountyCare
+
+ 2019 Operations Metrics: Claims Payment
+Performance
+Key Metrics
+
+State Goal
+
+May
+
+Jun
+
+Jul
+
+Claims Payment Turnaround Time
+% of Clean Claims Adjudicated
+30 days
+% of Claims Paid < 30 days
+
+<
+
+90%
+
+95.9%
+
+97.4%
+
+97.4%
+
+90%
+
+44.0%
+
+40.7%
+
+44.9%
+
+9 of 31
+
+6
+
+ 2018-2019 Operations Metrics:
+Overall Care Management Performance
+Performance
+Key Metrics
+
+Market %
+
+May
+
+Jun
+
+Jul
+
+Completed HRS/HRA (all populations)
+Overall Performance
+
+40%
+
+63.0%
+
+63.3%
+
+64.6%
+
+65%
+
+61.9%
+
+61.5%
+
+61.7%
+
+Completed Care Plans on High Risk Members
+Overall Performance
+
+CountyCare’s high-risk percentage exceeds the State’s requirement of 2% for Family Health Plan and 5% for
+Integrated Care Program
+
+10 of 31
+7
+
+ Overall Member Age Distribution
+Age Category
+
+Membership
+
+Average Age = 27.1 years
+Membership Distribution by Age Category
+
+<1
+
+7,946
+
+1
+
+8,119
+
+90%
+
+33,625
+
+70%
+
+2-5
+6-18
+
+105,896
+
+19-39
+
+85,131
+
+100%
+12%
+
+80%
+
+13%
+
+60%
+
+25%
+
+50%
+40%
+31%
+
+30%
+
+40-54
+
+44,609
+
+55-64
+
+40,168
+
+65+
+
+11,557
+
+20%
+10%
+
+2%
+
+0%
+<1
+
+11 of 31
+8
+
+2%
+
+10%
+
+1
+
+2-5
+
+6-18
+
+19-39
+
+40-54
+
+55-64
+
+65+
+
+ ACA Member Age Distribution
+Age
+Category
+
+Membership
+
+19-39
+
+35,772
+
+40-54
+
+22,179
+
+55-64
+
+23,315
+
+1,013
+
+65+
+
+Average Age = 42.5 years
+ACA: Affordable Care Act
+
+9
+
+12 of 31
+
+ Medicare
+Advantage
+
+ 
+
+ 
+
+l< CountyCare
+PLAN
+
+13 of 31
+
+ 
+
+Medicare 101
+•
+
+Traditional Medicare (Also known as Original Medicare)
+– Original Fee-for-Service government program with no specified network, no care
+management, no supplemental benefits. Part D for prescription drugs is purchased
+separately.
+
+•
+
+Medicare Supplement
+– Optional private insurance purchased in conjunction with “traditional” Medicare to cover
+benefits/costs not covered by the government program.
+– Typically has a premium of $75+ per month, which is often considered too costly for low
+income beneficiaries. Part D is purchased separately.
+
+•
+
+Medicare Advantage
+– Private insurance alternative to traditional Medicare; Offered by private companies that
+have a contract with The Centers for Medicare & Medicaid Services (CMS)
+
+– Covers CMS-defined benefits plus supplemental benefits that go beyond Medicare
+– Typically includes care management, disease management, and other programs aimed at
+keeping people healthy
+14 of 31
+11
+
+ Traditional Medicare vs. Medicare Advantage
+BENEFIT COMPARISON
+
+ORIGINAL MEDICARE MEDICARE ADVANTAGE
+
+Doctor visits
+Hospital stays
+
+Monthly plan premium
+Deductible on doctor and hospital
+visits
+Predictable out of pocket costs
+Part D – drugs coverage
+
+Dental
+Vision
+Hearing
+Transportation
+Over The Counter (OTC) card
+
+Healthy Food*
+Gym membership*
+*Included in some Medicare Advantage plans
+
+15 of 31
+12
+
+ Medicare Advantage Market
+• Growing amount (828,439) of Medicare beneficiaries
+in Cook County
+• Current Medicare Advantage (MA) market
+penetration is 27% compared to national average of
+33%
+
+• Market penetration has been growing steadily in
+Cook County and nationally
+• Top 5 plans in market represent 77% of total market
+share with no single dominant player
+16 of 31
+13
+
+ Age-in Populations and Continuity of Care
+• Aligns with Strategic Plan
+• Within CountyCare and Cook County Health
+– Significant Medicare populations in 2020
+– Every year thousands of CountyCare members “graduate”
+into Medicare
+– Cook County Health system has 14,000 Medicare patients
+currently being served
+– This will allow us to maintain these patients as Medicare
+Advantage expands
+
+17 of 31
+14
+
+ Medicare Advantage Partnership
+• Initially explored solo path
+– Requires Illinois Department of Insurance licensure
+– Did not meet certain requirements
+
+• Alternate strategy of partnership
+–
+–
+–
+–
+
+CCH Health Plan Services retained as contractor
+Paid percent of premium to manage risk of members
+Perform health plan services under a contract
+Non-exclusive arrangements
+
+18 of 31
+15
+
+ Medical Home Network Partnership
+•
+
+Cook County Health (CCH) and Medical Home Network (MHN) have been partners since
+CountyCare’s inception
+
+•
+•
+•
+
+Shared Foundation
+CCH has a 180 year history of providing access and quality care to all Cook County residents
+MHN was founded in 2009 by the Comer Family Foundation to transform healthcare delivery
+for the Medicaid population
+
+•
+•
+•
+•
+•
+
+Unparalleled experience
+Understanding the whole-person needs of Cook County’s underserved residents
+Redesigning health care delivery and care management for the safety-net
+Building patient relationships beyond 4 walls of practice
+Achieving better health outcomes, costs and engagement – outperforming other Medicaid
+programs
+19 of 31
+16
+
+ Relationship between Medical Home Network (MHN) and
+Medicare Advantage Delivery Innovations (MADI)/dba MoreCare
+
+• MHN a not for profit 501c3 whose mission is to transform
+healthcare and reduce disparities in the safety-net.
+• MADI/dba MoreCare a fully owned subsidiary of MHN.
+• MADI established as a for profit to enable access to capital if
+needed.
+• MHN ACO is an LLC owned by the 13 safety-net providers. It is
+managed by MHN, but MHN has no ownership of the entity—
+only the providers own it.
+• MHN ACO is a high performing longstanding provider partner
+of CountyCare
+20 of 31
+17
+
+ MoreCare Health Plan Launching in 2020
+
+Products Overview
+
+MoreCare For
+You
+
+General Medicare
+Advantage Plan
+with Prescription
+Drugs
+(MAPD)
+
+• Any Medicare-eligible
+beneficiary
+
+MoreCare
+Home
+
+Institutional
+Special Needs
+Plan
+(I-SNP)
+
+• Any Medicare-eligible
+person who lives in an
+institution (e.g. nursing
+home)
+
+MoreCare At
+Home
+
+Institutional
+Equivalent
+Special Needs
+Plan
+(IE-SNP)
+
+• Any Medicare eligible
+person who lives at home
+but requires nursing level
+of care
+
+MoreCare +
+
+Chronic Condition
+Special Needs
+Plan for HIV
+(C-SNP/HIV-SNP)
+
+• Any Medicare eligible
+person with a diagnosis of
+HIV
+
+21 of 31
+18
+
+ Division of Responsibility Structure
+Area of Focus
+
+MADI
+
+CMS Contract Holder
+
+IL Insurance License
+Marketing & Sales
+Compliance
+Health Plan Operations
+Program Development
+
+Provider Network
+Health Plan Policy
+Finance
+Benefits Design
+
+Actuarial Services
+Delegated Care Management
+Vendor Management
+22 of 31
+19
+
+CCH
+
+ Timeline of Initiative
+Key Milestones
+Complete
+
+02/13/19
+MADI CMS
+Application
+submitted
+and approved
+
+Oct
+
+Jan
+
+2018
+
+2019
+
+Apr
+
+8/15/19
+Mock
+Readiness to
+prepare for
+CMS audit
+
+10/15/19
+Annual
+Election
+Period
+(AEP) 12/7/19
+begins AEP ends
+
+Oct
+
+Jul
+
+1/1/20
+3/31/20
+MA OEP MA OEP
+begins and ends
+SNP SEP
+begins
+
+Jan
+
+Apr
+
+2020
+
+Marketing and sales activities for
+MAPD at key CCH locations (e.g.
+Stroger Professional Building)
+
+23 of 31
+20
+
+1/1/2020
+Plan Fully
+Operational
+
+10/1/19
+Plan Go Live
+
+06/03/19
+MADI HSD /
+Network
+submission
+and plan bid
+submission
+
+11/12/18
+MADI Notice
+of Intent to
+Apply;
+DOI license
+
+Upcoming
+
+9/19/19
+we are here
+
+Marketing and sales activities for HIV
+C-SNP at key CCH locations (CORE
+Center)
+
+ Financial Assumptions
+• A strategy evaluation 5 year pro forma was developed
+after the initial Sr. Management Meeting on 07/27/18
+in which Board members also were invited to attend.
+
+• Medicare requires investment in upfront resources to
+ensure compliance with all CMS requirements.
+• Estimated break-even membership is 5,375.
+• At 10,000 lives, we expect a net surplus of greater
+than $7 million annually.
+24 of 31
+21
+
+ Financial Assumptions
+• First year membership enrollment target is 1,250.
+• Plan is expected to realize additional financial benefit
+to Cook County Health from utilization occurring at
+Cook County Health facilities.
+• The pro forma assumes similar in-house utilization
+assumptions as is being achieved within CountyCare.
+• Medicare provider network is a much smaller subset
+of the current Medicaid network.
+25 of 31
+22
+
+ Medicare Pro-Forma Summary
+Medicare Pro-Forma Summary
+2019 Year 1 - 2020
+1,250
+
+Membership
+Revenue
+
+$
+
+Administrative Expense
+
+$
+
+Medical Expense (External and Internal) $
+Profit/Loss
+
+$
+
+Internal Medical Expense
+
+$
+
+CCH Net Contribution
+
+$
+
+-
+
+Year 4 - 2023
+7,500
+
+Year 5 - 2024
+10,000
+
+$ 24,919,757 $
+
+56,888,320 $ 93,884,370 $ 140,005,277 $ 187,933,467
+
+(7,840,728) $ (9,420,517) $
+
+(11,366,967) $ (15,099,242) $ (18,569,813) $ (20,429,692)
+
+-
+
+$ (21,181,793) $
+
+(7,840,728) $ (5,682,554) $
+-
+
+(48,355,072) $ (79,801,714) $ (119,004,486) $ (159,743,447)
+(2,833,719) $ (1,016,586) $
+
+2,430,978 $
+
+7,760,328
+
+$ 4,236,359 $
+
+9,671,014 $ 15,960,343 $ 23,800,897 $ 31,948,689
+
+(7,840,728) $ (1,446,195) $
+
+6,837,296 $ 14,943,757 $ 26,231,875 $ 39,709,018
+
+26 of 31
+23
+
+Year 2 - 2021 Year 3 - 2022
+3,000
+5,000
+
+ Key Activities
+• Finalize and implement key vendors
+– Establish a strong operational plan with these key vendors
+– Establish meaningful operational oversight of key vendors
+• Recruitment and staffing to successfully launch products
+– Within MADI
+– Within CCH Health Plan Services
+• Network adequacy criteria
+– Provider contracts completed and providers credentialed before
+submission to CMS
+– CMS review and determination that the provider network meets full
+adequacy
+
+27 of 31
+24
+
+ Keys Activities
+• Benefits, Plan design and bid and Formulary
+– Contract for extra benefits
+– Submission to CMS
+• Marketing Plan
+– Finalize sales strategy
+– Hire/contract and train sales force
+– Develop and get approval for marketing materials,
+enrollment forms, marketing presentations, provider
+directories
+28 of 31
+25
+
+ Medicare.gov Star Rating
+•
+
+Overall Star Rating gives an overall rating of the plan’s quality and performance
+
+•
+
+Five Key Areas
+– Staying healthy: screening tests and vaccines: Whether members received
+various screening tests, vaccines, and other check-ups to help them stay healthy.
+– Managing chronic (long-term) conditions: How often members with certain
+conditions got recommended tests and treatments to help manage their
+conditions.
+– Member experience with the health plan: Member ratings of the plan.
+– Member complaints and changes in the health plan’s performance: How often
+members had problems with the plan. Includes how much the plan’s
+performance improved (if at all) over time.
+– Health plan customer service: How well the plan handles member calls and
+questions
+
+•
+
+Pharmacy (Part D) Stars are also Critical
+29 of 31
+26
+
+ Keys to Success
+• Getting membership to scale quickly
+• Plan is expected to realize additional financial benefit to Cook
+County Health from utilization occurring at Cook County
+Health facilities
+
+• The pro forma assumes similar in-house utilization
+assumptions as achieved within CountyCare
+• Medicare provider network is a much smaller subset of the
+current Medicaid network
+
+30 of 31
+27
+
+ Keys to Success
+• Stars
+– Significant implications to revenue and growth
+– Work in year one has significant impact on Initial Star rating, which is
+published in 2022
+– Affected by multiple parts of the organization
+• Risk Adjustment
+– Significant implications to revenue; can be used as a good tool for
+medical management
+– Work each year has significant impact on future years
+• Provider Engagement
+– Value based payments
+– Support
+31 of 31
+28
+
+ 

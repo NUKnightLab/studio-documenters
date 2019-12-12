@@ -1,0 +1,1541 @@
+Minutes
+Cuyahoga County Board of Control
+Tuesday, October 15, 2019 at 11:00 A.M.
+County Headquarters
+2079 East Ninth Street, 4th Floor
+Committee Room B
+I – CALL TO ORDER
+The meeting was called to order at 11:00 a.m.
+Attending:
+Dennis Kennedy, Fiscal Officer, Fiscal Office (Alternate for Armond Budish)
+Trevor McAleer, County Council (Alternate for Dan Brady)
+Councilman Dale Miller
+Councilwoman Nan Baker
+Michael Chambers, Finance and Operations Administrator, Department of Public Works
+(Alternate for Michael Dever)
+Lenora Lockett, Director, Office of Procurement and Diversity
+II – REVIEW MINUTES – 10/7/2019
+Dennis Kennedy motioned to approve the minutes from the October 7, 2019 meeting; Trevor McAleer
+seconded. The minutes were unanimously approved as written.
+III – PUBLIC COMMENT
+There was no public comment related to the agenda.
+IV- CONTRACTS AND AWARDS
+A. – Tabled Items
+The following item was held at the request of the Board members.
+BC2019-677
+Department of Information Technology, submitting an amendment to Contract No. CE1200652 with
+Rimini Street, Inc. for maintenance and support services for the SAP Human Capital Management R3
+System for the period 11/6/2012 - 10/31/2019 to extend the time period to 10/30/2020 and for additional
+funds in the amount not-to-exceed $78,302.00.
+Funding Source: General Fund
+Dennis Sullivan and Jeanelle Greene, Department of Information Technology, presented. Dale Miller asked
+why this item was initially tabled; asked Dennis Kennedy whether the Enterprise Resource Planning
+Project (ERP) systems that are required to be in place which replaces this contract, are contained in what
+is referred to as the core implementation scheduled to go live in April 1, 2020, and asked what required
+elements are included in Phase 2 that will be implemented between April, 2020 and December of 2020;
+
+ Dennis Kennedy said payroll will be included in Phase 2 due to the complexity and problems with GHR and
+would most likely be implemented mid-year.
+Mr. Miller asked if 10/30/2020 is realistic as we do not want to pay for another year of service
+unnecessarily and asked if this amendment should go through 12/2020; asked the department to
+communicate to the provider that it is difficult to forecast the ERP go live date and that a better
+arrangement needs to be made to allow for flexibility and should be established up front before another
+year of service is approved.
+Mr. Kennedy stated that adding 2 months would affect pricing.
+Nan Baker asked if this service will be required once ERP is in production and asked how the time period
+of this amendment correlates with the first ERP go live date of April, 2020; asked if it is possible that these
+services will be needed after 10/30/2020; asked if the requested not-to-exceed amount for additional
+funds would all be required if ERP rolls out sooner and asked how the amount for the additional funds
+was determined; asked what were the specific issues that were of concern regarding the contract
+language; asked if the total amount of the amendment would need to be paid even if it is written in the
+contract as a not-to-exceed amount; asked if the ERP Team agrees that this contract must continue until
+10/30/2020; stated that costs must be tracked when there are delays to the ERP project; expressed her
+concern about the payroll component of ERP not being ready by 4/1/2020, as anticipated and requested
+follow up on the payroll implementation schedule.
+Jerad Zibritosky, Department of Law, said that he would need to speak with his colleague that prepared
+the contract amendment to address the questions regarding the contract language, amount and time
+period and would follow up with Board members.
+Dennis Kennedy stated that payroll will be the last component rolled out for ERP and all funds will most
+likely be used.
+Trevor McAleer asked if the County would be required to enter into another 1 year contract if ERP is
+further delayed, as the current contract does not have a standard 30 day termination clause; stated that
+he is surprised that this amendment moved forward without the standard 30 day termination clause;
+asked if the amount of this amendment is the same as the prior year amount and asked if this covers any
+staffing services; and recommended to hold the item to determine the appropriate end date. Mr. Kennedy
+concurred with Mr. McAleer’s recommendation to hold the item, as well as the other Board members.
+Jeanelle Greene returned after the item was held and indicated that she has spoken with the provider
+who said that they are able to renew for whatever period of time is required by the County, as long as the
+department checks in with the provider as to the project timeline status in the next 6 to 8 months to
+determine the next renewal period.
+Ms. Baker asked if there was any concession on the termination clause. Ms. Greene indicated there was
+not.
+
+ Mr. McAleer asked for confirmation that the provider was initially agreeable to a 6-month termination
+clause but the administration was not. Ms. Greene said that further discussion with the provider lead to
+the one-year clause. Mr. McAleer confirmed that the provider would not agree to anything less than one
+year at the conclusion of the discussions.
+The item remained on hold for one week.
+B. – New Items for Review
+BC2019-738
+Fiscal Office/Office of the Treasurer, submitting an amendment to Contract No. CE1400319 with F&E
+Check Protector Company dba F&E Payment Pros for licensing, support, training and maintenance services
+on the Digital Remittance Processing System for the period 10/1/2014 – 9/30/2019 to extend the time
+period to 9/30/2020 and for additional funds in the amount not-to-exceed $11,245.00.
+Funding Source: General Fund
+Charnese Wilson, Office of the Treasurer, presented. Trevor McAleer asked if the Digital Remittance
+Processing System produces receipts to customers who come in to pay their taxes and if this amendment
+includes any software upgrades to remedy the Internal Auditor’s findings. Nan Baker asked if this system
+will process checks and if it will assist with potential cash/check handling issues. Dennis Kennedy provided
+clarification and stated that this system only generates images of a physical check for electronic transfer,
+rather than taking them to the bank for deposit and that the physical document is retained until that
+deposit clears. Ms. Baker asked if there was a time when checks were not being imaged during the
+payment process and if this software will improve that process. Mr. Kennedy said that the Inspector
+General’s report relayed concerns about the period of time between the receipt of the check and when it
+was imaged and indicated that those controls were appropriately adjusted. Ms. Baker asked for a copy of
+the cash handling policy that was updated, in response to the Inspector General’s report. Dennis Kennedy
+motioned to approve the item; Dale Miller seconded. Item BC2019-738 was unanimously approved.
+BC2019-739
+Office of Procurement and Diversity, submitting an amendment to Contract No. CE1700120 with
+Periscope Holdings, Inc. for maintenance and support on the BuySpeed Online System for the period
+12/1/2017 – 11/30/2019 to extend the time period to 11/30/2021 and for additional funds in the amount
+not-to-exceed $65,975.00.
+Funding Source: General Fund
+Lenora Lockett, Office of Procurement and Diversity, presented. Dale Miller asked if this contract
+amendment contains a standard termination clause, if services are not necessary for the entire contract
+term. Dennis Kennedy motioned to approve the item; Dale Miller seconded. Item BC2019-739 was
+unanimously approved.
+
+ BC2019-740
+Department of Health and Human Services/Cuyahoga Job and Family Services, submitting an amendment
+to Contract No. CE1600093 with Catholic Charities Corporation for pre-employment screening services for
+Ohio Works First applicants for the period 7/1/2016 – 12/31/2019 to extend the time period to 6/30/2020
+and for additional funds in the amount not-to-exceed $267,265.00.
+Funding Source: Federal TANF dollars
+Chris Alexander, Cuyahoga Job and Family Services, presented. Trevor McAleer commented on the new
+Request for Proposals that was issued for this service and asked if Catholic Charities Corporation is
+expected to submit a proposal. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded.
+Item BC2019-740 was unanimously approved.
+BC2019-741
+Department of Health and Human Services/Community Initiatives Division/Office of Early Childhood,
+submitting an amendment to Contract No. CE1800014 with Cuyahoga County District Board of Health for
+the Newborn Home Visiting Program for the period 1/1/2018 - 12/31/2019 for additional funds in the
+amount not-to-exceed $66,923.04.
+Funding Source: Health and Human Services Levy
+Marcos Cortes, Office of Early Childhood, presented. Dennis Kennedy asked if there is a relationship with
+The Cleveland Clinic as it relates to the Newborn Home Visiting Program. Dennis Kennedy motioned to
+approve the item; Dale Miller seconded. Item BC2019-741 was unanimously approved.
+BC2019-742
+Office of the Medical Examiner,
+a) Submitting an RFP exemption on RQ45701, which will result in an award recommendation to Thermo
+Electron North America, LLC in the amount not-to-exceed $137,482.83 for maintenance services on a
+Liquid Chromatograph/Tandom Mass Spectrometer for the period 8/1/2019 – 7/31/2022.
+b) Recommending an award on RQ45701 and enter into a contract with Thermo Electron North America,
+LLC in the amount not-to-exceed $137,482.83 for maintenance services on a Liquid
+Chromatograph/Tandom Mass Spectrometer for the period 8/1/2019 – 7/31/2022.
+Funding Source: Medical Examiner’s Crime Lab Fund
+Hugh Shannon, Office of the Medical Examiner, presented. Trevor McAleer asked if Thermo Electron
+North America, LLC was a sole source provider and why did the department not conduct a sole source
+process; and asked if late contracts can still qualify for a sole source process. Lenora Lockett explained
+the process for sole source purchases and indicated the County Code does not permit soliciting bids for
+services where the time period has passed. Nan Baker asked for clarification on the equipment warranty
+and asked if the provider understands that payment for maintenance services was delayed until Board
+approval occurred. Dale Miller asked if any maintenance services have been received and why would
+payment be made for the first 2 months when services were not available; and asked if the start date
+should be changed. Dennis Kennedy motioned to approve the item; Trevor McAleer seconded. Item
+BC2019-742 was unanimously approved.
+
+ BC2019-743
+Office of the Medical Examiner, recommending a sole source award on RQ46198 and enter into a contract
+with Thermo Electron North America, LLC in the amount not-to-exceed $13,113.80 for Q Exactive Focus
+Application Support training services for the period 10/15/2019 - 12/31/2019.
+Funding Source: 2018 Coverdell Grant
+Hugh Shannon, Office of the Medical Examiner and Mary Beth Vaughn, Department of Public Safety and
+Justice Services, presented. Dale Miller asked how much grant money was received and remains from the
+2018 Coverdell Grant; asked if these were Federal funds and if the County has received the 2019 grant
+funds. Dennis Kennedy motioned to approve the item; Dale Miller seconded. Item BC2019-743 was
+unanimously approved.
+C. – Exemptions
+BC2019-744
+Department of Public Works, submitting an RFP exemption on RQ46662, which will result in an award
+recommendation to Johnson Controls Security Systems, LLC in the amount not-to-exceed $1,395,016.20
+for preventive HVAC and fire alarm/security system maintenance services at various County buildings for
+the period 10/1/2019 - 9/30/2022.
+Funding Source: General Fund – Internal Service Fund
+Matt Rymer, Department of Public Works, presented and stated that the start date will be changed to
+correlate with the date that the award recommendation will be considered for approval by County
+Council, and that he will work with the Office of Procurement and Diversity to identify the time period.
+Trevor McAleer asked if the fire alarm/security system is covered if maintenance is required prior to
+County Council approval of the award and asked if the total amount is based on a fixed amount or number
+of anticipated visits. Dennis Kennedy motioned to approve the item; Michael Chambers seconded. Item
+BC2019-744 was unanimously approved.
+D. – Consent Agenda
+Andria Richardson, Clerk of the Board of Control, referred to Council members’ advance questions
+regarding Item of Note No. 1 for various purchases by the Department of Public Works for Purchase Order
+Nos. 1926369 and 1926357. Matt Rymer, Department of Public Works, presented and responded to the
+Board members’ advance questions. Trevor McAleer asked what the completion date for the repair on
+the Jail Kitchen hood was.
+Dennis Kennedy referred to Item No. BC2019-751, Direct Open Market Purchase on Requisition No. CT19-46999 and asked if this recommendation of award to Johnson Controls for full flow fire pump test for
+fire pumps at the Justice Center is different from Item No. BC2019-744.
+There were no further questions or comments on the consent items. Dennis Kennedy motioned to
+approve BC2019-745 through -751; Trevor McAleer seconded, the consent items were unanimously
+approved.
+
+ BC2019-745
+Department of Development, submitting an amendment to a United States Environmental Protection
+Agency Brownfield Revolving Loan Fund Subgrant agreement with West 53rd Holdings Co. for
+environmental cleanup of property located at 2149-2153 West 53rd Street, Cleveland for the period
+12/22/2015 – 7/31/2017 to extend the time period to 6/30/2018; no additional funds required.
+Funding Source: U.S. Environmental Protection Agency
+BC2019-746
+Department of Information Technology, recommending to declare excess County computers and IT
+Equipment as surplus County-owned property, no longer needed for public use; requesting authority to
+sell surplus property to Info@Ret3.org. for a fee in the amount of $1.00 in accordance with EA020120001.
+Funding Source: Revenue Generating
+BC2019-747
+Court of Common Pleas/Juvenile Court Division, submitting an amendment to a Master Contract with
+various providers for Trauma Informed Residential Treatment services for the period 10/1/2018 –
+9/30/2019 to decrease funds in the amount of ($40,000.00):
+a) Clarinda Youth Corporation dba Clarinda Academy
+b) Gracehaven, Inc.
+c) Keystone Richland Center, LLC dba Foundations for Living
+d) OhioGuidestone
+e) The Village Network
+f) Woodward Youth Corporation dba Forest Ridge Youth Services
+g) Youth For Tomorrow New Life Center, Inc.
+Funding Source: Title IV-E - 32% and Victims of Crime Act – 68%
+BC2019-748
+Sheriff’s Department,
+a) Requesting authority to submit a grant application to the Ohio Department of Public Safety/Ohio State
+Highway Patrol/Ohio Traffic Safety Office, in the total amount of $80,701.07 for various grant programs
+in connection with the FY2020 High Visibility Enforcement Overtime Program for the period 10/1/2019 –
+9/30/2020:
+1) Selective Traffic Enforcement Program in the amount of $34,769.02
+2) Impaired Driving Enforcement Program in the amount of $45,932.05
+b) Submitting a grant award from the Ohio Department of Public Safety/Ohio State Highway Patrol/Ohio
+Traffic Safety Office in connection with said programs for the period 10/1/2019 – 9/30/2020.
+Funding Source: The project is funded 100% by the US Department of Transportation, National Highway
+and Traffic Safety Administration through the Ohio Traffic Safety Office
+
+ BC2019-749
+Sheriff’s Department,
+a) Requesting authority to submit a grant application to the Ohio Department of Public Safety/Ohio State
+Highway Patrol/Ohio Traffic Safety Office in the amount of $10,312.38 for the FY2020 Drugged Driving
+Enforcement Program for the period 10/1/2019 - 9/30/2020.
+b) Submitting a grant award from the Ohio Department of Public Safety/Ohio State Highway Patrol/Ohio
+Traffic Safety Office in the amount of $10,312.38 for the FY2020 Drugged Driving Enforcement Program
+for the period 10/1/2019 - 9/30/2020.
+Funding Source: The project is funded 100% by the US Department of Transportation, National Highway
+and Traffic Safety Administration through the Ohio Traffic Safety Office
+
+ BC2019-750
+Fiscal Office presenting proposed Travel for the week of 10/15/2019
+
+Travel Requests
+Department
+
+Staff
+
+Event
+
+Host
+
+Department
+of Health and
+Human
+Services –
+Division of
+Job and
+Family
+Services
+
+David
+Merriman
+
+A meeting
+entitled “Anne
+E. Casey
+Foundation
+Strategic
+Planning
+Event”
+
+Anne E.
+Casey
+Foundation
+
+Dates of
+Travel
+9/10/9/11/2019
+
+Location
+
+Baltimore,
+MD
+
+Expenses
+
+Airfare –
+$203.96
+
+Funding
+Source
+Anne E.
+Casey
+Foundation
+
+Lodging $179.00
+
+Total$382.96
+
+All travel expenses covered by the Anne E. Casey Foundation; approved by Inspector General’s Office
+
+Purpose:
+David Merriman has been invited to participate in a planning event with the Anne E. Casey Foundation (AECF). Mr.
+Merriman requested and received an opinion from the Inspector General’s Office on the appropriateness of the travel
+request.
+
+Note: This request is delayed/late due to a misunderstanding of policy requiring travel approval when outside funding
+is supporting the entirety of the travel. Measures will be put in place to ensure similar delays do not occur in the
+future.
+
+ Travel Requests
+Department
+
+Office of
+Innovation
+and
+Performance
+
+Staff
+
+Karil
+Sampson
+
+Event
+
+A conference
+entitled “2019
+LEAP HR
+Government
+Conference”
+
+Host
+
+LEAP HR
+
+Dates of
+Travel
+11/5/11/8/2019
+
+Location
+
+Washington,
+DC
+
+Expenses
+
+**Lodging$696.84
+
+Funding
+Source
+General
+Fund-
+
+**Meals $168.00
+**Ground
+Transportation$60.00
+***Airfare$318.60
+
+Total- $1,243.44
+
+**Staff reimbursement
+***Airfare will be covered by a contract with the County’s Travel Vendor – ($318.60)
+NOTE:
+Purpose:
+This conference will provide Cuyahoga County with a platform to showcase our own efforts in workforce development
+and empowerment, as well as the opportunity to learn from leading industry innovators in organizational
+transformation. Karil has been asked to present on how Cuyahoga County is actively “Fostering a Culture of
+Innovation” by implementing our own “Innovation Academy” and aligning individual employee success with countywide strategic goals, as well as to participate in a panel discussion on engaging a multi-generational workforce. Other
+topics of interest include those centered around workforce engagement, data acquisition & analysis, and
+performance metrics; all of which will be invaluable for developing a dynamic and evolving program which grows
+with our organization’s demands.
+
+ BC2019-751
+Office of Procurement & Diversity, presenting proposed purchases for the week of 10/15/2019
+
+Direct Open Market Purchases
+(Purchases between $5,000 - $49,999.99 unless requiring assistance from
+the Office of Procurement & Diversity – See Below):
+
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+JA-19-46513
+
+(6) Explosive Ordinance
+Disposal bomb disabling
+kits for Bomb Response
+Teams
+Lift rentals for various
+County buildings
+
+Department of
+Public Safety and
+Justice Services
+
+Blasters Tool & Supply
+Co, Inc
+
+$24,812.40
+
+Department of
+Public Works
+
+Sunbelt Rentals
+
+(20) Replacement upright
+vacuum cleaners for
+various County buildings
+Ammunition for Law
+Enforcement Deputies
+
+Department of
+Public Works
+
+Astro Supply
+
+Sheriff’s
+Department
+
+Vance Outdoors
+
+Not-toexceed
+$10,000.00
+Not-toexceed
+$5,460.00
+$49,333.55
+
+FY2017 State
+Homeland
+Security Grant
+Program
+General Fund –
+Internal Service
+Fund
+General Fund –
+Internal Service
+Fund
+General Fund
+
+CT-19-46829
+
+CT-19-46856
+
+SH-19-46608
+
+Items/Services Received and Invoiced but not Paid:
+
+Requisition #
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Funding Source
+
+CT-19-45203
+
+Fuel system monitor at
+Juvenile Justice Center
+
+Department of
+Public Works
+
+$2,445.10
+
+CT-19-45333
+
+Pre-season chiller services
+at the Metzenbaum Center
+
+Department of
+Public Works
+
+Service Station
+Equipment Company,
+Inc.
+Relmec Mechanical
+LLC
+
+CT-19-45545
+
+Interface modules for fire
+alarm system at the
+Huntington Park Garage
+Full Flow Fire Pump Test
+for Fire Pumps located at
+the Justice Center
+Drug disposal services
+
+Department of
+Public Works
+
+Siemens Industry
+
+$1,959.75
+
+Department of
+Public Works
+
+Johnson Controls
+
+$4,235.81
+
+Sheriff’s
+Department
+
+Ross Environmental
+Services, Inc.
+
+$1,368.82
+
+General Fund –
+Internal Service
+Fund
+General Fund –
+Internal Service
+Fund
+General Fund –
+Internal Service
+Fund
+General Fund –
+Internal Service
+Fund
+General Fund
+
+CT-19-46999
+
+SH-19-46723
+
+$3,170.00
+
+ V – OTHER BUSINESS
+
+Time Sensitive/Mission Critical
+BC2019-752
+Office of the Medical Examiner, recommending an award on RQ47073 to Envantage Inc. in the amount
+not-to-exceed $2,360.00 for the repair of (2) Agilent Gas Chromatograph Mass Spectrometer instruments
+for the period 10/8/2019 – 11/8/2019.
+Funding Source: Medical Examiner’s Office Crime Lab Fund
+Hugh Shannon, Office of the Medical Examiner, presented. Dennis Kennedy motioned to amend the
+agenda to consider the item; Nan Baker seconded. Trevor McAleer asked if there is a maintenance
+contract for equipment repairs. Dennis Kennedy motioned to approve the item; Nan Baker seconded.
+Item BC2019-752 was unanimously approved.
+
+ Item No. 1
+Purchases Processed
+$1,000.00 - $4,999.99
+For the period 9/3/2019 – 9/30/2019
+(No Vote Required)
+
+Purchase
+Order #
+
+Purchase
+Order Date
+
+Description
+
+Department
+
+Vendor Name
+
+Total
+
+Status
+
+9/30/2019
+
+Temporary set up/take down
+of ramps for the November,
+2019 Election (Election
+Support)
+
+Board of
+Elections
+
+TRU-TRAC
+SERVICES, INC.
+
+$ 1,540.00
+
+3PS Sent
+
+9/25/2019
+
+DS200 thermal paper rolls for
+the 2019 General Election
+
+Board of
+Elections
+
+Election
+Systems &
+Software, LLC
+
+$ 2,977.57
+
+3PS Sent
+
+9/24/2019
+
+Print Shop: Cosmic Orange
+NCR
+
+Public Works
+
+Millcraft Paper
+Company
+
+$ 1,730.00
+
+3PS Sent
+
+1926384
+
+9/24/2019
+
+F Warrants - 15 boxes
+numbered
+
+Fiscal Office Financial
+Reporting
+
+RR
+DONNELLEY
+
+$ 2,177.10
+
+3PRS Ready
+to Send
+
+1926372
+
+9/20/2019
+
+Voter Survey Cards
+
+Board of
+Elections
+
+Direct Digital
+Graphics
+
+$ 4,361.00
+
+3PS Sent
+
+9/20/2019
+
+Tents for the Warehouse &
+Metzenbaum lot on Election
+Night, Nov. 5, 2019
+
+Board of
+Elections
+
+Tip Top Tents
+and Rentals
+
+$ 1,070.00
+
+3PS Sent
+
+$ 4,265.00
+
+3PS Sent
+
+$ 2,625.00
+
+3PS Sent
+
+1926400
+
+1926391
+
+1926387
+
+1926371
+
+1926369
+
+1926367
+
+1926362
+
+1926361
+
+9/19/2019
+
+Jail II Kitchen Hood Inspection
+
+Public Works
+
+ABCO FIRE
+PROTECTION
+INC.
+
+9/19/2019
+
+Syringes, Liners, tubes,
+Columns, Guards,Seals,
+Filaments Drug
+Chem/Toxicology
+
+Medical
+Examiner
+
+Phenomenex,
+Inc.
+
+9/18/2019
+
+1 Year NXLog Subscription
+with 5 nodes
+
+Information
+Services
+Center
+
+SHI
+International
+Corp.
+
+$ 2,031.96
+
+3PS Sent
+
+9/17/2019
+
+Cassettes-Storage BoxesHematoxylin-Eosin - Histology
+
+Medical
+Examiner
+
+LEICA
+MICROSYSTEM
+S INC.
+
+$ 1,395.66
+
+3PS Sent
+
+ Public Works
+
+HPM
+BUSINESS
+SYSTEMS INC.
+
+$ 1,077.77
+
+3PS Sent
+
+Public Works
+
+GRAYBAR
+ELECTRIC
+COMPANY
+
+$ 3,950.60
+
+3PS Sent
+
+$ 1,880.00
+
+3PPR Partial
+Receipt
+
+$ 1,342.00
+
+3PS Sent
+
+9/17/2019
+
+Facilities: Intercom for Jail I
+Sex Offender Unit
+
+9/17/2019
+
+Facilities: Light Fixtures for
+Halle
+
+1926354
+
+9/17/2019
+
+Print Shop (HR): Simply Well
+HR Mailing
+
+Public Works
+
+WEEKLEYS
+MAILING
+SERVICE
+
+1926353
+
+9/17/2019
+
+Print Shop (CSEA): Ivory
+Envelopes
+
+Public Works
+
+Veritiv
+
+9/17/2019
+
+Print Shop (HR): Open
+Enrollment Mailer
+
+Public Works
+
+WEEKLEYS
+MAILING
+SERVICE
+
+$ 3,315.19
+
+3PPR Partial
+Receipt
+
+9/16/2019
+
+Replacement Fire
+Extinguishers and Testing for
+Jail I, Jail II and P2 Garage
+
+Public Works
+
+S.A. Comunale
+Co., Inc.
+
+$ 4,940.00
+
+3PS Sent
+
+9/16/2019
+
+DCFS 2019: Adoption-PASSSNon-Reoccuring-Nehrer and
+Kassinger
+
+Children and
+Family
+Services
+
+Nehrer and
+Kassinger LLC
+
+$ 3,400.00
+
+3PS Sent
+
+9/13/2019
+
+HHS 2019: Blue Chip
+Broadcasting-Radio
+Advertising
+
+Health &
+Human
+Services
+
+Blue Chip
+Broadcasting
+LTD
+
+$ 2,500.00
+
+3PS Sent
+
+9/13/2019
+
+Signage, Seal and Letters
+
+Cuyahoga Job
+and Family
+Services
+
+Bernard R
+Doyle Inc dba
+Fastsigns
+
+$ 1,775.00
+
+3PS Sent
+
+1926335
+
+9/12/2019
+
+ICAC Specialized Vehicle
+Repair
+
+Cuyahoga
+County
+Prosecutor
+
+Farber
+Specialty
+Vehicles
+
+$ 4,868.92
+
+3PRS Ready
+to Send
+
+1926334
+
+9/12/2019
+
+Flash Drives for AMBER Alert
+Conference
+
+Justice
+Services
+
+AG PrintPromo
+Solutions
+
+$ 1,420.00
+
+3PS Sent
+
+9/12/2019
+
+Pads,Plates,Tubes,Bags,Filter
+s,Hemastix,TipsDNA,Trace,Part-ID
+
+Medical
+Examiner
+
+LABSOURCE
+INC
+
+$ 1,004.98
+
+3PS Sent
+
+9/12/2019
+
+Pads,Plates,Tubes,Bags,Filter
+s,Hemastix,TipsDNA,Trace,Part-ID
+
+Medical
+Examiner
+
+FISHER
+SCIENTIFIC
+COMPANY,
+L.L.C.
+
+$ 1,236.43
+
+3PS Sent
+
+1926357
+
+1926356
+
+1926351
+
+1926347
+
+1926346
+
+1926339
+
+1926338
+
+1926332
+
+1926331
+
+ 1926330
+
+9/12/2019
+
+Power Plex Fusion Parentage/ID
+
+Medical
+Examiner
+
+Promega
+Corporation
+
+$ 4,391.02
+
+3PS Sent
+
+1926329
+
+9/12/2019
+
+Inlet Liners/Columns Restek
+Drug Chemistry & Toxicology
+
+Medical
+Examiner
+
+Restek
+
+$ 2,554.40
+
+3PS Sent
+
+Medical
+Examiner
+
+FISHER
+SCIENTIFIC
+COMPANY,
+L.L.C.
+
+$ 1,323.81
+
+3PS Sent
+
+$ 5,000.00
+
+3PS Sent
+
+9/12/2019
+
+Inlet Liners/Columns Restek
+Drug Chemistry & Toxicology
+
+1926326
+
+9/11/2019
+
+Certification of Continuing
+Education, Medicolegal
+Death Scene Investigation
+
+Medical
+Examiner
+
+CASE
+WESTERN
+RESERVE
+UNIVERSITY
+
+1926325
+
+9/11/2019
+
+Lab Solvents - Toxicology,
+Drug Chem
+
+Medical
+Examiner
+
+MG Scientific
+Inc.
+
+$ 1,077.92
+
+3PS Sent
+
+9/11/2019
+
+SkillUp Training Costs
+
+Cuyahoga Job
+and Family
+Services
+
+Community
+Care
+Ambulance
+Network
+
+$ 3,290.00
+
+3PS Sent
+
+9/11/2019
+
+HHS 2019: Workwave
+Routing
+
+Health &
+Human
+Services
+
+Workwave
+
+$ 4,968.00
+
+3PS Sent
+
+Sheriff
+
+Toyota
+Material
+Handling Ohio
+
+$ 3,995.00
+
+3PS Sent
+
+Public Works
+
+ALBERT
+HERMAN
+DRAPERIES,
+INC.
+
+$ 2,916.00
+
+3PS Sent
+
+$ 1,616.00
+
+3PCR Complet
+e
+Receipt
+
+1926328
+
+1926323
+
+1926320
+
+1926319
+
+1926314
+
+9/10/2019
+
+9/10/2019
+
+2019 ELECTRIC PALLET JACK
+
+Solar Shades for JJC, 2nd
+Floor IT Room
+
+1926306
+
+9/9/2019
+
+8 oz paper hot cups
+
+Sheriff
+
+L-Mor, Inc. dba
+Darling Fire &
+Safety Co., Inc.
+
+1926304
+
+9/9/2019
+
+Heavy Duty Trash Dumpsters
+
+Sheriff
+
+W.B. Mason
+Company, Inc.
+
+$ 1,420.00
+
+3PS Sent
+
+Medical
+Examiner
+
+FISHER
+SCIENTIFIC
+COMPANY,
+L.L.C.
+
+$ 1,268.15
+
+3PS Sent
+
+1926302
+
+9/6/2019
+
+Syringe/Liners - Drug
+Chemistry
+
+ 1926300
+
+9/6/2019
+
+Facilities: Vinyl and Adhesive
+for Hunter Building
+
+Public Works
+
+L. Fishman &
+Son, Inc. dba
+Fishman
+Flooring
+Solutions
+
+1926299
+
+9/6/2019
+
+Facilities: Backflow for
+Metzenbaum
+
+Public Works
+
+EPS SUPPLY
+INC.
+
+$ 1,339.26
+
+3PS Sent
+
+1926298
+
+9/6/2019
+
+Harvard Road: Ancillary Items
+for the Harvard Relocation
+
+Public Works
+
+W.B. Mason
+Company, Inc.
+
+$ 1,541.51
+
+3PS Sent
+
+Public Works
+
+Western
+States
+Envelope and
+Label
+
+$ 4,119.72
+
+3PS Sent
+
+Public Works
+
+UNITED
+FINISHING &
+DIE CUTTING
+INC.
+
+$ 1,249.10
+
+3PS Sent
+
+$ 1,202.50
+
+3PCR Complet
+e
+Receipt
+
+1926297
+
+1926296
+
+9/6/2019
+
+9/6/2019
+
+Print Shop: DCFS Blue Record
+Jackets
+
+Print Shop: File Folders for
+the Juvenile Social Work Unit
+
+$ 3,001.11
+
+3PS Sent
+
+9/6/2019
+
+Print Shop: Grey Index
+
+Public Works
+
+Millcraft Paper
+Company
+
+1926292
+
+9/5/2019
+
+Emergency Management
+Summit - Catered Lunch
+
+Justice
+Services
+
+K&K Portage
+Market Inc
+
+$ 2,122.50
+
+3PRS Ready
+to Send
+
+1926290
+
+9/5/2019
+
+Calibrator Drug Standards Toxicology
+
+Medical
+Examiner
+
+Cerilliant
+
+$ 1,540.53
+
+3PS Sent
+
+9/5/2019
+
+Pipets,Tubes,Swabs, Weigh
+Dishes&Paper,Respirators,Sh
+arpsContain,Bottles,SyringeR
+ecapper - DrugChem
+
+Medical
+Examiner
+
+FISHER
+SCIENTIFIC
+COMPANY,
+L.L.C.
+
+$ 1,028.69
+
+3PS Sent
+
+9/5/2019
+
+JULY-SEPTEMBER FROZEN
+VEGETABLES
+
+Sheriff
+
+Benjamin
+Foods
+
+$ 3,649.50
+
+3PPR Partial
+Receipt
+
+9/5/2019
+
+JULY-SEPTEMBER FROZEN
+VEGETABLES
+
+Sheriff
+
+National Food
+Group, Inc.
+
+$ 3,348.00
+
+3PPR Partial
+Receipt
+
+9/5/2019
+
+JULY-SEPTEMBER BULK
+CEREAL
+
+Sheriff
+
+Benjamin
+Foods
+
+$ 3,786.90
+
+3PPR Partial
+Receipt
+
+1926295
+
+1926289
+
+1926288
+
+1926287
+
+1926285
+
+ $ 4,434.00
+
+3PPR Partial
+Receipt
+
+$ 1,023.00
+
+3PS Sent
+
+1926283
+
+9/5/2019
+
+JULY-SEPTEMBER BEANS
+
+Sheriff
+
+Benjamin
+Foods
+
+1926282
+
+9/5/2019
+
+JULY-SEPTEMBER DRY
+GOODS
+
+Sheriff
+
+Benjamin
+Foods
+
+1926275
+
+9/4/2019
+
+Litigation Support (video
+deposition, reporter
+appearance fee, digital
+storage, certified transcript)
+
+Human
+Resources
+
+Cefaratti
+Group, Inc.
+
+$ 1,443.23
+
+3PRS Ready
+to Send
+
+1926268
+
+9/4/2019
+
+Bullet Recovery Tank Repair
+
+Medical
+Examiner
+
+Team
+Fabrication Inc
+
+$ 2,153.25
+
+3PS Sent
+
+National
+Medical
+Services dba
+NMS Labs
+
+$ 1,444.00
+
+3PS Sent
+
+9/4/2019
+
+NMS - Outside Toxicology
+Testing - July 2019 Toxicology
+
+Medical
+Examiner
+
+1926263
+
+9/3/2019
+
+Community Assistance
+Summer Camp
+
+Family and
+Children First
+
+MGW
+
+$ 3,600.00
+
+3PRS Ready
+to Send
+
+1926262
+
+9/3/2019
+
+County Animal Shelter - Chain
+Link Fence Installation
+
+Public Works
+
+ELYRIA FENCE
+INC.
+
+$ 4,975.00
+
+3PS Sent
+
+9/3/2019
+
+DCFS 2019: Adoption-PASSSGuidestone
+
+Children and
+Family
+Services
+
+GUIDESTONE
+
+$ 3,072.00
+
+3PS Sent
+
+1926267
+
+1926259
+
+VI – PUBLIC COMMENT
+Dennis Kennedy thanked Andria Richardson, Clerk of the Board of Control and the staff of the Office of
+Procurement and Diversity for the tremendous job of getting the Board meetings in order and the level
+of detail provided. Mr. Kennedy expressed his appreciation for their assistance over the past 4 ½ years,
+while serving on the Board of Control and also thanked the other Board members.
+VII – ADJOURNMENT
+Dennis Kennedy motioned to adjourn; Michael Chambers seconded. The motion to adjourn was
+unanimously approved at 11:55 a.m.
+
+ 

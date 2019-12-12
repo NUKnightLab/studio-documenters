@@ -1,0 +1,2570 @@
+Present:
+
+Absent:
+
+Also Present:
+
+REPORT OF THE
+FINANCE COMMITTEE OF THE
+BOARD OF DIRECTORS OF THE
+
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 13, 2008
+
+ATTENDANCE
+
+Chairman David Carvalho and Directors Quin R. Golden; Benn Greenspan, 
+
+MPH, Heather O?Donnell, I D, LLM and Jorge Ramirez (5)
+
+Board Chairman Warren L. Batts (Ex-Of?cio)
+
+Luis Mu?oz, MD, MPH (1)
+
+Director] erry Butler; Matthew DeLeon Of?ce of the Secretary to the Board of I
+Commissioners of Cook County; Leslie Duffy Director of Procurement, Cook
+
+County Bureau of Health Services; Elizabeth Reidy State?s Attorney Office; Jarese
+
+Wilson Director, Cook County Department of Budget and Management.
+
+Ladies and Gentlemen:
+
+Your Finance Committee of the Board of Directors of the Cook County Health and Hospitals System met pursuant
+to notice on Monday, August 18, 2008 at the hour of 10:00 AM. at 1900 West Polk Street, in the Second Floor
+
+Conference Room, in Chicago, Illinois.
+
+Your Finance Committee has considered the following items and upon adoption of i this report, the
+
+recommendations follow.
+
+Matthew B. DeLeon, Secretary to the Board, called the roll of members, and it was determined that a quorum was
+
+present.
+
+Roll Call
+
+ 
+
+Contracts and Procurement Approvals?
+Additional information pertaining to these items is included in Attachment #2
+PROPOSED CONTRACTS - APPROVED
+Quadraned Corporation Contract Period: 4/09/08 to 4i8?l
+Maintenance and support of existing software system
+So?ek Solutions Inc. Centract Period: 7f01f03 to 6i30i11
+Management/monitoring, maintenance support
+Per-Se Technologies Contract Period: 1:01:08 to 12f31f09
+
+Software maintenance agreement
+for outpatient pharmacy system
+
+$210,415.89
+$451,554.00
+
+$237,000.00
+
+REPORT OF THE FINANCE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+AUGUST 13, 2008
+
+ 
+
+PAGE 2
+UpToDate Contract Period: 4101/08 to 3731/10 $76,835.00
+Online clinical subscription service
+Virtual Radiologic Contract Period: 3101/03 to 7/3 1x09 $583,333.32
+Tole-Radiology services .
+REQUEST TO EXTEND CONTRACT - APPROVED
+Medical Waste Solutions Extend from 7728/08 - 10127708
+Scavenger services bio-hazardous waste
+Original Contract Amount: $274,657.76
+REQUEST TO INCREASE AND EXTEND CONTRACTS - APPROVED
+Advance Boiler Control Services Increase requested: $40,000.00-
+Maintenance and repair of the Extend from 6/6f03 to 915f08
+boiler system
+Original Contract Amount: $100,800.00
+Anchor Mechanical Increase requested: $50,000.00
+
+Maintenance and repair of the Extend from 7f12f08 to 10I11f08
+
+cooling tower system
+Original Contract Amount: $139,000.00
+
+REQUEST TO AMEND A PREVIOUSLY APPROVED ADVERTISE FOR BIDS - APPROVED
+
+Maintenance and repair of radiographic units - to include Cermak Health Services
+Two year contract
+
+Chairman David Carvalho began with Item 2 the proposed contracts
+Director O?Donnell asked why this contract is sole source and if the software outdated.
+Leslie Duffy, Director of Procurement, Bureau of Health Services responded the system is outdated.
+
+Chairman Carvalho stated the sole source maintenance from a particular vendor becomes a ?mction of the initial
+choice to go with" that vendor. The Bureau is more or less committed to ongoing maintenancecontracts with a
+
+vendor until you switch software.
+
+Julie Bonello, Chief Information Of?cer, stated Quadraned Corporation is our coding vendor which allows us to
+put procedure and diagnosis codes on our bills in order to get reimbursed. The software was purchased years ago
+and the system is totally up-to-date with a standard maintenance contract that is renewable every year. When a
+computer system is purchased like this one there is no other vendor but that vendor to provide maintenance. All the
+
+vendors for consideration today present the same situation.
+
+REPORT OF THE FINANCE CONMTTEE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 18, 2008
+
+PAGE 3
+
+Director Greenspan asked if Quadraned Corporation is the vendor of the coding system and if this is the annual
+maintenance contract anticipated in the budget for this amount. He also inquired as to the last time speci?cations
+
+and bids went out for a coding contract to other vendors?
+
+Ms. Bonello responded that Quadra/Med Corporation is the vendor. Bids have not been sent out since she started
+18 months ago.
+
+David Small, Interim Chief Executive Of?cer, stated in making the initial purchases it is a capital investment, the
+Bureau chose the vendor with the best product at the time for what our needs were and the best opportunity to keep
+it current over time. If the Bureau were to decide for better products out there, there would have to be due diligence
+and then a' request in a capital budget for the purchase of softvvare and on going maintenance agreement for the
+
+system over time.
+Director Greenspan voiced concern about the coding system.
+
+Ms. Bonello responded the cycle system is 3 to 4 years and most of the vendors provide upgrades to their systems.
+We upgraded last year with Quadra?Med Corporation bureau wide last year. There rs now one system for all of the
+
+facilities.
+
+Director Golden asked if the system could interface with other systems throughout the Bureau of Health Services.
+
+Ms. Bonello responded yes.
+Director Greenspan requested a DRG or discharge report generated by this system.
+
+Ms. Bonello responded that through another data system manufactured by 3M DRG reports are available.
+
+Director Greenspan asked if the 3M system is fed by Cerner.
+Ms. Bonello responded Cemer feeds into the 3M system and the 3M system feeds into the billing system.
+
+Director Greenspan requested 1nformat1on of eports of discharges forthelast 3 years by DRG by admitting
+physician through Cerner.
+
+Ms. Bonello responded it would be through the Cerner System. The abstracting system would not have the
+provider number.
+
+Director Greenspan asked if they could get the next level up which is the DRG report and how long would it take to
+get the information.
+
+Ms. Bonello responded these are standard DRG reports and it should not take long to produce them.-
+
+Director 0? Donnell asked about receiving payer mix or payer source by facility over the past three years from this
+system. - .
+
+Ms. Bonello responded that the System can produce payer source from the Siemens patients accounting system.-
+
+Director O?Don?nell if the Virtual Radiologic contract request for service at Provident Hospital and Oak Forest
+Hospital' 1s from the same contractor for the service at Stroger Hospital.
+
+Sidney Thomas, Provident Hospital, stated Stroger Hospital does not have a contract; Stroger Hospital utilizes
+residents to provide overnight coverage.
+
+REPORT OF THE FINANCE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 13, 2008
+
+PAGE 4
+
+Chairman Carvalho stated that the ?ve proposed contracts have a start date before today and requested that Ms.
+Leslie Duffy address this topic. .
+
+Leslie Duffy, Director of Procurement, Bureau of Health Services responded the current process involves sending
+the information to the Cook County Purchasing Department. It could take four to six months to get information
+
+back.
+
+Chairman Carvalho asked if these vendors have been maintaining service even without contracts and whether, by
+retroactively approving the contracts, we were approving payments for this pre-contract service?
+
+Ms. Bonello responded yes.
+Director Greenspan asked are there any items beyond what was budgeted or anticipated.
+
+Mr. Small responded several contracts are beyond the individual line items that were budgeted. However, the .total
+dollars are contained within the current year?s budget. - -
+
+Director O?Donnell asked how are budget shortfalls accessed?
+Mr. Small indicated that transfers are proposed to the Board from other line items where we are under expending.
+
+Director O?Donnell, seconded by Director Golden, moved to approve the Contract and Procurement
+Approvals. THE MOTION CARRIED UNANIMOUSLY.
+
+ 
+
+Old Business
+
+Follow up items from 3/04 Meeting
+David Small, Interim Chief Executive Of?cer, Bureau of Health Services
+
+Mr. Small commented on Item 1 regarding The Intergovernmental Transfer (IGT) in terms of split of actual funds
+between the State and the County and those funds which come directly to the system. The question relatedito why
+it appears the Bureau is receiving less funding in our intergovernmental transfer this year then what was in the
+
+budget.
+
+Randall Mark, Director of Policy Analysis, answered that the IGT splits have been established for many years.
+These splits are lower than anticipated for this year due to two factors: 1) in December 2007, the County repaid a
+$10 million advance from the State of Illinois for the prior ?scal year; 2) The ?nal quarter of the current federal
+?scal year which ends September 30 represents conclusion of upper payment phase down, reducing available IGT
+payments, removing all supplemental IGT payments other than the BIPA payment.
+
+REPORT OF THE FINANCE COMIMITTEE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 18, 2008
+
+PAGE 5
+
+Chairman Carvalho stated there were actually three IGT arrangements. The ?rst is volume related Medicaid patient
+fee revenues; the second and third are ?xed negotiated amounts of supplemental payments which are reported as
+IGT or BIPA payments in the ?nancial reports.
+
+Mr. Marks made reference to the materials handed out at a previous meeting.
+
+ 
+
+Dash Boards
+David Small, Interim Chief Executive Of?cer, Bureau of Health Services
+Deferred at the meeting of the Finance Committee on August 4. 2008.
+
+Mr. Small stated he requested data ?'om the Information Systems Department to assemble reports regarding ?red
+?ag? items including patient metrics (number, type, length of stay); admission of self pay vs. Medicaid. There are
+large arrays of dashboard items: The Clinical reports will be presented to Quality Committee; Operational. 
+overtime) and Financial will he presented to ?nance. Regarding the trial balance, we are catching up in ?le
+maintenance. There are accounts that were written off in 2005-06 after audit; however, patient accounts related to
+these write?oil's are still on the system. Once the 200'? audit is approved, these accounts will have to come the
+system. The Bureau is trying to match local and industry standards for records management.
+
+Director O?Donnell asked if charges? are receipts.
+
+Ms. Bonello responded yes.
+
+Chairman Carvalho asked each board member if they could identify things they would like to have appear on the
+report from the administration.
+
+Director Golden asked if these documents could be sent electronically.
+Ms. Bonello indicated it is possible, however, that more user licenses may need to be purchased.
+Director Greenspan asked where the Ambulatory Network numbers are to be found.
+
+Ms. Bonello stated the ACHN numbers are incorporated under the hospital numbers, and some of the ACHN clinic
+numbers are under Provident Hospital and Oak Forest Hospital. ..
+
+John Cookingham Chief Financial Officer, Oak Forest Hospital, stated the billing is done through the hospital
+facilities with which they are associated. ACI-IN does keep statistic regarding visits, which are published on a
+
+basis.
+
+Chairman Carvalho asked if some of the costs associated with the ACHN clinics are intertwined with various
+hospital budgets, including Stroger and Provident Hospital budgets.
+
+Mr. Small stated that they are and that to separate them will require systems to be' in place that we do not yet have;
+we are working on it.
+
+Director Golden asked have the data been analyzed.
+
+Mr. Small explained the data come directly from the system and have not yet been analyzed.
+
+REPORT OF THE FINANCE COMMITTEE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 18, 2008
+
+PAGE 6
+
+Chairman Carvalho asked if the Department of Public Health and Cermak were included. If not, there should be
+another way to keep track so the Committee sees the whole picture.
+
+ 
+
+Proposed Close Schedule
+David Small, Interim Chief Executive Of?cer, Bureau of Health Services
+
+Data?srred at tire meetingr ofthe Finance Committee on August 4, 2003.
+
+Mr. Small stated that within ten days of the end of the month, the Bureau would get on the schedule within 60 days.
+Mr. Small also indicated that the General Ledger system must be purchased during this time.
+
+ 
+
+Update on Procurement Policy
+Leslie Duffy, Director of Procurement, Bureau of Health Services
+Batter-red at the meeting ofthe Finance Committee on August 4, 2008.
+
+Mr. Small stated the ?nancial systems may meet the County needs for procurement but not performing and
+operating in a way that is much more standardized to health care operations. The administration is proposing to the
+Board a ne rocess a nd rocedure for ontracting aking a dvantage a Gr oup urchasing 0 rganiaation
+(GPO), which would save money, provide far more information standardization and provide quality goods and
+
+supplies that are needed in support of the delivery of services.
+
+Leslie Duffy stated that developing a set of contracting policy and procedures would provide value to all the
+hoSpitals in the system. The goals are to streamline the process, improve communication within the departments
+
+and executive leadership and support and develop accountability.
+Chairman Carvalho asked if the GPO would need to work with Contract Compliance.
+Ms. Duffy replied we are hoping to develop a mechanism to bypass Contract Compliance.
+
+Chairman Carvatho stated we should work with the State?s Attorney of?this. .
+
+Chairman Carvalho also asked about the process for contracting with a 
+
+Ms. Du??y stated there is a pharmacy GPO contract in place and perhaps the Bureau can start accessing it now for
+other goods until the pharmacy GPO is up for renewal in October, 2009. It would be unwise to have only one GPO.
+
+Typically, hospitals use primary and secondary GPOs.
+
+Chairman Carvalho reiterated to the State?s Attorney that in procuring the GPO, the Board would have to go
+through the current procurement process which can take, seven months. Perhaps instead the Board can adopt a
+resolution to carve out a procurement process for the GPO itself that is faster to obtain the savings sooner.
+
+Je?' McCutcheon, State's Attorney Of?ce, replied that these are among the issues that are being worked on.
+
+Ms. Duffy stated that the pharmacy staff believe the GPO system for pharmacyhas save $25-30 million dollars.
+Director Golden asked why the current GPO would be replaced if it is working.
+
+Chairman Carvalho stated the current GPO system deals with pharmacy only and the proposed GPO would be
+broader than that.
+
+REPORT OF THE FINANCE COMMITTEE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 18, 2008
+
+PAGE 7
+
+ 
+
+Cost Re ort date
+David Small, Interim Chief Executive Officer, Bureau of Health Services
+
+De?erred at the meeting ofthe Finance Committee on August 4, 2008.
+
+Mr. Small stated the Bureau is trying to account more appropriately for depreciation, malpractice and other items in
+its cost reports and that this has the potential to reap additional dollars. Health Management Associates is
+providing expertise in preparing cost reports. There is a need to enlist outside resources which have the expertise to
+review several years of ?lings to see whether all the appropriate cost were recognized; there may be an opportunity
+for reconsideration of items to generate more money.
+
+Chairman Carvalho stated Item 5 on the agenda would be discussed at the next Finance Committee meeting.
+
+ 
+
+Information Systems Update
+Julie Bonello, Chief Information Of?cer, Bureau of Health Services
+Deferred at the meeting ofthe Finance Committee on August 4. 2008.
+
+Ms. Bonello gave an updated presentation on Enterprise Resource Planning System selection processes. A resource
+planning system would integrate ?nance, human resources, and the whole supply chain. The system would support
+all entities. In 2007, I-IIMSS reported 962 healthcare installations.
+
+Director O?Donnell asked what technical system would be replaced.
+
+Ms. Bonello stated the County?s JD Edwards?s system is currently in use. Other than that, this would be a new
+system providing heretofore unavailable capability. 
+
+Mr. Small commented that there is no general ledger system. Information is obtained from the county system,
+which is the JD Edwards system. The JD Edwards system used by the county is good but not industry standard for
+health care. The ERP would replace County systems.
+
+Ms. Bonello stated the IS department staf?ng is low with 71 employees. The migration to full electronic medical
+records will require additional staff.
+
+Director O?Donnell suggested management share with the Board its priorities. What is absolutely needed and
+doable within the ?rst year?
+
+Director Golden asked if all the hospitals are using electronic medical records.
+
+Ms. Bonello stated Provident Hospital is not using electronic medical records, and that work is underway right now
+to implement electronic medical records at the hospital. Physicians and nurses must be trained onhow to use the
+system. In 2002, Stroger Hospital implemented EMR, but had 50 Cemer resources on campus to providing
+training. Oak Forest Hospital was trained in 2005. (See attach)
+
+REPORT OF THE FINANCE COMMITTEE OF THE BOARD OF DIRECTORS OF THE
+COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+AUGUST 18, 2003
+
+PAGE 8
+
+ 
+
+Discussion of the following:
+Interim Chief Financial Of?cer for Stroger Hospital
+
+Permanent Chief Financial Of?cer for Stroger Hospital
+Deferred at the meeting Finance Committee on August 2008.
+
+'Mr. Small stated he has interview a quali?ed candidate for the Interim CFO position at Stroger. The candidate is
+coming on campus this week to interview with more staff. We are Still currently advertising and gathering resumes
+
+for the permanent Stroger CFO.
+Board Chairman Batts asked if?the Bureau was using a search ?rm to ?ll this position.
+
+Mr. Small responded they were not. Board Chairman Batts suggested that that be re-evaluated.
+
+ 
+
+Public Comments
+
+None.
+
+new
+
+Chairman Carvolho adjourned the meeting.
+
+Respectfully submitted,
+
+Finance Committee of the
+
+Board of Directors of the
+
+Cook County Health and Hospitals System
+
+    
+
+in Golden, Director
+
+75 
+
+hiatthew B. DeLeon, Secretary
+
+?The audio recording for this meeting is available from the Of?ce of the Secretary to the Board, 118 North Clark
+Street, Room 567, Chicago, Illinois 60602.
+
+ATTACHMENT 2
+
+Date:
+
+
+Operating Unit:
+
+Description of
+
+Service:
+
+Justi?cation for
+this contract:
+
+ 
+
+APPROVED
+
+Cook County Health and Hospital ms AUG 2 2 2035
+
+BY BOARD OF
+Contract Item for Board Approval DIRECTORS OF THE COOK COUNTY
+
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+August 1 l, 2008
+
+Julie Bonello
+Chief Information Of?cer
+
+Cook County Bureau of Health Services
+Health Information Systems
+
+This request is to enter into new software maintenance contract
+with Quadraned Corporation Reston, Virginia. QuadraMed is
+the encoding software used by all the Medical Records
+departments to code procedures and diagnosis.
+
+Quadrancd Corporation is the manufacturer and the only.' known
+source of maintenance and support of the existing software system.
+The software system allows the system to identify patient care
+resource consumption by severity of diagnosis, allocate resources
+accordingly, elevate productivity and staf?ng effectiveness,
+generate data for budget projection, management and strategic
+planning is required by regulatory agencies (Date of the proposed
+contract is 04i09f2008 to 041'03i2011).
+
+Cost of the contract
+
+and terms: 
+
+Fiscal Impact $210,415.39
+
+Budget Information: Fiscal 2003: $77,423.13; Fiscal Impact 2009: $65,616.06;
+
+Signatures:
+Sponsor
+
+Operating Unit CFO 
+
+Director
+
+of Purchasing
+
+COO
+
+Fiscal 2010: $67,376.70: Approval of this item will commit Fiscal
+Year(s) 2003-2010 (890-441 Account)
+
+\tnc ass as: 09?
+
+Eff-Eb
+
+ 
+   
+
+?m\wqw 
+4k4r-O Hahn??201. 3915?s??
+
+ 
+
+W43
+
+ 
+
+Date:
+
+Sponsor:
+
+Operating Unit:
+
+Description of
+
+Service:
+
+Justi?cation for
+this contract:
+
+ 
+
+Cook County Health and Hospital Syste ROVED
+
+Contract Item for Board Approval AUG 2 2 2008
+I scroasa?ogngEIisgSK 
+
+Augus" 1? 2003 HEALTH mo sysrehrii"
+
+ 
+
+Julie Bonello
+Chief Information Of?cer
+
+Cook County Bureau of Health Services
+Health Information Systems
+
+This request is to enter into contract with So?ek Solutions Inc.,
+Prairie Village, Kansas. to provide managementfmonitoring,
+maintenance support for the Corner Millennium hospital
+information management system for the Cook County Health and
+Hospitals System.
+
+The system allows the information Technologies Department to
+monitor and manage the Millennium system in order to identify
+and address system issues before they affect the end-users, thereby
+increasing regulatory compliance with HIPPA and Joint
+Commission and increasing department staff ef?ciency. The
+So?e]: Panther System is the only web?based management and
+monitoring system for the Center Millennium System. (Date of
+the proposed contract is July 01, 2003 through June 30, 201 1).
+
+Cost of the contract.
+
+and terms:
+
+Fiscal impact $451,554.00
+
+Budget infer-rump: Fiscal 2008: 95,186.00; Fiscal Impac12009: $123,552.00;
+
+Signatures:
+Sponsor
+
+Operating Unit CFO -
+
+Director
+of Purchasing
+
+CCl-ll-lS COO
+
+Fiscal 2010: $132,316.00; Approval of this item will commit
+Fiscal Year-(3) 2003-2010 (390-44l AccOunt)
+
+mgt?-Q kli? . muse-?a gills-j)
+
+are
+
+ 
+
+neg:
+Ire-- 
+?3 ilr
+
+J: .
+?an. EDI?mas;- lw- an 
+
+
+
+ 
+
+Date:
+
+ 
+
+Sponsor:
+Operating Unit:
+
+Description of
+Service:
+
+Justification for
+this contract:
+
+ 
+
+APPROVED
+
+Cook County Health and Hospital Syste 
+
+1 AUG 2 2 2003
+Contract Item for Board Approval
+
+BY BOARD OF
+?cornerstones:
+August 1 I, 2003 
+
+Julie Bonello
+Chief Information Of?cer
+
+Cook County Bureau of Health Services
+Health Information Systems
+
+This request is to enter into a software maintenance agreement
+with Per-Se Technologies for the outpatient pharmacy system
+currently installed and in use across the Bureau since 1990. The
+contract includes 2 years of unlimited maintenance. technical
+support, software upgrades and limited professional services.
+
+Approval of this request will allow continued use ofthc Per?Se
+Outpatient pharmacy system to ?ll ali outpatient prescriptions.
+Compliance issues have historically impeded the timely renewal of
+this contract.
+
+Cost of the contract
+
+and terms:
+
+This contract is in the amount of$237.000.00 with a duration
+period of one year, effective 01/013008 through 1281:2009, as
+well as contingent interface and professional services for a
+managed care Pharmacy System.
+
+Budget Information: The cost for this contract has been provided for within the current
+
+Signatures:
+
+Sponsor
+
+- 
+Operating Unit CFO 
+
+Director
+of Purchasing
+
+COO
+
+operating budget for the Cook County Bureau of Health Services,
+Health Information Systems in account 44L
+
+?Ru?daima 
+
+are
+
+x,
+
+
+t]
+?in
+{Pia-1.1.- a:
+
+ 
+
+en?s?;
+
+ 
+
+ 
+
+APPROVED
+
+Cook County Health and Hospital Syste
+
+?5r
+
+ 
+
+ 
+
+Contract Item for Board Approval AUG 2 2 2008
+BY BOARD or
+OF THE COOK COUNTY
+Date: August I I. 2003 HEALTH AND HOSPITALS SYSTEM
+Sponsor: Julie Bonello
+- Chief Information Of?cer
+
+Operating Unit: Cook County Bureau of Health Services
+Health Information Systems
+
+Description of
+Service: This request is to enter into contract with UptoDate, an online
+
+clinical subscription service. Up?FoDate covers more than 7,400
+topics in 13 medical specialties and includes more than 76,000
+pages oftext, graphics. links to Medlinc abstracts, more than
+254,000 references, and a drug database. is the most
+widely used online medical reference service used by clinicians
+nationwide. This service also includes treatment recommendations
+based on the best medical evidence. Compliance issues impeded
+the timelyr approval of this contract.
+
+Justi?cation for
+
+this contract: This service allows clinicians access to current and accurate
+clinical information that helps institutions improve quality of care
+and increase patient safety. Our clinicians use this service daily.
+
+Cost of the contract
+and terms: This contract is in the amount of $76,335.00 with a duration period
+of two years, effective We tf2008 through 03i31i20l0.
+
+Budget Information: The cost for this contract has been provided for within the current
+operating budget for the Cook County Bureau of Health Services.
+Health Infonnation Systems in account 383.
+
+Signatures: .
+Sponsor A a ?hectic..- sf.)
+
+I 311i:
+Operating Unit CFO [4075? ?ag/L?
+
+CCHH Director 
+of Purchasing NOAH-A
+
+{new}.
+
+ 
+
+Em
+Operating Unit:
+
+mm
+Service:
+
+Justi?cation for
+this contract:
+
+ 
+
+Cook County Health and Hospitals System
+
+ 
+
+APPROVED
+
+AUG 22 2008
+
+BY BOARD OF
+
+Contract Item for Board Approval DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+Sidney A. Thomas
+Chief Operating Officer
+
+Provident HoSpital of Cook County
+
+I am requesting authorization to enter into a contract with Virtual
+Radiologic, Minneapolis, MN This contract is for the provision of
+
+tote-radiology services for Provident Hospital of
+Oak Forest Hospital of Cook County.
+
+Cook County and
+
+This service is required due to the limited number of radiologists
+on staff and the need for radiology reports 24 hours, 7 days a week
+to provide safe care to in- patients and emergency room patients.
+
+A Request for Proposals (RFP) was issued and Virtual Radiologic
+was chosen by virtue of thorn meeting all speci?cations.
+
+Cost of the contract
+
+and terms:
+
+This is a one year contract to commence on August 1,2008 and
+end on July 31 2009. The total anticipated cost of the contract is
+
+$583, 333. 32.
+
+Budget information: The cost for this contract has been provided for within the current
+
+operating budget for Provident Hospital of Cook
+Account 891-272 and Oak Forest Hospital of Co
+Account 398-272.
+
+ 
+
+ 
+
+Signatures: I
+
+.
+Sponsor (g diam
+Operating Unit CFO Mia?
+Director t. 
+of Purchasing Lined}:- 0.. 
+?mu?J ?rich
+
+COO
+
+l-Kfa n. 
+
+
+County In
+olc County In
+
+ 
+
+ 
+
+CONTRACT REQUEST FROM PR 
+HOSPITAL - - 22 2008 I
+7/13/03 - 
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+Requesting authorization to enter into a new contract with Virtual Radiologie, l?vlinneapolis1
+Minnesota, to provide mic-radiology services for Provident Hospital of Cook County and Oak
+Forest Hospital of Cook County.
+
+Reason: A Request for Proposals (RFP) was issued and Virtual Radiologic met all the
+requirements set forth in the RFP. The need for this senrice is due to the limited number of
+radiologists on staff and the need for radiology reports 24 hours a day, 7 days a week to support
+the provision of safe care to patients in our emergency rooms and inpatient at Provident Hospital
+
+and Oak Forest Hospital. (Date of the proposed contract is August 1, 2008 through July St,
+2009.) 
+
+Fiscal Impact: $216,666.68 (Fiscal Yr. 2008: Fiscal Yr 2009:
+Approval of this item will commit Fiscal Yeatfs) 2008-
+2009. (891-272 and 898-272 Accounts)?
+
+ 
+
+ 
+
+APPROVED
+
+. AUG '2 2 2008
+Cook County Health and Hospitals SysterL BY BOARD OF
+- DIRECTORS OF THE COOK COU
+
+ 
+
+HEALTH AND HOSPITALS 
+
+ 
+
+ 
+
+Contract Item for Board Approval
+
+Date: August 1, 2008
+Sponsor: Sydney A. Thomas
+Chief Operating Of?cer
+
+Operating Unit: Provident Hospital of Cook County
+
+Description of 
+Service: This request is to extend CC 06-72-3 5 9 from 728.308? to 1037/08
+
+for scavenger services, bio-hazardous waste with Medical Waste
+Solutions, Gary, IN.
+
+Justi?cation for
+
+this contract: - The expiration of the contract was TIQWDS. The new contract, 08?
+73-260 has a scheduled bid opening date of 81'13/08. Approval of
+this request will allow continued scavenger services for Provident
+Hospital, Near South Clinic and Englewood Clinic until the
+evaluation, award and implementation of a new contract.
+
+Cost of the contract
+and terms: This original contract was Cook County Board approved on
+7f24!06 in the amount of $274,657.? 6.
+
+Budget information: Suf?cient funds are available to meet the requested extension
+
+period of this contract for Provident HoSpital. Near South Clinic
+and Englewood Clinic in Account 215.
+
+Sigpatures:
+
+Spenser
+
+ 
+
+Director r;
+of? Purchasing
+
+COO
+
+ 
+
+ 
+
+OFF ICE. OF THE. COUNTY CLERK - CLERK OF THE BOARD
+
+AGENDA TRANSMITTAL FORMIREQUEST FOR BOARD MEETING OF
+Using Agency: Bureau of Health Services Dnte: solos Purchase Requisition No;
+
+This Form must be used to place business transactions (itemized below) on the agenda for the COOK COUNTY
+BOARD OF COMMISSIONERS. questions must be answered in order for your request to be placed on the Board
+Agenda. 
+
+ 
+
+1. Describe item (unmeiqunntily) or sen-ices requested: AP ROVE 
+
+Scavenger services. wrote for Provident Hospital orcmt; County
+
+2. Who! type oftronsnetion are you requesting? AUG 2 2 2008
+A. Advertise For bids [go directly'to question 5). BY BOARD OF
+B- 't Enter ?1110 a . DIRECTORS OF THE COOK COUNTY
+C. Renewal ot?esisting contract: HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+You may check more than one of the following it'npplicahte.
+D. ?1 Increase dollar amount ofexisting contract.
+Ii. (X) Extend time period on existing contract.
+
+3. Hyatt checked EB through 2E, you must complete all the following questions:
+A. Vendor name and address:
+Medlenl Waste Solutions
+PO Box 
+Gary. Indiana
+[?t-em rm: requesting to enter into contract with er My company or individual. you mutt erpiuin why this company or
+individual is #:1393355 one capable lilo produrls or son-ices. Likewise. you must :rpiain why a roun'nl or extension is
+
+"commit in Her: ofh'bide'ing:
+
+B. Reason:
+
+The increase and extension is required to provide continued scavenger sentient; for the removal of biuhmrdous waste materials
+from Provident llospilnL Near South Clinic and Clinicpending bid. evaluation and award ol'lhc new controottControct
+The dole ofthc current contract is Suf?cient funds have been encumbered against lite cont-net
+award to meet the requested extension period.
+
+It. It you checked K: through 2E above, you must complete the following:
+Contract NIL: 06-12?359
+Amount of original llourrl approved contract: 
+Board approval Dntet- moor. Bid Report
+5. Expiration date of current contract toms
+Dates of proposed contract (if applicable); from: 'li?zlt'os to: worms
+6. Fiscal Impact: Sonoo Budget Account: 0900901520060 890-215
+Account Description: Scavenger Services
+A. Amount of new contract increase: 500.00
+B. Amount of above applicable to initial ?scal year: $00.00
+Name: David It. Email, F.A.C.H.E. . Phone:
+Title: Chief Operators O?iecr
+
+Bureau of Health Services
+Signature:
+
+ 
+
+{If there are insuf?cient funds nvoi'loble in the indicated budget account. please complete the reverse side. per request of the President ol'tltc
+Board.) -
+
+ 
+
+Cook County Health and Hospitals System
+
+Contract Item for Board. Approval
+
+ 
+
+APPROVED
+
+Date: August I, 2003
+Sydney A. Thomas AUG 2 2 2033
+Chief Operating Of?cer
+cou
+Operating Unit: Provident Hospital of Cook County . HOSPITALS SYSTEH
+
+ 
+
+Description of
+Service: This request is to extend CC 06-53-363 from 6f6f08 to 92?5f08 and
+
+increase by $40,000.00 for Maintenance Repair of the boiler
+system with Advance Boiler Control Services, Crown Point, IN.
+
+Justi?cation for
+
+this contract: The expiration of the contract was 65.108. The new contract, 08-
+83~249 opened for bids on HIDE. Approval of this request will
+allow continued services for the boiler system until the evaluation,
+award and implementation of a new contract.
+
+Cost of the contract
+and terms: This original contract was Cook County Board approved on 6l6l08
+- in the amount 
+
+Budget information: The cost for this contract has been provided for within the current
+operating budget for Provident Hospital of Cook County in
+
+ 
+
+Account 450.
+Signatures: .
+Sponsor A - 
+I 
+Operating Unit CF 0
+
+   
+
+Director
+of Purchasing
+
+ 
+
+COO
+
+ 
+
+OFFICE OF THELCOUNTY CLERK - CLERK OF THE BOARD
+
+AGENDA TRANSMITFAL FDWEQUEST FOR BOARD MEETING 01"
+Using Agency: Bureau ufl-lcalth Services Date: 4on3 Purchase Requisition Nth:
+
+'lids Form must be used to place business transactions (itemized below) on the agenda for the COOK COUNTY
+OF COMMISSIONERS. 51L questions most he answered in order for your request to be placed on the Board
+Agenda.
+
+1. llescrihe item (namefquantityl or services requested: APP ROVE 
+
+Maintenance and repair. Boiler system for Provident Hospital ot'Cook County
+
+ 
+
+AUG 2 2 2003
+
+2. What type of transaction are you requesting?
+
+Advertise for bids (go directly to qucgstion 5). BY BOARD OF
+Enter into it connect. I DIRECTORS OF THE COOK COUNTY
+Renewal ofcxisting contract: HEALTH AND HOSPWALS SYSTEM
+
+ 
+
+A.
+You may check more than one ofthe following 
+
+D. (X) Increase dollar mnount of existing contract.
+
+E. (X) Extend time period on existing contract.
+
+3. 11' you checked EB through IF). you must complete all the following questions:
+A. Vendor name and address:
+Advance Boiler Control Services
+
+3730 Cline Avenue
+Crown Point, in
+
+[?uent arc room-sting to enter into a contract with a {Mile compel-9? or individual. 1m: mart eat-pinto why title ?05?qu or
+individual it the ante one ccpobt?c oj'rapplying the products or sci-weer. Likewise. you mart malaria why a renewed or era-taint: it
+accuser}.- in that: ofrcbiddt'ng:
+
+B. Reason:
+'l11e increase and cioeosion is required to provide continued maintenance and repair services for dieboiler system equipment pending.
+hid. evaluation and award or the new contrart(Contraet 08-33-249. bid open The expiration date ot'tlrc current contract is
+
+
+4. lfyou checked 2C through 2E above-Jon must complete the following:
+Contract No: 06-53-363
+Amount of original Board approved contract: monsoon)
+Board approval Date: Home
+5. Expiration date of current contract (If applicable): oracle
+Dates of proposed contract (if applicable); from: atoms to: 9t5toa
+a. iseai lmliact: snouoono Budget Account: 3900 540360 390?150
+Account Description: Repair. Building d; Institutional Equipment
+A. Amount of not-r contract increase: $40,000.00
+8. Amount of above applieuhle to initial ?senl your: 
+Name: David R. Small. Phone:
+Title: Chief Operating Officer
+
+Bureau of Health Services.
+Signature:
+
+{if there are insut'?cient funds available in the Indicated budget account. please complete the reverse request of the President or the
+Board}
+
+ 
+
+ 
+
+APPROVED
+
+AUG 2 2 2008
+
+BY BOARD OF .
+OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+Cook County Health and Hospitals System
+
+ 
+
+ 
+
+Contract Item for Board Approval
+
+Date: August 1, 2008 
+Sponsor: . Sydney A. Thomas
+Chief Operating Of?cer
+
+Operating Unit: Provident Hospital of Cook County
+
+Description of
+Service: This request is to extend CC 06-53-36] from to 101?1 1/03
+
+and increase by $50,000.00 for Maintenance Repair of the
+cooling tower system with Anchor Mechanical, Chicago, EL.
+
+Justi?cation for
+
+this contract: The expiration of the contract was 7H ?03. The new contract, 08-
+72-251, has a scheduled bid opening date of Approval of
+this request will allow continued services for the cooling tower
+system equipment.
+
+Cost of the contract - 
+
+and terms: This original contract was Cook County Board approved on 6f6i08
+in the amount of $139,000,100.
+
+Budget information: The cost for this contract has been provided for within the current
+
+operating budget for Provident HoSpital of Cook County, Account
+450.
+
+Signatures:
+
+Sponsor {ii ?44; A i lam?4.;
+Operating Unitcro WM
+
+Director 
+ofPurchaSin {41%
+. Ira
+
+.- n. 
+
+COO
+
+ 
+
+OFFICE OF THE COUNTY CLERK- CLERK OF THE BOARD
+
+AGENDA FOR BOARD MEETING OF
+
+Using Agency: Bureau of Health Services Date: drains Purchase Requisition No.:
+
+This form must he used to place businesa transactions {itemized below) on the agenda for the COOK 
+BOARD OF COMMISSIONERS. ?que?tions must be answered in order For your request to be placed on the Board
+
+ 
+
+APPROVED
+
+1. Describe iteu: (nameiquantity) or services requested:
+
+ 
+
+Maintenance and repair, cooling tower system For Provident Hospital ol'Cooit County
+AUG 2 2 20 [18
+2. 'Whnt type are you rcqueatiug'!
+AdvertiSe for bids (go directly to question COUNTY
+Enter in?) a HEALTH AND HOSPITALS SYSTEM
+)Rencwat of existing contract;
+
+You may check more than one of the following ifeppiicablc.
+(X) increase dollar amount of existing contract.
+
+A.
+
+B.
+
+C.
+
+D.
+
+E. Extend time period on existing contract.
+
+3. "you checked '28 through 2E. you must complete all the following questionn:
+
+A. Vendor name and address:
+
+Anchor Mechanical
+ZIS South Aberdeen Street
+Chicago. Illinois
+
+from are requesting to enter into a contract with a sggj?g company or individual. j'tm mutt entrain win: this company or
+t'rttiiuitiuai is the only one capable the products or service-r. Lila-win: you must erpiain wire a renewal or attention is
+necessanr in firm 
+
+B. Reanon:
+
+The increase and extension is required to provide motioned maintenance and repair service: for thecooling tower system equipment
+hid. evaluation and award of the new 03-72?251. hid open the expiration date of the 
+Is in Unit.
+
+4. It" you checked 2C through 2E above. you must complete the following:
+Contract NIL: 06-53-36]
+Amount of original Board approved contract: 930,000.00
+Board npproul Date: water.
+5. Expiration date of current contract (if applicable): not
+Dates of proposed contract (if applicable): from: mama to: 
+o. Fincnl Impact: ssonoouo Budget Account: soon .saoroo coonso
+Account Description: Repair. Building, a. institutional Equipment
+A. Antnunt ol?new contract increase: 550.000.00
+B. Amount of above nup?cahle to initial ?scal year: 550.000.00
+Name: David R. Smell, F.A.C.H.F.. Phone:
+Title: Chief Operating Of?cer
+
+Bureau of Health Services
+Signature:
+
+ 
+
+(litherc are insul?cient funds available in the indicated budget account, please complete the rcucrsc side, per request ot?lhe President ct?the
+Board}
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm STRUGER Fax MEI. 1 312 864 9763 Rug. a1 2225 11:41am P1
+qu-UJ idtU-l 
+C001: County Health and Hospitals System AUG 2 2 2003
+. BY BOARD OF
+. mm? It? hard DIRECTORS OF EHsElg?l-t scum
+I David Fagus 
+ChiefOpm?ngO?m
+
+WHcahh WofCook Commty
+
+- 
+
+
+
+mo??nalmquestwasCookConnty
+Elam #10.
+
+ 
+
+ 
+
+Quit ofthe mm
+
+Hammad 1121111
+
+8510, 0110.00ch 000 00
+
+cm
+0114:2111:ng for Cum}: Health Swim ofCook Comty,
+19113111240442.
+
+513011301? 
+
+DpuntingUuitCFO
+
+
+
+
+CCHI-IB COO
+
+ 
+
+ Attachment 3
+
+Month End Closing Schedule
+
+ 
+
+ 
+
+5. my?: me 20GB .
+.Fil; Iaca?an: - I -?\Ducumermard Samngs?l?l'emparary Internet xlsP-IE Shawn-1003
+Day of an:- Week bane Axe-lg: to 57am
+Ian BUM-55 day Ff month allanday. 30. 2063
+Quill-u! Day I deaf, July 01, 20M ch'od' wdufld: sub mini-n interfaces-AP Elm-'31. PO Pf 1mm
+Business Day 2 Wednesday. July 2005 accruals a mirth
+Bur-I'm Day 3 My. Edy 03, 2003 Rum-e review muting-1M?
+Businnabuy4 My, deem}:
+Bus-5m: Day 5 Tuesday, July 03. zone Exp-me review-AM Balm Shae? review-PM
+Jun: clued "end of 511! day
+Business hey a Wednesday. July OP. zone EL Signa? ?le Hoard Repar'r gen-ration
+am my 7 ?ll-salary. July 10. 2003 new: a. Comment: by we mm:- a are
+Bu?n?: Dar 3 Frlday. July 11. zone Ann 10 mail apart: fa Flnanaa Mammal
+Business Day 9 ?and?. 'July H. ma
+Business Day 10 Tuesday, July 15. 2006 Hm Comamu
+Business Day 11 
+Bechtel any 12
+
+Ex: Eager-s 5mm each
+mat-d accruals from 4MP baskin-
+and Check journal errar recycle (SEE Queryl E_Header_5fa1us" for N. E, or efai'us entries)
+
+Assign 1a eh af-f'tdara when complete
+La." day of month . Malay. June 3-0. 2006 Ingrid Ensure standard JEI generated (?penny and templeze]
+Susan Vaid cheek: in system befere [an AP pas-r
+JIP completes lm pus-tang mun be dare befare PD ml jab run-a on Day!
+.I. . deck for unpasted muehusxenrreei maker: 1 run mlpas'l?lngjab 1 redneck far urea-tea wand-nary. figure match
+
+at all BLburin-ess units-?Mummy periad should be open. In 5.9: :l-c period far all categories
+M1e.?f EL am Is not awn for rev.- pu-md. alunAP checks run 1hr. new mn1h1hey will POST Ta the prior- mar-1hr
+Mm, irmn?lary the rewmaalhwiil page fa 1he marl; bell-g closed
+_in AP. apen ne- ancaunhng period, last should be clased?l let AP luvaw can nawkey
+this step :hauld be done after EL has been opened for the new penad. (name you mllgere mag
+Run AP in j?u'l'?l gem'larndI-eck far we Inter-laud APlinu-??lauld nut wet fuchapie?mrib?ams: a?el-
+
+ 
+
+Inga-Id rem-face run. no ?nes resulmd Ir. maeeufel
+
+Nan-qr balance AP vouchers eu'lsfand'ing nepa?' (qua-I; ra balance a! 6L accoun'l 2000
+
+
+Bab pas? 1M entry for email: end {see patient ?taunting min-{ace unstrucrsam)
+
+Bah Run SDK mph-Fr:
+
+?ab haw-cc system rep-arr: ta intern: and bulume sheer azcoqnl's
+
+Heath End Gluing Schedule
+
+Iii-grid
+
+Irgrid
+
+Ingrid
+Ingnd
+
+ 
+
+ 
+
+Run inventory balance neparnuall El pin-mate Inventorie?eheck againil EL after-interfaces run
+
+:11:ka unpasted linea?irun journal gamut-ll recheck-Mid aTm be done every day during clam: but da no? Inlet-fame
+until the fella-ding month-do an accrual instead
+
+Il' there are lit-es. need to run jaumal generative fr :he period cave-red"
+danlyuuta interface does not pick up pricr dares; else the last- day af the marsh may not have recessed fab-ck an int Eu;
+0mm. ?500
+
+prepare 9  imam-y mmpar'isan report ?i review with Libby 'i acquit 6L :f indium-ea!
+
+shauld? receive 10 auto that pa 4. receive.- alas: messes all ran successfully
+
+PO -nun praaeas to receipt: (accrual is autamated in PD system, has ta be run ta El. manually by jbuf'ml generator)
+Feb PO prams: nan 
+
+Balance Sheet reean far account 200640 cannula-"reams af 
+
+Macy Balanee Sheet reaan far- INV accrual [2001} (ahauld equal Int-entry oper? and received bul- n-at matehed ta AP
+In result: of Query lack for linel canning 1a are 200th send ta air-em far
+correction. receiver's need in be corrected
+
+
+
+Ruth Should have nut last day af math see run Depreciatian Elm
+
+Ruth . ahauld have run last day af manth See interface all entries to EL a. past
+
+Ruth shauid have run Ida-ref with sea Charge A?awaunling period one all entries have inlet-faced
+
+Ruth cl Libby Review Depreelafian entry-lemme
+
+Ruth pull reports balancing FPE a LIP accounts. inc acaum dean:
+
+WW
+
+Team til-neck fai- tmpa?ad Journal entities
+
+Nancy ?eck-ring errn-I'a pasted:
+
+
+
+11'ng Depending an tin-Ling. balanelng for pan-all and pan-all accruals may acm- any clay during elase.
+
+Day 2 Wadi-lucky. ill-'ulgiiI DE. 2003 Ingrid Reclass Cradle ,Plltaernacy. eh:
+Cheek-3.9 may run PO enema!
+
+only 1 Flun in P0 accruals before end of day: this assure; thaf PO will accrue far end af manth even If a voucher Ia matched 156: et.
+
+Laura TMC cash entries by end af day 2 so rev-ewe workup?: dan?l change. especially clearing accounts.
+
+After interludes complete, run EL Activity reparl' (process I?lluff?br?p?'hgl activity rep-art) far the
+ap?l'lanal marl-?t See file in open with excel and save to FianLleraru as ails file.
+Ingrid Receive 5% stats and lnfa from SPE admin.- starl- SPG anti-let
+Laura Valid-per Enl?e: reennciled by Eleven: Meeting premium at until
+
+Day 3 Thu-Idem July 03. 2036
+
+Laura Miscellanea: I'm-rue Entr-ea by an! af clay
+
+Iagna? Cheri: "law-chasm far- all ?rental ml:
+
+Ingrid dice}: inventor-f lines nus Interlaced ta eraune m1 material
+
+Susan FrankW?hvl-lia
+
+by new Meeting: Update 
+By Rename ?eeting- lhmtameieme and canlmmu' aadiustments
+
+Bay 4
+
+Inn-any. Juiy or, zoos
+
+Month End closing 
+
+Bob
+
+Susan 
+Susan 
+Susan: 
+Bah
+
+moon!
+Swan Frank
+
+Ingrid
+
+Ruih
+
+Libby
+
+Ingrid
+?ocl'ich?i?rcm
+
+Bob
+
+Ecru no longer win-w
+
+orcanrl-if grabs. 15 and: tin: fa mum-ad for board rcpur'ls Luhhy
+
+bay?
+
+
+
+3min": Day 7
+Rosin-cc: Day 8
+Bus-inns: Day 9
+
+Tucsdoy. DB. 2N3
+
+wmmy, July o9, zone
+
+at??
+
+Ingrid monitor physicoi
+Ingrid
+
+oL. Tum, cFo, cumin Baden on-
+
+EL. Tm. CFO. War. Bucigcf Din
+
+now
+
+can
+Libby?iIrgricl
+6  Tm
+
+
+Libby
+
+Rolifomord died-L
+
+Libby
+
+
+oval-yon:
+Ingrid Bob
+
+Income Stamper?, AR Aging, uni moor-1' .. Ad} P: day figwc?orh +o Nc?. mporfJ-iospicg nntriasxruporis. our? for It?
+91 accoun'ls last no poi]. Update 'lrud for
+
+nu: um "Socr?o on a
+
+post ncbicw: Hospital if required
+
+Bordfdash arm-1c:
+
+E-hor?crm voiuorion
+
+Erbium Swap
+
+Easinrh arcao'io storm n1: for prior up If no? cocci-Ed
+[Ra-class] PPU expanse coco-uni
+
+Mani-lam Trus?l Emu-51mm En1rics
+SPG campiated
+
+Dwuio?on ravioli with Libby if not done all-and?
+
+acne?: ?ipph' Emu: cs?mo?rc prior to on Friday
+
+2:00 pm - review Agency micron-no:
+
+Stan dun WE 1o 6L [upload]
+
+Yard! a Ens-rm Arcadia
+
+Several-ac MW
+
+Pooch?:
+
+Foundation ant-nu, inc zeroing unrc?n'c'l'cd net users
+
+6mm enirb'cs
+
+W5 can-y for Phi-mow 
+Load 31m fiiu?pn'lh: Process Load EOM memioodnum TMMcamE-dhauld pr
+m: - 1P a DP Humor? Printing. Food Sal-rim, CCRS. DDT. 6cm Procusing.Ccn1Mi Supply
+
+- EEG: to a W, Ambulatory Sugar-f to OR. Courier 1a Laundry buimclmouia a bus pasccs
+
+Pharmacy Inventory odjt?imcnes
+
+check for uninfarfocad ins-minty past accrual if significan'l
+
+11am Eton-m Ruin:
+
+491: among am 511m 
+
+Bohncc Shc?b-rutnf: Fo'n fund balana: by rc?nctlon . ck income rollforw-d, also ck budget for mo. rid
+verify accu-ucy of budg? In P5 v: Board approved
+
+Balance. Shea!? run-r osscf rolifornord. tun-em- your Home. :ollfum??d. also ck budge? for mon?d
+
+?l 1l' .1 It3.-
+Euquu-r 15 {call Halo Duh} 'l?o nzw: "Mm?l cm? dual-imam! mourn? 11c. Exp-cm Rap-on.
+frond rayon-1. Emu-o! Lung-r- and!
+
+ 
+
+Notify Dorothy. ond Rochnl Damion-cl: for FE. and con be run for month
+
+Tm 1:20.000 in Illa-I'll! Eiid?oc-a: a ?mm? on. from! rep-on aln
+EL sign-off filo Board mm animation: Board a. Poul-palm mum: pay:
+
+Mr. July 10, 2006 Export: 5. Gannonnf: Ruin-Md by Conirollcr, Buds-:1 bit-Idol- CFO
+
+Friday. July Ill. 2006
+Monday. July 141 2:10!
+
+Jan: 1'9 "Id? 10 Cornml?aa
+
+ATTACHMENT #4
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+HOSPITALS 5?!st
+
+CONTRACTING AND PURCHASING UPDATE
+
+I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+magnammumhd?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+  
+
+. couuw HEALTH AND
+Ham-mu: SYSTEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ammbuumrmm
+?lm? tun-uni
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+I
+
+
+
+
+
+12' EEC 
+.
+
+.. ?dd--4 - -
+I I - 
+nun-ham 
+
+all-mm
+
+I
+
+hm?? m-zm-n 
+In
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+us?rst 111 Board and Hospital Designeeslsgifo
+a GPO selection committee 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SYSTEM
+
+KCOUNTY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- .. --
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+    
+
+'crease patient satisfaction
+
+COUNTY HEALTH AND
+I SYETEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ltv. sif Massachusetts
+rt! Health Services
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attachment 5
+
+DEPRECIATION 
+
+1. Oak Forest and Provident use the Straight Line 
+Method. -
+
+2. For FY 2Q07 oak Forest Depreciation is $3,715,497
+and Provndent IS $2,404,793.
+
+5. Both Oak Forest and Provident. the amounts are
+directly assigned In_ the Cost Report under "New
+Capital Costs and ?xtures" and "New
+Capital Costs Movable Equment."
+
+4. Stroger _uses an accelerated depreciation method for
+calculatmg DepreCIatIon Expense. 
+
+DEPRECIATION (cont'd)
+
+5. In FY 2007 under this method on the Financial
+Statements for Stroger. ACHN and CORE the amount
+is $52,439,773.
+
+6. Medicare only accepts a Straight Line Method for
+DepreCIatIon Expense.
+
+7.. The Straight Line Method of Depreciation in FY 2007
+for Stroger totals $33,384,495 and IS added to the
+Cost Report as an under New Capital
+Costs and Fixtures" and "New Capital
+Costs Movable Equupment."
+
+MALPRACTICE
+
+. 1. Malpractice is recorded in the Financial Statements
+for any of the Institutions.
+
+2. It is added as an expense adjustment for Fringe
+Bene?ts on the "Administrative and General" line
+in the Cost Report.
+
+3. The total amount for Stroger ACHN and CORE is
+$28. 587 318
+
+4. The amount was given to the hospital from
+County's Risk Management Department. lt' IS the
+actual cost of Malpractice Cases in FY 2007.
+
+- MALPRACTICE (cont'd)
+
+5. $9,529,106 ofthe total Malpracticecosts are 
+conSIdered Part or the portion and is
+derived from actuarial studies.
+
+6. The amount for Part is entered into a section
+where it IS removed from_the Cost Report leaving
+iust the Part or Hospital Costs or Malpractice.
+
+7. Oak Forest and Provident do not report any
+
+- Malpractice Costs on their ?led Cost Reports.
+
+INTEREST
+
+1. Bond Interest is not recorded in the Financial
+Statements for any of the Institutions.
+
+2. All the amounts of Bond Interest are netted from
+any Bond Revenue per CMS instructions.
+
+3. Net Bond Interest in FY 2007 for Stroger is
+26,673,414 and oak Forest is $508,452.
+4. Provident does not have any Bond Interest.
+
+5. Stroger and Oak Forest add the Bond interest as an
+added adjustmentto their Cost Reports under New
+Capital Costs Buildings and Fixtures".
+
+PENSION EXPENSE
+
+Pension Expense in FY 2007 for Stroger, ACHN and
+CORE is $61.130,708.88. . -
+
+Pension Expense for oak Forest is $12,393,375 and
+Provident is $10,277,026.
+
+For all three Hospitals the amount is in the . 
+FinanCIal Statements, 0ak_ Forest and Provmlent
+the amount IS directly to Employee
+Benefits In the cost Report;
+
+Stroger USES a business unit titled "General
+Administration" which flows in Administrative
+and General" in the C051: Report.
+
+A reclassification is made in the Cost Report from
+"BAdgillgistratIve and General" to Employee
+en .
+
+ATTACHMENT #7
+
+ 
+
+ERP System Selection Update
+
+Finance Committee
+
+Board of Directors of the Cook County Health
+and Hospitals System
+
+Monday, August 18, 2008
+
+. .
+
+An enterprise resource planning solution
+
+System will support all enti
+Move quickly, general financials highest priorit
+May include other applications
+
+ 
+
+ 
+
+End-to-end integrated processes Human
+
+. Resources 
+
+I Integrated 
+
+            
+
+Application-centralized solution
+ln-depth financial reporting
+
+ 
+
+Business Process
+
+Areas
+Asset
+Management 
+
+Data entry standardization
+
+Fiexible deployment of
+business processes
+
+     
+       
+
+ 
+
+Minimal data manipulation 
+
+(interfaceS) Purchasing
+
+Management
+
+is
+
+.- K5. 
+
+Decision support, performance management, and human capital management
+
+August 18,2008 A 9
+
+ 
+
+Material available
+for treatment a. 
+
+ 
+
+ 
+
+Documentation
+
+WARD, DEPT Material requisition . .
+Iota, senaitzeci part-3)
+
+ 
+
+.
+MM, STORES Purchase Inventory Goods receit I .3209? and - ..
+order Reservalion ?en-Stooki?atertela 
+Pos?ng
+5 Buying via .
+Web-Services
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 August 18, 2008 A 5"
+
+Standard Selection
+Process
+
+- Generally includes the following phases:
+Organizing the project
+Current state assessment/workflows
+Future state design determine best of breed functionality list
+4 Develop, distribute evaluate RFP responses
+Demonstrations
+Final Due Diligence, Site Visits
+-- Selection and Contract Negotiations
+
+- Best case timeframe 6 months; likely longer for 
+
+- Standard selection process may not be the best for several reasons:
+
+With ERP the ?modular features and functions? must take a back seat to
+
+selecting based on the overall integrated process improvement
+objectives
+
+?There are only a few ERP vendors that capture the healthcare market
+due to their healthcare capabilities.
+
+?-Enough information may exist to define a very streamlined
+process.
+
+ 
+
+
+
+August 18, 2008 A 
+
+ERP Market Penetration
+
+ 
+
+In 2007, HIMSS reported 962 healthcare 
+installations
+
+Lawson represented 40.7% or 392 active
+implementations
+
+PeopleSoft/Oracle represented 13.6% or 131 active
+implementations
+
+SAP represented 11.6% or 112 active implementations
+
+All other active implementations were less than 34.0% of
+the total market
+
+. exclusively focused on providing global leadership for the
+optimal use of healthcare informatiOn technology (IT) and
+. management systems for healthcare.
+
+August 18, 2008 A 
+
+Total Cost of Ownership
+
+(software, hardware, internal staff, professional eve, post-implementation)
+Relative TOO/Annual Revenue (.56 -- 1.75)
+
+ 
+
+ 
+
+Average
+
+Revenue . $2.388 $1.83 $2.988
+of client base
+
+ 
+
+SUITE) 
+Implementation 75% 85% 83% 60%
+
+1 Year Post -
+Implementation
+
+2 Year Post 
+Implementation
+
+ 
+
+ 
+
+13RELATIVE 
+
+Average 58% 1.38% 1 .75% 1.27%
+Tier 1 (>200M -
+
+er 2nd 3rd 6th . 5th
+
+Tier 2nd 4th 1st 5th 
+18! 2008 Source: MetaGroup i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Cost of Ownership
+
+(continued The Aberdeen Study 2006, manufacturing
+marketplace)
+
+ 
+
+Most companies can not measure accurately internal costs, so they
+were excluded in the survey of 689 respondents.
+
+Five ERP vendors (lnfor Lawson QAD Oracle and SAP) were
+evaluated.
+
+Findings: (only reporting findings of ERP vendors in the healthcare
+market
+
+Software cost per user: Lawson is #1 avg #users 195),
+SAP $5,995/user, Oracle $4,816/user)
+
+Highest number of modules used: SAP and Lawson tied #1
+Most functionality utilized SAP is #1
+Cost per percentage point of functionality used: Lawson is #1 -
+
+August 18, 2008 A 
+
+ 
+
+Selection Approach
+
+Objective: Quickly select a vendor that can support best practice
+ERP processes.
+
+Strategy: Make the vendors do most of the work
+Approach: A customized and quick selection approach which may
+include the following:
+
+Limit the vendor ?eld. Are there immediate elimination criteria?
+
+Slim down the ?features and functions? highest priority and health care
+specific
+
+De?ne business process improvement objectives by module
+
+Ask the vendors to supply their best practice business process redesign
+(BPR) ?ow for each business objective.
+
+Once the BPR flow is finalized to support each vendor will
+demonstrate their software?s ability to adhere
+
+- A focus on new technologies in place to facilitate the process, the
+implementation process and overall cost.
+
+August 18, 2008 A 
+
+ERP Realizations
+
+ 
+
+9- lmplementation timeframe: dependent on the business process
+redesign but generally one to three years on average. Northwestern
+
+Memorial Hospital 3 years.
+
+- The cost: expensive
+
+TCO figures are the implementation ?gures, ongoing costs need to be
+determined
+
+Costs will continue ERP implementation is never done
+- Hidden costs
+
+Training Training is high for staff to learn new business processes
+along with the new system.
+
+Integration, Testing, Data conversion
+
+Internal and external re_sources_? inte rating your ERP recesses
+requrres outsrde expertise and Interna resources must In place to
+
+implement and maintain the ERP processes.
+
+- Recommended implementation approach one module at a time,
+financials are usually the first.
+
+.
+
+August 18, 2008 A -
+
+ 
+
+1O
+
+ERP Realizations at
+
+
+Defining our highest priority ERP processes will be difficult due to
+lack of standardization.
+
+Our ERP implementation broader than many health systems due to
+the breadth of our ambulatory environment. 
+
+Financial Materials Management and Human Resource systems
+have historically been provided by Cook County.
+
+As a result, there are NO resources within the IS department to
+support this project;
+
+IS resources are already low (71 employees);
+
+Gartner Research: 1 IS FTE per 56 non- IS employees (~7000/56- 
+~125 employees)
+
+Analytics: 0.21 IS FTE per staffed bed for facilities with Level 4
+EMR adoption (~650 staffed bedS" - ~135 IS employees)
+
+Appropriate staffing >125 IS currently at 50% staffing levels
+No training department, few training resources exist
+
+August 18, 2008 A 
+
+ 
+
+11
+
+In Conclusion
+
+- A significant one-time and ongoing financial commitment
+isrequhed
+
+- External resourcesare required to assist the selection
+process.
+
+- Additional resources are required in an entire general
+financial/ERP area within IS needs to be formed and
+staffed.
+
+- Additional resources are likely required in the user
+departments.
+
+- A training department is required.
+
+Thank You
+
+August 18. 2008 A 
+

@@ -1,0 +1,124 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY AND AUTOMATION
+April 13, 2009
+Recessed and Reconvened on April 15, 2009
+The Honorable,
+The Board of Commissioners of Cook County
+ATTENDANCE
+Present:
+
+Chairman Beavers, Vice Chairman Gorman, and Commissioners Butler, Daley,
+Goslin, Peraica and Schneider (7)
+
+Absent:
+
+Commissioners Moreno and Steele (2)
+
+Also Present:
+
+Antonio Hylton - Chief Information Officer, Cook County Bureau of Technology
+
+Ladies and Gentlemen:
+Your Committee on Information Technology & Automation of the Board of Commissioners
+of Cook County met pursuant to notice on Monday, April 13, 2009 at the hour of 10:00 A.M., and
+recessed and reconvened on Wednesday, April 15, 2009 at the hour of 9:00 A.M. in the Board
+Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois.
+Your Committee has considered the following items and upon adoption of this report, the
+recommendations are as follows:
+299712
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated February 23, 2009:
+requesting authorization for the Purchasing Agent to enter into a contract with
+ORACLE USA, INC., Reston, Virginia, for annual software maintenance
+services.
+Reason:
+
+Due to the transfer of licensing from Ciber, Inc., Contract No. 06-43575, the BEA Aqualogic Interaction and Studio software for the
+County Internet Portal project, and the subsequent acquisition of BEA
+by Oracle USA, Inc. $37,640.79 for annual software maintenance
+services and support for the Integration and Studio software
+components of the Portal is requested.
+Oracle USA, Inc. is the only vendor that can provide the maintenance
+service for this proprietary software. This software is used for the
+creation, maintenance and operation of the County web portal
+applications.
+
+Estimated Fiscal Impact: $37,640.79. Contract period: September 20, 2008
+through December 31, 2009. (009-441 Account). Requisition No. 90090006.
+Approval of this item would commit Fiscal Year 2009 funds.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE REPORT
+RECESSED ON APRIL 13, 2009
+AND RECONVENED ON APRIL 15, 2009
+PAGE 2
+*Referred to the Information Technology and Automation Committee on
+April 1, 2009.
+Commissioner Daley, seconded by Commissioner Schneider, moved the approval of
+Communication Number 299712. The motion carried.
+299722
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated March 23, 2009:
+requesting authorization for the Purchasing Agent to amend, increase by
+$820,675.72 and renew extend for one (1) year¸ Contract No. 06-45-207 with
+ORACLE USA, INC., Reston, Virginia, for annual software maintenance services
+for the Financial Management Information System FMIS.
+
+Board approved amount 11-06-07:
+Increase requested:
+Adjusted amount:
+Reason:
+
+$ 796,772.54
+820,675.72
+$1,617,448.26
+
+This software is used for the County’s accounts payable, accounts
+receivable, General Ledger, Fixed Assets, Purchasing and Inventory
+processing.
+
+Estimated Fiscal Impact: $820,675.72. Contract period extension: January 1,
+2009 through December 31, 2009. (490-441 Account). Requisition No.
+90120003.
+Approval of this item would commit Fiscal Year 2009 funds.
+*Referred to the Information Technology and Automation Committee on
+April 1, 2009.
+Commissioner Butler seconded by Commissioner Goslin, moved the approval of
+Communication Number 299722, as amended. The motion carried.
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speakers,
+in accordance with Cook County Code, Sec. 2-108(dd):
+1.
+
+George Blakemore – Concerned Citizen
+
+Commissioner Schneider moved to adjourn the meeting, seconded by Commissioner
+Goslin. The motion carried and the meeting was adjourned.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE REPORT
+RECESSED ON APRIL 13, 2009
+AND RECONVENED ON APRIL 15, 2009
+PAGE 3
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTERS NAMED HEREIN:
+Communication Number 299712
+Communication Number 299722
+
+Approved
+Approved as Amended
+
+Respectfully submitted,
+Committee on Information Technology
+& Automation
+
+____________________________
+William M. Beavers, Chairman
+
+Attest:
+
+_________________________________
+Matthew B. DeLeon, Secretary
+
+*The audio recording for this meeting is available from the Office of the Secretary to the Board,
+118 North Clark Street, Room 567, Chicago, IL 60602.
+
+ 

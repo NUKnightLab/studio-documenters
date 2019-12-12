@@ -1,0 +1,242 @@
+SEPTEMBER 23, 2010
+NOTICE
+
+There will be a meeting of the Information Technology & Automation Committee of the
+Board of Commissioners of Cook County on Wednesday, September 29, 2010 at the hour of
+11:00 A.M. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago,
+Illinois to consider the following:
+308440
+
+CLERK OF THE CIRCUIT COURT,
+Communication, dated August 5, 2010:
+
+Dorothy
+
+A.
+
+Brown,
+
+transmitting
+
+a
+
+requesting authorization for the Purchasing Agent to enter into a contract with
+AMCAD, LLC, Broadway, Virginia, for maintenance and technical support for the
+Imaging and Document Management System.
+Reason:
+
+AmCad, LLC is currently implementing a comprehensive Imaging and
+Document Management System within the Office of the Clerk of the
+Circuit Court. The vendor has proprietary rights to the system
+currently in operation.
+
+Estimated Fiscal Impact: $189,000.00. Contract period: September 15, 2010
+through September 14, 2011. (528-630 Account). Requisition No. 05281200.
+Sufficient funds available in the Circuit Court Automation Fund.
+The Chief Information Officer has reviewed this item and concurs with the technical
+aspect of this recommendation.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology & Automation on
+09-01-10.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+SEPTEMBER 23, 2010
+PAGE 2
+308604
+
+AMERICAN SURVEYING & ENGINEERING, P.C. (PROPOSED CONTRACT).
+Transmitting a Communication, dated August 11, 2010 from R. Steve Edmonson,
+Chief Information Officer, transmitting a Communication:
+requesting authorization for the Purchasing Agent to enter into a contract with
+AMERICAN SURVEYING & ENGINEERING, P.C., Chicago, Illinois, for the
+acquisition, establishment and maintenance of three (3) continuously operating
+reference stations.
+Reason:
+
+The selection of a vendor based on Request for Proposal (RFP) 10-501048P is to acquire, establish and maintain three continuously operating
+referencing stations (CORS). The award is being recommended based
+on American Surveying & Engineering, P.C.'s technical solution and
+expertise of the vendor's submissions who met all of the County's
+specifications.
+
+Estimated Fiscal Impact: $ 160,000.00 (FY 2010 - $125,000.00; FY 2011 $17,500.00; and FY 2012 - $17,500.00). Contract period: November 1, 2010
+through October 31, 2013. (545-260 Account). Requisition No. 05450029.
+Sufficient funds are available in the Geographic Information Systems Fund.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology & Automation on
+09-15-10.
+308605
+
+GARTNER, INC. (PROPSOED CONTACT). Transmitting a Communication, dated
+August 25, 2010 from R. Steve Edmonson, Chief Information Officer:
+requesting authorization for the Purchasing Agent to enter into a contract with
+GARTNER, INC., Fort Myers, Florida, for access to online research and consulting
+services.
+Reason: Gartner, Inc. provides a proprietary dataquest IT Market Coverage
+service that other researchers can not supply. These online services
+provide the Bureau of Technology with access to online research
+covering myriad technology topics and also addresses how technology is
+applied in all areas of the County's business.
+Estimated Fiscal Impact: $330,000.00 (FY 2010 - $200,000.00; and FY 2011 $130,000.00). Contract period: October 1, 2010 through September 30, 2012.
+(009-260 Account). Requisition No. 10090004.
+Approval of this item would commit Fiscal Year 2011 funds.
+*Referred to the Committee on Information Technology & Automation on
+09-15-10.
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+SEPTEMBER 23, 2010
+PAGE 3
+308607
+
+ELECTION DATA SERVICES, INC. (PROPOSED CONTRACT). Transmitting a
+Communication, dated August 18, 2010 from David Orr, County Clerk by Clem
+Balanoff, Deputy County Clerk:
+requesting authorization for the Purchasing Agent to enter into a contract with
+ELECTION DATA SERVICES, INC., Manassas, Virginia, for redistricting and reprecincting services.
+Reason:
+
+Election Data Services, Inc. is the only vendor who has technical
+expertise in elections redistricting with the resources and capacity to
+perform the following services for the County Clerk's Election Division:
+integrate updated U.S Census (TIGER) file with Clerk’s system,
+compare new Census files against the County’s Geographic Information
+System (GIS) files, document differences in street names and
+addresses; match Clerk’s voter registration file against latest Census
+file, cross-check and validate precinct assignments; convert final
+boundary files for post-re-districting precinct assignment; determine
+targeted areas and precincts for bi-lingual balloting; analyze the final
+voter address; and precinct assignment in the Clerk’s Voter Registration
+Management System for accuracy.
+
+Estimated Fiscal Impact: $198,000.00. Contract period: December 12, 2010
+through June 30, 2013. (524-260 Account). Requisition No. 15240006.
+Sufficient funds are available in the County Clerk Election Division Fund.
+The Purchasing Agent concurs.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology & Automation on
+09-15-10.
+308609
+
+MAJOR SCALE TECHNOLOGY MANAGEMENT (PROPOSED CONTRACT
+ADDENDUM). Transmitting a Communication, dated August 25, 2010 from David
+Orr, Cook County Clerk by Clem Balanoff, Deputy County Clerk:
+requesting authorization for the Purchasing Agent to amend, increase by
+$900,000.00 and extend from October 15, 2010 through December 31, 2012,
+Contract No. 08-41-192 with MAJOR SCALE TECHNOLOGY MANAGEMENT,
+Chicago, Illinois, for information technology services management (ITMS). (See
+related Item #44).
+Board approved amount 03-18-08:
+Increase requested:
+Adjusted amount:
+
+$1,500,000.00
+900,000.00
+$2,400,000.00
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+SEPTEMBER 23, 2010
+PAGE 4
+Reason: In August 2010, the County Clerk Election Division issued a Request for
+Qualifications (RFQ) for information technology services management,
+and Major Scale Technology Management was the only qualified
+respondent.
+The negotiated increase in Major Scale Technology
+Management’s contract includes provisions for the following RFQ
+qualifications: Election Technology Consultation and Sequoia Voting
+Systems Contract Management, Election Technology Consultation and
+Election Software and Systems Contract Management, Web-Based
+Application Infrastructure Project, Technology and Application Support
+Infrastructure Analysis and Possible Implementation, Information
+Technology Services Contract Management and Forensic Analysis
+Contract Management.
+Estimated Fiscal Impact:
+$900,000.00 [FY 2010 - $800,000.00 - (524-260
+Account); and FY 2011 - $100,000.00 - (533-260 Account)]. Contract extension:
+October 15, 2010 through December 31, 2012. Requisition Nos. 05240001 and
+15330002.
+Sufficient funds are available in the County Clerk Election Division Fund and in the
+County Clerk Automation Fund.
+The Chief Information Officer has reviewed this item and concurs with this
+recommendation.
+Vendor has met the Minority and Women Business Enterprise Ordinance.
+*Referred to the Committee on Information Technology & Automation on
+09-15-10.
+308610
+
+OFFICE OF THE COUNTY CLERK – TRANSFER OF FUNDS. Transmitting a
+Communication, dated August 12, 2010 from David Orr, County Clerk by Clem
+Balanoff, Deputy County Clerk:
+requesting approval by the Board of Commissioners to transfer funds totaling
+$500,000.00 from Account 524-240 Printing and Publishing to Account 524-260,
+Professional and Managerial Services for IT support and project management
+services for the Clerk’s Office. (See related Item #43).
+Transfer of Funds from Account
+
+524-240
+
+Total
+
+$500,000.00
+
+Transfer of Funds to Account
+
+524-260
+
+Total
+
+$500,000.00
+
+1.
+
+On what date did it become apparent that the receiving account would require
+an infusion of funds in order to meet current obligations? What was the
+balance in the account on that date, and what was the balance 30 days prior
+to that date?
+
+ INFORMATION TECHNOLOGY & AUTOMATION COMMITTEE NOTICE
+SEPTEMBER 23, 2010
+PAGE 5
+The need for a transfer of funds became apparent during April of this year.
+The account balance on April 12, 2010 was $416,116.00. This amount was
+unchanged from the balance 30 days prior to that date. However, it was
+determined that increased funds would be required for Information
+Technology Services Management before the end of the fiscal year.
+2.
+
+How was the account used for the source of transferred funds identified? List
+any other accounts that were also considered (but not used) as the source of
+the transferred funds.
+More printed items were returned in the Voting Supply Carriers from Election
+Day than anticipated thereby reducing printing costs.
+
+3.
+
+Identify any projects, purchases, programs, contracts, or other obligations that
+will be deferred, delayed, or canceled as a result of the reduction in available
+spending authority that will result in the account that funds are transferred
+from Account 524-240 Printing and Publishing.
+None.
+
+4.
+
+If the answer to the above question is “none” then please explain why this
+account was originally budgeted in a manner that caused an unobligated
+surplus to develop at this point in the fiscal year.
+The budget provided for more reprinting of election materials than were
+ultimately required.
+
+* Referred to the Committee on Information Technology & Automation on
+09-15-10.
+
+____________________________
+Matthew B. DeLeon, Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Beavers
+Gorman
+Butler, Daley, Goslin, Moreno, Peraica, Schneider, Steele
+
+ 

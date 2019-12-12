@@ -1,0 +1,3066 @@
+150 Bagley, boundaries  of 
+building  and associated 
+parking  lot 
+
+150 Bagley, theatre 
+wing proposed  for 
+demolition 
+
+150 Bagley, entire 
+building   
+
+ . 
+erght . 03%
+
+a:
+
+Park Avenue
+Local HD
+
+
+
+150 Bagley
+
+
+
+
+
+ebb
+
+erhinan Rnildinn
+
+Grand Circus Park
+
+ 
+
+lffal HD . 5 GranUd Vall 
+tote 
+c) Detron Con 
+36?
+yo
+. - Madison 
+
+o;
+520? 
+I): jr?L: 
+
+5* 6) Lower
+
+. Woodward
+r44 HD Local
+I
+.
+00 I
+mg Broa
+Sta :0's" 0. 53
+
+  
+
+ 
+
+DECEMBER 26, 2018
+
+UNITED ARTISTS THEATER 150 BAGLEY
+STREET STRUCTURAL INSPECTION
+DETROIT MICHIGAN
+
+INSPECTION BY STEPHEN M. RUDNER, P.E. & NADIR MAKHLOUF
+NOVEMBER 09, 2018
+
+CLIENT
+BAGLEY DEVELOPMENT GROUP
+                                                                                    MR. EMMET MOTEN
+                                                               
+
+3633 MICHIGAN AVE
+DETROIT, MI 48216
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 1 of 43
+
+ 
+
+STRUCTURAL INSPECTION WRITTEN REPORT
+December 26, 2018
+ 
+Mr. Emmet Moten
+Bagley Development Group
+3633 Michigan Avenue
+Detroit, Michigan 48216
+Via Email: esmoten@sbcglobal.net
+Re:
+
+United Artist Theater Structural Condition Inspection
+Detroit, Michigan
+
+October 18, 2018
+
+Dear Mr. Moten:
+Preamble
+Per the request of the National Park Services, Bagley Development Group has commissioned Robert Darvas
+Associates P.C. Consulting Structural Engineers to prepare a Structural Condition Report for the theater wing of
+the building located at 150 Bagley Street, Detroit Michigan. The existing building was designed and built in
+1927. It consists of an 18-story high rise tower with approximately 200,000 square feet of enclosed area plus a
+low-rise theater wing having approximately 20,000 square feet of enclosed area. The theater wing is on the
+north side of the tower with its own roof and its own walls on the east, north, and west sides and a wall
+common with the tower on the south side where it is structurally connected to and abuts the tower. The
+theater was designed as a first run movie theater however in 1927, the future of the movie industry was
+uncertain, so it was designed with a full stage, fly loft, stage rigging, and orchestra pit in case the movie
+industry failed. We understand that Bagley Development Group has worked for many years to find a use for the
+building and they have been successful in finding a use for the 18-story tower portion but not for the theater
+wing due to its specialized design and very deteriorated condition. Very little of the ornate original interior
+architecture of the theater remains, and at 2000 seats, it is too large for a modern movie theater and too small
+for a concert venue.
+We further understand that Bagley Development Group has reached out to numerous lenders and all of them
+indicated that they will not approve financing for renovation of the tower as long as the abandoned theater
+shell remains. We understand that Bagley Development Group is eager to renovate and restore the tower
+portion of the original building that represents 90% of the original square footage. Bagley Development Group
+has no plans to restore or renovate the theater wing and will need to have it demolished in order to proceed
+with renovating the tower portion of the original building.
+Stephen Rudner, P.E. of Robert Darvas Associates, P. C. (RDA) and Nadir Makhlouf of Robert Darvas Associates P.C.
+(RDA) visited the United Artists Theater Building located at 150 Bagley Street in Detroit Michigan on October 18,
+2018. Brian Bagnick of Hobbs + Black Architects was also present during the inspection. The purpose of our
+inspection effort was to observe and document the present structural condition of the theater wing of the
+building and to determine if the structure of the theater wing is still safe to be used for occupancy. The theater
+building is currently unoccupied. Historic data indicates the theater has been essentially unoccupied, without
+heat, and minimal maintenance since 1971. It also appears to have had a leaking roof for some time. The Theater
+Building is an appendage on the north side of the tower and having its own roof and its own walls on three sides
+but with a common wall with the tower along the south side of the theater. Our inspection effort consisted of
+reviewing the original structural drawings and shop drawings from 1927, reviewing four previous reports on the
+theater building prepared by others, walking through the accessible areas of the interior, walking around the
+exterior, and walking on the roof, making observations that could be made without demolition of existing finishes.
+No manlift was provided so we were not able to view the underside of the main roof structure although we were
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 2 of 43
+
+ 
+able to observe the roof structure of the fly-loft above the stage. One of the previous reports included photos of
+the underside of the roof deck above the seating area of the auditorium as space well as a description of the
+condition of the roof deck of that space when viewed from the underside. These photos from the previous report
+are included in the appendix at the end of this report for reference. The four previous reports are as follows:
+1.
+2.
+3.
+4.
+
+July 12, 2007 by Walker Restoration Consultants of Ann Arbor MI
+Sept 05, 2012 by Walker Parking
+July 30, 2013 by Walker Restoration Consultants of Ann Arbor MI
+June 25, 2015 by Lopez Engineering of Clarkston MI
+
+These four previous reports are included in the appendix of this report.
+No material testing was undertaken as a part of the current inspection effort.
+Numerous captioned photos accompany the text portion of this report and these photos should be considered
+an equal part of the report. Following are our observations and conclusions.
+Observations
+Review of Original Structural Drawings and Shop Drawings
+Copies of the original building drawings from 1927 that were prepared by C. Howard Crane Architect from
+Detroit Michigan in 1927 were reviewed for this report. Also reviewed were shop drawings prepared by Gabriel
+Steel Company of Detroit MI in 1927. The original drawings were hand drafted. These drawings that we were
+given to review are copies of the original drawings and are very hard to read in some areas being either blurred
+and/or faded. The drawings show a structural steel frame with reinforced concrete floors that are flat slabs in
+some areas and ribbed slabs in other areas. The design live load capacity for some areas Is printed on the
+drawings. The columns and main beams are steel frame with riveted connections.
+Review of Previous Inspection Reports
+The four previous reports dated 2007, 2012, 2013, & 2015 can be found in the appendix of this report. Of
+particular interest is the description of the underside of the gypsum roof deck above the seating area of the
+auditorium space that is in the 2007 report. In that report it is noted that the majority of the gypsum roof deck is
+water damaged, bowing, and must be replaced. See page #2 and #5 of the 2007 report.
+Interior Inspection
+The interior inspection consisted of walking through the accessible portions of the basements, main floor and
+upper level to view any portions of the structural system that could be observed without demolition of finish
+materials. Much of the actual structural system is obscured by wall and ceiling finishes however due to extensive
+water leakage through a poorly maintained roof, some areas of ceiling have collapsed and been removed
+permitting some observations to be made. The captioned photos should be reviewed to better understand what
+was observed.
+The construction observed appears to agree with the original drawings that were reviewed in that there is a steel
+framework of columns and beams infilled with reinforced concrete floor slabs and masonry walls. The condition
+of much of the reinforced concrete is not good as water leaking through a minimally maintained roof has caused
+rusting and corresponding expansion of the reinforcing resulting in loss of bond between the reinforcing and
+the concrete and accompanying cracking and spalling of the concrete in numerous areas. Some critical areas
+could not be observed such as the underside of the main roof structure above the former seating area of the
+theater because there was no man-lift or extremely tall ladder supplied to be able to ascend to the level of the
+ceiling and observe the roof structure directly. In those inaccessible areas, we have referred to previous
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 3 of 43
+
+ 
+inspection reports by others that have written and photographic documentation of the condition of the
+structure. The Owner has indicated that they have had difficulty keeping the “egg shaped” roof system above
+the theater seating area water tight and this appears to be a major cause of the water intrusion. Unfortunately,
+this “egg Shaped” roof covers about 75% of the floor area of the theater. (see images # 12, #13, #21, #22, #23,
+#36, #37, & #38 ) Photos #36, #37, & #38 were sent by Fred Beal and were taken in 2013. They show the very poor
+condition of the main roof deck when viewed from below. Adjacent roof areas such as the fly-loft had lesser
+height from a walkable surface and the underside of the concrete roof structure was therefore observable. In
+most areas that were able to be observed – there was some percentage of the concrete floor or roof structure
+that was damaged by water intrusion. These areas tended to be the areas where the ceiling had collapsed due
+to water intrusion permitting direct observation of the floor and/or roof structure above. In areas with intact
+plaster ceilings, no direct observations of the structure were able to be made. In the raised stage area there is a
+wood framed portion infilling the opening where there was once a large vertical lift section in the stage. This
+wood framed section of the stage floor has partially collapsed due to wood rot in the joists and will need to be
+completely replaced. (See image #11) The remainder of the stage floor is a ribbed concrete floor structure which
+has some water damage in the form of spalled concrete and exposed rusted reinforcing, with systematic
+cracking along the bottom edge of the ribs indicating rusting reinforcing and delaminated concrete with loss of
+bond to the reinforcing. We estimate that perhaps 40% of the ribbed slab floor of the stage will need to be
+replaced and much of the remainder will require extensive repairs. (See image #1 ). The structure of the main
+balcony consists of heavy plate girders supporting stepped reinforced concrete risers. The riser areas of the
+balcony are interrupted by vomitory ramps that provide access to the lower front portion of the balcony. Along
+the sides of the vomitories, the edges of the ramp slabs are supported on continuous steel angles that are
+severely rusted. These rusted angles need to be completely replaced. (See images # 2 & #3) Lines of temporary
+shoring have been introduced along the edges of the vomitory slabs extending down to the main level floor
+structure to provide safety at these heavily corroded locations.
+Exterior Observation
+The exterior walls are masonry with either solid brick and/or brick facing over hollow clay tile back-up. The
+lower portion of the Clifford Street façade is in fairly good condition with minimal distress visible, although
+there are a few damaged bricks that will need to be replaced. (See image #25) The upper portion of this wall is
+showing signs of the outer wythe of brick veneer pulling away from the back-up wythe. This movement and
+separation is likely due to water entering the parapet at the coping working its way down between the veneer
+and the back-up and deteriorating the metal brick ties we assume must be present as there is no header course
+bonding evident on the exterior face of the brick. We estimate that the top 20% of the brick veneer will need to
+be reattached to the substrate using a commercially available retrofit type anchor. The brick veneer along the
+Clifford Street side is a very hard fired buff colored brick with running bond pattern interrupted by decorative
+brick designs in relief as well as herringbone designs. The brick on the sides facing the parking lot along West
+Adams Street and Grand Circus Park is a more utilitarian brick and has extensive deterioration in the form of
+spalled and missing brick. There are stains in the brickwork indicating extensive areas where water was allowed
+to get into the masonry at the parapet level and descend down the wall between the wythes. On the Adams
+street side, It also appears that some spot replacement of exterior bricks had begun but was abandoned after
+removal of deteriorated bricks but before replacement of the removed bricks could take place. Based upon the
+quantity of the damaged brick along this elevation (See image #27), we estimate that more than 50% of this
+brick will need to be removed and replaced. In one area of the wall facing the parking lot toward Grand Circus
+Park, the exterior of the wall was once an interior wall made of brick and tile in a rubble type of construction
+and it appears a wythe or more of this wall has been removed to expose the rubble masonry. This rubble
+masonry section is not a proper solution for an exposed exterior masonry in our climate which is classified as a
+severe weathering environment. This section of the wall will need to be completely re-worked either by parging
+over the rubble masonry and covering with another material, or by re-constructing it as an exterior brick veneer
+over a CMU back-up wythe. (See images #28, & #29) It also appears that some spot replacement of exterior
+brick had begun and been abandoned after brick removal but before the replacement of the removed bricks.
+The areas of removed brick will simply accelerate the deterioration of this exterior masonry if not infilled with
+replacement brick.
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 4 of 43
+
+ 
+Rooftop Observation
+We walked on the various roof levels of the theater building. There are several low roof areas adjacent to the
+high roof above auditorium space, and an even higher roof level above the fly-loft. The roof membranes appear
+to be the bituminous type and there are numerous areas where the roof membrane is in poor condition, with
+breaks in the roofing that are admitting water into the building interior and into the masonry exterior walls. The
+shape of the main roof is such that along three sides, there are deep valleys between the sloped roof and the
+back of the parapet and/or the exterior wall of the tower that can trap water if the drains clog. Trapped water
+that freezes expands and can tear the flashings and the roofing at these areas. This type of damage appears to
+have occurred at several locations as evidenced by the stains on the exterior brick visible from the parking lot
+along W. Adams. We recommend the parapet coping be removed, flashing be installed, and then the coping reinstalled. Roof runoff cannot be allowed to accumulate behind the parapets and additional drains and/or
+scuppers should be added to ensure that water accumulation on the back side of the parapets cannot occur.
+Conclusion
+Because it has been unoccupied, unheated, and minimally maintained for approximately 47 years; the theater
+wing has been deteriorating for some time. The water that is finding its way into the interior of the building and
+into the masonry walls has been freezing and expanding during the winter months and causing a lot of
+cracking. We estimate that over 50% of the exterior masonry of the theater wing will need to be replaced and
+much of the remainder will require extensive repairs.
+The embedded steel reinforcing inside the concrete portions of the structure has been corroding and
+expanding causing loss of bond and delamination of the concrete. We estimate that 40% of the reinforced
+concrete structure including the fly loft roof, the balcony floor, the stage floor, and main floor will require
+extensive repairs including removal and replacement of the concrete and reinforcing and the remainder will
+require crack remediation such as epoxy injection. The building code and the codes for design of reinforced
+concrete structure have changed significantly since 1927 and depending upon the proposed use of the various
+parts of the floor and roof structure, reinforcement may be required to account for snow drift loads on the low
+roof of the theater where it is adjacent to the tower, and/or the fly loft structure ( a change to the building code
+since 1927 ) etc.
+The structural steel frame was observed to have some advanced deterioration along the edges of the vomitory
+slabs. The severely corroded steel will require removal and replacement as previously noted. The larger sections
+of the steel frame that were visible during our inspection were not observed to have advanced deterioration
+however many of the smaller sections such as web members of joists did exhibit severe deterioration (See
+image #32). Additionally, the majority of the steel frame was hidden within walls and/or ceiling cavities and
+could not be observed so the extent of deterioration of the steel frame is largely unknown.
+The Owner has indicated he cannot find a use for the theater space. Most of the interior finishes within the
+theater space are deteriorated beyond repair; and if the exterior shell is to be saved, extensive structural repair
+and upgrade work would be required including but not limited to the following:
+1.
+2.
+3.
+
+4.
+
+5.
+
+Remove concrete encasement to expose and test all steel connections; especially those below grade
+and those that have been exposed to leaks.
+Replace the steel framing for the lower balcony; as its failure could negatively impact the exterior shell
+structure.
+There are pieces of plywood covering holes in the roof above the performance space. The condition of
+the structural roof deck and the steel structure above the performance space could not be observed
+during our inspection.
+As a minimum, the entire area above the performance space will require a new roof membrane.
+Previous observations by others indicate the gypsum concrete roof deck above the seating area is
+heavily damaged and must be completely replaced. Damaged and/or deteriorated structural steel
+framing, that will need to be remediated prior to replacing the roof deck and re-roofing.
+Water appears to be getting in under the stone coping. These stone copings should be removed,
+flashing installed, and then the copings should be reinstalled.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 5 of 43
+
+ 
+6.
+7.
+
+8.
+9.
+
+10.
+11.
+12.
+
+13.
+
+Over 50% of the exterior brick on the west face of the building should be replaced.
+Portions of the north façade were not intended to be exposed to the elements and those areas that
+have become exposed exterior masonry should be replaced with exterior brick or some sort of
+cladding material to keep water out.
+All masonry will need to be tuck pointed.
+There is evidence that the brick ties on the south façade are failing. New retrofit ties should be
+installed, especially near the top of the wall where the brick veneer is already pulling away from the
+structure. The sidewalk adjacent to this façade should be protected with a scaffold type protective
+cover to protect passes-by until repairs can be made that will prevent masonry from falling to the
+sidewalk.
+There is evidence of significant ground water infiltration in the orchestra pit. Additional investigation is
+required to determine any damage to the foundations and a sump system may need to be installed.
+Stairs, railings, catwalks, and other areas of miscellaneous steel are dangerously deteriorated and
+should be removed/secured to prevent injury.
+Visual observation indicated areas where concrete reinforcement of floor and roof structure was
+exposed in a corroded condition with spalling, delaminating, and cracking of the structural concrete.
+Additional intrusive investigation would be necessary to determine the extent of repair/replacement
+needed.
+It is important to take care when performing remedial work on a historic structure to properly deal with
+hazardous materials that may be encountered such as materials containing asbestos, lead, mold, and
+etc.
+
+Respectfully Submitted,
+Robert Darvas Associates, P.C.
+
+Stephen M. Rudner, P.E.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 6 of 43
+
+ 
+
+Image #1 - Rusted steel angle supporting concrete balcony floor slab. This
+corroded steel would need to be completely replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 7 of 43
+
+ 
+
+Image #2 - Rusted steel angle supporting concrete balcony floor slab. This
+corroded steel would need to be completely replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 8 of 43
+
+ 
+
+Image #3 – Rusted steel support at front edge of balcony. Much of this corroded
+steel would need to be completely replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 9 of 43
+
+ 
+
+Image #4 – Stairs are very rusted with some risers rusted completely through.
+The condition of this utility stairs is indicative of the smaller steel members that
+in many cases have rusted through completely.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 10 of 43
+
+ 
+
+Image #5 – Screw jack mechanism for moveable stage floor. Water intrusion into
+the orchestra pit will need to be investigated further and mitigated.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 11 of 43
+
+ 
+
+Image #6 – Typical of many locations with concrete floors – some areas are water
+stained and rebars have rusted such that they expanded and spalled off the
+concrete cover. Other areas had no original concrete cover and the reinforcing
+was constructed in contact with the formwork. Repair of this type of
+deterioration and improper original construction must begin with careful
+removal of all delaminated concrete back to sound concrete and sandblast
+cleaning of the reinforcing. Then the reinforcing can be assessed to see if any
+has lost more than 25% of its original cross-sectional area and if it has, new
+reinforcing must be spliced in. Then a bonding agent and a patching mortar is
+applied. The selection of a repair mortar depends upon the use as some are
+formulated for overhead use etc. The repair mortar must completely surround
+the reinforcing which requires careful removal of concrete on all sides of the
+rebar in the patch area. The edges of the patch area cannot be feather edged
+but must be square cut with a minimum thickness appropriate for the particular
+repair mortar being used. See the attached pages at the end of this report for a
+further description of the required removal geometry.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 12 of 43
+
+ 
+
+Image #7 – Grid iron floor above the stage has surface rust. This area is below
+the flat roof above the fly tower, which has been kept relatively water tight. The
+remainder of the theater space below the “egg shaped” roof was not kept water
+tight and has much more severe deterioration of the structure below.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 13 of 43
+
+ 
+
+Image #8 – Some areas of concrete floor structure are in good condition. The
+slab and secondary beams here appear to be in good condition, however the
+main girder has a rusted rebar spalling the concrete. No evidence of beam
+stirrups here. Many early reinforced concrete building structures do not have
+stirrups and even today they are not typically required in the building code at
+ribs of ribbed slabs however they are typically required by the code in beams
+where they are called stirrups and columns where they are called column ties.
+These stirrups and/or ties increase the shear capacity of the members and
+prevent rapid shear failure providing for a gradual cracking that would be a
+warning of an overload. It may be necessary to investigate if supplemental shear
+reinforcing should be added to any of the members here. Many beams and
+columns in this building are in fact steel beams and columns encased in
+concrete for fire protection and would not therefore require stirrups or ties. The
+beam in this photo appears to be a reinforced concrete beam.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 14 of 43
+
+ 
+
+Image #9 – Exterior fire escape is unsafe as it is missing several treads.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 15 of 43
+
+ 
+
+Image #10 – Interior stair stringer is supported by a hanger rod.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 16 of 43
+
+ 
+
+Image #11 – Portion of stage with curved front edge is a vertically operable
+section of floor with wood floor deck and framing spanning between steel
+beams. The wood framing has severely deteriorated due to water intrusion.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 17 of 43
+
+ 
+
+Image #12 – Main roof above theater seating area.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 18 of 43
+
+ 
+
+Image #13 – Main roof above theater seating arear viewed from high roof above
+the fly loft. Gutter formed by roofing flashed to very short parapet along exterior
+wall has leaked water into exterior brick bearing wall below. With no railing and
+such a short parapet, the access to clean the drains and maintain the flashings
+is dangerous. The failed gutter and parapet coping and flashing has resulted in
+significant damage to the exterior brick wall below. We estimate 50% of the
+brick on the west façade will require repair and/or replacement as a result of this
+condition.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 19 of 43
+
+ 
+
+Image #14 – Underside of flat roof structure of fly tower - note there is some
+spalled concrete at rusted rebar locations.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 20 of 43
+
+ 
+
+Image #15 – Underside of stage floor ribbed slab with wood framed section of
+floor beyond. Note spalled concrete, systematic cracking along the lower edge
+of most if not all of the ribs, and exposed rusted reinforcing bars. Repair of this
+type of deterioration and improper original construction must begin with
+careful removal of all delaminated concrete back to sound concrete and
+sandblast cleaning of the reinforcing. Then the reinforcing can be assessed to
+see if any has lost more than 25% of its original cross-sectional area and if it has,
+new reinforcing must be spliced in. Then a bonding agent and a patching mortar
+is applied. The selection of a repair mortar depends upon the use as some are
+formulated for overhead use etc. The repair mortar must completely surround
+the reinforcing which requires careful removal of concrete on all sides of the
+rebar in the patch area. The edges of the patch area cannot be feather edged
+but must be square cut with a minimum thickness appropriate for the particular
+repair mortar being used. See the attached pages at the end of this report for a
+further description of the required removal geometry.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 21 of 43
+
+ 
+
+Image #16 – Rusted stairs to lower level.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 22 of 43
+
+ 
+
+Image #17 – Rusted stairs.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 23 of 43
+
+ 
+
+Image #18 – Rusted fire escape with missing treads.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 24 of 43
+
+ 
+
+Image #19 – Underside of balcony has heavy plate girder supporting built-up
+steel “raker” beams that appear to have only surface rust where they are
+exposed. Less than half of the balcony framing could be observed due to some
+ceiling finishes still being in place.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 25 of 43
+
+ 
+
+Image #20 – Nadir climbing to roof above stage.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 26 of 43
+
+ 
+
+Image #21 – Typical view of main “egg shaped” roof. Structure below is steel
+trusses and purlins supporting a gypsum plank roof deck. Photos and written
+report by others done in 2007 indicate the gypsum deck is heavily water
+damaged, and sagging, and must be completely replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 27 of 43
+
+ 
+
+Image #22 – Roof damage
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 28 of 43
+
+ 
+
+Image #23 – Roof has several plywood panels and poorly constructed patched
+areas.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 29 of 43
+
+ 
+
+Image #24 – Photo of the lower portion of the exterior brick on Clifford Street
+( south elevation ) is in good condition however the brick near the top of this
+wall is pulling away from the back-up wythe and must be re-anchored. The
+sidewalk here should have a protective roofed scaffold constructed until repairs
+can be made.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 30 of 43
+
+ 
+
+Image #25 – The exterior brick on the lower portion of the Clifford Street side
+appears to be in good condition with minor repairs required at the corners
+however the brick near the top of this wall is pulling away from the back-up
+wythe and must be re-anchored. The sidewalk here should have a protective
+roofed scaffold constructed until repairs can be made.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 31 of 43
+
+ 
+
+Image #26 – Exterior view from West Adams Street across parking lot. The
+brickwork facing the parking lot has areas of deterioration.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 32 of 43
+
+ 
+
+Image #27 – Exterior view from parking lot off North Adams. The exterior brick
+shows stains where water has leaked into the wall from failed roof flashings at
+parapet. There are many bricks missing throughout the full height of the wall, (
+especially at the corner ), There is significant staining throughout indicating
+water intrusion, and severe damage at the top six feet of the wall below the
+parapet and coping. We estimate 50% of the brickwork here should be removed
+and replaced to properly correct the damage to the exterior walls shown here.
+The fire escape is also unsafe and should be removed or repaired. The parking
+lot along this wall should be fenced-off so cars cannot park along the wall here
+and potentially damaged by falling masonry.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 33 of 43
+
+ 
+
+Image #28 – Area of rubble brickwork on the north elevation that was not
+originally an exterior wall surface. Most if not all of the north wall will either
+need to be parged and covered with another material, or rebuilt as a brick
+veneer with masonry back-up wythe.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 34 of 43
+
+ 
+
+Image #29 – Area of rubble brickwork on north facade that was not originally an
+exterior wall surface. Most if not all of the north wall will either need to be
+parged and covered with another material, or rebuilt as a brick veneer with
+masonry back-up wythe.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 35 of 43
+
+ 
+
+Image #30 – Cracks in exterior brick wall above joint in concrete foundation wall.
+The bricks above the concrete should be re-worked so that a control joint in the
+brick corresponds to the joints in the foundation wall.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 36 of 43
+
+ 
+
+Image #31 – Concrete roof structure above fly loft.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 37 of 43
+
+ 
+
+Image #32 – Condition of the larger members of the interior steel framework is
+fair with mostly surface rust, however the smaller steel members such as the
+webs of the steel trusses are severely deteriorated. This seems typical
+throughout the steel structure that was able to be observed.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 38 of 43
+
+ 
+
+Image #33 – Underside of stage level floor has cracked and spalled concrete due
+to rusting of embedded reinforcing. Note that there are no stirrups in the
+concrete beams of this ribbed slab. . Repair of this type of deterioration and
+improper original construction must begin with careful removal of all
+delaminated concrete back to sound concrete and sandblast cleaning of the
+reinforcing. Then the reinforcing can be assessed to see if any has lost more than
+25% of its original cross-sectional area and if it has, new reinforcing must be
+spliced in. Then a bonding agent and a patching mortar is applied. The selection
+of a repair mortar depends upon the use as some are formulated for overhead
+use etc. The repair mortar must completely surround the reinforcing which
+requires careful removal of concrete on all sides of the rebar in the patch area.
+The edges of the patch area cannot be feather edged but must be square cut
+with a minimum thickness appropriate for the particular repair mortar being
+used. See the attached pages at the end of this report for a further description
+of the required removal geometry.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 39 of 43
+
+ 
+
+Image #34 – Underside of wood framed area of stage floor. There is much water
+damage to this area due to roof leakage. All of this wood framed floor must be
+removed and replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 40 of 43
+
+ 
+
+Image #35 - Underside of wood framed area of stage floor. There is much water
+damage to this area due to roof leakage. All of this wood framed floor must be
+removed and replaced.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 41 of 43
+
+ 
+
+Image #36 – Photos sent by Fred Beal that were taken in June 2013 showing
+condition of underside of main roof above the seating area.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 42 of 43
+
+ 
+
+Image #37 – Photos sent by Fred Beal that were taken in June 2013 showing
+condition of underside of main roof above the seating area.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+  
+150 Bagley Street Structural Condition Inspection on 11/09/18
+Stephen Rudner, P.E. & Nadir Makhlouf
+
+Page 43 of 43
+
+ 
+
+Image #38 - Photos sent by Fred Beal that were taken in June 2013 showing
+condition of underside of main roof above the seating area.
+
+t: 734.761.8713
+
+ 
+
+www.robertdarvas.com
+
+December 26, 2018
+
+ Appendix
+
+Existing Concrete Repairs Modifications
+
+UA Theater Walker Structure Report (07-12-07)
+
+Rick Klein Balcony Comments (09-04-12)
+
+Walker UA Theater Building Condition Report (2013)
+
+Lopez Engineering Balcony Shoring Report (06-25-15)
+
+REMQVAL QEOMETRY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+
+
+ 
+
+ 
+
+.Li?? I 
+
+
+
+
+EON A- -A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QLAB CIR ?#.--
+FULL UEPTI I SLAB 0R 
+7 CARE NOT TO SPAL-L
+a? I CONCRETE
+I. 2' '1 
+I m4~~4? I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CAUTION: BEFORE STARTING REMOVALS REVIEW EFFECT OF REMOVALS ON STRUCTURAL INTEGRITY.
+I. I PROVIDE SHORING OF MEMBERS AS NECESSARY PARTICULAR CARE SHALL BE EXERCISED AT SLAB
+
+CONNECTIONS T0 COLUMNS
+
+i I. 
+
+ 
+
+x- 34.11? -.., N?nd?m?inc;
+
+ 
+
+THIS GUIDELINE IS INTENDED TO PROVIDE GUIDANCE 
+TO THE OWNER. DESIGN PROFESSIONAL. AND REPAIR
+I EDNTRACTOR AND IS NOT INTENDED THE 
+NEED FOR REVIEW B?s? QUALIFIED ENGINEERS I .
+
+HER RELATED GUIDELINES
+
+EXPOSING AND UNDERCUTTING REINF, STEEL
+REPAIR AND CLEANING OF REINFORCING STEEL
+EDGE AND SURFACE CONDITIONING
+
+ACI 506 -
+
+ 
+
+.w?um. . 
+
+V-r
+
+I 
+
+ 
+
+mama. 
+
+
+ 
+
+I I DETERIORATED CONCRETE RESULTING FROM
+
+sz. . 
+
+RECOMMENDED SURFACE PREPARATION
+GUIDELINES FOR THE REPAIR OF
+
+STEEL OXIDATION
+
+.u 3.1.: 1.. 2
+
+REMDVAL GEOMETRY
+
+
+
+OCTOBER 1989 037?34
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXISTING CONC. REPAIRS MODIFICATIONS 
+
+Repair of Concrete Masonry, details and text
+
+C-20A 
+
+ 
+
+EXPOSING UNDERCUTTING REINFORCING STEEL
+APPLICABLE HORIZONTAL, VERTICAL. AND OVERHEAD LOCATIONS
+
+ 
+
+ 
+ 
+  
+
+  
+
+PREPARED CONCRETE OXIDIZED (CORRODED) BARS I
+SURFACES TO RECEIVE UNOXIDIZED .
+PATCH BONDED BARS
+
+MIN. CLEARANCE I
+REFER TO NOTE #2 
+
+ 
+
+--..- 
+
+ 
+
+ 
+
+ 
+
+"Ra? Mfg? ?w?af?y? YVVW 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I . . 314"
+1 
+MXELJ.
+REFER TO NOTE #4
+
+.5- a
+I
+I SECTION THROUGH
+
+CONCRETE MEMBER
+
+ 
+
+I 
+APPLICABLE TO HYDROD-EMOLITION. HYDROMILLING. AND PNEUMATIC, HYDRAULIC. 8- ELECTRIC BREAKERS
+
+ 
+
+I CAUTION: BEFORE STARTING REMOVALS. REVIEW EFFECT OF REMOVALS ON STRUCTURAL
+INTEGRITY. PROVIDE SHORING OF MEMBERS AS NECESSARY. PARTICULAR CARE SHALL BE
+EXERCISED AT SLAB BEAM CONNECTIONS TO COLUMNS
+
+ 
+
+ 
+
+ 
+
+I. REMOVE LOOSE OR DELAMINATED CONCRETE ABOVE OXIDIZED REINFORCING STEEL. ONCE
+INITIAL REMOVALS ARE MADE. PROCEED WITH THE UNDERCUTTING OF ALL EXPOSED OXIDIZEO
+(CORRODEDI BARS, UNDERCUTTENG WILL PROVIDE CLEARANCE FOR UNDER BAR CLEANING. FULL
+BAR CIRCUMFERENCE BONDING TO SURROUNDING CONCRETE. AND WILL SECURE THE PATCH
+STRUCTURALLY.
+
+2. PROVIDE MINIMUM CLEARANCE BETWEEN EXPOSED REBARS AND SURROUNDING CONCRETE
+OR LARGER THAN LARGEST AGGREGATE IN REPAIR MORTAR. WHICH EVER IS GREATER
+
+3. CONCRETE REMOVALS SHALL EXTEND ALONG THE BARS TO LOCATIONS ALONG THE BAR FREE OF
+BOND INHIBITING CORROSION. AND WHERE THE BAR IS WELL BONDED TO SURROUNDING
+CONCRETE.
+
+4. IF UNOXIDIZED REINFORCING STEEL IS EXPOSED DURING THE UNDERCUTTING PROCESS, CARE
+SHALL BE TAKEN NOT TO DAMAGE THE BOND TO SURROUNDING CONCRETE. IF BOND
+BETWEEN BAR AND CONCRETE IS BROKEN. UNDERCUTTING OF THE BAR SHALL BE REQUIRED.
+
+5. ANY REINFORCEMENT WHICH IS LOOSE SHALL BE SECURED IN PLACE BY TYIN-G TO OTHER
+SECURED BARS OR BY OTHER APPROVED METHODS.
+
+ 
+
+THIS GUIDELINE IS INTENDED TO PROVIDE. GUIDANCE OTHER RELATED GUIDELINES:
+
+TO THE OWNER. DESIGN PROFESSIONAL. AND REPAIR - CONCRETE EDGE SURFACE CONDITIONING
+CONTRACTOR AND IS NOT INTENDED TO REPLACE THE - REPAIR 8: CLEANING OF REINF. STEEL
+
+NEED FOR REVIEW BY QUALIFIED ENGINEERS REMOVAL GEOM-ETRY
+
+RECOMMENDED SURFACE PREPARATION
+GUIDELINES FOR THE REPAIR OF
+
+mnsumwum 4. 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+OCTOBER 1939 #03730
+EXISTING CONC. REPAIRS MODIFICATIONS 2 
+Repair of Concrete Masonry, details and text OB I 
+
+ 
+
+ 
+
+EXISTING CONC. REPAIRS MODIFICATIONS 
+Repair of Concrete Masonry, details and text
+
+EDGE URFA EC DITIONTNG 
+
+r- '1
+m" MAX OR LESS A
+I T0 AVQID St PREPARED SURFACE I CUT AT RIGHT ANGLE TO I
+A a ING REINFORCING TO RECEIVE REPAIR I SURFACE WITH POWER I -
+..- .. -STEEL. -.. E. I MATERIAL BREAKERS. HYDRO DEMO 
+LROR OTI-I IER EQUIP??hdi
+
+
+9595AUX 21,4":
+
+SECTION 
+CONCRETE MEMBER
+
+ 
+
+ 
+
+rwl?w? gnu-u J. 1m. .uurrm
+
+APPLICABLE TO HYDRODEMOLITION PNEUMATIC HYDRAULIC AND ELECTRIC
+BREAKERS APPLICABLE TO HORIZONTAL, VERTICAL, AND OVERHEAD LOCATIONS
+
+CAUTION: BEFORE STARTING REMOVALS. REVIEW EFFECT OF REMOVALS ON STRUCTURAL
+INTEGRITY. PROVIDE SHORING OF MEMBERS AS NECESSARY. PARTICULAR CARE SHALL BE
+EXERCISED AT SLAB BEAM CONNECTIONS TO COLUMNS
+
+REMOVE DELAMINATED CONCRETE. UNDERCUT REINFORCING (REFER TO 
+STEEL UNDERCUTTING GUIDELINE), REMOVE ADDITIONAL CONCRETE AS REQUIRED TO PROVIDE
+MINIMUM REQUIRED THICKNESS OF REPAIR MATERIAL
+
+.. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2} AT EDGE LOCATIONS PROVIDE EITHER METHOD A OR METHOD RIGHT ANGLE CUTS. AVOID
+FEATHER EDGES. FOR SHOTCRETE THE REPAIRS REFER TO 505 EDGE PREPERAT-ION
+GUIDE-LL INES
+PATCH CONFIGURATION SHOU .D BF. KEPT AS SI IMPLE AS P0355131. FOR EL
+
+PREFERRED PREFERRED 
+3} AFTER REMOVALS AND EDGE CONDITIONING ARE COMPLETE. REMOVE BOND INHIBITING MATERIALS 1
+CONCRETE SLURRY, LOOSELY BONDED AGGREGATES) BY .ABRASIVE BLASTING OR HIGH
+PRESSURE WATERBLASTING WITH OR WITHOUT ABRASIVE. CHECK THE SURFACES AFTER
+CLEANING TO INSURE THAT SURFACE IS FREE FROM ADDITIONSAL LOOSE AGGREGATE OR THAT
+ADDITIONAL DELAMINATIDNS ARE NOT PRESENT.
+
+ 
+
+ 
+
+ 
+
+. 1' 1 
+
+ 
+
+4} IF HYDROMEOLITION IS USED, CEMENT AND PARTICULATE SLURRY MUST BE REMOVED FROM THE
+PREPARED SURFACES BEFORE SLURRY HARDENED
+
+THIS GUIDELINE IS INTENDED TO GUIDANCE OI HER RELATED GUIDELINES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T0 THE OWNER DESIGN PROFESEIDNAL, ANT.) - EXPOSING a. UNDERCUTTING REINFORCING STEEL,
+REPAIR CONTRACTOR AND Is NDT INTENDED TO - REPAIR AND CLEANING OF REINFORCING STEEL
+REPLACE THE NEED FOR REVIEW BY QUALIFIED . REMOVAL GEOMETRY
+ENGINEERS
+m? "m PREPARATION 
+GUIDELINES FOR THE REPAIR OF .
+. DETERIORATED RESULTING 
+. I
+REINFORCING STEEL OXIDATION .-.
+
+I I5 CONCRETE EDGE SUREAEE CONDITIONING
+OCTQEER 1939? II 0332
+
+ 
+
+ 
+
+ 
+
+0-200 
+
+ 
+
+ 
+
+REPAIR OF REINFORCING STEEL DUE TO LOSS OF SECTION
+ACI REQUIRED LAP AFFECTED AREA ACI REQUIRED LAP
+
+LOSS OF SECTION
+
+ 
+
+   
+
+IF REBAR HAS LOST MORE THAN 25% OF ITS CROSS SECTION (20% IF 2 OR MORE CONSECUTIVE
+PARALLEL BARS ARE AFFECTED) THE STRUCTURAL ENGINEER SHOULD BE 
+
+IF REPAIRS ARE REQUIRED TO THE REINFORCING STEEL ONE OF .. 
+
+THE FOLLOWING REPARI METHODS SHOULD BE USED: RECOMMENDED CLEARANCE
+
+I. COMPLEIE BAR REPLACEMENT. OR .
+
+ADDITION OF SUPPLEMENTAL BAR OVER AFECTE-D SECTIONMECHANICALLY SPLICED ?re OLD BAR CIR PLACED BAR 
+
+PARALLEL TO AND APPROXIMATELY FROM EXISTING BAR
+
+LAP LENGTH SHALL. BE DETERMINED IN ACCORDANCE WITH ALSO REFER TO AND
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AASHTO MANUAL
+CLEANING OF REINFORCING STEEL CLEANING UNDERSIDE
+-whr, - 1? {a 
+
+.1 PATH ed? AERASNES
+
+I
+
+I
+
+I ORIGINAL MILL - I HEAIILY .
+UNOXIDIZED DIX I 
+. CLEANING REQUIRED - 
+
+ 
+
+
+TILL Ow?! SCALE: II EIE TIHE 653R Tiff;
+PROMOTE MAXIMUM BOND OF REPLACEMENT MATERIAL.
+OIL FREE ABRASIVE BLAST IS THE PREFERRED METHOD. A BONDED LIGHT OXIDE
+BUILD-LIP ON THE SURFACE MAY RESULT FROM HIGH-PRES5URE WATERBLASTING, WITH OR
+WITHOUT ABRASIVEI THIS IS USUALLY NOT DETRIMENTAL TD BOND, UNLESS A PROTECTIVE
+COATING IS BEING APPLIED TO THE BAR SURFACE. IN WHICH CREE THE COATING
+RECOMMENDATIONS FOR SUITITIACE PREPARATION SHOULD 8E
+
+ 
+
+ 
+
+ 
+
+FOLLOWED.
+
+THIS GUIDELINE IS INTENDED TO PROVIDE OTHER RELATED GUIDELINES:
+
+GUIDANCE TO THE OWNER DESIGN - EXPOSING UNDERCUTTING REINF. STEEL
+PROFESSIONAL. AND REPAIR CONTRACTOR AND IS EDGE 8: SURFACE CONDITIONING
+
+NOT INTENDED TO REPLACE THE NEED FOR - REMOVAL GEDMETRY
+
+REVIEW BY QUALIFIED ENGINEERS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+. I FROM
+
+Em? Gm 
+
+'i 
+
+Nags-r3? I -
+
+IIWL. I i OCTOBER 1939 . #03731
+EXISTING CONC. REPAIRS MODIFICATIONS I 20D Id?
+
+Repair of Concrete Masonry, details and text
+
+WALKER Walker Restoration Consultants
+
+RESTORATEON CONSULTANTS 525 Avis Drive, Suite 1
+Ann Arbor, MI 48108
+
+Voice: 734.663.1070
+Fax: 734.663.1777
+wmvwolkerrestorationcom
+
+July 12, 2007
+
+Mr. Fred Beol
+
+J. C. Beal Construction
+
+22] Felch
+
+Ann Arbor, Michigan ?18103
+
+Re: United Artists Theatre - Structural Condition Assessment
+
+Dear Fred,
+
+Walker has Finished our review oi the structural Framing to get a better understanding oi the extent
+oF structural Framing and exterior masonry repairs required as part oF your overall assessment oi
+the Feasibility oF restoring the structure.
+
+Our review involved a visual survey at exterior wall, at exposed structural members and at a Few
+hidden areas where encasement concrete or brick was removed to get a look at some oF the
+hidden conditions at the steel beams, columns and connections. Our review does not involve a
+structural analysis since at this stage oF the project you are simply trying to get a general
+understanding oi the severity and extent oF repairs. IF the owner chooses to restore the building,
+then at that time a detailed analysis will need to be perFormed to Further evaluate the type oF
+repairs required and develop repair details and speci?cations
+
+ReFer to the Opinion oF Probable Repair Cost Table in this report For an 'order at magnitude? cost
+For expected structural repairs.
+
+See the attached original design drawing showing a section through the balconies along with our
+reFerence notes.
+
+Mr. Beal
+WALKER July t2, 2007
+
+RESTORATION CONSULTANTS
+Page 2 0F 7
+
+EXECUTIVE SUMMARY
+
+Theatre Roof:
+
+Most oF the main structural steel components oF the theatre rooF are in good condition. A test
+excavation was made at a typical truss-column connection. Although we did not Find any severe
+corrosion at this connection, we have included a repair contingency For budgeting purposes. It's
+likely that hidden deterioration conditions requiring repair will be Found at some oF these
+connection locations when more oF the structural components are uncovered during construction.
+Also, we Found some rooF purlins and catwalk hanger connections that need to be
+repaired/replaced.
+
+A maiority oF the gypsum rooF slab is water damaged and bowed and needs to be replaced with
+a new system. It wouldn?t be practical to try to Find and save random locations scattered
+throughout.
+
+Other Structural Framing:
+
+A leaking root and high humidity have led to corrosion oF most oF the structural steel beams and
+connections supporting the balconies at the back oF the theatre. Most oi the corrosion is minor
+and will not require repair, but repairs will be needed where the corrosion has led to signiFicant
+thinning (section loss) oi the steel members. Based on our measurements and visual observations,
+we have included an opinion oF probable cost For expected structural steel repairs.
+
+The most signiFicant corrosion damage occurs at the end oF the large truss at the back oF the
+theatre that spans the Full width oF the theatre and supports a heavy load From the Fan room, rooF,
+projection room, etc.. As with all the structural members that are experiencing corrosion damage,
+a structural analysis will be needed to deFine the extent oF repair work required.
+
+Also, the precast Floor planks within the room that was added in the center oi the mezzanine
+balcony seating area needs to be removed so that all oF the heavily corroded steel supports can
+be replaced.
+
+The concrete Floors slabs are generally in good condition and will only require ?spot" repairs
+where corrosion?related damage occurs. Once the debris is removed From the Floor slabs a
+sounding survey can be perFormed to con?rm our assessment.
+
+Facade:
+
+The walls are in Fair condition with deterioration conditions typical For a building oF this age.
+These walls are generally nonload bearing and only need a moderate amount oF typical masonry
+repair and waterproo?ng type repairs.
+
+The items above are discussed in more detail in Section ?Summary oF
+Findings/Recommendations? along with other building elements that we observed during our
+review oF the structural Framing.
+
+Mr. Beal
+WALKER july 12, 2007
+
+RESTORATION CONSULTANTS
+Page 3 at 7
+
+Table 1: OPINION OF PROBABLE REPAIR COST
+Structural Framing and Facade Repairs
+
+ 
+
+ 
+
+ 
+
+ 
+
+Work Item Description Cost
+1 Truss at Back of Theatre 175.000
+2 Roof PurIins and Column?Truss Conn'ns 90.000
+3 Structural Framing and Concrete Floors 230,000
+4 Rebuild Floor at Added Room at Mezzanine 75,000
+5 Facade Masonry Repairs 120,000
+Subtotal 690,000
+Contingency 138,000
+Engineering and TestinJg?5%) 104,000
+GRAND TOTAL 932,000
+
+Notes:
+
+1. Engineering and Testing cost are for budgeting purposes only.
+
+2. Only structural framing repair cost and masonry cost shown.
+Cost for new roofing system, parapet coping, fire escape, and stair section.
+not included.
+
+SUMMARY RECOMMENDATIONS
+
+T. Truss at back of Theatre: 
+
+CI.
+
+This large truss spans across the width at the theatre and in general, supports portions of
+the upper proiection room, Upper root, Grand toyer root and tan room above the grand
+foyer. At the east end next to the oFFice building, there is a large hole in the upper root
+allowing water to Flow over this end oi the truss over the years, which has resulted in some
+significant corrosion damage to the steel members comprising the truss. Repairs are need
+at this end to restore the members to their original capacity. This will likely involve some
+rivet replacement and strengthening with supplemental steel members. Because the truss
+supports some large loads that cannot be removed, the repairs will need to be performed
+in a phased approach and may need some temporary shoring to support the loads during
+repair.
+
+There is some corrosion at the west end of this large truss where water has been leaking
+through the root. We were not able to get up?close to this end, but from what we can see
+we expect the repairs to be signi?cantly less than that required at the other end.
+
+Mr. Beal
+WALKER July 12, 2007
+
+RESTORATION CONSULTANTS
+Page 4 0F 7
+
+2. Mezzanine Balcony:
+
+a. Portions oF the beams supporting the mezzanine balcony are encased with concrete. The
+concrete encasement was removed at three leaking areas as part oF our survey. At two oF
+the areas the steel beam and connections were in good condition and at the other area
+there was about a oF rust build-up which is not a significant concern.
+
+We Found an exposed beam and a beam-to-column connection with a substantial amount
+oF section loss From corrosion that we expect will need repair to restore original capacity.
+We also expect that there will be a Few more hidden conditions that will require some
+strengthening repair.
+
+b. Structural modi?cations were made to the balcony seating at some time since original
+construction. A room was added in the center portion oF the seating area. The original
+concrete seating was removed and a Flat Floor comprising precast planking was placed on
+steel angle supports that were attached to the original steel Framing. The steel angles and
+associated welded supports are heavily corroded and need to be replaced. This repair
+will require replacement oF the precast Floor planks (approximately 700 sq. Also, we
+could not view the original cantilevered steel girders in this area due to the modi?cations
+that cover these girders. We recommend you include a contingency For potential girder
+repairs.
+
+c. The original concrete Floor appears to be in good condition based on view From the
+underside with only a small amount oF Floor repair anticipated.
+
+3. Balcony Promenade and Vomitory:
+
+0. There are a Few beams that have some heavy rust build?up and will require repair, and we
+expect that there will are some hidden conditions that will require repair. There also are 6
+hanger supports From the level above that support some oF the beams at the balcony
+promenade and vomitory. The Four that we could see From the level below have a
+signi?cant amount oF corrosion and likely will need to be strengthened.
+
+b. The original concrete Floor appears to be in good condition based on view From the
+underside with only a small amount oF Floor repair anticipated.
+
+4. Upper and Lower Balcony:
+
+a. The beams and Floor slabs are similar to the condition Found at the Balcony
+promenade/vomitory as described in item 3 above.
+
+b. The main support girders running parallel to the aisles are in good condition. These Frame
+into a larger girder that spans the width oF the theater. We were not able to do an up?
+close survey oF this girder except at an end connection, From our view From the mezzanine
+
+Mr. Beal
+WALKER July 12, 2007
+
+RESTORATION comsumms
+Page 5 oi 7
+
+level there were only evidence 0F 0 minor amount oF corrosion. We do not expect any
+strengthening repairs.
+
+5. Rook
+
+0. Structural Steel Members The main support trusses in the theatre area are generally in
+good condition with only a minor amount oF corrosion Found at a Few areas. The purlins
+also appear in good condition except there are several along the wall that are corroded
+and several oF these may need to be replaced.
+
+b. The brick surrounding a truss-to?column connection was removed at a leaking area so we
+could see the extent oF corrosion to get a better idea what to expect at other areas that are
+covered with brick. We Found that there was about a oF rust buildup, but no
+signi?cant section loss. However, we expect that there will be a Few areas that will need
+some strengthening where the corrosion damage may be more severe.
+
+c. The existing gypsum rooF slab above the theatre main seating area has several holes
+which have allowed water to leak onto the structural members which has led to the
+corrosion problems. A majority oF the panels are water damaged and are bowed. We
+recommend replacement ol the roo?ng system. At that time the hangers For the catwalk
+can be inspected where they are embedded in the gypsum and hook over the steel
+purlins.
+
+d. Catwalk: The majority oF the catwalk is in Fair condition, but there are a couple areas
+where the hangers and associated connections are corroded or loose and need to be
+repaired to restore capacity.
+
+e. The grand Foyer roo?ng system needs to be repaired. There are several holes along the
+sloped portion adjacent to the oFFice building. The root slab appears to be cast-in?place
+concrete. The steel beams and girders are generally in good condition. There is some
+corrosion where a beam and girder Frame into the large truss discussed in Item 1 above.
+We weren't able to see the condition ot the rivets on the grand Foyer side but have
+included some contingency as part oF the truss repair.
+
+F. Terra cotta capstones extend around the perimeter ol the rooFs. Installing a Coping would
+be an eFFective way to stop water From entering through the bed joints and cap joints.
+
+6. Facade
+
+a. The walls along the alley and parking lot are constructed with common brick. Water is
+leaking through the wall and probably the parapet above as evidenced by leach stains
+and Freeze thaw damage. There is approximately 500 sq Ft oF brick replacement required
+to replace the spalled and delaminated brick.
+
+There is also a an area along the north side that has unFinished mortar joints where the
+wall was constructed next to an existing building that was torn down some time since
+
+. Mr. Beal
+. WALKER July l2, 2007
+
+RESTORATION CONSULTANTS
+Page (3 of 7
+
+original construction of the theatre. We expect that this wall is not water tight as the
+edges of the protruding mortar Funnel the water into the building. The most practical
+repair seems to be plastering this section of the wall rather than try to tuckpoint the mortar
+ioint.
+
+To help limit the water absorption and subsequent brick deterioration, we recommend the
+installation of a penetrating masonry sealer along these elevations with common brick.
+
+b. Along the Clifford street elevation, face brick matching the office building was used. There
+are a few small areas that need brick replacement near the top of the wall. This will likely
+requiring a minor amount of shelf angle repair. There also are some spot areas of eroded
+ioints that we could see along the lower portion that need tuckpointing as well as the
+numerous head joints that are open.
+
+7. Other:
+
+a. The concrete slab and Framing in the main level seating area and grand foyer appears to
+be in good condition based on our review of the limited amount of floor surface that was
+exposed and the limited ceiling area that we could see from the basement level. Most of
+the slab extends over a plenum space that we could view into from a wall opening along
+one of the basement hallways.
+
+b. The fan room above the grand foyer has several concrete wall panels that have fallen onto
+the grand foyer roof. The remaining panels will likely need to be removed and the steel
+angles that serve as column supports for the roof may need to be reinforced.
+
+c. Fire escape stairs at exterior: We looked at a few sections of the fire escapes on the west
+side [others occur along the east side and from the auditorium roof down to the lower
+roof). 
+
+The main support triangular support brackets attached to the walls are in fair condition.
+We could not see the condition of the anchors or members in the wall that support these
+brackets. The floor members and stairs are experiencing a significant amount of
+deterioration at several locations that as a minimum will require replacement of severely
+rusted members, as well as new bolts at all stair step support angles. The awning roof
+above the fire escapes also needs to be replaced.
+
+For budgeting purposes we suggest that you budget for all new flooring and stairs plus a
+contingency for possible reanchoring of some of the triangular brackets (test excavations
+can be made to determine the condition and type of existing anchors.)
+
+8. Steel Stairs: All of the interior steel stair section leading from the basement to the balconies
+are severely corroded and need replacement including some of the hanger rod connections
+that attach to the stair stringers.
+
+Mr. Beal
+WALKER July 12, 2007
+
+RESTORATION comsunmrs
+Page 7 oi 7
+
+LIMITATIONS
+
+The purpose of our engineering eiiort was to evaluate the extent oF deterioration based on our
+visual survey, and to determine the general type of repairs expected to restore the structural
+Framing members close to their original condition. This eiFort does not involve an analysis to
+determine if the structural design meets the original or current structural code or other code
+requirements.
+
+This concludes our review of the theatre building. Please call have any questions.
+
+Sincerely,
+Walker Restoration Consultants
+
+
+
+Rick G. Klein, P.E.
+
+Director at Operations
+
+Enclosure: Section Thru Balconies
+
+ 
+
+ 
+
+ 
+
+ 
+
+?56 7/0/1/ - 775%! 32% gay/?57
+
+in
+
+- Esm-
+
+ 
+
+ 
+
+ 
+
+?33? xv?. .. 
+
+
+
+ 
+
+1a g7?
+. afgm?gfs dwz?-e
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    
+
+ 
+
+
+. 
+1' 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+51M ?0034
+
+
+may. a.
+
+ 
+
+ 
+
+ 
+
+. (?Tum-12m 1.:qu :Juawltap as LLOW -
+TILL HI slut. ?wuL. gallium: 
+
+"bl ..-
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.
+1 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hymn/Av: 
+
+3-128:- ?.97
+
+ 
+
+ 
+
+ 
+
+ 
+
+-5 snow Tap as ?51'..de
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+
+      
+
+ 
+
+- - 
+
+
+64:(cmfc/?afgl/m?. - IT -. .. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+I
+
+
+ 
+
+From: Klein, Rick [mailto:Rick.Klein@walkerparking.com]
+Sent: Wednesday, September 05, 2012 5:13 AM
+To: Fred Beal
+Subject: United Artist Theatre
+Based on our walk-through of theatre building with you on September 4th, we offer the following
+safety recommendation related to the structural supports for the projection room located on the
+mezzanine level. The original mezzanine seating was removed in this area and replaced with
+precast floor planks and a concrete topping at some time in the past. The steel angles and
+brackets that were added to support this floor system are severely corroded and structurally
+unreliable (Note: In recent years, these support angles were exposed following removal of the
+plaster and lathe ceiling.) As a minimum, we recommend that one of the two options listed below
+be implemented right away to address this structural safety concern:
+1. Remove the precast floor system and perimeter walls bearing on the floor system.
+2. Install temporary shoring along bearing edges of each floor section to support the dead load,
+and extend the shoring down two levels to the grade slab in the plenum space.
+
+Please contact me if you have any questions.
+
+ Walker Restoration Consultants
+525 Avis Drive, Suite 1
+Ann Arbor, MI 48108
+Voice: 734.663.1070
+Fax:
+734.663.1717
+www.walkerrestoration.com
+
+July 30, 2013
+
+Mr. Fred Beal
+J. C. Beal Construction
+221 Felch
+Ann Arbor, Michigan 48103
+Re:
+
+United Artists Theatre - Structural Condition Assessment Update
+
+Dear Fred,
+Walker has completed our review of the structural framing and exterior masonry as an update to
+our original review in 2007. The purpose of the update review is to determine if there are any
+significant changes in the conditions and to address any conditions requiring immediate repair.
+Our review involved a visual survey of the exterior wall, exposed structural members including the
+areas were encasement concrete over steel members was removed during our 2007 review. Our
+review does not involve a structural analysis since your main objective at this stage is to get a
+general understanding of the severity and extent of repairs. If the owner chooses to restore the
+building, then at that time a detailed analysis will need to be performed to further evaluate the
+type of repairs required and develop repair details and specifications.
+Refer to the Table 1 in this report for an ‘order of magnitude’ cost for expected structural repairs.
+The attached original design drawing shows a section through the balconies with room and level
+designations to aid in locating the areas referenced in this report.
+EXECUTIVE SUMMARY
+There are no significant changes in the deterioration conditions discussed in the 2007 report
+other than one area of bowing brick at the west side of the stage over an upper roof that was not
+observed in our 2007 survey. Overall, there has been a big improvement in the reduction of roof
+leaks. In 2007 there were many holes in the roof allowing water to pour over the structural
+members that led to corrosion damage. At this time there are a few smaller roof leaks in the
+vicinity of the fan room over the grand foyer and along the perimeter of the roof along the
+masonry walls. Beal Construction was in the process of patching these areas during our survey.
+Considering the poor condition of this roof, ongoing patching on an annual basis will likely be
+needed. Over the fan room at the back of the balcony, we recommend a new roofing membrane
+to stop leaking and corrosion damage to the structural members below.
+
+ Mr. Beal
+July 30, 2013
+Page 2 of 11
+
+Theatre Roof:
+Most of the main structural steel components of the theatre roof are generally in good condition
+with most members showing no significant corrosion damage. We have included an allowance
+amount for in our cost opinion for deterioration conditions requiring repair may be uncovered at
+the encased connection locations when more of the structural components are uncovered during
+construction. There also are 2-3 small sections of the roof catwalk that will need to be repaired
+when the building is restored. Beal Construction plans on repairing one of these at this time since
+it serves as the main entrance to the catwalk system.
+The entire gypsum roof slab and roofing membrane need to be replaced. Approximately 70% of
+the gypsum roof slab is water damaged and bowed. There are a couple sections that have fallen
+and are still hanging. These need to be removed to eliminate a falling hazard.
+Other Structural Framing:
+Prior leaks and a few active leaks have led to corrosion of most of the structural steel beams and
+connections supporting the balconies at the back of the theatre. Most of the corrosion is minor
+and will only require cleaning and painting, but a few structural repairs will be needed where the
+corrosion has led to significant thinning (section loss) of the steel members. Based on our
+measurements and visual observations, we have included an opinion of probable cost for
+expected structural steel repairs.
+In 2007, we found significant corrosion damage and active leaking occurring at the ends of the
+large truss at the back of the theatre that spans the full width of the theatre and supports a heavy
+load from the fan room, roof, projection room, etc.. Only a minor leak was observed near the
+truss during our recent survey during a rain event, and there was no noticeable change in the
+corrosion damage. As with all the structural members that are experiencing corrosion damage, a
+structural analysis will be needed to define the extent of repair work required.
+In 2007 we also reported extensive corrosion damage
+precast floor planks within the room that was added in
+seating area. Temporary shoring was added recently.
+solution involves removal of the precast floor system so that
+
+at the steel members supporting the
+the center of the mezzanine balcony
+Our recommended long term repair
+the steel supports can be replaced.
+
+The concrete floors slabs are generally in good condition as previously reported and will only
+require “spot” repairs where localized deterioration occurs.
+Façade:
+There is no significant change in the exterior wall condition since our last review. The walls are
+generally in fair condition with deterioration conditions typical for a building of this age. These
+walls are generally nonload bearing need typical masonry repair and waterproofing type repairs.
+There is a bowed section of brick that we observed from a roof area over the stage that we did
+not review up close during the 2007 survey. This area will need to be removed and replaced
+and is at the point where it may fall out within the next few years, however this occurs over a roof
+
+ Mr. Beal
+July 30, 2013
+Page 3 of 11
+
+area and is not a hazard to the public on the roadway below. The condition of the brick façade
+along Clifford and the alley are similar to what we saw in 2007. There is a small section along
+Clifford near the roof line that shows signs of slight bowing and movement that needs to be
+monitored in the event that it moves further and requires repair. Accordingly, we recommend that
+the sidewalk remain closed in this area to be monitored brick on the parking lot. The brick wall
+along the parking lot side is a more porous type brick that is experiencing typical freeze-thaw
+damage that will require spot brick replacement and waterproofing repairs.
+
+The items above are discussed in more detail in Section “Summary of Findings/
+Recommendations” along with other building elements that we observed during our review of the
+structural framing. Our overall cost opinion below is similar to the 2007 estimate with an overall
+increase of 10% for price escalation and minor adjustments.
+
+Table 1: OPINION OF PROBABLE REPAIR COST
+Structural Framing and Façade Repairs
+Work Item Description
+
+Cost
+
+1
+
+Truss at Back of Theatre
+
+$
+
+175,000
+
+2
+
+Roof Purlins and Column-Truss Conn'ns
+
+$
+
+90,000
+
+3
+
+Structural Framing and Concrete Floors
+
+$
+
+260,000
+
+4
+
+Rebuild Floor at Added Room at Mezzanine
+(Potential girder repairs include in item 3)
+
+$
+
+105,000
+
+5
+
+Masonry Facade Repairs
+
+$
+
+150,000
+
+Subtotal $
+
+780,000
+
+Contingency (20%) $
+
+156,000
+
+Engineering and Testing (15%) $
+
+117,000
+
+GRAND TOTAL $
+
+1,053,000
+
+Notes:
+1. Engineering and Testing cost are for budgeting purposes only.
+2. Only structural framing repair cost and masonry cost shown.
+Cost for new roofing system, parapet coping, fire escapes, and stair sections
+not included.
+
+ Mr. Beal
+July 30, 2013
+Page 4 of 11
+
+SUMMARY FINDINGS/RECOMMENDATIONS
+1. Truss at back of Theatre:
+a. This large truss spans across the width of the
+theatre and in general, supports portions of
+the upper projection room, upper roof,
+grand foyer roof and fan room above the
+grand foyer. The leaking upper roof in this
+area was repaired in 2007 and appears to
+be watertight at this area as we did not see
+any major leaking on truss during a recent
+rain storm except for a minor leak at the
+west end near the parking lot side.
+However, past leaks have resulted in some
+significant corrosion damage to the steel members comprising the truss at the end east end
+(alley side). If the structure is returned to service, then repairs are needed to restore the
+members to their original capacity. This will likely involve some rivet replacement and
+strengthening with supplemental steel members. Because the truss supports some large
+loads that cannot be removed, the repairs will need to be performed in a phased
+approach and may need some temporary shoring to support the loads during repair.
+b. There is some corrosion at the west end
+(parking lot side) of this large truss where
+water has been leaking through the roof in the
+past and some current minor leaks. We were
+not able to get up-close to this end, but from
+what we can see we expect the repairs to be
+significantly less than that required at the other
+end.
+
+2. Mezzanine Balcony:
+a. There was no noticeable change in the beam
+conditions from our 2007 survey. Portions of
+the steel beams supporting the mezzanine
+balcony are encased with concrete. In 2007,
+we removed concrete encasement at three
+leaking areas as part of our survey. At two of
+the areas the steel beam and connections
+were in good condition and at the other area
+there was about a 1/8” of rust build-up which
+is not a significant concern. At that time we
+also observed an exposed beam and a beamto-column connection with a substantial
+
+ Mr. Beal
+July 30, 2013
+Page 5 of 11
+
+amount of section loss from corrosion that we expect will need to be repaired if the
+structure is returned to service in order to restore original capacity. We also expect that
+there will be a few more hidden conditions that will require some strengthening repair.
+
+b. Structural modifications were made to the
+balcony seating at some time since original
+construction. A room was added in the center
+portion of the seating area. The original
+concrete seating was removed and a flat floor
+comprising precast planking was placed on
+steel angle supports that were attached to the
+original steel framing.
+The steel angles,
+triangular connection plates and associated
+welds are heavily corroded and need to be
+replaced before the structure is returned to
+service.
+Temporary shoring was installed
+recently as a precaution. The permanent repair will require replacement of the precast
+floor planks (approximately 700 sq. ft.). Also, we could not view the original cantilevered
+steel girders in this area due to the floor system that cover these girders. We have
+included an allowance in Table 1 for potential girder repairs.
+c. The original concrete floor appears to be in good condition based on view from the
+underside with only a small amount of floor repair anticipated.
+
+3. Balcony Promenade and Vomitory:
+a. There are a few beams that have some heavy rust build-up and will require repair, and we
+expect that there will are some hidden conditions that will require repair. There also are 6
+hanger supports from the level above that support some of the beams at the balcony
+promenade and vomitory. The four that we could see from the level below have a
+significant amount of corrosion and likely will need to be strengthened.
+b. The original concrete floor appears to be in good condition based on view from the
+underside with only a small amount of floor repair anticipated.
+4. Upper and Lower Balcony:
+a. The beams and floor slabs are similar to the
+condition
+found
+at
+the
+balcony
+promenade/vomitory as described in item 3 above.
+
+ Mr. Beal
+July 30, 2013
+Page 6 of 11
+
+b. The main support girders running parallel to the
+aisles are in good condition. These frame into a
+larger girder that spans the width of the theater.
+We were not able to do an up-close survey of this
+larger girder except at an end connection from the
+mezzanine level where there was only evidence of
+a minor amount of corrosion. We do not expect
+any strengthening repairs.
+5. Roof:
+a. Structural Steel Members - The main support trusses in the theatre area are generally in
+good condition with only a minor amount of corrosion found at a few areas. The purlins
+also appear in good condition except there are several along the wall that are corroded
+and several of these may need to be replaced or repaired as part of the roof replacement
+work.
+b. In 2007, the brick surrounding a truss-to-column
+connection was removed at a leaking area so we
+could see the extent of corrosion to get a better
+idea what to expect at other areas that are covered
+with brick. We found that there was about a 1/8”
+of rust buildup, but no significant section loss.
+However, we expect that there will be a few areas
+that will need some strengthening where the
+corrosion damage may be more severe.
+c. In 2007, several holes in the gypsum roof slab
+above the theatre main seating area were patched
+to help stop water entry and resulting corrosion
+damage. Ongoing leaking observed along the
+perimeter were being patched during this update
+survey.
+Approximately 70% of the gypsum
+panels are water damaged and are bowed, and a
+couple panels have partially fallen and are
+hanging from the purlins. These occur near the
+back of the main seating near the catwalk access
+ladder along the east wall (alley wall) and need to
+be removed to eliminate a potential fall hazard.
+We recommend replacement of the roofing system. At that time the hangers for the cat
+walk can be inspected where they are embedded in the gypsum and hook over the steel
+purlins.
+d. Catwalk: The majority of the catwalk is in fair to good condition, but there are a few
+areas where the hangers/framing and associated connections and railing are corroded or
+
+ Mr. Beal
+July 30, 2013
+Page 7 of 11
+
+loose and need to be repaired to restore capacity. Beal Construction plans on repairing
+one of these areas at this time since it occurs at the main entry to the catwalk system.
+
+e. The grand foyer roofing system was repaired in
+2007 to address the several holes along the
+sloped portion adjacent to the office building.
+Additional waterproofing at the windows along
+this area have been boarded and flashing
+installed to stop ongoing water leaking. This
+area along the perimeter was watertight during
+our survey during a rainstorm, but water is still
+entering through leaks in the fan room roof
+above. The fan room needs a new roofing
+system as spot repairs have not been able to
+stop the leaking. The roof slab of the grand
+foyer appears to be cast-in-place concrete. The
+steel beams and girders are generally in good
+condition. There is some corrosion where a
+beam and girder frame into the large truss
+discussed in Item 1 above. We weren’t able to
+see the condition of the rivets on the grand foyer
+side but have included some contingency within the truss repair item in Table 1.
+f.
+
+Terra cotta capstones extend around the perimeter of the roofs. A few caps are missing
+but have been waterproofed. Installing a metal coping over the parapet would be an
+effective longterm solution to stop water from entering through the bed joints and cap
+joints.
+
+6. Façade
+a. The walls along the alley and parking lot
+are constructed with common brick which is
+typically more porous making it susceptible
+to freeze-thaw related damage. Water is
+penetrating into the brick and is also
+probably leaking into the wall from the
+parapet cap/bed joints.
+There is
+approximately 500 sq ft of brick
+replacement required to replace the spalled
+and delaminated brick at the outer wythe.
+There is also a an area along the north side that has unfinished mortar joints where the
+wall was constructed next to an existing building that was torn down some time since
+original construction of the theatre. We expect that this wall is not water tight as the
+
+ Mr. Beal
+July 30, 2013
+Page 8 of 11
+
+edges of the protruding mortar funnel the water into the building. The most practical
+repair seems to be plastering this section of the wall (approximately 20 foot x 40 foot)
+rather than try to tuckpoint the mortar joints.
+To help limit the water absorption and subsequent brick deterioration, we recommend the
+installation of a penetrating masonry sealer along these elevations with common brick.
+b. Along the Clifford street elevation, face
+brick matching the office building was
+used. There are a few small areas that
+need brick replacement near the top of the
+wall. This will likely require a minor
+amount of shelf angle repair. We also
+noted slight bowing of the wall in a
+couple areas but no significant change
+from 2007. We recommend that this
+area be monitored to determine if there is
+any further movement that would warrant
+performing repairs at that time. As a
+minimum, the sidewalk needs to remain
+closed.
+
+Slight bowing
+
+Excessive
+bowing
+
+Slight bowing
+
+We found excessive bowing in the masonry façade along the east end of the stage roof
+where the stage roof slab frames into the wall. This bowing is likely due to a corroded
+shelf angle or corroding concrete beam, or could be related to a design or construction
+flaw. We recommend rebuilding this portion of the wall before it falls and damages the
+roof and wood framed structure below. This occurs over a roof area and is not considered
+a public hazard.
+There also are some spot areas of eroded joints and numerous open head joints that we
+could see along the lower portion that need tuckpointing. Sealants, tuckpointing and
+localized brick replacement and lintel repairs can be expected at other areas along the
+building.
+7. Other:
+a. The concrete slab system in the main level seating area appears to be in good condition
+based on our review of the floor surface the limited the limited ceiling area that we could
+see from the basement level. Most of the slab extends over a plenum space that we could
+view into from a wall opening along one of the basement hallways. Where the slab
+extends along the west side of the stage there is a small amount of ceiling deterioration
+along the concrete joists. A relatively minor amount of repair is expected in the grand
+foyer area.
+
+ Mr. Beal
+July 30, 2013
+Page 9 of 11
+
+b. The concrete roof slab over the stage has some corrosion
+related concrete spalls (approximately 30 sf at south west
+corner and few minor areas in the concrete ceiling joists
+in the vent room over the stage.). The loose concrete was
+removed and no further leaking appears to be occurring.
+We understand the roof above was replaced recently.
+c. In 2007, the falling fan room walls over the grand foyer were replaced with OSB panels
+with waterproofing along the seams. The panel are performing well, but may need some
+minor waterproofing where the seams have opened a little a may be letting water in.
+d. Fire escape stairs at exterior: We looked at the fire escapes occurring in the alley and
+parking lot sides of the theatre from the ground level using binoculars. We also looked at
+the fire escape along the east side and from the stage roof down to the lower roof. We
+noted that the metal roof structure over the fire escape along the parking lot side was
+removed in recent years.
+The main triangular support brackets attached to the walls are in fair condition. We could
+not see the condition of the anchors or members in the wall that support these brackets.
+The floor members and stairs are experiencing a significant amount of deterioration at
+several locations that as a minimum will require replacement of severely rusted members,
+as well as new bolts at all stair step support angles. The remaining metal roofs above the
+fire escapes also needs to be replaced or removed.
+For budgeting purposes we suggest that you budget for all new flooring and stairs plus a
+contingency for possible re-anchoring of some of the triangular brackets (test excavations
+can be made to determine the condition and type of existing anchors.)
+
+8. Steel Stairs: All of the interior steel stair section leading
+from the basement to the balconies at north end and the
+ones along the south end at each side of the stage are
+severely corroded and need replacement including some of
+the hanger rod connections that attach to the stair stringers.
+The one at the northeast corner needs to be closed due to
+the extent of corrosion damage. The others will need to be
+monitored and should not be used for heavy loads.
+
+ Mr. Beal
+July 30, 2013
+Page 10 of 11
+
+LIMITATIONS AND ASSUMPTIONS
+This report was prepared for the owner of the United Artist Building/Theatre to assist in evaluating
+the overall condition of the building facade and to determine the general type of repairs expected
+to restore the structural framing members close to their original condition. This effort does not
+involve an analysis to determine if the structural design meets the original or current structural
+code or other code requirements. The report is not intended for the use of or reliance on of any
+other party. The information provided is for use with additional judgments regarding financial,
+technical, and operational issues. It is based upon limited visual observations of the structure and
+required certain assumptions to be made regarding existing conditions. The report is our
+expression of our professional opinion to the best of our information, knowledge and belief, and
+does not constitute a warranty or guarantee of the items noted, cost opinions, the present or future
+conditions, or the discovery of possible latent conditions. This assessment provides planning and
+budgeting information and has not progressed beyond the conceptual phase. Testing for
+hazardous materials is not included in the scope of our services and is not reflected in our opinion
+of repair costs.
+This concludes our review of the theatre building. Please call if you have any questions.
+Sincerely,
+Walker Restoration Consultants
+
+Rick G. Klein, P.E.
+Director of Operations
+Enclosure: Section Thru Balconies
+
+ Mr. Beal
+July 30, 2013
+Page 11 of 11
+
+South side (Clifford Street)
+
+West side (parking lot)
+
+North side
+
+Roof
+
+  
+
+ 
+
+ 
+
+ 
+
+?56 7/0/1/ - 775%! 32% gay/?57
+
+in
+
+- Esm-
+
+ 
+
+ 
+
+ 
+
+?33? xv?. .. 
+
+
+
+ 
+
+1a g7?
+. afgm?gfs dwz?-e
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    
+
+ 
+
+
+. 
+1' 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+51M ?0034
+
+
+may. a.
+
+ 
+
+ 
+
+ 
+
+. (?Tum-12m 1.:qu :Juawltap as LLOW -
+TILL HI slut. ?wuL. gallium: 
+
+"bl ..-
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.
+1 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hymn/Av: 
+
+3-128:- ?.97
+
+ 
+
+ 
+
+ 
+
+ 
+
+-5 snow Tap as ?51'..de
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+
+      
+
+ 
+
+- - 
+
+
+64:(cmfc/?afgl/m?. - IT -. .. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+I
+
+
+ 
+
+Lopez Engineering, Inc.                                       Structural Consulting
+7508 M E Cad Blvd
+Suite C
+Clarkston, MI 48348
+248-634-0444 (Ph.)
+248-297-5200 (Fax)
+June 25, 2015
+Mr. Fred Beal
+An inspection was performed at the above location on June 5, 2015. The nature of the inspection was to
+review the existing structure and the existing shoring present for the structure. The building has been
+vacant for an extended period of time and temporary shoring has been added at some time.
+The existing shoring is present to support precast planks and steel beams for the second level of the
+structure. A room was enclosed with masonry after the original construction was completed. The
+existing shoring is present below the precast, but it would be prudent to add additional shoring to insure
+that the structure will remain sound and prevent any possible collapses. Structural reinforcing of the
+beams will be required to be determined prior to removal of the installed shoring if the building is going
+to be functional in the future.
+The additional shoring required for the precast is as follows. Additional shoring columns should be
+placed between the existing 4x4 columns supporting the existing precast planks. The masonry wall at the
+front of the projection room should also have a line of shoring towers installed. This area is currently not
+shored and adding the shoring will provide insurance that a collapse will not occur in the future. The
+shoring posts shall be placed at a maximum of 8’-0” on center and be located along the full width of the
+masonry wall above.
+The existing slab was found to be a minimum of 7” thick for the main floor. The slab will be capable of
+supporting the loads from the shoring.
+Please let me know if you have any questions.
+Thanks
+
+Mike Wise
+Lopez Engineering
+ 
+
+ 

@@ -1,0 +1,2874 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, June 24, 2014 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+
+I.
+
+Attendance/Call to Order
+Chairman Collens called the meeting to order.
+Present:
+
+Chairman Lewis M. Collens and Directors Luis Muñoz, MD, MPH and Wayne M. Lerner (3)
+Directors Ada Mary Gugenheim and Carmen Velasquez
+Mr. Patrick T. Driscoll, Jr. (non-Director Member)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+David Barker, MD – Ruth M. Rothstein CORE
+Center of Cook County
+Krishna Das, MD – System Chief Quality Officer
+Anwer Hussain, MD – Provident Hospital of Cook
+County
+Randolph Johnston –System Associate General
+Counsel
+
+II.
+
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Interim Chief Executive
+Officer and Chief of Clinical Integration
+Robert Weinstein, MD – Chairman, Department of
+Medicine
+
+Public Speakers
+Chairman Collens asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report from System Chief Quality Officer
+A. Regulatory and Accreditation Updates
+B. Publicly Reported Ratings
+Dr. Krishna Das, System Chief Quality Officer, stated that she had no new regulatory or accreditation issues
+to report.
+Dr. Das stated that, with regards to the recent Ambulatory survey by representatives of The Joint
+Commission, evidence of standards of compliance have been submitted; they will need four months of
+monitoring before they hear the final determination about the certification. She added that staff is still
+waiting and actively preparing for Provident Hospital’s triennial visit from The Joint Commission.
+
+Page 1 of 59
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 24, 2014
+Page 2
+
+III.
+
+Report from System Chief Quality Officer (continued)
+C. Key Quality Indicators Report: FY2014 – 1st Quarter (Attachment #1)
+Dr. Das provided an overview of the Key Quality Indicators Report.
+discussed the information.
+
+The Committee reviewed and
+
+During the discussion of the information regarding the Emergency Department (ED) Arrival to Admission
+inpatient data, Director Lerner asked whether the Centers for Medicare and Medicaid Services (CMS)
+allows for that line to be cut down by cohort of patients, if the patients were staged or ranked; additionally,
+he inquired whether the System cuts back that information to look at the cohort of patients. Dr. Das
+responded affirmatively. The administration particularly looks at the wait time to provider data, because it
+is felt that once the patient is in the hands of the ED providers, they are in a safer environment and there is
+very close monitoring. In terms of ED arrival to admission times, the administration can look at the data by
+acuity - most of these patients have higher levels, and for these patients, if there are longer waits, it is either
+related to bed availability or ED testing, so that data can be shown. She stated that, the point is, when the
+patient is in the ED, they are already receiving inpatient care; because of the long waits in the ED and the
+need to initiate care, the inpatient teams actually go down to the ED and collaborate with the ED staff to
+start inpatient care.
+Chairman Collens noted that the Trauma Unit has its own admissions function, separate from the ED; he
+asked for further information on an example of a patient seen in the Trauma Unit who is quickly transferred
+to admissions. Dr. Das responded that when someone enters the Trauma Unit, they are essentially admitted
+almost immediately. They are within the Trauma Unit, receiving all types of care, even intensive care; they
+may have gone to the operating room and come back to the unit, but during that entire time, because of the
+type of admission, they are classified as observation patients. In that setting, during that time where all
+kinds of very high level medical care was delivered, the patient is still considered officially not admitted.
+The administration is having discussions to see if the Trauma Unit’s administrative staff could do whatever
+it takes in the system to put the patients in a different status – that would be how the ED Arrival to
+Admission numbers would decrease. There is nothing staff can do to optimize or enhance the care provided
+in the Trauma Unit, because staff is already providing an extremely high level of care in a very short time
+period.
+Director Muñoz inquired regarding the percentage of Trauma Unit patients versus regular ED patients. Dr.
+Das stated that, in any given data set of 100 ED and Trauma Unit patients, there are approximately 3 to 5
+Trauma Unit patients (or 3-5%), which is not a large number of patients; however, the Trauma Unit patients
+are really outliers in terms of their times, and that has contaminated the whole data set.
+Director Lerner inquired whether the System utilizes the concept of huddles, which is a group of
+multidisciplinary professionals that come together on the patient’s care. Dr. Das responded that this is an
+initiative that has been rolled out in the Ambulatory clinics. On the inpatient side, for a couple of years
+now, interdisciplinary rounds have been held on the general Medical/Surgical Units; additionally, all of the
+Intensive Care Units have interdisciplinary rounding as a standard. Director Lerner inquired whether those
+currently involve the patient or the patient’s family. Dr. Das responded in the negative. Director Lerner
+stated that this might be something to consider, as he has found that to be effective for patients with chronic
+disease; it also works with patients with acute problems. Dr. Das indicated that there is widespread interest
+in that.
+
+Page 2 of 59
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 24, 2014
+Page 3
+
+III.
+
+Report from System Chief Quality Officer (continued)
+C. Key Quality Indicators Report: FY2014 – 1st Quarter
+In response to Director Gugenheim’s question regarding staffing levels for Dr. Das’ department, Dr. Das
+stated that the department is growing. She currently has the following staff: one staff member at Provident,
+three staff members within the ACHN clinics, two Assistant Directors (one who manages data and one who
+abstracts data). She noted that most hospitals this size have between four and six persons who only abstract
+data. She added that she has two positions that are currently in recruitment for quality data abstraction, so
+when those positions are filled, she will have three people performing that function. Dr. John Jay Shannon,
+Interim Chief Executive Officer and Chief of Clinical Integration, provided additional information. He
+stated that that there is an organizational philosophy connected to that subject. There is no question that the
+infrastructure for quality is strategic and the organizational awareness piece needs to be amped-up;
+however, the misconception that he wants to avoid is that the Quality Department produces quality for the
+organization - it is 100% across-the-board organizational ownership of the production of quality. The
+Quality Department can only support, guide and give a little bit of supporting function to that.
+
+D. Quality Report – Ruth M. Rothstein CORE Center of Cook County (Attachment #2)
+This item was taken out of order.
+Dr. David Barker, Chief Medical Officer of the Ruth M. Rothstein CORE Center of Cook County, provided
+an overview of the CORE Quality Report. The Committee reviewed and discussed the information.
+During the discussion of the information on viral suppression, Director Lerner inquired whether there has
+ever been a study on the social cost benefit for those patients whose viral load is suppressed and who remain
+engaged in ongoing care. From a public health policy point of view, he stated that what one would want to
+look at is the social cost benefit of doing this kind of treatment and outreach - how many people does CORE
+get to the viral suppression stage and who are back in the workforce, producing economic development,
+gainfully employed, those kinds of things. If a study on the social cost benefit is done, it shows the validity
+of going through this process, and it gives standing to the people who are policymakers to continue to fund
+this. Dr. Barker responded that there are quite a bit of data about cost effectiveness of HIV care. The
+current annual cost of treating someone who has reasonable CD4 counts is about $17,500 per year, which is
+well within the range of what is considered cost effective. The years of additional life gained through HIV
+care are essentially currently unbounded; as the average age of patients receiving care is 35, the patient is so
+far below median mortality, which is what is needed in the Kaplan Meier assessment to calculate mortality,
+that one really cannot tell how many years are being added to people’s lives. The Danes did a very good
+study on this subject; they found that the Danish patients who came to clinic and took their medications
+have a longevity that is indistinguishable from Danes who are not HIV infected. He added that Denmark
+has a national health system and that everybody has access to the care and medications.
+Dr. Barker stated that HIV care is definitely a winner, in terms of cost effectiveness, quality-adjusted life
+years, and gaining the quality of life for these patients that improves markedly - they stop losing weight, are
+less fatigued, and feel better.
+Director Lerner encouraged the administration to consider this subject as a focus for a public relations story
+in the future. A reporter might want to follow some patients and talk about the policy implications of this
+kind of intervention. He stated that the public does not understand it; additionally, there is a fear factor, so
+this is another way of getting the message across.
+Page 3 of 59
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 24, 2014
+Page 4
+
+III.
+
+Report from System Chief Quality Officer
+D. Quality Report – Ruth M. Rothstein CORE Center of Cook County (continued)
+Director Gugenheim stated that this is an amazing success story of the medical home concept and successful
+handling of a population’s health; she added that it is the model of what the System should be doing for
+every diagnosis.
+Chairman Collens thanked Dr. Barker and staff for the report. He also recognized and thanked Dr. Robert
+Weinstein, Chief Operating Officer of the Ruth M. Rothstein CORE Center, who will be transitioning into a
+different role at the end of the month.
+Dr.Shannon provided additional comments on the subject. He stated that many people in the organization
+are aware that Dr. Weinstein will be transitioning at the end of the month – he is not leaving the
+organization, but is stepping down from a couple of his formal leadership positions in the Department of
+Medicine. He has been with the organization for 20 years. He first arrived as the Chief of Infectious
+Diseases in 1994. He led the CORE Center from 1998, when it opened in its new facility until the present
+time, and has been the Chairman of the Department of Medicine since 2008. At the end of this month, he
+will transition into voluntary status and will continue to be very engaged with the organization. Dr.
+Shannon wanted to recognize him for a number of things, but most importantly, for the features of a leader
+– features that include strategic thinking, taking responsible action, and attracting and mentoring a whole
+cadre of dedicated individuals.
+Dr. Shannon stated that, in addition, he thinks that it is very important to point out the good quality results
+that Dr. Barker presented. At the CORE Center, one can see the development of the tripartite mission that
+the System has tried to accomplish throughout its history; it is around patient care, but also around teaching
+and around discovery. Those are very important and cannot be overemphasized.
+Dr. Shannon noted that two-thirds of what happens in the CORE Center comes in with extramural dollars;
+it does not cost the County taxpayer anything over and above that degree of federal dollars that come in
+through that extramural funding. In addition to that, Dr. Weinstein and the team in HIV services have
+demonstrated a remarkable stewardship. The providers and the team at the CORE Center think about how
+they are at an inflection point with the way that the country is looking at how to take care of HIV infected
+individuals. That will have significant effects, as many patients transition off Ryan White funding, which is
+the funding of last resort, to other forms of coverage, including the Medicaid expansion. That will have
+very real financial implications for the bottom line of the Medicaid Managed Care plan. The good news is
+that the previous track record of engagement of those leaders bodes well for the organization. They are
+going to help think through how to make that transition happen in a way that works for the patients and the
+System.
+Dr. Shannon referenced Director Gugenheim’s earlier comment regarding the CORE Center being a model
+for the patient-centered medical home concept. He stated that many of the things that that are being
+currently discussed relating to the patient-centered medical home are exactly analogous to the care provided
+over the years at the CORE Center - wrap-around and supportive services, integration of behavioral health,
+integration of dental health and spiritual support of the individuals. The challenge for the organization is
+going to be around scale. As Dr. Barker mentioned, there are approximately 4,000-5,000 individuals in
+chronic care at the CORE Center; in adult primary care, there are approximately 100,000 within the System
+right now, and there was recently an infusion of an additional 65,000 adults.
+
+Page 4 of 59
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 24, 2014
+Page 5
+
+III.
+
+Report from System Chief Quality Officer
+D. Quality Report – Ruth M. Rothstein CORE Center of Cook County (continued)
+With regard to the transition for the CORE Center, Dr. Shannon stated that the current Chief of Infectious
+Diseases, Dr. David Schwartz, will become the Director of the CORE Center. Dr. Barker will continue in
+his leadership role as the Medical Director for the CORE Center. Clinical operations with the CORE
+Center, which is a recognized and important part of the System’s Ambulatory Services, will be under the
+leadership of Kathi Braswell.
+
+IV.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, May 27, 2014
+Director Lerner, seconded by Director Muñoz, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of May 27, 2014. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. **Medical Staff Appointments/Re-appointments/Changes (Attachment #3)
+Director Lerner, seconded by Director Muñoz, moved to approve the medical staff
+appointments/reappointments/changes. THE MOTION CARRIED UNANIMOUSLY.
+
+C. Any items listed under Sections IV, V and VI
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Ozuru Ukoha, President of the Executive Medical Staff (EMS) of John H. Stroger, Jr. Hospital of Cook
+County, was unable to attend the meeting due to a work-related conflict that arose.
+Dr. Anwer Hussain, President of the Executive Medical Staff (EMS) of Provident Hospital of Cook County,
+presented his report. He stated that he wanted to compliment the HIV and Infectious Disease staff. As a
+clinician in the Emergency Department, he has come across quite a few newly-diagnosed HIV patients;
+without hesitation, he stated that everyone will agree it that they have a very efficient way of getting patients
+into the clinics. He thanked Dr. Weinstein, Dr. Barker and staff.
+
+VI.
+
+Closed Meeting Items
+A. **Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+The Committee did not recess the open meeting and convene in a closed meeting.
+Page 5 of 59
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, June 24, 2014
+Page 6
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Collens declared that the meeting was
+ADJOURNED.
+
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Lewis M. Collens, Chairman
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 6 of 59
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 24, 2014
+
+ATTACHMENT #1
+
+Page 7 of 59
+
+ Key Quality Indicators
+Quarter 1 2014 Report
+Cook County Health and Hospitals System
+
+Quality and Patient Safety Committee
+Cook
+C
+k County
+C
+t Health
+H lth and
+d Hospitals
+H
+it l S
+System
+t
+B
+Board
+d off
+Directors
+June 24th 2014
+
+Page 8 of 59
+
+ Inpatient Services
+
+John H. Stroger, Jr. Hospital
+Provident Hospital
+
+2
+
+Page 9 of 59
+
+Inpatient Services – Operational Efficiencies
+Indicator
+
+FY 2013 Q3
+
+FY 2013 Q4
+
+FY 2014 Q1
+
+2014
+Target
+
+Emergency dept.
+dept volume
+
+34 818
+34,818
+
+32 775
+32,775
+
+30 217
+30,217
+
+-
+
+ED Wait to be seen (minutes)
+
+140
+
+126
+
+82
+
+120
+
+ED Arrival to Admission (inpatient)
+
+620
+
+457
+
+536
+
+480
+
+ED Arrival to Discharge (outpatient)
+
+366
+
+252
+
+242
+
+240
+
+% Left w/o being seen (LWBS)
+
+9.3%
+
+7.8%
+
+6.1%
+
+8%
+
+Emergency dept. volume
+
+9,340
+
+8,804
+
+7,893
+
+-
+
+ED wait to be seen (minutes)
+
+108
+
+89
+
+109
+
+120
+
+ED Arrival to Admission (inpatient)
+
+616
+
+631
+
+658
+
+480
+
+ED Arrival to Discharge (outpatient)
+
+218
+
+223
+
+225
+
+240
+
+% Left w/o being seen (LWBS)
+
+8.6%
+
+7%
+
+6.1%
+
+8%
+
+Stroger Hospital
+
+Provident Hospital
+
+3
+Page 10 of 59
+
+ Inpatient Services – Patient Satisfaction
+Affiliate/ Indicator
+
+CY 2013 Q3
+
+CY 2013 Q4
+
+CY 2014 Q1
+
+2014
+Target
+
+% Patients ‘definitely’ recommend this
+hospital
+
+61%
+
+65%
+
+62%
+
+70%
+
+%ile Rank, ‘definitely’ recommend
+
+15th
+
+25th
+
+19th
+
+50th
+
+% Patients ‘definitely’ recommend this
+hospital
+
+58%
+
+68%
+
+68%
+
+70%
+
+%ile Rank, ‘definitely’ recommend
+
+10th
+
+33th
+
+34th
+
+50th
+
+Stroger Hospital
+
+Provident Hospital
+
+4
+Page 11 of 59
+
+ All PG DB Percentile Rank: 19%
+
+A patients’ propensity to spread positive or negative comments
+via word of mouth about our hospital
+hospital.
+
+All information provided is compiled at the direction of the Department of Quality and Patient Safety and is privileged and confidential to be used 
+solely in the course of internal quality control and for the purpose of reducing morbidity and mortality and improving the quality of patient care.
+
+Page 12 of 59
+
+ Improving Patient Experience- An Overview
+• Ensure leaders are engaged and fully supportive
+− Convene a steering committee to provide immediate leadership for
+this effort
+− Recruit a Director of Patient Experience
+• Ensure that an integrated, system-wide approach is used to improve the
+patient experience
+− Utilize consistent communication strategies
+− Plan system-wide service behavior optimization programs
+− D
+Develop
+l a fframework
+k ffor managementt accountability
+t bilit for
+f th
+the patient
+ti t
+experience
+− Utilize proven strategies to improve service recovery and patient
+experience
+6
+Page 13 of 59
+
+ Priority Index A Guide to Improvement
+
+INPATIENT REPORT
+
+ 
+
+ 
+
+ 
+
+9.0 Priority Index (Internal)
+
+The lhtemal Priority Index combines information about your hospital's performance and the relative importance of each question to respondents'
+overall satisfaction. Higher priority is given to those issues that are relatively important to respondents [high correlation coef?cients} and that you
+scored low on [low mean scores}. lQuestions are listed in decreasing priority. Pay particular attention to questions that are consistently among your
+top ten priorities. Questions that are among this period's top ten priorities appear in ooid itaiics in this and previous sections of the report.
+
+     
+
+Current Previous Periods Mean Correlation
+
+Order Order Topil] Question Score Coef?cient Priority Index
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 3 19 Staff addressed emotionai needs i53 {32] .Ti {32} so
+2 2 19 Response concernsicompiaints i'?fr' (31} st
+2 =1 ?19 Attention to speciaiipersonai needs 801 {23] .SU (38} at
+4 11 Wait time for test or treatments i1-5 -SS (19}
+
+4 ?14 ?1 Staff inciude decisions E5112 {22] .TB {34}
+
+5 4 Nurses? attitude toward requests 81.0 .i3 [35}
+
+i? 1? 1 Staff attitude toward visitors 82.5 {12] St {39}
+
+1 19 Nurses irept you informed (3D)
+
+3 5 2 Expianationsdtappen during TST i?Ei? {25] .T3 {25}
+
+2 Accommodations comfort visitors {24} -i3 [26}
+
+7
+
+Page 14 of 59
+
+Improving
+p
+g Patient Experiencep
+Specific
+p
+Approaches
+pp
+• Develop unit specific/ area specific evidence based strategies to improve
+the perception of care and satisfaction with care:
+− Bedside shift reports
+− Bedside shift reports
+− White boards/ communication boards
+− Physician
+Ph sician comm
+communication
+nication inter
+interventions
+entions
+− Service recovery strategies for wait times and delays
+• Develop a robust and sustainable rewards and recognition program
+• Leadership rounds
+
+8
+Page 15 of 59
+
+ Inpatient – Quality of Care
+Affiliate/ Indicator
+
+CY 2013
+Q2
+
+CY 2013
+Q3
+
+CY 2013
+Q4
+
+CY 2014
+Q1
+
+2014
+Target
+
+Myocardial Infarction
+
+98%
+
+98%
+
+99%
+
+99%
+
+100%
+
+Heart Failure
+
+97%
+
+97%
+
+98%
+
+100%
+
+100%
+
+P
+Pneumonia
+i Care
+C
+
+89%
+
+92%
+
+92%
+
+94%
+
+100%
+
+Surgical Care
+
+98%
+
+99%
+
+99%
+
+99%
+
+100%
+
+Myocardial Infarction
+
+na
+
+na
+
+na
+
+na
+
+100%
+
+Heart Failure
+
+92%
+
+100%
+
+100%
+
+99%
+
+100%
+
+Pneumonia Care
+
+83%
+
+91%
+
+92%
+
+96%
+
+100%
+
+Surgical Care
+
+99%
+
+97%
+
+100%
+
+100%
+
+100%
+
+Stroger Hospital
+
+Provident Hospital
+
+9
+Page 16 of 59
+
+ Quarter (% compliance)
+
+10
+
+Page 17 of 59
+Medians
+Apr-14
+
+1 Q 2014
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+1Q 2012
+
+4Q 2011
+
+3Q 2011
+
+2Q 2011
+
+1Q 2011
+
+% compliance
+
+Heart Failure Composite Score
+
+100
+
+98
+
+96
+
+94
+
+92
+
+90
+
+88
+
+86
+
+84
+
+82
+
+80
+
+Goal (100)
+
+ 80
+
+Quarter (% Compliance)
+
+11
+
+Page 18 of 59
+
+Medians
+Apr-14
+
+1Q 2014
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+1Q 2012
+
+4Q 2011
+
+3Q 2011
+
+2Q 2011
+
+1Q 2011
+
+%c
+compliance
+
+Pneumonia Composite Score
+
+100
+
+98
+
+96
+
+94
+
+92
+
+90
+
+88
+
+86
+
+84
+
+82
+
+Goal (100)
+
+ Surgical Improvement Project (SCIP)
+Composite Score
+100
+98
+
+94
+92
+90
+88
+86
+84
+
+Quarter (% Compliance)
+
+Median
+12
+Page 19 of 59
+
+1Q 2014
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+1Q 2012
+
+4Q 2011
+
+3Q 2011
+
+80
+
+2Q 2011
+
+82
+1Q 2011
+
+% Complianc
+ce
+
+96
+
+Goal (100)
+
+ Quality Data Display -- Cerner Lighthouse
+
+Patient Information
+P
+A
+T
+I
+E
+N
+T
+.
+D
+E
+T
+A
+I
+L
+S
+
+Quality Indicators
+
+P
+H
+Y
+S
+I
+C
+I
+A
+N
+.
+I
+N
+F
+O
+13
+Page 20 of 59
+
+ Improvement
+p
+Process
+• Identify process owner for each metric
+• Send original data for review
+• Identify improvement opportunities
+− coding
+− practice guidance
+• Implement
+I l
+t process standardization
+t d di ti
+• Measure compliance
+• Provide departmental feedback
+• Provide individual feedback
+
+14
+Page 21 of 59
+
+Hierarchyy of Improvement
+p
+Methods
+1. Individual practice patterns
+2. Incomplete order sets – free
+standing or external
+standing,
+guidance, available through
+EMR
+3. Complete, fully integrated
+order sets
+4. Order sets supported by
+institutional guidelines
+5 Add monitoring and point of
+5.
+care guidance
+
+ Outpatient Services
+Ambulatory and Community Health Network
+R th M
+Ruth
+M. R
+Rothstein
+th t i CORE Center
+C t
+Cook County Department of Public Health
+
+15
+Page 22 of 59
+
+ Outpatient
+p
+Services – Quality
+y of Care
+Affiliate/ Indicator
+
+CY 2013
+Q2
+
+CY 2013
+Q3
+
+CY 2013
+Q4
+
+CY 2014 2014
+Target
+Q1
+
+% of up-to-date vaccinations in children
+at 24 months
+
+68%
+
+75%
+
+75%
+
+87%
+
+72%
+
+% of diabetics age 18-65 with at least
+g
+in the last yyear
+one HgA1C
+
+90%
+
+91%
+
+91%
+
+91%
+
+82%
+
+% of diabetics age 18-65 with HgA1C
+>9
+
+24%
+
+23%
+
+23%
+
+24%
+
+<29%
+
+ACHN
+
+16
+Page 23 of 59
+
+ Outpatient Services – Patient Satisfaction
+
+Affiliate/ Indicator
+
+CY 2013
+Q2
+
+CY 2013
+Q3
+
+CY 2013
+Q4
+
+CY 2014
+Q1
+
+2014
+Target
+
+Moving through the clinic visit
+
+54%
+
+63.4%
+
+65.3%
+
+66.4%
+
+75%
+
+Ease of getting the clinic on the phone
+
+58.7%
+
+59.3%
+
+60.1%
+
+63%
+
+75%
+
+ACHN
+
+17
+Page 24 of 59
+
+ Questions Wrap Up
+
+Page 25 of 59
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 24, 2014
+
+ATTACHMENT #2
+
+Page 26 of 59
+
+ June 2014
+Quality and Patient Safety Committee Report
+Dave Barker, MD, MPH – CORE Chief Medical Officer  
+Jennifer Catrambone – CORE Director of QI and Evaluation
+Stephon Effinger ‐ CORE Patient Information Coordinator
+Ron Lubelchek MD – CORE Associate Medical Director 
+Page 27 of 59
+
+1
+
+ CORE Quality Plan
+• Understand how our patients feel about how we serve them, 
+– CORE Patient Satisfaction Survey
+• Evolve toward the metrics of the National HIV/AIDS Strategy 
+• Treatment cascade as promoted by the CDC / IOM / CMS
+• Large scale – public health approach to HIV Care
+
+• Ensure timely access to the services we provide
+• Measure Outcomes and Processes that matter
+• HRSA / HAB / HIVQual measures
+• Primary Care Measures
+
+• Pre‐Exposure HIV Prophylaxis?
+• Translational use of data to try to improve our ability to 
+reach those at risk for HIV infection
+
+Page 28 of 59
+
+  
+
+Ruth Rothstein CORE Center - Patient Satisfaction Survey 2009
+
+. - Use a No. 2 pencil only.
+Please think about your visits to CORE over . DO notuse ink, ballpoint, mfg.? tip Dena
+
+ 
+
+ 
+
+ 
+
+the laSt 12 months When you answer these - Make solid marks that ?ll the response completely.
+questions. Your responses will be kept - Erase cleanly any marks you wish to change.
+private, SO please be honest! - Make no stray marks on this form.
+CORRECT: INCORRECT: 3:51 
+1. have received medical care here 
+less than 1 year . 1-2 years - 3 to 5 years - more than 5 years
+I 2. My last visit here 
+less than 1 month ago .- 1-2 months ago 3-6 months ago more than 6 mos. ago
+I 3. lwould rate my health today 
+excellent . very good good fair poor
+
+Access to HIV Care (in the last 12 
+
+4. Did you ever call CORE to make an appointment or talk to someone about your care?
+yes no (skip to question 6)
+5. If yes, what was it like when you called the clinic? (please select all that apply)
+I got the help I needed
+I got a busy signal
+I was disconnected
+was put on hold too long
+I left a message and no one called me back
+I dont like to call because a machine always answers
+The phone rang many times before it was answered
+The person who answered the phone was unfriendly
+
+I talked to several different people before talking to the right person
+Page 29 of 59
+
+CORE Patient Satisfaction Survey – 2009 ‐ 2014Q1
+Overall 
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2009
+
+2010
+
+2011
+
+2012
+
+Own Health Excellent, VG, Good
+Been a Patient at CORE 5+ years
+Ever Thought About Leaving CORE
+
+Page 30 of 59
+
+2013
+
+2014
+
+ CORE Patient Satisfaction Survey – 2009 ‐ 2014Q1
+Overall 
+120
+100
+80
+60
+40
+20
+0
+2009
+
+2010
+
+2011
+
+Staff Protected My Confidentiality
+
+Page 31 of 59
+
+2012
+
+2013
+
+2014
+
+CORE is Better than Other Clinics
+
+ CORE Patient Satisfaction Survey – 2009 ‐ 2014Q1
+Providers 
+120
+100
+80
+60
+40
+20
+0
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Provider Ignored My Complaint
+Could Reach Provider on Weekends and After Hours
+Provider Explained Labs so I Understood them
+Provider explained Why Keeping Appointments is Important
+
+Page 32 of 59
+
+ CORE Patient Satisfaction Survey – 2005 ‐ 2014Q1
+Ever Treated Poorly by Anyone at CORE in past year
+% of Patients who Said Yes
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Page 33 of 59
+
+ CDC HIV Treatment Cascade 2012
+Entire United States
+
+Source CDC after Gardner et al CID 2011
+Page 34 of 59
+
+ Chicago (red) 2009 overlaid on U.S. 2012
+
+23 218
+
+
+   
+
+66?/o
+
+8,550
+
+ 
+
+ 
+
+ 
+
+Diagnosed Linked 1 Retained Prescribed Virally
+
+to Care in Care ART Suppressed
+Source CDPH
+
+Page 35 of 59
+
+Public Health Approach
+• 33% of all living Chicagoans who have been diagnosed 
+with HIV and nearly 50% of Chicagoans who are 
+actively in HIV care are seen at CORE.
+• Promote widespread routine testing for HIV in CCHHS
+• Maintain easy Access to HIV Clinics at CORE
+• Outreach to newly diagnosed, linkage to care
+• Evolution to Patient Centered Medical Home to 
+improve retention in Care
+• Measure virologic suppression as community viral load 
+and provider specific outcome.
+
+Page 36 of 59
+
+ 80000
+
+Total HIV Tests CCHHS
+70000
+
+Pop‐up reminder in EMR went live 5/2011
+60000
+
+50000
+
+Routine
+ASC Rapid
+Community
+
+40000
+
+NHIVTD
+CORE Rapid
+Rapid ER
+
+30000
+
+20000
+
+10000
+
+0
+2008
+
+2009
+
+2010
+
+2011
+
+Page 37 of 59
+
+2012
+
+2013
+
+ Maintaining Early Access 
+Ruth M. Rothstein CORE Center ‐ Dashboard FY 2014
+
+Time to next 
+new 
+Appointment
+1/30/2014
+Service >>> Date checked
+
+Business 1/30/2014
+3rd New
+Days
+
+4/10/2014 
+3rd New
+
+4/10/2014
+
+4/10/2014 
+3rd New
+
+6/8/2014
+
+HIV Primary Care CORE Standard <10
+business days
+
+Adult HIV Primary Care
+
+1/31/2014
+
+1
+
+2/5/2014
+
+4
+
+4/22/2014
+
+8
+
+4/23/2014
+
+10
+
+6/17/2014
+
+7
+
+6/23/2014
+
+11
+
+Women's HIV Primary Care
+
+1/31/2014
+
+1
+
+2/5/2014
+
+4
+
+4/11/2014
+
+1
+
+4/15/2014
+
+3
+
+6/10/2014
+
+2
+
+6/10/2014
+
+2
+
+Bilingual HIV Primary Care
+
+2/6/2014
+
+5
+
+2/6/2014
+
+5
+
+4/14/2014
+
+2
+
+4/17/2014
+
+5
+
+6/9/2014
+
+1
+
+6/12/2014
+
+4
+
+Contimuity (Correctional) Care
+
+2/5/2014
+
+4
+
+2/5/2014
+
+4
+
+4/16/2014
+
+4
+
+4/16/2014
+
+4
+
+6/11/2014
+
+3
+
+6/11/2014
+
+3
+
+54
+
+4/24/2014
+
+58
+
+7/10/2014
+
+68
+
+7/11/2014
+
+69
+
+9/18/2014
+
+72
+
+9/18/2014
+
+72
+
+Specialty >>> Date checked
+
+1/30/2014
+
+CORE HIV Specialty Standard
+<24 business days
+
+HIV Dental
+
+4/18/2014
+
+HIV Heme Onc
+
+2/19/2014
+
+14
+
+2/19/2014
+
+14
+
+4/16/2014
+
+4
+
+4/23/2014
+
+9
+
+6/18/2014
+
+8
+
+6/25/2014
+
+13
+
+HIV Nephrology
+
+3/19/2014
+
+32
+
+3/26/2014
+
+37
+
+4/16/2014
+
+4
+
+4/23/2014
+
+9
+
+6/11/2014
+
+3
+
+6/18/2014
+
+8
+
+HIV Neurology
+
+5/6/2014
+
+66
+
+5/13/2014
+
+71
+
+7/15/2014
+
+73
+
+7/22/2014
+
+78
+
+Closed
+
+Closed
+
+HIV OB/Gyne
+
+2/5/2014
+
+1
+
+2/18/2014
+
+11
+
+4/15/2014
+
+4
+
+4/22/2014
+
+9
+
+6/10/2014
+
+2
+
+6/11/2014
+
+3
+
+HIV Psychiatry*
+
+3/18/2014
+
+31
+
+3/19/2014
+
+32
+
+5/19/2014
+
+27
+
+5/21/2014
+
+29
+
+6/25/2014
+
+13
+
+7/2/2014
+
+18
+
+HIV Dermatology
+
+3/4/2014
+
+21
+
+3/4/2014
+
+21
+
+5/13/2014
+
+23
+
+5/20/2014
+
+30
+
+7/8/2014
+
+21
+
+7/8/2014
+
+21
+
+CORE Hepatitis Clinic
+
+2/20/2014
+
+13
+
+2/20/2014
+
+13
+
+5/8/2014
+
+20
+
+5/8/2014
+
+20
+
+8/14/2014
+
+48
+
+8/21/2014
+
+53
+
+CORE Infectious Diseases
+
+2/11/2014
+
+8
+
+2/11/2014
+
+8
+
+4/15/2014
+
+3
+
+4/29/2014
+
+13
+
+7/1/2014
+
+17
+
+7/8/2014
+
+21
+
+OPAT IV ABX
+
+2/6/2014
+
+5
+
+2/20/2014
+
+13
+
+5/8/2014
+
+20
+
+5/22/2014
+
+30
+
+6/12/2014
+
+4
+
+7/17/2014
+
+29
+
+Page 38 of 59
+
+ Linkage to Care
+• Denominator: patients who have first time 
+confirmed HIV+ tests anywhere in CCHHS prior 
+3 month period
+• Numerator: of these, patients who had a visit 
+(not just an appointment) at a CCHHS site that 
+provides HIV primary care 
+• Measure added to CORE STAR Report for 2014
+
+Page 39 of 59
+
+ Linkage to Care
+• Nationally in 2012 – 66%
+• Chicago in 2009 – 56%
+• CORE Initial Goal for CCHHS > 60%  
+– (set in December 2013)
+
+• CCHHS March 2014 – 93%
+• CCHHS April 2014 – 89%
+
+Page 40 of 59
+
+ Retained/Engaged in Care at CORE
+• Denominator: all patients who have any visit 
+at CORE in prior 12 months
+• Numerator: of these, patients who had >2 
+visits at CORE >90 days apart
+– Measure added to CORE STAR Report for 2014
+
+Page 41 of 59
+
+ Retained/Engaged in Care at CORE
+• Nationally in 2012 – 37%
+• Chicago in 2009 – 52%
+• CORE (Only) Initial Goal > 70%  (set in December 2013)
+– Not comparable to cascade proportion
+
+•
+•
+•
+•
+•
+
+CORE December 2013 ‐ 71%
+CORE January 2014 ‐ 78%
+CORE February 2014 ‐ 77%
+CORE March 2014 ‐ 78%
+CORE April 2014 ‐ 78%
+Page 42 of 59
+
+ Virologic Suppression 
+Community Viral Load
+• Denominator: all viral load (VL) measurements 
+at CORE during prior month
+• Numerator:  proportion of all VL that show 
+reasonable virologic control
+– Measure made more stringent in CORE STAR Report for 
+2014 from <1,000/ml copies to <200 copies/ml to comport 
+with IOM/CMS 
+
+• Crude but powerful overall measure of 
+treatment efficacy (of those coming to care)
+Page 43 of 59
+
+ Virologic Suppression‐ Community Viral Load
+• Nationally in 2012 – 25% (cascade all positives)
+• Chicago in 2009 – 37% (cascade all positives)
+• CORE Initial Goal > 70% (of those getting labs)
+– Not comparable to cascade proportion
+
+•
+•
+•
+•
+•
+
+CORE December 2013 ‐ 85%
+CORE January 2014 ‐ 88%
+CORE February 2014 ‐ 86%
+CORE March 2014 ‐ 85%
+CORE April 2014 ‐ 84%
+Page 44 of 59
+
+ Virologic Suppression
+from Another Perspective
+• As a check on Community Viral Load, if we 
+look at all the patients who are retained 
+(engaged) in care (2 visits in prior 12 months) 
+at CORE…
+• 85% of them are less than 200 copies/ml
+
+Page 45 of 59
+
+ Chicago (red) 2009 vs U.S. (blue) 2012
+CORE (green) 2014
+CORE
+82% 1
+0.9
+
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+
+71%
+66%
+
+69%
+59%
+
+0.6
+0.5
+
+CORE
+
+37%
+
+0.4
+
+37%
+
+0.3
+0.2
+
+33%
+33%
+
+25%
+25%
+
+0.1
+Linked
+
+Source CDPH
+
+75%
+
+0.8
+0.7
+
+CORE
+
+0 Retained
+Linked
+Linked
+to Care
+
+Prescribed
+Retained
+Page 46 of 59
+
+Category 4
+Prescribed Suppressed
+
+ Provider summaries
+• 25 measures of process and outcome
+• Assesses all patients who have PCP 
+relationship with that provider
+• Given to each provider ~semi‐annually
+– With comparison column for similar providers
+– With comparison column for all CORE providers
+
+• Includes some Primary care measures –
+HgBA1C
+
+Page 47 of 59
+
+ Sample Provider Summary
+RMR CORE Center HRSA HIV/AIDS Performance Measures
+as of June 30, 2013
+
+XXXXXXX CNP
+num denom
+
+CNP
+
+%
+
+num
+
+denom
+
+Two Primary Care Visits>= 3mos Apart %
+
+110 157
+
+70%
+
+885
+
+1201
+
+Percentage with>=2 CD4 Counts %
+
+98
+
+157
+
+62%
+
+778
+
+1201
+
+Percentage with>=2 Viral Load Counts %
+
+94
+
+157
+
+60%
+
+781
+
+1201
+
+ALL‐CORE
+%
+
+num
+
+denom
+
+%
+
+74% 3528 5718 62%
+65% 3230 5718 56%
+65% 3217 5718 56%
+90% 3234 3618 89%
+85% 3076 3618 85%
+
+Viral Load Suppression (<1000 copies/mL) %
+
+99
+
+110
+
+90%
+
+814
+
+909
+
+Viral Load Suppression (<200 copies/mL) %
+
+95
+
+110
+
+86%
+
+774
+
+909
+
+Viral Load Monitoring (test performed at least every 6 mos) %
+
+54
+
+115
+
+47%
+
+522
+
+934
+
+Cervical Cancer Screening within last 12mos %
+
+25
+
+43
+
+58%
+
+151
+
+398
+
+Cervical Cancer Screening within last 18mos %
+
+28
+
+43
+
+65%
+
+193
+
+398
+
+56% 2042 3719 55%
+38% 564 1636 34%
+48% 716 1636 44%
+
+Cervical Cancer Screening within last 24mos %
+
+31
+
+43
+
+72%
+
+224
+
+398
+
+56%
+
+Hepatitis B Screening %
+
+151 157
+
+96%
+
+1169 1203
+
+Hepatitis C Screening %
+
+148 157
+
+94%
+
+1153 1203
+
+Lipid Screening %
+
+81
+
+59%
+
+614
+
+1047
+
+Syphilis Screening (general population >=1 visit) %
+
+110 157
+
+70%
+
+909
+
+1201
+
+Syphilis Screening (engaged population >=2 visits at 6mos apart) %
+
+66
+
+83
+
+80%
+
+540
+
+660
+
+Chlamydia Screening w/a prior STI positive screening within last 12 mos %
+
+5
+
+20
+
+99
+
+200
+
+137
+
+25%
+Chlamydia Screening (general population >=1 visit) %
+
+19
+
+157
+
+Gonorrhea Screening w/a prior STI positive screening within last 12 mos % 5
+
+20
+
+12%
+
+808 1636 49%
+97% 5165 6116 84%
+96% 5085 6125 83%
+59% 2230 4523 49%
+76% 4258 6079 70%
+82% 2201 2678 82%
+695 1441
+50%
+
+404
+
+1201
+
+99
+
+200
+
+25%
+
+48%
+2013
+6079
+34%
+33%
+695 1441
+50%
+48%
+34% 2013 6079 33%
+
+Gonorrhea Screening  (general population >=1 visit) %
+
+19
+
+157
+
+12%
+
+404
+
+1201
+
+HIV+ in continuous care with a CD4 count >=200 %
+
+95
+
+110
+
+86%
+
+755
+
+885
+
+HIV+ in continuous care with a CD4 count >=350 %
+
+75
+
+110
+
+68%
+
+577
+
+885
+
+Diabetics Annual A1c %
+
+10
+
+15
+
+67%
+
+80
+
+98
+
+85% 2935 3528 83%
+65% 2216 3528 63%
+82% 283 371 76%
+
+Diabetics Annual A1c < 9 %
+
+6
+
+10
+
+60%
+
+66
+
+80
+
+83%
+
+227
+
+Diabetics Annual Lipids Panel %
+
+11
+
+15
+
+73%
+
+71
+
+98
+
+72%
+
+217
+
+283 80%
+371 58%
+
+Diabetics Annual Lipids Panel LDL < 100 (%)
+
+9
+
+11
+
+82%
+
+42
+
+71
+
+59%
+
+121
+
+217 56%
+
+Page 48 of 59
+
+ Pre‐Exposure Prophylaxis ‐ PrEP
+• Giving a combination of two HIV medicines to 
+persons at high risk to prevent HIV infection
+–
+–
+–
+–
+
+S. Hosek PhD and J. Martinez led CCHHS PrEP studies
+Effective at preventing infection if med taken every day
+Risk of developing resistance becomes infected
+Low risk of drug toxicity – requires lab tests
+
+• CDC Recommendations for PrEP in May 2014
+• Is not Cost‐Effective
+– best case scenario $330K for meds alone per case 
+prevented, meds are ~80% of all costs
+– Limited budget for HIV meds – CORE / CCHHS will not bear 
+cost of meds – MAP or Insurance
+Page 49 of 59
+
+ Translational Science
+• From 2003 through 2011 CORE served as a site for 
+CDC funded surveillance to quantify how frequently 
+drug resistant HIV is transmitted ‐ >12% of newly 
+diagnosed
+– CORE accumulated >4,000 genetic sequences of newly 
+diagnosed patients.
+
+• In 2013 Drs. Lubelchek & Hohnen analyzed 920 of 
+these sequences from 2009 – 2011
+– 14% of these or 124 patients had HIV that was closely 
+related to another patient’s strain 
+– 26 “clusters” were identified – 3 to 21 members
+– Especially likely to be true for young, African‐American, 
+men who have sex with men
+Page 50 of 59
+
+ Phylogenetic tree depicting HIV patients newly diagnosed in Chicago between Jan,
+2008 and May, 2011; Of 920 patients,124, shown here, grouped into 26 transmission
+clusters with each tip representing an individual patient within clusters grouped by color.
+The scale line indicates genetic distance and the red arrow points to the out-group
+HXB2 reference strain 
+
+Source:  Lubelchek, Hoehnen, Hotten, Kincaid, French, Barker in press
+Page 51 of 59
+
+ Intervention
+• Analyze all 6,000 sequences available to us
+• Add new sequences to dataset in real‐time as 
+we acquire them through clinic 200‐250/year
+• Where analysis reveals clustering send DIS 
+staff to interview patients who are members 
+of cluster and elicit sexual contacts
+• Offer HIV testing to untested members of 
+cluster
+– CORE uniquely well positioned because of large dataset available, 
+large numbers of new patients seen each year, and high proportion of 
+all patients in major metropolitan area in care. 
+Page 52 of 59
+
+ Thankyou
+
+Ruth M. Rothstein
+
+
+
+Ci?nter
+
+   
+
+ 
+
+ 
+
+Page 53 of 59
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 24, 2014
+
+ATTACHMENT #3
+
+Page 54 of 59
+
+  
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff and Non-Medical Staff Action Items Subject to Approval by the Quality and
+Patient Safety Committee
+
+INITIAL APPOINTMENT APEQCATIONS
+
+Advani, Tushar, MD Health Services Active Physician
+Appointment Effective: June 24, 2014 thru June 23, 2016
+Athavale, Ambarish M., MD Medicine/Nephrology Active Physician
+Appointment Effective: June 24, 2014 thru June 23, 2016
+
+INITIAL APPOINTMENT NON-PHYSICIAN APPLICATIONS
+Hajek, Kristina N., PA-C Correctional Health Physician Assistant
+With Ezike, Ngozi 0., MD
+Alternate Samee, Sabiha, MD
+Effective June 24, 2014 thru June 23, 2016
+
+BEAPPQINTMENT APPQATIQNS
+Department of Anesthesiology
+
+  
+
+Alexander, Bozana, MD Anesthesia Active Physician
+Reappointment Effective: July 22, 2014 thru July 21, 2016
+Department of Emergency Medicine
+Kim, Ronald, MD Emergency Medicine Consulting Physician
+Reappointment Effective: July 20, 2014 thru July 19, 2016
+Lu, Jenny Ju-Hsueh, MD Emergency Medicine Active Physician
+Reappointment Effective: July 22, 2014 thru July 21, 2016
+Purim-Shem-Tov, Yanina, MD Emergency Medicine Voluntary Physician
+Reappointment Effective: July 13, 2014 thru July 12, 2016
+Schindlbeck, Michael, MD Emergency Medicine Active Physician
+Reappointment Effective: July 22, 2014 thru July 21, 2016
+Skoubis, Andreas, DO Emergency Medicine Services Physician
+Reappointment Effective: July 13, 2014 thru July 12, 2016
+Department of Family Medicine
+Billingslea, Camille, MD Family Medicine Active Physician
+Reappointment Effective: July 12, 2014 thru July 11, 2016
+Cash, MD Family Medicine Active Physician
+Reappointment Effective: July 20, 2014 thru July 19, 2016
+McPherson, Julita, MD Family Medicine Active Physician
+Reappointment Effective: July 9, 2014 thru July 8, 2016
+
+
+APPROVED
+Item June 24, 2014 BY THE QUALITY AND PATIENT SAFETY 
+Quality and Patient Safety Committee 1 ON JUNE 24! 2? 14
+
+Page 55 of 59
+
+John H. Stroger, Jr. Hosgital of Cook County
+Reappointment Agglications (continued)
+
+Degartment of Medicine
+
+Ansari, Najamul MD
+Reappointment Effective:
+
+Cohen, Robert A.C., MD
+Reappointment Effective:
+
+Lash, James, MD
+Reappointment Effective:
+
+Manadan, Augustine, MD
+Reappointment Effective:
+
+Maric, Nevenka, MD
+Reappointment Effective:
+
+Martinez, Enrique, MD
+Reappointment Effective:
+
+Martinez, Irene L., MD
+Reappointment Effective:
+
+Paintsil, Isaac, MD
+Reappointment Effective:
+
+Peart, Maiaika MD
+Reappointment Effective:
+
+Pelaez, Victor M., MD
+Reappointment Effective:
+
+Shariff, Ruhi R., MD
+Reappointment Effective:
+
+Shim, Kyungran, MD
+Reappointment Effective:
+
+Simon, David M., MD
+Reappointment Effective:
+
+Smith, Jennifer 6., MD
+Reappointment Effective:
+
+Smith, Patrika L., MD
+Reappointment Effective:
+
+Turbay, Rafael F., MD
+Reappointment Effective:
+
+Welbei, Sharon F., MD
+Reappointment Effective:
+
+Item June 24, 2014
+Quality and Patient Safety Committee
+
+Adult Cardiology
+June 24, 2014 thru June 23, 2016
+
+Pulmonary/Critical Care
+July 11, 2014 thru July 10,2016
+
+Nephrology/Hypertension
+June 24, 2014 thru June 23,2016
+
+Rheumatology
+July 11, 2014 thru July 10,2016
+
+ACHN/General Medicine
+July 13, 2014, thru July 12,2016
+
+ACHN/General Medicine
+July 12, 2014 thru July 11,2016
+
+General Medicine
+July 13, 2014 thru July 12, 2016
+
+Hospital Medicine
+July 13, 2014 thru July 12, 2016
+
+General Medicine
+July 20, 2014 thru July 19,2016
+
+Adult Cardiology
+July 11, 2014 thru July 10, 2016
+
+General Medicine
+July 13, 2014 thru July 12, 2016
+
+General Medicine
+July 13, 2014 thru July 12,2016
+
+Infectious Diseases
+July 13, 2012 thru July 12, 2016
+
+General Medicine
+July 12, 2014 thru July 11,2016
+
+General Medicine
+July 13, 2014 thru July 12, 2016
+
+Hospital Medicine
+July 22, 2014 thru July 21,2016
+
+Infectious Diseases
+July 12, 2014 thru July 11,2016
+
+ 
+
+Voluntary Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Affiliate Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+
+
+APPROVED
+
+BY THE QUALITY AN PATIENT SAFETY MITTEE
+
+Page 56 of 59
+
+on JUNE 24, 2014
+
+John H. Stroger, Jr. Hospital of Cook County
+Reappointment Applications (continued)
+
+Department of Opsjetrics and Gynecology
+
+ 
+
+Arlandson, Mary, MD
+Reappointment Effective:
+
+Swift, Eddie, MD
+Reappointment Effective:
+
+Ungaretti, Joy, MD
+Reappointment Effective:
+
+Department of Pediatrics
+
+Khilfeh, Manhal, MD
+Reappointment Effective:
+
+Wu-Huang, Shou-Yein, MD
+Reappointment Effective:
+Department of Radiology
+
+Keen, John, MD
+Reappointment Effective:
+
+Department of Surgem
+
+Dray, Philip B., MD
+Reappointment Effective:
+
+Goldberg, Benjamin A., MD
+Reappointment Effective:
+
+Micco, Alan G., MD
+Reappointment Effective:
+
+Nichols, Jeffrey W., MD
+Reappointment Effective:
+
+Olivier, Mildred M.G., MD
+Reappointment Effective:
+
+Patel, Subhash R., MD
+Reappointment Effective:
+
+Vidal, Patricia, MD
+Reappointment Effective:
+Department of Trauma
+
+Joseph, Kimberly T., MD
+Reappointment Effective:
+
+Messer, Thomas A., MD
+Reappointment Effective:
+
+Item June 24, 2014
+Quality and Patient Safety Committee
+
+Ob/Gyne
+June 29, 2014 thru June 28,2016
+
+Maternal Fetal Medicine
+June 29, 2014 thru June 28, 2016
+
+Ob/Gyne
+July 13, 2014 thru July 12,2016
+
+Neonatology
+July 21, 2014 thru July 20,2016
+
+Neonatology
+July 20, 2014 thru July 19, 2016
+
+Imaging Center
+July 22, 2014 thru July 21,2016
+
+Ophthalmology
+July 21, 2014 thru July 20,2016
+
+Orthopaedics
+July 22, 2014 thru July 21,2016
+
+Otolaryngology
+July 13, 2014 thru July 12,2016
+
+Ophthalmology
+July 13, 2014 thru July 12, 2016
+
+Ophthalmology
+July 13, 2014 thru July 12, 2016
+
+Surgical Critical Care
+July 21, 2014 thru July 20,2016
+
+Urology
+July 13, 2014 thru July 12, 2016
+
+Trauma Intensive Care
+July 22, 2014 thru July 21,2016
+
+ 
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Consulting Physician
+
+Consulting Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Bum Unit Active Physician
+July 22, 2014 thru July 21,2016
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY Co Inn
+on JUNE 24, 2014
+
+3
+
+Page 57 of 59
+
+John H. StrogerI Jr. Hosgital of Cook County (continued)
+Renewal of Privileges for Non-Medical Staff
+
+ 
+
+Brown, Barbara J., CNP Medicine General Medicine
+With Irons, Sharon A. MD
+
+Effective: July 22, 2014 thru July 21, 2016
+Deguzman, Jennifer P., PA-C Surgery/Cardiothoracic
+
+With Smego, Douglas R., MD
+Alternate Ukoha, Ozuru, MD
+
+Effective: June 24, 2014 thru June 23, 2014
+Renewal of Privileges for Non-Medical Staff (Cont?d)
+
+Fung, Sharon D., CNS Medicine/Pulmonary Critical Care
+With Tulaimat, Aiman, MD
+
+Effective: July 20, 2014 thru July 19,2016
+Holt, Geraldine, CNS Medicine/Endocrinology
+
+With Fogelfeld, Leon A., MD
+
+Effective: July 22, 2014 thru July 21,2016
+Kane-Towle, Megan R., PA-C Pediatrics
+
+With Bhobe, Swati S., MD
+
+Alternate Cunill, Denise R., MD
+
+Alternate Escalona, Yolanda R., DO
+
+Effective: June 24, 2014 thru June 23, 2016
+
+Medical Staff Status Chanqe with no Change in Privileggs
+
+Adenwalla, Mohamed, MD Surgery/Ophthalmology
+Ansari, Najamul H., MD Emergency Medicine
+Giovingo, Michael, MD Surgery/Ophthalmology
+Lamattina, Kara, MD Surgery/Ophthalmology
+Larsen, Brian, MD Surgery/Ophthalmology
+Martinez, Enrique, MD Medicine/ACHN
+
+Weinstein, Robert, MD Medicine/Infectious Diseases
+
+Medical Staff Additional Clinical Privileges
+Marshall, Robert A., MD Mammography Reading
+
+ 
+
+Nurse Practitioner
+
+Physician Assistant
+
+Clinical Nurse Specialist
+
+Clinical Nurse Specialist
+
+Physician Assistant
+
+From Voluntary to Consulting Physician
+From Active to Voluntary Physician
+From Voluntary to Active Physician
+From Service to Voluntary Physician
+From Voluntary to Consulting
+
+From Af?liate to Voluntary Physician
+From Active to Voluntary Physician
+
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY MMITTEE
+
+Item June 24,2014
+Quality and Patient Safety Committee 4
+
+Page 58 of 59
+
+ON JUNE 24, 2O 14
+
+ 
+
+ 
+
+Provident Hospital of Cook County
+Medical Staff Action Items Subject to Approval by the Quality and Patient Safety Committee
+
+REAPPOINTMENT APPLICATIONS
+
+Department of Family Medicine
+
+Billingslea, Camille, MD Family Medicine Active Physician
+Reappointment Effective: July 12, 2014 thru July 11, 2016
+
+McPherson, Julita, MD Family Medicine Active Physician
+Reappointment Effective: July 8, 2014 thru July 7, 2016
+
+Department of Surgery
+
+Dwarkanathan, Surendar, MD Ophthalmology Affiliate Physician
+Reappointment Effective: June 24, 2014 thru May 16, 2016
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY 00 EE
+ON JUNE 24, 2014
+
+Item June 24, 2014
+Quality and Patient Safety Committee 5
+
+Page 59 of 59
+

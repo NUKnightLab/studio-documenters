@@ -1,0 +1,775 @@
+ 
+
+ 
+
+
+
+019A
+
+ 
+
+COOK COUNTY Quality 
+
+ 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Dashboard HospitalAcquiredCendiL-ions ACHN??uerallClinic?ssessment
+- no
+I Nouember15,2319 a 30 Igtagemaw 25 25 24 lows: 
+Health Outcomes 5 .1
+I: 
+. 3 19 
+HEDIS-Dlabetes 
+goo
+1C45mg ?Sth Q-ht'le: 55.0% a I ?955 Game? TOP ?lea?
+. - 15 To Eon-(Score
+53% - - 3% I 
+44.199 grassesesrsesqsei?s?ssw
+Elf-18 Jan-19 via {-19 May-19 L19 Slap-19 31.3113 54.19 [-45:49 5.34-19 Provident?Will ingness to Recommend Hospital
+. . 133% . .
+Cure Measure Venous Thrumhoemhollsm {UTEJPreventIen Hospital Acquired Infections 93th Cint Ie
+CAUTI MRSA
+magmas 954% I I I I 2.1o 
+
+?ll l_80
+4 53%
+83% 88.3% 
+
+63% o:
+1.10 3%
+43s 
+.Provident 
+ED :92 $2 '12 F314 ?33 33 an}:
+23% I Stroger .Stroger--Willingness to Recommend Hospital
+0.0
+'I-r - - ?lc'
+"M'la Jen'lg '19 Merl? ?"19 cite o4 {$19-31 o3 93thQ-ht'le
+SIR [Standardized Infection Ratio] is a summary measure which compares the actual numberof
+30 Read?'IiSSiDl'l Rate Healthcare Ii'xssociated Infections (HIM) inaFacilI'ty l.IIriththe baseline data for standard population. - 
+1691?.) IL Avg SIR 1.0 indicates more HAIswereobsewed than predicted, conversely 1.0 indicatesthat
+15': - 15% Nati?nal Avg. - fewer HAIs Iwere observed than predicted. 53%
+J:
+Oct- Nou- Dec- Jan- Feb- Mar- ?ipr? May- Jun- Jul- Aug- Sep-
+10.9% 104CAUTI sees a: sees
+3., 3 4.:
+3% CLABSI 2318 Q4 2019 '31 2019 '32 23:9 '33 0 2 
+
+ 
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+HEDIS – Diabetes Management: HbA1c < 8%
+100%
+90%
+80%
+70%
+60%
+
+HEDIS 75th %tile: 55%
+
+50%
+44.1%
+40%
+30%
+
+20%
+10%
+0%
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Jul-19
+
+Aug-19
+
+Sep-19
+
+Oct-19
+
+Source: Business Intelligence
+3
+
+ Core Measure – Venous Thromboembolism (VTE) Prevention
+120%
+
+Goal: 100%
+100%
+
+96.4%
+88.0%
+
+80%
+
+60%
+
+40%
+
+20%
+Stroger
+
+Provident
+
+0%
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Jul-19
+
+Aug-19
+
+Sep-19
+
+Oct-19
+
+Source: Quality Dept.
+4
+
+ 30 Day Readmission Rate
+
+20%
+18%
+16%
+
+16%
+15%
+
+14%
+12%
+
+11.0%
+
+10%
+8%
+
+9.6%
+
+9.70%
+
+CY19 Q1
+
+CY19 Q2
+
+10.4%
+
+8.56%
+
+6%
+
+4%
+2%
+0%
+CY18 Q4
+IL AVG
+
+National AVG
+
+CY19 Q3
+HRO Goal
+Source: Business Intelligence
+5
+
+ Hospital Acquired Conditions
+Pressure Injury (Stage III & IV)
+
+35
+
+30
+
+30
+
+26
+
+32
+
+23
+
+25
+20
+
+Total HAPI
+
+19
+
+24
+
+26
+
+27
+24
+
+20
+17
+14
+
+15
+10
+5
+
+1
+
+1
+
+1
+
+2
+
+3
+0
+
+0
+
+0
+
+16
+
+16
+12
+8
+
+12
+
+11
+8
+
+0
+
+15
+
+14
+10
+
+0
+
+3
+
+Falls with Injury
+
+17
+
+18
+
+0
+
+1
+
+8
+
+7
+
+11
+
+10
+
+7
+5
+
+6
+4
+
+2
+0
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+May-19
+
+Jun-19
+
+Jul-19
+
+Aug-19Source:
+Sep-19
+Oct-19
+Business Intelligence
+Source: Business Intelligence
+
+6
+
+ Hospital Acquired Infections
+CAUTI
+
+2.5
+
+CDI
+
+CLABSI
+
+MRSA
+
+Goal
+
+2.1
+
+2
+
+1.8
+1.5
+
+1.1
+
+1
+
+0.57
+
+0.5
+
+0
+CY18 Q4
+
+CY19 Q1
+
+CY19 Q2
+
+Oct- Nov- Dec- Jan- Feb- Mar- Apr- May- Jun- Jul- Aug- Sep18
+18
+18 19 19
+19 19 19 19 19
+19
+19
+CAUTI
+
+0
+
+1
+
+3
+
+1
+
+1
+
+2*
+
+1
+
+2*
+
+5
+
+6
+
+2
+
+3
+
+CDI
+
+10
+
+4
+
+4
+
+6
+
+2
+
+6
+
+5
+
+4
+
+4
+
+9
+
+5
+
+7
+
+CLABSI
+
+0
+
+0
+
+2
+
+1
+
+0
+
+2*
+
+2
+
+2
+
+3
+
+2
+
+4
+
+1
+
+MRSA
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+0
+
+0
+
+1
+
+*Amended
+
+CY19 Q3
+
+SIR (Standardized Infection Ratio) is a summary
+measure which compares the actual number of
+Healthcare Associated Infections (HAI) in a facility
+with the baseline data for standard population. SIR >
+1.0 indicates more HAIs were observed than predicted,
+conversely SIR of < 1.0 indicates that fewer HAIs were
+observed than predicted.
+Source: Infection Control Dept.
+7
+
+ ACHN – Overall Clinic Assessment
+100%
+90%
+
+90th %tile: 82%
+
+Top Box Score
+
+80%
+70%
+
+70.1%
+
+60%
+
+58.4%
+
+50%
+40%
+30%
+20%
+10%
+0%
+Nov17 Oct18
+
+Dec17 Nov18
+
+Jan18 Dec18
+
+Feb18 Jan19
+
+Mar18 Feb19
+
+ACHN Top Box Score
+
+Apr18 Mar19
+
+May18 Apr19
+
+Jun18 May19
+
+Jul18 Jun19
+
+Aug18 Jul19
+
+Sep18 Aug19
+
+Oct18 Sep19
+
+Press Ganey Top Box Mean
+Source: Press Ganey
+8
+
+ Provident – Willingness to Recommend the Hospital
+100%
+90%
+
+90th %tile: 84%
+
+80%
+72.0%
+
+Top Box Score
+
+70%
+
+66.3%
+
+60%
+50%
+40%
+30%
+
+20%
+10%
+0%
+Nov17 Oct18
+
+Dec17 Nov18
+
+Jan18 Dec18
+
+Feb18 Jan19
+
+Mar18 Feb19
+
+Provident Top Box Score
+
+Apr18 Mar19
+
+May18 Apr19
+
+Jun18 May19
+
+Jul18 Jun19
+
+Aug18 Jul19
+
+Sep18 Aug19
+
+Oct18 Sep19
+
+Press Ganey Top Box Mean
+Source: Press Ganey
+9
+
+ Stroger – Willingness to Recommend the Hospital
+100%
+90%
+
+90th %tile: 84%
+
+80%
+72.0%
+
+Top Box Score
+
+70%
+
+71.5%
+
+60%
+50%
+40%
+
+30%
+20%
+10%
+0%
+Nov17 Oct18
+
+Dec17 Nov18
+
+Jan18 Dec18
+
+Feb18 Jan19
+
+Mar18 Feb19
+
+Stroger Top Box Score
+
+Apr18 Mar19
+
+May18 Apr19
+
+Jun18 May19
+
+Jul18 Jun19
+
+Press Ganey Top Box Mean
+
+Aug18 Jul19
+
+Sep18 Aug19
+
+Oct18 Sep19
+
+Source: Press Ganey
+10
+
+ Measure Name
+
+Diabetes Management HbA1c <8%
+
+Core Measure-Venous
+Thromboembolism (VTE) Prevention
+Readmission Rate
+Hospital Acquired Pressure Injuries
+
+Measure Definition
+Adults ages 18-75 with diabetes (type 1 or type 2) where HbA1c is in control (<8.0%).
+Qualifying patients:
+- Age 18-75 years as of December 31 of current year AND two diabetic Outpatient/ED visits in the current year or previous year
+OR
+-One diabetic Inpatient visit in the current year or previous year
+OR
+-Prescribed insulin or hypoglycemic or antihyperglycemics in the current year or previous year
+Percentage of surgical patients aged 18 years and older undergoing procedures for which venous thromboembolism (VTE) prophylaxis is
+indicated, who had an order for Low Molecular Weight Heparin (LMWH), Low- Dose Unfractionated Heparin , adjusted-dose warfarin,
+fondaparinux or mechanical prophylaxis to be given within 24 hours prior to incision time or within 24 hours after surgery end time
+The readmission measures are estimates of unplanned readmission to an acute care hospital in the 30 days after discharge from a
+hospitalization. Patients may have had an unplanned readmission for any reason.
+A pressure injury is localized damage to the skin and underlying soft tissue usually over a bony prominence or related to a medical or
+other device. Full thickness pressure injuries involve the epidermis and dermis, but also extend into deeper tissues (fat, fascia, muscle,
+bone, tendon, etc.)
+
+Source
+
+NCQA,
+HEDIS
+
+CMS
+CMS
+CMS, AHRQ
+
+Falls with Injury
+
+A patient fall is an unplanned descent to the floor (or extension of the floor, e.g., trash can or other equipment) with injury to the patient. TJC, NDNQI
+
+Hospital Acquired Infections - CAUTI
+
+Catheter-associated urinary tract infections
+
+NHSN
+
+Hospital Acquired Infections - CDI
+
+Clostridium difficile intestinal infections
+
+NHSN
+
+Hospital Acquired Infections - CLABSI Central line-associated bloodstream infections
+
+NHSN
+
+Hospital Acquired Infections - MRSA
+
+Methicillin-resistant Staphylococcus Aureus blood infections
+
+NHSN
+
+Press Ganey Patient Satisfaction Top
+Box Score
+
+The percentage of responses in the highest possible category for a question, section, or survey (e.g. percentage of ‘Very Good,’ or ‘Always’
+Press Ganey
+responses).
+A percentile rank tells you where your score falls in relationship to other scores. Percentile rank for any given metric in any peer group is
+determined by ordering all facilities’ scores from highest to lowest, then each score receives a percentile rank by determining the
+Press Ganey
+proportion of the database that falls below that score. For example, if your percentile rank is 30, you are scoring the same as or better
+than 30% of the organizations you are compared to.
+Includes two questions:
+Press Ganey
+1.
+How well the staff worked together to care for you.
+2.
+Likelihood of your recommending our practice to others.
+
+Press Ganey Patient Satisfaction
+Percentile Rank
+ACHN Patient Satisfaction-Overall
+Assessment
+Hospital Patient SatisfactionWillingness to Recommend Hospital
+
+The likelihood that a patient will recommend a hospital to family members and friends.
+
+Press Ganey
+
+11
+
+ 

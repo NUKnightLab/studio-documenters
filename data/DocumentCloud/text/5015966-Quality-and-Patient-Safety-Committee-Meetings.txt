@@ -1,0 +1,808 @@
+CCHHSQual
+i
+t
+yDashboar
+dDRAFT9.
+21.
+18
+Pat
+i
+entSaf
+et
+y
+Hospi
+t
+alAc
+qui
+r
+edCondi
+t
+i
+ons
+Aug17
+
+CL
+ABSI
+
+CAUTI
+
+MRSA
+
+Hospi
+t
+alAc
+qui
+r
+edI
+nf
+ec
+t
+i
+ons(
+SI
+R)
+
+11
+11
+
+1.
+50
+13
+
+Nov17
+
+11
+1.
+00
+
+11
+Fal
+l
+swi
+t
+h
+I
+nj
+ur
+y
+
+CDi
+ﬀ
+
+16
+
+Feb18
+
+15
+
+0.
+50
+
+15
+18
+
+May18
+
+0.
+00
+
+9
+14
+13
+
+Aug18
+
+10
+
+2017Q3
+
+CCHHSSer
+i
+ousSaf
+et
+yEvent
+s
+
+75
+
+Aug17
+
+2018Q1
+Admi
+ni
+st
+r
+at
+i
+on
+
+2018Q2
+
+Medi
+c
+at
+i
+onEr
+r
+orType
+
+Moni
+t
+or
+i
+ng
+
+12Mo.AVG:77
+
+Ot
+her
+Pr
+esc
+r
+i
+pt
+i
+on
+
+3
+65
+
+3
+Nov17
+
+2017Q4
+
+8.
+9%
+
+3
+1
+2
+
+Pr
+essur
+e
+I
+nj
+ur
+y(
+St
+age
+I
+I
+I&I
+V)
+
+Feb18
+
+3
+50.
+2%
+
+1
+40.
+3%
+
+2
+5
+
+May18
+
+2
+2
+
+Aug18
+
+1
+
+0.
+6%
+
+Tot
+alEvent
+s
+
+2
+J
+ul
+17
+
+J
+ul
+18
+
+ CCHHSQual
+i
+t
+yDashboar
+dDRAFT9.
+21.
+18
+Oper
+at
+i
+ons
+Pr
+ovi
+dent
+Wi
+l
+l
+i
+ngnesst
+oRec
+ommendHospi
+t
+al
+
+St
+r
+oger
+Wi
+l
+l
+i
+ngnesst
+oRec
+ommendHospi
+t
+al
+
+ACHNOver
+al
+lCl
+i
+ni
+cAssessment
+
+100%
+
+100%
+
+100%
+87.
+0%
+
+85% Goal
+
+85% Goal
+
+80%
+
+80%
+
+80%
+
+75% Goal
+
+69.
+0%
+
+60%
+
+40%
+
+60%
+
+MeanSc
+or
+e
+
+TopBoxSc
+or
+e
+
+TopBoxSc
+or
+e
+
+67.
+0%
+
+40%
+
+20%
+
+20%
+
+0%
+Sep17
+
+Nov17
+
+J
+an18
+
+Mar
+18
+
+May18
+
+0%
+J
+ul
+17
+
+Sep17
+
+Nov17
+
+J
+an18
+
+Mar
+18
+
+May18
+
+St
+r
+ogerEDPat
+i
+ent
+sLeavi
+ngwi
+t
+houtBei
+ngSeen
+6.
+1%
+
+#Pat
+i
+ent
+sL
+WBS
+12Mo.AVG:5.
+1%
+4.
+2%
+
+Aug17
+
+4.
+0%
+
+Goal
+
+Sur
+ger
+yFi
+r
+stCaseonTi
+meSt
+ar
+t
+s
+Pl
+ac
+eHol
+der
+
+Aug18
+
+40%
+
+20%
+
+0%
+J
+ul
+17
+
+60%
+
+J
+ul
+17
+
+Sep17
+
+Nov17
+
+J
+an18
+
+Mar
+18
+
+May18
+
+ CCHHSQual
+i
+t
+yDashboar
+dDRAFT9.
+21.
+18
+Heal
+t
+hOut
+c
+omes
+HEDI
+S-Di
+abet
+esManagement
+:HbA1c<8%
+
+Cor
+eMeasur
+eVenousThr
+omboembol
+i
+sm (
+VTE)Pr
+event
+i
+on
+100%
+
+Goal
+:100%
+
+100%
+
+100.
+0%
+80%
+
+90.
+0%
+
+%A1c
+<8
+
+80%
+
+60%
+
+HEDI
+S75t
+hPCTL:54.
+0%
+
+48.
+8%
+
+40%
+
+40%
+
+20%
+
+60%
+
+Pr
+ovi
+dent
+
+20%
+
+St
+r
+oger
+
+0%
+
+0%
+J
+ul
+17
+
+Aug17
+
+Sep17
+
+Oc
+t
+17
+
+Nov17
+
+Dec
+17
+
+J
+an18
+
+Feb18 Mar
+18
+
+Apr
+18
+
+May18
+
+Aug17
+
+Oc
+t
+17
+
+Dec
+17
+
+Feb18
+
+Apr
+18
+
+J
+un18
+
+Depr
+essi
+onSc
+r
+eeni
+ngRef
+er
+r
+alManagement
+
+120
+
+Soc
+i
+alWor
+kerSeen
+Medi
+c
+at
+i
+onRx
+
+100
+
+#PHQ9>=15
+
+80
+
+Readmi
+ssi
+onRat
+e
+Pl
+ac
+ehol
+der
+
+Ri
+skAdj
+ust
+edMor
+t
+al
+i
+t
+yRat
+e
+Pl
+ac
+ehol
+der
+
+60
+40
+20
+0
+Aug17
+
+Aug18
+
+Aug18
+
+ Quality Dashboard Metrics
+Measure Type
+
+Measure Name
+
+Reasoning
+
+ACHN
+
+HEDIS-Diabetes A1c
+
+Strategic Plan
+
+Behavioral Health—
+ACHN
+
+PHQ 9 Depression
+Screening
+
+Strategic Plan/Behavioral Health
+
+Emergency Dept-Stroger
+
+Patients Left without
+Being Seen
+
+Patient Throughput for ED
+
+Inpatient
+
+Core Measures-Influenza
+Vaccination (seasonal)
+
+TJC Requirement
+
+Inpatient
+
+Core Measures-VTE 1 & 2
+
+CMS, TJC
+
+Inpatient--Stroger
+
+HAI- CAUTI
+
+CMS/TJC
+
+Inpatient--Stroger
+
+HAI-C-DIFF
+
+CMS/TJC
+
+Inpatient--Stroger
+
+HAI-CLABSI
+
+CMS/TJC
+
+Measure Definition
+Source
+Adults ages 18-75 with diabetes
+CDC, NCQA, HEDIS
+(type 1 or type 2) where HbA1c is in
+control <8.0%. Will change to be <7.0%.
+The percentage of members 12 years of NCQA, HEDIS
+age and older who were screened for
+clinical depression using a standardized
+tool and, if screened positive, who
+received follow-up care either with a social
+worker visit or medication prescription
+Percentage of patients who left the
+CMS
+emergency department before being seen
+Timely & effective care- Preventive care: CMS
+Patients assessed and given influenza
+vaccination
+Percentage of surgical patients aged 18
+CMS
+years and older undergoing procedures for
+which venous thromboembolism (VTE)
+prophylaxis is indicated in all patients, who
+had an order for Low Molecular Weight
+Heparin (LMWH), Low- Dose
+Unfractionated Heparin (LDUH), adjusteddose warfarin, fondaparinux or mechanical
+prophylaxis to be given within 24 hours
+prior to incision time or within 24 hours
+after surgery end time
+Catheter-associated urinary tract
+CMS
+infections (CAUTI) greater than 48 hours
+after admission
+Clostridium difficile (C.diff.) intestinal
+CMS
+infections greater than 48 hours after
+admission
+Central line-associated bloodstream
+CMS
+infections (CLABSI) greater than 48 hours
+after admission
+
+ Measure Type
+
+Measure Name
+
+Reasoning
+
+Inpatient--Stroger
+
+HAI-MRSA
+
+CMS/TJC
+
+Inpatient--Stroger
+
+HAPI
+
+CMS/TJC
+
+Inpatient
+
+Risk- Adjusted Mortality
+Rate
+
+CMS
+
+Inpatient
+
+Readmissions
+
+CMS
+
+Patient SafetySystem-wide
+
+Safety- Falls with Injury
+
+CMS,AHRQ,TJC
+
+Patient SafetySystem-wide
+
+Safety- Serious safety
+events
+
+CMS/TJC
+
+Patient SafetySystem-wide
+
+Safety-Med Errors
+
+TJC
+
+Patient SatisfactionStroger/Provident
+
+IP-Willingness to
+Recommend Hospital
+
+TJC
+
+Patient SatisfactionACHN
+
+OP-Overall Assessment
+
+CMS/Funding
+
+Surgical Services-Stroger
+
+% of First Cases Start on
+Time
+
+CMS/Operations
+
+Measure Definition
+Source
+Methicillin-resistant Staphylococcus
+CMS
+Aureus (MRSA) blood infections greater
+than 48 hours after admission
+Stage III or IV pressure ulcers or
+CMS, AHRQ
+unstageable
+Adjustment for case mix differences and CMS
+service mix differences
+The readmission measures are estimates CMS
+of unplanned readmission to an acute care
+hospital in the 30 days after discharge
+from a hospitalization. Patients may have
+had an unplanned readmission for any
+reason.
+A patient fall is an unplanned descent to TJC, NDNQI
+the floor (or extension of the floor, e.g.,
+trash can or other equipment) with or
+without injury to the patient
+A Safety Event is a situation where best or TJC
+expected practice does not occur. If this is
+followed by serious harm to a patient, then
+we call it a “Serious Safety Event (SSE)
+With harm score 6,7,8 &9.
+Medical events that are related to
+TJC
+medication and/or medication related
+issues
+The likelihood that a patient will
+Press Ganey
+recommend a hospital to family members
+and friends.
+Overall score for the service a patient
+Press Ganey
+received or has experienced
+Performance improvement project to
+increase the % of first surgical cases
+starting on time
+
+ 

@@ -1,0 +1,186 @@
+MINUTES OF REGULAR MEETING - VIDEO
+OPEN SESSION
+March 15, 2012
+ILLINOIS GAMING BOARD
+CHICAGO, ILLINOIS
+NOTE: ITEMS IN BOLDFACE PRINT REFLECT OFFICIAL BOARD ACTIONS
+On Thursday, March 15, 2012 a Regular Meeting - Video of the Illinois Gaming Board
+(“Board”) was held on the 3rd floor at 160 N. LaSalle, Chicago, Illinois.
+On Thursday, March 15, 2012 at approximately 9:45 A.M. the following Board members were
+present: Members Maribeth Vander Weele, Michael Holewinski and Lee Gould. Chairman
+Jaffe participated via telephone. At 10:04 A.M. on Thursday, March 15, 2012, Member
+Holewinski called the meeting to order. Pursuant to Section 2(c), paragraphs (1), (11), (14) and
+(21) of the Open Meetings Act and Section 6(d) of the Riverboat gambling Act, Member Gould
+moved that the Board retire to Closed Session to discuss the items listed under Closed
+Session on today’s agenda and relating to the following subject matters:
+1.
+2.
+3.
+
+Personnel matters;
+Investigations concerning applicants and licensees; and
+Closed session minutes.
+
+Member Vander Weele seconded the motion. The Board approved the motion unanimously by
+voice vote. The Board recessed and went into open session at 10:05 A.M. Present were the
+following: Member Gould, Member Vander Weele, and Member Holewinski. Chairman Jaffe
+participated via telephone. The Open Session for the Public started at 11:15 A.M.
+ADMINISTRATOR’S REPORT Administrator Ostrowski gave a brief summary on the update of video gaming.
+APPROVAL OF MINUTES –
+Member Gould moved that the Board approve the open session minutes of its Regular
+Meeting of February 16, 2012. Member Vander Weele seconded the motion. The Board
+approved the motion unanimously by roll call vote.
+BOARD POLICY ITEMS –
+Caleb Melamed appeared before the Board and gave a synopsis of the Proposed Rules.
+Sections 78 (a) (3) and (b) of the Video Gaming Act grant to the Board both regular and
+emergency rulemaking authority regarding the Video Gaming Act. The Board’s staff
+recommends the following changes to the Board’s rules:
+
+ The definition of “licensed technician” shall be clarified to clearly distinguish this category of
+licensee from a “licensed terminal handler”: The definition of “licensed terminal handler” in
+Section 5 of the Video Gaming Act [230 ILCS 40/5 (West 2010)] provides that this category of
+licensee shall have authority “to possess or control a video gaming terminal or to have access to
+the inner workings of a video gaming terminal.” “Inner workings” is never defined by the Video
+Gaming Act, but the most reasonable interpretation would be the innermost locked area of a
+video gaming terminal which houses electronic logic components that have the potential to
+significantly influence the operation of the VGT. As such, since a licensed handler can “possess
+or control” a VGT and have access to the “inner workings” of a VGT, a terminal handler can
+take a broken VGT out of service from a licensed establishment, take that VGT to an approved
+facility to repair the machine, and have access to all areas within the machine to effectuate the
+repair or replacement of parts. Alternatively, the licensed handler can have access to the inner
+workings of the VGT and effectuate the repair at a licensed location.
+In contrast, the license of licensed technicians is limited to the “repair, service, and
+[maintenance of] video gaming terminals.” Licensed technicians cannot “possess or control” a
+video gaming terminal (i.e., take a broken VGT to a repair facility), nor can licensed technicians
+have access to the “inner working” of a VGT. As such, licensed technicians can repair, service
+and maintain VGTs only outside of the innermost locked area of a VGT housing the electronic
+logic components that have the potential to significantly influence the operation of the VGT.
+Such repairs and maintenance would include refilling printer paper, repairing bill validators,
+resetting tilted machines, repairing video displays, etc.
+The video gaming rules should be amended to reflect the statutory differences in the scope of the
+“licensed terminal handler” and “licensed technician” licenses, along with defining the phrase
+“inner workings.” Staff recommends the adoption of the proposed rule change as a regular (nonemergency) rulemaking, whose adoption should be expedited in light of the fact that the Board
+will issue applications for these two categories of licenses in the very near future.
+Terminal operators shall provide notification when a location agreement is assigned: At
+present, a terminal operator can assign a location agreement without notifying either the Board or
+the affected location. The Board needs such notification to ensure that there are no gaps in its
+regulation of terminal operators and licensed locations, and the affected location should likewise
+receive notification as a matter of basic business fairness and contract transparency. The
+proposed rule change will amend Section 1800.250 of the video gaming rules [11 Ill. Adm. Code
+1800.250] to require a terminal operator which assigns a location agreement to provide both the
+Board and the affected location with prompt notification of the assignment. Staff recommends
+the filing of this proposal as a regular (nonemergency) rulemaking.
+Terminal operators shall be responsible for liability insurance coverage: This proposed rule
+change will establish consistency between the Video Gaming Act and its implementing rules on
+the subject of responsibility for liability insurance coverage. Section 57 of the Video Gaming
+Act [230 ILCS 40/57 (West 2010)] currently provides that a terminal operator shall maintain
+liability insurance coverage on any gaming device that it places in a licensed location. In
+contradiction to this statutory provision, Section 1800.270 of the video gaming rules [11 Ill.
+Adm. Code 1800.270] imposes responsibility for purchase of the liability coverage on the
+
+2
+
+ licensed location. The proposed rule change deletes the inconsistent language in Section
+1800.270, thus making clear that responsibility for purchase of liability coverage rests solely
+with the terminal operator. Staff recommends the filing of this proposal as a regular rulemaking.
+Registration of financing lenders shall be mandatory only where VGTs are secured as
+collateral: Section 1800.930 of the video gaming rules [11 Ill. Adm. Code 1800.930] currently
+provides that “[f]inancing for video gaming terminals may only be secured from a person who
+has registered with the Board on forms provided by the Board.” The present language is too
+broad. There is no regulatory need or authority for Board registration of lenders for the
+acquisition of video gaming terminals unless there is a possibility that the lenders will be
+enforcing a security interest in the VGTs (for example, the lender forecloses on the VGTs) if the
+borrower defaults. Staff therefore proposes that the language of Section 1800.930 be changed so
+as to require registration with the Board only for those financing arrangements wherein one or
+more VGTs are secured as collateral.
+●
+
+Proposed Rules – Sections 1800.100, 1800.250, 1800.270 and 1800.930
+Member Vander Weele moved that the Board authorize staff to submit proposals to
+amend the Board’s rules on Video Gaming – Section 1800.100 regarding definitions;
+Section 1800.250 regarding Duties of Licensed Video Terminal Operators; Section
+1800.270 regarding Duties of Licensed Video Gaming Locations; and Section
+1800.930 regarding Prior Registration – for First Notice Filing with the Secretary of
+State upon final review and approval by the Administrator. Member Gould seconded
+the motion. The Board approved the motion unanimously by roll call vote.
+
+SUPPLIER, MANUFACTURER AND DISTRIBUTOR LICENSEE ITEMS:
+●
+
+Chicago Gaming Company – Manufacturer and Distributor Licenses
+Based on a review of staff’s investigation and recommendation, Member Gould moved
+that the Board approve Chicago Gaming Company for a Manufacturer’s and
+Distributor’s License effective March 15, 2012 for a period of one year, expiring in
+March, 2013. Member Vander Weele seconded the motion. The Board approved the
+motion unanimously by roll call vote.
+
+●
+
+EDC, LLLP – Supplier License
+Based on a review of staff’s investigation and recommendation, Member Vander Weele
+moved that the Board approve EDC, LLLP for a Supplier’s License effective March
+15, 2012 for a period of one year, expiring in March, 2013. Member Gould seconded
+the motion. The Board approved the motion unanimously by roll call vote
+
+TERMINAL OPERATOR ITEMS
+
+3
+
+ Based on a review of staff’s investigation and recommendation, Member Gould moved that the
+Board approve the following entities for Terminal Operator’s Licenses effective March 15,
+2012 for a period of one year, expiring in March 2013:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Accel Entertainment Gaming, LLC;
+Arkadian Gaming, LLC;
+B&B Amusement of Illinois, LLC;
+Compact Disc Amusements, Limited;
+E.C. Video Gaming Enterprises, LLC;
+Emperor Video Slots Corporation;
+Fair Share Gaming, LLC;
+Illinois Video Gaming, Inc.;
+Leisure Time Gaming & Amusements, Inc.;
+TJM Vending, Inc.;
+Tower Gaming, LLC; and
+WAMI Gaming, LLC.
+
+Member Vander Weele seconded the motion. The Board approved the motion unanimously by
+roll call.
+●
+
+Abraham Gaming, LLC – Terminal Operator
+Based on a review of staff’s investigation and recommendation, Member Vander Weele
+moved that the Board approve Abraham Gaming, LLC for a Terminal Operator’s
+License effective March 15, 2012 for a period of one year, expiring in March 2013.
+Member Gould seconded the motion. Chairman Jaffe opposed the motion. Member
+Holewinski was in favor of the motion. The motion passed 3 to 1.
+
+●
+
+Sky Vending, Inc. – Terminal Operator
+Based on a review of staff’s investigation and recommendation, Member Gould moved
+that the Board deny Sky Vending, Inc.’s application for a Terminal Operator’s
+License. Member Vander Weele seconded the motion. The Board approved the motion
+unanimously by roll call vote.
+
+At 11:15 A.M. Member Vander Weele motioned to adjourn and Member Gould seconded the
+motion. All Members voted in favor of adjournment.
+Respectfully submitted,
+
+Mary C. Boruta
+Secretary to the Administrator
+
+4
+
+ 

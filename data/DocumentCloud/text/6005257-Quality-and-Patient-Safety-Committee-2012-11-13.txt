@@ -1,0 +1,1179 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, November 13, 2012 at the hour of 12:00 P.M. at 1900 W.
+Polk Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Michael called the meeting to order.
+Present:
+
+Chairman Edward L. Michael and Directors Luis Muñoz, MD, MPH and Carmen Velasquez (3)
+Hon. Jerry Butler
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Krishna Das, MD – System Interim Director of
+Quality and Patient Safety
+Claudia Fegan, MD – John H. Stroger, Jr. Hospital
+of Cook County
+David Goldberg, MD – John H. Stroger, Jr. Hospital
+of Cook County
+Helen Haynes – System Associate General Counsel
+Bala Hota, MD – System Interim Chief Information
+Officer
+
+II.
+
+Mindy Malecki – System Director of Risk
+Management
+Terry Mason, MD – System Chief Medical Officer
+Linda Rae Murray, MD – Cook County Department
+of Public Health
+Tanda Russell – System Interim Chief Nursing
+Officer
+Deborah Santana – Secretary to the Board
+Pierre Wakim, MD – Provident Hospital of Cook
+County
+
+Public Speakers
+Chairman Michael asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Updates
+A. Joint Commission Survey (Attachment #1)
+Dr. Krishna Das, System Interim Director of Quality and Patient Safety, provided an overview of the
+information on the recent survey conducted by The Joint Commission at John H. Stroger, Jr. Hospital of Cook
+County. Subjects covered in the report included the following: Survey Summary; Direct Impact Citations;
+Indirect Impact; and Response Plan. The Committee reviewed and discussed the information.
+The responses for the citations are due to The Joint Commission on December 17th; it is hoped that a
+preliminary draft response can be received by the end of this week to see how the responses are going to be
+framed out by those staff members involved. Some of the responses will require data collection, but as long as a
+plan is set by next month, the System has four (4) months to collect data. Dr. Das noted that those citations
+whose plans require additional staff are expected to be challenging to address.
+Chairman Michael inquired further regarding the citation relating to nursing assessments/reassessments of
+patients in a defined time frame. Dr. Das stated that currently, approximately 1-3% of patients wait more than
+twenty-four (24) hours in the Emergency Room before they are assessed; this tends to happen when there are
+particularly heavy admission caseloads, and amounts to roughly thirty (30) patients per month. Often, these
+cases relate to special needs for rooms, like for those patients who require isolation beds. When that happens,
+Page 1 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 2
+
+III.
+
+Updates
+A. Joint Commission Survey (continued)
+the Emergency Room (ER) personnel watch these patients very closely and assess the patients frequently; there
+are nursing vital signs taken every hour or two, depending on the acuity of the patient. She added that the
+inpatient teams go down and evaluate the patients, so the patient is still receiving care - in many ways, they are
+receiving an inpatient level of care; however, both System policy and industry standards require that a full
+nursing assessment be done within twenty-four (24) hours after admission.
+Dr. Das provided further information on the tools used by staff to track those patients requiring a nursing
+assessment. She stated that the ER uses FirstNet, which has a tracking board that lists all patients waiting for
+admission and the length of time they have been waiting. There is also a bed control mechanism called
+TeleTracking; this measures in real time and provides a report that tells staff how long the patient has been
+waiting.
+Chairman Michael inquired regarding the additional nursing personnel that may be needed to address this
+citation. Tanda Russell, System Interim Chief Nursing Officer, responded that she has discussed the subject
+with the Chief Nursing Officer of Stroger Hospital, and there are a couple of options that have been discussed.
+She stated that, in the short term, there will be a need to bring approximately three (3) nursing staff on board for
+this purpose, and to handle ongoing floor issues. In the longer term, if a dedicated admissions team is needed to
+handle all nursing admissions in-house, this option will need to be further reviewed. Chairman Michael
+inquired whether this is something that will be done for all patients within a certain timeframe. Ms. Russell
+responded that this has been discussed, as well; she noted that there are currently 45-60 admissions per day that
+come in through the ER or in-house.
+Chairman Michael inquired further regarding the citation relating to auditing medical records. Dr. Das
+responded that when a medical record is delinquent, it has surpassed its threshold of usually thirty (30) days
+after discharge without a signature. Part of the reason for this is that the medical records staff has been limited
+in their ability to send extremely delinquent records. Some of the delinquencies go back several years; it is a
+combination of very old charts that will need to be manually abstracted and manually sent to the physicians for
+signature - that number has built up over time. She added that there are not as many delinquencies with recent
+charts, as there has been a focus on the need to sign charts and its necessity for billing purposes.
+With regard to the citations whose plans contain training elements, Chairman Michael inquired whether there is
+a training department or specific individual that will be responsible for this. Dr. Das responded that the System
+does not have a robust training department. Within the Quality Department, there is one (1) person who has half
+of his time dedicated to training; this person spends half of his time in the clinics training for the new processes,
+and the other half of the time is spent in the training room located on the Stroger Hospital campus. Dr. Terry
+Mason, System Chief Medical Officer, provided additional information on the subject. He stated that this is
+also an authentication issue; they are signing and dating the records, and there needs to be a reminder that they
+also need to put the time in. He noted that the electronic medical record provides a legible authenticated record
+with the date and time stamp; the citation relates to those manual records for which the consent is manually
+obtained.
+Following the discussion, Chairman Michael requested that the Committee receive updates on the preparation
+for the response to The Joint Commission1.
+
+Page 2 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 3
+
+III.
+
+Updates (continued)
+B. Nursing Dashboard
+Ms. Russell indicated that the information regarding the nursing dashboard will be forwarded to the Committee
+following the meeting2.
+
+C. Update on Disclosure Policy
+Mindy Malecki, System Director of Risk Management, provided an update regarding activities relating to the
+drafting of the Disclosure Policy. The disclosure policy has been drafted, and consensus on the policy has been
+received from several people, including Dr. Mason, Dr. Das and staff from the Risk Management Department.
+Ms. Malecki plans to have staff from the Legal Department and Dr. Raju review the policy before it is
+disseminated; once this has occurred, it is expected that the policy will be brought forward to the Committee,
+possibly at the Committee Meeting in December.
+
+D. Update on Stroger Hospital Medical Staff Bylaws
+Dr. David Goldberg, President of the EMS of John H. Stroger, Jr. Hospital of Cook County, provided an update
+on potential revisions to the Stroger Hospital Medical Staff Bylaws. It was noted that, although this matter was
+not included in the information on the Joint Commission Survey, there were a couple of issues that arose. One
+issue is related to how the bylaws are amended - it is recommended that a series of protections for the larger
+organized voting members of the medical staff be included; this would allow for amendments to come to the
+Board even if the EMS has voted against them. He noted that there are a couple of other proposed revisions that
+are written within the elements of performance, in terms of removing members, for example.
+Dr. Goldberg stated that a meeting of the EMS is scheduled for this evening; three (3) sets of changes will be
+presented. One change is in terms of the whole amendment process; the second change relates to some specific
+language around histories and physicals that has to be included in the Bylaws; and the third change relates to
+other small changes that are in the same spirit. The Bylaws state that ten (10) days are needed before they can
+be voted upon; it is hoped that they will be voted on in December, and presented to the Board at its December
+meeting.
+
+IV.
+
+Recommendations, Discussion/Information Items
+A. Receive and file the following reports from the Cook County Department of Public Health (CCDPH)
+(Attachment #2):
+i.
+CCDPH 2011 Annual Report (electronically attached)
+Director Velasquez, seconded by Director Muñoz, moved to accept the Cook County
+Department of Public Health’s 2011 Annual Report. THE MOTION CARRIED
+UNANIMOUSLY.
+ii.
+
+After Action Report for NATO 2012 (Emergency Planning)
+Director Muñoz, seconded by Director Velasquez, moved to accept the After Action
+Report for NATO 2012. THE MOTION CARRIED UNANIMOUSLY.
+
+Page 3 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 4
+
+IV.
+
+Recommendations, Discussion/Information Items
+A. Receive and file reports from CCDPH (continued)
+iii. After Action Report for CHUG Functional Exercise (Emergency Planning)
+Director Muñoz, seconded by Director Velasquez, moved to accept the After Action
+Report for CHUG Functional Exercise. THE MOTION CARRIED UNANIMOUSLY.
+
+B. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Pierre Wakim, President of the Executive Medical Staff (EMS) of Provident Hospital of Cook County,
+provided a report on the following subjects that have been discussed at a recent EMS meeting: Gastro
+Intestinal (GI) initiatives for Provident; and the Chest Clinic at Provident.
+With regard to the GI initiatives, Dr. Wakim stated that the purpose is to decompress the outpatient GI
+procedures at Provident; he noted that they are waiting for a fund to create a GI suite at Provident Hospital
+in a section of the old intensive care unit. With regard to the Chest Clinic, he stated that this relates to an
+arrangement made between the City of Chicago and Cook County to direct their tuberculosis patients to
+Provident Hospital; he noted that staff is working with the administration at Stroger Hospital to provide
+more staffing for this purpose.
+Dr. Wakim added that some questions were discussed at the EMS meeting that he plans to further discuss
+with Dr. Ram Raju, Chief Executive Officer these questions were regarding the status of the Strategic Plan
+approved in 2010, as it relates to plans for Provident Hospital, and regarding the fate of Provident Hospital
+as it relates to the implementation of the Section 1115 Waiver.
+Dr. Goldberg indicated that his report was presented earlier in the meeting, during the update on the Stroger
+Hospital Medical Staff Bylaws.
+
+C. Updates on the following topics:
+ Electronic Health Records (EHRs)
+Follow up from October meeting – suggestions on what type of training resources and level of
+appropriation increase may be needed to enhance or improve the EHR training
+Dr. Bala Hota, System Interim Chief Information Officer, presented an update on EHRs and training
+resources. He stated that the Cerner contract is coming up for renewal; staff is currently engaged in the
+process of reviewing needs with Supply Chain - included in those needs are some hours for training
+personnel. The idea is to create a framework under which there is ongoing training for users of the EHR.
+One approach that has been suggested is to have a group that goes out to the clinics and demonstrates
+functionality. Prior to looking further for internal resources that can be leveraged for this purpose, it is
+recommended that the resources that can be obtained through the contract be first determined; this is
+expected to be determined within the next couple of months.
+
+Page 4 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 5
+
+IV.
+
+Recommendations, Discussion/Information Items
+C. Updates on the following topics (continued):
+ Developing a Quality Dashboard
+Follow up from October meeting – recommendation for the plan to move forward, specifically regarding
+the patient safety indicators that the Committee should review on a monthly basis
+A short video was presented, that addressed the subject of quality dashboards; this video was received at
+a recent National Association of Public Hospitals and Health Systems (NAPH) conference.
+Following the video, the Committee discussed the subject further. It had been previously determined that
+the Committee’s review and discussion of the strategic quality dashboard and revised overall Quality
+Plan for 2013 would be postponed until the survey by The Joint Commission had been completed; as the
+survey has now been completed, Chairman Michael indicated that the Committee should resume its
+deliberations on the dashboard and plan.
+Director Muñoz stated that he believes that the Committee and Board should revisit the subject of the
+System’s mission in general, in order to review the following: what are the services that the System is
+trying to deliver, and at what level? Director Velasquez stated that a couple of issues that should be
+included in that discussion are those relating to quality and regarding who is delivering the services. She
+noted that, at this meeting, the Committee received information that indicates that additional training
+resources are needed. Chairman Michael stated that the Committee needs to prioritize what it wants to
+focus on for 2013; he noted that this is an ongoing incremental process of improvement - every year, the
+System will strive to tackle more and more problems and improve the quality of care that is provided to
+the patients that are served. He asked the Committee to work towards selecting one or two items for the
+coming year that are considered to be the most important matters upon which this organization should
+focus. Dr. Mason stated that he will work with Dr. Das and Dr. Claudia Fegan, Chief Medical Officer
+for the John H. Stroger, Jr. Hospital of Cook County, to provide suggestions; he noted that there are a
+number of areas that are focused upon on from time to time, and perhaps a good way to start would be
+with one of those focus areas. The subject of hospital-acquired conditions was also discussed.
+Additional information on factors that impact that issue was provided; some of those factors include
+those that occur outside of the System, once the patient is discharged.
+Dr. Das suggested that patient satisfaction and readmission rates are a couple of good areas upon which
+to focus. She stated that patient satisfaction is going to be one of the key factors in the System’s attempts
+to enroll patients for the Medicaid Waiver, as well as being a factor going forward to keep patients in the
+System. She noted that one of the pay-for-performance measures relates to readmission rates - in terms
+of how much the System would lose financially, it would not be that large; however, she believes that it
+is a good marker for System performance. It not only tests the System’s discharge process, by looking at
+areas such as medication reconciliation and patient safety items, as well as communication items, such as
+patient education, but it also looks at access to care in terms of obtaining primary care appointments and
+availability of primary care appointments, as well as the System’s ability to manage care.
+Chairman Michael stated that there have been three subjects suggested for further conversation: hospitalacquired conditions, readmission rates, and patient satisfaction. At the December Committee Meeting,
+he requested that information be provided so that the Committee can review the System’s measurement
+on those subjects against other health care providers/institutions in Cook County; he stated that the
+Committee should see how the System is performing in those areas, and take that information into
+account in terms of coming up with what the goal for improvement should be in each of those areas3.
+
+Page 5 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 6
+
+V.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, October 16, 2012
+Director Velasquez, seconded by Director Muñoz, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of October 16, 2012. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. Any items listed under Sections IV, V and VI
+
+VI.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (Attachment #3)
+Note: the Committee did not recess the regular session and convene into closed session.
+Director Muñoz, seconded by Director Velasquez, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Michael declared that the meeting was
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Edward L. Michael, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 6 of 22
+
+ Quality and Patient Safety Committee Meeting Minutes
+Tuesday, November 13, 2012
+Page 7
+
+1
+
+Follow-up: request for updates to the Committee on the preparation for the response to The Joint Commission.
+Page 2.
+
+2
+
+Follow-up: information regarding the nursing dashboard will be forwarded to the Committee following the
+meeting. Page 3.
+
+3
+
+Follow-up: For December Meeting, information to be provided on hospital-acquired conditions, readmission
+rates and patient satisfaction measurements for other health care providers/institutions in Cook County. Page 4.
+
+Page 7 of 22
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+November 13, 2012
+
+ATTACHMENT #1
+
+Page 8 of 22
+
+ Joint Commission Survey Overview: 
+John H Stroger Jr Hospital
+
+Report of Interim System Director, Quality
+11.13.2012
+
+Page 9 of 22
+
+ Survey Summary
+• ‘Deemed status’ survey for CMS; every 3 years
+• 4 days, 4 surveyors (+ 1 in training)
+y
+y (
+g)
+• Process:
+– Tracers‐ arrive in clinical area and request to review a specific patient
+– Document review: files of employees identified in tracers, chart review
+D
+i
+fil
+f
+l
+id ifi d i
+h
+i
+– Conference + documents: Leadership, Emergency Management, 
+Medication Management, Infection Control
+
+• Positive comments:
+– Involvement of clinical staff
+– Leadership commitment
+Leadership commitment
+– Excellent credentialing and personnel files
+
+• Citations listed below– ‘direct impact’ and ‘indirect impact’
+
+Page 10 of 22
+
+ Direct Impact Citations
+Description of the 
+Standard
+
+Specifics
+
+Plan
+
+Manage risk related to hazardous 
+material and waste
+
+Check and document the integrity of lead
+aprons used for radiation protection
+
+Refine policy
+Ensure compliance
+
+M i t i fi
+Maintain fire safety equipment
+f t
+i
+t
+
+Fire alarm
+Fi
+l
+and fire door testing results 
+d fi d
+t ti
+lt
+should be logged
+
+Implement policy
+polic
+Requires vendor assistance
+
+Reduce risk of infections related 
+to medical devices and 
+to medical devices
+and
+equipment
+
+Place expiration dates on test strips in 
+central processing areas
+central processing areas.
+Re‐define the process used for cleaning 
+and storing laryngoscope blades
+
+Implement policy
+Refine policy
+Requires interdisciplinary 
+approach
+Requires new equipment?
+
+Provide and maintain fire alarm 
+systems
+
+Place a new smoke detector on the fire
+alarm panel
+
+Requires equipment
+
+Page 11 of 22
+
+ Direct Impact Citations
+Description of the 
+Standard
+
+Specifics
+
+Plan
+
+Assess/ reassess patients in a 
+defined time frame
+
+Complete initial nursing assessment  24 
+hrs  when patients stay in ED > 18 hrs
+
+Requires additional staff
+Develop guidelines
+Refine process
+
+Provide treatment as ordered 
+and prescribed
+
+IV drips in the intensive care units 
+should follow uniform dosing guidelines
+should follow uniform dosing guidelines
+
+Create protocols and orders (IT) 
+for all such medications
+for all such medications 
+Educate staff
+
+Resuscitation services
+
+Every crash cart needs documentation 
+of regular testing
+of regular testing
+
+Refine process
+Implement new process
+Implement new process
+
+Pre‐op care for moderate 
+sedation
+
+Document that patients are evaluated 
+for moderate ‘conscious’ sedation
+
+Implement policy
+Create PowerNote (IT)
+Educate staff
+
+Initiate restraints based on 
+orders
+
+Our policy requires us to renew 
+restraints every 24 hours. This is more 
+stringent than CMS requirements
+
+Revise policy 
+Create EMR rules (IT)
+Educate staff
+
+Document high risk procedures 
+in the medical record
+
+Post‐op notes are missing key elements
+
+Create PowerNote (IT)
+Educate staff
+
+Page 12 of 22
+
+ Indirect Impact
+Description of the 
+Standard
+
+Specifics
+
+Plan
+
+Maintains means of egress
+
+Glass door in cafeteria ‘not an exit’
+
+Implement physical change
+
+Bylaws address self governance 
+and accountability to governing
+and accountability to governing 
+body
+
+Bylaws must include ability of all med 
+staff members to introduce
+staff members to introduce 
+amendments
+
+Revise policy
+Requires EMS approval and QPS 
+EMS approval and QPS
+approval
+
+Medical staff oversees the 
+quality of patient
+q
+y p
+care
+
+H&P documentation requirements 
+must be in bylaws
+y
+
+Revise policy
+Requires
+q
+EMS approval and QPS 
+pp
+approval
+
+Maintain complete and accurate 
+records on each patient
+
+Consents  dated; without time
+
+Implement policy
+
+Audits medical records
+
+Delinquency rate >50% for 1 quarter
+
+Create reports (IT)
+
+Trace all tissues bi
+all tissues bi‐directionally
+directionally
+
+Document lot number of rehydration 
+Document
+lot number of rehydration
+solution
+
+Implement policy
+Implement policy
+
+Page 13 of 22
+
+ Response Plan
+Each response is detailed: 
+ac espo se s deta ed: WHO, WHAT, HOW
+O,
+, O
+Distribute response templates with details
+Identify process owner for each response
+Identify process owner for each response
+Insist on a multidisciplinary approach
+Data collection plans required for specific citations
+Data collection plans required for specific citations
+Preliminary response due in‐house next Friday, 
+/ /
+11/16/2012
+• Final submission due to TJC 12/17/2012 (for 45 
+day) and 1/1/2013 (for 60 day)
+•
+•
+•
+•
+•
+•
+
+Page 14 of 22
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+November 13, 2012
+
+ATTACHMENT #2
+(attached electronically)
+
+Page 15 of 22
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+November 13, 2012
+
+ATTACHMENT #3
+
+Page 16 of 22
+
+  
+
+John H. Stroger, Jr. Hospital of Cook County
+
+Medical Staff AppointmentsIReappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+INITIAL APPOINTMENT APPLICATIONS
+
+ 
+
+Kaminsky, Matthew J., MD Trauma Voluntary Physician
+Appointment Effective: November 13, 2012 thru November 12, 2014
+
+INITIAL PRIVILEGES FOR NON MEDICAL STAFF
+
+ 
+
+Poletis, Kelly M., Surgery/Cardiothracic Physician Assistant
+With Smego, Douglas R., MD
+
+Alternate Warren, William H., MD
+
+Effective: November 13, 2012 thru November 12, 2014
+
+REAPPOINTMENT APPLICATIONS
+
+ 
+
+Department of Correctional Health Services
+
+ 
+
+Improvola, Jose Gabriel, MD Emergency Medicine Voluntary Physician
+Reappointment Effective: November 13, 2012 thru November 12, 2014
+
+Lopez, Regina, MD Active Physician
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+
+Department of Emergency Medicine
+
+Guerro, Pilar, MD Emergency Medicine Active Physician
+Reappointment Effective: December 18, 2012 thru December 17, 2014
+
+Gussow, Leon M., MD Emergency Medicine Honorary Physician
+Reappointment Effective: December 16, 2012 thru December 15, 2014
+
+Department of Family Medicine
+
+Bradley, Juliet, MD Family Medicine Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Barberousse, Lionel, MD Family Medicine Active Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Edoigiawerie, Charles Family Medicine Physician
+Reappointment Effective: November 15, 2012 thru Novemb 
+
+BY THE I AND PATIENT SAFETY COMMITTEE
+on NOVEMBER 13, 2012
+
+Item 11/13/12 Quality and Patient Safety Committee Meeting Page 1 REVISED
+
+Page 17 of 22
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Reappointment Applications
+
+ 
+
+Department of Family Medicine (continue?l
+
+ 
+
+Grivois-Shah, Ravi, MD
+Reappointment Effective:
+
+Martin, Alfred, MD
+Reappointment Effective:
+
+McIntyre, Jessica, MD
+Reappointment Effective:
+
+McPherson, Julita, MD
+Reappointment Effective:
+
+Smith, Stephanie, MD
+Reappointment Effective:
+
+Stabile, Stephen, MD
+Reappointment Effective:
+
+Department of Medicine
+
+Attar, Bashar M., MD
+Reappointment Effective:
+
+Franco-Sadud, Richard A., MD
+Reappointment Effective:
+
+Katz, Ariel R., MD
+Reappointment Effective:
+
+Lacuesta, Evelyn A., MD
+Reappointment Effective:
+
+Lin, Michael Y., MD
+Reappointment Effective: -
+
+Mason, Thomas A., MD
+Reappointment Effective:
+
+Mba, Benjamin, MD
+Reappointment Effective:
+
+Singleton Jr., Lafayette, MD
+Reappointment Effective:
+
+Uday, Shreeyala, MD
+Reappointment Effective:
+
+Item Vll(A) 1/13/12 Quality and Patient Safety Committee Meeting
+
+Family Medicine
+November 24, 2012 thru November 23, 2014
+
+Family Medicine
+November 16, 2012 thru November 15, 2014
+
+Family Medicine
+November 15, 2012 thru November 14, 2014
+
+Family Medicine
+November 15, 2012 thru November 14, 2014
+
+Family Medicine/ACHN
+November 15, 2012 thru November 14, 2014
+
+Family Medicine
+November 15, 2012 thru November 14, 2014
+
+Gastroenterology
+December 9, 2012 thru December 8, 2014
+
+Hospital Medicine
+December 14, 2012 thru December 13, 2014
+
+Hospital Medicine
+November 25, 2012 thru November 24, 2014
+
+Endocrinology
+December 17, 2012 thru December 16, 2014
+
+Infectious Disease
+November 25, 2012 thru November 24, 2014
+
+General Medicine
+November 15, 2012 thru November 14, 2014
+
+Hospital Medicine
+December 12, 2012 thru December 11, 2014
+
+Neurology
+December 17, 2012 thru December 16, 2014
+
+General Medicine
+December 13, 2012 ecember12, 2014
+
+001-1118
+
+APPROVED
+
+AND PATIENT SAFETY COMMITTEE
+Page 2 on NOVEMBER 13, 20 12
+
+BY THE QU
+
+Page 18 of 22
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+REVISED
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Reappointment Applications (continued)
+
+ 
+
+Department of Pathology
+
+Harper, Terence, MD
+Reappointment Effective:
+
+Department of Pediatrics
+
+ 
+
+Akintorin, Mopelaia, MD
+Reappointment Effective:
+
+Arcia-Diaz, Rosibell D., MD
+Reappointment Effective:
+
+Floyd-Rebollo, Michelle, MD
+Reappointment Effective:
+
+Neafsey, Judith A., MD
+Reappointment Effective:
+
+Samee, Sabiha, MD
+Reappointment Effective:
+
+Department of Radiology
+
+ 
+
+Tailor, Kallolini, MD
+Reappointment Effective:
+
+Department of Sumery
+
+ 
+
+Ahuja, Richard, MD
+Reappointment Effective:
+
+Ansari, Shahid, MD
+Reappointment Effective:
+
+Canning, John, MD
+Appointment Effective:
+
+Cybulski, George, MD
+Reappointment Effective:
+
+Greenberg, David, MD
+Reappointment Effective:
+
+Jacobs, Chad E., MD
+Reappointment Effective:
+
+Keen, Richard, MD
+Reappointment Effective:
+
+Item va) I 1113/12 Quality and Patient Safety Committee Meeting? TIQ
+
+Anatomic Pathology
+
+December 18, 2012 thru December 17, 2014
+
+Neonatology
+November 25, 2012 thru November 24, 2014
+
+Peds Medicine
+November 13, 2012 thru November 12, 2014
+
+
+November 13, 2012 thru November 12, 2014
+
+
+November 25, 2012 thru November 24, 2014
+
+Adolescent Medicine
+November 13, 2012 thru November 12, 2014
+
+Radiology
+December 31, 2012 thru December 30, 2014
+
+Ophthalmology
+December 14, 2012 thru December 13, 2014
+
+General Surgery
+December 18, 2012 thru December 17, 2014
+
+Surgery/Urology .
+November 13, 2012 thru November 12, 2014
+
+Neurosurgery
+December 12, 2012 thru December 11, 2014
+
+Ophthalmology
+November 16, 2012 thru November 15, 2014
+
+Vascular Surgery
+November 25, 2012 thru November 24, 2014
+
+Vascular/General Surgery
+December 15, 2012
+
+cember McEQh?h
+
+Consulting Physician
+
+Active Physician
+Active Physician
+Active Physician
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+Active Physician
+Voluntary Physician
+Active Physician
+Consulting Physician
+Voluntary Physician
+
+Active Physician
+
+APPROVED
+
+TY AND PATIENT SAFETY WEE
+
+01'! NOVEMBER 13, 2012
+
+Page 19 of 22
+
+John H. Stroger, Jr. Hospital of Cook County
+Reappointment Applications
+
+ 
+
+Department of Surgery (continuegl)
+
+ 
+
+Marcus, Elizabeth A., MD Breast Oncology Active Physician
+Reappointment Effective: November 27, 2012 thru November 26, 2014.
+
+Raksin, Patricia, MD Neurosurgery Active Physician
+Reappointment Effective: December 14, 2012 thru December 13, 2014
+
+Saulitis, Emily, CCP Cardiothoracic Active Perfusionist
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+
+Warren, William, MD Cardiothoracic Active Physician
+Reappointment Effective: November 13, 2012 thru November 12, 2014
+
+Williams, Kenya, MD Ophthalmology Voluntary Physician
+Reappointment Effective: November 16, 2012 thru November 15, 2014
+
+Department of Trauma
+
+ 
+
+Dennis, Andrew J., DO Critical Care lBurn Unit Active Physician
+Reappointment Effective: November 25, 2012 thru November 24, 2014
+
+Renewal of Privileges for Non-Medical Staff:
+
+Jackson, Rachel M., CNP Pediatrics/Adolescent Medicine Nurse Practitioner
+With Martinez, Jaime, MD
+
+Effective: November 16, 2012 thru November 15, 2014
+
+Micci, Sandra J., PA-C OB/Gyne-Gynecology Nurse Practitioner
+
+With Cejtin, Helen, MD
+Alternate French, Audrey L., MD
+
+Effective: January 27, 2013 thru January 26, 2015
+
+Smith, Deiora A., CNP Surgery/Plastic Surgery Nurse Practitioner
+With Grevious, Mark A., MD
+
+Effective: November 13, 2012 thru November 12, 2014
+
+Medical Staff Change with No Change in Clinical Privileges
+Bork, Jeffrey, MD Surgery/Breast Oncology From: Active Physician to Voluntary Physician
+
+Dray, Philip, MD Surgery/Ophthalmology From: Active Physician to Voluntary Physician
+
+Medical Staff Appointment to be Amended From Provisional to Full Status
+
+Anoina, Dorothy, MD Obstetrics and Gynecology Consulting Physician
+Cheema, Navnett, MD Emergency Medicine Voluntary Physician
+Chin, Sophia, MD Family Medicine/ACH Active Physician
+
+ltem l/13/l2 Quality and Patient Safety Committee Meeting 4 APPROVED REVISED
+BY THE QU PATIENT SAFETY COMMITTEE
+
+ON NOVEMBER 13, 2012
+Page 20 of 22
+
+John H. Stroger, Jr. Hospital of Cook County
+
+Medical Staff Appointment to be Amended From Provisional to Full Status (continued)
+
+Saad, Jorge, MD Family Medicine/ACHN Active Physician
+Siddiqi, Alvia, MD Family Medicine Active Physician
+Yurasek, Frank, Anesthesiology/Pain Management Acupuncturist
+
+Medical Staff Additional Clinical Privileges
+
+Khosropour, Andrea, MD Active Physician Family Medicine with OB Delivery privileges
+(needs FPPE in 6 months)
+
+Jordan Claire Carqueville, MD Active Physician Medicine?Dermatology JHS To:
+Pathology/Dermatopathology
+
+ITY AND PATIENT SAFETY COMMITTEE
+
+BY TH
+on NOVEMBER 13, 2012
+
+Item 1 1/1 3/12 Quality and Patient Safety Committee Meeting Page 5 REVISED
+
+Page 21 of 22
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff AppointmentsIReappointments and Non-Medical Staff Action Items Subject to
+Approval by the Quality and Patient Safety Committee
+
+ 
+
+INITIAL APPOINTMENT APPLICATIONS
+
+ 
+
+Go, Leonard H.T., MD
+Appointment Effective:
+
+Department of Family Medicine
+
+ 
+
+Bradley, Juliet, MD
+Reappointment Effective:
+
+Daniel, Alice Fairman, MD
+Reappointment Effective:
+
+Edoigiawerie, Charles
+Reappointment Effective:
+
+Martin, Alfred, MD
+Reappointment Effective:
+
+Internal Medicine/Pulmonary
+November 13, 2012 thru November 12, 2014
+
+REAPPOINTMENT APPLICATIONS
+
+ 
+
+Family Medicine
+November 16, 2012 thru November 15, 2014
+
+Family Medicine
+November 25, 2012 thru November 24, 2014
+
+Family Medicine
+November 15, 2012 thru November 14, 2014
+
+Family Medicine
+November 16, 2012 thru November 15,2014
+
+Department of Internal Medicine
+
+ 
+
+Hollandsworth, Don L., DO
+
+Reappointment Effective:
+
+Department of Surgery
+
+ 
+
+Ansari, Shahid, MD
+Reappointment Effective:
+
+Failma, Rogelio, MD
+Reappointment Effective:
+
+Nephrology
+
+December 18, 2012 thru December 17, 2014
+
+Surgery
+December 18, 2012 thru December 17, 2014
+
+Surgery
+November 16, 2012 thru November 15, 2014
+
+Affiliate Physician
+
+Active Physician
+
+Active Physician
+
+Affiliate Physician
+
+Active Physician
+
+Active Consulting
+Physician
+
+Active Physician
+
+Consulting Physician
+
+BY THE AND PATIENT SAFETY COMMITTEE
+on NOVEMBER 13, 2012
+
+Item Vll(A)? 11/13/12 Quality and Patient Safety Committee Meeting Page 6
+
+Page 22 of 22
+
+REVISED
+

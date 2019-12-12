@@ -1,0 +1,329 @@
+VTE Improvement Update
+July 19, 2019
+
+Umair Jabbar, MD
+Dept. of Medicine Representative
+
+Hospital QI and Patient Safety Committee
+
+ Outline
+Why are VTE failures happening?
+Addressing Lapses in Ordering
+
+Improving Implementation Processes
+Documenting compliance
+
+ Core Measure – Venous Thromboembolism (VTE) Prevention
+100%
+
+100%
+94%
+
+90%
+
+90%
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+Stroger
+
+0%
+Jul-18
+
+Aug-18
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Jan-19
+
+Feb-19
+
+Mar-19
+
+Apr-19
+
+Provident
+May-19
+
+Jun-19
+
+Source: Quality Dept.
+3
+
+ VTE Process Map
+Patient
+admitted
+
+SCD Delivered by
+Central Supply
+
+Ordered by MD
+
+Medication
+available
+
+Administered
+by staff
+
+Patient
+Ambulatory
+
+Care
+Documented
+
+Prophylaxis
+Chosen
+
+Risk
+Assessment
+
+Change in location, service,
+risk or contraindications
+
+Discharged
+SCD = Sequential Compression Device
+VTE = Venous Thromboembolism
+
+4
+
+ Why are VTE failures happening?
+Bypassed Risk
+Assessment
+6%
+
+Erroneous
+measurement
+1%
+
+Not ordered
+38%
+
+SCD not applied or
+documented
+55%
+
+5
+
+ 11
+
+Addressing Lapses in Risk
+
+Assessment and Ordering
+
+ 
+
+Ensuring Risk Assessment
+• Triggered by all admission order sets
+
+• Triggered on transfers of care
+• Triggered when prior prophylaxis
+cancelled
+
+Patient
+admitted
+Prophylaxis
+Chosen
+
+Risk
+Assessment
+Change in location,
+service, risk or
+contraindications
+
+7
+
+ Requiring Prophylaxis
+
+Ordered by MD
+
+Prophylaxis
+Chosen
+
+• Orders required regardless of risk
+
+• Low Risk: Ambulate order
+
+• Moderate to high risk:
+
+• Pharmacologic OR
+• Sequential Compression Device OR
+• Reason for no VTE Prophylaxis
+given
+
+8
+
+ Administrating Prophylaxis: SCD Failures
+• Accounts for 56% of VTE Failures
+
+• High Compliance Nursing Units:
+• One bed = One SCD device
+
+SCD Delivered by
+Central Supply
+
+Administered
+by staff
+
+Requested
+
+• Culture of SCD documentation
+
+Diversion
+Cleaned
+
+• Low Compliance Units:
+• SCD not on unit
+
+• Erratic delivery from central supply
+
+Used SCD
+Returned to
+Central Supply
+
+• Irregular documentation practices
+9
+
+ Goal: Increasing SCD Availability
+• Pilot between Central Supply and Nursing
+
+• Minimum number of SCDs assigned to unit
+
+• SCDs cleaned onsite
+
+• Returned to Charge RN for storage
+
+Requested
+
+Administered
+by staff
+
+Stored on Unit
+
+Cleaned on Unit
+
+Placed in Unit
+Dirty Supply
+
+10
+
+ Results
+
+SCD Availability on 6-South
+12
+
+Number of Units
+
+10
+
+Clean
+
+8
+
+Dirty
+
+6
+
+4
+
+In Use
+
+2
+
+0
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+11
+
+ Results
+• Clean SCDs always available
+
+Administered
+by staff
+
+• New process preferred by:
+
+• 2/2 Charge RNs
+• 3/3 Floor RNs
+• Central Supply
+
+Care
+Documented
+
+• Overall 6-South VTE Compliance unchanged
+
+12
+
+ Improving Documentation
+Forced SCD
+documentation every
+8 hours
+
+Required
+documentation in
+notes
+
+13
+
+ Challenges
+• Electronic Health Record rules are complex
+
+• Competing Information Services demands
+• Not enough SCDs to guarantee 10 per med/surg unit
+• Central Supply staffing inconsistencies
+
+14
+
+ Next Steps
+• Enable EHR Changes (Tentative
+August 2019)
+• Expand 6-South pilot to other
+med/surg units
+• Additional 60 SCD machines
+requested
+• Monitor compliance in real-time
+15
+
+ 
+. 
+Questions/Comments?
+
+COOK COUNTY
+
+
+0 0
+
+I 
+1 Hi?
+
+
+ 
+ 
+
+11
+
+Thank you
+
+COOK COUNTY
+
+HEALTH
+
+ 
+

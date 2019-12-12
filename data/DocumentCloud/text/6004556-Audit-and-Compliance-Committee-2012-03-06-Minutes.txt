@@ -1,0 +1,1511 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Tuesday, March 6, 2012 at the hour of 9:30 A.M., at 1900 West Polk Street,
+in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Muñoz called the meeting to order.
+Present:
+
+Chairman Luis Muñoz, MD, MPH and Directors Benn Greenspan, PhD, MPH, FACHE and
+Heather O’Donnell, JD, LLM (3)
+Board Chairman Warren L. Batts (Ex-Officio Member) and Gerald Bauman (non-Director
+Member)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – System Chief Compliance Officer
+John Cookinham – System Interim Chief Financial
+Officer
+Scott Ellis – System Information Security Officer
+Deborah Fortier – Office of the System General
+Counsel
+Pat Hagan – McGladrey & Pullen, LLP
+
+II.
+
+Tim Heinrich – McGladrey & Pullen, LLP
+Daniel Howard – System Chief Information
+Officer
+Pat Kitchen – McGladrey & Pullen, LLP
+Deborah Santana – Secretary to the Board
+Thomas Schroeder – System Director of Internal
+Audit
+
+Public Speakers
+Chairman Muñoz asked the Secretary to call upon the registered speakers.
+The Secretary responded that there were none.
+
+III.
+
+Report from System Corporate Compliance Officer (Attachment #1)
+A. Activity Report
+Cathy Bodnar, System Corporate Compliance Officer, presented the Activity Report regarding the
+following subjects: Quarterly Statistics – Reactive Issues; Breach Reporting; Sanction Screening Checks;
+Fostering Transparency (publicly through our Website); Providing Compliance Education (internally to
+our Employees); and Strengthening our Infrastructure. Scott Ellis, System Information Security Officer,
+provided additional information regarding the subject of Breach Reporting. The Committee reviewed and
+discussed the information.
+With regard to the update on Strengthening Our Infrastructure (containing the Corporate Compliance
+organizational chart), Ms. Bodnar noted that discussions are currently being held on the question of
+whether the position for the Unlawful Political Discrimination/Shakman Compliance Officer will be based
+downtown with the County administration.
+
+Page 1 of 45
+
+ Audit and Compliance Committee Meeting Minutes
+Tuesday, March 6, 2012
+Page 2
+
+IV.
+
+**Report from System Director of Internal Audit (Attachment #2)
+A. Activity Report
+Tom Schroeder, System Director of Internal Audit, reviewed the information provided on the 2012
+Internal Audit Plan. The Committee reviewed and discussed the information.
+
+V.
+
+Recommendations, Discussion/Information Item
+A. Update from McGladrey & Pullen, LLP on FY2011 Audit activities (Attachment #3)
+The following representatives from McGladrey & Pullen, LLP, provided an update on FY2011 Audit
+Activities: Pat Kitchen, Partner; Tim Heinrichs, Director; and Pat Hagen, National Managing Partner –
+State and Local Government. Included in the update and presentation was a letter to the Committee, which
+communicated certain matters related to the planned scope and timing of the audit of the System’s
+financial statements as of and for the year ended November 30, 2011. The Committee reviewed and
+discussed the information.
+
+VI.
+
+Action Items
+A. Minutes of the Audit and Compliance Committee Meeting, January 17, 2012
+Director Greenspan, seconded by Director O’Donnell, moved to accept the minutes of the
+Audit and Compliance Committee Meeting of January 17, 2012. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. Any items listed under Sections V, VI and VII
+
+VII. Closed Session Discussion/Information Items
+A. **Report from System Director of Internal Audit
+B. Discussion of Personnel Matters
+Director Greenspan, seconded by Director O’Donnell, moved to recess the regular
+session and convene into closed session, pursuant to the following exception to the
+Illinois Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the appointment,
+employment, compensation, discipline, performance, or dismissal of specific employees
+of the public body or legal counsel for the public body, including hearing testimony on a
+complaint lodged against an employee of the public body or against legal counsel for the
+public body to determine its validity,” and 5 ILCS 120/2(c)(28), regarding “meetings
+between internal or external auditors and governmental audit committees, finance
+committees, and their equivalents, when the discussion involves internal control
+weaknesses, identification of potential fraud risk areas, known or suspected frauds, and
+fraud interviews conducted in accordance with generally accepted auditing standards of
+the United States of America.” THE MOTION CARRIED UNANIMOUSLY.
+Chairman Muñoz declared that the closed session was adjourned.
+reconvened into regular session.
+
+Page 2 of 45
+
+The Committee
+
+ Audit and Compliance Committee Meeting Minutes
+Tuesday, March 6, 2012
+Page 3
+
+VIII. Adjourn
+As the agenda was exhausted, Chairman Muñoz declared the meeting ADJOURNED.
+Respectfully submitted,
+Audit and Compliance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Luis Muñoz, MD, MPH, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 3 of 45
+
+ Cook County Health and Hospitals System
+Minutes of the Audit and Compliance Committee Meeting
+March 6, 2012
+
+ATTACHMENT #1
+
+Page 4 of 45
+
+ Corporate Compliance
+Report
+
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance Officer
+
+March 6, 2012
+
+ 
+
+0" COOK COUNTY HEALTH
+?2 8: HOSPITALS SYSTEM
+
+
+
+ 
+
+ 
+
+Page 5 of 45
+
+Objectives
+
+
+
+
+
+
+
+
+To present a brief overview of reactive activity
+- quarterly statistics on compliance issues.
+- CY11 breach statistics.
+T fil
+To
+file annuall sanction
+ti
+reports
+t ffor employees
+l
+and vendors.
+To
+o report
+epo t educat
+education
+o a
+and
+da
+awareness
+a e ess act
+activities
+t es
+- Publically via the Internet.
+- Internally through e-learning.
+To provide an update on the compliance
+department’s infrastructure.
+
+2
+Page 6 of 45
+
+ Quarterly Statistics – Reactive Issues
+81 New
+Issues Opened in 1st Quarter FY 2012
+1Q12
+Research
+1%
+
+Other
+19%
+
+HIPAA
+44%
+
+Political
+1% Fraud
+False
+Claims
+3%
+
+2%
+
+Privacy (HIPAA)
+Human Resources
+Conflict Of Interest
+Accurate Books
+False Claims
+Healthcare Fraud
+Political Activity
+Research
+Other
+
+Accurate
+Books
+9%
+
+Conflict of Interest
+9%
+
+Total Issue Count by Category
+81 Issues in 1st Q FY12 +
+15 Issues Carried Over from FY11
+
+HR
+12%
+
+3
+Page 7 of 45
+
+36 + 8
+10
+7
+7
+2
+2+4
+1
+1
+15 + 3
+
+ Breach Reporting
+
+Total Number of Individuals Affected by
+Breaches of Unsecured Protected Health Information – 32,371
+,
+
+“Unsecured”
+
+
+Protected Health Information (PHI) has been rendered unusable, unreadable,
+or indecipherable to unauthorized individuals.
+- Electronic – must be encrypted following the requirements set forth within
+the HIPAA Security Rule.
+- Paper, film, or other hard copy media has been shredded or destroyed such
+that the PHI cannot be read or otherwise reconstructed.
+
+Notice
+
+
+≥ 500 individuals
+
+
+
+< 500 individuals
+
+4
+Page 8 of 45
+
+ Questions?
+
+ 
+
+COOK COUNTY HEALTH
+Oz HOSPITALS SYSTEM
+
+
+
+ 
+
+ 
+
+Page 9 of 45
+
+Sanction Screening Checks
+No Exclusions Identified for Employees or Vendors
+
+Questions?
+
+6
+Page 10 of 45
+
+ Fostering Transparency
+
+Publically through our Website
+
+ 
+
+cm?s - - . I 
+-
+
+ 
+
+
+
+FEEHUA
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+8: HOSPITALS SYSTEM
+
+05""5
+
+ 
+
+ 
+
+Page 11 of 45
+
+Providing Compliance Education
+
+Internally to our Employees
+
+can: count! Hun"
+3\ 'i "05"an SYSTEM
+
+?ll?5. Introduction to
+Corporate Compliance HIPAA
+
+ 
+ 
+
+Welcome
+Cook County HHS
+
+Mission Welcome to the Corporate Compliance 8; Privacy
+Healthcare Education.
+Compliance
+
+This program will take about 35 minutes. You?ll learn about:
+
+Patient Privacy Br
+Confidentiality . Healthcare Compliance
+
+Your 3* - Patient Privacy 8: Confidentiality
+Responsibilities
+
+How to Report a Your Role 
+
+ 
+
+
+oncem . How to Report a Concern
+Attestation
+After learning about these topics, you will confirm your commitment
+Quiz to then take a short quiz.
+You can tell how far along you are by looking at the topic
+highlighted in yellow on the left of the Screen.
+Click on the arrow at the bottom right of the screen to continue.
+El, fi'ilflfi?t Ili't'iT
+
+ 
+
+ 
+
+ 
+
+page 1 of 33 .-: 
+
+ 
+
+COOK COUNTY HEALTH
+8: HOSPITALS SYSTEM
+
+
+
+ 
+
+ 
+
+Page 12 of 45
+
+Questions?
+
+ 
+
+COOK COUNTY HEALTH
+Oz HOSPITALS SYSTEM
+
+
+
+ 
+
+ 
+
+Page 13 of 45
+
+Strengthening Our Infrastructure
+Building on a solid platform
+CCHHS Board of
+Directors
+
+Audit & Compliance
+Committee of the
+Board
+
+CCHHS Chief
+Executive Officer
+
+Chief Compliance
+Officer
+
+This Compliance Officer
+position will replace the
+current Associate
+Compliance Officer
+position
+
+Compliance
+Offi
+Officer
+
+Compliance
+Officer
+
+Compliance
+Analyst
+y
+
+UPD/Shakman
+Compliance
+Officer
+
+Compliance
+Coordinator
+New titles/positions
+
+10
+Page 14 of 45
+
+ 11
+
+Questions?
+
+Page 15 of 45
+
+ 
+
+ 
+
+COOK COUNTY HEALTH
+Oz HOSPITALS SYSTEM
+
+
+
+ 
+
+MARCH 6, 2012 REPORT
+to the
+AUDIT AND COMPLIANCE COMMITTEE
+from the
+CHIEF COMPLIANCE OFFICER
+
+Page 16 of 45
+
+  A
+ACTIVITY REPORT
+
+Page 17 of 45
+
+COMPLIANCE ISSUES (REACTIVE)
+BY CATEGORY
+1st Quarter FY 2012 Statistics
+12/01/2011 – 02/29/2012
+81 New Issues Opened
+
+Conflict of Interest
+9%
+
+Accurate Books
+5%
+Research
+1%
+
+HIPAA
+44%
+
+Political
+1%
+Fraud
+2%
+Other
+19%
+HR
+12%
+
+Total Issue Count by Category
+81 Issues from 1st Q FY 2012 + 15 Issues Carried Over from FY 2011
+Privacy (HIPAA)
+Human Resources
+Conflict of Interest
+Accurate Books
+False Claims
+
+36 + 8
+10
+7
+7
+2
+
+Healthcare Fraud
+Political Activity
+Research
+Other
+
+Page 18 of 45
+
+2+4
+1
+1
+15 + 3
+
+ FY 2011 – Mandatory Reporting of Breaches of
+Unsecured Protected Health Information
+Total number of individuals affected by breaches of unsecured protected health information – 32,371
+Activity Description
+
+Activity Resolution Description
+
+Notification by a previous vendor of a
+stolen laptop and stolen external hard
+drive that contained protected health
+information (PHI).
+
+Lost hard disk of vendor (MedAssets) did
+have unencrypted, not passwordprotected PHI constituting a breach under
+HITECH. Notifications were made within
+required timeline.
+Confirmed unsecured paper PHI was in
+the backpack that was stolen. Patient
+notification letters were mailed.
+Physician was counseled.
+
+Notified of the theft of a physician's
+backpack that contained protected health
+information (papers).
+Notification of 40 screening forms for a
+research project stolen from a research
+assistant's car. (161 notifications were
+required because we did not have an
+inventory of the forms that were stolen.)
+Notification of breach of PHI through
+texting a patient list to all the patients on
+the list.
+
+Confirmed a breach of PHI related to
+paper loss did occur. Patient notification
+letters were sent. An amendment to the
+research protocol was required; guidance
+provided.
+Confirmed breach of PHI - patient name in a text message. Discussed with staff.
+Patient notification sent.
+
+Notification of inappropriate disclosure of
+PHI (another patient’s PHI) in response to
+a legal subpoena.
+
+Confirmed breach. Patient notification
+letters of Breach were mailed to 2Cermak patients. Each letter was
+returned, re-mailed to other addresses,
+and returned again. After at least 2
+attempts to each and no other addresses
+available, notification was abandoned.
+
+Allegation that the Pharmacy gave a
+patient additional prescriptions to bring to
+the Pain Clinic staff.
+Allegation of disclosure of Protected
+Health Information from Office for Civil
+Rights (OCR).
+
+Confirmed breach. Investigated and
+resolved by sending letter to two patients
+notifying them of the breach. Staff was
+counseled and re-educated.
+Allegation was substantiated. Determined
+that the nurse did not adequately
+safeguard a patient's privacy.
+
+Allegation of HIPAA violation and
+unprofessional behavior by an attending
+consultant physician in the Emergency
+Department.
+
+Confirmed breach, HIPAA violation
+substantiated. Department was provided
+with HIPAA refresher education. Letter
+sent to patient.
+
+Allegation of a breach of Protected Health
+Information by a hospital attending
+physician. Medical history was reviewed
+with patient in the presence of two other
+people.
+
+Confirmed breach. Medical Director
+counseled physician. HIPAA refresher
+provided to department. Letter mailed to
+patient.
+
+Page 19 of 45
+
+Individuals Affected by Breach
+
+32,008
+
+168
+
+161
+
+24
+
+2
+
+2
+
+1
+
+1
+
+1
+
+ Activity Description
+
+Activity Resolution Description
+
+Notification of the release of a patient's
+imaging results to another person without
+authorization.
+
+Breach confirmed. Learned of breach
+through a patient complaint that PHI was
+shared with another person without her
+authorization. Patient notification sent.
+
+1
+
+Notification of lost pages of copies of a
+medical record in the US Mail.
+
+Breach confirmed. Validated that pages
+of a patient's paper medical record were
+lost. Patient notification letter mailed.
+
+1
+
+Allegation of inappropriate disclosure of
+Protected Health Information - patient
+diagnosis placed in the return address of
+a patient mailing.
+
+Breach confirmed; clinic name is the
+same as diagnosis and was used in the
+return address field. Re-educated area
+responsible. A new code was created for
+that clinic.
+
+1
+
+Page 20 of 45
+
+Individuals Affected by Breach
+
+ Work Plan Activity
+Sanction Screenings: Employees and Vendors
+Status:
+
+Annual project completed
+
+Board Action:
+
+Review and File
+
+Summary
+ Identified through numerous regulatory references including the Department of Health and Human
+Services, Office of Inspector General, as an important component of a compliance program and a
+compliant organization.
+
+
+It is the policy of CCHHS to refrain from employing, contracting with, accepting orders, or purchasing
+items or services from sanctioned individuals or entities, identified through the sanction screening
+process.
+
+
+
+A sanction screening process applies consistent and reliable procedures to achieve compliance with
+Federal and State health care programs’ prohibition on billing for any items or services provided,
+ordered, or prescribed by individuals or entities that are excluded from participation in such programs.
+
+
+
+The CCHHS process follows,
+– All employees and vendors are assessed during the on-boarding process.
+– Corporate Compliance, on a monthly basis, forwards a list of new employees to our external
+vendor, John Sterling Associates. New employees are added to the existing employee list and are
+screened against the OIG List of Excluded Individuals/Entities and the GSA Excluded Party List
+System which also includes the U.S. Department of the Treasury Specially Designated Nationals
+(SDN) List. The employees are also matched against the State of Illinois Provider Sanctions list.
+Each month, Corporate Compliance receives the results of the screenings.
+– On an annual basis a formal process occurs using a fresh download of all employees and CCHHS
+vendors. The executive summary of the results of the formal process are included in this report.
+
+
+
+Annual checks are necessary to exhibit due diligence to avoid harm to CCHHS.
+
+Page 21 of 45
+
+ February 8, 2012
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance Officer
+Cook County Health & Hospitals System
+1900 West Polk, Suite 123 Rm 118
+Chicago, IL 60612
+Dear Cathy:
+A review of Cook County Health & Hospital System employees was conducted by
+our office on February 7-8, 2012. These individuals were reviewed by checking
+for name matches against the OIG List of Excluded Individuals/Entities and the
+GSA Excluded Party List System which also includes the U.S. Department of the
+Treasury Specially Designated Nationals (SDN) List. As described below, they
+also were matched against the State of Illinois Provider Sanctions list.
+Based on data we received on February 7, 2012, we reviewed 6,105 employees
+(after removing exact duplicates) for possible sanctions which could affect federal
+or state healthcare funding.
+Disclaimer
+Results may be affected by inaccuracies in the data you provide to us. Since the
+heart of the review is alphabetical matching, typographical errors, misspellings or
+omissions in your data can result in match failure. Errors of a similar nature occur
+in the federal or state databases as well. Federal or state databases also can
+insert records retroactively after our review is completed. Errors in record layouts
+of your data or federal or state data can negatively affect results. All these
+irregularities cause match failure and are beyond our control.
+It is our policy that the client bears responsibility to provide us with data that is
+accurate with regard to spelling, date of birth, start date and other related
+information. We make no effort to review the accuracy of your data.
+Accordingly, we do not accept responsibility for any matching failures resulting
+from erroneous data provided us by the client or by the federal or state
+government databases.
+Review Techniques
+Social Security Numbers were not requested for each employee to preclude any
+identity theft concerns. They are only requested on a case-by-case basis when
+absolutely necessary to confirm or clear a possible exclusion.
+
+Page 22 of 45
+
+ We utilize proprietary computer-assisted techniques comparing your data to the
+databases referenced below to generate possible matches to excluded parties.
+The federal and sources of these data are described below. Recent copies of
+each list were downloaded from the internet and were prepared for matching
+using proprietary methods.
+The OIG database contains names of over 48,000 persons sanctioned and
+excluded from federal healthcare reimbursement.
+The GSA system is comprised of Procurement/NonProcurement and Reciprocal
+databases. Information on sanctions imposed on individuals and businesses by
+53 other federal agencies is compiled in one location. This combined database is
+the source of non-healthcare exclusions which must also be taken into account by
+compliance programs. The GSA system lists over 9,000 individuals for nonhealthcare exclusions.
+The U.S. Department of the Treasury, Office of Foreign Asset Controls, maintains
+the Specially Designated Nationals (SDN) list. This list contains individuals and
+companies owned or controlled by, or acting for or on behalf of, targeted
+countries. It also contains non-country specific individuals, groups and entities
+such as known terrorists and narcotics traffickers. Under Executive Order (EO)
+13224 issued by the President in 2001, there are certain prohibitions from doing
+business of any kind with over 4,000 people, organizations, and other entities that
+appear on this list. While we check your data for any possible matches to this list,
+we do not believe OIG has any real interest in this screening.
+The State of Illinois Provider Sanctions list contained over 1,000 sanctioned
+persons and businesses. You may access this list online at
+http://www.state.il.us/agency/oig/download.asp .
+When no match occurs, we assess that individual to be not excluded from federal
+or state healthcare programs.
+When a possible match does occur, our analysts then review each possible match
+and perform any additional research as necessary to resolve each of these
+matches. We utilize various logical tests and inferences to assess the validity of
+the tentative match. The use of tests including comparisons of middle
+initials/names, dates of birth, Social Security Numbers (when requested), start
+dates, prior residence and other inferences permit us to assess whether or not
+those individuals are excluded from federal or state healthcare programs.
+Findings
+Our research developed 795 possible matches to employees affiliated with Cook
+County Health & Hospital System. After further review, we determined that none
+of these matches were positive.
+
+Page 23 of 45
+
+ The file, Cook County Health & Hospital System Employee Screening Audit
+Trial, shows our final assessments for all these employees. A CD hard copy of
+the Audit Trail is being mailed to you along with a signed original of this Executive
+Summary.
+This Executive Summary has been emailed to you for early review.
+Opinion Of Reviewer
+Based on all the above information, procedures and techniques, and subject to
+the limitations discussed above, it is my professional opinion that there are no
+exclusions for all reviewed employees affiliated with Cook County Health &
+Hospital System.
+These employees will continue to be screened for any new exclusions through our
+ContinueCheck® monthly rechecking service for the next 11 months as specified
+in our contract. Cook County Health & Hospital System also may send us a list of
+newly-hired employees each month to be included in this monthly rechecking.
+This service is included, at no extra charge, in our annual screening service fees.
+Sincerely,
+
+Brady Ballman
+Vice President
+
+Page 24 of 45
+
+ .
+
+February 3, 2012
+Cathy Bodnar MS, RN, CHC
+Chief Compliance Officer
+Cook County Health & Hospitals System
+1900 West Polk, Suite 123 Rm 118
+Chicago, IL 60612
+Dear Cathy:
+A review of Cook County Health & Hospitals System vendors was conducted by
+our office on February 2-3, 2012. These vendors were reviewed by checking for
+name matches against the OIG List of Excluded Individuals/Entities and the GSA
+Excluded Party List System, and the U.S. Department of the Treasury Specially
+Designated Nationals (SDN) List. They also were matched against the State of
+Illinois Provider Sanctions list.
+Based on the data we received on February 2, 2012, we reviewed 1,005 vendors
+(after removing exact duplicates) for possible sanctions which could affect federal
+or state healthcare funding.
+Disclaimer
+Results may be affected by inaccuracies in the data you provide to us. Since the
+heart of the review is alphabetical matching, typographical errors, misspellings or
+omissions in your data can result in match failure. Errors of a similar nature occur
+in the federal and state databases as well. Federal and state databases also can
+insert records retroactively after our review is completed. Errors in record layouts
+of your data or federal and state data can negatively affect results. All these
+irregularities can cause match failure and are beyond our control.
+Therefore, we do not accept responsibility for any matching failures resulting from
+erroneous data provided us by the federal and state government databases.
+While we attempt to compensate for misspellings, truncations and other errors in
+the data you give us, we also do not accept responsibility for any matching
+failures resulting from errors in your data.
+Review Techniques
+We utilize proprietary computer-assisted techniques comparing your data to the
+databases referenced below to generate possible matches to excluded parties.
+
+Page 25 of 45
+
+ The federal and state sources of these data are described below. Recent copies
+of each list were downloaded from the internet and were prepared for matching
+using proprietary methods.
+The OIG database contains names of over 48,000 persons and over 2,100
+organizations sanctioned and excluded from federal healthcare reimbursement.
+The GSA system is comprised of Procurement/NonProcurement and Reciprocal
+databases. Information on sanctions imposed on individuals and businesses by
+53 other federal agencies is compiled in one location. This combined database is
+the source of non-healthcare exclusions which must also be taken into account by
+compliance programs. The GSA system lists over 9,000 persons and over 3,000
+organizations for non-healthcare exclusions.
+The U.S. Department of the Treasury, Office of Foreign Asset Controls, maintains
+the Specially Designated Nationals (SDN) list. This list contains individuals and
+companies owned or controlled by, or acting for or on behalf of, targeted
+countries. It also contains non-country specific individuals, groups and entities
+such as known terrorists and narcotics traffickers. Under Executive Order (EO)
+13224 issued by the President in 2001, there are certain prohibitions from doing
+business of any kind with over 4,000 people, organizations, and other entities that
+appear on this list. While we check your data for any possible matches to this list,
+we do not believe OIG has any real interest in this screening.
+The State of Illinois Provider Sanctions list contained over 1,200 sanctioned
+persons and businesses. You may access this list online at
+http://www.state.il.us/agency/oig/download.asp .
+When no match occurs, we assess that vendor to be not excluded from federal or
+state healthcare programs.
+When a possible match does occur, our analysts then review each possible match
+and perform any additional research as necessary to resolve each of these
+matches. While some of these matches are close in name, if through our
+research it is clear that the two vendors are distinctively different, we assess them
+as "Similar yet distinctively different. Not Excluded" and can be found in our Audit
+Trail file. Matches that share the exact name or shortened form which need
+further commenting are listed below.
+Our review developed the following matches to Cook County Health & Hospitals
+System vendors requiring further discussion:
+
+Page 26 of 45
+
+ Companies
+Alliance Health Services Inc of Chicago, IL has a nearly identical name to a
+listed company, Alliance HealthCare Services and Med of Glen Ellyn, IL. An
+internet check indicates no connection between the two. Your vendor offers
+consulting services while the excluded party is a DME. We assess that this is not
+your vendor.
+Phoenix Metal Products Inc of Freeport, NY has a name similar to a listed
+company, Phoenix Products Co of Terryville, CT. Your vendor is a manufacturing
+company of metal fabrication products for the medical and laboratory industries.
+The excluded party sell pool chemicals. We assess that this is not your vendor.
+Universal Medical Inc of Foxboro, MA has a name nearly identical to two listed
+companies named Universal Medical, Inc. in Miami, FL and in Atlanta, GA. An
+internet check indicates no connection to either. Many unrelated companies have
+similar or even identical names. Further, a phone record search indicates the
+excluded Miami DME is no longer in business. For all these reasons, we assess
+that your vendor is not excluded.
+One Word Vendors
+There were a number of vendors in your data which are only one word.
+Generally, these are contractions of vendor names or acronyms of professional
+organizations. Among your “One Word Vendors”, ComEd was identified as
+possible match. We performed internet checks on each vendor’s address and
+determined the type of goods or services they provide Cook County Health &
+Hospitals System. In each case there is a clear difference between your vendor
+and the excluded party, so we assess that your vendor is not excluded.
+Persons
+Some of the possible matches were to individual persons. Whenever possible,
+we assess them based on comparisons of middle initials, tax numbers and other
+information available to us.
+The remaining matches are to persons with addresses which differ from those of
+the excluded parties. When there is no other means of clearing these persons
+and there is no specific reason to believe they are actually excluded parties, it is
+our policy to characterize them as "Not Excluded".
+We found no excluded persons in your vendor data.
+The file, Cook County Health & Hospitals System Vendor Audit Trail, shows
+our assessments for each vendor. A CD hard copy of the Results file is being
+sent to you by U.S. Postal Service along with a signed original of this summary
+report.
+This Executive Summary has been emailed to you for early review.
+
+Page 27 of 45
+
+ Opinion Of Reviewer
+Based on all the above information, procedures and techniques, and subject to
+the limitations discussed above, it is my professional opinion that there are no
+exclusions for all reviewed vendors affiliated with Cook County Health & Hospitals
+System.
+Sincerely,
+
+Kirsten Ballman
+Vice President
+
+Page 28 of 45
+
+ Work Plan Activity
+Fostering Transparency
+Status:
+
+Completed and ongoing
+
+Board Action:
+
+No action required – awareness
+
+Summary
+ Built upon the CCHHS Corporate Compliance mission to increase awareness of the Corporate
+Compliance program.
+
+
+Incorporated transparency to the public through the CCHHS web site through a link titled “Doing the
+Right Thing” thereby expanding the Corporate Compliance mission to serve as a resource to the public
+at large.
+
+Page 29 of 45
+
+ Work Plan Activity
+Corporate Compliance and HIPAA e-Learning
+Status:
+
+Project initiated
+
+Board Action:
+
+No action required – awareness
+
+Summary
+ Corporate Compliance education is recognized as a significant element of a Compliance Program. In
+February 1998, the federal government, through the Department of Health and Human Services, Office
+of Inspector General, published Compliance Program Guidance for Hospitals.1 In the Guidance, the
+OIG identified “Effective Training and Education” as a key element to an effective compliance program.
+Appropriate training and education was reiterated in the OIG’s Supplemental Compliance Program
+Guidance for Hospitals in January, 2005.2
+
+
+Implementation of Corporate Compliance and Patient Privacy (HIPAA) education through an electronic
+learning management platform has commenced.
+
+
+
+The use of an electronic learning management platform will provide, for the first time, clear monitoring
+and tracking of not only Corporate Compliance and HIPAA education but all County Curriculum.
+
+Federal Register, Vol. 63, No. 35, Monday, February 23, 1998, Department of Health and Human Services, Office of
+Inspector General, Publication of the OIG Compliance Program Guidance for Hospitals.
+1
+
+Federal Register, Vol. 70, No. 19, Monday, January 31, 2005, Department of Health and Human Services, Office of
+Inspector General, OIG Supplemental Compliance Program Guidance for Hospitals.
+2
+
+Page 30 of 45
+
+ Work Plan Activity
+Infrastructure
+Status:
+
+Initiated
+
+Board Action:
+
+No action required – awareness
+
+Summary
+ The existing departmental structure was examined, reviewing both the internal and external
+environment.
+
+
+Modifications are necessary to continue to fulfill the needs of a Healthcare System.
+
+CCHHS Board of
+Directors
+
+Audit & Compliance
+Committee of the
+Board
+The Compliance Officer
+position will replace the
+current Associate
+Compliance Officer
+position
+
+CCHHS Chief
+Executive Officer
+
+Chief Compliance 
+Officer
+
+Compliance
+Officer
+
+Compliance
+Officer
+
+Compliance
+Analyst
+
+Compliance
+Coordinator
+New titles/positions
+
+Page 31 of 45
+
+ Cook County Health and Hospitals System
+Minutes of the Audit and Compliance Committee Meeting
+March 6, 2012
+
+ATTACHMENT #2
+
+Page 32 of 45
+
+ Internal Audit Report
+
+March 6,2012
+
+ 
+
+0 COOK COUNTY HEALTH
+?1 8: HOSPITALS SYSTEM
+
+0%"15
+
+   
+
+ 
+
+Page 33 of 45
+
+Objective
+
+To review 2012 Internal Audit Plan
+
+Closed Session
+
+ 
+
+0 COOK COUNTY HEALTH
+?1 8: HOSPITALS SYSTEM
+
+0%"15
+
+ 
+
+ 
+
+Page 34 of 45
+
+2012 Internal Audit Plan
+2012 Internal Audit Plan
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Cerner/Siemens Transformation ‐ Clinic Control Walkthru's
+Operations Control Walkthru's ‐ receiving, logistics, materials management
+   IT General Controls
+
+IT General Controls
+
+   PwC Review
+ Asset Impairment
+Mcgladrey
+WalkThru's
+  Meaningful Use
+
+ Meaningful Use
+
+  Grants
+Grants
+
+ICD 10
+ICD 10
+1115 Waiver 
+Financial Reporting
+
+CareLink
+
+Primary Functional Areas:
+Cross functional ‐ two or more functions; revenue cycle, IT, clinical, ops
+IT
+Operations
+Finance
+R
+Revenue Cycle
+C l
+
+3
+Page 35 of 45
+
+ Cook County Health and Hospitals System
+Minutes of the Audit and Compliance Committee Meeting
+March 6, 2012
+
+ATTACHMENT #3
+
+Page 36 of 45
+
+ McGladrey & Pullen, LLP
+One South Wacker Drive, Suite 800
+Chicago, Illinois 60606
+O 312.384.6000 F 312.634.3410
+www.mcgladrey.com
+
+March 6, 2012
+
+Audit and Compliance Committee
+Cook County Health and Hospitals System
+1900 West Polk Street
+Chicago, Illinois 60612
+Attention: Dr. Luis Munoz, Chairman
+This letter is intended to communicate certain matters related to the planned scope and timing of our
+audit of Cook County Health and Hospitals System’s (CCHHS) financial statements as of and for the year
+ended November 30, 2011.
+Communication
+Effective two-way communication between our Firm and the Audit and Compliance Committee is
+important to understanding matters related to the audit and in developing a constructive working
+relationship.
+Your insights may assist us in understanding CCHHS and its environment, in identifying appropriate
+sources of audit evidence, and in providing information about specific transactions or events. We will
+discuss with you your oversight of the effectiveness of internal control and any areas where you request
+additional procedures to be undertaken. We expect that you will timely communicate with us any matters
+you consider relevant to the audit. Such matters might include strategic decisions that may significantly
+affect the nature, timing, and extent of audit procedures, your suspicion or detection of fraud, or any
+concerns you may have about the integrity or competence of senior management.
+We will timely communicate to you any fraud involving senior management and other fraud that causes a
+material misstatement of the financial statements, illegal acts that come to our attention (unless they are
+clearly inconsequential), and disagreements with management and other serious difficulties encountered
+in performing the audit. We also will communicate to you and to management any significant deficiencies
+or material weaknesses in internal control that become known to us during the course of the audit. Other
+matters arising from the audit that are, in our professional judgment, significant and relevant to you in
+your oversight of the financial reporting process will be communicated to you in writing after the audit.
+Independence
+Our independence policies and procedures are designed to provide reasonable assurance that our firm
+and its personnel comply with applicable professional independence standards. Our policies address
+financial interests, business and family relationships, and non-audit services that may be thought to bear
+on independence. For example, without our permission no partner or professional employee of
+McGladrey & Pullen, LLP is permitted to own any direct financial interest or a material indirect financial
+interest in a client or any affiliates of a client. Also, if an immediate family member or close relative of a
+partner or professional employee is employed by a client in a key position, the incident must be reported
+and resolved in accordance with Firm policy. In addition, our policies restrict certain non-audit services
+that may be provided by McGladrey & Pullen, LLP and require audit clients to accept certain
+responsibilities in connection with the provision of permitted non-attest services.
+
+Page 37 of 45
+
+Member of the RSM International network of independent accounting, tax and consulting firms.
+
+ The Audit Planning Process
+Our audit approach places a strong emphasis on obtaining an understanding of how CCHHS functions.
+This enables us to identify key audit components and tailor our procedures to the unique aspects of
+CCHHS. The development of a specific audit plan will begin by meeting with you and with management
+to obtain an understanding of CCHHS’s objectives, strategies, risks, and performance.
+We will obtain an understanding of internal control to assess the impact of internal control on determining
+the nature, timing and extent of audit procedures, and we will establish an overall materiality limit for audit
+purposes. We will conduct formal discussions among engagement team members to consider how and
+where your financial statements might be susceptible to material misstatement due to fraud or error.
+We will use this knowledge and understanding, together with other factors, to first assess the risk that
+errors or fraud may cause a material misstatement at the financial statement level. The assessment of
+the risks of material misstatement at the financial statement level provides us with parameters within
+which to design the audit procedures for specific account balances and classes of transactions. Our risk
+assessment process at the account-balance or class-of-transactions level consists of:
+An assessment of inherent risk (the susceptibility of an assertion relating to an account balance or
+class of transactions to a material misstatement, assuming there are no related controls); and
+An evaluation of the design effectiveness of internal control over financial reporting and our
+assessment of control risk (the risk that a material misstatement could occur in an assertion and
+not be prevented or detected on a timely basis by CCHHS’s internal control).
+We will then determine the nature, timing and extent of tests of controls and substantive procedures
+necessary given the risks identified and the controls as we understand them.
+The Concept of Materiality in Planning and Executing the Audit
+In planning the audit, the materiality limit is viewed as the maximum aggregate amount of misstatements,
+which if detected and not corrected, would cause us to modify our opinion on the financial statements.
+The materiality limit is an allowance not only for misstatements that will be detected and not corrected but
+also for misstatements that may not be detected by the audit. Our assessment of materiality throughout
+the audit will be based on both quantitative and qualitative considerations. Because of the interaction of
+quantitative and qualitative considerations, misstatements of a relatively small amount could have a
+material effect on the current financial statements as well as financial statements of future periods. At the
+end of the audit, we will inform you of all individual unrecorded misstatements aggregated by us in
+connection with our evaluation of our audit test results.
+Our Approach to Internal Control Relevant to the Audit
+Our audit of the financial statements will include obtaining an understanding of internal control sufficient to
+plan the audit and to determine the nature, timing and extent of audit procedures to be performed. An
+audit is not designed to provide assurance on internal control or to identify significant deficiencies or
+material weaknesses. Our review and understanding of CCHHS’s internal control is not undertaken for
+the purpose of expressing an opinion on the effectiveness of internal control.
+We will issue a report on internal control related to the financial statements. This report describes the
+scope of testing of internal control and the results of our tests of internal controls. Our report on internal
+control will include any significant deficiencies and material weaknesses in the system of which we
+become aware as a result of obtaining an understanding of internal control and performing tests of
+internal control consistent with the requirements of the Government Auditing Standards issued by the
+Comptroller General of the United States.
+
+Page 38 of 45
+
+2
+
+ Using the Work of Internal Auditors
+As part of our understanding of internal control, we will obtain and document an understanding of your
+internal audit function. We will read relevant internal audit reports issued during the year to determine
+whether such reports indicate a source of potential error or fraud that would require a response when
+designing our audit procedures. Because internal auditors are employees, they are not independent and
+their work can never be substituted for the work of the external auditor. We may, however, alter the
+nature, timing, and extent of our audit procedures, based upon the results of the internal auditor's work or
+use them to provide direct assistance to us during the performance of our audit.
+Timing of the Audit
+We have scheduled preliminary audit field work in February 2012 with final fieldwork commencing the
+week of February 27, 2012. Management's adherence to its closing schedule and timely completion of
+information used by us in performance of the audit is essential to timely completion of the audit.
+Closing
+We will be pleased to respond to any questions you have about the foregoing. We appreciate the
+opportunity to be of service to Cook County Health and Hospitals System.
+This communication is intended solely for the information and use of Audit and Compliance Committee
+and is not intended to be and should not be used by anyone other than these specified parties.
+Very truly yours,
+McGladrey & Pullen, LLP
+
+Patrick J. Kitchen
+Partner
+
+Page 39 of 45
+
+3
+
+ Presentation to the
+Audit and Compliance Committee
+McGladrey & Pullen, LLP
+March 6, 2012
+
+Page 40 of 45
+
+ Discussion Outline
+
+
+Required Communications Letter
+
+
+
+Audit Approach and Plan
+
+
+
+Significant Risk/Focus Areas
+
+
+
+Audit Timetable
+
+
+
+Audit Progress
+
+This communication is intended solely for the information and use of Audit and Compliance Committee of
+Cook County Health and Hospitals System and is not intended to be and should not be used by anyone
+other than these specified parties.
+Page 41 of 45
+
+1
+
+ Audit Approach and Plan
+
+
+Risk-based audit approach
+
+-
+
+Identify fraud and control environment risk factors
+Focus on areas that contribute to increased risk of material
+financial statement misstatement
+•
+•
+•
+•
+
+-
+
+Key business cycles and processes
+Significant judgments and estimates
+Significant accounting policies
+Material events and transactions
+
+Preliminary risk assessments updated during and at the
+completion of our audit
+
+2
+Page 42 of 45
+
+ Significant Risk/Focus Areas
+
+
+
+
+Significant risk areas
+
+-
+
+Net patient service revenue
+Patient accounts receivable and related contractual and bad
+debt allowances
+Third-party reimbursement and related settlement assets and
+liabilities
+
+Focus areas where we will be relying on testing
+performed by the County external audit team
+
+-
+
+Cash and investments
+Payroll expenses and liabilities
+Capital assets
+Self insurance liabilities
+Self-insurance
+Debt
+Pension liabilities
+
+3
+Page 43 of 45
+
+ Audit Timetable
+Task
+Jan
+
+Feb
+
+Month
+Mar
+
+Apr
+
+May
+
+Audit planning and risk assessment
+g g
+g
+goals and objectives
+j
+Jointlyy establish engagement
+Assess risk, document, and evaluate internal controls
+Meet with management to enhance understanding of business, financial, and operating activities
+Document audit plan and risk assessment
+Develop schedule of requested assistance
+Present audit plan to Audit and Compliance Committee
+
+Preliminary audit work
+Test internal controls
+Document understanding of general computer controls
+Perform existence testing of patient accounts receivable
+Final audit work
+County finalizes accounting records
+Test year-end account balances
+y
+review procedures
+p
+Perform final substantive analytical
+Reporting
+Review draft financial statements with CCHHS management
+Provide preliminary draft financial statements to County
+Present audit results and draft financial statements to Audit and Compliance Committee
+Finalize financial statements and other reporting, including management letter
+
+4
+Page 44 of 45
+
+ Audit Progress to Date
+
+
+Status of audit planning and preliminary work
+
+-
+
+Walk-throughs
+g and internal control understanding
+g
+documentation areas nearing completion:
+•
+•
+•
+•
+•
+
+
+
+
+Accounts payable/purchasing
+Treasury
+Payroll
+Capital assets
+Patient accounts receivable/revenue
+
+Finall fifieldwork
+Fi
+ld
+kb
+began on F
+February
+b
+27
+Key reporting dates
+
+-
+
+Draft financials available for review by
+y management
+g
+•
+
+March 30, 2012
+
+Preliminary draft financials provided to County
+•
+
+April 6, 2012
+
+5
+Page 45 of 45
+
+ 

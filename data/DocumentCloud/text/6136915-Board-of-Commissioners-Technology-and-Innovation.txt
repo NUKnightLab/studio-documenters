@@ -1,0 +1,192 @@
+Board of Commissioners of Cook County
+Technology Committee
+Tuesday, June 17, 2014
+
+11:15 AM
+
+Cook County Building, Board Room, Room 569
+118 North Clark Street, Chicago, Illinois
+NOTICE AND AGENDA
+
+There will be a meeting of the Committee or Subcommittee of the Board of Commissioners of Cook County at
+the date, time and location listed above to consider the following:
+PUBLIC TESTIMONY
+According to the Cook County Board’s Rules of Organization and Procedure, Section 2-107 (dd), public
+testimony will be permitted at regular and special meetings of the Board and at committee meetings of the Board.
+Authorization as a public speaker shall only be granted to those individuals who have submitted in writing, their
+name, address, subject matter, and organization (if any) to the Secretary 24 hours in advance of the meeting. Duly
+authorized public speakers shall be called upon to deliver testimony at a time specified in the meeting agenda.
+Public testimony must be germane to a specific item(s) on the meeting agenda, and the testimony must not exceed
+three minutes; the Secretary will keep track of the time and advise when the time for public testimony has
+expired. Persons authorized to provide public testimony shall not use vulgar, abusive, or otherwise inappropriate
+language when addressing the Board; failure to act appropriately; failure to speak to an item that is germane to the
+meeting, or failure to adhere to the time requirements may result in expulsion from the meeting and/or disqualify
+the person from providing future testimony.
+14-1411
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+REPORT
+Department: Cook County Bureau of Technology
+Request: Refer to the Committee on Technology
+Report Title: Quarterly Progress Report on the Creation of the Automated Criminal Justice System
+Report Period: 3/1/2014 - 5/31/2014
+Summary: Pursuant to Resolution 13-2002, the CIO shall update the Board of Commissioners via the
+Technology Committee on progress being made towards achieving the goal of an integrated, automated Cook
+County Criminal Justice System on a quarterly basis beginning with the first quarter of the FY2014. This is the
+second quarterly report of FY2014.
+Legislative History: 5/21/14 Board of Commissioners referred to the Technology Committee.
+
+ 14-1481
+Presented by: MARY JO HORACE, Interim Chief Information Officer, Bureau of Technology
+Sponsored by: JOHN A. FRITCHEY and TONI PRECKWINKLE, County Commissioner
+PROPOSED ORDINANCE
+COOK COUNTY INFORMATION SECURITY ORDINANCE
+WHEREAS, technology and information resources in the various agencies and departments of Cook County are
+strategic and vital assets belonging to the people of the County; and
+WHEREAS, Cook County government has a duty to its citizens to ensure that the information entrusted to its
+agencies is safe, secure, and protected from unauthorized access, use, or destruction; and
+WHEREAS, coordinated efforts are necessary to protect these assets against unauthorized access, disclosure, use,
+and modification or destruction, whether accidental or deliberate, as well as to assure the confidentiality, integrity,
+and availability of information; and
+WHEREAS, a strong information security framework must be coordinated, promulgated and implemented
+throughout county agencies and departments, including the offices of the separately Elected Officials, to ensure
+the development and maintenance of minimum information security controls to protect technology and
+information resources that support the operations and assets of said agencies and departments and to enable the
+County’s protection of the public health, safety, morals and welfare;
+NOW THEREFORE BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 2
+Administration, Article I, In General, Division 1, Cook County Information Security, Sec. 2-8 through 2-14 of the
+Cook County Code, is hereby enacted as follows:
+ARTICLE I. In General
+Division 1 Cook County Information Security
+Sec. 2-8. Short title.
+This division shall be known and may be cited as the "Cook County Information Security Ordinance.”
+Sec. 2-9. Purpose and Policy.
+All Elected Officials, Departments, Office Institutions or Agencies of Cook County (“County”), including but not
+limited to the offices and departments under the jurisdiction of the County Board President, the Board of
+Commissioners, Cook County Health and Hospitals System, Cook County State’s Attorney, Cook County Sheriff,
+Cook County Public Defender, Clerk of the Circuit Court of Cook County, Cook County Treasurer, Cook County
+Clerk, Cook County Recorder of Deeds, Cook County Assessor, Chief Judge of the Circuit Court of Cook
+County, Board of Review, Cook County Public Defender, Independent Inspector General, Veteran’s Assistance
+Commission and the Public Administrator (collectively, "County Agency") shall take all reasonable precautions to
+protect the confidentiality, integrity, and availability of County information. Such precautions shall be in
+accordance with applicable Federal and State laws and regulations and take into consideration industry standards
+and best practices.
+Page 2 of 5
+
+ Sec. 2-10. Definitions.
+The following words, terms and phrases, when used in this division shall have the meanings ascribed to them in
+this section, except where the context clearly indicates a different meaning:
+Guideline means a recommendation to assist a County employee or County contractor in making appropriate
+decisions or performing a particular task, which allows for latitude in interpretation and implementation.
+Plan means a comprehensive document that details strategic direction, which may also provide additional details,
+such as Standards used and so forth.
+Policy means a document that communicates leadership expectations to an organization or business unit, which
+may also be considered as mandatory business rules or organization-specific directives and which are
+communication of management intent.
+Procedure means a document stating the manner in which a Policy shall be functionally implemented in a County
+Agency’s environment, which may define specific operation steps, manual methods, or instructions for
+compliance with a Policy.
+Standard means a document that contains a specification or describes minimum implementation that satisfies a
+Policy.
+Sec. 2-11. Information Security Framework.
+(a) Subject to the approval of the Cook County Chief Information Officer (“CIO”), the Bureau of Technology’s
+Chief Information Security Officer (“CISO”) shall create comprehensive and written information security Plans,
+Policies, Procedures, Standards, and Guidelines for the County and County Agencies (collectively, the
+“Information Security Framework”) to reasonably protect the confidentiality, integrity, and availability of County
+information; all County Agencies shall collaborate with the CISO in the creation of the Information Security
+Framework as requested.
+(b) The Information Security Framework shall be in accordance with applicable Federal and State laws and
+regulations and take into consideration industry standards and best practices.
+(c) The Information Security Framework shall include a risk management process, which the CISO shall direct, to
+identify information security risks in County Agencies and deploy risk mitigation strategies, processes, and
+procedures.
+(d) The Information Security Framework shall include information security incident and breach response Plans as
+a subset of information security.
+Sec. 2-12. Adoption and Compliance
+(a) The CIO and CISO shall publish and make available the Information Security Framework to all County
+Agencies; said County Agencies shall adopt and comply with the Information Security Framework.
+(b) County Agencies may deviate from the Information Security Framework based on their unique requirements,
+but only upon receiving prior written approval from the CIO and CISO.
+(c) County Agencies shall take all appropriate actions, including completing assigned training and if warranted,
+initiating disciplinary action, to ensure their employees and contractors adopt and comply with the Information
+Security Framework.
+Sec. 2-13. Review, Remediation and Enforcement
+(a) Annually the CISO shall review and approve the proposed information security Plans of each County Agency
+to determine if such Plans are in conformance with the Information Security Framework or properly deviated with
+prior written approval from the CIO and CISO.
+(b) Annually the CISO shall review the status of County Agency adoption and compliance with the Information
+Security Framework and timely report compliance related issues to the CIO.
+(c) Where a County Agency has not fully adopted or complied with the Information Security Framework, the CIO
+and CISO shall direct that County Agency to take the necessary remediation steps and other measures required for
+Page 3 of 5
+
+ adoption and to bring them into compliance.
+(d) The CIO and CISO shall be authorized to take all appropriate actions to ensure and enforce compliance with
+the Information Security Framework.
+Sec. 2-14. Reporting and Exceptions.
+(a) At least once each calendar year, the CISO through the CIO shall report to the Cook County Board of
+Commissioners on the Information Security Framework.
+(b) At a minimum, the CISO’s annual report shall detail: (i) the status of all County Agencies’ adoption and
+compliance with the Information Security Framework and (ii) a summary of all requests for deviations from the
+Information Security Framework that the CISO has previously approved or rejected.
+Effective date: This ordinance shall be in effect immediately upon adoption
+Legislative History: 2/19/14 Board of Commissioners referred to the Technology Committee
+14-2269
+Presented by: MARY JO HORACE, Interim Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department: Bureau of Technology
+Vendor: SunGard Availability Services LP, Wayne, Pennsylvania
+Request: Authorization for the Chief Procurement Officer to enter into and execute.
+Good(s) or Service(s): Information Security, Compliance and Incident Response Services
+Contract Value: $1,364,123.00
+Contract period: 5/1/2014 - 4/30/2018, with two (2) two-year extension options
+Potential Fiscal Year Budget Impact: FY2014 $228,443.00; FY2015: $340,704.00; FY2016: $340,704.00;
+FY2017: $340,704.00; FY2018: $113,568.00
+Accounts: 769-260 Account
+Contract Number(s): 1350-12461
+Concurrences:
+The Vendor has met the Minority and Women Owned Business Enterprises Ordinance.
+The Chief Procurement Officer Concurs
+Summary: In 2013, Cook County issued an RFP for Information Security, Compliance and Incident Response
+services, which resulted in the contract that BOT now seeks authorization for the CPO to execute. Procuring the
+services of information security experts is a critical step to improving the County’s information security practices,
+achieving compliance with applicable information security regulations and best practices, and properly handling
+information security incidents.
+Cook County provides services for approximately 5.3 million residents. Many of these services handle sensitive
+information including social security numbers, credit card numbers, and personal health information. With the
+assistance of information security consulting experts, the County can enhance its information security program by
+performing nationally recognized risk assessments, enhancing the County’s information security framework,
+performing additional cyber security monitoring and testing, and improving its incident response and forensic
+response capabilities. In addition to the objectives identified above, other desired outcomes include the protection
+personal information of County residents and the mitigation of cyber-security risks.
+Legislative History: 4/9/14 Board of Commissioners referred to the Technology Committee.
+
+Page 4 of 5
+
+ REPORT
+14-3173
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+Department: ERP, Enterprise Resource Planning
+Request: Refer to Committee on Technology
+Report Title: ERP Project Status Report
+Report Period: Ongoing
+Summary: The Director of ERP will provide a comprehensive update to the Board of Commissioners via the
+Technology Committee on the status of all ongoing ERP projects. The status update will reflect progress being
+made towards achieving the goals of selecting and implementing a Countywide Enterprise Resource Planning
+(ERP) platform, configuring and installing a biometric-based Time & Attendance system, and upgrading and
+migrating the JDEdwards HR/Payroll system to a cloud hosting environment. This is the first report of FY2014.
+Legislative History: 5/21/14 Board of Commissionersreferred to the Technology Committee.
+
+_____________________________________
+Matthew B. DeLeon, Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Fritchey
+Gorman
+Butler, Daley, Garcia, Goslin, Schneider, Silvestri, Steele
+
+Page 5 of 5
+
+ 

@@ -1,0 +1,2180 @@
+WHITE PAPER
+
+Framework for Effective
+Board Governance of
+Health System Quality
+Content provided by:
+
+Lucian Leape Institute, an initiative of the
+Institute for Healthcare Improvement, guiding the
+global patient safety community.
+
+AN IHI RESOURCE
+
+53 State Street, 19th Floor, Boston, MA 02109 • ihi.org
+How to Cite This Paper: Daley Ullem E, Gandhi TK, Mate K, Whittington J, Renton M, Huebner J. Framework for Effective Board Governance
+of Health System Quality. IHI White Paper. Boston, Massachusetts: Institute for Healthcare Improvement; 2018. (Available on ihi.org)
+
+ AUTHORS:
+
+Elizabeth Daley Ullem, MBA: Faculty Lead, IHI;
+President, Quality and Safety First
+Tejal K. Gandhi, MD, MPH, CPPS: Chief Clinical and Safety Officer,
+IHI; President, IHI Lucian Leape Institute
+Kedar Mate, MD: Chief Innovation and Education Officer, IHI
+John Whittington, MD: Senior Fellow, IHI
+Marina Renton: Research Assistant, IHI
+Joellen Huebner: Senior Project Manager, IHI
+
+Acknowledgments:
+The authors are grateful to the IHI Lucian Leape Institute members, whose leadership identified the need for support for
+trustees and health system leaders in governance of quality. We also thank the experts interviewed for this work and the
+in-depth contributions of the expert group that developed and revised the framework and assessment tool, including
+Kathryn C. Peisert, Managing Editor, The Governance Institute. This work was created through collaboration with many
+leading health care and governance organizations, including the American Hospital Association, The Governance Institute,
+and the American College of Healthcare Executives. Finally, the authors thank Jane Roessner and Val Weber of IHI for
+their thoughtful editorial review of this white paper and the IHI thought leaders who, over the years, have advanced board
+commitment to quality.
+The Lucian Leape Institute is an initiative of IHI. This paper was generously funded by an unrestricted educational grant
+from Medtronic, Inaugural Funder of the IHI Lucian Leape Institute. Medtronic had no control or influence over the
+selection of experts, the content, or the views expressed in this paper.
+
+For more than 25 years, the Institute for Healthcare Improvement (IHI) has used improvement science to advance and sustain better outcomes in health
+and health systems across the world. We bring awareness of safety and quality to millions, accelerate learning and the systematic improvement of care,
+develop solutions to previously intractable challenges, and mobilize health systems, communities, regions, and nations to reduce harm and deaths. We
+work in collaboration with the growing IHI community to spark bold, inventive ways to improve the health of individuals and populations. We generate
+optimism, harvest fresh ideas, and support anyone, anywhere who wants to profoundly change health and health care for the better.
+The ideas and findings in these white papers represent innovative work by IHI and organizations with whom we collaborate. Our white papers are
+designed to share the problems IHI is working to address, the ideas we are developing and testing to help organizations make breakthrough
+improvements, and early results where they exist.
+
+Copyright © 2018 Institute for Healthcare Improvement. All rights reserved. Individuals may photocopy these materials for educational, not-for-profit uses, provided that the
+contents are not altered in any way and that proper attribution is given to IHI as the source of the content. These materials may not be reproduced for commercial, for-profit use in
+any form or by any means, or republished under any circumstances, without the written permission of the Institute for Healthcare Improvement.
+
+ Contents
+Executive Summary
+
+4
+
+Background
+
+5
+
+Framework for Governance of Health System Quality
+
+9
+
+Governance of Quality Assessment:
+A Roadmap for Board Oversight of Health System Quality
+
+12
+
+Governance of Quality Assessment (GQA) Tool
+
+14
+
+Using GQA Results to Plan Next Steps
+
+21
+
+Conclusion
+
+22
+
+Appendix A: Support Guides
+
+23
+
+Appendix B: IHI Lucian Leape Institute Expert Meeting Attendees
+
+31
+
+Appendix C: Members of the IHI Lucian Leape Institute
+
+33
+
+References
+
+34
+
+Institute for Healthcare Improvement • ihi.org
+
+3
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Executive Summary
+The Institute of Medicine (IOM) reports To Err Is Human and Crossing the Quality Chasm
+prompted health care leaders to address the patient safety crisis and advance the systems,
+teamwork, and improvement science needed to deliver safer care to patients.1,2 Following the IOM
+reports, research on health care governance practices identified a correlation between health
+system board prioritization of quality oversight and higher performance on key quality
+indicators.3,4,5,6,7 Quality oversight by a board has been shown to correlate with patient outcomes
+on key quality metrics, and boards that prioritize quality support a leadership commitment to
+quality and the incentives and oversight to achieve the quality care that patients deserve.
+Two main evolutions have made governing quality more complex for trustees and the health
+system leaders who support them:
+•
+
+The definition of “quality” has evolved and expanded over the last decade, from a singular
+focus on safety to an expanded focus on all six dimensions of quality as identified in the
+Crossing the Quality Chasm report.
+
+•
+
+The expansion of health systems beyond hospital walls and the addition of population health
+oversight have created complexity both in terms of what to govern to support high-quality
+care and how to oversee quality outside of the traditional hospital setting and across the
+health care continuum.
+
+Many health system leaders have worked to ensure that their trustees are sufficiently prepared to
+oversee quality, but the two factors noted above have increased the need for board education and
+the time commitment for trustees and the health system senior leaders who support them.
+Therefore, there is a need for a clear, actionable framework for better governance of quality across
+all dimensions, including identification of the core processes and necessary activities for effective
+governance of quality.
+Ultimately, the most valuable resource of a board is time — both in terms of how much time they
+allocate and how they use it — to engage in oversight of the various areas of governance. To help
+health system leaders and boards use their governance time most effectively, this white paper
+includes three components:
+•
+
+Framework for Governance of Health System Quality: A clear, actionable framework
+for oversight of all the dimensions of quality;
+
+•
+
+Governance of Quality Assessment: A tool for trustees and health system leaders to
+evaluate and score current quality oversight processes and assess progress in improving
+board quality oversight over time; and
+
+•
+
+Three Support Guides: Three central knowledge area support guides for governance of
+quality (Core Quality Knowledge, Core Improvement System Knowledge, and Board Culture
+and Commitment to Quality), which health system leaders and governance educators can use
+to advance their education for trustees.
+
+The framework, assessment tool, and support guides aim to reduce variation in and clarify trustee
+responsibilities for quality oversight, and also serve as practical tools for trustees and the health
+system leaders who support them to govern quality in a way that will deliver better care to patients
+and communities.
+
+Institute for Healthcare Improvement • ihi.org
+
+4
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Background
+Research on health care governance practices has identified a correlation between health system
+board prioritization of quality oversight and higher performance on key quality indicators.8,9,10,11,12
+However, guidance and practices for board oversight of the dimensions of quality beyond safety are
+highly variable across health systems. Health system leaders and trustees are looking for greater
+depth and clarity on what they should do to fulfill their oversight of quality. Governance of quality
+is a long-overlooked and underutilized lever to deliver better care across all the dimensions of
+quality.
+
+What to Govern as Quality: Expanding from Safety to STEEEP
+The IOM report Crossing the Quality Chasm established six aims for improvement, a framework
+for health care quality in the US: care that is safe, timely, effective, efficient, equitable, and patient
+centered (STEEEP).13 Safety is an essential component of quality, and health leaders have become
+more consistent in the governance of the elements of safety (though many health systems still do
+not dedicate enough time to quality or are quick to push it to the bottom of the agenda).
+Yet governance of the other STEEEP dimensions of quality beyond safety is significantly more
+variable, providing an opportunity for greater clarity and calibration across the health care
+organizations and leaders that guide governance of quality. Health system leaders and trustees
+struggle with whether to govern a narrow definition of quality, driven by metrics defined by the
+Centers for Medicare & Medicaid Services (CMS) or national oversight organizations, versus
+governing quality’s broader dimensions as put forth in the IOM STEEEP framework.
+
+What to Govern as Quality: Expansion and Complexity of Health
+Systems
+Health care leaders now look beyond the hospital walls to the entire system of care and to social
+and community factors that impact health outcomes. Thus, health system quality has expanded to
+include improving the health of communities and reducing the cost of health care and the financial
+burden facing patients. As health care is increasingly delivered in a range of settings beyond the
+hospital, from outpatient clinics to the home, leaders and trustees are challenged to define and
+govern quality in these settings.
+The nationwide shift in US health care from standalone and community hospitals to larger,
+integrated care delivery systems has further increased the knowledge required for trustees to fulfill
+their fiduciary responsibility of governing quality. Finally, by tying revenue to quality performance,
+many payment models now add executive financial incentives to governance of quality. Health
+leaders have struggled to frame governance of quality in the context of the expansion and
+complexity of both single institutions and health systems.
+
+Call to Action
+In the 2017 report, Leading a Culture of Safety: A Blueprint for Success, board development and
+engagement was highlighted as one of the “six leadership domains that require CEO focus and
+dedication to develop and sustain a culture of safety.”14 According to the report, “The board is
+responsible for making sure the correct oversight is in place, that quality and safety data are
+
+Institute for Healthcare Improvement • ihi.org
+
+5
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+systematically reviewed, and that safety receives appropriate attention as a standing agenda item at
+all meetings.”
+Building on this report, the Institute for Healthcare Improvement (IHI) Lucian Leape Institute
+identified a need for greater understanding of the current state of governance of quality, education
+on quality for health system trustees, along with the potential need for guidance and tools to
+support governance oversight of quality. The IHI Lucian Leape Institute understood the
+importance of developing this forward-thinking and cutting-edge content collaboratively with
+leading governance organizations and making it available as a public good for all health systems
+to access and incorporate in a way that would be most helpful to them.
+
+Assessment of Current Governance Practices and Education
+To evaluate the current state of board governance of quality, IHI employed its 90-day innovation
+process.15 This work included the following:
+•
+
+A landscape scan to understand the current state of governance education offerings and
+challenges in quality, drawing on national and state trustee education programs. This scan
+included more than 50 interviews with governance experts, health system leaders, and
+trustees; and a review of available trustee guides and assessments for governance of quality.
+
+•
+
+A scan of existing peer-reviewed research on board quality governance practices and
+the link between board practices and quality outcomes for health systems.
+
+•
+
+An expert meeting (see Appendix B) attended by health care and governance experts. The
+meeting provided critical insights and guidance for the work, including the development of a
+framework for effective governance of health system quality. This group of thought leaders
+included representatives from the American Hospital Association (AHA), the American
+College of Healthcare Executives (ACHE), The Governance Institute, leading state hospital
+associations, health system CEOs and trustees, and national governance and health care
+quality experts.
+
+Research and Landscape Scan Highlights
+(Note: An in-depth assessment of the current state of board governance of quality and trustee
+education in support of quality is available in the companion document to this white paper,
+Research Summary: Effective Board Governance of Health System Quality.16)
+The IHI Lucian Leape Institute’s research scan, evaluation of governance education in quality, and
+expert interviews indicated that most trustee education on governance of quality focuses primarily
+on safety, meaning that such education often does not prepare trustees for governing the other
+dimensions of quality as defined by the STEEEP framework and the IHI Triple Aim,17 which also
+considers population health and health care cost. In the boardroom, quality is often a lower
+priority than financial oversight. Epstein and Jha found that “quality performance was on the
+agenda at every board meeting in 63 percent of US hospitals, and financial performance was
+always on the agenda in 93 percent of hospitals.”18
+Our interviews indicated that the financial and cultural implications of poor quality of care are not
+often formally considered, noting a difference between putting quality on a board meeting agenda
+and having a dedicated discussion about quality. Many trustees, while motivated to ensure highquality care, lack a clear understanding of the necessary activities for effective quality oversight
+
+Institute for Healthcare Improvement • ihi.org
+
+6
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+(the “what” and “how” of their governance work); IHI’s research identified the need for more
+direction on the core processes for governance of quality.19 Some trustees noted that they were at
+the mercy of the quality data and information presented to them by their organization’s leadership
+team; they lacked ways of confirming that their quality work was aligned with work at other
+leading health care organizations and industry best practice.
+Health care leaders observed that the many guides and assessments they referenced often had
+varying recommendations for core governance activities on quality, especially for dimensions of
+quality beyond safety. We analyzed the available board guides or tools for board members and
+hospital leaders to evaluate their quality governance activities. The review of existing assessments
+from national and state governance support organizations identified that many focus on board
+prioritization of quality in terms of time spent and trustee “commitment” to governance based on a
+trustee self-assessment. Many assessments offer specific recommendations for key processes to
+oversee safety, such as reviewing serious events and key safety metrics in a dashboard. However,
+most assessments offer more variable guidance on the core processes to govern the STEEEP
+dimensions of quality beyond safety, quality outside of the hospital setting, and overall health in
+the communities the health systems serve.
+With so many assessments and guidance recommending different processes and activities, it is not
+surprising that those who support trustees struggle to clearly define the core work of board quality
+oversight. Trustees and health care leaders alike identified a need for a simple framework that sets
+forth the activities that boards need to perform in their oversight of quality and for calibration
+across governance support organizations to support a simple, consistent framework.
+
+Barriers to Governance of Quality
+The IHI research team sought to understand and identify ways to address the many barriers to
+governance of quality identified in interviews and the published literature. The most common
+barrier identified was trustees’ available time to contribute to a volunteer board. Often, health care
+leaders and trustees identified that expectations for trustee engagement on quality issues are not
+presented with the same clarity and priority as financial and philanthropic expectations for
+governance. Many interviewees noted that trustees are less confident in the governance of quality
+because of its clinical nature, which, in many cases, necessitates learning new terminology and
+absorbing concepts unfamiliar to trustees without a clinical background.
+Many trustees and health care leaders we interviewed identified the CEO as the “gatekeeper” for
+the board, stewarding access to external resources and guidelines related to the board’s role in
+health care quality, often not wanting to overwhelm or burden the trustees, given the demands on
+their time. However, even when the trustees and health care leaders interviewed indicated that
+they did have dedicated time and commitment to quality, they were not clear as to whether the
+specific set of processes or activities they currently had in place were the best ones for effective
+governance of quality.
+Based on insights from IHI’s research, landscape scan of current guidance on quality oversight,
+and extensive interviews, a new framework for governance of quality was created through a
+collaborative effort of thought leaders and health system leaders to provide clarity, support, and
+reduced variation in what boards should consider for their oversight of quality. The framework
+identifies the foundational knowledge of core quality concepts and the need to understand the
+systems for quality control and improvement used in health systems. The framework also
+recognizes that board culture and commitment to quality are essential.
+
+Institute for Healthcare Improvement • ihi.org
+
+7
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+A new Governance of Quality Assessment identifies the core processes of board governance of
+quality, providing a tool for boards and health system leaders to calibrate the governance oversight
+work plan. When these core processes are approached consistently, organizations can advance
+governance of quality that, based on previously cited studies, will support the health system’s
+performance on quality.
+
+Current State of Board Work and Education in Health System Quality
+• Governance of quality is primarily focused on safety.
+Board education in quality is available but inconsistently accessed by trustees;
+education focuses primarily on safety, with variable exposure to other dimensions
+of quality.
+• Governance of quality is hospital-centric, with limited focus on population
+or community health.
+Most board education emphasizes in-hospital quality; it does not guide boards in
+oversight of care in other health system settings or in the health of the community.
+• Core processes for governance of quality core are variable.
+Board quality educational support offerings tend to emphasize general engagement in
+the form of time, structure, and leadership commitment to quality governance; they
+focus less on the specific activities (especially beyond safety) and core processes
+trustees need to employ to oversee quality.
+• A clear, consistent framework for governance of health system quality
+is needed.
+Utilizing a consistent framework and assessment tool for key board-specific processes
+for quality oversight will help improve governance of health system quality and deliver
+on patient and community expectations for quality care.
+• A call to action to raise expectations and improve support for board
+governance of health system quality is needed.
+A multifaceted approach is needed to break through the barriers to trustee oversight of
+quality, including a greater call to action, clearer set of core processes with an
+assessment of that work, and raised expectations for time to govern quality.
+
+Institute for Healthcare Improvement • ihi.org
+
+8
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Framework for Governance of Health System
+Quality
+Achieving better quality care in health systems requires a complex and multifaceted partnership
+among health care providers, payers, patients, and caregivers. The IHI Lucian Leape Institute’s
+research scan, evaluation of governance education in quality, and expert interviews made it clear
+that board members, and those who support them, desire a clear and consistent framework to
+guide core quality knowledge, expectations, and activities to better govern quality. To help make
+progress in this area, the IHI Lucian Leape Institute convened leading governance organizations,
+health industry thought leaders, and trustees (see Appendix B) to collaboratively develop a new
+comprehensive framework and assessment tool for governance of quality.
+The framework and assessment tool are designed with the following considerations:
+•
+
+Simplify concepts: Use simple, trustee-friendly language that defines actionable processes
+and activities for trustees and those who support them to oversee quality.
+
+•
+
+Incorporate all six STEEEP dimensions of quality: Understand quality as care that is
+safe, timely, effective, efficient, equitable, and patient centered (STEEEP), as defined by the
+Institute of Medicine.
+
+•
+
+Include community health and value: Ensure that population health and health care
+value are critical elements of quality oversight.
+
+•
+
+Govern quality in and out of the hospital setting: Advance quality governance
+throughout the health system, not solely in the hospital setting.
+
+•
+
+Advance organizational improvement knowledge: Support trustees in understanding
+the ways to evaluate, prioritize, and improve performance on dimensions of quality.
+
+•
+
+Identify the key attributes of a governance culture of quality: Describe the elements
+of a board culture and commitment to high-quality, patient-centered, equitable care.
+
+IHI worked with the expert group to establish an aspirational vision for trustees: With the ideal
+education in and knowledge of quality concepts, every trustee will be able to respond to three
+statements in the affirmative (see Figure 1).
+Figure 1. Vision of Effective Board Governance of Health System Quality
+
+Institute for Healthcare Improvement • ihi.org
+
+9
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Having established the vision, the expert group proceeded to define the core knowledge and core
+processes necessary to realize this vision, resulting in the development of a Framework for
+Governance of Health System Quality (see Figure 2).
+Figure 2. Framework for Governance of Health System Quality
+
+At the heart of the framework [CENTER] is the Governance of Quality Assessment (GQA), which
+outlines the key processes and activities that, if well performed, enable trustees to achieve the
+vision of effective board governance of quality [RIGHT]. The GQA serves as both a roadmap of
+the key processes the board should undertake to oversee all dimensions of quality, and an
+assessment of how well the board is doing with respect to those processes.
+The expert group also identified three core knowledge areas [LEFT] that support the effective
+execution of the core processes and activities outlined in the GQA: Core Quality Knowledge, Core
+Improvement System Knowledge, and Board Culture and Commitment to Quality. The expert
+group’s suggestions for core knowledge are assembled into three support guides (see Appendix A).
+Together, the GQA and the three support guides aim to reduce variation in current governance
+recommendations and practices and to establish a comprehensive framework for the core
+knowledge and key activities for fiduciary governance of quality. Health system leadership and
+governance educators can use these tools to calibrate and advance their educational materials for
+trustees and develop ongoing education.
+
+Institute for Healthcare Improvement • ihi.org
+
+10
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Patient-Centered Depiction of Quality
+The expert group supported the use of a patient-centered framework, like the one introduced at
+Nationwide Children’s Hospital in Ohio,20 to display the core components of quality and drive
+home the direct impact they have on care. There is a compelling case for conveying this
+information to the board using a patient lens, as trustees may find the patient perspective on
+quality more motivating and actionable than the STEEEP terminology.
+This reframed model also bundles some elements of STEEEP together in a way that represents the
+patient journey and avoids some of the health care terminology that can be off-putting to trustees.
+For example, the STEEEP dimensions of timely and efficient care are combined into “Help Me
+Navigate My Care.” The STEEEP dimensions of equitable and patient-centered care are aggregated
+into “Treat Me with Respect.” Figure 3 presents a visual representation of the core components of
+quality from the patient’s perspective, with the patient at the center of the delivery system.
+Figure 3. Core Components of Quality from the Patient’s Perspective
+
+The new framework and assessment tool will reveal areas for quality improvement to many CEOs
+and board members. It will take time for board members and health system leaders to incorporate
+those additional elements of quality into their agendas and work plans, but the changes will help to
+better align their quality oversight with patient expectations and the evolution, expansion, and
+complexity of health care delivery. Maintaining the status quo with regard to quality governance
+will not best serve patients or health systems, which face increasing complexity of patient-,
+population-, and community-based care in the coming years.
+
+Institute for Healthcare Improvement • ihi.org
+
+11
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment: A
+Roadmap for Board Oversight of Health
+System Quality
+The Governance of Quality Assessment (GQA) serves as both a roadmap of the key processes
+the board should undertake to oversee all dimensions of quality, and an assessment of how
+well the board is doing with respect to those processes. The GQA employs a set of concrete
+recommendations for 30 core processes of quality oversight organized into six categories, and
+provides a high-level assessment of board culture, structure, and commitment. The resulting GQA
+scores (for each core process, each category, and overall total) provide a roadmap for health care
+leaders and trustees to identify what to do in their work plan — and to assess their progress over
+time.
+Most current board assessments primarily cover elements of safety, patient satisfaction, and/or
+board culture related to quality oversight. Most assessments do not identify the specific processes
+for quality oversight beyond safety and do not equally address all the dimensions of quality,
+including population health and care provided outside of the hospital. Variation across
+assessments may create confusion among trustees about what really is optimal in the oversight of
+quality.
+The GQA aims to ensure that health system board quality oversight extends beyond the hospital to
+include the entire continuum of care. While many trustees understand concepts and frameworks
+like STEEEP and the IHI Triple Aim, they often have difficulty translating those concepts into
+specific activities they must perform. The GQA is specific, actionable, and tracks the processes that
+enable excellent quality governance. The GQA is designed for trustees and those who support
+them; it is written in straightforward, actionable, and trustee-centered language.
+
+GQA Core Processes and Scoring
+The Governance of Quality Assessment provides a snapshot of a total of 30 core processes
+organized into six categories that a board with fiduciary oversight needs to perform to properly
+oversee quality. The 30 core processes were developed by the expert group based on their expert
+opinions combined with insights gathered from more than 50 additional interviews of governance
+experts and health executives in the research and assessment phase of this work.
+As referenced in the companion research summary to this white paper,21 there are limited
+evidence-based recommendations on core processes for governance of quality beyond a few
+structural recommendations such as time spent, use of a dashboard, and having a dedicated quality
+committee. The GQA puts forth a set of core processes for governance of quality that were
+collaboratively developed, evaluated, and ranked at the expert meeting.
+The GQA should be utilized by health systems and results tracked over time to validate the
+assessment’s effectiveness. Certainly, there are additional quality oversight actions a board could
+undertake (and many already do) beyond those identified in the GQA. However, the expert group
+and interviewees identified the core processes in the GQA as a starting point for calibration and
+improvement. With a commitment to learning and improvement, and in recognition of the
+dynamic nature of health care, the GQA should also be revised as appropriate to incorporate the
+insights from new research in the boardroom.
+
+Institute for Healthcare Improvement • ihi.org
+
+12
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+The GQA includes a scoring system (0, 1, or 2) for trustees and health system leaders to assess the
+current level of performance for the 30 core processes, the six categories, and overall. Scores are
+totaled so that trustees and health care leaders can establish baseline scores (for each process,
+category, and overall) and then track their progress over time.
+
+Bringing the GQA to the Boardroom
+Health system CEOs should complete the GQA annually with their board chair and quality
+committee chair(s) and/or quality committee to establish a baseline for assessing their current
+state of oversight of quality; to identify opportunities for improvement; and to track their GQA
+scores over time as a measure of improving board quality oversight. It is also useful to have the
+senior leaders who interface with the board complete the GQA to understand and assess their role
+with respect to trustee oversight of quality.
+Once the respondents have completed the GQA, senior leaders and trustees may choose to focus on
+the lowest-scoring areas to identify improvement strategies. Within larger health systems, the GQA
+is a useful tool to evaluate the work of multiple quality committees and create a system-wide work
+plan and strategies for board oversight of quality. We recommend that boards complete the GQA
+annually to monitor their performance and progress.
+The GQA can also be used to guide discussions about which activities should be conducted at
+which level of governance in the case of complex systems (e.g., which processes are or should be
+covered in local boards, the system quality committee, and/or the overall health system board). In
+addition, the assessment can be used as a tool for discussion in setting agenda items for the board
+or quality committees.
+Finally, governance educators might also use the assessment to help design their educational
+sessions for board members, targeting educational content to the areas where the clients need
+more support or education.
+The expert group also recommended that the assessment tool be utilized for future research to
+compare how systems are performing relative to each other, collecting data longitudinally to
+identify which elements of the GQA are most correlated with various components of quality
+performance and other metrics of culture and management known to be associated with
+excellence.
+
+Institute for Healthcare Improvement • ihi.org
+
+13
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment (GQA)
+Tool
+This assessment tool was developed to support trustees and senior leaders of health systems in
+their oversight of quality of care by defining the core processes, culture, and commitment for
+excellence in oversight of quality. A guiding principle in the development of this assessment was
+for the board to view their role in quality oversight comprehensively in terms of the Institute of
+Medicine STEEEP dimensions (care that is safe, timely, effective, efficient, equitable, and patient
+centered) and the IHI Triple Aim.
+The Governance of Quality Assessment (GQA) tool should be used to evaluate the current level of
+performance for 30 core processes in six categories, to identify areas of oversight of quality that
+need greater attention or improvement, and to track progress over time.
+
+Instructions
+The Governance of Quality Assessment organizes the health system board’s quality oversight role
+into six categories that include a total of 30 core processes a board with fiduciary oversight should
+perform to effectively oversee quality.
+Health system CEOs should complete the GQA annually with their board chair and quality
+committee chair(s) and/or quality committee.
+For each item in the assessment, the person completing the assessment should indicate a score of
+0, 1, or 2. Scores are then totaled for each category and overall.
+
+Score
+
+Description
+
+0
+
+No activity: The process is not currently performed by the board, or I am
+unaware of our work in or commitment to this area.
+
+1
+
+Infrequent practice: The board currently does some work in this area, but not
+extensively, routinely, or frequently.
+
+2
+
+Board priority: The board currently does this process well — regularly and
+with thought and depth.
+
+Institute for Healthcare Improvement • ihi.org
+
+14
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 1: Prioritize Quality: Board Quality Culture and Commitment
+Core Board Process
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+1. Board establishes quality as a priority
+on the main board agenda (e.g.,
+equivalent time spent on quality and
+finance), and time spent on quality
+reflects board commitment.
+
+Executive committee/governing board
+that spends a minimum of 20% to
+25% of meeting time on quality
+
+2. Health system senior leaders provide
+initial and ongoing in-depth education
+on quality and improvement systems
+to all trustees and quality committee
+members, and clearly articulate board
+fiduciary responsibility for quality
+oversight and leadership.
+
+Board that understands the definition
+of quality, key concepts, and the
+system of improvement used within
+the organization
+
+3. Board receives materials on quality
+before board meetings that are
+appropriately summarized and in a
+level of detail for the board to
+understand the concepts and engage
+as thought partners.
+
+Board that is prepared for quality
+oversight and engaged in key areas
+for discussion
+
+4. Board reviews the annual quality and
+safety plan, reviews performance on
+quality metrics, and sets improvement
+aims.
+
+Board that takes responsibility for
+quality and performance on quality
+
+5. Board ties leadership performance
+incentives to performance on key
+quality dimensions.
+
+Board that establishes compensation
+incentives for senior leaders linked to
+prioritizing safe, high-quality care
+
+6. Board conducts rounds at the point of
+care or visits the health system and
+community to hear stories directly
+from patients and caregivers to
+incorporate the diverse perspectives
+of the populations served.
+
+Board that sets the tone throughout
+the organization for a culture of
+teamwork, respect, and transparency
+and demonstrates an in-person,
+frontline, board-level commitment to
+quality
+
+7. Board asks questions about gaps,
+trends, and priority issues related to
+quality and is actively engaged in
+discussions about quality.
+
+Board that engages in generative
+discussion about quality improvement
+work and resource allocation
+
+Agenda that reflects board oversight
+of and commitment to quality
+
+Category 1 Total Score:
+(14 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+15
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 2: Keep Me Safe: Safe Care
+Core Board Process
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+1. Board regularly tracks and discusses
+performance over time on key safety
+metrics (including both in-hospital
+safety and safety in other settings of
+care).
+
+Board that reviews management
+performance on key safety metrics
+and holds management
+accountable for areas where
+performance needs to be improved
+
+2. Board annually reviews management’s
+summary of the financial impact of poor
+quality on payments and liability costs.
+
+Board that understands the
+financial costs of poor safety
+performance
+
+3. Board evaluates management’s
+summary of incident reporting trends
+and timeliness to ensure transparency
+to identify and address safety issues.
+
+Board that holds management
+accountable to support staff in
+sharing safety concerns to create a
+safe environment of care for
+patients and staff
+
+4. Board reviews Serious Safety Events
+(including workforce safety) in a timely
+manner, ensuring that leadership has a
+learning system to share the root
+cause findings, learning, and
+improvements.
+
+Board that holds management
+accountable for a timely response
+to harm events and learning from
+harm
+
+5. Board reviews management summary
+of their culture of safety survey or
+teamwork/safety climate survey to
+evaluate variations and understand
+management’s improvement strategies
+for improving psychological safety,
+teamwork, and workforce engagement.
+
+Board that holds management
+accountable for building and
+supporting a culture of
+psychological safety that values
+willingness to speak up as
+essential to patient care and a
+collaborative workplace
+
+6. Board reviews required regulatory
+compliance survey results and
+recommendations for improvement.
+
+Board that performs its required
+national (e.g., CMS, Joint
+Commission, organ donation) and
+state regulatory compliance
+oversight
+
+Category 2 Total Score:
+(12 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+16
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 3: Provide Me with the Right Care: Effective Care
+Core Board Process
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+1. Board ensures that the clinician
+credentialing process addresses
+concerns about behavior,
+performance, or volume and is
+calibrated across the health system.
+
+Board that understands its fiduciary
+responsibility of credentialing
+oversight to ensure the talent and
+culture to deliver effective patient
+care
+
+2. Board reviews trends and drivers of
+effective and appropriate care as
+defined for the different areas of the
+system’s care.
+
+Board that holds leadership
+accountable to ensure that the
+system does not underuse,
+overuse, or misuse care
+
+3. Board evaluates senior leaders’
+summary of metrics to ensure
+physician and staff ability to care for
+patients (e.g., physician and staff
+engagement, complaint trends, staff
+turnover, burnout metrics, violence).
+
+Board that holds senior leaders
+accountable for the link between
+staff engagement and wellness with
+the ability to provide effective
+patient care
+
+4. Board establishes a measure of health
+care affordability and tracks this
+measure, in addition to patient medical
+debt, over time.
+
+Board that understands that cost is
+a barrier for patients, and that
+health systems are accountable to
+the community to ensure affordable
+care
+
+Category 3 Total Score:
+(8 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+17
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 4: Treat Me with Respect: Equitable and Patient-Centered Care
+Core Board Process
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+1. Board has patient representation,
+patient stories, and/or interaction with
+patient and family councils, and
+engagement with community
+advocates at every board and quality
+committee meeting.
+
+Board that connects its quality
+oversight role with direct patient
+experiences to build understanding
+of issues and connection to
+patients
+
+2. Board reviews patient-reported
+complaints and trends in patient
+experience and loyalty that indicate
+areas where respectful patient care is
+not meeting system standards.
+
+Board that reviews senior
+leadership’s approach to
+evaluating, prioritizing, and
+responding to patient concerns and
+values a patient’s willingness to
+recommend future care
+
+3. Board evaluates and ensures diversity
+and inclusion at all levels of the
+organization, including the board,
+senior leadership, staff, providers, and
+vendors that support the health
+system.
+
+Board that supports and advances
+building a diverse and culturally
+respectful team to serve patients
+
+4. Board reviews the health system’s
+approach to disclosure following
+occurrences of harm to patients and
+understands the healing, learning, and
+financial and reputational benefit of
+transparency after harm occurs.
+
+Board that understands the link
+between transparency with
+patients after harm occurs and a
+culture of learning and
+improvement in the health system
+
+5. Board ensures that all patient
+populations, especially the most
+vulnerable, are provided effective care
+by evaluating variations in care
+outcomes for key conditions or service
+lines based on race, gender, ethnicity,
+language, socioeconomic status/payer
+type, and age.
+
+Board that holds senior leaders
+accountable for health equity
+(making sure all patients receive
+the same quality of care) and
+prioritizes closing the gaps in
+outcomes that are identified as
+disparities in care
+
+Category 4 Total Score:
+(10 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+18
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 5: Help Me Navigate My Care: Timely and Efficient Care
+Core Board Process
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+1. Board reviews metrics related to
+access to care at all points in the
+system (e.g., hospital, clinics,
+behavioral health, nursing home,
+home care, dental) and ensures that
+access is equitable and timely for all
+patients.
+
+Board that oversees senior
+leadership’s strategy to improve
+care access (e.g., time and ability to
+get an appointment, wait time for
+test results, delays) for all patients
+
+2. Board reviews senior leadership’s
+strategy for and measurement of
+patient flow, timeliness, and transitions
+of care, and evaluates leadership’s
+improvement priorities.
+
+Board that evaluates the complexity
+of care navigation for patients and
+monitors senior leadership’s work to
+integrate care, reduce barriers, and
+coordinate care (e.g., delays,
+patient flow issues) to support
+patients
+
+3. Board evaluates senior leadership’s
+strategy for digital integration and
+security of patient clinical information
+and its accessibility and portability to
+support patient care.
+
+Board that holds senior leaders
+accountable for a strategy to
+support patients’ digital access,
+security, and portability of clinical
+information
+
+Category 5 Total Score:
+(6 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+19
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Governance of Quality Assessment Tool (continued)
+Category 6: Help Me Stay Well: Community and Population Health and Wellness
+Core Board Process
+
+1. Board reviews community health
+needs assessment and senior
+leadership’s plans for community and
+population health improvement.
+
+Score
+(0, 1, or 2)
+
+Process leads to a:
+
+Board that oversees the
+development of a community health
+needs assessment and has
+identified which population health
+metrics are most relevant to track
+for its patients (e.g., asthma,
+diabetes, stroke, cancer screening,
+flu vaccine, dental, prenatal, opioid
+overuse, obesity, depression
+screening)
+Board holds senior leaders
+accountable for reaching goals
+established to improve key
+community health issues
+
+2. Board reviews performance in riskbased contracts for population health.
+
+Board that evaluates performance
+on risk-based contracts for
+populations and strategies for
+improvement
+
+3. Board evaluates approach to
+integration and continuity of care for
+behavioral health patients.
+
+Board that holds senior leaders
+accountable for integrating care and
+tracking care coordination data to
+support screening, access, and
+follow-up
+
+4. Board reviews leadership’s plans to
+address social determinants of
+health, including any plans for
+integration with social and community
+services.
+
+Board that understands the essential
+nature of wraparound services to
+support the wellness of certain
+patient populations and oversees
+the strategic integration with those
+service providers
+
+5. Board evaluates the health system’s
+strategy for supporting patients with
+medically and socially complex needs
+and with advance care planning.
+
+Board that ensures senior leaders
+evaluate high-utilization groups and
+key drivers to help those users
+navigate and manage their care
+
+Category 6 Total Score:
+(10 possible)
+
+Institute for Healthcare Improvement • ihi.org
+
+20
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Total Score for This Assessment:
+(sum of total scores for Categories 1 through 6)
+
+Total Possible Score:
+
+60
+
+Interpreting the Overall Governance of Quality Assessment Score
+Total Score
+
+Board Performance Level
+
+40 to 60
+
+Advanced board commitment to quality
+
+25 to 40
+
+Standard board commitment to quality
+
+25 or Fewer
+
+Developing board commitment to quality
+
+Using GQA Results to Plan Next Steps
+After completing the Governance of Quality Assessment, the CEO, board chair, and board quality
+chair(s) should review the results and use them as the basis for planning next steps.
+•
+
+Review the spectrum of GQA scores: Are the results similar across your board and
+committees? Compare the variation of scores across your board, quality committee(s), and
+senior leaders. If there is high variation in scores, it may be an opportunity to consider
+clarifying expectations and the work plan for quality oversight.
+
+•
+
+Aggregate GQA scores to identify areas for improvement: Aggregating the GQA
+scores (overall and for each category) establishes a baseline score to evaluate the current
+areas of oversight and identify opportunities to better oversee the dimensions of quality that
+have lower scores. Could the board agenda or work plan be adjusted to make time to address
+other quality items (i.e., those with low GQA scores)?
+
+•
+
+Set a target GQA score for next year: Set a target and a plan for improving the GQA
+score annually. Focus on the elements of the GQA where you have the greatest gap or that are
+of the most strategic importance to your organization.
+
+We recommend that boards and leadership teams also evaluate time spent discussing quality and
+trustee confidence in their knowledge of basic quality concepts in tandem with the GQA.
+•
+
+Evaluate time allocation to quality: Track how much time the board spends each
+meeting discussing quality. Does the time commitment indicate that quality has equal priority
+in time and attention with finance? Is quality just an item on the agenda without discussion?
+
+•
+
+Use the GQA to identify board education opportunities: Review both the initial
+education and the ongoing education of board members on quality. What topics in the
+framework and GQA are not covered? Do you provide trustees with supplementary reading,
+useful articles, and educational opportunities in the areas identified in the GQA?
+
+Institute for Healthcare Improvement • ihi.org
+
+21
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Conclusion
+Excellence in quality must be supported from the bedside to the boardroom; patients deserve
+nothing less. Health system boards are deeply committed to the patients and communities they
+serve; however, trustees often require support in order to best understand and fulfill their fiduciary
+responsibility and commitment to the patients and communities they serve. Trustee knowledge of
+quality and improvement concepts is essential to their governance role. To be effective, trustees
+must also pair this knowledge with an effective board culture and a clear set of activities that
+support oversight of quality.
+The framework, assessment tool, and support guides presented in this white paper were created
+through collaboration with leaders in health care and governance. The immediate goal of these
+resources is to reduce variation in board oversight of quality and to provide an improved roadmap
+for health system trustees. The ultimate goal is to ensure that oversight of quality of care for all
+patients is supported by more effective board education in quality concepts, clarity of core
+processes for trustee governance of quality, and a deeper board commitment to quality.
+
+Institute for Healthcare Improvement • ihi.org
+
+22
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Appendix A: Support Guides
+The expert group identified three core knowledge areas for effective governance of quality: first, a
+familiarity with all dimensions of quality; second, an understanding of how improvement occurs in
+systems; and third, an appreciation of the importance of demonstrating a commitment to quality
+through the board culture.
+Appendix A includes support guides for these three core knowledge areas:
+•
+
+Support Guide: Core Quality Knowledge
+
+•
+
+Support Guide: Core Improvement System Knowledge
+
+•
+
+Support Guide: Board Culture and Commitment to Quality
+
+Support Guide: Core Quality Knowledge
+The medical terms, health care oversight organizations and processes, and clinical concepts that
+arise in quality work are often unfamiliar to board members without a medical background, unlike
+other areas of oversight such as finance. Initial and ongoing education in quality concepts is
+essential to providing trustees with the necessary context and knowledge for thoughtful
+engagement.
+This support guide is designed to guide hospital leaders and trustee educators in taking the
+guesswork out of the core quality concepts that are needed to prepare trustees for governance of
+quality across all dimensions and all care settings.
+The expert group recommended providing governance education to trustees via a simple, patientcentered framework, just as the Governance of Quality Assessment consolidates and clarifies core
+board processes for governance of quality from the STEEEP dimensions of quality into a patientcentered framework. See Figure 3 (above), which presents the patient at the center of governance
+quality work, a visual that the expert group found compelling.
+All new trustees, not just quality committee members, need to receive a thorough introduction to
+quality. To oversee quality, board members need fluency in many concepts, which should be
+introduced in a layered manner (similar to building a scaffold) to avoid overwhelming trustees. An
+overarching framework that shows how all these elements are necessary for patient care helps
+connect the dots and build commitment.
+Table 1 presents the foundational concepts for board oversight of quality recommended by the
+expert group, organized by the STEEEP dimensions of quality (care that is safe, timely, effective,
+efficient, equitable, and patient centered) represented through a patient lens.
+
+Institute for Healthcare Improvement • ihi.org
+
+23
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Table 1. Foundational Concepts for Board Core Quality Knowledge
+
+Quality
+Concept
+
+Key Questions
+
+Suggested Educational
+Concepts
+
+Basic Quality
+Overview
+
+•
+•
+
+•
+•
+
+•
+•
+
+What is quality in health care?
+What are the benefits of
+quality?
+What are the costs of poor
+quality?
+Who oversees the elements of
+quality in our organization?
+
+•
+•
+•
+•
+•
+•
+•
+
+Keep Me Safe
+Safe
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+•
+•
+
+What is safety?
+What is a culture of safety?
+What are surveys of patient
+safety culture?
+What is “harm”?
+What are the types of harm?
+How do you decide if an
+adverse outcome is
+preventable harm?
+How do we learn about harm
+in a timely manner?
+What is our response to harm
+(i.e., what actions do we take
+when harm occurs)?
+What are the financial and
+reputational costs of harm?
+How do we reduce, learn from,
+and prevent harm?
+How do we track harm in our
+system and in the industry?
+
+•
+•
+•
+•
+•
+•
+
+•
+
+•
+•
+
+Brief overview of quality in health care
+STEEEP dimensions of quality
+presented through a patient lens
+IHI Triple Aim
+Benefits of quality
+“Cost” of poor quality: Financial,
+patients, staff
+Quality strategy, quality management
+Overview of risk-/value-based care
+Structures for quality reporting,
+assessment, and improvement
+Structure for CEO/leadership
+evaluation
+Preventable harm vs. adverse outcome
+Just Culture and culture of safety
+Science of error prevention and high
+reliability
+Classification of the types of harm
+Knowing about harm: Incident
+reporting, claims, grievances
+Response to harm: Root cause
+analysis/adverse event review, patient
+apology and disclosure, legal, learning
+systems
+Costs of harm: Claims/lawsuits,
+penalties, ratings, reputational, human
+emotional impact
+Harm terminology: HAC, SSI, falls,
+ADE, employee safety, etc.
+Regulatory oversight of safety
+
+Institute for Healthcare Improvement • ihi.org
+
+24
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Quality
+Concept
+
+Key Questions
+
+Suggested Educational
+Concepts
+
+Provide Me with
+the Right Care
+
+•
+
+How do we ensure that our
+health system properly
+diagnoses and cares for
+patients to the best evidencebased standards in medicine?
+How does leadership oversee
+whether approaches to care
+vary within our system?
+How do we identify the areas
+where care is not to our
+standards?
+How do we identify the areas
+where care is meeting or
+exceeding our standards?
+How do we attract and retain
+talent to care for patients?
+
+•
+•
+
+How do we evaluate patients’
+satisfaction and feedback?
+What is “equitable care” and
+how do we evaluate it?
+Do some patient groups have
+worse outcomes? Why?
+What is our staff diversity and
+how may it impact patient
+care?
+How do we ensure that
+patients are partners in their
+care?
+How do we reduce cost of
+care?
+How do we track medical debt
+for patient groups?
+
+•
+
+What do care navigation and
+care access mean?
+What issues result from
+waiting for care or
+disconnected care (care that is
+not timely or efficient)?
+Which populations have more
+complex care needs? What do
+we do to help them navigate
+care?
+What is the role of a portable
+medical record and health IT in
+supporting care navigation?
+
+•
+
+Effective
+•
+
+•
+
+•
+
+•
+
+Treat Me with
+Respect
+Equitable and
+Patient centered
+
+•
+•
+•
+•
+
+•
+
+•
+•
+
+Help Me
+Navigate My
+Care
+
+•
+•
+
+Timely and
+Efficient
+•
+
+•
+
+•
+
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+Evidence-based medicine
+Overview of staff and physician
+recruitment, credentials/privileges,
+training, retention (burnout, turnover,
+violence)
+Overview of standard of care concept
+and issues/processes that lead to
+variation
+Trends in care utilization and clinical
+outcomes
+Key care outcomes to be evaluated
+through an equity lens: race, ethnicity,
+gender, language, and socioeconomic
+status
+
+Patient satisfaction and patient
+grievances (e.g., HCAHPS22)
+Patient-centered care
+Care affordability, debt burden
+Social determinants of health
+Pricing and affordability of care
+bundles
+Total costs of care for conditions
+Medical debt concerns/trends
+Value-based payment models
+
+Care access, efficiency, and drivers of
+care navigation
+Define “continuum of care”
+Focus on key areas that are
+“roadblocks” in care navigation and
+their drivers
+Define electronic health record, health
+IT, and the systems to support and
+secure patient information and patient
+access
+
+Institute for Healthcare Improvement • ihi.org
+
+25
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Quality
+Concept
+
+Key Questions
+
+Suggested Educational
+Concepts
+
+Help Me Stay
+Well
+
+•
+
+•
+
+Community and
+Population Health
+and Wellness
+
+•
+
+•
+
+•
+
+What is the difference between
+population and patient health?
+How do we segment patient
+populations to evaluate
+population health outcomes?
+What unique strategies do/can
+we deploy to care for and
+engage areas or populations
+with worse health outcomes?
+How are we compensated (or
+not) for population health and
+wellness?
+
+•
+•
+•
+•
+
+Define population health vs. patient
+health23
+Explain the community health needs
+assessment (CHNA)
+Interpret population health, prevention,
+and wellness metrics
+Define social determinants of health
+Explain fee-based vs. risk-based
+contracts
+
+This support guide can be used as a starting point for hospital leaders and educators to create their
+system’s board education plan, to ensure the concepts are imparted across the dimensions of
+health care quality to trustees. Health systems will vary in terms of which concepts need to be
+introduced to all trustees versus only to those who serve on the quality committee. That said,
+absorbing all these concepts at once would be overwhelming, so teaching the concepts in smaller
+segments over time is essential, as is reinforcing the concepts with additional learning
+opportunities and available resources, particularly as new members join the board.
+It is also worthwhile to consider different formats for teaching these concepts to various audiences
+such as a half-day retreat, a full-day education session, or in-depth hour-long programs offered
+throughout the year. Finally, consider how the concepts should be introduced to new trustees and
+reinforced for experienced trustees to support a common knowledge base.
+Just as most trustees join a board with a conversation about what they can contribute in time,
+treasure, and talent to support the organization, perhaps there can also be a “learn” expectation to
+identify the need for continuous growth and learning, even as a trustee, to advance a culture of
+improvement and quality excellence.
+
+Institute for Healthcare Improvement • ihi.org
+
+26
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Support Guide: Core Improvement System Knowledge
+A 2016 IHI White Paper, Sustaining Improvement, identified the drivers of quality control and
+quality improvement in high-performing organizations and highlighted that boards play an
+essential role in creating a culture of quality care and quality improvement.24 Quality knowledge
+for trustees must include a deep understanding of and comfort with how health system leaders will
+identify, assess, and improve the elements of care delivery.
+Organizations might take many approaches to improvement — from Total Quality Management, to
+Lean, to high reliability, to the Model for Improvement. Trustees need to understand their health
+system’s improvement methodology and ensure that the health system has the people, processes,
+and infrastructure to support its improvement efforts.
+Trustees might ask health system leaders the following discussion questions to gain an
+understanding of the organization’s improvement system:
+•
+
+What is the organization’s system of improvement, in terms of both evaluating performance
+and prioritizing areas for improvement?
+
+•
+
+How were major quality improvement efforts selected in the last two years? What criteria
+were used and evaluated to measure their impact?
+
+•
+
+How does quality improvement cover the entire health system versus in-hospital
+improvement only?
+
+•
+
+What analytic methods do leaders use to gather insight from the entire system to inform
+improvement initiatives? What are the gaps in the information and analytics?
+
+•
+
+Recognizing that quality improvement is most sustainable when frontline staff members are
+engaged, how do senior leaders ensure that frontline staff lead quality improvement work, are
+actively providing ideas for improvement, and are willing and encouraged to speak up?
+
+Health care leaders may educate board members on their organization’s improvement system in
+many ways. For example:
+•
+
+Virginia Mason Health System board members travel to Japan to learn about the Toyota
+Production System and Lean principles that Virginia Mason also employs.25
+
+•
+
+The pediatric improvement network called Solutions for Patient Safety dedicates significant
+effort to board education on their high-reliability method of improvement and the board’s
+role in understanding the core knowledge of safety and analyzing performance. 26
+
+•
+
+The board at St. Mary’s General Hospital in Kitchener, Ontario, “sought out new knowledge
+about Lean through board education sessions, recruited new members with expertise in Lean
+and sent more than half of the board to external site visits to observe a high-performing Lean
+healthcare organization.”27
+
+Boards must understand how health system leaders perform the functions of quality planning,
+quality control, and quality improvement throughout the organization — and how that quality
+work is prioritized and resources are allocated. A 2015 article describes the process that Johns
+Hopkins Medicine undertook to ensure that the health system could map accountability for quality
+improvement throughout the organization, from the point of care to the board quality committee.28
+Similarly, in an article for The Governance Institute’s BoardRoom Press, leaders from Main Line
+
+Institute for Healthcare Improvement • ihi.org
+
+27
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Health shared their effort to delineate the flow and tasks of the oversight of quality from the
+boardroom to the frontline operations.29 While the Johns Hopkins and Main Line Health
+approaches are unique to their systems, the essential idea they advanced is that a board and
+leadership should define the components of quality improvement work in their system and identify
+the accountability for those components throughout the system.
+In addition to understanding accountability for quality throughout a health system, it is also
+essential for trustees to develop analytical skills to review data and engage meaningfully with
+leadership in generative dialogue about trends in the data. As part of their quality oversight role,
+health system boards need to understand the organization’s key metrics and periodically review
+areas of performance that are outside of or below established expectations.
+Also, educational training for trustees should teach them how to review data over time and request
+that data be benchmarked against other leading organizations to help them evaluate improvement
+opportunities. In IHI’s interviews, some trustees noted that the way data are presented often
+impacts their ability to gain insights to oversee and engage leaders in discussions on quality
+performance and progress of quality improvement efforts.
+In her work with health system trustees, Maureen Bisognano, IHI President Emerita and Senior
+Fellow, challenges boards that they should be able to answer four analytic questions pertaining to
+quality:30
+1.
+
+Do you know how good you are as an organization?
+
+2. Do you know where your variation exists?
+3. Do you know where you stand relative to the best?
+4. Do you know your rate of improvement over time?
+A board that understands management’s system of improvement and is analytically capable of
+tracking performance will be able to confidently answer those four questions. The board plays a
+critical role in holding health system leaders accountable for improvement results and should be a
+thought partner in the system’s quality improvement efforts. Understanding the system of
+improvement and the ways in which an organization identifies and prioritizes areas for
+improvement is an essential function of quality governance.
+
+Institute for Healthcare Improvement • ihi.org
+
+28
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Support Guide: Board Culture and Commitment to Quality
+A board that understands quality concepts and the organization’s system of improvement may still
+be unable to fulfill its commitment to safe, high-quality, and equitable patient care if it does not
+also have a culture of commitment to quality and a structure that ensures that the quality functions
+are effectively carried out. Essential elements of board culture and commitment to quality are
+incorporated in the Governance of Quality Assessment in recognition that a board that governs
+quality must not only know the key processes to oversee quality, but also oversee them in a way
+that demonstrates a cultural commitment to quality.
+Many individuals and organizations have contributed thought leadership on building a culture for
+governance of quality in health care, including leading governance experts (such as Jim Conway,
+James Reinertsen, Larry Prybil, and James Orlikoff), The Governance Institute, the American
+Hospital Association, and a few leading state hospital associations. With guidance from the expert
+group, this support guide focuses on elements of governance culture, structure, and commitment
+that are unique to supporting trustee oversight of and engagement in quality.
+The expert group identified five high-level attributes of board culture and commitment to quality,
+as described below.
+
+Set Expectations and Prioritize Quality
+Quality needs to be a priority for all board members, not completely delegated to the quality
+committee(s), even if the quality committee is doing more of the oversight. Quality is demonstrated
+as a board priority in many ways, including dedicating time to engage in discussion about quality
+issues on board meeting agendas, and linking some component of executive compensation to
+performance on quality metrics.
+For example, before a trustee joins the Virginia Mason Health System board, they are sent a
+compact (that is then reviewed annually) to reinforce core expectations of trustees, which includes
+quality oversight.31 Stephen Muething, Co-Director, James M. Anderson Center for Health System
+Excellence, Cincinnati Children’s Hospital Medical Center, notes that Cincinnati Children’s initially
+assigns all new board members to serve on the quality committee for their first year on the board,
+indicating that quality is so essential to their operations that every board member must develop
+core knowledge in quality.
+Still, for too many boards, quality is not central to trustee education and not allocated sufficient
+time for learning and generative discussion.
+
+Build Knowledge Competency and Define Oversight Responsibility of Quality
+Knowledge and a clear work plan form a foundation for confident and thoughtful engagement in
+quality. Once trustees have been educated and are confident in their understanding of the core
+concepts, health system leaders need to work with trustees to define which issues the quality
+committee(s) will manage and which issues will be discussed by the entire board. This delineation
+of activities needs to be clearly articulated in the annual work plan for each group and will vary
+based on the size, scope, and structure of each organization.
+
+Institute for Healthcare Improvement • ihi.org
+
+29
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Create a Culture of Inquiry
+Board oversight of quality is not intended to micromanage the work of senior leaders, but to
+engage in thoughtful inquiry to ensure that organizational performance aligns with the
+expectations established by both leaders and trustees. For example, Henry Ford Health System has
+an annual quality retreat for its board quality committee and the quality committees of its hospitals
+and business lines. The trustees and health system leaders use this retreat as a time to dive deep on
+education, evaluate performance in depth, and have small group discussions to evaluate both
+quality and governance practices.32
+Diversity also adds to the culture of inquiry by bringing differing perspectives and community
+representation to the quality discussions. The size of board and committee meetings can prohibit
+in-depth dialogue; building in time for small group interactions can help support a culture of
+inquiry.
+
+Be Visible in Supporting Quality
+Boards can support health system leaders in their efforts to improve quality in many ways,
+including conducting rounds, visiting the point of care, and thanking frontline staff for their
+contributions to improving care quality and safety. Health system leaders can provide guidance on
+the best ways for trustees to be visible in supporting quality in the organization.
+
+Focus on the Patient
+The board can also support quality work by including time on the agenda to hear patient stories,
+which personalizes the data. For example, board chair Mike Williams described how “Children’s
+National Medical Center in Washington, DC, has strengthened board engagement with their
+frontline clinical teams to focus on safety, quality, and outcomes of clinical care. Their ‘board to
+bedside’ sessions discuss important topics of care and then move to the bedside to experience how
+changes are being implemented and gather experiences of patients.”33
+The elements of this support guide are reinforced in the Board Quality Culture and Commitment
+section (Category 1) of the Governance of Quality Assessment (GQA). Boards that carry out the
+core processes of governance of quality without a deeper culture and commitment to quality will be
+more likely to have a “check the box” mentality that the expert group identified as less likely to
+demonstrate leadership and commitment to advancing quality within the health system in a way
+that patients deserve.
+
+Institute for Healthcare Improvement • ihi.org
+
+30
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Appendix B: IHI Lucian Leape Institute
+Expert Meeting Attendees
+Advancing Trustee Engagement and Education in Quality, Safety, and Equity
+July 12, 2018
+•
+
+Paul Anderson, Trustee, University of Chicago Medical Center
+
+•
+
+Evan Benjamin, MD, MS, FACP, Chief Medical Officer, Ariadne Labs; Harvard School of
+Public Health; Harvard Medical School; IHI Faculty
+
+•
+
+Jay Bhatt, DO, Senior Vice President and Chief Medical Officer, American Hospital
+Association; President, Health Research & Educational Trust
+
+•
+
+Lee Carter, Member, Board of Trustees, Former Board Chair, Cincinnati Children’s Hospital
+Medical Center
+
+•
+
+Jim Conway, MS, Trustee, Winchester Hospital, Lahey Health System
+
+•
+
+Tania Daniels, PT, MBA, Vice President, Quality and Patient Safety, Minnesota Hospital
+Association
+
+•
+
+James A. Diegel, FACHE, Chief Executive Officer, Howard University Hospital
+
+•
+
+James Eppel, Executive Vice President and Chief Administrative Officer, HealthPartners
+
+•
+
+Karen Frush, MD, CPPS, Chief Quality Officer, Stanford Health Care
+
+•
+
+Tejal K. Gandhi, MD, MPH, CPPS, Chief Clinical and Safety Officer, Institute for Healthcare
+Improvement; President, IHI Lucian Leape Institute (Meeting Co-Chair)
+
+•
+
+Michael Gutzeit, MD, Chief Medical Officer, Children’s Hospital of Wisconsin
+
+•
+
+Gerald B. Hickson, MD, Senior Vice President for Quality, Safety, and Risk Prevention,
+Vanderbilt Health System; Joseph C. Ross Chair for Medical Education and Administration,
+Vanderbilt University Medical School; Board Member, Institute for Healthcare Improvement
+
+•
+
+Brent James, MD, MStat, Member, National Academy of Medicine; Senior Fellow and Board
+Member, Institute for Healthcare Improvement
+
+•
+
+Maulik Joshi, DrPH, Chief Operating Officer, Executive Vice President, Integrated Care, Anne
+Arundel Medical Center
+
+•
+
+Gary S. Kaplan, MD, FACMPE, Chairman and CEO, Virginia Mason Health System; Chair,
+IHI Lucian Leape Institute; Board Member, Institute for Healthcare Improvement
+
+•
+
+John J. Lynch III, FACHE, President and CEO, Main Line Health
+
+•
+
+Kedar Mate, MD, Chief Innovation and Education Officer, Institute for Healthcare
+Improvement
+
+•
+
+Patricia McGaffigan, RN, MS, CPPS, Vice President, Safety Programs, Institute for Healthcare
+Improvement; President, Certification Board for Professionals in Patient Safety, IHI
+
+•
+
+Ruth Mickelsen, JD, MPH, Board Chair, HealthPartners
+
+Institute for Healthcare Improvement • ihi.org
+
+31
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+•
+
+Stephen E. Muething, MD, Chief Quality Officer, Co-Director, James M. Anderson Center for
+Health System Excellence, Cincinnati Children’s Hospital Medical Center
+
+•
+
+Lawrence Prybil, PhD, LFACHE, Community Professor, College of Public Health, University
+of Kentucky
+
+•
+
+Michael Pugh, MPH, President, MDP Associates; Faculty, Institute for Healthcare
+Improvement
+
+•
+
+Shahab Saeed, PE, Adjunct Professor of Management, Gore School of Business, Westminster
+College; Former Trustee, Intermountain Healthcare
+
+•
+
+Carolyn F. Scanlan, Board Member, Penn Medicine Lancaster General Health
+
+•
+
+Michelle B. Schreiber, MD, former Senior Vice President and Chief Quality Officer, Henry
+Ford Health System
+
+•
+
+Andrew Shin, JD, MPH, Chief Operating Officer, Health Research & Educational Trust
+
+•
+
+Debra Stock, Vice President, Trustee Services, American Hospital Association
+
+•
+
+Charles D. Stokes, MHA, FACHE, President and CEO, Memorial Hermann Health System;
+Immediate Past Chair, American College of Healthcare Executives
+
+•
+
+Beth Daley Ullem, MBA, Lead Author and Faculty, IHI; President, Quality and Patient Safety
+First; Trustee, Solutions for Patient Safety and Catalysis; Former Trustee, Thedacare and
+Children’s Hospital of Wisconsin; Advisory Board, Medstar Institute for Quality and Safety
+
+•
+
+Sam R. Watson, MSA, MT(ASCP), CPPS, Senior Vice President, Patient Safety and Quality,
+and Executive Director, MHA Keystone Center for Patient Safety and Quality, Michigan
+Health & Hospital Association; Board Member, Institute for Healthcare Improvement
+
+•
+
+John W. Whittington, MD, Senior Fellow, Institute for Healthcare Improvement
+
+•
+
+Kevin B. Weiss, MD, MPH, Senior Vice President, Institutional Accreditation, Accreditation
+Council for Graduate Medical Education
+
+•
+
+David M. Williams, PhD, Senior Lead, Improvement Science and Methods, Institute for
+Healthcare Improvement
+
+•
+
+Isis Zambrana, Associate Vice President, Chief Quality Officer, Jackson Health System
+
+Institute for Healthcare Improvement • ihi.org
+
+32
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Appendix C: Members of the IHI Lucian
+Leape Institute
+•
+
+Gary S. Kaplan, MD, FACMPE, Chairman and CEO, Virginia Mason Health System; Chair,
+IHI Lucian Leape Institute; Board Member, Institute for Healthcare Improvement
+
+•
+
+Tejal K. Gandhi, MD, MPH, CPPS, Chief Clinical and Safety Officer, Institute for Healthcare
+Improvement; President, IHI Lucian Leape Institute
+
+•
+
+Donald M. Berwick, MD, MPP, President Emeritus and Senior Fellow, Institute for
+Healthcare Improvement
+
+•
+
+Joanne Disch, PhD, RN, FAAN, Professor ad Honorem, University of Minnesota School of
+Nursing
+
+•
+
+Susan Edgman-Levitan, PA, Executive Director, John D. Stoeckle Center for Primary Care
+Innovation, Massachusetts General Hospital
+
+•
+
+Gregg S. Meyer, MD, MSc, CPPS, Chief Clinical Officer, Partners HealthCare
+
+•
+
+David Michaels, PhD, MPH, Professor, Department of Environmental and Occupational
+Health, Milken Institute School of Public Health, George Washington University
+
+•
+
+Julianne M. Morath, RN, MS, President and CEO, Hospital Quality Institute of California
+
+•
+
+Susan Sheridan, MIM, MBA, DHL, Director of Patient Engagement, Society to Improve
+Diagnosis in Medicine
+
+•
+
+Charles Vincent, PhD, MPhil, Professor of Psychology, University of Oxford; Emeritus
+Professor of Clinical Safety Research, Imperial College, London
+
+•
+
+Robert M. Wachter, MD, Professor and Chair, Department of Medicine, Holly Smith
+Distinguished Professor in Science and Medicine, Marc and Lynne Benioff Endowed Chair,
+University of California, San Francisco
+
+Emeritus Members
+•
+
+Carolyn M. Clancy, MD, Assistant Deputy Under Secretary for Health for Quality, Safety and
+Value, Veterans Health Administration, US Department of Veterans Affairs
+
+•
+
+Amy C. Edmondson, PhD, AM, Novartis Professor of Leadership and Management, Harvard
+Business School
+
+•
+
+Lucian L. Leape, MD, Adjunct Professor of Health Policy, Harvard School of Public Health
+
+•
+
+Paul O’Neill, 72nd Secretary of the US Treasury
+
+Institute for Healthcare Improvement • ihi.org
+
+33
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+References
+Institute of Medicine. To Err Is Human: Building a Safer Health System. Washington, DC: The
+National Academies Press; 2000.
+1
+
+Institute of Medicine Committee on Quality of Health Care in America. Crossing the Quality
+Chasm: A New Health System for the 21st Century. Washington, DC: National Academies Press;
+2001.
+2
+
+Jha AK, Epstein AM. A survey of board chairs of English hospitals shows greater attention to
+quality of care than among their US counterparts. Health Affairs. 2013;32(4):677-685.
+3
+
+Jha A, Epstein A. Hospital governance and the quality of care. Health Affairs. 2010;29(1):182187.
+4
+
+Jiang HJ, Lockee C, Bass K, Fraser I, Norwood EP. Board oversight of quality: Any differences in
+process of care and mortality? Journal of Healthcare Management. 2009;54(1):15-30.
+5
+
+Mannion R, Davies HTO, Jacobs R, Kasteridis P, Millar R, Freeman T. Do hospital boards matter
+for better, safer, patient care? Social Science & Medicine. 2017;177:278-287.
+6
+
+Tsai TC, Jha AK, Gawande AA, Huckman RS, Bloom N, Sadun R. Hospital board and
+management practices are strongly related to hospital performance on clinical quality metrics.
+Health Affairs. 2015;34(8):1304-1311.
+7
+
+Jha AK, Epstein AM. A survey of board chairs of English hospitals shows greater attention to
+quality of care than among their US counterparts. Health Affairs. 2013;32(4):677-685.
+8
+
+Jha A, Epstein A. Hospital governance and the quality of care. Health Affairs. 2010;29(1):182187.
+9
+
+Jiang HJ, Lockee C, Bass K, Fraser I, Norwood EP. Board oversight of quality: Any differences in
+process of care and mortality? Journal of Healthcare Management. 2009;54(1):15-30.
+10
+
+Mannion R, Davies HTO, Jacobs R, Kasteridis P, Millar R, Freeman T. Do hospital boards matter
+for better, safer, patient care? Social Science & Medicine. 2017;177:278-287.
+11
+
+Tsai TC, Jha AK, Gawande AA, Huckman RS, Bloom N, Sadun R. Hospital board and
+management practices are strongly related to hospital performance on clinical quality metrics.
+Health Affairs. 2015;34(8):1304-1311.
+12
+
+Institute of Medicine Committee on Quality of Health Care in America. Crossing the Quality
+Chasm: A New Health System for the 21st Century. Washington, DC: National Academies Press;
+2001.
+13
+
+American College of Healthcare Executives and IHI/NPSF Lucian Leape Institute. Leading a
+Culture of Safety: A Blueprint for Success. Boston, MA: American College of Healthcare
+Executives and Institute for Healthcare Improvement; 2017.
+www.ihi.org/resources/Pages/Publications/Leading-a-Culture-of-Safety-A-Blueprint-forSuccess.aspx
+14
+
+Institute for Healthcare Improvement • ihi.org
+
+34
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Martin LA, Mate K. IHI Innovation System. IHI White Paper. Boston, Massachusetts: Institute
+for Healthcare Improvement; 2018. www.ihi.org/resources/Pages/IHIWhitePapers/IHIInnovation-System.aspx
+15
+
+Daley Ullem E, Gandhi TK, Mate K, Whittington J, Renton M, Huebner J. Research Summary:
+Effective Board Governance of Health System Quality. Boston, MA: Institute for Healthcare
+Improvement; 2018. www.ihi.org/resources/Pages/IHIWhitePapers/Framework-Effective-BoardGovernance-Health-System-Quality.aspx
+16
+
+Berwick DM, Nolan TW, Whittington J. The Triple Aim: Care, health, and cost. Health Affairs.
+2008;27(3):759-769.
+17
+
+Jha A, Epstein A. Hospital governance and the quality of care. Health Affairs. 2010;29(1):182187.
+18
+
+Brown A, Dickinson H, Kelaher M. Governing the quality and safety of healthcare: A conceptual
+framework. Social Science & Medicine. 2018;202:99-107.
+19
+
+20
+
+Brilli RJ, Allen S, Davis JT. Revisiting the quality chasm. Pediatrics. 2014;133(5):763-765.
+
+Daley Ullem E, Gandhi TK, Mate K, Whittington J, Renton M, Huebner J. Research Summary:
+Effective Board Governance of Health System Quality. Boston, MA: Institute for Healthcare
+Improvement; 2018. www.ihi.org/resources/Pages/IHIWhitePapers/Framework-Effective-BoardGovernance-Health-System-Quality.aspx
+21
+
+HCAHPS: Patients’ Perspectives of Care Survey. Centers for Medicare & Medicaid Services.
+www.cms.gov/Medicare/Quality-Initiatives-Patient-AssessmentInstruments/HospitalQualityInits/HospitalHCAHPS.html
+22
+
+23
+
+Pathways to Population Health. www.pathways2pophealth.org/index.html
+
+Scoville R, Little K, Rakover J, Luther K, Mate K. Sustaining Improvement. IHI White Paper.
+Cambridge, MA: Institute for Healthcare Improvement; 2016.
+www.ihi.org/resources/Pages/IHIWhitePapers/Sustaining-Improvement.aspx
+24
+
+Remarks from Gary Kaplan, MD, Chairman and CEO, Virginia Mason Health System, at the
+expert meeting on July 12, 2018.
+25
+
+Interviews with: Anne Lyren, MD, MSc, Clinical Director, Children’s Hospitals’ Solutions for
+Patient Safety, on November 10, 2017; Stephen Muething, MD, Chief Quality Officer, Co-Director,
+James M. Anderson Center for Health System Excellence, Cincinnati Children’s Hospital Medical
+Center, on October 27, 2017.
+26
+
+Shilton D, Sluka J, Toussaint JS. Improving governance through principles. Healthcare
+Executive. 2018;33(4):68-70.
+27
+
+Pronovost PJ, Armstrong M, Demski R, et al. Creating a high-reliability health care system:
+Improving performance on core processes of care at Johns Hopkins Medicine. Academic Medicine.
+2015;90(2):165-172.
+28
+
+Institute for Healthcare Improvement • ihi.org
+
+35
+
+ WHITE PAPER : Framework for Effective Board Governance of Health System Quality
+
+Murphy DM. The board’s role in quality and patient safety performance measurement.
+BoardRoom Press. 2014;25(3):5-11.
+29
+
+“What Healthcare Leaders Need to Know Now.” FurstGroup Blog. July 18, 2013.
+www.furstgroup.com/blog/leadership-bisognano
+30
+
+Remarks from Gary Kaplan, MD, Chairman and CEO, Virginia Mason Health System, at the
+expert meeting on July 12, 2018.
+31
+
+Interview with Michelle Schreiber, MD, former Senior Vice President and Chief Quality Officer,
+Henry Ford Health System, on January 25, 2018.
+32
+
+Interview with Michael Williams, MBA, Board Chair, Children’s National Medical Center, on
+February 8, 2018.
+33
+
+Institute for Healthcare Improvement • ihi.org
+
+36
+
+ 

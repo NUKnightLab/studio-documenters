@@ -1,0 +1,450 @@
+1
+CITY OF CHICAGO ZONING BOARD OF APPEALS
+FRIDAY- April 15, 2011
+121 N. LaSalle Street- Room 200
+9:00 A.M
+99-11-S
+ZONING DISTRICT:B1-2
+WARD: 27
+APPLICANT: Edit Salon, LLC
+OWNER: Juan Mesa
+PREMISES AFFECTED: 1369 W. Chicago Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+100-11-S
+ZONING DISTRICT:B3-1
+WARD: 35
+APPLICANT: Francisco Garcia Gutierrez d/b/a/ Mia's Hair Beauty Salon
+OWNER: Ted Karwowski
+PREMISES AFFECTED: 3659 W. Diversey
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty / nail
+salon.
+101-11-S
+ZONING DISTRICT:B1-3
+WARD: 43
+APPLICANT: Shear Greatness, LLC d/b/a Great Clips
+OWNER: 1001 Webster LLC
+PREMISES AFFECTED: 1001-05 W. Webster Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+102-11-S
+ZONING DISTRICT:B3-1
+WARD: 35
+APPLICANT: Chicago Styles Barber Shop, Inc.
+OWNER: Ramon Zepeda
+PREMISES AFFECTED: 3047 W. Armitage Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty
+salon.
+103-11-S
+ZONING DISTRICT:B3-2
+WARD:32
+APPLICANT: Blade Hair Skin Body LLC
+OWNER: First Michigan Bank
+PREMISES AFFECTED: 1415 W. Belmont Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+104-11-S
+ZONING DISTRICT:B1-2
+WARD:47
+APPLICANT: Thanh Tran
+OWNER: Lincoln Damen LLC
+PREMISES AFFECTED: 3944 N. Lincoln Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed nail salon.
+105-11-S
+ZONING DISTRICT:B3-2
+WARD:40
+APPLICANT: Jaime Gutierrez d/b/a Esmeralda's Beauty Salon
+OWNER: Daniel Razes
+PREMISES AFFECTED: 6142 N. Clark Street
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+
+ 2
+106-11-S
+ZONING DISTRICT:B3-2
+WARD:32
+APPLICANT: Urban Mom Salon, LLC
+OWNER: Wilmont Properties Inc.
+PREMISES AFFECTED: 2143-45 N. Damen Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+107-11-S
+ZONING DISTRICT:B1-2
+WARD:41
+APPLICANT: Matisse: A Hair Studio
+OWNER: Mark S. Maletycz
+PREMISES AFFECTED: 6400 W. Raven Street
+SUBJECT: Application for a special use to permit the establishment of a proposed beauty salon.
+108-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: First Class Chicago LLC
+OWNER: Same
+PREMISES AFFECTED: 57 E. Cedar Street Unit #1
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+109-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: First Class Chicago LLC
+OWNER: Same
+PREMISES AFFECTED: 57 E. Cedar Street Unit # 2
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+110-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: First Class Chicago, LLC
+OWNER: Same
+PREMISES AFFECTED: 57 E. Cedar Street Unit # 3
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+111-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: Michael Verdone
+OWNER: Same
+PREMISES AFFECTED: 55 E. Cedar Street Unit # 1
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+112-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: Michael Verdone
+OWNER: Same
+PREMISES AFFECTED: 55 E. Cedar Street Unit # 2
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+
+ 3
+
+113-11-S
+ZONING DISTRICT: DR-3
+WARD:42
+APPLICANT: Michael Verdone
+OWNER: Same
+PREMISES AFFECTED: 55 E. Cedar Street Unit # 3
+SUBJECT: Application for a special use to permit the establishment of a proposed vacation
+rental unit.
+114-11-S
+ZONING DISTRICT:B3-3
+WARD:26
+APPLICANT: American Enterprise Properties
+OWNER: Same
+PREMISES AFFECTED: 2001-03 W. Race Avenue
+SUBJECT: Application for a special use to permit the establishment of residential use below the
+second floor.
+115-11-S
+ZONING DISTRICT:B3-2
+WARD:44
+APPLICANT: John Plewa
+OWNER: Same
+PREMISES AFFECTED: 1000-12 W. Belmont Avenue
+SUBJECT: Application for a special use to permit the proposed expansion of an existing tavern.
+116-11-Z
+ZONING DISTRICT:B3-3
+WARD:1
+APPLICANT: Joshua Nadolna
+OWNER: Same
+PREMISES AFFECTED: 1314 N. Wicker Park Avenue
+SUBJECT: Application for a variation to increase the height of an existing building from the
+permitted 50' to 54'-10" for a fifth level stairway enclosure.
+117-11-S
+ZONING DISTRICT:B3-3
+WARD:46
+APPLICANT: Paul Co., LLC
+OWNER: Same
+PREMISES AFFECTED: 4441 N. Broadway
+SUBJECT: Application for a special use to permit the establishment of a proposed tavern.
+118-11-S
+ZONING DISTRICT:B3-1
+WARD:36
+APPLICANT: Whitestock, Inc. d/b/a/ Second Time Around
+OWNER: Same
+PREMISES AFFECTED: 8301-03 W. Irving Park Road
+SUBJECT: Application for a special use to permit the establishment of the proposed expansion
+of an existing tavern.
+119-11-Z
+ZONING DISTRICT:B3-3
+WARD:20
+APPLICANT: Kidz creative Concepts School Age, Inc.
+OWNER: North Start Trust Co, ATUT # 991459
+PREMISES AFFECTED: 717-19 E. 63rd Street
+SUBJECT: Application for a variation to reduce the required parking spaces from one to zero
+for an expanded existing day care.
+
+ 4
+
+120-11-Z
+ZONING DISTRICT: RS-2
+WARD:23
+APPLICANT: Daniel & Lois Ferrone
+OWNER: Same
+PREMISES AFFECTED: 5400 S. Newland Avenue
+SUBJECT: Application for a variation to reduce the front setback from the required 20' to 11.87'
+for a proposed front one story open porch and stairs to an existing single family residence.
+121-11-Z
+ZONING DISTRICT: RT-4
+WARD:20
+APPLICANT: Greater Faith M.B. Church, Inc.
+OWNER: Same
+PREMISES AFFECTED: 6311-15 S. Langley Avenue
+SUBJECT: Application for a variation to reduce the front setback from the required 14.67' to
+zero, the south setback from 9' to 1' and the rear setback from 36'-8" to 23'-6" for a proposed 1
+story church with 10 on-site parking space.
+122-11-Z
+ZONING DISTRICT:B3-2
+WARD:32
+APPLICANT: New Einstein's Academy, Inc.
+OWNER: Hlepas Family, LLC
+PREMISES AFFECTED: 1858-60 N. Damen Avenue
+SUBJECT: Application for a variation to eliminate one required parking space for a proposed
+day care center.
+123-11-Z
+ZONING DISTRICT: RS-3
+WARD:33
+APPLICANT: Jeff Robinson
+OWNER: Same
+PREMISES AFFECTED: 4450 N. Sacramento Avenue
+SUBJECT: Application for a variation to reduce the front setback from the required 20' to 8'-10"
+to allow a front 1 story addition to an existing 2 story single family residence.
+
+ 5
+2:00 P.M.
+124-11-S
+ZONING DISTRICT:B3-1
+WARD:27
+APPLICANT: Bill's Recovering Communities, LLC
+OWNER: Same
+PREMISES AFFECTED: 1257 N. Pulaski Road
+SUBJECT: Application for a special use to permit the establishment of a proposed transitional
+residence.
+125-11-S
+ZONING DISTRICT: RS-3
+WARD:30
+APPLICANT: 1750 N Springfield LLC
+OWNER: Same
+PREMISES AFFECTED: 1752-54 N. Harding Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed required
+accessory off-site parking lot to serve an existing warehouse building ( furniture wholesale &
+production plant) located at 1750 N. Springfield.
+126-11-Z
+ZONING DISTRICT: RS-3
+WARD:30
+APPLICANT: 1750 N Springfield LLC
+OWNER: Same
+PREMISES AFFECTED: 1752-54 N. Harding Avenue
+SUBJECT: Application for a variation to reduce the required 20' front setback to 7' to prevent
+the obstruction of the sidewalk by parked cars for an off-site required accessory parking lot to
+serve a warehouse building at 1750 N. Springfield Avenue
+127-11-Z
+ZONING DISTRICT: RM-5
+WARD:3
+APPLICANT: GCD Properties, LLC Indiana
+OWNER: Same
+PREMISES AFFECTED: 5407-09 S. Indiana Avenue
+SUBJECT: Application for a variation to reduce the north and south setbacks from the required
+4' to zero, the rear yard open space from the required 447.56' to zero to allow parking for a 3story, 6 dwelling unit building to be converted to 8 dwelling units.
+128-11-Z
+ZONING DISTRICT: RM-5
+WARD:27
+APPLICANT: Farrah & William Nudera
+OWNER: Same
+PREMISES AFFECTED: 24 N. Throop Street
+SUBJECT: Application for a variation to reduce the front setback from the required 10.78' to 9',
+the north and south setback from the required minimum 2' to zero , the combined setback from
+4.19' to zero and the rear yard open space from 98.92 square feet to zero for a proposed 3-story
+single family residence with an attached garage.
+
+ 6
+129-11-Z
+ZONING DISTRICT: RS-3
+WARD:47
+APPLICANT: Eric & Colleen Mansell
+OWNER: Same
+PREMISES AFFECTED: 2171 W. Eastwood Avenue
+SUBJECT: Application for a variation to reduce the required front setback from 19.44' to 3.0',
+the required west side setback to 1.0' , the required east side setback to 2.5' for a combined total
+side setback of 3.5' instead of 7.48' and to reduce the required rear setback from 34.03' to zero for
+a proposed one and two-story single family home with a porch and entry stair, masonry wall and
+attached garage.
+130-11-Z
+ZONING DISTRICT: RT-4
+WARD: 32
+APPLICANT: Barry and Noelle Fischer
+PREMISES AFFECTED: 1230 W. Fletcher
+SUBJECT: Application for a variation to reduce the front setback from the required 15' to zero,
+the east and west side setbacks from 2' to zero and the combined side setbacks from 2' to zero
+also to increase the floor area ratio by not more than 15% of the non-conforming floor area of an
+existing two dwelling unit building, for a front addition to the existing building.
+131-11-S
+ZONING DISTRICT: RM-5
+WARD:28
+APPLICANT: New Morning Star Missionary Baptist Church
+OWNER: Same
+PREMISES AFFECTED: 3829-33 W. Adams Street
+SUBJECT: Application for a special use to permit the establishment of a proposed off-site
+parking lot to serve a religious assembly at 206 S. Hamlin.
+132-11-Z
+ZONING DISTRICT: RM-5
+WARD:28
+APPLICANT: New Morning Star Missionary Baptist Church
+OWNER: Same
+PREMISES AFFECTED: 3829-33 W. Adams Street
+SUBJECT: Application for a variation to reduce the east setback from the required 8.3' to 4.0'
+for an off-site accessory parking lot to serve a religious assembly at 206 S. Hamlin.
+
+133-11-S
+ZONING DISTRICT: B3-1
+WARD:36
+APPLICANT: El Taller Del Maestro
+OWNER: U.S. Bank & Trust, Trust No. 634
+PREMISES AFFECTED: 6000-02 W. Belmont Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed religious
+assembly.
+134-11-S
+ZONING DISTRICT: M1-2
+WARD:6
+APPLICANT: S & J Mobile Inc.
+OWNER: Same
+PREMISES AFFECTED: 7601 S. State Street
+SUBJECT: Application for a special use to permit the establishment of a proposed gas station
+with an accessory drive through car wash.
+
+ 7
+135-11-S
+ZONING DISTRICT: B3-1
+WARD:38
+APPLICANT: PNC Bank
+OWNER: Same
+PREMISES AFFECTED: 3839 N. Harlem Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed two lane
+drive-through to serve an existing bank.
+136-11-S
+ZONING DISTRICT: C1-1
+WARD:37
+APPLICANT: Darrell Haywood d/b/a/ North and Cicero Gold & More
+OWNER: Catherine Pavlatos
+PREMISES AFFECTED: 4739 W. North Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed valuable
+objects dealer license.
+137-11-S
+ZONING DISTRICT:B3-2
+WARD:1
+APPLICANT: Arden Fowler
+OWNER: Same
+PREMISES AFFECTED: 2700 N. Western Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed outdoor
+rooftop patio to serve an existing restaurant.
+138-11-Z
+ZONING DISTRICT: RT-4
+WARD:1
+APPLICANT: Mary Murzanski
+OWNER: Same
+PREMISES AFFECTED: 1324 N. Moorman Street
+SUBJECT: Application for a variation to reduce the front setback from the required 11.37' to
+7'-6", the front property line setback from 20' to 11'-6" for an attached garage off of Moorman
+Street, and to reduce the northwest setback from 8.72' to 2'-6" and the rear setback from 27.24' to
+zero for a three-story single family residence with an attached garage.
+139-11-S
+ZONING DISTRICT: RS-3
+WARD:16
+APPLICANT: SOS Children's Villages Illinois
+OWNER: City of Chicago
+PREMISES AFFECTED: 5008-10 S. Throop Street
+SUBJECT: Application for a special use to permit the establishment of a proposed group living
+transitional residence.
+140-11-S
+ZONING DISTRICT: RS-3
+WARD:16
+APPLICANT: SOS Children's Villages Illinois
+OWNER: City of Chicago
+PREMISES AFFECTED: 5012 -14 S. Throop Street
+SUBJECT: Application for a special use to permit the establishment of a proposed group living
+transitional residence.
+
+ 8
+
+141-11-S
+ZONING DISTRICT: RS-3
+WARD:16
+APPLICANT: SOS Children's Villages Illinois
+OWNER: City of Chicago
+PREMISES AFFECTED: 5016-18 S. Throop Street
+SUBJECT: Application for a special use to permit the establishment of a proposed group living
+transitional residence.
+142-11-S
+ZONING DISTRICT: RS-3
+WARD:16
+APPLICANT: SOS Children's Villages Illinois
+OWNER: City of Chicago
+PREMISES AFFECTED: 5013-15 S. Throop Street
+SUBJECT: Application for a special use to permit the establishment of a proposed group living
+transitional residence.
+143-11-S
+ZONING DISTRICT: RS-3
+WARD:16
+APPLICANT: SOS Children's Villages Illinois
+OWNER: City of Chicago
+PREMISES AFFECTED: 5017-21 S. Throop Street
+SUBJECT: Application for a special use to permit the establishment of a proposed group living
+transitional residence.
+CONTINUANCES
+410-10-A
+ZONING DISTRICT: RT-4
+WARD:43
+APPLICANT: Anthony and Julie Stamato
+OWNER: Middlefork Capital, LLC
+PREMISES AFFECTED: 1705 N. Dayton Street
+SUBJECT: An Objector's Appeal from the decision of the office of the Zoning Administrator in
+granting an administrative adjustment to the property at 1705 N. Dayton.
+29-11-S
+ZONING DISTRICT:B3-5
+WARD: 35
+APPLICANT: Avondale SLF, LLC
+OWNER: 3038-44 West Armitage, LLC
+PREMISES AFFECTED: 2000-08 N. Whipple Street / 3038-44 W. Armitage Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed 6 story
+elderly housing building.
+30-11-Z
+ZONING DISTRICT:B3-5
+WARD: 35
+APPLICANT: Avondale SLF, LLC
+OWNER: 3038-44 West Armitage, LLC
+PREMISES AFFECTED: 2000-08 N. Whipple Street / 3038-44 W. Armitage Avenue
+SUBJECT: Application for a variation to reduce the rear yard setback from 30' to zero, to
+eliminate the one required loading berth and to reduce the required parking spaces from 30 to 24
+for a 6 story elderly housing building.
+
+ 9
+31-11-S
+ZONING DISTRICT:C2-2
+WARD: 35
+APPLICANT: Avondale SLF, LLC
+OWNER: Ramon Zepeda
+PREMISES AFFECTED: 3059-61 W. Armitage Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed required
+accessory parking lot to serve a proposed elderly housing building at 2000-08 N. Whipple/
+3038-44 W. Armitage Avenue
+78-11-S
+ZONING DISTRICT:B3-2
+WARD:50
+APPLICANT: First Financial Credit Union
+OWNER: HCB Development, LLC
+PREMISES AFFECTED: 2936 W. Peterson Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed two lane
+drive through to serve a proposed one story financial institution.
+92-11-Z
+ZONING DISTRICT: RS-3
+WARD:32
+APPLICANT: Richard Ashbeck
+OWNER: Same
+PREMISES AFFECTED: 1219 W. Montana Street
+SUBJECT: Application for a variation to reduce the total combined setback from the required
+6.0' to 0.98' on the west with 1'- 5 3/4" on the east, to increase the floor area ratio by not more
+than 15% of the existing 5,253.13 by 787.96 square feet and to increase the height from the
+permit 30' to 32.4' for a third floor dormer addition.
+97-11-S
+ZONING DISTRICT:B3-3
+WARD:26
+APPLICANT: Cash America, Inc. of Illinois
+OWNER: Gabor Zsolnay
+PREMISES AFFECTED: 3201 W. North Avenue
+SUBJECT: Application for a special use to permit the establishment of a proposed pawn shop.
+
+ 

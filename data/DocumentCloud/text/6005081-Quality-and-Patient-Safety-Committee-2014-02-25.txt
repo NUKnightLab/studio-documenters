@@ -1,0 +1,2285 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, February 25, 2014 at the hour of 10:30 A.M. at 1900 W.
+Polk Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Collens called the meeting to order.
+Present:
+
+Chairman Lewis M. Collens and Director Wayne M. Lerner, DPH, FACHE (2)
+Director Ada Mary Gugenheim
+
+Present
+Telephonically: Director Luis Muñoz, MD, MPH (1)
+Absent:
+
+None (0)
+
+Chairman Collens stated that Director Muñoz was unable to be physically present, but was able to participate in
+the meeting telephonically.
+Director Lerner, seconded by Chairman Collens, moved to allow Director Muñoz to
+participate as a voting member for this meeting telephonically. THE MOTION
+CARRIED UNANIMOUSLY.
+Director Muñoz indicated his presence telephonically.
+Additional attendees and/or presenters were:
+Krishna Das, MD – System Director of Quality,
+Patient Safety, Regulatory and Accreditation
+Anwer Hussain, MD – Provident Hospital of Cook
+County
+Randolph Johnston –System Associate General
+Counsel
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+
+II.
+
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief of Clinical
+Integration
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+Sharon Welbel, MD – System Chief of Infection
+Control
+
+Public Speakers
+Chairman Collens asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report from System Chief Quality Officer
+A. Regulatory and Accreditation Updates
+Dr. Krishna Das, System Chief Quality Officer, provided an update on regulatory and accreditation visits.
+She stated that staff is awaiting visits from surveyors from The Joint Commission to the Ambulatory and
+Community Health Network of Cook County (ACHN) and to Provident Hospital of Cook County. She
+stated that, from a timing perspective, they are near the end of the window of time for the visit to ACHN, as
+the last survey took place in April.
+
+Page 1 of 46
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Tuesday, February 25, 2014
+Page 2
+
+III.
+
+Report from System Chief Quality Officer
+A. Regulatory and Accreditation Updates (continued)
+The other matter relates to a for-cause survey by Illinois Department of Public Health (IDPH) staff that took
+place in January, which was based on a patient complaint that was submitted to the Centers for Medicare
+and Medicaid Services (CMS). The official report has been received on the survey; the hospital was found
+to have no condition-level deficiencies in the report. She noted that, usually when they do a survey, they
+leave it up to the hospital administration to provide a response, which is due within thirty days; a response
+will be provided, with planned actions.
+
+B. Publicly Reported Ratings
+There were no updates to provide on this subject.
+C. Quarterly Quality Report – 4th Quarter 2013 (Attachment #1)
+Dr. Das provided an overview of the Quarterly Quality Report. The Committee reviewed and discussed the
+information.
+During the discussion of the information on slide 3 of the presentation, regarding Emergency Department
+(ED) wait to be seen time, Dr. Das stated that the target is currently set at 120 minutes. Last year the target
+was set at 150 minutes, but because the targets were being consistently exceeded, the targets were re-set one
+year ago from 150 to 120 minutes. Chairman Collens inquired regarding the baseline for hospitals that are
+comparable to Stroger Hospital. Dr. Das responded that CMS presents the national median, which is
+approximately 30-45 minutes. Staff has tried to get a median figure for the safety-net hospitals; she noted
+that the number will be higher than what is presented by CMS. Director Lerner recommended that staff
+contact America’s Essential Hospitals (formerly the National Association of Public Hospitals and Health
+Systems) or University HealthSystem Consortium (UHC) to see if they have any statistics in this area. He
+noted that, even if one were to do a composite of all safety net hospitals in Chicago, there is such variability
+that they would not be equivalent to Stroger Hospital. Dr. Das stated that she will contact them to get a
+baseline. Director Lerner remarked that it would be beneficial if, at some point in the future, the Committee
+can have a further discussion about the establishment of objective baselines1.
+With regard to the indicators on slide 3 pertaining to inpatient operational efficiencies, it was noted that both
+Stroger and Provident Hospitals have same targets. Director Lerner stated that, at some point in the future,
+once the operations improvement teams have been operating in both places, the Committee should do a
+deep dive on these issues to determine what is the realistic level to target in order to better treat patients,
+while recognizing that there will be ED frequenters and people coming into the ED for shelter. Dr. Das
+stated that she will provide a follow-up session on this subject2.
+With regard to the information presented on patient satisfaction, Chairman Collens inquired whether there
+are there one or two specific complaints that get mentioned in the surveys. Dr. Das stated that there are two
+major groups of drivers: the first group is related to cleanliness/environment; and the second group seems to
+be communication with nursing staff, along with several nursing-specific features. Dr. Das added that she
+would be happy to do a more detailed presentation on patient satisfaction in the future, together with the
+Chief Operating Officers3.
+
+Page 2 of 46
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Tuesday, February 25, 2014
+Page 3
+
+III.
+
+Report from System Chief Quality Officer
+C. Quarterly Quality Report – 4th Quarter 2013 (continued)
+Director Gugenheim inquired regarding the mechanisms in place to share this information with staff. Dr.
+Das stated that, last year, the administration had an initiative that took place around mid-year where it was
+shared with physician and nursing leadership at both hospitals; ACHN had a similar initiative where it was
+also shared with their leadership. When presenting to those groups, the administration asked that the
+information be shared with other groups, including the Executive Medical Staffs and within the
+departments, so that the data could be pushed down to the front line level. She noted that the nursing units
+actually post their nursing satisfaction data on every unit of the hospital, so employees can see where they
+are and how they compare to the other nursing units, and can see what changes they have been able to make
+over the year.
+During the discussion of the indicator on slide 7 regarding the percentage of patients incarcerated whose
+diabetes are being controlled (measure of diabetes controlled within target), there were several questions
+posed regarding the reasons why the target and actual outcomes data appear to be low. Several factors that
+influence the ability to control diabetes, including those specific to a jail setting, were mentioned, including
+the factor that diabetes treatment is never a perfect science - every diabetic detainee is treated, but like any
+other disease, the treatment is only effective to a certain degree.
+Dr. Das stated that this is a fairly aggressive target for diabetes control; 43% is reasonable – it is probably
+not ideal and should be better, but if one looks throughout the country, that is where the measures have been
+set. It was noted that this indicator is mandated by the Department of Justice. Dr. Ram Raju, Chief
+Executive Officer, provided additional comments. He stated that everyone is treated, but the question is
+regarding the measurement of outcome - how many diabetic detainees do better with treatment is what is
+being measured. Director Lerner remarked that this is exactly the kind of problem that he expects to see
+with CountyCare patients who have, in the past, gone without consistent care. Setting quality indicators for
+the CountyCare population will be critically important, but he stated that Chairman Collens brings up a
+good point - Board Members have to 1) understand the sequelae; 2) understand the impact of the outcome;
+and 3) understand the feasibility of achieving that outcome.
+During the discussion of the outpatient services indicators relating to ACHN, Dr. Das noted that a more
+detailed presentation can be made by representatives from ACHN on that subject in the future4.
+
+D. 2013 Report on Infection Control (Attachment #2)
+Dr. Sharon Welbel, System Chief of Infection Control, provided an overview of the 2013 Report on
+Infection Control. Subjects contained in the report included the following: Surveillance; Device-Related
+Infections; Surgical Site Infection; Multi-Drug Resistant Organisms; and Compliance Monitoring. The
+Committee reviewed and discussed the information.
+IV.
+
+Action Items
+A. **Medical Staff Appointments/Re-appointments/Changes (Attachment #3)
+Director Lerner, seconded by Chairman Collens, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+B. Any items listed under Sections IV, V and VI
+Page 3 of 46
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Tuesday, February 25, 2014
+Page 4
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+The reports from Dr. Ozuru Ukoha, President of the EMS of John H. Stroger, Jr. Hospital of Cook County,
+and from Dr. Anwer Hussain, President of the EMS of Provident Hospital of Cook County, were deferred to
+the meeting in March.
+
+VI.
+
+Closed Session Items
+A. **Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+The Committee did not recess the regular session and convene in closed session.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Collens declared that the meeting was
+ADJOURNED.
+
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Lewis M. Collens, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+1
+
+Follow up: Future discussion regarding the establishment of objective baselines. Page 2.
+
+2
+
+Follow-up: Future discussion regarding setting targets for inpatient operational efficiencies for both Stroger and
+Provident Hospitals. Page 2.
+
+3
+
+Follow-up: More detailed presentation on patient satisfaction to be made at future meeting. Page 2.
+
+4
+
+Follow-up: More detailed presentation to be made by representatives from ACHN on outpatient services
+indicators at future meeting. Page 3.
+Page 4 of 46
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+February 25, 2014
+
+ATTACHMENT #1
+
+Page 5 of 46
+
+ Key Quality Indicators
+Quarter 4 2013 Report
+Cook County Health and Hospitals System
+
+Quality and Patient Safety Committee
+Cook
+C
+k County
+C
+t Health
+H lth and
+d Hospitals
+H
+it l S
+System
+t
+B
+Board
+d off
+Directors
+February 25th 2014
+
+Page 6 of 46
+
+ Inpatient Services
+John H. Stroger, Jr. Hospital
+Provident Hospital
+Cermak Health Services
+
+2
+Page 7 of 46
+
+ Inpatient Services – Operational Efficiencies
+Indicator
+
+FY 2013
+Q1 Actual
+
+FY 2013
+Q2 Actual
+
+FY 2013
+Q3 Actual
+
+FY 2013
+Q4 Actual
+
+2013
+Target
+
+2013 Q4
+Variance
+
+Emergency dept. volume
+
+34,352
+
+34,073
+
+34,818
+
+32,775
+
+-
+
+-
+
+ED Wait to be seen (minutes)
+
+117
+
+110
+
+140*
+
+94
+
+120
+
+(22%)
+
+% Left w/o being seen (LWBS)
+
+9 5%
+9.5%
+
+7 5%
+7.5%
+
+9 3%
+9.3%
+
+7 8%
+7.8%
+
+8%
+
+(0 2%)
+(0.2%)
+
+Emergency dept. volume
+
+8,685
+
+8,881
+
+9,340
+
+8,804
+
+-
+
+-
+
+ED wait to be seen (minutes)
+
+156
+
+129
+
+117
+
+117
+
+120
+
+(2.5%)
+
+% Left w/o being seen (LWBS)
+
+11.2%
+
+7.3%
+
+8.6%
+
+7%
+
+8%
+
+(1%)
+
+92
+
+88
+
+79
+
+99
+
+24
+
+312%
+
+Stroger
+
+Provident
+
+Cermak Health Services
+Health Nurse face to face
+assessment completed (hours)
+
+3
+Page 8 of 46
+
+ Inpatient Services – Patient Satisfaction
+Affiliate/ Indicator
+
+CY 2013
+Q1
+Actual
+
+CY 2013
+Q2
+Actual
+
+CY 2013
+Q3
+Actual
+
+CY 2013
+Q4
+Actual
+
+2013
+Target
+
+2013 Q4
+Variance
+
+64%
+
+57%
+
+61%
+
+65%
+
+70%
+
+(5%)
+
+% Patients ‘definitely’ recommend
+this hospital
+
+56%
+
+55%
+
+58%
+
+68%
+
+70%
+
+(2%)
+
+Affiliate/ Indicator
+
+CY 2013
+Q1
+Actual
+
+CY 2013
+Q2
+Actual
+
+CY 2013
+Q3
+Actual
+
+2013
+Target
+
+2013
+Variance
+
+85%
+
+87%
+
+83%
+
+95%
+
+(12%)
+
+Stroger
+% Patients ‘definitely’ recommend
+this hospital
+
+Provident
+
+Cermak Health Services
+% of grievances responded to in 10
+days
+
+4
+Page 9 of 46
+
+ Patient Experience: Willing to Recommend
+Facility - Stroger
+100
+
+90
+
+80
+
+70
+
+60
+
+Rates
+
+Median (% compliance)
+
+5
+Page 10 of 46
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+1Q 2012
+
+4Q 2011
+
+3Q 2011
+
+2Q 2011
+
+50
+1Q 2011
+
+Pe
+ercentage o
+of responses
+s Definitely 'YES'
+
+Inpatient Services – Patient Satisfaction (Stroger)
+
+Goals
+
+ Patient Experience: Willing to Recommend
+Facility - Provident
+100
+
+90
+
+80
+
+70
+
+60
+
+Rates
+
+Median (% compliance)
+
+6
+Page 11 of 46
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+1Q 2012
+
+4Q 2011
+
+3Q 2011
+
+2Q 2011
+
+50
+1Q 2011
+
+Percentage o
+P
+of response
+es Definitely
+y 'YES'
+
+Inpatient Services – Patient Satisfaction (Provident)
+
+Goals
+
+ Inpatient – Quality of Care
+Affiliate/ Indicator
+
+CY 2012
+Q4
+
+CY 2013
+Q1
+
+CY 2013
+Q2
+
+CY 2013
+Q3
+
+2013
+Target
+
+2013 Q3
+Variance
+
+H
+Heart
+f il
+failure
+measures
+
+9 8%
+97.8%
+
+96 %
+96.7%
+
+96 6%
+96.6%
+
+9 2%
+97.2%
+
+9 %
+97%
+
+0 2%
+0.2%
+
+Pneumonia care measures
+
+85.2%
+
+95.6%
+
+89.2%
+
+91.5%
+
+95.5%
+
+(4%)
+
+Surgical care measures
+
+96.8%
+
+97.8%
+
+98.3%
+
+99%
+
+98.3%
+
+0.7%
+
+Heart failure measures
+
+92.4%
+
+94.2%
+
+91.9%
+
+100%
+
+97%
+
+3%
+
+Pneumonia care measures
+
+94 4%
+94.4%
+
+89 2%
+89.2%
+
+83 3%
+83.3%
+
+91 3%
+91.3%
+
+95 5%
+95.5%
+
+(4 2%)
+(4.2%)
+
+Surgical care measures
+
+98.9%
+
+98.7%
+
+99.1%
+
+97.4%
+
+98.3%
+
+(0.9%)
+
+Stroger
+
+Affiliate/ Indicator
+
+CY 2012
+Q4
+Actual
+
+CY 2013
+Q1 Actual
+
+CY 2013
+Q2 Actual
+
+CY 2013
+Q3 Actual
+
+2013
+Target
+
+2013 Q3
+Variance
+
+% patients incarcerated > 120
+days with HgA1C < 7%
+
+51%
+
+48%
+
+39%
+
+45%
+
+43%
+
+2%
+
+7
+Page 12 of 46
+
+ Outpatient Services
+Ambulatory and Community Health Network
+R th M
+Ruth
+M. R
+Rothstein
+th t i CORE Center
+C t
+Cook County Department of Public Health
+
+8
+Page 13 of 46
+
+ Outpatient Services – Operational Efficiencies
+Affiliate/ Indicator
+
+FY
+2012
+YE
+Actual
+
+FY
+2013
+Q1
+Actual
+
+FY
+2013
+Q2
+Actual
+
+FY
+2013
+Q3
+Actual
+
+FY
+2013
+Q4
+Actual
+
+2013
+Target
+
+Q3 2013
+Variance
+
+No. of days to 3rd next
+available appointment for new
+primary care – Oak Forest
+
+28
+
+40
+
+46
+
+51
+
+66
+
+30
+
+120%
+
+No. of patients referred and
+waiting
+iti > 21 d
+days ffor
+gynecology clinic
+
+1,686
+
+1,829
+
+1,210
+
+1059
+
+793
+
+1,200
+
+(34%)
+
+99%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+0%
+
+ACHN
+
+CORE
+% of new patient visits
+scheduled within 10 business
+days
+
+9
+Page 14 of 46
+
+ Outpatient Services – Quality of Care
+Affiliate/ Indicator
+
+2012 Q4
+Actual
+
+2013 Q1
+Actual
+
+2013 Q2
+Actual
+
+2013 Q3
+Actual
+
+2013
+Target
+
+2013 Q2
+Variance
+
+% of up-to-date vaccinations in
+children at 24 months
+
+78%
+
+NA
+
+68%
+
+75%
+
+72%
+
+3%
+
+% of diabetics age 18
+18-65
+65 with at
+least one HgA1C in the last year
+
+87%
+
+88%
+
+90%
+
+91%
+
+82%
+
+9%
+
+% of diabetics age 18-65 with
+HgA1C > 9
+
+24%
+
+26%
+
+24%
+
+23%
+
+<29%
+
+(6%)
+
+No. of eligible patients having
+routine opt-out HIV test
+
+17,943
+
+18,167
+
+17,865
+
+15,170
+
+% of patients on ART with most
+recent viral load of < 1000
+
+87%
+
+84%
+
+86%
+
+86%
+
+>90%
+
+(4%)
+
+ACHN
+
+CORE
+
+10
+Page 15 of 46
+
+ Oupatient Services – Patient Satisfaction
+Affiliate/ Indicator
+
+CY 2013
+Q1
+Actual
+
+CY 2013
+Q2
+Actual
+
+CY 2013
+Q3
+Actual
+
+CY 2013
+Q4
+Actual
+
+2013
+Target
+
+2013 Q2
+YTD
+Variance
+
+Moving through the clinic visit
+
+53%
+
+54%
+
+63.4%
+
+65.3%
+
+75%
+
+(9.7%)
+
+Ease of getting the clinic on the
+phone
+
+57.3%
+
+58.7%
+
+59.3%
+
+60.1%
+
+75%
+
+(14.9)
+
+ACHN
+
+11
+Page 16 of 46
+
+ ACHN Satisfaction
+Ease of Moving through the Clinic
+100
+
+60
+
+Rates
+
+Median (% compliance)
+
+12
+Page 17 of 46
+
+4Q 2013
+3
+
+3Q 2013
+3
+
+2Q 2013
+3
+
+1Q 2013
+3
+
+4Q 2012
+2
+
+3Q 2012
+2
+
+2Q 2012
+2
+
+40
+1Q 2012
+2
+
+Perce
+entage "Goo
+od"
+
+80
+
+ ACHN Satisfaction
+Ease of Reaching Clinic on the Phone
+100
+
+60
+
+Rates
+
+Median (% compliance)
+13
+Page 18 of 46
+
+4Q 2013
+
+3Q 2013
+
+2Q 2013
+
+1Q 2013
+
+4Q 2012
+
+3Q 2012
+
+2Q 2012
+
+40
+1Q 2012
+
+Percen
+ntage "Good
+d"
+
+80
+
+ Questions Wrap Up
+
+Page 19 of 46
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+February 25, 2014
+
+ATTACHMENT #2
+
+Page 20 of 46
+
+ Sharon Welbel, MD, System Chief of Infection Control
+February 25th, 2014
+Quality and Patient Safety Committee
+CCHHS Board of Directors
+
+1
+Page 21 of 46
+
+ Infection Control Department
+Chief: Sharon Welbel, MD
+Infection Control Practitioners
+Delia De Guzman, MSN, RN
+O f  D
+Onofre Donceras, MS, RN
+  S  R
+Gerry Genovese, MS, CIC, RN 
+Thelma Lim  MS  RN
+Thelma Lim, MS, RN
+
+2
+Page 22 of 46
+
+ Surveillance
+ Device Related Infection Surveillance
+
+
+
+
+
+Central line associated bloodstream infections (CLABSI)
+Bloodstream infections (BSI) Dialysis Unit
+Bloodstream infections (BSI)‐Dialysis Unit
+Ventilator associated pneumonia (VAP) 
+Catheter associated urinary tract infection (CAUTI)
+
+ Surgical Site Infections
+
+
+
+
+
+
+Heart surgery
+Obstetrics and Gynecology
+Laminectomyy (Back Surgery)
+g y
+T l K
+Total Knee replacemetn
+  l
+Colon
+
+ Multi
+Multi‐Drug Resistant Infections
+Drug Resistant Infections
+3
+Page 23 of 46
+
+ Page 24 of 46
+
+ 
+
+Central Line Associated Bloodstream Infections (CLABSI)  
+CLA
+ABSI Rate perr 1,000 Line Da
+ays
+
+January 2013 –October 2013
+5
+
+JSHCC SIR=0.363
+S CC S R
+
+4
+3
+2
+1
+0
+
+CLABSI Rate
+NHSN Pooled Mean
+# Line Days
+# CLABSI
+SIR
+
+TICU
+1.3
+1.9
+794
+1
+0.7
+
+SICU
+0.0
+1.4
+1411
+0
+0
+
+MICU
+0.9
+1.8
+2209
+2
+0.5
+
+CCU
+0.0
+1.3
+193
+0
+0
+
+NECU
+0.0
+1.3
+516
+0
+0
+
+BICU
+0.0
+3.5
+513
+0
+0
+
+PICU
+0.0
+1.8
+248
+0
+0
+
+MedSur
+0.9
+0.9
+4386
+4
+1
+
+NeoICU
+0.2
+1.6
+4647
+1
+0.4
+
+SIR= Standardized Infection Ratio=is a summary measure which compares the actual number of Healthcare Associated Infections 
+
+(HAI) in a facility with the baseline data for standard population. SIR >1.0 indicates more HAIs were observed than predicted, 
+conversely, SIR of <1.0 indicates that fewer HAIs were observed than predicted.
+NHSN‐ National  Healthcare Safety Network
+
+5
+Page 25 of 46
+
+ CCHHS Plan for Prevention of CLABSIs
+ Insertion
+ Hand hygiene
+ Catheter kit
+ Sterile gown, gloves, large drape, masks and caps
+S il  
+  l
+ l
+ d
+ 
+k   d 
+ Chlorhexidine for skin preparation
+ Maintenance
+ Site care with chlorhexidine
+Sit  
+  ith  hl h idi
+ Disinfection of catheter hubs, connectors, injection ports 
+ Chlorhexidine impregnated dressing
+ Bathe adult ICU patients with chlorhexidine
+ Remove nonessential catheters
+ Surveillance for CLABSI 
+ Risk assessment‐monitor effectiveness and compliance with 
+evidence based practice
+6
+Page 26 of 46
+
+ Catheter Associated Urinary Tract Infections (CAUTI)
+Catheter Associated Urinary Tract Infections (CAUTI) 
+January 2013‐October  2013
+CAU
+UTI Rate per 1,000 Catheter Days
+
+10
+
+JSHCC SIR=1.0
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+CAUTI Rate
+NHSN Pooled Mean
+# Catheter Days
+# CAUTI
+SIR
+
+TICU
+3.6
+32
+3.2
+1395
+5
+1.1
+
+SICU
+3.7
+3
+1631
+6
+1.2
+
+MICU
+2.3
+24
+2.4
+2988
+7
+1.0
+
+CCU
+0.0
+19
+1.9
+516
+0
+0.0
+
+NECU
+2.0
+4
+1010
+2
+0.5
+
+BICU
+7.8
+47
+4.7
+637
+5
+1.7
+
+PICU
+0.0
+22
+2.2
+148
+0
+0.0
+
+SIR= Standardized Infection Ratio=is a summary measure which compares the actual number of Healthcare Associated Infections 
+
+(HAI) in a facility with the baseline data for standard population. SIR >1.0 indicates more HAIs were observed than predicted, 
+conversely, SIR of <1.0 indicates that fewer HAIs were observed than predicted.
+NHSN‐ National  Healthcare Safety Network
+
+7
+Page 27 of 46
+
+ Page 28 of 46
+
+ 
+
+S i l Si I f i
+1/2013 10/2013
+Surgical Site Infections 1/2013‐10/2013
+p
+g y
+ Open Heart Surgery
+
+
+
+
+
+
+
+
+
+Deep Incisional‐0/108  (2.35%‐8.49%)*
+Superficial Incisional‐0/108
+Hysterectomy
+y
+y
+Deep Incisional‐0/237  (4.05%)
+Superficial 11/237 
+Laminectomy 2/134    (2.3%)
+Laminectomy‐2/134    (2.3%)
+Laminectomy rate decreasing since 2008
+Colon Surgery
+Deep Incisional‐0/121  (5
+Deep Incisional
+0/121  (5.59%
+59%‐9
+9.47%)
+47%)
+Superficial Incisional‐6/121 (4.9%)
+Hip Replacement Surgery‐0/24
+Knee Replacement Surgery‐0
+
+*NHSN Comparison Group
+
+9
+Page 29 of 46
+
+ Page 30 of 46
+
+ 
+
+Acinetobacter baumannii
+ACB5
+
+ACB41
+
+ACB40
+
+ACB34
+
+ACB32
+
+ACB24
+
+ACB23
+
+ACB 20
+
+ACB 16
+
+2013
+
+ACB11
+
+Typing Pending
+
+Not Typed
+
+10
+9
+
+CHG Intervention
+
+CHG/Cleaning Intervention
+
+Universal Gloving
+
+8
+7
+CHG‐ Unit Par Stocked
+
+PFGE T
+Type
+
+6
+5
+4
+3
+2
+1
+0
+Month
+Page 31 of 46
+
+11
+
+ Carbapenem‐Resistant Enterobacteriaceae (CRE) 2011 ‐ 2013
+KPC Home
+
+KPC Nursing Home
+
+KPC REALM
+
+E. coli Nursing Home
+
+KPC Hospital
+
+3
+ICU Screening
+
+# off Cases
+
+Automated isolation
+
+CHG Bathing LTACHs
+
+2
+
+1
+
+0
+
+12
+Page 32 of 46
+
+ Prevention Plan‐ CRE* 
+ Adhere to CDC recommendations
+ Preemptive contact precautions for patients admitted 
+
+ffrom long term care facilities
+ l
+ 
+ 
+ f ili i
+ Screening cultures for transfer patients (rectal and 
+wound)
+ Lab notifies system chief/ designee for all CRE
+ Lab policies on culture result indicating need for 
+isolation
+
+*Carbapenem Resistant Enterobacteriaceae
+Page 33 of 46
+
+13
+
+ H lh
+F ili O
+Cl
+idi
+diffi il Infections
+I f i
+Healthcare Facility Onset Clostridium difficile
+Standardiized Infectio
+on Ratio
+
+1 00
+1.00
+0.80
+0.60
+0.40
+0.20
+0.00
+2012
+
+2013 Q1 2013 Q2 2013 Q3
+
+SIR= Standardized Infection Ratio=is a summary measure which compares the actual number of Healthcare 
+d d d f
+h h
+h
+l
+b
+f
+lh
+Associated Infections (HAI) in a facility with the baseline data for standard population. SIR >1.0 indicates more 
+HAIs were observed than predicted, conversely, SIR of <1.0 indicates that fewer HAIs were observed than 
+predicted.
+14
+Page 34 of 46
+
+ Standardiized Infectio
+on Ratio
+
+Healthcare Facility Onset MRSA Bloodstream Infections
+4.0
+3.8
+3.6
+3.4
+3.2
+3.0
+2.8
+2.6
+2.4
+2.2
+2.0
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+2012
+
+2013 Q1
+
+2013 Q2
+
+2013 Q3
+
+SIR= Standardized Infection Ratio=is a summary measure which compares the actual number of Healthcare 
+Associated Infections (HAI) in a facility with the baseline data for standard population  SIR >1 0 indicates more 
+Associated Infections (HAI) in a facility with the baseline data for standard population. SIR >1.0 indicates more 
+HAIs were observed than predicted, conversely, SIR of <1.0 indicates that fewer HAIs were observed than 
+predicted.
+
+MRSA= Methicillin Resistant Staphylococcus Aureus
+Page 35 of 46
+
+15
+
+ MRSA S
+ill
+dP i i R
+MRSA Surveillance and Positive Rate
+
+Percen
+ntage
+
+% Compliance(Mean 97.1)
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+0
+
+48
+4.8
+
+54
+5.4
+
+% Positive (Mean=3.7)
+
+10.5
+0
+
+0
+
+0
+
+0
+
+Units
+16
+Page 36 of 46
+
+ Page 37 of 46
+
+ 
+
+Hand Hygiene Compliance Before Patient Contact
+Q1, Mean 68
+
+Q2, Mean 66
+
+Q3, Mean 73
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+0
+10
+0
+
+18
+Page 38 of 46
+
+ Hand Hygiene Compliance After Patient Contact
+Q1, Mean 80
+
+Q2, Mean 83
+
+Q3, Mean 82
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+0
+10
+0
+
+19
+Page 39 of 46
+
+ Healthcare Associated Infections 2013
+Healthcare Associated Infections 2013
+Summary
+Number
+of 
+Infections
+
+Device/
+Procedure/
+Patient Days
+
+Predicted 
+Number of
+Infections
+
+JSHCC
+SIR
+
+Illinoi
+s SIR
+
+U.S.
+SIR
+
+CLABSI
+
+8
+
+14,917
+
+22
+
+0.363
+
+0.524
+
+0.545
+
+CAUTI
+
+25
+
+8,325
+
+25
+
+1.0
+
+1.099
+
+1.127
+
+SSI‐Colon(DIP)
+
+0
+
+121
+
+9.9
+
+0
+
+0.706
+
+0.831
+
+SSI‐Abd. Hys.
+
+0
+
+237
+
+6
+
+0
+
+0.759
+
+0.903
+
+MRSA
+
+12
+
+89,316
+
+8.5
+
+1.4
+
+0.643
+
+1.019
+
+C. difficile
+
+27
+
+80,354
+
+54
+
+0.5
+
+0.962
+
+0.966
+
+((DIP))
+
+SIR= Standardized Infection Ratio.
+NHSN‐ National  Healthcare Safety Network
+
+20
+Page 40 of 46
+
+ Page 41 of 46
+
+ 
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+February 25, 2014
+
+ATTACHMENT #3
+
+Page 42 of 46
+
+ John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+ 
+
+Medical Staff and Non-Medical Staff Action Items Subject to Approval by the Quality and
+
+Patient Safety Committee
+
+Corrigan, Eliona, DO
+Appointment Effective:
+
+Gopireddy, Dheeraj Reddy, MD
+Appointment Effective:
+
+Gwinn, Elizabeth, MD
+Appointment Effective:
+
+Minutti, Carla, MD
+Appointment Effective:
+
+Roberts, John Mose, MD
+Appointment Effective:
+
+Siyvka, Roman, MD
+Appointment Effective:
+
+INITIAL APPOINTMENT 
+
+Radiology
+
+February 25, 2014 thru February 24, 2016
+
+Radiology
+
+February 25, 2014 thru February 24, 2016
+
+Trauma
+
+February 25, 2014 thru February 24, 2016
+
+Pediatrics/Endocrinology
+
+February 25, 2014 thru February 24, 2016
+
+Surgery/Ophthalmology
+
+February 25, 2014 thru February 24, 2016
+
+Anesthesiology/Pain Management
+
+February 25, 2014 thru February 24, 2016
+
+Initial Non-thsicign Appointment Application
+
+ 
+
+Telander, Kyle, 
+Appointment Effective:
+
+
+
+February 25, 2014 thru February 24, 2016
+
+APPLICATIONS
+
+Department of Correctional Healt_h Services
+
+Feldman, Elizabeth, MD
+Reappointment Effective:
+
+Medicine/Surgery
+March 16, 2014 thru March 15,2016
+
+Department of Emergency Medicine
+
+Lee, Moses, MD
+Reappointment Effective:
+
+Schabowski, Shari, MD
+Reappointment Effective:
+
+Department of Medicine
+
+DeMarais, Patricia L., MD
+Reappointment Effective:
+
+Dworkin, Mark 8., MD
+Reappointment Effective:
+
+Fegan, Claudia, MD
+Reappointment Effective:
+
+Kavinsky Clifford J., MD
+Reappointment Effective:
+Item February 25, 2014
+
+Quality and Patient Safety Committee Meeting
+
+Emergency Medicine
+March 15, 2014 thru March 14, 2016
+
+Emergency Medicine
+March 15, 2014 thru March 14, 2016
+
+Infectious Disease
+March 23, 2014 thru March 22, 2016
+
+infectious Disease
+
+February 25, 2014 thru February 24, 2015
+
+General Medicine
+March 22, 2014 thru March 21,2016
+
+Adult Cardiology
+
+March 16, 2014 thru March 15,2016
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Clinical 
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Consulting Physician
+
+Active Physician
+
+Voluntary Physician
+
+com
+Page 1 of 4 APPROVED
+BY THE QUALITY Atria Pimen- Comm
+page 43 Of 46 ON FEBRUARY 25, 201?
+
+John H. Stroger, Jr. Hosgital of Cook County
+
+Reaggointment Agglications
+
+Department of Medicine (continged)
+
+Kowalski, John A., MD
+Reappointment Effective:
+
+O?Brien, John M., MD
+Reappointment Effective:
+
+Saleem, Mohammad A., MD
+Reappointment Effective:
+
+Sefer, Vesna, MD, MPH
+Reappointment Effective:
+
+Tanwar,Sonia, MD
+Reappointment Effective:
+
+Degartment of Pathology
+
+Sekosan, Marin, MD
+Reappointment Effective:
+
+Utset, Manuel, MD
+Reappointment Effective:
+
+Valyi-Nagy. MD
+Reappointment Effective:
+
+Department of Pediatrics
+
+AI-Abdulla, Ra-id, MD
+Reappointment Effective:
+
+Kamat, Medha, MD
+Reappointment Effective:
+Department of 
+
+Matek, Deborah, MD
+Reappointment Effective:
+
+Degartment of Surgery
+
+Sriram, Krishnan, MD
+Reappointment Effective:
+
+infectious Disease
+March 22, 2014 thru March 21, 2016
+
+General Medicine
+March 22, 2014 thru March 21, 2016
+
+General Medicine
+March 17, 2014 thru March 16, 2016
+
+General Medicine
+March 22, 2014 thru March 21, 2016
+
+General Medicine
+April 30, 2014 thru April 29, 2016
+
+Pathology
+February 25, 2014 thru February 24, 2016
+
+Pathology
+March 15, 2014 thru March 14,2016
+
+Pathology
+March 15, 2014 thru March 14,2016
+
+Cardiology
+Neonatology/Fantus
+
+March 20, 2014 thru March 19, 2016
+
+Child Adolescent
+March 20, 2014 thru March 20, 2016
+
+Surgical Critical Care
+February 25, 2014 thru February 24, 2016
+
+Renewal of Privileges for Non-Magical Staif
+
+Anderson, Karla, 
+Reappointment Effective:
+
+Aschkenasy, Jeannie, 
+Reappointment Effective:
+
+Brenzinger, Mark A., 
+Reappointment Effective:
+Item February 25, 2014
+
+Quality and Patient Safety Committee Meeting
+
+Adolescent
+March 23, 2014 thru March 22, 2016
+
+Adolescent/Juvenile
+February 25, 2014 thru February 24, 2016
+
+Adolescent
+March 20, 2014 thru March 19, 2016
+
+Page 2 of 4
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Consulting Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Clinical 
+
+Clinical 
+
+Clinical 
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY COMMITTEE
+
+Page 44 of 46
+
+on FEBRUARY 25, 2014
+
+John H. StrogerI Jr. Hospital of Cook County
+Renewal of Privileges for Non-Medical Staff (continued)
+
+Buenaventura, Brian J., CRNA
+Effective:
+
+Canzona, John (Jack), 
+Reappointment Effective:
+
+Davis, Gregory, 
+Reappointment Effective:
+
+Goldstein, Deborah, CNP
+With Guerra, Yannis S., MD
+Effective:
+
+Hosek, Sybil G., 
+Reappointment Effective:
+
+Lewis, Gregory, 
+Reappointment Effective:
+
+Reyes, Margaret E., CNP
+With Smith, Nora M., MD
+Effective:
+
+Anesthesiology
+March 20, 2014 thru March 19, 2016
+
+- ACHN
+February 25, 2014 thru February 24, 2016
+
+
+February 25, 2014 thru February 24, 2016
+
+Medicine Endocrinology
+March 20, 2014 thru March 19, 2016
+
+Adolescent
+February 25, 2014 thru February 24, 2016
+
+Adolescent
+March 20, 2014 thru March 19, 2016
+
+Family Practice IACHN
+
+March 20, 2014 thru March 19, 2016
+
+Medical Staff Additional Clinical Privileges
+
+Percutaneous closure of atrial septal defect (ASD Closure) with proctoring:
+
+Ansari, Najamul, MD Medicine/Cardiology
+Kavinsky, Clifford, MD Medicine/Cardiology
+
+Medical Staff Status Change with no Change in Privileges
+
+Bienarz, Andre L., MD
+
+Item February 25, 2014
+Quality and Patient Safety Committee Meeting
+
+Obstetrics/Gynecology/M FM From Active to Voluntary physician
+
+Nurse Anesthetist
+
+Clinicai 
+
+Clinical 
+
+Nurse Practitioner
+
+Clinical 
+
+Clinical 
+
+Nurse Practitioner
+
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT Sum COMMITTEE
+
+on FEBRUARY 25, 2014
+
+Page 3 of 4
+
+Page 45 of 46
+
+ 
+
+ 
+
+Provident Hospital of Cook County
+Medical Staff Action Items Subject to Approval by the Quality and Patient Safety Committee
+
+INITIAL APPOINTMENT APPLICATION
+
+Roman, MD Anesthesiology Affiliate Physician
+Appointment Effective: February 25, 2014 thru February 24, 2016
+
+ 
+
+BEAPPOINTMET APPLICATION
+
+Department of Internal Medicine
+
+Charles, Lesley A., MD Infectious Disease Active Physician
+Reappointment Effective: February 25. 2014 thru February 24, 2016
+
+Fisher, Thomas L.. Sr., MD Dermatology Consulting Physician
+Reappointment Effective: March 28, 2014 thru March 27, 2016
+
+Medical Staff Status Change with no Change in Privileges
+
+Tai, Jahangir, DO Emergency Medicine From Voluntary to Active
+
+corms
+APPROVED
+
+BY THE QUALITY AN PATIENT SAFETY COMMITTEE
+
+Item a February 25, 2014 ON FEBRUARY 25, 2?14
+
+Quality and Patient Safety Committee Meeting Page 4 Of 4
+
+Page 46 of 46
+

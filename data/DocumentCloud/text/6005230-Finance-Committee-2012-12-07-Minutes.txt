@@ -1,0 +1,3629 @@
+Minutes of the meeting of the Finance Committee of the Board of Directors of the Cook County Health and
+Hospitals System held Friday, December 7, 2012 at the hour of 7:30 A.M., at 1900 W. Polk Street, in the Second
+Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman O’Donnell called the meeting to order.
+Present:
+
+Chairman Heather O’Donnell, JD, LLM and Directors Quin R. Golden, Edward L. Michael, Jorge
+Ramirez and Carmen Velasquez (5)
+Board Chairman David Carvalho (ex-officio), Director Hon. Jerry Butler and Mr. Donald Oder (NonDirector Member)
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Gina Besenhofer – System Director of Supply Chain
+Management
+Cathy Bodnar – System Chief Compliance and Privacy
+Officer
+John Cookinham – System Chief Financial Officer
+Susan Greene – System Interim Director of Managed
+Care
+Helen Haynes – System Associate General Counsel
+Bala Hota, MD – System Interim Chief Information
+Officer
+
+II.
+
+Randall Mark – System Director of Intergovernmental
+Affairs and Policy
+Terry Mason, MD – System Chief Medical Officer
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Tanda Russell – System Interim Chief Nursing Officer
+Deborah Santana – Secretary to the Board
+
+Public Speakers
+Chairman O’Donnell asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered public speakers:
+1.
+2.
+3.
+4.
+
+Katherine Ross
+Elizabeth San Juan
+Linda Martinez
+George Blakemore
+
+Nurse, John H. Stroger, Jr. Hospital of Cook County
+Nurse, John H. Stroger, Jr. Hospital of Cook County
+Nurse, John H. Stroger, Jr. Hospital of Cook County
+Concerned Citizen
+
+Following the presentation of public testimony by the first three speakers, during which the subject of nurse
+staffing for the recovery room at Stroger Hospital was referenced, Tanda Russell, System Interim Chief Nursing
+Officer, provided additional information on the subject. Under the Collective Bargaining Agreement with National
+Nurses Organizing Committee (NNOC), there is a provision for what is called “floating clusters”; the
+Catheterization (Cath) Lab is part of a floating cluster. Management tries to arrange for cross-training in the Cath
+Lab; she noted that this is a small unit. Part of the protocol for ST segment elevation myocardial infarction
+(STEMI) patients is that the staff has to include someone who has Advanced Cardiovascular Life Support (ACLS)
+training and critical care background, experience with pump management, and is available to support the Cath Lab
+when a STEMI is called. The primary goal for the operating room nurses was for them to support the PostAnesthesia Care Unit (PACU) staff. Management is aware of some retirements in the area and will continue to
+review and adjust the staffing model; she added that there is a constant evaluation of this, as management works
+through the critical hire issues throughout the organization. She noted that management has been more than
+willing to work with the NNOC on trying to look at how to best serve the patient, particularly in the Cath Lab. In
+the interim, the System still has to meet the patient needs and make sure the patients receive the appropriate level
+of care.
+Page 1 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 2
+
+III. Action Items
+A. Minutes of the Finance Committee Meeting, November 16, 2012
+Chairman Golden inquired whether there were any corrections to the minutes. Mr. Oder indicated that a
+correction needed to be made. He stated that, on page 5 of the minutes, in the last paragraph, the minutes
+reflected that there was a $53 million revenue deficit recorded in October; however, the $53 million figure
+relates to the overall deficit amount, which included a revenue deficit amount totalling $30 million. The $53
+million revenue deficit amount should be changed to $30 million. It was noted that this correction would be
+made to the minutes.
+Board Chairman Carvalho added that there were seven (7) subjects included in the minutes that indicate
+follow-up action.
+Director Michael, seconded by Director Golden, moved to accept the minutes of the
+Finance Committee Meeting of November 16, 2012, as amended. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. Contracts and Procurement Items (Attachment #1)
+Gina Besenhofer, System Director of Supply Chain Management, presented the requests for the Committee’s
+consideration. The Committee reviewed and discussed the requests.
+The following individuals presented additional information on the requests: Dr. Bala Hota, System Interim
+Chief Information Officer; and Cathy Bodnar, System Chief Compliance and Privacy Officer.
+With regard to request number 5, Director Michael inquired as to the risks associated with what the System is
+trying to accomplish over the next few years. Dr. Hota responded that the following are what he perceives to
+be potential risks: 1) changing requirements; 2) physician adoption; and 3) communication.
+In response to Board Chairman Carvalho’s question regarding Dr. Hota’s evaluation of the Cerner System, Dr.
+Hota stated that he is pleased with the Cerner System. The major deliverable this year was to achieve
+Meaningful Use - the System has met that deliverable for the hospitals, and is on the path towards meeting that
+deliverable for the providers.
+Dr. Hota stated that the System has achieved 40% in usage of electronic prescribing for the last quarter of the
+year; this level of usage promises greater results in the future, given that the function was turned on only one
+month ago. For a number of domains, the Cerner System is delivering. He noted that there are criticisms, but
+those are actually criticisms more related to the subject of electronic records at large.
+Director Michael noted that there were several requests for which the selection methodology was sole
+source/preferred provider. He stated that he did not want to minimize the difficulty of switching from one
+vendor to another in the laboratory, but as there is a significant amount of money to be spent over a 2-3 year
+period of time for the three laboratory contracts presented to this Committee today for consideration, he
+wondered whether the System may be leaving money on the table and may be spending more than needed for
+this type of testing, by not going through a competitive bid process. He stated that his comments are not
+directed at any one of the specific contracts; the purpose of his comments is to urge staff to take a more
+systematic look at the laboratory and its needs, and have a plan going forward as to how the System is really
+going to do this on a competitive basis.
+
+Page 2 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 3
+
+III.
+
+Action Items
+B. Contracts and Procurement Items (continued)
+With regard to Director Michael’s comments on the sole source contracts, Board Chairman Carvalho stated
+that Ms. Besenhofer should ensure that the end users are providing enough information to her to justify the sole
+source methodology selection for these types of contracts.
+With regard to request number 10, Board Chairman Carvalho asked Ms. Bodnar to provide additional
+information on the type of services provided under the contract. Ms. Bodnar responded that this will
+supplement to the Corporate Compliance Department’s knowledge base; when obscure questions come up or
+questions arise that require an extensive amount of research, the Department turns to an external resource to
+assist. This vendor is the Department’s “go-to” local consultant. She noted that, additionally, her department
+has agreements with some firms whose provision of services are much more expensive, and who are located
+outside of the Chicagoland area; the Department uses those firms based upon their knowledge base and their
+availability to research the questions. This contract is used on an as-needed basis.
+Director Golden, seconded by Director Velasquez, moved the approval of request
+numbers 1 through 10, under the Contracts and Procurement Items. THE MOTION
+CARRIED UNANIMOUSLY.
+
+C. Request to execute proposed Amendment #3 to the Intergovernmental Agreement between CCHHS,
+Cook County Board of Commissioners and the Illinois Department of Healthcare and Family Services,
+regarding payments to healthcare facilities (Attachment #2)
+Randall Mark, System Director of Intergovernmental Affairs and Policy, presented the item for the
+Committee’s consideration. The Committee reviewed and discussed the item.
+Board Chairman Carvalho noted that, in past Intergovernmental Agreements (IGAs) that have been negotiated
+with the State, the structure of the IGA led to the creation of a pot of dollars that the County and State share.
+One of the aspects of the negotiations has been: how much of the money does the State keep and how much
+does the County keep? With respect to the Section 1115 Waiver, it has been discussed in prior meetings the
+fact that the System is providing the State with the funds to provide the support to perform the enrollment
+activities associated with the Waiver, as it is required by State law that there be no expense incurred by the
+State from this Waiver. He inquired whether this Amendment provides to the State any additional funds out
+of the 1115 Waiver pot of dollars beyond that, or do all the funds come to the County, in this case? Mr. Mark
+responded that all the funds come to the County. He added that this Amendment relates to the reimbursement
+IGA that was executed in May of 2009; in this IGA and all amendments since, the State has asked for no
+additional fees or funds.
+Director Velasquez, seconded by Director Michael, moved to approve the proposed
+Amendment #3 to the Intergovernmental Agreement. THE MOTION CARRIED
+UNANIMOUSLY.
+
+D. Any items listed under Sections III and IV
+
+Page 3 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 4
+
+IV. Recommendations, Discussion/Information Items
+A. Update on the following projects:
+i. Section 1115 Medicaid Waiver Demonstration Project / CountyCare
+Susan Greene, System Interim Director of Managed Care, provided an update on the Section 1115 Medicaid
+Waiver Demonstration Project/CountyCare. She noted that a comprehensive review of the subject was provided to
+the Board two weeks ago; she addressed follow-up questions and discussion points from the Committee relating to
+her earlier review.
+Ms. Greene stated that they are in pre-enrollment phase. The State’s online application is ready; training occurs
+next week internally and with the Federally-Qualified Health Center (FQHC) partners that execute their contracts
+and return them by noon on Wednesday. Training will take place on Thursday and Friday, and applications can be
+started and submitted starting Monday, December 17th. There is a two-step phase in the application process – there
+is the initial contact with the potential eligible person, then they must follow-up with the documentation.
+Chairman O’Donnell asked for further information on efforts to keep everyone informed of the progress and when
+applications will begin to be taken. Ms. Greene stated that one of the challenges relating to the implementation is
+that the administration really wants to focus on enrolling the existing patients, so that they don’t get crowded out
+by new enrollees. There are a lot of activities that are currently taking place, including on-boarding the third party
+administrator (TPA) and developing a lot of the policies. The Board just recently approved the TPA contract, and
+operations by their staff began the day following the Board’s approval of the contract. The Request for Proposals
+(RFP) was posted for outreach and marketing activities; this is being handled by Marisa Kollias, System Interim
+Director of Public Relations, and Joy Wykowski, Chief of Staff to the Chief Executive Officer. They will be the
+ones developing the materials and the roll-out of the communications in January. Additionally, there is a link on
+the System’s website that provides some information on the subject, including some basic frequently asked
+questions, information on eligibility, and phone numbers to reach the call center.
+Ms. Greene stated that, starting Monday, Dec. 17th, staff will begin taking applications by phone; at that point,
+anyone can call and complete an application. Chairman O’Donnell strongly encouraged the administration to keep
+the community educated on the timeframe and how this program is being phased-in.
+Mr. Oder inquired whether there are any limitations on the services that the System is required to provide, in
+exchange for the capitation that the System is receiving. Ms. Green responded that there are some limitations; she
+offered to provide further information regarding the covered services1.
+Director Velasquez indicated that the impression is that the Waiver plan is not women-friendly; she stated that,
+when one views the ranges of eligibility and the kinds of services for which they would be eligible, it does not
+appear that there is a focus on women. Ms. Greene surmised that perhaps because an individual is not allowed to
+participate in two Federal waivers simultaneously, women in the 1115 Waiver will not have access, for example, to
+the Illinois Breast and Cervical Cancer Program (IBCCP) services. Ms. Greene added that she has been asked that
+question by others, and that seems to be the impression; perhaps a better job of clarifying that information needs to
+be done.
+Board Chairman Carvalho noted that a few years back, because of the limitations on the capacity of the County, the
+County stopped participation in the IBCCP as a screening mammogram provider and focused its energy on
+diagnostic mammograms; he believed that was originally planned as short-term. Since that is probably a covered
+service in the Waiver Program, he asked whether the System is engaging a provider to do screening mammograms.
+Dr. Terry Mason, System Chief Medical Officer, responded that the System has limited access for screening
+mammograms at the Stroger Hospital campus; some screening mammograms are done at Provident Hospital, and
+the plan is that when the System opens up the diagnostics center at Oak Forest Health Center, there is expected to
+be screening opportunities there. He stated that the issue with screening, even at other institutions, is that the wait
+Page 4 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 5
+
+IV. Recommendations, Discussion/Information Items
+A. Update on the following projects:
+i. Section 1115 Medicaid Waiver Demonstration Project / CountyCare (continued)
+for screening mammograms is over six months, even for women who are insured. The issue relates to the ability to
+find appropriate mammographic radiologists who can appropriately read and interpret the studies. The
+Metropolitan Chicago Breast Cancer Task Force has indicated that there are issues in the appropriate interpretation
+of these studies; there have also been some recent developments in screening and treatment that have come to light.
+Given all of those factors, the System plans to address the need with increased capacity at Oak Forest Health
+Center and Provident Hospital, but there may be a need to contract for additional screening mammographic
+services to meet the System’s requirements. Dr. Claudia Fegan, Chief Medical Officer of John H. Stroger, Jr.
+Hospital of Cook County, noted that, with regard to IBCCP, the System has been sending patients to that State
+program; routinely on a yearly basis, services under that programs cease to be available prior to the end of the year,
+because the State runs out of funds for those patients.
+Board Chairman Carvalho clarified that participation in IBCCP is an elective on behalf of the institution. Provision
+of whatever the System’s covered services under the Waiver is not an elective, it is required. To the extent that the
+System has developed that capacity, it has struggled to develop that capacity internally; for purposes of the Waiver,
+he asked whether the administration is going to contract externally for that service or whether the System is going
+to reassign that capacity that has been developed to meet the obligations to the Waiver population. Dr. Mason
+stated that it will be a combination of both, depending on the level of enrollment and the number of people versus
+the System’s capacity. Ms. Greene noted that the administration is contracting for external capacity. In light of all
+the research that shows tremendous disparity among women of color and white women, the admistration really
+wants to focus on digital mammography technology and the work that has been done out of Rush Medical Center
+through Anne Murphy’s project. She added that when the Request for Qualifications (RFQ) was released for the
+FQHCs, the administration asked the FQHCs to identify who their ancillary partners are, as the System was not
+wanting to disrupt existing patterns.
+Board Chairman Carvalho posed the following two questions: For persons who are enrolled in the Waiver, if they
+present in some other emergency room or at some other provider who is not part of the network that the System has
+negotiated, what happens? Secondly, as the State is just starting to move to implement the managed care element
+of the regular Medicaid Program, pursuant to the State law that requires them to move 50% of their people into
+some sort of managed care, the System will be presented with a dilemma – if the System is not the place that those
+persons are supposed to go under the Managed Care program, but they come to the System for care anyway, what
+does the System do? He noted that this has been a concern at the County for twenty years, regarding if and when
+the State moves a significant number of people who are enrolled in Medicaid into managed care. With respect to
+the persons who come to the System for care and are supposed to go somewhere else under the managed care
+program, does the System have to behave like any other health care organization which would say, “you’re in the
+wrong place, you need to go over to (your provider under the managed care program)”?
+Ms. Greene responded that, with regard to Board Chairman Carvalho’s first question, a provider notice is being
+sent to all providers State-wide, to inform them about CountyCare and to let them know that, with the exception of
+a true emergency, they will not be reimbursed for services without first notifying the System; notification will
+happen through the TPA like any insurance plan. When a CountyCare patient presents at any facility, at the time
+the facility staff performs the insurance verification, it will show the CountyCare information and the 800 number
+to call. All of that will be handled by the Utilizations Management and Provider Relations Department within the
+TPA; she noted that the System is responsible to reimburse other providers for true emergencies, but once a patient
+has been stabilized, the other provider is required to notify the System and discuss what is in the best interest of the
+patient.
+
+Page 5 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 6
+
+IV. Recommendations, Discussion/Information Items
+A. Update on the following projects:
+i. Section 1115 Medicaid Waiver Demonstration Project / CountyCare (continued)
+With regard to Board Chairman Carvalho’s second question, Ms. Greene responded that his question can be
+restated as follows: how prepared is the System for what the State is doing? She stated that the administration is in
+dialogue with the State about filling out an application to become a Managed Care Community Network (MCCN),
+so that the infrastructure that is being built will eventually be able to take advantage of enrolling additional
+populations. Board Chairman Carvalho stated that an MCCN is where the State allows an entity to look like an
+health maintenance organization (HMO) without having to go through the whole process of being a regulated,
+licensed HMO with the requirement for reserves. Ms. Greene stated that this is a provision particularly carved out
+for provider entities; there is one that currently exists - the Family Health Network.
+Chairman O’Donnell stated that she believes that the System also has to act like every other provider and be a
+participating provider in other managed care networks; it is incumbent on the System to do this, so that it is able to
+get reimbursed for those folks. Ms. Greene stated that, over the next year, a more comprehensive conversation
+should take place about how to participate with existing health plans.
+Board Chairman Carvalho noted that a point of concern for him, that dovetails with what has been discussed at the
+last couple of meetings, is regarding the unintended consequence when someone is assigned to a managed care
+entity by the State (either voluntarily or by default), and for whatever reason, that person continues to seek care at
+the County. In the past, if they were enrolled in Medicaid but not in a managed care organization, the System
+would get reimbursed fee-for-service; however, when they are enrolled in a Medicaid managed care organization,
+depending on the rules that the State implements, the System either may not get reimbursed for services provided
+to that person, or it may only receive a limited reimbursement.
+Board Chairman Carvalho indicated that the State has an interest in this issue, because when they reimburse the
+System, it is through the Intergovernmental Transfer (IGT); under this scenario, the State does well and the System
+does well. If the System is getting reimbursed even through a contractual way, let alone for unintentional care, the
+State is paying some other entity outside of the IGT, and then that entity is paying the System. There are a lot of
+issues embedded in that. He indicated that Ms. Greene understands all of those issues. The Board will need some
+policy recommendations on what to do under that scenario.
+Ms. Greene stated that she has been encouraging the State for quite a while to somehow fix the IGT formula so that
+the System can do its own match through third parties, so that it is able to be paid close to what its rate is when it
+contracts with third parties. She added that, so far, the State sees little claim activity from the HMOs that involve
+the System, but this activity will continue to grow. There needs to be legislative activity to address this issue, as
+this is a key factor in the System’s ability to be participants in other health plans.
+ii. Global Healthcare Exchange (GHX) contract management / electronic exchange system
+Ms. Besenhofer provided a brief update on the implementation of the GHX system. She stated that staff continues
+to validate the data on a daily basis. She noted that, at every facility and clinic, there are many items that have
+different manufacturers but are the same product – the System is paying different prices for each of these items
+independently. Of the 30,000 items used in the System, only 11,000 items have pricing data on them; therefore,
+staff has to contact each vendor to get all of the pricing information for existing items; because of the way the
+system works, without the pricing information, the requisitions will not process through the next time the item is
+needed.
+
+Page 6 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 7
+
+IV. Recommendations, Discussion/Information Items
+A. Update on the following projects:
+ii. Global Healthcare Exchange (GHX) contract management / electronic exchange system (continued)
+Staff is diligently working on that activity. Additionally, staff is in training mode. The year-end inventory for the
+JD Edwards System was done last weekend; staff will complete the beginning balance inventory in the weekend
+before the contract management system goes live (“go-live” scheduled for January 5th and 6th). A reconciliation
+between the two systems will need to be done – she’s a little bit concerned about this, as she is not sure what is in
+the JD Edwards inventory numbers. Implementation of this system will require a huge change in culture and
+process. There has been some resistance to the change; staff continues to work through those issues through
+education.
+Board Chairman Carvalho pointed out that part of the way that the System balanced its budget was to assume
+everything that Ms. Besenhofer has described is going to happen and save money. The budget assumes that this
+will all take place, so the Board needs to provide Supply Chain with support for this change. The change is not an
+elective thing to do; rather, it is an expected thing to do. The budget presumed it, and the System will incur
+inadequate appropriation for its expenditures if it does not achieve the savings expected as a result of the
+implementation of this system.
+iii. Meaningful Use
+Dr. Hota provided a brief update on Meaningful Use. He stated that the System attested for Medicare Meaningful
+Use on November 30th for year one. To do that, it had to prove that for ninety days, it was meeting the core metrics
+and menu items for Meaningful Use; these efforts were successful. Next, the System will be attesting for that same
+ninety day period for Medicaid for year two for the hospital; the System has until December 31st to do that.
+With regard to the eligible providers, staff is now starting to begin to number-crunch the data on the providers.
+There are two options for each provider: 1) attest for Medicare, and 2) attest for Medicaid. The requirements for
+the first option are that the provider has to have a National Provider Identifier (NPI) that is active, and that the
+provider bills Medicare. The amount received is a percentage of the Medicare reimbursement, up to a peak number
+of $24,000. If a particular provider has billed Medicare $24,000, then they will be eligible to receive the full
+Medicare subsidy. The requirements for the second option are that the provider has to have a 30% Medicaid payer
+mix for adult patients; for pediatric patients, a provider has to have a 20% Medicaid payer mix. With the Waiver,
+those patients will qualify as being Medicaid covered. There is a variable here - if the Medicaid enrollment for a
+particular provider allows them to exceed 30% of their payer mix, then they will be eligible for the Medicaid
+subsidy for Meaningful Use. That is important, because for each provider, the System can receive around $20,000
+extra in total subsidy. He noted that the Medicaid subsidy is better than the Medicare subsidy. Right now, staff is
+looking at the individual and counter-level payer mix by provider; they have a data set that shows those patients
+that are self-pay and who is eligible for the Waiver. Staff is looking at scenarios depending on the percentage of
+enrollment by provider to determine further opportunities for increased Meaningful Use subsidy.
+Board Chairman Carvalho noted that the percentage of Medicaid patients on the inpatient side is much higher than
+the percentage of patients on the outpatient side. He tested the following assumption. Part of the reason that the
+Board has always thought, although in the absence of a full mandatory financial screen on patients it cannot know
+for sure - part of the reason for the higher percentage of inpatient Medicaid patients is because for inpatient, there is
+retroactive eligibility coverage that the System can get for a patient who is admitted. For the outpatient side, if the
+patient is eligible for Medicaid but has not yet been enrolled, they get tallied as if they are self-pay.
+
+Page 7 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 8
+
+IV. Recommendations, Discussion/Information Items
+A. Update on the following projects:
+iii. Meaningful Use (continued)
+In fact, many of the System’s patients identified as self-pay on the outpatient side are likely to be Medicaid
+eligible; however, they are just simply not enrolled in Medicaid. The whole point of CareLink was to force
+everyone through a financial screen so that the persons who were eligible for Medicaid but not enrolled, could be
+enrolled in Medicaid. As noted in previous meetings, this is not yet being done for CareLink, as screening is only
+being done for a fraction of them. However, if that assumption is correct, then the System should do anything it
+can to get those Medicaid-eligible patients enrolled in Medicaid so that they show up in the tally as Medicaid rather
+than being self-pay – this would lift the System’s Medicaid percentage to the point where it would qualify for these
+Meaningful Use subsidies, for which it might not otherwise qualify because those numbers were lower. Dr. Hota
+concurred with Board Chairman Carvalho’s assumption.
+
+V.
+
+Report from System Director of Supply Chain Management (Attachment #3)
+A. Report of emergency purchases
+B. Report of procurement and non-procurement matters for
+FY2012 – 4th Quarter
+Ms. Besenhofer noted that there are no emergency purchases to report at this time; however, she informed the
+Committee that efforts are being made to contractually obtain the services of qualified staff for Human
+Resources for the urgent hires. The reason why there has not been the emergency purchase made yet is
+because staff has not identified a company with qualified staff who can come in and meet the System’s needs.
+Ms. Besenhofer presented the report of purchases made under the authority of the Chief Executive Officer for
+the period of September 2012 through November 2012. With regard to procurement and non-procurement
+matters, she stated that the administration is centralizing the process of these through Supply Chain; this will
+allow Supply Chain to report those to the Committee consistently, and allow them to manage the proper flow
+and execution of those contracts, as well. Going forward, Supply Chain will be presenting both the
+procurement and non-procurement matters executed under the authority of the Chief Executive Officer.
+Ms. Besenhofer noted that there are many Waiver-related contracts, upon which staff is currently working.
+Right now, the contracts are in various phases of development; there may be some that may need to go directly
+to the Board; she added that this depends on the timing and negotiations. A Special Meeting of the Board may
+need to be held in January, as there have been identification of some changes in needs of services or changes in
+scope for contracts that have received prior authorization by the Board that may need to be addressed.
+
+VI. Report from Chief Financial Officer (Attachment #4)
+John Cookinham, System Chief Financial Officer, presented his report, which included a review of the subject of
+uncompensated care. The Committee reviewed and discussed the information.
+Mr. Cookinham noted that he recently discussed the subject of screening for eligibility for CareLink with Dr. Ram
+Raju, Chief Executive Officer; he stated that the administration is going to work toward increasing the number of
+patients screened. Based on the number of unique patients that the System had last year and the number of people
+that were enrolled in the CareLink Program, he estimated that approximately 27% of the total patients were
+screened.
+Page 8 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 9
+
+VI. Report from Chief Financial Officer (continued)
+The Committee discussed the subject of compliance with State law for billing those patients who are Illinois
+residents and who don’t qualify for the CareLink Program; Board Chairman Carvalho noted that, at some point, the
+Committee will need to receive further information on the subject, following a review by the System’s General
+Counsel and Chief Compliance Officer, regarding the status of the System’s compliance with State law.
+Chairman O’Donnell inquired further regarding eligibility restrictions if the person has children. She inquired
+whether this restriction only applies to those who claim their children as a dependent. Mr. Cookinham stated that
+he was unsure. Chairman O’Donnell responded that it is important to clarify, because if a patient has a child and
+the other parent is claiming the child as a dependent, the patient would seem to still be eligible for the Waiver.
+Mr. Oder inquired further regarding the information relating to the 20% discount provided to Illinois residents who
+do not reside in Cook County. He stated that, based on the System’s charge-to-cost ratio, it appears that the System
+would not have to provide any discount; however, it is electing to provide the discount. Board Chairman Carvalho
+referenced the income levels cited in the information, and stated that this subject needs to be discussed further,
+from a policy standpoint2; he inquired why the System is providing a discount to State residents who reside outside
+of Cook County, above what is required by State law.
+The Committee discussed the subject of the number of patients receiving care at the System who reside outside of
+Cook County. Mr. Cookinham stated that, in recent years, a study was done of the System’s patients by zip code.
+He indicated that this study can be updated. Based on the zip codes of the patients, staff can identify those zip
+codes that are not located in Cook County. A volume of services for those zip codes can be obtained and then staff
+can make an attempt to reduce that figure to cost. Board Chairman Carvalho inquired as to the source of the data
+for the study. It was indicated that the zip code information is provided by the patient. He noted that it was
+previously mentioned that the System does not currently verify residence, so the figure previously cited as the
+amount of care provided to those patients who reside outside of the County (reported as approximately $20 million
+per year) may be based upon flawed data.
+With regard to the suggestion of eliminating co-payments as cited in the presentation (page 9), Chairman
+O’Donnell inquired whether the System has the authority to waive co-payments for Medicaid services. Mr.
+Cookinham responded affirmatively; however, he stated that the System does not have the authority to waive copayments for Medicare patients, so the System bills the patient for those co-payment amounts.
+If the System has the ability to bill the co-payment amount for Medicare patients, Chairman O’Donnell inquired
+why it does not have the ability to do so for Medicaid patients. The information presented indicated that the
+infrastructure is not in place to be able to collect the co-payment; however, the System has the infrastructure in
+place for Medicare patients. Mr. Cookinham responded that the co-payments for the CareLink Program was set up
+as a point-of-service $10 daily co-payment. The System has very limited areas for collecting money – cashiers are
+not located at the outer clinics or at the hospital-based clinics and Fantus. There would be a significant number of
+people that would need to be hired if the System adopted the point-of-service co-payment.
+Mr. Cookinham stated that another issue relates to the programming that was set up, providing that the System
+would send someone a bill for $10 for the co-payment if they were unable to pay it at the point of service. The
+System would send them a bill, which costs the System $1.75-$2.00 to send; if the payment was not made after
+sending three statements (each statement costing $1.75-$2.00) a decision had to be made about whether to place
+those bills with a collection agency based on that non-payment. There was also a question about whether the
+System would aggregate those services under a guarantor kind of approach. He noted that the amount of money
+that the System would collect, because it is not going to deny service, is not very significant, but the amount of cost
+to collect it would be significant.
+Page 9 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 10
+
+VI. Report from Chief Financial Officer (continued)
+Mr. Oder inquired as to whether Mr. Cookinham has an estimate of the amount of revenue the System would be
+foregoing, if the proposed change to the CareLink Policy regarding pharmacy co-payments was adopted. Mr.
+Cookinham responded that it was estimated in the past that the System would collect between $2.5-$3 million for
+the pharmacy program. With regard to Chairman O’Donnell’s question regarding the cost to implement the
+collection of that co-payment, Mr. Cookinham indicated that there is no additional cost – this is already being
+collected currently, at the time the prescriptions are filled. Part of the issue with the pharmacy program is that
+people are able to apply for CareLink and can be granted a pharmacy waiver; under the pharmacy waiver, the
+patient does not pay the $4.00 per prescription/$20.00 maximum per day for prescriptions. He added that there are
+people who elect to pay that co-payment; the System is collecting approximately $2 million per year for that.
+Chairman O’Donnell indicated that the Board did not adopt a policy requiring co-payments for financial reasons.
+Board Chairman Carvalho agreed. He stated that the Board adopted a policy under which the collection of
+payments is to be made at the point of service. The Board did not adopt this as a revenue raiser, they did it as an
+incentive driver. He referenced an earlier comment by Mr. Oder, in which he stated that it is no incentive to get
+people to enroll in Medicaid, CountyCare or CareLink by telling them that the System is going to waive the copayment, if the System is not actually collecting the co-payment from those who are not enrolled in those
+programs. The subject of collecting co-payments is one that has been around for quite a while – it has always been
+the case that cash management is hard to implement, the System does not have any cashiers in the right places, etc.
+The Board adopted a policy that said this is supposed to be done, but it is not being done. Chairman O’Donnell
+stated that this discussion goes back to the reason of why the Board decided to adopt the policy - perhaps that is
+where the discussion should start. She stated that the Committee will be revisiting the entire CareLink Policy, as
+well as discussing how to induce people to enroll in CountyCare. A discussion on the subject with the full Board
+will need to be held, if there is a recommendation made by the administration to consider amending the CareLink
+Policy that was approved by the Board.
+With regard to the Medicare co-payment collections, Mr. Cookinham presented additional information. He stated
+that the System bills for the Medicare co-payment. If the patient fails to pay this, the System turns it over to a
+collection agency. If the agency is unsuccessful in collecting, it returns those accounts to the System. At that
+point, the System is able to include those in its cost report and receive some reimbursement (possibly 70%) of the
+loss at that point in time. The amount that the County is able to put on its cost report is not terribly significant –
+although the Medicare co-payment amounts are much more significant than $10. He added that collection agencies
+will not typically accept accounts for placement that total less than $25.00. Chairman O’Donnell indicated that,
+because this is a recommendation for a change in policy, this discussion needs to be held at the full Board level.
+VII. Adjourn
+As the agenda was exhausted, Chairman O’Donnell declared the meeting ADJOURNED.
+Respectfully submitted,
+Finance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXX
+Heather O’Donnell, JD, LLM, Chairman
+
+Page 10 of 46
+
+ Minutes of the Meeting of the Finance Committee
+Friday, December 7, 2012
+Page 11
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+1
+
+Follow-up: Ms. Greene to provide further information regarding the covered services. Page 4.
+
+2
+
+Follow-up: for future discussion - from a policy standpoint, address the question of why the System is
+providing a discount to State residents who reside outside of Cook County, above what is required by State law.
+Page 9.
+
+Page 11 of 46
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+December 7, 2012
+
+ATTACHMENT #1
+
+Page 12 of 46
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM III(B) 
+DECEMBER 7, 2012 FINANCE COMMITTEE MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Fiscal Impact
+
+Begins 
+Affiliate /  on Page 
+System
+#
+
+Renew Grants
+
+1
+
+Illinois Department of Public  Service ‐ vision and hearing screening
+Health
+services
+
+Grant renewal 
+amount: 
+$40,420.00 CCDPH
+
+2
+
+Extend and Increase Contracts
+2
+
+City of Evanston, Health 
+Department
+
+Service ‐ lead abatement services
+
+$75,000.00 
+(grant funded) CCDPH
+
+3
+
+2
+
+City of Chicago, Department 
+of Public Health
+Service ‐ lead abatement services
+
+$400,000.00 (grant 
+funded) CCDPH
+
+3
+
+Amend, Extend and Increase Contracts
+3
+
+Anchor Mechanical, Inc.
+
+Service ‐ maintenance and repair of
+refrigeration and ventilation system
+
+4
+
+Carminati Consulting, Inc.
+
+Service ‐ professional services
+
+$300,000.00 
+
+SHCC
+
+4
+
+$55,425.00  System
+
+5
+
+$45,248,776.00  System
+
+6
+
+$1,848,731.82  System
+
+7
+
+$1,324,839.96  System
+
+8
+
+$955,584.00  System
+
+9
+
+Execute Contracts
+5
+
+Cerner Corporation
+
+Service
+‐
+software
+support,
+maintenance and enhancements
+
+6
+
+Ortho Diagnostic Systems
+
+7
+
+BD Diagnostics (Becton 
+Dickinson)
+
+Product and Service ‐ equipment,
+reagents and controls for HIV,
+Hepatitis and Cardiac Markers
+(Troponin and CKMB) testing
+Product and Service ‐ reagents and
+consumables for the proprietary BD
+Viper System
+
+8
+
+Xerox (formerly ACS)
+
+Service ‐ professional services
+
+IRIS International, Inc.
+
+Product and Service ‐ equipment,
+calibrators, controls and reagents for
+urinalysis testing
+
+$869,385.84 
+
+PHCC, 
+SHCC
+
+10
+
+HiQ Analytics, LLC
+
+Service ‐ professional
+(Corporate Compliance)
+
+$336,960.00  System
+
+11
+
+9
+10
+
+consulting
+
+Page 13 of 46
+
+  
+
+ 
+
+ 
+
+Cook County Health 8. Hospitals System
+
+SPONSOR:
+
+Sandra Martell, R.N., D.N.P.. Interim COO, 
+
+BOARD APPROVAL REQUEST
+
+EXECUTIVE SPONSOR: 
+Ram Raju. MD. Chief Executive Of?cer
+
+ 
+
+DATE:
+11/14/2012
+
+PRODUCT I SERVICE:
+Service -Vision and Hearing Screening Services
+
+ 
+
+TYITE OF REQUEST:
+Grant Contract Renewal
+
+VENDOR I SUPPLIER:
+Illinois Department Of Public Health, Spring?eld, Illinois
+
+ 
+
+ 
+
+ACCOUNT
+$0
+
+FISCAL IMPACT:
+
+GRANT FUNDED RENEWAL AMOUNT:
+$40. 420. 00
+
+ 
+
+CONTRACT PERIOD:
+07/01/2012 thru 06/30/2013
+
+CONTRACT NUMBER:
+33780409A
+
+ 
+
+ 
+
+SELECTION METHODOLOGY: I RFP I 
+
+
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+NIA
+
+. PRIOR CONTRACT HISTORY:
+
+The previous grant agreement with the Illinois Department of Public Health was for twelve (12) months from
+
+I thru 06/30/2012. The grant award was $40 320. 00 and it was approved by the Cook County Health and
+Hospitals System Board on January 27,2012.
+
+. NEW PROPOSAL JUSTIFICATION. .
+i As an Illinois state certi?ed health depaItment the Cook County Department of Public Health receives funding to -
+provide vision and hearing screening services prioritized to preschool aged children three (3) years Of age and older
+7 in licensed childcare facilities and preschool to ensure full participation in the educational environment. Children that I
+5 fall their initial screenings are rescreened. Children identi?ed with vision/hearing de?ciencies at the rescreen are
+3 referred for diagnostic evaluation and intervention. This service is not mandated by the State Of Illinois. .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he deferred liability for this agreement is $0.00.
+
+I TERMS OF REQUEST:
+This is a request to renew Grant Contract Number 33780409A in the amount of $40,420.00 from 07101/2012 thru
+
+APPROVED
+
+863.
+
+ 
+
+?r
+
+Carol Schneider. System Chief Operating Of?cer
+
+any? 
+
+5 John Cookinha?stem Chief Financial Of?cer
+
+I?lf? .. ..
+i coo: . .
+
+ 
+
+BOARD OF
+DIRECTOREBF THE COOK COUNTY
+HEALTH THAND ALS SYSTEM
+
+ 
+
+ 
+
+Request 
+
+
+ 
+
+0 Ambulatory a Community Health Network- Cermak Health Services - Department Of Public Health -
+- John H. Stroger. Jr. Hospital Of Cook County Oak Forest Health Center- Provldent Hospital - Ruth M.
+Rothsteln CORE Center -
+
+We Bring Health CARE to Your Community
+
+Page 14 of 46
+
+Revised 03/01/201 1
+
+ 
+
+ 
+
+ 
+
+.- Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR:
+
+Sandra Martell. R.N.. D.N.P., Interim COO, 
+
+DATE: PRODUCT I SERVICE:
+
+11/09/2012 Service -?Lead Abatement Services
+
+ 
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Extend and Increase Contract City of Evanston Health Department. Evanston Illinois
+
+City of Chicago. Department of Pu_blic Health Chicgg_. Illinois
+ACCOUNT FISCAL IMPACT GRANT FUNDED RENEWAL AMOUNT:
+544-260 $0 Special Fund- City of Evanston: 75,000.00
+City of Chiggo: $400,000.00
+CONTRACT PERIOD: CONTRACT NUMBER: 
+
+12/01/2012 thru 11/30/2013 06-42-387 City of Evanston
+
+06-42-388 City of Chicam)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+NIA
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+NIA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+i The Lead Poisoning Prevention Fund was adopted by the Cook County Board of Commissioners on November 21.
+2000, Resolution 
+
+NEW PROPOSAL JUSTIFICATION:
+
+These state certi?ed health departments were selected through grant application proposals and met the criteria and
+
+3 eligibility requirements established by the Lead Prevention Advisory Council (LPAC) and the Lead Poisoning
+Prevention Unit. The respective increases and extensions have been approved by the LPAC based on the
+
+performance of these entities to ensure the safe. effective and expeditious removal of environmental lead from the
+
+residential environments of children who have been exposed to this health hazard. This service is mandated by a
+
+Cook County Ordinance. not the State of Illinois.
+
+The deferred liability for this service is $0.00.
+
+. TERMS OF REQUEST:
+i This is a request to increase and extend contract number 06-42-387 in the a
+
+contract number 06-42- 388 with the City of Chicago In the amount of $400.00.
+1201-2012 through 11 3-0-2013 
+
+
+
+I C002 I SYSTEM 
+
+Carol Schneider, System Chief Operating Of?cer
+
+3 - Request#
+CFO: 2
+
+?1 John Cookinhaerystem Chief Financial Of?cer
+
+ 
+
+ 
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services 0 Department of Public Health 0
+- John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center- Provident Hospital - Ruth M.
+Rothetein CORE Center 0
+
+We Bring Health CARE 10- Your Community
+Revised 03/01/2011
+
+Page 15 of 46
+
+ 
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+EXECUTIVE seonson:
+
+Carol Schneider ChiefO 'ng Of?cer
+
+7
+
+  
+   
+   
+
+ 
+     
+
+SPONSOR:
+David LEED, AP, Director of Stroger Hoszlal
+
+Plant 
+
+James De isa. System Director of Plant Operatic
+
+    
+ 
+ 
+
+    
+  
+
+ 
+
+ 
+
+ 
+
+    
+    
+     
+    
+ 
+
+ 
+
+ 
+
+     
+     
+
+ 
+
+      
+ 
+
+DATE: PRODUCT I SERVICE:
+
+12/03/2012 Service;Maintenance and Repair of Refrigeration and Ventilation System
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Amend. Extend and Increase Anchor Mechanical, Inc., Chicago, IL
+
+Contract
+
+ACCOUNT FACILITY FISCAL IMPACT GRANT FUNDED I RENEWAL AMOUNT:
+
+879-333 Stroger Hospital $300,000.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+01/01/2013 thru 02/28/2013 08-53-233
+
+ 
+
+   
+
+ 
+
+   
+
+COMPETITIVE SELECTION METHODOLOGY:
+BID
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+   
+
+
+
+    
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+The previous contract number 08-53-0233 was sourced as a competitive bid and awarded to a single provider for a
+36 month time period from 02/16/2009 thru 02/15/2012. On 05/31/2012 the Cook County Health and Hospitals
+System Board approved an Amend, Extend. and Increase from 02/15/2012 thru 08/14/2012 in the amount of .
+- $636,397.98. An Amendment to extend the end date to 11/30/2012 was executed by Supply Chain Management on
+
+8/15/2012. An additional Amendment to extend the end date to 12/31/2012 was executed by SCM on 11/19/2012. 
+
+  
+      
+    
+   
+   
+ 
+
+NEW PROPOSAL JUSTIFICATION: .
+
+This request is necessary to cover maintenance, repair and replacement of the refrigeration and ventilation
+
+. equipment at Stroger Hospital as per speci?cations in the original contract. A RFP was posted with requirements for
+. a new contract but upon evaluation there was only one responder. It is necessary to request an extension and
+increase to the existing contract to give us the proper time to rede?ne the requirements for this RFP. Due to the
+increase in maintenance requirements we are increasing the average dollars required. We are requesting
+an amendment to extend and increase the contract in the amount of $300,000.00 for the time period 01/01/2013 thru
+. 02/28/2013.
+
+ 
+       
+   
+     
+     
+ 
+
+TERMS OF REQUEST:
+i This is a request to extend and increase contract number 08-53-233 in the amount of $300,000.00 for a period of 2
+months from 01I01I2013 thru 0212812013.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT PM ROVED
+
+?l 4i 201?.
+
+1.4 
+
+   
+
+ 
+
+     
+
+ATTA HMENTS
+BID TABULATIONS: NIA
+
+r2.
+
+       
+
+ 
+  
+  
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+     
+
+1 CONTRACT COMPLIANCE MEMO: Pending
+av aoArtonoE. COUNTY
+CFO: DIRECTORS or ungnwutm
+John Cookinham, stem Chief Financial Of?cer HEALTH AND H08 8 
+Request 
+3
+
+CEO:
+Ram Raju. MD, Chief Execljitive ailicer
+
+ 
+
+ 
+  
+
+ 
+ 
+
+ 
+
+- Ambulatory 8. Community Health Network - Cerrnak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Hospital - Provident Hospital - Ruth M. Rothetein
+CORE Center .
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 16 of 46
+
+THE BOARD OF COMMISSIONERS
+
+ 
+
+COOK 
+OFFICE OF CONTRACT COMPLIANCE
+
+ 
+
+TONI PRECKWINKLE
+
+SHANNON ANDREWS
+5mm corms 1st mu. perm N. our our. DIRELTOR
+ROBERT STEELE 2nd m1 amneer omen rum rm
+JERRY omen 3rd or: Joan P. our mu on
+mum: M. swans en mar. JOHNA. rrmnev ran on "8 North Gar}: Sym' Room 302"
+DEBORAH sure am Dist. mar summon: 13m oer. Chicago, 60602?1304
+JOAN mm mm so oer. cases occur: 14m Dist. -
+mm we commit $333332;
+sow?: saves on Dist. JEIHEV a module 1am on. . 3 3
+
+U11
+
+December 5, 2012'
+
+Ms. Regina Besenhofer
+
+System Director
+
+Supply Chain Management
+
+Cook County Health and Hospital System
+1900 West Polk Street
+
+Chicago, 60612
+
+Re: Contract No; 0863-233 (Amendment to Extend and increase month)
+
+. Dear Ms. Besenho?fer:
+
+The following bid for the above referenced contract has been reviewed for compliance with the General
+Conditions regarding the Minority and Women Owned Business Enterprises Ordinance and has been found to
+be responsive to the Ordinancesupporting a 25% MBE and 10% WBE goal.
+
+ 
+
+Contractor: 7 Anchor Mechanical
+
+User Dept: Buildings &'Gmunds - John H. Stroger Hospital
+
+Contract Amount: 
+
+Description: Services Refrigeration and Ventilation Maintenance Services
+
+Term: 1 Month 
+
+Status Percen_t'g_ge of Particinatign
+Fullerton Industrial Supply County) 10% Direct
+Group, inc. 25% Direct
+Sincerely,
+
+wom?
+
+Shannon E. Andrews
+Contract Compliance Director
+
+SENpgb
+
+Printed on Recycled Paper
+
+Page 17 of 46
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+ 
+
+ 
+
+ 
+      
+     
+    
+
+ 
+
+  
+     
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+       
+     
+
+ 
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+     
+ 
+
+ 
+
+  
+   
+
+BOARD APPROVAL REC UEST
+1 SPONSOR: EXECUT '13" 
+Cathy Bodnar, System Chief Compliance Privacy Off-"g1 NIA 3 
+Regina M. Besenhofer, System Director Supply Chain Carol Schneider, System Chief Operating Of?cer I
+. Management I
+i DATE: PRODUCT I 
+11/20/2012 Service - Professional Services 
+i TYPE OF REQUEST: VENDOR I SUPPLIER: I
+. Amend, Extend and Increase Contract Carminati Consultin Inc., ChicagngL
+ACCOUNT: FISCAL IMPACT: GRANT AWARD I RENEWAL AMOUNT: I
+890-260 $55,425.00 NIA 
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2012 thru 07/31/2013 H12-72-0008
+COMPETITIVE SELECTION METHODOLOGY:
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source/ Preferred Provider
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+i PRIOR CONTRACT HISTORY:
+
+Cook County Health 8. Hospitals System entered into a contract at the request of the Public Affairs
+department to do the redesign of the website. The Supply Chain Management Department and the Corporate
+Compliance Department also had web redesign requirements in order to support the need for information sharing .
+and transparency. In an effort to be consistent and standardized, it was decided that the original vendor would be I
+utilized for their web redesign as well. These services have included project management, application development, 1
+graphic design and content editing and writing. The original contract period was from 03/07/2012 thru 03/06/2013 in
+the amount of $37,525.00. The contract was amended by the System Director Supply Chain Management on
+06/06/2012 for additional design work in the amount of $53,000.00. On 09/28/2012, the Board approved an
+Amend, Extend and Increase in the amount of $109,126.00 and extended the contract to 07/31/2013. The total
+amount on this contract was increased to $199,651.00.
+
+ 
+   
+    
+
+ 
+ 
+     
+
+ 
+ 
+
+ 
+    
+
+ 
+   
+ 
+
+ 
+ 
+
+NEW PROPOSAL JUSTIFICATION: . 
+Carminati Consulting, Inc was chosen to maintain and enhance the web design services to the Cook County Health
+and Hospitals System public website. This specific request to increase the contract is being made for Supply Chain
+Management in the amount of $35,425.00 for increased capabilities for vendor registration, vendor tracking and
+reporting and the Corporate Compliance Department in the amount of $20,000.00 to provide assistance with
+electronic learning management through the conversion of internally developed PowerPoint presentations to
+Captivated 6.0 software to achieve SCORM and AICC compliance. This request is to support an increase to the
+existing contract in the amount of $55,425.00 bringing the overall contract spend total to $255,076.00.
+
+       
+   
+ 
+    
+ 
+ 
+      
+
+TERMS OF REQUEST:
+This request is to amend and increase contract number in the amount of $55 42
+
+from 12/01/2012 thru 0713112013. 
+
+.
+I CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSI E: Pending
+0a; 1 4 23012
+
+ 
+ 
+
+        
+
+ATTA HMENTS
+BID TABULATIONS:
+CONTRACT COMPLIANCE MEMO: fending
+
+    
+ 
+
+av BOARD or
+W3 THECOOK 
+OF i
+
+   
+
+ 
+
+ 
+ 
+
+CFO:
+
+Joh k' ha stem 0 ief Financial Officer I
+Go In i .1 Request# 
+
+CEO: 4
+
+Ram Ra'u M.D. Chiebexebutivefficer
+
+   
+
+ 
+
+   
+
+Ambulatory 8. Community Health Network - Cen'nak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospth of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothetein CORE Center 0
+
+We Bring Heaith CARE to Your Community -
+
+COUNTY OF COOK.
+
+THEBOARD OF COMMISSIONERS BUREAU OF mums
+
+SHANNON E. ANDREWS
+
+ 
+
+32:33:15 Bridget Game' 1111:0151.
+P. 11 Dist 
+mama: S?El'st. 332?? moist. CTOR
+Willim hl Beavers 1" Dist. mee Si?radin 13* [El
+Dahlia Sims 9 DEL Gags Gain . 14? county Building 
+Jon P. 0" But. 0. Sell ad 19M
+. Jul?m r- ust Jam?s. Tohgki tenors: . 118 North Clark Street; Room 1020
+Eel-h Reyes . all Diet. Elam Ann 17"Disr. Chime, Illtmis 60502-1304
+TEL: (312) 603-5502
+
+December 4, 2012
+
+Ms..Gina Besenhofer
+SystemDErector Supply Chain Management
+Cook County Health Hospitals System
+. 1900 W. Polk Street
+Chicago, 60612
+
+Re: Contract No.: H12?72?00081Amend, Extend and Increase Contract
+Commodity: Service Web Development and Survey Tool
+Department. Corporate Compliance and Pubic Affairs
+
+Term; Extension 12101/12 07/31? 3
+
+Dear Ms. Besenhofer:
+
+The following bid for the above referenced Contract has been reviewed for compliance with the General Conditions 
+regarding the Minority and Women Owned Business Enterprises Ordinance and has been found to be responsive to the
+
+supply goals of 25% MBE and 10% WBE participation.
+
+Bidder Canninati Consulting. inc, Chicago, IL
+Increase Amount $55,425.00 (Total with Increase: $255,076.00)
+
+MIWBE Status Particmlion Germ ing Agency
+Carminati Consulting, lnc., Chicago, EL WEE 100% - Direct CC
+
+The Of?ce of Contract Comptiance has been adviced by Purchasing that no other Bldder(s) are being.
+recommended for award. .
+
+Sincerely,
+
+men
+
+Shannon E. Andrews
+Contract Compliance Director
+
+SEA/tar
+
+Page 19 of 46
+
+ Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Bala Hota. MD, Chief Medica n?nnation Officer/Chief Ram Raju, MD, Chief Executive Of?cer.
+
+
+ 
+
+lnfon'nation Of?cer 
+
+DATE: PRODUCT I SERVICE: 
+
+10/29/2012 Service- Software Support, Maintenance and Enhancements
+
+TYPE OF REQUEST: SUPPLIER:
+
+Execute Contract Cerner Corporation, Kansas City, MO 
+
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED I RENEWAL AMOUNT:
+890-441 $45,248,776.00 NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+01/01/2013 thru 12/31/2015 H13-25-001
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITNE SELECTION METHODOLOGY:
+
+1 Sole Source! Preferred Provider
+
+i PRIOR CONTRACT HISTORY:
+
+Contract number H11-25-062 was approved by the Board on 07/29/2011 for the period Of 08/01/2011 thru
+
+07/31/2012 in the amount of On 02/24/2012 a request to amend and increase contract number
+
+H11-25-062 in the amount of $2,099,667 was approved for PowerChart Ambulatory installation and training and on
+06/29/2012 a request to extend and increase in the amount Of $7,000,000 was approved, bringing the total contract
+am0unt to 519.859.854.53.
+
+ 
+
+ 
+
+ 
+
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This is a request to provide continued maintenance, support and managed services resources for Cerner 
+PowerChart, which is the electronic medical record computer system being used throughout the Cook County Health
+i and Hospitals System Entering into a three year contract will provide an estimate savings Of The
+cost savings will be achieved through the conversion Of subscriptions for the software to term licenses which enables
+a better fee structure. as well as reductions in annual cost increases. This proposal encompasses software for the i
+key upcoming priority areas of Meaningful Use Stage 2, Conversion, and Services for the Patient Centered .
+3 Medical Home. This new contract contains pricing for the installation, training, maintenance and personnel necessary .
+to enable conversion to the new software solutions. as well as customization to meet clinical needs, the promotion of 
+. full adoption of these solutions. and development of a self-sustaining environment in order to maximize the use of the
+electronic record. 
+
+TERMS OF REQUEST:
+This is a request to renew contract number in the amount of $45,248,838.00 for a three (3) year period
+from 01/01/2013 thru 12/31/2015.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT 
+TAPPROVED
+
+ATTACHMENIS
+. BID TABULATIONS: NIA
+
+CONTRACT COMPLIANCEM 0: Pending 953 2012
+C003 BY BOARD OF
+
+Carol Schneider, stea( Chief Operatin Officer TORS OF THE COOK COUNTY
+AND HOSPITALS SYSTEM
+
+Request 
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services . Department Of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothetein CORE Center -
+
+We Bring Humps/3552i? geaaCOmmun'W W--. 
+
+COUNTY OF COOK
+
+THE BOARD OF COMMISSIONERS . BUREAU OF- FINAN CE
+
+ 
+
+KWINKLE .
+TOM PREC 5 PRESIDENT omen 0F comer COMPLIANCE
+?nm? megs-r SHANNON ANDREWS
+Stub E531 . .11 DH.
+Jerry Butter on! Did. ?zk 12? Did. DIRECTOR
+more.? are scream are 
+. . . . . . Comty Buiding
+315.53%? 52E ESE: 113 Room103i,
+. 3? Dong- Gan-an 1 id. - . . Chicago, 80602-1304
+TEL: (312) macaw
+December 5 2012
+
+Ms. Gina Besenhofer
+
+System Director Supply Chain Management
+Cook County Health a Hospitals System
+1900 W. Polk Street
+
+Chicago, Illinois 60612
+
+Re: Contract lPrefened Provider
+
+Commodity: Software Support Maintenance and Enhancements
+Department 
+Term: o1m1/13mm12r31r15
+
+Dear Ms. Besenhofer. 
+
+.The following bid for the above referenced contract has been reviewed for compliance 'with the General Conditions
+
+regarding the Minority and Women Owned Business Enterprises Ordinance. In accordance with the Preferred
+Vendor process, this purchase did not require a competitive bid and based on needs, the preferred vendor has
+
+been found to be responsive.
+
+Preferred Provider. Cerner Corpora?oe, Kansas City, MO
+Amount $45,248,77600 (MBEIWBE Partitipation based on the non-proprietary perlion of the contract $5,738,179.00.)
+
+ 
+
+MIWBE Status Participation Cem' 'ng Ageng
+
+R.L Can hing, lnc., Chicago, tL MBE (9) 21.00% - Direct COC 
+
+lyka Enterprises. Inc, Aurora, lL MBE (8) 4.00% - Direct Pending COC and Pending CC
+Advotek, lnc-., Downers Grove, IL 6.90% Direct CC
+
+Smart Technology ServiCes, Chicago. lL MBE (6) 3.49% Direct Pending COC and Fencing CC
+411 Solutions lntemational, Hodgkins, lL WBE 2.11% Direct CC
+
+Waiver Granted:
+
+Partial waiVer granted based on good faith efforts.
+
+The Of?ce of Contract Compliance has been advised by Purchasing that no other Preferred Provideds) are
+being recommended for award.
+
+Sincerely, . .
+Shannen E. Andrews
+
+Contract Compliance Director
+
+SEAflar
+
+Page 21 of 46
+
+ 
+
+Cook County Health Hospitals System
+
+BOAR 25 ROVAL REQUEST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- I
+SPONSOR: l/Il 7137!] ECUTIVE SPONSOR: 
+Joanne Marcichow-Duls System Director Laborato Carol Schneider, System Chref Operating Of?cer
+DATE: PRODUCT I SERVICE:
+Product/Service: Equipment, Reagents and Controls for HIV, Hepatitis and
+11/19/2012 Cardiac Markers_(Troponin and CKMB) Testing
+TYPE OF REQUEST: SUPPLIER:
+Execute Contract ORTHO Diagnostic Systems, Raritan, NJ
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED I RENEWAL AMOUNT:
+890-385 $1,848,731.82 NIA
+CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2013 thru 12/31/2014 H12-73-071
+COMPETITIVE SELECTION METHODOLOGY:
+NIA
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source Preferred Provider
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+Current contract number H10-25-090 allows ORTHO Diagnostic System to provide equipment, controls, reagents. and
+consumables for HIV, hepatitis, Troponin and CKMD (cardiac markers) tests performed at Stroger Hospital Chemistry
+3 Laboratory for 24 months from 1110112010 thru 10/31/2012 in the amount of $1,930,735.01. This contract was
+
+approved by the Cook County Health and Hospitals System Board on 10/28/2010.
+NEW PROPOSAL HISTORY:
+
+The request to execute contract number will allow ORTHO Diagnostic Systems to provide equipment,
+equipment maintenance, reagents, and controls to the John H. Stroger Hospital Chemistry Laboratory for HIV, hepatitis,
+
+ 
+  
+
+ 
+    
+
+i troponin and CKMB (cardiac markers) testing. There is a decrease in funds from the previous contract amount due to a i
+
+CONTRACT COMPLIANCE MEMO: Pending
+A
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPON IVAPIPIROVED
+
+decrease in utilization of one of the cardiac enzymes as a result of revised protocol in the use of the test. This was a
+
+collaborated effort between the Emergency Department and Stroger Hospital Laboratory.
+
+TERMS OF REQUEST:
+
+This request is to execute contract number in the amount of $1,848,731.82 for the 24 month period from
+
+01/01/2013 thru 12/31/2014. 
+
+ 
+
+AW 
+BIDTABULATIONS: NIA 14230115
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+- BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+CFO: HEALTH AND HOSPITALS SYSTEM
+John Cookinh yste hief Financial Of?cer .
+CEO:
+Rem Raju, MD, Chief Exec iv Of?cer
+Request 
+6
+
+- Ambulatory 8. Community Health Network - Cermak Health Services 0 Department of Public Health -
+. John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital . Ruth M.
+Rothataln CORE Center -
+
+We Bring Health CARE to Your Community
+
+Revised 03/01/201 1
+
+Page 22 of 46
+
+THE BOARD OF COMMISSIONERS
+
+COOK COUNTY
+OFFICE OF CONTRACT COMPLIANCE
+
+ 
+
+TONI PRECKWINM
+SHANNON ANDREWS
+EARIHIN cuLuus ls! Dist. Fatal :1 an DisL DIRECTOR
+arm: 2nd Dist. amuse-r suntan mm nu
+nv BUTLBI 3111 Dist. JOHN P. mam 11th on.
+mum u. canvass 4m D'a?l. Jami A. ens-rota 12m on. ?8 th Clark Room 1020
+afghan can: an: out. unnv SUFFHEDIN 13m list. Chimgo. Illinois 60602-1304
+mm uunpm an: on. GREGG cosuu sen list.
+JEsus a. emu rm pin. mom 0. summers 15in am TEL 603?5502
+ems am nu. may a. resume ten list. FAX (312)603'4547
+
+mm ?Liz'DDmr mam 17in nu.
+December 5, 2012
+
+Ms. Regina Besenhofer
+
+System Director
+
+Supply Chain Management
+
+Cook County Health and Hospital System
+1900 West Polk Street
+
+Chicago, iL 60612
+
+Re: Contract No. 
+
+Dear Ms. Besen'hofer.
+
+The following. bid for the above referenced contract has been reviewed for compliance with the General
+Conditions regarding the Minorityand Women Owned Business Enterprises Ordinance and has been found to
+be responsive to the OrdinanCe supporting a 25% MBE and 10% WBE goat.
+
+ 
+
+Contractor: Ottho Diagnostic Systems, Inc.
+
+User Dept: Pathology Stroger Hospital
+
+Contract Amount: $1,848,731.82
+
+Description: Services - Chemistry Hepatitis Testing 
+
+Tenn: 24 Mo 
+Status Percentage of Participation
+Badge Machine Products 40% Indirect
+Sincerely,
+
+Shannon E. Andrews
+Contract Compliance Director
+
+SEA/pgb
+
+Primed on 
+
+Page 23 of 46
+
+ 
+
+Cook County Health Hospitals System
+
+I
+
+   
+
+RD APPROVAL REQUEST
+
+ 
+
+   
+ 
+
+4'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPONSOR: I 4 EXECUTIVE SPONSOR. 
+Joanne Marcicho' Iulski System Director Labor: tory. Carol Schneider, System hief Operating Of?cer
+
+DATE: PRODUCT I SERVICE:
+11/08/2012 Product/Service: Reagents and Consumables for the Proprietary BD Viper
+System
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+I Execute Contract BD Diagnostics (Becton Dickinson), Sparks, MD
+i ACCOUNT: FISCAL IMPACT: GRANT FUNDED IRENEWAL AMOUNT:
+890-365 $1,324,839.96 NIA
+I CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2013 thru 12/31/2014 
+COMPETITIVE SELECTION METHODOLOGY:
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source/Preferred Provider
+I PRIOR CONTRACT HISTORY:
+
+Contract number H09-73-018 was executed by the Cook County Health and Hospitals System Board on 08/12/2009
+in the amount of $1 ,710,800.00 for a sixty (60) month period from 10/01/2009 thru 09/30/2012. .
+
+NEW PROPOSAL JUSTIFICATION:
+
+All Nucleic Ampli?cation Testing for Chlamydia, trachomatis and Neisseria gonorrhoeae testing for Provident
+3 Hospital, Cerrnak Health Services Core Center, Juvenile Temporary Detention Center, and Ambulatory 8
+
+. Community Health Network Clinics has been consolidated and being performed at Stroger Hospital Virology
+
+very easily The reagents do not require preparation and there' Is minimal waste. The previous contract for using the
+Becton Dickenson Systems was through a distributor. Purchasing the reagents directly with Becton Dickenson
+utilizing the existing equipment. provides results within 4 hours time.
+
+TERMS OF REQUEST:
+I This request' Is to execute contract number In the amount of $1 324 839. 96 for a twenty-four (24) month
+7 period from 01/01/2013 thru 12/31/2014.
+
+    
+
+  
+
+- Pendin
+
+APPROVED
+
+2:11.23
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONS
+
+ 
+
+
+BID TABULATIONS: NIA
+CONTRACT COMPLIANCE MEMO: Pending
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+CFO: av BOARD OF
+I John Cookinha stem hief Financial Of?cer IDIRECTORS OF THE COOK COUNTY
+I HEALTH AND HOSPITALS SYSTEM
+CEO:
+IRam Raju. M. D., Chief Exec i Of?cer
+Request 
+I 7
+
+0 Ambulatory Community Health Network - Cermak Health Services . Department of Public Health .
+- John H. Stroger, Jr. Hospital Of Cook County 0 Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 24 of 46
+
+  
+  
+
+
+
+Laboratory. Currently, there are two (2) BD Vipers In the laboratory but are capable of performing high volume testing 
+
+COUNTY OF COOK
+BUREAU OF FINANCE
+
+OFFICE OF CONTRACT coorPuANCE
+SHANNON E. ANDREWS
+
+THE BOARD OF GOMMISSIONERS
+TONI PRECKWWIQE, PRESIDENT
+
+emcee; mm Br?ptGaina' t?hDist.
+
+ 
+
+5:139 .29.: rite DIRECTOR
+more tit: we@323 5'33; F??a9im? - ii? 113 Nortthark street; RodmtOZU
+r999 - Grammy
+December 5, 2012
+Ms. Gina Besenhofer
+System Director Supply Chain Management
+Cook County Health Heepitals System
+1900 W. Polk Street
+Chicago, Illinois 60612
+Re: Contract No.: I Sole Source Provider .
+Commodity: Product - Reagents and Consumables for the Proprietary BD Viper System
+Department Laboratory .
+Term: 24 Months
+
+Dear Ms. Besenhofer.
+
+The following bid for the above referenced contract has been reviewed for compliance with the General Conditions
+regarding the Minority and Women Owned Business Enterprises Ordinance and has been found In be responsive to the
+
+supply goals of 25% MBE and 10% WBE participation.
+
+Sole Source Provider] Becton Dickson Co., Sparks MD
+Amount: $1,324,839.96
+
+Waiver Granted: . . .
+Lack of suf?cient quali?ed MBEs andIOr WBEs capable of providing the goods or services required by the
+
+contract.
+
+. Becton Dickson 00., Sparks MD (ED) is the sole provider of the specialized 0x CTIGC reagents and
+. consumables on our existing proprietary BD Viper instrumentation installed at John H. Stroger, Jr.- Hospital
+of Cook County to ensure Quality Assurance of the specialized components and instrumentation.
+
+The Of?ce of Contract Compliance has been advised by Purchasing that no other Sole Source Provideds) are
+being recommended for award.
+
+Sincerely,
+
+Shannon E. Andrews
+Contract Compliance Director
+
+
+
+Page 25 of 46
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+sponsoa: execuriva SPONSOR: a; 
+
+Regina M. Besen System Director Supply Chain Carol Schneider, System ief Operating Officer
+Mana ement
+
+DATE: PRODUCT I SERVICE:
+
+11/26/2012 Service- Professional Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Xerox (formerly ACS), Dallas, TX
+
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED AMOUNT:
+890-260 $955,584.00 NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/17/2012 thru 6/14/2013 H13-25-002
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source/ Preferred Provider
+
+PRIOR CONTRACT HISTORY:
+
+1 The Cook County Health Hospitals System Board approved contract number 09-41-222 with ACS Corporation
+(now Xerox), on June 26, 2009 in the amount of $33,991 ,488.00 to implement the Lawson Enterprise Resource
+Planning Suite of products. The contract dollar amount included the following: resources, software, hardware,
+hosting, maintenance, impiementation, post go live support, and reimbursable expenses. The only module of the
+
+suite of products implemented was the General Ledger, as it was the County?s desire to perform a detailed analysis
+I through an RH and RFP process to determine the best solution for the entire County. On May 31, 2012, the 
+Board of Directors approved contract number 12-25-048 with Global Healthcare Exchange (GHX) in the amount of 
+$3,151,000.00 and an amendment to increase on September 28, 2012 in the amount of 665,824.84 for a total
+
+contract amount of $3,817,324.84 in support of implementation of the integrated GHX and Lawson Supply Chain 
+3 System solution. Xerox is the subcontractor to GHX that is designing, building, and implementing the Lawson Supply 1
+Chain Module with Lawson software subject matter experts. 
+
+NEW PROPOSAL JUSTIFICATION: 
+This request is to bring in experienced Supply Chain resources support with specific Lawson software subject matter 
+experts in the areas of System! Data Management, Procurement, and Inventory Control. This support is to
+
+supplement the existing staff and ?ll in the gaps of current open positions for a temporary period of time. As
+positions are ?lled there will be a comprehensive transfer of knowledge to ensure system implementation success
+. and stability for the long term.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H13-25-002 in the amount of $955,584.00 for a six 6 mon
+
+period from 12/17/2012 thru 6/14/2013. APPROVED
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE Pending
+
+
+
+ 
+
+ 
+
+ 
+
+ATTACHMENTS LIEU ?i ii 201?
+
+BID TABU LATIONS: NIA
+
+CONTRACT COMPLIANCE Pending gay COUNTY
+. DRS 
+
+DHRETETH AND HOSPITALS SYSTEM .
+
+John Cookinha stem Chief Financial 7125/ Request 
+ceo: 3
+
+Ram Ra'u MD, Chief Executive Of?cer
+
+ 
+
+CFO:
+
+ 
+
+ 
+
+- Ambulatory 8. Community Health Network . Cermak Health Services - Department of Pubtic Health -
+0 John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 26 of 46
+
+ 
+
+ 
+
+COUNTY OF COOK
+
+THE BOARD OF COBINIISSIONERS BUREAU OF FINANCE
+
+TONI PRESIDENT
+
+OFFICE or comer COMPLIANCE 
+SHANNON E. ANDREWS
+
+ 
+
+Earhal Cain: got-.1 Brig! Gain! 10" 1X1:
+RoturtStede oer. ran nos "hear. T0
+Jar-u Butler arose ?Energy-2y 12"Dit. 
+3% 323::
+- - County Building
+.r rm amour. Tm?ryO.Sdr der 15mm.
+if; Gasman? gnu. gigs-must; 1: our. 118 North Clark Street. Room 1(120
+. Whom" 1 Chimgo. Illinois 60602-1304
+Fun at. sures-1 . 9' Dist . TEL: {31216035502
+
+December 12, 2012
+
+Ms. Gina Besenhot'er
+
+System Director Supply Chain Management
+Cook County Health Hospitals System
+1900 W. Polk Street
+
+Chicago, Illinois 60612 
+
+Re: Contract No.: I Sole Source I Preferred Provider
+Commodity: Serviceq Professional Services I IT - Laurson
+Department: Supply Chain
+Term; 12117112 - 06/2411 3
+
+Dear Ms. Besenhofer.
+
+The following bid for the above referenced contract has been reviewed for compliance with the General Conditions
+regarding the Minority and Women Owned Business Enterprises Ordinance. in accordance with the Prelerred
+
+EVendor process, this purchase did not require a competitive bid and based on needs, the preferred vendor has
+
+been found to be responsive.
+
+Preferred Provider: Xerox Consultant Company (ACS Healthcare Solutions), Dearbom, Mt
+
+Amount $955,584.00
+
+Status Participation Cer_tt?_fy' ing Ageneg
+RL Canning, Inc, Chicago, IL - City of Chicago 
+Waiver Granted: -
+
+Lack of sutticient quali?ed MBEs andio'r. WBEs capable of providing the goods or senrioes required by the
+
+contract. Xerox (formerly is a Lawson Software Certi?ed Partner and we are oer??ed to provide both
+implementation and support associated with the application. we are among a small number of organizations
+that have people with this certi?cation. We are also providing resources with a career expertise supporting and
+operating in the hospital environment and providing supply chain expertise in the healthcare vertical.
+Currently, is implementing the GHX solution to integrate with Lawson, we again are among a small
+group of organizations that have this technical and functional ability and vendor relationship.
+
+The Of?ce of Contract Compliance has been advised by Purchasing that no other Sole Source and Preferred
+Provider(s) are being recommended for award
+
+Sincerely, -
+
+8512
+
+Shannon E. Andrews
+Contract Compliance Director
+
+SEAflar
+
+Page 27 of 46
+
+1 Cook County Health 8. Hospitals System
+
+PPROVAL REQUEST
+
+. 7 1
+SPONSOR: '7 [Wild/7" I a EXECUTIVE SPONSOR: 
+Joanne Marcichow-I lski, System Director Laborato Carol Schneider, System Chief Operating Of?cer
+DATE: PRODUCT I SERVICE:
+
+ 
+
+Product/Service: Equipment, Calibrators, Controls and Reagents for Urinalysis
+09/25/2012 Testing
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract IRIS lntemational, lnc., Chatsworth, CA
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED I RENEWAL AMOUNT:
+897-365 Stroger Hospital $745,518.06 NIA
+891-365 Provident Hospital $23,867.78
+Total $869,385.84
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2012 thru 11/30/915 H12-25-084
+COMPETITIVE SELECTION METHODOLOGY:
+NIA
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source 1 Preferred Provider
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The current Contract number HOT-45438 allows IRIS International, Inc., to provide equipment and reagents for
+automated urinalysis testing performed at John H. Stroger Jr. Hospital Chemistry Laboratory for 66 months from
+06/01/2007 thru 11/30/2012 in the amount of $896,800.00. This contract was approved by the Cook County Health and
+Hospitals System Board on 12/06/2006.
+
+NEW PROPOSAL HISTORY: .
+
+The request to execute contract number H12-25-084 will allow IRIS International, Inc., to provide equipment, equipment
+. maintenance, calibrators, controls and reagents to the Stroger Hospital and Provident Hospital Chemistry Laboratories.
+
+This contract is for the purpose of automated urinalysis testing.
+
+TERMS OF REQUEST:
+This request is to execute contract number H12-25-084 in the amount of $869,385.84 for a 36 month period from
+1210112012 thru 11/30/2015.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT Pending
+
+ 
+
+ATTACHMENTS
+
+BIDTABULATIONS: NIA APPROVED
+
+CONTRACT COMPLIANCE MEMO: Pending
+
+t2 um; "i 4 22012
+. CFO:
+
+John Cookinha stem Chief Fin cial Of?cer BY BOAR OF
+
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+CEO:
+Ram Raju, MD. Chief Executive Of?cer 
+
+ 
+
+Request 
+9
+
+ 
+
+- Ambulatory 8- Community Health Network - Cermak Health Services - Department of PublIc Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothatein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 28 of 46
+
+COUNTY OF COOK
+
+THE BOARD OF COMMISSIONERS BUREAU OF FINANCE
+
+TONI PRECKWMIQE, PRESIDENT
+
+OFFICE OF CONTRACT COMPLIANCE
+SHANNON E. ANDREWS
+
+ 
+
+ablemgm . mi Gainer 10" Diet,
+on P. Daley on per.
+Jerry antler on Diet. John A Frtlehoy 12m Dist DIRECTOR
+mew as: :st
+I Gm County Building
+.b an: B'Dlst 0.8m a- ran-net
+5' g: 115 North Clark Street. Room 1020
+Eli-m" Reyes Eizabettmn-Doouysunm 17mm . . 
+Page. deusfri on - Girl-Eggs?gfuz 1304
+
+December 4, 2012
+
+Ms. Gina Besenhofer
+
+System Director Supply Chain Management
+Cook County Health Hospitals System
+1900 .W. Potk Street
+
+Chicago, Illinois 60612
+
+Re: Contract No; 1. Preferred PrOvider
+Commodity: Reagent Rental for use in .the Proprietary Urinalysis System
+Department: 
+Term: .36 Months
+
+Dear Ms. Besenhofer.
+
+The following bid for the above?referenced contract has been reviewed for compliance with the General Conditions
+regarding the Minority and Women Owned Business Enterprises Ordinance. in accordance with the Preferred
+Vendor process, this purchase did not require a competitive bid and based on needs, the preferred venddr has
+
+been found to be responsive.
+
+Preferred Provider: IRIS Diagnostics, CA
+Bid Amount: $869,385.84
+
+Waiver Granted: .
+There are other relevant factors making it impossibte or economically infeasible to utilize MBE and/or WBE
+
+?rms. IRIS Diagnostics Division products are proprietary and FDA regulated. IRIS Diagnostics Division is the
+sofa source for the productts) being proposed in this bid.
+
+The Of?ce of Contract Compliance has been advised by Purchasing that no other Preferred Provideds} are
+being recommended for award.
+
+Sincerely,
+
+mt??b
+
+Shannon E. Andrews
+Contract Compliance Director
+
+
+
+Page 29 of 46
+
+Cook County Health 8. Hospitals System
+
+ 
+
+ 
+  
+
+   
+ 
+
+ 
+
+i
+
+
+
+   
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BOARDAPPROVALREQUEST
+
+SPONSOR: I (0 EXECUTIVE SPONSO:
+Cathy BOdnar, System Chief Compliance and rIvacy Ram Raju, MD, Chief Executive 0 
+Of?cer
+DATE: PRODUCT I SERVICE: ll
+11/20/2012 Service - Professional Consulting (Corporate ComplianceL
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract Analytics, LLC Chicago, IL
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED IRENEWAL AMOUNT:
+890-280 $336,960.00 NIA I 
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2012 11/30/2015 H13-25-004
+COMPETITIVE SELECTION METHODOLOGY:
+
+RFP
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Cook County Health and Hospitals System Board Of Directors approved a preferred provider contract number
+H09-25-0035 with Analytics LLC in the amount Of $76,950.00 on March 26, 2010 fOr an eight month period.
+Subsequently an RFP was issued and Hit: Analytics LLC was awarded contract number H10-25-161 in the amount
+It was approved by the Board on November 19, 2010 for a twelve (12) month period.
+Similarly approved by the Board on August 26, 2011, was the extension and increase Of the contract for an additional
+
+twelve (12) month period in the amount In total, the Board approved $301,590 for Analytics LLC 
+
+for 32 months from March 2010 through October 2012.
+
+NEW PROPOSAL JUSTIFICATION:
+
+The Cook County Health and Hospitals System Corporate Compliance Program continues to require external
+assistance to complement departmental activity. Consultative services with subject matter experts in healthcare
+corporate compliance are required with specific signi?cant experience in con?dentiality, privacy and security
+regulations. An RFP was issued and there were ?ve (5) respondents. HIQ Analytics, LLC received the highest
+aggregate score in response to the RFP based upon the following elements: responsiveness to the scope of work,
+experience - including experience within length Of time proposer has functioned as a healthcare corporate
+compliance consultant with a focus on confidentiality, privacy and security regulations, and cost. They also maintain
+a current and active Cook County WBE status.
+
+TERMS OF REQUEST:
+
+This is a request tO execute contract number H13-25-004 in the amount of $336,960.00 for a three (3) year period
+from 12/01/2012 thru 11/30/2015. 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: PMPROVED
+
+ATTACHMENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BID TABULATIONS: W) ?l 4 2012
+CONTRACT COMPLIANCE MEMO: Pending
+BY BOARD OF
+
+DIRECTORS OF THE COOK COUNTY
+COO: HEALTH AND HOSPITALS SYSTEM
+Carol Schneider, System Chief Operating Of?cer
+
+
+A A Raine? 
+John Cookinh - A. stem Ch-i inan_ia  Of?cer 10
+
+0 Ambulatory Community Health Network . Cermak Health Services 0 Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothetein CORE Center .
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Page 30 Of 46
+
+    
+        
+          
+       
+     
+     
+     
+       
+     
+
+
+i
+
+i
+
+
+    
+   
+   
+      
+
+
+
+    
+ 
+           
+       
+     
+
+THE BOARD OF COMMISSIONERS
+
+COOK COUNTY
+OFFICE OF CONTRACT COMPLIANCE
+
+ 
+
+TONI PRECKWINKIE
+
+PRESIDENT SHANNON ANDREWS
+anemia corms In our; PETER n. swam: um um. 
+amen? STEELE 2m nu. semen amen um. um
+JERRY BUFLER 3m Dist. JOHN 9. mm 11th Dist. .
+mum u. mavens 4m Dist JOHNA. FHITCHEY 12th on 118 Cl?? Slm? Room 1020
+Dream ems am on. mar surrneum 1am on. Chili-380' mm? 60502? 304
+mew nunpm on on GREGG eosun 14m Dist. TEL (BIZ) 603-5502
+Jam a. men an on. manor 0. SCHNEIDER 1511 out. FAX (3 l2) 603-4547
+ruwm ems am Dist mm H. women um um. 
+
+ELIZABEIH 50W 17?: Dist.
+
+December 7, 2012
+
+Ms. Regina Besenhofer
+
+System Director
+
+Supply Chain Management
+
+Cook County Health and Hospital System
+1900 West Polk Street
+
+Chicago, IL 60612
+
+Re: Contract No. 1113-25004
+Dear Ms. Besenhofer:
+
+The following bid for the above referenced contract has been reviewedfor compliance with the General
+Conditions regarding the Minority and Women Owned Business Enterprises Ordinance and has been
+found to be responsive to the Ordinance supporting an overall 35% goal-
+
+ 
+
+Contractor: Analytics, LLC
+
+User Dept: Corporate Compliance - 
+
+Contract Amount: $336,960.0 0
+
+Description: Services - Professional Consulting Services
+
+Term: 36 Months
+WBE Status 
+Analytics, LLC County) 100% Direct
+Sincerely,
+
+Can 601?
+
+Shannon E. Andrews 
+Contract Compliance Director
+
+
+
+Printed on Recycled Pap:
+
+Page 31 of 46
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+December 7, 2012
+
+ATTACHMENT #2
+
+Page 32 of 46
+
+ Amendment 3 to the Intergovernmental Agreement
+between
+the Cook County Health Hospitals System,
+the Cook County Board of Commissioners, and
+the Illinois Department of Healthcare and Family Services
+
+Summary
+
+Per this intergovernmental agreement amendment, the parties agree to
+implement the recently approved Section 1115 Medicaid waiver in
+accordance with federal requirements.
+
+0 The amendment structures intergovernmental transfer arrangements related
+to administrative expense claiming for the Section 1115 Medicaid waiver
+demonstration.
+
+In addition, it allows for intergovernmental ?ow of funds for to draw
+down funds from a (Centers for Medicare and Medicaid Innovation)
+grant award to the Department of Healthcare and Family Services, should that
+award be forthcoming. is one of the participants in the application.
+Awards are expected to be announced in the coming weeks.
+
+The amendment revises the IGA initially executed in May, 2009, as subsequently
+amended.
+
+APPROVED
+
+"2 4 2012
+
+BY IOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Page 33 of 46
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+December 7, 2012
+
+ATTACHMENT #3
+
+Page 34 of 46
+
+ Purchases Under the Authority of the Chief Executive Officer
+
+September 2012 - November 2012
+
+ 
+
+
+
+Vendor
+
+Contract
+
+Su ppliesl Service
+
+Purpose
+
+Value
+
+
+Released
+
+ 
+
+182631-000
+
+High Voltage Maintenance Corp
+
+12-76-0029R
+
+Equipment, transformer replacement
+
+Capital
+
+78,890.00
+
+9/10/2012
+
+ 
+
+182768-000
+
+Beckman Coulter
+
+H12-73-0022
+
+Supplies, hematology reagents
+
+Operating Expense
+
+15,000.00
+
+9/12/2012
+
+ 
+
+182779-000
+
+Clarke Mosquito Control
+
+12-73-0054
+
+Services, mosquito prevention
+
+Grant Funded
+
+67,057.20
+
+9/12/2012
+
+ 
+
+182815-000
+
+Cardinal Health/Carefusion
+
+12-25-0093
+
+Services, PDM
+
+Operating Expense
+
+42,000.00
+
+9/13/2012
+
+ 
+
+182990-000
+
+American Medical Systems
+
+H12-73-0077
+
+Supplies, penile implants
+
+Operating Expense
+
+40,000.00
+
+9/ 24/ 2012
+
+ 
+
+183082-000
+
+Analytics LLC
+
+12?28-0 125
+
+Services, e-learning implementation
+
+Operating Expense
+
+50,000.00
+
+9/28/2012
+
+ 
+
+182920-000
+
+Center for Human Genetics
+
+12-25-0066
+
+Services, genetics testing
+
+Operating Expense
+
+60,000.00
+
+10/1/2012
+
+ 
+
+183038-000
+
+Lumenis
+
+H12-76-0105
+
+Equipment, powersuite system
+
+Capital
+
+139,900.00
+
+10/3/2012
+
+ 
+
+183 116-000
+
+CaraFlow LLC
+
+H12-76-0 124
+
+Equipment, Vac?seen projector
+
+Capital
+
+29,189.75
+
+10/8/2012
+
+ 
+
+183266-000
+
+Interstate Electronics Co
+
+12-28?0096
+
+Supplies, parts for nurse call system
+
+Operating Expense
+
+92,594.00
+
+10/22/2012
+
+ 
+
+183315-000
+
+Ace Coffee Bar
+
+12-28-0100
+
+Supplies, pre-made sandwiches
+
+Operating Expense
+
+35,000.00
+
+10/22/2012
+
+ 
+
+c?82807-000
+
+Smith Medical Partners LLC
+
+12-25-0045
+
+Supplies, pharmacy
+
+Operating Expense
+
+65,070.00
+
+10/24/2012
+
+ 
+
+383291-000
+
+RTKL Associates Inc
+
+H12-25-0103
+
+Services, capital planning
+
+Operating Expense
+
+149,999.00
+
+10/ 24/ 20 12
+
+ 
+
+
+383267-000
+
+Given Imaging Inc
+
+12-73-0099
+
+Supplies, gastroenterology
+
+Original PO
+
+48,600.00
+
+10/ 24/ 20 12
+
+ 
+
+183353-000
+
+Joint Commission Resources
+
+H12-25-0108
+
+Services, accreditation prep
+
+Originai PO
+
+43,800.00
+
+10/ 26/ 2012
+
+ 
+
+183392-000
+
+Anchor Mechanical
+
+12?28-0040
+
+Services, furnish/install air
+
+Operating Expense
+
+49,245.00
+
+11/1/2012
+
+ 
+
+183455-000
+
+Patten Power Systems
+
+12-72-0014
+
+Services, emergency generatOr
+
+Operating Expense
+
+20,000.00
+
+11/7/2012
+
+ 
+
+183445-000
+
+MoreDirect Inc
+
+12-76-01 16
+
+Supplies, computer hardware
+
+Grant Funded
+
+49,939.66
+
+11/7/2012
+
+ 
+
+183444-000
+
+MoreDirect Inc
+
+H12-25-0113
+
+Supplies, servers
+
+Grant Funded
+
+54,013.41
+
+11/9/2012
+
+ 
+
+183481-000
+
+MoreDirect Inc
+
+H12-76-0115
+
+Equipment, computer hardware
+
+Grant Funded
+
+29,452.99
+
+11/9/2012
+
+ 
+
+18340 5-000
+
+Strategic Management Services LLC
+
+H12-28-0128
+
+Services, compliance advisory
+
+Operating Expense
+
+30,000.00
+
+11/13/2012
+
+ 
+
+183383-000
+
+Accurate Tank Inc
+
+12-28-0041
+
+Services, cleaning/testing fuel
+
+Operating Expense
+
+56,000.00
+
+11/ 16/ 20 12
+
+ 
+
+183473-000
+
+Joe Rizza Ford
+
+12-76-0135
+
+Equipment, vehicle
+
+Capital
+
+48,576.00
+
+11/ 16/2012
+
+ 
+
+183472-000
+
+Joe Rizza Ford
+
+H12-76-0136
+
+Equipment, vehicles
+
+Capital
+
+72,759.00
+
+11/16/2012
+
+ 
+
+183545-000
+
+Ungaretti Harris
+
+H12-25-0126
+
+Services, legal 1115 waiver
+
+Operating Expense
+
+60,000.00
+
+11/21/2012
+
+ 
+
+183597-000
+
+ 
+
+ 
+
+Builders Chicago Corporation
+
+ 
+
+11-73-0042
+
+ 
+
+Services, overhead doors
+
+ 
+
+Operating Expense
+
+ 
+
+
+
+37,075.00
+
+ 
+
+11/27/2012
+
+ 
+
+ 
+
+ 
+
+Purchases Under the Authority of the Chief Executive Of?cer
+September 2012 - November 2012
+
+ 
+
+DaEe
+PO Vendor Contract Supplies] Service Purpose Value Released
+
+ 
+
+183588-000 Anchor Mechanical H12-28-0073 Survey, thermoscan Operating Expense 10,000.00 11/27/2012
+
+35,000.00 11/ 27/2012
+55,854.00 11/28/2012
+91,333.40 11/30/2012
+
+ 
+
+183399-000 Anchor Mechanical Survey, thermoscan Operating Expense
+183331?000 GE Healthcare Technologies H12-73-0007 System, ultrasound Capital
+183604-000 RhinoDox H12-25-0085 Services, scanning Grant
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 36 of 46
+
+ 
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+December 7, 2012
+
+ATTACHMENT #4
+
+Page 37 of 46
+
+ Finance Committee Meeting
+December 7, 2012
+
+Report of the Chief Financial Officer
+November 2012
+1
+Page 38 of 46
+
+ Uncompensated Care
+ CCHHS has provided CareLink discounts in fiscal 2012 of $259,146,000. In
+
+addition the System has experienced Bad Debts of $377,301,000 in fiscal 2012.
+ CCHHS offers
+ff fi
+financial
+i l counseling
+li tto it
+its patients
+ti t iin an effort
+ff t to
+t collect
+ll t funds
+f d that
+th t
+
+are available from all sources so that the System can continue to serve those patients
+that are unable to pay the cost of their care.
+ CCHHS offers the following discounts and services:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+Assistance in making application for Medicaid.
+Assistance in applying for Federal Disability benefits.
+Free care and discounts for residents of Cook County under 600% of the federal
+poverty guidelines through the CareLink program.
+Discounts for uninsured residents of Illinois that are under 600% of the poverty
+guidelines.
+F care ffor ““medically
+Free
+di ll necessary services”
+i ” for
+f uninsured
+i
+d residents
+id
+off Illinois
+Illi i
+that have income at less than 200% of the federal poverty guidelines.
+Assistance in applying for “County Care” for patients that have incomes less than
+133% of the federal poverty guidelines.
+Payment plans and discounts for patients that agree to accept financial
+responsibility for their care.
+
+2
+Page 39 of 46
+
+ Uncompensated Care
+ Traditional Medicaid & Federal Disability – CCHHS
+
+p
+provides
+assistance to uninsured patients
+p
+through
+g its
+employed staff and the staff of CEA to assist patients to
+apply for Medicaid and Federal Disability benefits if they
+qualify.
+lif CEA screens all
+ll self
+lf pay admissions
+d i i
+to
+t the
+th
+CCHHS hospitals for eligibility for both programs.
+g to supply
+pp y information to support
+pp
+Patients are encouraged
+their application for Medicaid or disability benefits.
+
+3
+Page 40 of 46
+
+ Uncompensated Care
+ Original Plan for Uninsured Illinois Patients – Under the
+
+Illinois Uninsured Patient Discount Act patients that have family
+size and income under 600% of the federal poverty guidelines
+can not be charged more than 135% of cost for medically
+necessary services in excess of $300
+$300. CCHHS provides the
+Attorney General’s Office with Medicare Cost Report
+information so that the State can assign a cost to charge ratio for
+the System. CCHHS provides a discount to those patients that
+request a discount and qualify under this program of 20%. The
+discount reduces the charges to an estimate of the cost of the
+services provided. There is an additional limitation of not
+collecting more than 25% of the patient’s income in a year.
+4
+Page 41 of 46
+
+ Uncompensated Care
+ Uninsured Illinois Patients revised as of 7-1-2012 –
+
+Uninsured Illinois patients that request a discount and
+h
+have
+family
+f il size
+i andd income
+i
+less
+l than
+th 200% off the
+th federal
+f d l
+poverty guidelines are not to be charged for a medically
+necessary service greater than $300.
+
+5
+Page 42 of 46
+
+ Uncompensated
+Care
+p
+ CareLink – The residents of Cook County that request a
+
+discount are able to receive a discount on healthcare
+services at all of the CCHHS locations. Discounts for
+county residents that qualify are based on family size and
+income as follows:
+Less than 250% = a discount of 100%
+Greater than 250% less than 350% = a discount of 50%
+Greater than 350% less than 600% = a discount of 25%
+Greater than 600% = no discount under CareLink
+
+6
+Page 43 of 46
+
+ Uncompensated
+Care
+p
+ County Care – County Care is the name assigned to the
+
+p g
+program
+for patients
+p
+to be reimbursed under the 1115 wavier.
+This population must have income less than 133% of the federal
+poverty guidelines to be eligible for coverage under the wavier.
+C t C
+County
+Care hhas less
+l rigorous
+i
+requirements
+i
+t th
+than traditional
+t diti l
+Medicaid. There is not an asset restriction as in traditional
+Medicaid.
+
+7
+Page 44 of 46
+
+ Uncompensated Care
+Family Size F.P.L.
+Family Size F.P.L.
+
+8
+
+County Care** Rev. IL Unins. 100% 
+County Care** Rev. IL Unins. 100% 
+133%
+200%
+133%
+200%
+
+CareLink 100%
+CareLink 100%
+250%
+250%
+
+CareLink 50%
+CareLink 50%
+350%
+350%
+
+CareLink 25% IL Uninsured 20%
+CareLink 25% IL Uninsured 20%
+600%
+600%
+600%
+600%
+
+1 person
+1 person
+
+$11,170
+$11,170
+
+$14,856
+$14,856
+
+$22,340
+$22,340
+
+$27,925
+$27,925
+
+$39,095
+$39,095
+
+$67,020
+$67,020
+
+$67,020
+$67,020
+
+2 people
+2 people
+
+$15,130
+$15,130
+
+$20,123
+$20,123
+
+$30,260
+$30,260
+
+$37,825
+$37,825
+
+$52,955
+$52,955
+
+$90,780
+$90,780
+
+$90,780
+$90,780
+
+3 People
+3 People
+
+$19,090
+$19,090
+
+$38,180
+$38,180
+
+$47,725
+$47,725
+
+$66,815
+$66,815
+
+$114,540
+$114,540
+
+$114,540
+$114,540
+
+4 People
+4 People
+
+$23,050
+$23,050
+
+$46,100
+$46,100
+
+$57,625
+$57,625
+
+$80,675
+$80,675
+
+$138,300
+$138,300
+
+$138,300
+$138,300
+
+5 people
+5 people
+
+$27,010
+$27,010
+
+$54,020
+$54,020
+
+$67,525
+$67,525
+
+$94,535
+$94,535
+
+$162,060
+$162,060
+
+$162,060
+$162,060
+
+6 People
+6 People
+6 People
+
+$30,970
+$30 970
+$30,970
+
+$61,940
+$61 940
+$61,940
+
+$77,425
+$77 425
+$77,425
+
+$108,395
+$108 395
+$108,395
+
+$185,820
+$185 820
+$185,820
+
+$185,820
+$185 820
+$185,820
+
+7 People
+7 People
+
+$34,930
+$34,930
+
+$69,860
+$69,860
+
+$87,325
+$87,325
+
+$122,255
+$122,255
+
+$209,580
+$209,580
+
+$209,580
+$209,580
+
+$77,780
+$77,780
+
+$97,225
+$97,225
+
+$136,115
+$136,115
+
+$233,340
+$233,340
+
+$233,340
+$233,340
+
+8 People
+$38,890
+8 People
+$38,890
+**If there are children one is not eligible for the wavier
+**If there are children one is not eligible for the wavier
+
+Page 45 of 46
+
+ Uncompensated Care
+
+9
+
+Proposed Changes to CareLink
+1. Eliminate the Clinical Co-Pay of $10 – CCHHS as an incentive
+t apply
+to
+l for
+f Medicaid,
+M di id C
+County
+t C
+Care, and
+dC
+CareLink
+Li k would
+ld
+recommend that the appropriate program co-pay be eliminated.
+In addition to providing an incentive for patients to become a
+CCHHS patient the co-pay requires additional staff, systems, and
+equipment that are not currently available.
+2. Eliminate the Pharmacy Co
+Co-Pay
+Pay - Patients that apply for
+CareLink, County Care, or Medicaid would not have to pay the
+pharmacy co-pay of $4.00 per script. This would provide a
+further This would provide a further incentive for patients to
+apply for those programs. Patients that failed to apply for one of
+the programs would be required to pay the co-pay amounts. Each
+patient
+ti t would
+ld receive
+i one 90 dday period
+i d tto complete
+l t th
+the
+application for CareLink or County Care.
+Page 46 of 46
+
+ 

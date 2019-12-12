@@ -1,0 +1,692 @@
+Minutes of the meeting of the Managed Care Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Thursday, August 23, 2018 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chair Junge called the meeting to order.
+Present:
+
+Chair Emilie N. Junge and Director Sidney A. Thomas, MSW (2)
+Directors Ada Mary Gugenheim and David Ernesto Munar
+
+Telephonically
+Present:
+Board Chair M. Hill Hammock (ex-officio)
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Douglas Elwell – Deputy Chief Executive Officer,
+Finance and Strategy
+James Kiamos – Executive Director of Managed Care
+
+Jeff McCutchan –General Counsel
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+The next meeting of the Committee will be held on Thursday, October 18, 2018 at 10:30 A.M.
+II.
+
+Public Speakers
+Chair Junge asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report on CountyCare Health Plan (Attachment #1)
+James Kiamos, Executive Director of Managed Care, provided an overview of the Report on the CountyCare
+Health Plan. The Committee reviewed and discussed the information.
+The Report included information on the following subjects:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current Membership
+Cook County Managed Medicaid Market
+Monthly Membership Trend
+2018 Operations Metrics:
+Call Center and Encounter Rate
+Claims Payment
+Care Management Health Risk Surveys (HRS) and Health Risk Assessments (HRA)
+Care Management High Risk Members
+Overall Member Age Distribution
+ACA Member Age Distribution
+How We Match Up
+Lasik
+CountyCare Member Incentive Program
+Medicaid Redetermination Updates and New Initiatives
+Cerner Registration Pop-Up Reminders
+
+ Minutes of the Meeting of the Managed Care Committee
+Thursday, August 23, 2018
+Page 2
+
+III.
+
+Report on CountyCare Health Plan (continued)
+During the discussion of the information on slide 4 regarding the monthly membership trend, Board Chair
+Hammock requested that a line be added to reflect the budget goal in future presentations.
+Chair Junge noted that CountyCare has a great marketing program. With regard to redetermination activities,
+she inquired whether a handout or pamphlet is available to hand out to those whose Medicaid benefits are
+going to expire due to redetermination; this may prompt some people to act. Mr. Kiamos indicated that this
+can be created.
+
+IV.
+
+Action Items
+A. Minutes of the Managed Care Committee Meeting, June 21, 2018
+Director Thomas, seconded by Chair Junge, moved to accept the minutes of the
+Managed Care Committee Meeting of June 21, 2018. THE MOTION CARRIED
+UNANIMOUSLY.
+B. Any items listed under Section IV
+
+V.
+
+Adjourn
+As the agenda was exhausted, Chair Junge declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Managed Care Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+Emilie N. Junge, Chair
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+ Minutes of the Meeting of the Managed Care Committee
+Thursday, August 23, 2018
+Page 3
+
+Requests/Follow-up:
+
+Follow-up:
+
+Regarding the monthly membership trend metric, a request was made to add a line to reflect
+the budget goal in future presentations. Page 2
+
+Follow-up:
+
+A suggestion was made for an information pamphlet to be created to hand out to those
+individuals whose Medicaid benefits are going to expire due to redetermination. Page 2
+
+ Cook County Health and Hospitals System
+Managed Care Committee Meeting Minutes
+August 23, 2018
+
+ATTACHMENT #1
+
+ CountyCare   Update   
+
+Prepared   for:   CCHHS   Managed   Care   Commi3ee   
+James   Kiamos   
+CEO,   CountyCare   
+August   23,   2018   
+
+   
+
+ Current   Membership   
+Monthly membership as of August 9, 2018
+Category    Total   Members    ACHN   Members   
+
+2
+
+%   ACHN   
+
+FHP   
+
+224,024   
+
+27,547   
+
+12.3%   
+
+ACA   
+
+75,964   
+
+18,871   
+
+24.8%   
+
+ICP   
+
+30,075   
+
+7,137   
+
+23.7%   
+
+MLTSS   
+
+5,135   
+
+N/A   
+
+N/A   
+
+Total   
+
+335,198   
+
+53,555   
+
+16.0%   
+
+ Cook   County   Managed   Medicaid   Market   
+Membership in Cook County as of May 18, 2018
+MCO   
+CountyCare   
+
+                                                                                                            331,051      
+
+Blue   Cross   Blue   Shield   
+
+                                                                                                            292,648      
+
+Meridian   
+
+                                                                                                            143,396      
+
+IlliniCare   
+
+                                                                                                                  96,677      
+
+Harmony   (WellCare)   
+
+                                                                                                                  85,247      
+
+Molina   
+
+                                                                                                                  69,290      
+
+Next   Level   
+
+                                                                                                                  61,257      
+
+Total   
+WellCare   +   Meridian   
+Source: IL HFS May Numbers
+
+3
+
+Membership   
+
+                                                                                                1,079,566      
+                                                                                                         228,643      
+
+ Monthly   Membership   Trend   
+Monthly   Membership   Trend   
+   336,000      
+   334,000      
+
+Linear
+trend
+
+   332,000      
+   330,000      
+   328,000      
+   326,000      
+   324,000      
+Apr-­‐18   
+
+May-­‐18   
+
+Jun-­‐18   
+
+Jul-­‐18   
+
+Aug-­‐18   
+
+Overall positive trend from 4/1/2018 (end of open enrollment period)
+
+4
+
+ 2018   OperaZons   Metrics:   Call   Center   &   
+Encounter   Rate   
+Performance   
+Key   Metrics   
+
+State   Goal   
+
+May   
+
+Jun   
+
+Member   &   Provider   Services   Call   Center   Metrics   
+Abandonment   Rate   
+
+<   5%   
+
+1.29%   
+
+0.64%   
+
+Hold   Time   (minutes)   
+
+1:00   
+
+0:19   
+
+0:04   
+
+%   Calls   Answered   <   30   seconds   
+
+>   80%   
+
+88.02%   
+
+96.83%   
+
+Claims/Encounters   Acceptance   Rate   
+
+95%   
+
+95.23%   
+
+95.23%   
+
+5
+
+ 2018   OperaZons   Metrics:   Claims   Payment   
+Performance   
+
+Key   Metrics   
+
+State   Goal   
+
+May   
+
+Jun   
+
+Claims   Payment   Turnaround   Time   
+
+6
+
+%   of   Clean   Claims   Adjudicated   <   
+30   days   
+
+90%   
+
+95.1%   
+
+94.4%   
+
+%   of   Claims   Paid   <   30   days   
+
+90%   
+
+23.7%   
+
+45.3%   
+
+ 2018   OperaZons   Metrics:   Care   
+Management   HRS/HRA   
+Performance   
+Key   Metrics   
+
+Membership   
+
+Market   %   
+
+Apr   
+
+May   
+
+Jun   
+
+Completed   HRS/HRA   (all   populaRons)   
+Medical   Home   Network   ACO   
+
+115,697      
+
+40%   
+
+75.6%   
+
+77.1%   
+
+79.9%   
+
+La   Rabida   Care   CoordinaZon   
+
+1,239      
+
+40%   
+
+96.1%   
+
+97.1%   
+
+97.2%   
+
+113,440      
+
+40%   
+
+30.6%   
+
+31.5%   
+
+32.1%   
+
+77,418      
+
+40%   
+
+37.6%   
+
+38.3%   
+
+37.9%   
+
+658   
+
+40%   
+
+18.2%   
+
+24.3%   
+
+32.4%   
+
+308,470   
+
+40%   
+
+48.5%   
+
+49.9%   
+
+51.8%   
+
+CCHHS   Complex   Care   CoordinaZon   
+Aetna   
+Independent   Living   Systems   
+Overall   
+
+7
+
+ 2018   OperaZons   Metrics:   Care   
+Management   High   Risk   Members   
+Performance   
+Key   Metrics   
+
+Members   
+
+Market   %   
+
+Apr   
+
+May   
+
+Jun   
+
+Completed   Care   Plans   on   High   Risk   Members   
+Medical   Home   Network   ACO   
+
+3,069   
+
+65%   
+
+60.4%   
+
+60.6%   
+
+62.4%   
+
+La   Rabida   Care   CoordinaZon   
+
+498   
+
+65%   
+
+89.8%   
+
+92.0%   
+
+89.6%   
+
+CCHHS   Complex   Care   CoordinaZon   
+
+5,167   
+
+65%   
+
+51.4%   
+
+19.6%   
+
+21.8%   
+
+Aetna   
+
+1,153   
+
+65%   
+
+3   
+
+65%   
+
+66.7%   
+
+66.7%   
+
+66.7%   
+
+9,890   
+
+65%   
+
+62.7%   
+
+50.1%   
+
+43.0%   
+
+Independent   Living   Systems   
+Overall   
+• 
+
+70.7%   
+
+CountyCare’s high risk percentage exceeds the State’s requirement of 2% for Family Health Plan and 5% for Integrated
+Care Program.
+•  All data presented from the State Reports File, excluding ILS, which is sourced from weekly Activities Oversight Reports
+
+8
+
+         73.6%   
+
+66.5%   
+
+ Overall   Member   Age   DistribuZon   
+Age   Category   
+<   1   
+1   
+2-­‐5   
+6-­‐18   
+19-­‐39   
+40-­‐54   
+55-­‐64   
+65+   
+
+9
+
+Membership   
+5,237
+8,432
+34,534
+106,503
+
+Average Age = 26.1 years
+Membership   Age   DistribuZon   
+100%   
+24%   
+
+80%   
+70%   
+
+25%   
+
+60%   
+50%   
+
+79,337
+
+40%   
+
+42,825
+
+20%   
+
+33,425
+
+0%   
+
+8,833
+
+3%   
+
+90%   
+
+33%   
+
+30%   
+10%   
+
+3%   
+2%   
+
+11%   
+
+<   1   
+
+1   
+
+2-­‐5   
+
+6-­‐18   
+
+19-­‐39   
+
+40-­‐64   
+
+65+   
+
+ ACA   Member   Age   DistribuZon   
+Age   Category   
+
+Membership   
+
+19-­‐39   
+
+30,410
+
+40-­‐54   
+
+21,403
+
+55-­‐64   
+
+23,421
+
+65+   
+
+730
+
+Average Age = 43.0 years
+
+10
+
+ How   We   Match   Up      
+
+11
+
+ LASIK   
+•  CountyCare   will   oﬀer   Lasik   surgery   to   
+members   age   21   to   50   and   is   100   percent   
+covered   for   eligible   members   
+•  CountyCare   will   begin   promoZng   the   
+program   to   members   on   September   1st   
+•  EvaluaZons   will   be   done   at   Provident   and   
+Stroger   Professional   Building   and   
+Surgeries   will   be   performed   at   Provident   
+•  For   those   members   with   diabetes,   the   
+evaluaZon   will   be   counted   towards   the   
+Diabetes   HEDIS   measure   for   the   reZnal   
+eye   exam      
+   
+
+12
+
+ CountyCare   Member   IncenZve   Program   
+CountyCare   Rewards   Program   
+•  27,000   OTC   Cards   acZvated   
+
+AddiRonal   CountyCare   Beneﬁts   
+•  Free   Sleep   Safe   Kit   for   Mothers   Who   Complete   All   Prenatal   Visits         
+•  Free   diapers   for   members   who   keep   their   children’s   immunizaZons   
+current   up   unZl   the   age   of   2      
+•  Free   Car   Seat   for   Enrolled   Children      
+•  Book   Club   for   Kids   Ages   3   Through   16         
+•  Free   Home   Pregnancy   Tests         
+•  Free   Weight   Watchers   Membership   Vouchers         
+•  Free   Cell   Phone   Minutes   for   Health-­‐Related   Calls   to   CountyCare   
+   
+
+13
+
+ Medicaid   RedeterminaZon      
+
+14
+
+ Medicaid   RedeterminaZon   (NEW   
+INITIATIVES)      
+
+15
+
+ Cerner   (registraZon   pop-­‐ups)   
+
+16
+
+ Cerner   (registraZon   pop-­‐ups)   
+
+17
+
+ PaZent   Handout   
+
+18
+
+ ImpacZng   People’s   Lives   
+   
+“   I   got   that   text   message   that   told   me   how   I   
+could   get   help   and   I   said,   ‘Thank   you!’   Because   I   
+would   have   been   lost   on   how   to   renew   my   
+Medicaid.”   
+   
+-­‐CountyCare   Member   at   RedeterminaZon   Event   on   July   17,   2018   
+
+19
+
+ QuesZons?   
+
+20
+
+ 

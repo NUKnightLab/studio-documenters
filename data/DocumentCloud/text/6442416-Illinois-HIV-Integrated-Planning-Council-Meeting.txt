@@ -1,0 +1,354 @@
+Tuesday, October 30, 2018 Illinois HIV Integrated Planning Council (IHIPC) Meeting Minutes_Draft
+8:30 am – 1:30 pm
+8:30 am:
+Welcome; Introductions, Moment of Silence (5 minutes)
+The Co-chairs welcomed all members and guests to the meeting. The IHIPC leadership and the webinar coordinator were introduced. Co-chair Elect N.
+Holmes led the group in a moment of silence for all people living with HIV (PLWH) past and present and all those working to end the epidemic in Illinois.
+8:35 am:
+Meeting Process and Housekeeping (15 minutes)
+– Roll call attendance of voting members, announcement of non-voting members and others, including those participating remotely
+» Everyone was reminded that the meeting was being recorded webinar participation instructions were reviewed for those joining the meeting remotely. Remote
+participant will be included on the roster/meeting attendance list and will have the opportunity to participate in meeting discussion by phone/ webinar interface.
+» In-person participants were asked to introduce themselves by name, agency, and preferred pronoun if desired. Remote participants were announced.
+» It was noted that meeting materials are available on the meeting registration website: https://www.regonline.com/october2018ihipcmeetings . Meeting recordings
+will be made available on the ITrain website within 3 business days after the meeting.
+» Meeting evaluations were available at the meeting for in-person participants, and the meeting survey link was made available for remote participants. Meeting
+surveys would be accepted for submission until November 5th.
+» Housekeeping information regarding facility rules, lunch & breaks, and review of Respectful Rules of Engagement/ Robert’s Rules of Order were reviewed.
+Participants were informed that only one microphone was available for discussion and were reminded to wait for the microphone before speaking.
+– Review of agenda, Concurrence checklist, Meeting objectives; Announcements
+» Co-chair M. Benner reviewed the objectives of the meeting and the related agenda topics/ discussions. Printed copies of the agenda were made available in the
+meeting packet. The goals of the IHIPC were reviewed, including integration of National HIV/AIDS Strategy (NHAS) goals into IHIPC’s purpose and work.
+» Copies of the IHIPC Concurrence Checklist were included in the meeting packet. The concurrence process will be thoroughly reviewed in a later presentation.
+» It was noted that 67 new community representatives had been engaged in the 2018 IHIPC process as of August 30.
+8:50 am:
+Updated State and Regional HIV Care Continua and Unmet Need Analysis – (40 minutes)
+Fangchao Ma, IDPH HIV Epidemiologist
+F. Ma reported on the Statewide and Regional HIV Care Continua and Unmet Need Analyses for 2017. He reviewed the steps of the Continuum (linkage to
+care, engagement in care, retention in care, and viral suppression) and their respective definitions. He also reviewed its importance in identifying gaps and measuring
+progress when preparing to improve systems or enhance services. Before reviewing the data, F. Ma noted several data limitations that should be considered in
+evaluation processes, including reporting delays and missing data (such as race or risk information). He also noted that the Continuum of Care data in this presentation
+was not supplemented with Ryan White (RW) data and was pulled from eHARS only. This reporting revealed discrepancies in eHARS reporting, particularly in
+Regions 2, 3, and 4. More work needs to be done to ensure that lab providers in these regions are accurately reporting information to the Surveillance Unit.
+F. Ma continued by reviewing the linkage to care data. From 2012-2017, the overall linkage to care rate in Illinois has increased to 79.1 percent. Although rates
+are trending upward, some populations have lower linkage to care rates compared to others in their demographic group. This includes 13-24 year olds when compared
+1
+
+ to other age groups; black individuals when compared to other races; and people who inject drugs when compared to other risk categories. Regional linkage to care
+data was also made available with recognition of the reporting caveats above.
+Engagement in care, retention in care, and viral suppression data were then reviewed. In 2017, the overall Illinois rates for each category were 63 percent, 36.6
+percent, and 46.8 percent respectively. Some variance was noted when these rates were presented by demographic group which included lower rates of viral
+suppression among the following groups: females when compared to males (reported gender at birth); black individuals when compared to other races; and people
+who inject drugs when compared to other risk categories. Data for each step was also made available by region, again with recognition of the reporting caveats above.
+The 2017 unmet needs analysis was then reviewed. It is important to note that unlike the Continuum of Care data, Ryan White data was used to supplement
+the unmet needs analysis. Overall, rates of unmet need in Illinois among people living with HIV and people living with AIDs has dropped since 2012. High rates of
+unmet need were identified among the following populations when compared to their demographic groups: non-Hispanic American Indians/ Alaskan Natives when
+compared to other races, and people who inject drugs when compared to other risk categories. F. Ma noted that although not presented here, he had completed
+regional unmet needs analyses that would be released after the meeting.
+–
+Questions & Answers, Discussion, Input - (15 minutes)
+
+* NHAS Goal 1, Goal 2, Goal 3, Goal 4; Steps of the HIV Care Continuum: All
+
+C: C. Montgomery commented: It is good to see that the numbers show that we are taking care of PLWH. Our work is not in vain, and all the campaigns,
+outreach, and other interventions that have been doing are contributing to this and will continue to lead our efforts. As a person living with HIV, knowing that others
+are being educated about care is a good thing, especially among racial/ ethnic minorities and people of all ages. Through this education and care, we are still living and
+can take care of ourselves. Thank you.
+Q: S. St. Julian thanked F. Ma and said: It is very surprising at how low these numbers appear. They do not match our region’s current Care Connect datawhich is at about 92 percent for viral suppression and is at almost 100% for linkage to care. Where are we failing? Is it in the prisons? It is where clients are seeking
+care in private practices and are not referred to RW?
+A: F. Ma noted that these were good questions and confirmed that incarcerated people were included in the analysis. He continued by explaining that missing
+or incorrectly reported data is a prominent issue which can disproportionally skew data for regions that have smaller numbers of cases. That is why it is important to
+cautiously compare regional data. Although the regional comparisons may be skewed and do not accurately show the whole picture, we can confidently look at
+statewide numbers as collective group and use this data to evaluate our processes. In the future, prison data can be excluded if needed.
+Q: S. St. Julian asked: When you say that data cannot be released for counties with less than 5 cases, are they included in the regional analysis? If not, that
+could very much skew results for Region 5.
+A: F. Ma replied: Yes, all Region 5 cases are all included in this data as a collective group. The sample size caveat means that the true number of people living
+with HIV in a subset (such as a county) with less than five cases cannot be reported as stand-alone data.
+C: C. Laskowski said: It might be helpful to run Provide reports as a comparison for this presentation. Similar to Region 5, Region 3’s viral suppression rate
+for RW clients is about 90 percent. .
+A: F. Ma stated: Yes, we could compare the two, but we need to look at all cases to get a sense of the entire population living with HIV in Illinois. It is evident
+that RW programs help clients stay in care and become virally suppression. For example, I am also looking at social determinants of health as a project in the office.
+When it comes to income level, viral suppression does not significantly change among RW participants. For non-RW clients, however, it can be very different.
+C: C. Hicks stated: Please remember that only about 1/3 of all PLWH in Illinois are enrolled in RW. It is not that RW is not working, it is that not all people
+are signed up. Prevention providers can try to combat this by linking clients to RW case managers instead of only into medical care.
+Q: V. Johansen asked, for linkage to care, the definition is now to link in 30 days instead of 90. Is the data presented for previous years taking the new
+definition into consideration?
+A: F. Ma stated: No, it is data from older presentations that should be adjusted to fit the new definition.
+A: J. Nuss noted that in the upcoming NHAS Indicators’ presentation, she knows that P. Murphy adjusted previous year’s data to match current definitions.
+C: J. Erdman stated: Please do not exclude prison data from this analysis as we need to see where the gaps and challenges are. We are now challenged to
+connect the 2/3 of PLWH in Illinois who are not RW clients to care, and we cannot do that if we exclude populations.
+2
+
+ Q: S. Fletcher stated: I can see how the argument to include or exclude prison data can go several ways. Because of this, could it possibly be separated from
+regional data and be reported on a different slide? It is good information to know.
+C: M. Gaines stated: IDOC is performing linkage to care in their facilities at about a 90 percent rate. Linkage is very simple within facilities; the only people
+who are not linked are those who refuse treatment. Linkage to care numbers upon release often vary due to different linkage to care definitions between IDOC and
+IDPH as well as alternative care methods such as telemedicine.
+Q: J. Dispenza asked: Is the viral suppression rate based on engagement in care or retention in care?
+A: F. Ma answered: The viral suppression rate is based on lab reporting of at least one viral load lab result within the year (2017). Viral suppression rates can be
+higher than retention in care rates as this definition specifically measures 2 or more viral load labs reported at least 3 months apart in a 12 year period.
+C: S. Rehrig stated: Please include separate slides or side by side slides that show RW data in this presentation. It is hard not to become defensive because we
+are doing better. It feels like a misrepresentation.
+A: F. Ma stated: Every year, J. Maras does a presentation on RW’s progress along the Care Continuum. It is very impressive.
+A: J. Maras stated: I appreciate what S. Rehrig said, but I encourage everyone to remember that this is an integrated, statewide planning group. We are doing
+great work; RW helps rates along the Continuum. What is important in this group, however, is to look at the whole state, not just the RW portfolio. We are doing our
+part with the people we serve, but how can we connect with others? What can we do for potential clients who are with Medicaid; how do we link them and support
+them? It is ok to feel defensive but this should not be our focus. We should look forward to more progress on this in the future.
+A: J. Nuss stated: J. Mara’s point about reaching potential client’s outside of our current RW network is extremely important. This has been discussed at the
+Steering Committee level, and one step of action that has been identified is to appoint a voting liaison to our currently vacant seat that can enhance our engagement of
+FQHCs and primary care doctors in order to reach individuals in care not in the RW system.
+9:45 am:
+Overview of NHAS 2020 Indicators and 2018 Update on Illinois’ Progress – (30 minutes)
+Patricia Murphy, IDPH HIV Evaluation Administrator
+P. Murphy was unable to attend the meeting, so F. Ma presented on Illinois progress on the NHAS 2020 Indicators on her behalf. This presentation examines
+each NHAS indicator according to baseline data (most baselines begin at 2015) and yearly outcomes, targets, and overall goals through 2020. The outcome reported on
+during the presentation are below:
+Indicator 1- Goal: To increase the percentage of people living with HIV who know their serostatus to at least 90 percent by 2020; the 2017 rate improved compared to
+2016 but did not meet the annual target. It was noted that this indicator is difficult to measure and is based on CDC estimates.
+Indicator 2- Goal: To decrease the number of new HIV diagnosis by at least 25 percent by 2020; the 2017 rate improved compared to 2016 and exceeded the annual
+target. Moving forward, it is important to examine if this decrease in diagnoses is a true decrease or if the decrease is correlated to less testing.
+Indicator 3- Goal: To reduce the percentage of young gay and bisexual men who have engaged in HIV risk behaviors by at least 10 percent by 2020; the 2017 rate
+worsened compared to 2015, and the annual target was not met.
+Indicator 4 – Goal: To increase the percentage of newly diagnosed persons linked to HIV medical care within one month of diagnosis to at least 85 percent by 2020:
+the 2017 rate improved compared to 2016, but the annual target was not met.
+Indicator 5- To increase the percentage of persons diagnosed with HIV that are retained in HIV medical care to at least 90 percent by 2020: the 2017 rate worsened
+compared to 2016, and the annual target was not met ( Target for 2017: 64.1%; Actual: 42.6%).
+Indicator 6- To increase the percentage of persons with diagnosed HIV who are virally suppressed to at least 80 percent by 2020: the 2017 rate worsened compared to
+2016, and the annual target was not met (Target for 2017: 63%; Actual: 50.3%).
+Indicator 7- To reduce the percentage of persons in HIV medical care who are homeless to 5 percent or less by 2020: the 2017 rate improved compared to 2016 and
+exceeded the annual target. Medical Monitoring Project (MMP) data is used to measure this indicator.
+Indicator 8- To reduce the death rate among persons diagnosed with HIV by at least 33% by 2020: the 2017 rate worsened compared to 2016 and did not meet the
+annual target. It should be noted that this could be for a variety of reasons, including an aging population living with HIV as well as the opioid crisis.
+Indicator 9- To reduce disparities in the rate of new diagnoses by at least 15 percent by 2020 for the following populations:
+- Gay and bisexual men: the 2017 rate improved compared to 2016 and exceeded the annual target.
+3
+
+ - Young black gay and bisexual men: the 2017 rate worsened compared to 2016, but the annual target was still met.
+- Black women: the 2017 rate worsened compared to 2016, and the annual target was not met.
+Indicator 10- To increase the percentage of viral suppression to at least 80 percent among the following populations:
+- Youth (aged 13-24): the 2017 rate remained stable compared to 2016, and the annual target was not met.
+- People who inject drugs: the 2017 rate worsened compared to 2016, and the annual target was not met (Target for 2017: 59.3%; Actual: 45.1%).
+Indicator 11- To increase the percentage of transgender women in HIV medical care who are virally suppressed to at least 90 percent by 2020: the 2017 rate improved
+compared to 2016, but the annual target was not met.
+Indicator 12- To increase the number of persons prescribed PrEP by at least 500 percent by 2020: the 2017 rate improved compared to 2016, but the annual target was
+not met. This is indicator is measured through AIDVu data.
+Indicator 13 - To decrease stigma among persons diagnosed with HIV by at least 25 percent by 2020: the 2017 rate worsened compared to 2016, and the annual target
+was not met. MMP data is used to measure this indicator. F. Ma explained that the questions about stigma relating to disclosure and public attitude often score higher
+than questions about internalized stigma.
+Questions & Answers, Discussion, Input - (15 minutes)
+*NHAS Goal 1, Goal 2, Goal 3, Goal 4; Steps of the HIV Care Continuum: All
+There were no questions regarding this presentation at the meeting.
+10:30 am: Overview of 2018 Integrated Plan Updates, Concurrence Overview, Discussion, and Vote, if needed (15 minutes)
+Janet Nuss and Mike Benner, IHIPC Co-chairs
+J. Nuss presented on this topic. She began by briefly reviewing the 2018 updates to the Integrated Plan which had been presented at this meeting and worked
+on throughout the year by the IHIPC committees and previously presented to the full IHIPC. With these updates completed, she then discussed the IHIPC’s role in
+the Integrated Plan’s concurrence process. The group was reminded that concurrence process is associated with the Integrated Plan only and is not related to HIV
+grant applications or funding as it may have been for past planning groups. Through review of the concurrence process, participants were reminded that concurrence
+letters from planning groups are only required with the submission of a new Integrated Plan (concurrence letter for 2017-2021 plan was submitted in September 2016),
+or if major changes are made to the Integrated Plan mid-cycle. J. Nuss then asked IHIPC members to discuss if they believed that a new concurrence letter related to
+this year’s updates was necessary.
+Questions & Answers, Discussion, Input - (15 minutes)
+*NHAS Goal 1, Goal 2, Goal 3, Goal 4; Steps of the HIV Care Continuum: All
+C: S. St Julian stated: I think that it is very important to have a vote that we know is not influenced in any way. Some voting members are IDPH
+employees. To avoid conflict of interest, I would strongly encourage IDPH staff not to vote on concurrence. I have been a member of IDPH-sponsored planning
+groups for many years, and there have been occasions when the planning group did not concur. If this was to happen again, it would put IDPH staff in an awkward
+position as the Integrated Plan is their product. Members know when to respectfully abstain when a matter affects them personally, so I am asking IDPH staff to
+abstain today if we have a vote.
+A: S Fletcher stated: You can ask IDPH staff to abstain, but members that participate in IHIPC activities have a right to vote according to the by-laws.
+Your comment is respected and should be noted, but the decision to abstain is up to the individual.
+A: J. Nuss stated: I also want to point out that when it comes to the concurrence vote, the By-laws state that IDPH HIV section employees should abstain
+from voting. The decision was made by the first Integrated Planning Steering Committee to allow IDPH staff from other sections to vote on concurrence as they fulfill
+the same membership requirements (trainings, meeting attendance, and committee participation) as all other voting members. The IHIPC should be reminded that the
+Integrated Plan is not an IDPH-specific plan. It is a statewide plan for HIV prevention and care. When reviewing the work plan, one could similarly argue that all
+IHIPC members may have a potential conflict of interest when voting concurrence with the plan because its committees develop and are tasked with many of the tasks
+and activities included in the Plan.
+C: S. St. Julian stated: In response, it is not my purpose to single out or dismiss any of the IDPH voting members. It is great that they vote and that this rules is
+stated in the by-laws, but the by-laws can change. If there had been voting members who were IDPH staff in the year of non-concurrence, they would have been in a
+4
+
+ tight spot because of having the “same boss” as the HIV section. When it comes to updates to the Plan, the IHIPC only gives recommendations. The IDPH
+employees in charge of drafting the Plan can choose to take our advice or not. It is usually taken, but if it was not, it may cause a conflict. I still believe that all IDPH
+staff should abstain from this vote in order to avoid conflict of interest.
+C: L. Choat stated: I will say this on my behalf as I am an IHIPC voting member that is a non-HIV section IDPH staff person. I feel passionate about this
+committee outside of my job, and I can make a decisions about this topic outside of my job. I have never been pressured by other staff to make decisions, so I can
+cast a vote without conflict.
+C: S. St. Julian stated: I appreciated the appointed IDPH staff on the group because of their expertise, but what if someone that we trust (like L. Choat) was to
+leave their position and be replaced by someone who was not familiar with this process? If I were a new staff person at IDPH joining the group, I think there would be
+potential for my vote to be swayed.
+C: L. Choat stated: The point is understood, but I do have history on this group, so I do feel that it is acceptable for me to vote.
+C: J. Nuss stated: S. St. Julian brought this concern up by email before this meeting. The Membership Committee Co-chairs and members were made aware
+and were informed they could bring it up for discussion within their committee, if they chose to. If it needs to be brought to the Steering Committee, that’s fine too.
+But for this vote, the By-laws stand as they are.
+Q: J. Nuss stated: With discussion concluding, does the group feel that we need a new letter?
+C: S. Fletcher noted that the 2018 updates have not been so broad that a new concurrence letter is required. He did recommend, however, that the group take
+a vote of affirmation on concurrence with the Plan to fully gauge the feelings of the new group.
+Vote: At 11:01am, S. Fletcher made the motion to vote in affirmation of the existing vote of concurrence with the State’s Integrated Plan for HIV Prevention
+and Care without the need to submit a new concurrence letter. The motion was seconded by M. Williams at 11:02am. There was no further discussion about the
+motion at this time. The motion carried with 29 members in favor, no members opposed, 2 members abstaining, and 2 members not present.
+10:45 am: Aim 2 GTZ: Viral Suppression Focused Discussion and Input (Speakers to be Determined)
+L. Roeder started the discussion on viral suppression and the struggles of retaining and maintain clients in care. She explained that this discussion had been put
+on the agenda due to meeting survey comments that pointed to different perceptions of viral suppression from Prevention (looking at viral suppression by risk group
+population) and Care (looking at viral suppression individualistically among clients). L. Roeder encouraged participants to voice their concerns, comments, questions,
+and goals around viral suppression at this time. She encourage all people to share their perspectives about how Care and Prevention work within the cascade and how
+to prevent loss of clients to care from occurring.
+Q: J. Nuss stated: it is evident that when we compare viral suppression and retention in care for RW v. non-RW client, their outcomes are not the same. What
+are new clients talking about with their case managers at intake into the RW program: Have they previously not been required by their providers to have biannual
+visits? Have they had issues with past providers or facilities? What factors are causing PLWH in other systems of medical care to not take advantage of RW services?
+C: T. Vogelsang responded: Clients don’t typically talk about frequency of visits, but more often talk about their providers not being up to date with research
+or other standards. We should continue to reach out to their provider networks to keep everyone as up to date as possible.
+C: W. Bradley stated: When clients come back for services after dropping out of care, they sometimes say “I just needed a break”. Sometimes keeping up with
+care is too much of a reminder of the disease and its negative associations. People lost to care often come back when they are sick. We just hope that they come back
+soon enough.
+C: C. Laskowski stated: I think that client engagement is largely as systematic issue. If a client is tested outside of a normal counseling and testing site, it take a
+long time to get them connected to infectious disease doctors, and those doctors may not know about RW. Some clients are hard to engage but will come back if they
+are shown consistency, such as youth and people who inject drugs. Many clients who have moved out of state and then come back say that they are happy with our
+variety and quality of services compared to other areas.
+C: S. Rehrig said: Many folks aren’t aware of the wrap around services that RW offers. For example, a client might not be aware of medication co-pay
+assistance, so they go without meds when they cannot afford it. Many clients are initially surprised by the services available and would not know of them otherwise.
+C: M. Williams responded to S. Rehrig: Along with participants being unaware of services, staff at non-RW agencies can be unaware of how to connect clients
+to RW. It may be that they don’t know which services are available and or they are not aware of eligibility requirements.
+5
+
+ C: M. Maginn responded: Staff turnover in all aspects (case managers, medical providers, etc.) is a barrier to care and viral suppression. Consistency of
+providers is so important. This can be especially difficult in rural areas.
+C: J. Stevens-Thome said: I have noticed that Care Connect is not well known in the community. Although it does amazing work, it is not well branded.
+Advertisements could be so helpful in connecting more people to Care Connect services. People need to know about what it offers and how they can access it.
+C: D. Hunt stated: I have worked in both Prevention and Care, and I think that there is a big disconnect in terms of Prevention being able to advocate for
+Care. Prevention providers should be able to tell a positive client how RW care services could be beneficial to them and fit into their life. They should be able to “sell”
+RW care services to clients.
+C: T Vogelsang stated: I agree there is a disconnect between Prevention and Care, particularly re: Provide ™. It would be helpful for Care providers to know
+how the fee-for-service model works so that due credit can be given to those providers. It would be helpful to have all staff watch/participate in demos of both sides
+of Provide ™.
+C: C. Crause stated: Prevention and Care can work more closely together on local levels, especially when working with the same clients. In Champaign, we
+have joint staff meetings with dedicated time to work on shared clients. We also work closely with providers in our area. By meeting with physicians on a regular basis,
+they are aware of who is in the RW program and who is not a RW client that could benefit. We have to come together to maximize our efforts and to eliminate as
+many barriers as possible for clients.
+C: K. Lewis stated: What I have seen in the field is a big disconnect between Prevention and Care. I attend all medical visits with my clients that have tested
+positive through Prevention so that they can reach out and take advantage of opportunities. If I was not there, both the client and the provider may not get or have the
+information they need to connect the client to care services. Communication has to go in many ways: to and from providers, case managers, prevention workers, and
+clients. I urge prevention workers to follow up with clients beyond the initial linkage to care hand off to ensure that the client is not eventually lost to care.
+Q: S. Zamor stated: There is a lot of conversation around same-day start of antiretroviral therapies. Do our models support this? Is it occurring in Illinois?
+C: T. Vogelsang stated: Same day antiretroviral therapy is ideal, but there is so much that has to be done from when the patient walks in the door to when they
+can receive their medicine. Obtaining medical records, seeing the provider, genotyping for correct medication, completing CM case notes, completing RW eligibility
+paperwork, waiting for RW approval, and then ordering medication for MAP/ PAP clients all come into play.
+C: C. Wade stated: It is perplexing to me how everything has become so medicalized. PLWH started with conversation about advocacy and care, but now
+community groups look at a totally different set of priorities and some PLWH are being left out of the conversation. I hope and wish that there was a mechanism in
+which we could refer people to consortia of and for PLWH as they would be great venues for resources and support. Please value caucuses of, by, and about people
+living with HIV as they are needed in planning and service efforts. We should continue to look at how PLWH navigate the complex systems such as case
+management, Medicaid, employment, and others. We should also continue do our work through trauma informed care, especially with long term survivors.
+C: A. Meirick stated: I think that getting beyond the transactional piece of services would help clients to better stay in care. For example, providers can give
+clients grocery store gift cards, but wouldn’t it be more worthwhile to pair that with a visit from the nutritionist or teaching clients to order groceries online? Clients
+might be more likely to stay engaged when teaching skills are involved instead of just being given something.
+C: M. Olivaries stated: I think that keeping clients engaged is a struggle too. I work at Erie Family Health, and many clients from Chicago come to us because
+they don’t want to see providers in their neighborhoods. We have great services, like a pharmacy, dentist, and behavioral health specialists all on site. Despite this and
+the ability to do a warm hand off, it is still hard to get people to come back to the office for their next visit because there may be many obstacles in getting to our
+facility. We have the ability to do home visits, but only for clients who have fallen out of care. It seems that it has to be an extreme circumstance to meet the client at a
+convenient place, when it might be easier to do this in the first place.
+C: S St. Julian said: I’ve done work in both Prevention and Care and often times hear about struggles with out of care clients. We have systematic issues that
+we need to solve, such as with the reentry population. People leave prison without being connected to RW services, or they leave with limited prescriptions. Can we
+come up with a system that helps people to be enrolled in RW before leaving the prison? Another problem is that HIV is rarely ever a client’s only problem: many have
+mental health or substance use problems. These can be big barriers, especially if the CM is their only support system. Lastly, putting a FPL cap on case management
+could put viral suppression of some clients in danger. Clients that are above the limit will miss out on services related to navigating insurance plans, addressing
+6
+
+ disclosure of HIV and sexual minority status, and other barriers that money cannot buy. I recommend that IDPH makes the FPL for case management as high as
+possible.
+C: M. Gaines stated: IDOC is truly working to try to get clients linked to good care, but there is double stigma around being HIV+ and being formally
+incarcerated. Providers can be very harsh and leave clients still feeling like convicts, which pushes them out of care. Racism ties into this and is a serious issue. Clients
+coming from IDOC want to be treated as individuals and not convicts.
+C: A. Danner stated: Listening to these comments, I am hearing that integrated models are working well and are needed in communities. Having Prevention
+and Care in one place would make services more seamless when moving a positive client into care. That is the vision that we have, and we hope that we can achieve
+this. We at IDPH would love to hear your comments as to what could help in this process.
+C: C. Wade: We need to know how doctors are messaging/ sharing information with clients. How many doctors are talking about U=U, health literacy, PrEP,
+and other topics with clients? We also need to be careful not to marginalize people who are on salvage medications that are not able to reach viral suppression. I also
+hope that this group can look more into the intersectionality of HIV and social justice. The political climate is very harsh for us right now, especially for formally
+incarcerated people, immigrants, and the transgender population. We need more advocacy through collaborations but also from PLWH themselves. As someone who
+has been an advocate for a long time, I am getting disappointed because I feel that we have gotten tired from the fight. Reinvigoration and disruption of our norm is
+needed if we will get to zero.
+C: M. Williamson. I appreciate everyone’s comments. From the policy level, I believe that there needs to be an inventory that explicitly lists all discriminatory
+laws/ disruptions that can stop people from getting into care. There is so much intersectionality in our work that needs to be discussed when operating under laws or
+stigmas that devalue human life. We need to incorporate these big issues into our work if we are going to be successful. One way we can do this is to partner with
+agencies or organizations that do not prioritize HIV but are working on shared barriers, like immigration, health care access, etc. Please remember that Prevention’s
+work does not stop at the linkage to care hand off, and Care’s work does not stop at viral suppression. Clients need ongoing support and services in order to sustain
+viral suppression and quality of life.
+C: J. Maras: I have appreciated this conversation. Communication is a vital part of true integration. Although we have been working at the state level on
+integrated Prevention and Care for about three years, we need to be able to make this clear and known to all partners. We have the elements and framework for true
+integration, but we must effectively communicate this information for everyone to participate. I too agree that we must move away from thinking that responsibility
+ends for Prevention and begins for Care at the linkage process. Both sides should be reaching beyond this point to serve clients and should keep lines of
+communication open during these processes. In the same way, we need to make sure that client are aware of what services are available to them so we can best serve
+their needs. I want to reiterate that IDPH is committed to integration. Please never be afraid to come to me, J. Nuss, or others with ideas that could better our
+processes as we are all working for the best interest of clients. We will do our best to implement ideas within our means.
+Action Item: The discussion ended, and J. Nuss thanked everyone for their comments and ideas. Notes from this discussion will be shared with IHIPC committees
+for recommendations on how to proceed.
+11:45 pm: Public Comment Period- There was no public comment time requested at the meeting. The time set aside for public comment was used instead to
+extend time during the Viral Suppression discussion.
+11:55 am: Lunch break- Participants were dismissed to lunch at 11:55am.
+12:40 pm: Presentation/Vote on Results of 2019 New Member Selection- (15 minutes)
+Lisa Roeder and Mark Williams, IHIPC Membership Committee Co-chairs
+M. Williams presented the 2019 New Member Selection Process and Recommendations on behalf of the Membership Committee. He reminded participants
+of the identified gaps for membership (Regions 1 and 2 (highest priority), Regions 4,5,6, and 7; representation from the transgender community; individuals of Black,
+Hispanic or “Other” race; and Black and Hispanic MSM). He also reviewed the application and scoring process in which new members are evaluated.
+M. Williams then reviewed the slate of recommended voting (1) and at-large (6) members for 2019, indicating how these individuals filled identified gaps.
+Non-selected applicants were also reviewed. It is important to note that only demographic information was shared during the presentation: names of applicants were
+not released as to keep the voting process as unbiased as possible. Overall, almost all demographic gaps were filled (apart from gaps identified in Region 5 &6 and
+7
+
+ applicants of “Other” race), all professional and community representation gaps were filled, and nine people living with HIV will be included in the 2019 IHIPC
+membership as elected voting and at-large members.
+Questions & Answers, Discussion, Vote - (15 minutes)
+*NHAS Goal 4
+Q: C. Montgomery asked: If an applicant was not selected, how long is there application valid?
+A: J. Nuss responded: If a non-selected applicant is interested in membership in 2020, they will need to submit a new application when the opening of the
+application process is announced in 2019.
+Vote: With no further discussion, at 12:48 pm, M. Williams made a motion to accept the slate of voting and at-large applicants as recommended by the
+Membership Committee for 2019 IHIPC membership. L. Roeder seconded the motion. The vote was performed via ballot vote, where members could vote “Yes”,
+“No”, or “Abstain”. The motion carried with 28 “Yes” votes, 0 “No” votes, 0 “Abstain” votes, and 5 members absent or not casting a vote.
+12:55 pm: Soliciting Downstate Feedback for GTZ Illinois Plan- Sara Semelka, Special Projects Manager, AIDS Foundation of Chicago
+S. Semelka began by thanking everyone who had attended the GTZ dinner for downstate input on 10/29. She then asked participants to come forward to
+share their thoughts on the event:
+R. Ferguson stated: I have been living with HIV for 23 years and became involved in GTZ efforts in 2014. We have had many great projects and ideas come
+about in the last several years, such as U=U and the Partners Project. Although GTZ is a new idea, it is very strong and incorporates many great ideas. I support it as a
+long term survivor.
+J. Erdman reported: There were 60 people at the GTZ event that represented every region. We were able to collect downstate perspectives on a variety of
+committee recommendations related to changing systems, Care coordination, integration of STI and Hepatitis information into services, etc. Overall, there was a sense
+of passion in the room from all participants and this support will help us to keep the plan moving forward.
+C. Crause stated: At the beginning of the GTZ meeting, S. Semelka had asked participants to consider what life would be like with HIV. To ask people to
+draw ideas from that perspective was unique. One idea that we heard a lot was to continue to normalize routine testing for STIs and HIV. We also had discussion on
+how some folks/ areas will get to zero before others. These are all things to consider as we continue to draft the plan so that no one is left out. We were happy to
+collect so many new ideas from a downstate perspective. Thank you to everyone who was there and participated.
+M. Maginn stated: It was great to bring a GTZ event downstate so that the voices of people in central and southern Illinois could be heard. It was a safe place
+to talk without discrimination or stigma. Big topics of the night included trauma informed care, science-based sexual health education in schools, nPEP, and the
+importance of transparency in services to avoid duplication.
+C. Wade stated: This has been a great process as representation and diversity has been at the forefront of the GTZ planning and goals. I would like to share
+that we have received endorsement of the plan from both candidates for Governor who are representing major parties. Today, we are asking the IHIPC to also
+consider endorsing the GTZ Plan and recommendations.
+J. Nuss responded: Thank you. This request can be taken back to the Steering Committee for further discussion once the GTZ recommendations have been
+finalized and the draft Plan is released.
+S. Semelka asked if there were any other ideas, thoughts, or questions about the plan at this time:
+Q: J. Nuss asked: What is the timeline for the plan?
+A: S. Semelka responded: At this time, the five GTZ committees have written their draft recommendations (80 in total), which are now available to the public
+to review and comment on at the following website: https://bit.ly/GTZRecs1. On November 14th, the GTZ Steering Committee will meet to review comments and to
+finalize the recommendations. On December 3rd, the first draft of the GTZ Plan will be released and open for public comment.
+C: S. Zamor stated: Thank you to everyone who was at the GTZ event. There were new ideas shared and it was a good opportunity for everyone to
+contribute. It is exciting to see how the plan will come together. Thank you for the suggestion for the IHIPC to adopt the GTZ Plan.
+C: J. Dispenza stated: I enjoyed the event. It was nice to be told to think about ideal scenarios for getting to zero, which broadened ideas beyond our current
+barriers. I also agree that it is a good recommendation to adopt the GTZ Plan and to use its recommendations in our committees.
+8
+
+ C: C. Crause stated: I want to remind the group that the GTZ Plan will be a living document. It can and most likely will change as time moves forward. The
+recommendation are broad and cover small asks, such as better coordination of HIV and STI testing, but also touch on larger asks, like policy change.
+C: S. Semelka stated: We encourage all people to take a look at the recommendations as representatives of your community. Please stay tuned for more
+information about the release of the draft plan, which will include a launch event/ watch parties on December 3rd. We look forward to sharing the draft and making
+the plan become more concrete as recommendations are being made.
+C: J. Nuss said: Thank you for the information. As the HD Co-chair, she reminded the group that the GTZ Plan does not take place of the Integrated Plan,
+but they are two separate plans that should align and support one another. She informed the group that last week, she and the Community Co-chair, M. Benner,
+attended a NASTAD meeting and learned that CDC/HRSA are in the process of developing updated guidance for the next Integrated Plan. That guidance as well as
+CDC and HRSA grant guidance should also be taken into consideration in all of our alignment efforts.
+1:30 pm:
+Adjourn- Before adjournment of the meeting, J. Nuss asked if any participants would like to share announcements. M. Gaines used this time as an
+opportunity to thank C. Wade for the great outreach work that he has been doing with young black males in central Illinois. M. Gaines had accompanied C. Wade at
+several events and wanted to commend him for his ongoing support of the community and for his work in the field. After this, the meeting adjourned at 1:20pm.
+
+9
+
+ 

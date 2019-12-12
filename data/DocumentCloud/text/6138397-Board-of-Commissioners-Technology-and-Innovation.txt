@@ -1,0 +1,206 @@
+Board of Commissioners of Cook County
+Minutes of the Technology and Innovation Committee
+Tuesday, December 13, 2016
+(Recessed and Reconvened
+Wednesday, December 14, 2016)
+
+11:35 AM
+
+Cook County Building, Board Room
+118 North Clark Street, Chicago, Illinois
+
+ATTENDANCE
+Present:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+
+Absent:
+
+Commissioners Butler, Schneider, and Steele (3)
+
+PUBLIC TESTIMONY
+Chairman Fritchey asked the Secretary to the Board to call upon the registered public speakers, in
+accordance with Cook County Code.
+1. George Blakemore – Concerned Citizen
+
+17-0599
+COMMITTEE MINUTES
+Approval of the minutes from the meeting of 10/25/2016
+A motion was made by Commissioner Silvestri, seconded by Commissioner Morrison, to approve
+17-0599. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+
+Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+ 16-6274
+Presented by: SIMONA ROLLINSON, Chief Information Officer, Bureau of Technology
+PROPOSED CONTRACT (TECHNOLOGY)
+Department(s): Bureau of Technology
+Vendor: Microsoft Corporation, Redmond, Washington
+Request: Authorization for the Chief Procurement Officer to enter into and execute contract
+Good(s) or Service(s): Microsoft Premier Support Services
+Contract Value: $1,821,705.00
+Contract period: 12/31/2016-1/6/2020
+Potential Fiscal Year Budget Impact: FY 2017 $607,235.00, FY 2018 $607,235.00, FY 2019
+$607,235.00
+Accounts: FY 2017: 009-441 - $172,360.00, 524-260 - $58,380.00, 534-441 - $149,900.00, 310-260 $60,750.00, 528-441 - $73,160.00, 217-441 - $92,685.00; FY 2018: 009-441 - $172,360.00, 524-260 $58,380.00, 534-441 - $149,900.00, 310-260 - $60,750.00, 528-441 - $73,160.00, 217-441 - $92,685.00;
+FY 2019: 009-441 - $172,360.00, 524-260 - $58,380.00, 534-441 - $149,900.00, 310-260 - $60,750.00,
+528-441 - $73,160.00, 217-441 - $92,685.00.
+Contract Number(s): 1618-15773
+Concurrence(s):
+The contract-specific goal set on this contract was zero.
+The Chief Procurement Officer concurs.
+N/A Bureau of Technology item.
+Summary: The Bureau of Technology (“BOT”) requests Board approval of Contract No. 1618-15773 with
+Microsoft Corporation for Microsoft Premier Support Services. Microsoft Premier is a support solution
+used by BOT, the Chief Judge, Clerk of the Circuit Court, Treasurer, County Clerk, and Sheriff. This
+service provides the County with expert-level support for Microsoft products, including problem resolution,
+on-site support, assessment of County systems and unlimited access to Microsoft Premier Online Services.
+This is a Sole Source Procurement pursuant to Section 34-139 of the County Procurement Code.
+A motion was made by Commissioner Daley, seconded by Commissioner Morrison, to recommend
+for approval 16-6274. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+Page 2 of 6
+
+ Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+16-6345
+Presented by: IVAN SAMSTEIN, Chief Financial Officer, Bureau of Finance
+PROPOSED CONTRACT AMENDMENT
+Department(s): Office of the Chief Financial Officer
+Vendor: Workforce, LLC
+Request: Authorization for the Chief Procurement Officer to extend and increase contract
+Good(s) or Service(s): Services
+Original Contract Period: 12/31/2013 - 12/30/2016
+Proposed Contract Period Extension: 12/31/2016 - 12/31/2018.
+Total Current Contract Amount Authority: $9,671,540.00
+Original Approval (Board or Procurement): 12/31/2013, $7,925,590.00
+Previous Board Increase(s) or Extension(s): Previous Amendments 1, 2, 3
+Previous Chief Procurement Officer Increase(s) or Extension(s): Last Increase 8/3/2016 $959,138.00
+This Increase Requested: $3,381,598.00
+Potential Fiscal Impact: FY 2017 $1,953,094.00 FY 2018 $1,428,504.00
+Accounts: 1402908733
+Contract Number(s): 11-53-051
+Concurrences:
+N/A
+Summary:
+Below is the summary of scope and fees:
+Hosting Charges for 2017 and 2018
+EmpCenter 4000 Time Clock Rental: 2017 and 2018
+Application Managed Service: 2017 and 2018
+Page 3 of 6
+
+ Project Changes Orders: 2017 (included in attached Exhibit C Renewal of Compensation Schedule
+A motion was made by Commissioner Daley, seconded by Commissioner Morrison, to accept as
+substituted 16-6345. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+
+Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+PROPOSED SUBSTITUTE TO FILE #16-6345
+PROPOSED CONTRACT AMENDMENT
+Department(s): Office of the Chief Financial Officer
+Vendor: Workforce, LLC
+Request: Authorization for the Chief Procurement Officer to extend renew and increase contract
+Good(s) or Service(s): Enterprise Time and Attendance System
+Original Contract Period: 12/31/2013 – 12/30/2016 with two (2) two (2)-year renewal options
+Proposed Contract Period Extension: 12/31/2016 – 12/31/2018.
+Total Current Contract Amount Authority: $9,671,540.44
+Original Approval (Board or Procurement): 12/4/2013, $7,925,590.00
+Previous Board Increase(s) or Extension(s): 2/10/2016, $786,812.44; 8/3/2016, $959,138.00
+Previous Chief Procurement Officer Increase(s) or Extension(s):
+This Increase Requested: $3,381,598.00
+Potential Fiscal Impact: FY 2017 $1,953,094.00 FY 2018 $1,428,504.00
+Accounts: 1402908733
+Contract Number(s): 11-53-051
+Concurrences:
+N/A
+
+Page 4 of 6
+
+ Summary: This increase and first of two (2), two (2) year renewal options will allow the Office
+of the Enterprise Resource Planning to continue to receive technical support services for the
+County-wide Time and Attendance System.
+Below is the summary of scope and fees:
+
+2017 and 2018
+Schedule
+This contract was awarded through the Request for Proposal (RFP) process in accordance with the
+Cook County Procurement Code. Workforce Software, LLC. was awarded this contract based on
+established evaluation criteria.
+A motion was made by Commissioner Daley, seconded by Commissioner Morrison, to recommend
+for approval as substituted 16-6345. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+
+Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+16-6427
+Presented by: F. THOMAS LYNCH, Director, Enterprise Resource Planning (ERP)
+REPORT
+Department: Office of Enterprise Resource Planning
+Request: Refer ERP Status Report to Technology Committee
+Report Title: ERP Project Status Report
+Report Period: 4th Quarter 2016
+Summary: The Director of ERP will provide a comprehensive update to the Board f Commissioners via
+the Technology Committee on the status of all ongoing ERP Projects. The status update will reflect progress
+being made toward achieving the goals of selecting and implementing a Countywide Enterprise Resource
+Planning (ERP) platform, configure and installing a biometric based time and attendance system, upgrading
+and migrating the JDEdwards HR/Payroll system to a cloud hosting environment.
+A motion was made by Commissioner Morrison, seconded by Commissioner Daley, to recommend
+for receiving and filing 16-6427. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+Page 5 of 6
+
+ Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+ADJOURNMENT
+A motion was made by Commissioner Morrison, seconded by Commissioner Daley, to adjourn the
+meeting. The motion carried by the following vote:
+Ayes:
+
+Chairman Fritchey, Vice Chairman Morrison, Commissioners Daley, García, Goslin
+and Silvestri (6)
+
+Absent:
+
+Commissioner Butler, Schneider and Steele (3)
+
+Respectfully submitted,
+
+__________________________________
+Chairman
+
+_________________________________
+Secretary
+
+*A video recording of this meeting is available at https://cook-county.legistar.com
+
+Page 6 of 6
+
+ 

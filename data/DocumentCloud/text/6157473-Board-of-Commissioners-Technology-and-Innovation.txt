@@ -1,0 +1,134 @@
+REPORT OF THE COMMITTEE ON INFORMATION TECHNOLOGY AND AUTOMATION
+April 6, 2010
+The Honorable,
+The Board of Commissioners of Cook County
+ATTENDANCE
+Present:
+
+Chairman Beavers, Vice Chairman Gorman, Commissioners Butler, Daley,
+Goslin, Peraica and Schneider (7)
+
+Absent:
+
+Commissioners Moreno and Steele (2)
+
+Also Present:
+
+R. Steve Edmondson, Chief Information Officer, Bureau of Technology of Cook
+County
+
+Ladies and Gentlemen:
+Your Committee on Information Technology and Automation of the Board of
+Commissioners of Cook County met pursuant to notice on Tuesday, April 6, 2010 at the hour of
+9:45 A.M. in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago,
+Illinois.
+Your Committee has considered the following item and, upon adoption of this report, the
+recommendations are as follows:
+304791
+
+CONSOLIDATION OF COOK COUNTY’S TECHNOLOGY (PROPOSED
+RESOLUTION). Submitting a Proposed Resolution sponsored by Gregg Goslin,
+Elizabeth “Liz” Doody Gorman, Timothy O. Schneider, Todd H. Stroger, President,
+William M. Beavers, Jerry Butler, Forrest Claypool, Earlean Collins, John P. Daley,
+Bridget Gainer, Joseph Mario Moreno, Joan Patricia Murphy, Anthony J. Peraica,
+Edwin Reyes, Peter N. Silvestri, Deborah Sims, Robert B. Steele and Larry
+Suffredin, County Commissioners.
+PROPOSED RESOLUTION AMENDED
+CONSOLIDATION OF COOK COUNTY’S TECHNOLOGY
+WHEREAS, Cook County has struggled for years to seek out the best approach to
+address the technology requirements of all entities under the auspices of the
+County; and
+WHEREAS, there has been resistance among some elected officials to
+consolidate into the County’s main technology system due to concerns with
+privacy; and
+WHEREAS, it has become evident that the County cannot continue financially to
+fund separate or proprietary technology plans for different agencies and
+departments under the umbrella of the County; and
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 6, 2010
+PAGE 2
+
+WHEREAS, technology funding outside of the Bureau of Technology is significant:
+automation funding is $30 million with 240 FTE’s; document storage costs are $26
+million with 192 FTE’s; and technology related to the 260 and 579 accounts is over
+$50 million annually; and
+WHEREAS, it is clear that consolidation across all areas of technology will
+improve efficiencies and save the County money, in 2010 the Bureau of
+Technology will save $700,000 by consolidating the iSeries system into the
+mainframe and $450,000 by transitioning phone system maintenance to existing
+staff; and
+WHEREAS, of paramount importance in the consolidation process are privacy
+issues for independent elected officials, and ensuring the integrity and
+confidentiality of important information. The Bureau of Technology has already
+proven this can be accomplished as has been done in Maricopa, Los Angeles and
+Miami Dade Counties in their IT consolidation programs; and
+WHEREAS, the Cook County Board previously approved the consolidated
+approach to hardware, software and technology related services, the County must
+now take the next step to consolidate all technology investments, systems and
+applications.
+NOW, THEREFORE, BE IT RESOLVED, that the Bureau of Technology will
+prepare to centralize technology throughout the County by: preparing an
+Enterprise Architectural Plan for all County IT operations; consolidate all IT
+spending including oversight of special purpose funds; continue to build a disaster
+recovery site; convert historical paper records to electronic format along with other
+necessary steps and present it to the President and Board of Commissioners prior
+to the 2011 budget process for implementation into the 2011 budget.; and
+BE IT FURTHER RESOLVED, that all departments, bureaus and agencies under
+the President, and all office of County Elected Officials, are hereby directed to
+provide the Chief Information Officer, on or before February 25, 2010, April 20,
+2010, with detailed information identifying all county staff who are employed in
+automation or technology related jobs, by job titles and position codes from the
+2010 Executive Budget and including the sources of funding for their salary
+(general funds, grant funds or special purpose funds) and a description of their
+duties and responsibilities as they pertain to information technology; and
+BE IT FURTHER RESOLVED, that the Chief Information Officer will prepare a
+report containing an analysis of the information collected under this directive, said
+report to be submitted to the President and Board of Commissioners on March 16,
+2010 May 4, 2010.
+*Referred as amended to the Committee on Information Technology and
+Automation on January 26, 2010.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE REPORT
+APRIL 6, 2010
+PAGE 3
+
+Commissioner Goslin, seconded by Commissioner Daley, moved the approval of
+amended Communication No. 304791 as amended.
+R. Steve Edmondson, Chief Information Officer, Bureau of Technology of Cook County, stated
+the following: His Office has received information and input regarding information technology
+organizations and their spending. His Office had not received information from the following:
+the Assessor, the Recorder of Deeds, the Chief Judge, and the State’s Attorney Office. Once
+this information is available, he will be able to develop a final report, which he can share with the
+Committee on the date specified in the Resolution. He does have information from the Sheriff’s
+Office and the Board of Review.
+Commissioner Daley, seconded by Commissioner Goslin, moved to amend
+Communication No. 304791 by changing the date from February 25, 2010 to April 20, 2010
+in paragraph nine, and by changing the date from March 16, 2010 to May 4, 2010 in
+paragraph ten. The motion carried.
+A voice vote was taken on the main motion to approve amended Communication No.
+304791, as amended. The motion carried.
+Chairman Beavers asked the Secretary to the Board to call upon the registered public speaker,
+in accordance with Cook County Code, Sec. 2-108(dd):
+1. George Blakemore – Concerned Citizen
+Commissioner Daley, seconded by Commissioner Goslin, moved to adjourn the meeting.
+The motion carried and the meeting was adjourned.
+YOUR COMMITTEE RECOMMENDS THE FOLLOWING ACTIONS
+WITH REGARD TO THE MATTER NAMED HEREIN:
+Communication Number 304791
+
+Approve as Amended
+
+Respectfully submitted,
+Committee on Information Technology
+and Automation
+
+____________________________
+William M. Beavers, Chairman
+
+Attest:
+
+_________________________________
+Matthew B. DeLeon, Secretary
+
+ 

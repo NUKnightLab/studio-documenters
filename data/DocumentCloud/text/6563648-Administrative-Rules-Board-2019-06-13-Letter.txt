@@ -1,0 +1,93 @@
+Via Email
+Michael Foley
+Director of Sustainability
+Cuyahoga County
+mfoley@cuyahogacounty.us
+Dear Director Foley,
+Thank you for taking my call and discussing the County’s Ordinance and draft regulations
+regarding a scooter share program for Cuyahoga County (“County”).
+Our primary concerns are conflicts or duplication between the Cuyahoga County and Cleveland
+regulations. We are very supportive of the progress that the County and City of Cleveland
+(“City”) have made towards bringing scooters to the greater Cleveland area through a single
+permitting program and fee structure.
+There are still a few issues that we would like to raise in the current draft regulations:
+1. Datasharing Requirements:
+We are committed to sharing meaningful and actionable data with our municipal partners. We
+will work closely with staff to make the information useful and relevant for applications like
+compliance and city planning. Below are some data sets that we share:
+●
+
+Usage (daily/quarterly/annually)
+
+●
+
+Total miles (daily/quarterly/annually)
+
+●
+
+Number of scooters in circulation
+
+●
+
+Daily, weekly and monthly active riders (including members/walk-up renters)
+
+●
+
+Number and duration of rides / scooter / day
+
+●
+
+Number and duration of rides / scooter / day
+
+In addition, we are also able to work with the city to put together monthly reports on such topics
+as:
+● Incidents report and resolution with comments/complaints, theft/vandalism
+●
+
+Types and counts of repairs conducted
+
+However, we need further refinement of some of the data sets you have suggested:
+
+ #4: We work with public entities and law enforcement to make individual trip data
+available pursuant to appropriate legal procedure through our Law Enforcement Portal.
+However, providing raw trip data involves disclosure of Personally Identifiable
+Information (PII) raising both privacy and Civil Rights concerns. As you note in item #10,
+sharing data indiscriminately with unknown third parties or the public at large creates
+major privacy concerns and concerns about misuse or misconstruing data.
+In addition, holding customers’ PII would make the County vulnerable to hacking, and
+require the County to have the same levels of data security and technology as required
+of the private companies to ensure the security of the data.
+#6 & 7: While we trust our municipal partners, as guardians of the public good, with our
+data subject to our data sharing agreement, it would be a liability both to the municipality
+and to our companies to release data to the public, and other unknown parties. As you
+note in item #10, sharing data indiscriminately with unknown third parties or the public at
+large creates major privacy concerns and concerns about misuse or misconstruing data.
+This is particularly true when data about origins and destinations on one vendor platform
+can be linked to data from sources like credit cards to track the location of specific
+individuals.
+We outline explicitly to users a small group of third parties will be able to receive their
+information. This includes government entities in which we are required by law to share
+information, third parties that help service our IT infrastructure, and our third-party
+payment transaction providers.
+#11: Riders need to grant access to their camera for access to our service. In order to
+lock/unlock the scooter, riders need to scan a QR code in our app. In addition, before
+riders are able to end a trip, we require them to take a photo of the parked vehicle. The
+act of taking the photo acts as a behavioral “nudge” to encourage proper parking
+behavior, and provides us with data on how our vehicles are being parked.
+2. Lime employs a local team for its operations in every city we serve, including an
+Operations Manager, mechanics, and operations specialists. To ensure scooters are
+reliably charged, we also have a “Juicer” program. Ordinary people can request a
+charger from us, pick up a scooter, charge it, and return it to the street the next day. It is
+a low effort activity, people can earn a little extra money, and the city gets reliably
+charged scooters. Many people charge for Lime and other companies as well. Therefore,
+charging scooters should not be included in the list of activities exclusively reserved for
+employees.
+Thank you in advance for your consideration in addressing our concerns. Please feel free to
+contact me at ashley.scott@li.me if you would like to discuss further.
+
+ Best,
+
+Shari Shapiro
+Director, Mid-Atlantic Government Relations
+Neutron Holdings, Inc. dba Lime
+

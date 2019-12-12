@@ -1,0 +1,871 @@
+ORDINANCES
+
+SEPTEMBER 12, 2018 BOARD AGENDA
+
+ 
+
+COMMISSIONERS
+
+18-5789 WAS REFERRED TO THE FINANCE COMMITTEE AT THE SEPTEMBER 12, 2018
+BOARD MEETING
+18-5789
+Sponsored by: JOHN A. FRITCHEY, RICHARD R. BOYKIN, BRIDGET GAINER, GREGG GOSLIN,
+SEAN M. MORRISON, TIMOTHY O. SCHNEIDER, PETER N. SILVESTRI, DEBORAH SIMS and
+JEFFREY R. TOBOLSKI, Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+AN AMENDMENT TO THE COOK COUNTY PARKING LOT AND GARAGE OPERATIONS
+TAX
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 74 Taxation, Article XIII,
+Parking Lot and Garage Operations Tax, Sections 74-511 and 74-514 of the Cook County Code is hereby
+amended as Follows:
+Sec. 74-511. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them
+in this section, except where the context clearly indicates a different meaning:
+Booking Intermediary means any person or entity that facilitates processing and fulfillment of
+reservations between individuals desiring parking in a parking lot or garage and an operator or valet parking
+operator, but does not itself own, lease or operate the parking lot or garage, for which payment is being
+collected or retain the consideration for the parking or storage of motor vehicles at such parking place.
+Charge or fee paid for parking means the gross amount of consideration for the use or privilege of
+parking a motor vehicle in or upon any parking lot or garage in Cook County, collected by an operator or a
+valet parking operator and valued in money, whether received in money or otherwise, including cash,
+credits, property and services, determined without any deduction for costs or expenses whatsoever, but not
+including charges that are added to the charge or fee on account of the tax imposed by this Chapter or on
+account of any other tax imposed on the charge or fee. "Charge or fee paid for parking" shall exclude
+separately stated charges not for the use or privilege of parking. If any separately stated charge is not
+optional, it shall be presumed, unless proved otherwise, that it is part of the charge for the use or privilege
+of parking.
+Department or Department of Revenue means the County Department of Revenue.
+Motor vehicle means any vehicle that is self-propelled.
+Operator means any person conducting the operation of a parking lot or garage, as defined by this
+Article, or receiving consideration for parking or storage of motor vehicles at a parking place within Cook
+County. The term does not include Booking Intermediaries.
+Parking lot or garage means any building, structure, premises, enclosure or other place, whether
+enclosed or not, except a public way, within the County, where four or more motor vehicles are stored,
+housed or parked for hire, charge, fee or other valuable consideration in a condition ready for use, or where
+rent or compensation is paid to the owner, manager or lessee of the premises for the housing, storing,
+sheltering, keeping or maintaining of such motor vehicles.
+
+ Person means any individual, corporation, Limited Liability Corporation, organization,
+government, governmental subdivision or agency, business trust, estate, trust, partnership, association and
+any other legal entity.
+Valet Parking Operator means a person who employs one or more attendants for the purpose of
+providing a valet parking service or who contracts his own services, but not in the capacity of employee, to
+any business establishment, for the purpose of providing a valet parking service to such establishment
+located in Cook County. The term does not include Booking Intermediaries.
+Valet Parking Service means a parking service provided to accommodate patrons of any business
+establishment, which service is incidental to the business of the establishment and by which an attendant
+on behalf of the establishment takes temporary custody of the patrons' motor vehicle and moves, parks,
+stores or retrieves the vehicle for the patrons' convenience.
+***
+Sec. 74-514. - Maintenance of records.
+(a) It shall be the duty of every operator and valet parking operator to keep accurate and complete
+books and records to which the Director of Revenue shall, at all times, have full access. These books and
+records shall include all cash register or other receipts required by this Article, all tickets and voided tags,
+and a daily sheet for each location showing:
+(1) The number of motor vehicles parked in or on each lot or garage, segregated on a daily, weekly,
+monthly, or other basis, and also segregated by the amount of the charge or fee imposed for
+parking; and
+(2) The actual parking lot or garage tax receipts collected from all parking transactions.
+(3) Any other original source documents and books of entry denoting the transactions that gave
+rise, or may have given rise, to any tax liability, exemption or deduction or defense to liability.
+(b) All books and records required by this Section shall be retained for the taxable time period as
+listed in the statute of limitations section of the Uniform Penalties, Interest and Procedures Ordinance,
+Article III, Section 34-60 et seq.; provided, however, that an operator on an annual basis may request
+approval from the Director of Revenue to discard tickets or tags that were issued more than one year earlier,
+and the Director shall grant approval if the director determines that the operator's books and records satisfy
+the requirements of this Article.
+(c) Upon the Department of Revenue’s request, any Booking Intermediary shall provide a list of
+all operators or valet parking operators within Cook County that have listed a parking lot or garage with the
+Booking Intermediary, including the operator’s or valet parking operator’s address and contact information.
+Effective date: This ordinance shall be in effect immediately upon adoption.
+
+ BUREAU OF ADMINISTRATION
+DEPARTMENT OF TRANSPORTATION AND HIGHWAYS
+
+18-4997 WAS REFERRED TO THE LEGISLATION AND INTERGOVERNMENTAL
+RELATIONS COMMITTEE AT THE SEPTEMBER 12, 2018 BOARD MEETING
+18-4997
+Sponsored by: TONI PRECKWINKLE (President), Cook County Board of Commissioners
+PROPOSED ORDINANCE (TRANSPORTATION AND HIGHWAYS)
+AN ORDINANCE RELATIVE TO WIRELESS TELECOMMUNICATION FACILITIES IN
+COUNTY RIGHTS-OF-WAY
+WHEREAS, the County of Cook (“County”) is empowered to take and have the care and custody of all
+real estate owned by the County, including the roadways and trail systems, pursuant to 55 ILCS 5/5-1015;
+and
+WHEREAS, the County is empowered to consent to the use of its rights-of-way by public utility companies
+and others, pursuant to 605 ILCS 5/9-113; and
+WHEREAS, telecommunications providers have placed, or from time to time may request to place, certain
+telecommunication facilities in the County Highway rights-of-way; and
+WHEREAS, on June 19, 2007, the Cook County Board of Commissioners enacted Ord. No. 07-O-33, the
+Cook County Public Way Regulatory Ordinance, in order to provide policies and procedures for the
+regulation of the use of County public ways for the construction, reconstruction, ownership, replacement,
+relocation, modification, maintenance, upgrading, operation and removal of facilities, including but not
+limited to public utility, pipeline, telecommunication, cable television, electric, gas, water, wastewater,
+petroleum product facilities, driveways, curb cuts, and other facilities; and provide for recovery of costs
+incurred by the County for licensing, permitting, inspecting, monitoring and regulating such uses of the
+public ways in order to provide for the public safety and interest; and
+WHEREAS, while State and federal law limit the authority of local governments to enact laws that prohibit
+or have the effect of prohibiting telecommunications services, the County has the power, under existing
+State and federal law, to approve appropriate regulations and restrictions relative to small cell, distributed
+antenna systems and other wireless telecommunication facility installations in the public rights-of-way as
+long as these regulations and restrictions are consistent with recently enacted Public Act 100-0585, known
+as the Small Wireless Facilities Deployment Act (“the Act”); and
+WHEREAS, in light of the anticipated increased demand for placement of small cell facilities, distributed
+antenna system facilities and other wireless telecommunication facility installations within the public rightsof-way, the County Board finds and determines that it is necessary to and in the best interests of the public
+health, safety and general welfare to adopt the Ordinance below in order to establish generally applicable
+standards for construction, installation, use, maintenance and repair of such facilities and installations within
+the County Highway rights-of-way, so as to, among other things, (i) prevent interference with the facilities
+and operations of the County’s infrastructure and of other utilities lawfully located in public rights-of-way
+or property, (ii) provide specific regulations and standards for the placement and siting of wireless
+telecommunication facilities within County rights-of-way, (iii) preserve the character of the areas in which
+facilities are installed, (iv) minimize any adverse visual impact of wireless telecommunication facilities and
+prevent visual blight, (v) facilitate the location of wireless telecommunication facilities in permitted
+locations within the County Highway rights-of-way, and (vi) assure the continued safe use and enjoyment
+of properties adjacent to wireless telecommunication facilities locations.
+
+ BE IT ORDAINED, by the Cook County Board of Commissioners, that the foregoing recitals are
+incorporated into this Ordinance by this reference as findings of the County Board; and that Chapter 66
+Roads and Bridges, Article V Wireless Telecommunication Services and Facilities of the Cook County
+Code is hereby enacted as Follows:
+Sec. 66-132. Title.
+Sec. 66-133. Enabling statute.
+Sec. 66-134. Definitions
+Sec. 66-135. Regulations and standards.
+Sec. 66-136. Permitting requirements.
+Sec. 66-137. Permit fees.
+Sec. 66-138. Adjustments or relocations of wireless telecommunication facilities.
+Sec. 66-139. Damage to wireless telecommunications facility.
+Sec. 66-140. Damage to County infrastructure or property.
+Sec. 66-141. Variance requirements.
+Sec. 66-142. Abandonment and removal.
+Sec. 66-143. County wireless telecommunication facilities.
+Sec. 66-144. No implied warranties.
+Sec. 66-145. Hold harmless agreement.
+Sec. 66-146. Severability.
+Effective date: This ordinance shall be in effect upon adoption.
+Full Text of Ordinance: <https://tinyurl.com/yaqezm7a>
+
+ BUREAU OF HUMAN RESOURCES
+
+18-5656
+ORDINANCE
+Sponsored by
+THE HONORABLE TONI PRECKWINKLE,
+PRESIDENT OF THE COOK COUNTY BOARD OF COMMISSIONERS
+PREVAILING WAGE ORDINANCE
+WHEREAS, the State of Illinois has enacted "An Act regulating wages of laborers, mechanics and other
+workers employed in any public works by the State, county, city or any public body or any political
+subdivision or by anyone under contract for public works," approved June 26, 1941, codified as amended,
+820 ILCS 130/1 et seq. (1993), formerly Ill. Rev. Stat., Ch. 48, par. 39s-1 et seq.; and
+WHEREAS, the aforesaid Act requires that the Board of Commissioners of the County of Cook investigate
+and ascertain the prevailing rate of wages as defined in said Act for laborers, mechanics and other workers
+in the locality of said County employed in performing construction of public works, for said County.
+NOW, THEREFORE, BE IT ORDAINED BY THE PRESIDENT AND BOARD OF
+COMMISSIONERS OF THE COUNTY OF COOK:
+Section 1. To the extent and as required by "An Act regulating wages of laborers, mechanics and other
+workers employed in any public works by the State, county, city or any public body or any
+political subdivision or by anyone under contract for public works," approved June 26, 1941,
+as amended, the general prevailing rate of wages in this locality for laborers, mechanics and
+other workers engaged in the construction of public works coming under the jurisdiction of this
+County is hereby ascertained to be the same as the prevailing rate of wages for construction
+work in the Cook County area as determined by the Department of Labor of the State of Illinois
+as of August 2018, a copy of that determination being submitted hereto and incorporated herein
+by reference. As required by said Act, any and all revisions of the prevailing rate of wages by
+the Department of Labor of the State of Illinois shall supersede the Department's August
+determination and apply to any and all public works construction undertaken by the County of
+Cook. The Definition of any terms appearing in this Ordinance which are also used in aforesaid
+Act shall be the same as in said Act.
+Section 2. Nothing herein contained shall be construed to apply said general prevailing rate of wages as
+herein ascertained to any work or employment except public works construction of this County
+to the extent required by the aforesaid Act.
+Section 3. The Bureau of Human Resources shall publicly post or keep available for inspection by any
+interested party in the main office of this Bureau of Human Resources (County) this
+determination or any revisions of such prevailing rate of wage. A copy of this determination
+or of the current revised determination of prevailing rate of wages then in effect shall be
+attached to all contract specifications.
+Section 4. The Clerk shall mail a copy of this determination to any employer, and to any association of
+employers and to any person or association of employees who have filed their names and
+addresses, requesting copies of any determination stating the particular rates and the particular
+class of workers whose wages will be affected by such rates.
+
+ Section 5. The Bureau of Human Resources shall promptly file a certified copy of this Ordinance with
+both the Secretary of State Index Division and the Department of Labor of the State of Illinois.
+Section 6. The Bureau of Human Resources shall cause to be published in a newspaper of general
+circulation within the area a copy of this Ordinance, and such publication shall constitute notice
+that the determination is effective and that this is the determination of this public body.
+Section 7. The Chief Procurement Officer of Cook County shall specify in the call for bids in any contract
+for public works that the general prevailing rate of wages in the locality for each craft or type
+of laborer or mechanic needed to execute the contract to perform such work, also the general
+prevailing rate for legal holiday and overtime work as ascertained by the Bureau of Human
+Resources, shall be paid for each craft or type of work needed to execute the contract or to
+perform such work. The Purchasing Agent in awarding the contract shall cause to be inserted
+in the contract a stipulation to the effect that not less than the prevailing rate of wages, as found
+by the Bureau of Human Resources, shall be paid to all laborers, workers and mechanics
+performing work under the contract, and the Purchasing Agent shall also require in all such
+contractor's bonds that the contract include such provision as will guarantee the faithful
+performance of such prevailing wage clause as provided by the contract.
+Section 8. In the case of any underpayment of the prevailing wage, a penalty of 20% of the underpayment
+shall be assessed against the contractor or subcontractor; and the 20% penalty shall be payable
+to the Illinois Department of Labor. Any underpayment that has not been repaid to a worker
+within thirty-days of violation is subject to an additional 2% of the underpayment as a punitive
+damage assessment. This is payable to the worker.
+Section 9. There is an automatic two (2) year debarment of any contractor or subcontractor found to have
+violated the Act on two (2) separate occasions. An affected contractor or subcontractor may
+request the Department to hold a hearing on the alleged violations within ten (10) days
+notification of the second violation.
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ BUREAU OF TECHNOLOGY
+CHIEF INFORMATION OFFICER
+
+18-5634 WAS REFERRED TO THE TECHNOLOGY AND INNOVATION COMMITTEE AT
+THE SEPTEMBER 12, 2018 BOARD MEETING
+18-5634
+Sponsored by: TONI PRECKWINKLE (President), Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+PROPOSED ORDINANCE AMENDMENT AND ORDINANCE REGARDING INFORMATION
+TECHNOLOGY CONSOLIDATION
+NOW, THEREFORE, BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter
+2 ADMINISTRATION. Article XII - Cook County Information Technology Security, Division 1. - Cook
+County Information Technology Security, Sections 2-960, 2-963, 2-964 and reserved section numbers, of
+the Cook County Code is hereby amended as follows:
+ARTICLE XII. - COOK COUNTY INFORMATION TECHNOLOGY SECURITY
+DIVISION 1 - COOK COUNTY INFORMATION SECURITY
+Sec. 2-960. - Short title.
+This Article division shall be known and may be cited as the "Cook County Information Security
+Ordinance.”
+Sec. 2-961. - Purpose and policy.
+All separately elected County and State Officials, Departments, Office Institutions or Agencies
+funded by the Cook County Board of Commissioners, including, but not limited to, the offices and
+departments under the control of the County Board President, the Board of Commissioners, Cook County
+Health and Hospitals System, State's Attorney of Cook County, Cook County Sheriff, Cook County Public
+Defender, Illinois Clerk of the Circuit Court of Cook County, Cook County Treasurer, Cook County Clerk,
+Cook County Recorder of Deeds, Cook County Assessor, Chief Judge of the Circuit Court of Cook County,
+Board of Review, Cook County Public Defender, Cook County Independent Inspector General, Cook
+County Veteran's Assistance Commission and the Public Administrator (collectively, "Agency") shall take
+all appropriate precautions to protect the confidentiality, integrity, and availability of information. Such
+precautions shall be in accordance with applicable Federal and State laws and regulations and take into
+consideration industry standards and best practices.
+***
+Sec. 2-963. - Definitions.
+The following words, terms and phrases, when used in this Article division shall have the meanings
+ascribed to them in this Section, except where the context clearly indicates a different meaning:
+Guideline means a recommendation to assist an Agency employee or contractor in making
+appropriate decisions or performing a particular task, which allows for latitude in interpretation and
+implementation.
+
+ Plan means a comprehensive document that details strategic direction, which may also provide
+additional details, such as Standards used and so forth.
+Data Subject means an individual about whom information is collected or processed.
+Policy means a document that communicates leadership expectations to a business unit or
+department of an Agency, which may also be considered as mandatory business rules or organization
+specific directives and which are communication of management intent.
+Procedure means a document stating the manner in which a Policy shall be functionally
+implemented in an Agency's environment, which may define specific operation steps, manual methods, or
+instructions for compliance with a Policy.
+Standard means a document that contains a specification or describes minimum implementation
+that satisfies a Policy.
+Sec. 2-964. - Information security framework.
+(a) The Information Security Working Group shall assist the Chief Information Security Officer
+(CISO) in creating, and updating as necessary, comprehensive and written information security Plans,
+Policies, Procedures, Standards, and Guidelines for the Agencies (collectively, the "Information Security
+Framework") to reasonably protect the confidentiality, integrity, and availability of Agency information.
+(b) In creating and updating the Information Security Framework, the Chief Information Security
+Officer (CISO) shall seek the advice and recommendations of each Agency in order to ensure that the
+Information Security Framework addresses unique considerations of said Agency; all Agencies shall advise
+and collaborate with the Chief Information Security Officer (CISO) in the creation of the Information
+Security Framework.
+(c) The Information Security Framework shall:
+(1) Be in accordance with applicable Federal and State laws and regulations;
+(2) State all Agencies' minimum requirements and precautions to protect the confidentiality,
+integrity, and availability of Agencies' information;
+(3) Address the unique considerations of each Agency in a manner that does not unduly interfere
+with the operations of such Agency or any confidentiality or privilege required for such
+operations; and
+(4) Take into consideration industry standards and best practices by including critical and necessary
+components of any such similar framework, for example, risk management processes,
+information security incident response plans, and data breach notification plans.
+(5) Include an Acceptable Use Policy compliant with Section 2-965 of this Article division.
+***
+Secs. 2-969. - Privacy Policy.
+
+ The Information Security Working Group shall assist the Chief Information Security Officer (CISO) in
+creating, and updating as necessary, a comprehensive privacy policy (“Privacy Policy”) for the Agencies.
+The Privacy Policy shall govern the County’s handling practices, collection, and use of personal data, as
+well as the specific rights of Data Subjects.
+***
+Secs. 2-97069-2-9792-999. - Reserved
+***
+NOW, THEREFORE, BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter
+2 ADMINISTRATION. Article XII - Cook County Information Technology, Division 2. - Cook County
+Information Technology Consolidation, Sections 2-980 through 2-999, of the Cook County Code is hereby
+enacted as follows:
+DIVISION 2 - COOK COUNTY INFORMATION TECHNOLOGY CONSOLIDATION
+Section 2-980. - Short title.
+This division shall be known and may be cited as the "Cook County Information Technology
+Consolidation Ordinance.”
+Section 2-981. - Purpose and Policy
+All separately elected County and State Officials, Departments, or Agencies funded by the Cook
+County Board of Commissioners, including, but not limited to, the offices and departments under the
+control of the County Board President, the Board of Commissioners, Cook County Health and Hospitals
+System, State's Attorney of Cook County, Cook County Sheriff, Cook County Public Defender, Illinois
+Clerk of the Circuit Court of Cook County, Cook County Treasurer, Cook County Clerk, Cook County
+Recorder of Deeds, Cook County Assessor, Chief Judge of the Circuit Court of Cook County, Board of
+Review, Cook County Independent Inspector General, Cook County Veteran's Assistance Commission and
+the Public Administrator (collectively, "Agency") shall, except as otherwise provided in this Division,
+coordinate to deliver information technology services in an efficient and cost-effective manner consistent
+with County, State and Federal law and industry standards. Agencies not established under the Board of
+Commissioners or Office of the County Board President may elect, but are not required to, abide by the
+provisions of this Division.
+Section 2-982. - Consolidation Studies
+(a) The CIO shall, in collaboration with participating Agencies, conduct a study into the viability
+of consolidating the following technology functions:
+(1) Active directory, including a consolidated identity and access management system; and
+(2) Data center.
+
+ (b) The CIO shall issue a report to the Cook County Board President and Cook County Board of
+Commissioners, Technology Committee regarding the viability of consolidating the above-referenced
+functions no later than January 1, 2020.
+Section 2-983. - Powers and Duties of the Cook County Chief Information Officer
+(a) The CIO shall, in collaboration with participating Agencies, develop policies and standards
+relating to technology that may be adopted by participating Agencies, including the following areas:
+(1) Procurement standards;
+(2) Productivity tools, including service desk and data center monitoring software;
+(3) Software development;
+(4) Hardware and architecture;
+(5) Asset management; and
+(6) Any other category of technology.
+(b) The CIO shall establish a change management process to coordinate all changes to information
+technology services or infrastructure that impact Countywide information technology operations.
+(c) The CIO shall create a multi-year, Countywide Technology Strategic Plan, which shall be
+presented to the President and the Cook County Board of Commissioners for receipt and file on an annual
+basis.
+
+(d) The CIO shall seek the advice and recommendations of each participating Agency to ensure
+that any shared service or policy adopted by the CIO addresses the unique considerations and legal mandates
+governing each participating Agency and does not unduly interfere with the operations of such participating
+Agency.
+Section 2-984. - Powers and Duties of Participating Agencies
+(a) Chargebacks. Each participating Agency is responsible for its share of the cost of shared
+information technology products or services. The CIO shall determine the chargeback amount for shared
+products or services prior to delivery. The CIO shall ensure that the chargebacks are transparent and that
+the chargeback amount does not exceed the actual cost to the County of the information technology product
+or service.
+Section 2-985. - Consolidated Service Desk
+(a) The County shall establish a Countywide Service Desk (“County Service Desk”) managed by
+the CIO.
+(b) The County Service Desk shall provide Tier 1 support to the Offices under the President and,
+by agreement, any participating Agency.
+(1) Tier 1 support is a basic level of support, with customer representatives who possess a broad
+understanding of County IT environments.
+
+ (2) Except as by agreement between BOT and participating Agencies, participating Agencies shall
+remain responsible for Tier 2 support.
+(c) The CIO shall implement a County Service Desk service catalogue and service levels consistent
+with industry standards.
+(d) The CIO and any participating Agency shall agree upon a project schedule to transfer Tier 1
+support to the County Service Desk, and if applicable, Agency-specific service level agreements.
+
+(e) The CIO shall implement all legally-mandated controls related to personal health information,
+criminal justice information, or any other sensitive data type prior to assuming Tier 1 support for any
+function that that may require access to such data.
+(f) The CIO shall provide a monthly report on County Service Desk metrics, including service level
+reports, to the participating Agencies. The CIO shall deliver the first County Service Desk report within 60
+days of the establishment of the County Service Desk.
+Sec. 2-986. Adoption and Compliance.
+The adoption of any shared service or policy as set forth in this division shall not affect any rights
+and responsibilities arising under any law, including the Illinois Constitution, the Illinois Counties Code or
+the Code of Ordinances of Cook County, Illinois.
+Secs. 2-987-2-999. - Reserved
+Effective date: This ordinance shall be in effect immediately upon adoption.
+
+ COMMITTEE ITEMS REQUIRING BOARD ACTION
+
+CONTRACT COMPLIANCE COMMITTEE
+MEETING OF SEPTEMBER 11. 2018
+
+18-4541
+ORDINANCE
+Sponsored by
+THE HONORABLE DENNIS DEER, STANLEY MOORE, LUIS ARROYO JR,
+RICHARD R. BOYKIN, JERRY BUTLER, JOHN P. DALEY, JOHN A. FRITCHEY,
+JESÚS G. GARCÍA, GREGG GOSLIN, EDWARD M. MOODY, SEAN M. MORRISON,
+TIMOTHY O. SCHNEIDER, PETER N. SILVESTRI, DEBORAH SIMS,
+LARRY SUFFREDIN AND JEFFREY R. TOBOLSKI, COUNTY COMMISSIONERS
+SMALL BUSINESS COMMISSION FOR COOK COUNTY
+BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 2 Administration, Article
+III County Board, Sections 2-84 through 2-86 of the Cook County Code, is hereby enacted as follows:
+Sec. 2-84. Short Title.
+This Division shall be known and may be cited as the “Cook County Commission on Small
+Business and Supplier Diversity”.
+Sec. 2-85. Policy and Purpose.
+(a)
+There is hereby created a Commission to help create sustainable small business initiatives
+that promote business opportunities, financial growth and further development and expansion of small and
+minority businesses and businesses that are owned by people with disabilities.
+(b)
+Explore issues and barriers that prevent small businesses, women owned businesses,
+businesses owned by people with disabilities and minority owned businesses from being successful.
+(c)
+Meet and exceed procurement existing procurement goals. Research and promote best
+practices that facilitate meeting contracting and subcontracting goals.
+(d)
+
+Review compliance code and compliance of Cook County Agencies.
+
+(e)
+Review and recommend best practices to reduce access to capital challenges faced by
+minority, women owned businesses and businesses owned by people with disabilities.
+(f)
+Review and make recommendations on how Cook County Hospital System and other
+County agencies can increase the participation of minority, women owned businesses and businesses owned
+by people with disabilities.
+
+ Sec. 2-86. Cook County Commission on Small Business.
+(a)
+The Commission will have eleven (11) members including: two (2) Commissioners who
+were the original co-sponsors of the ordinance who shall serve as Chair and Co-Chair of the Commission.
+Four (4) of the Commission members shall be selected by the Chair and Co-Chair and must be certified
+MBE or WBE business owners certified by Cook County. Five (5) members of the Commission shall be
+appointed by the President of the Cook County Board of Commissioners and may include but not be limited
+to: representatives of Cook County Agencies, civic leaders, majority contractors or private sector
+representatives who have established excellent diversity practices. All shall be confirmed by the Cook
+County Board.
+(b)
+Non-elected Board Members will serve for two (2) years and can be reappointed for
+consecutive terms. Commissioners who are appointed shall serve (4) year terms that coincides with election
+cycles of commissioners.
+(c)
+The Commission has the authority to review and make recommendations on approval or
+reversal of certification appeals.
+(d)
+The Commission will advise the President’s office and Board of Commissioners not less
+than quarterly on its recommendations.
+(e)
+The Commission shall have Four (4) Committees 1. Compliance Monitoring, 2.
+Certification Advisory Team, 3. Outreach/Mentoring and Training, and 4. Capital Access/Banking.
+All meetings of the Commission will be open to the public.
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ CRIMINAL JUSTICE COMMITTEE
+MEETING OF SEPTEMBER 11. 2018
+
+18-4955
+ORDINANCE
+Sponsored by
+THE HONORABLE THE HONORABLE LARRY SUFFREDIN, LUIS ARROYO JR,
+RICHARD R. BOYKIN, JERRY BUTLER, JOHN P. DALEY, DENNIS DEER,
+JOHN A. FRITCHEY, JESÚS G. GARCÍA, GREGG GOSLIN, EDWARD M. MOODY,
+STANLEY MOORE, SEAN M. MORRISON, PRESIDENT TONI PRECKWINKLE,
+TIMOTHY O. SCHNEIDER, PETER N. SILVESTRI, DEBORAH SIMS AND
+JEFFREY R. TOBOLSKI, COUNTY COMMISSIONERS
+PREVENTING THE DETENTION OF JUVENILES UNDER THE AGE OF 13
+BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 46 Law Enforcement,
+Section 46-4 be enacted as follows:
+Sec. 46-4. - Detention of Juveniles
+(a)
+Placement of a minor away from his or her home must be the last resort and be the least
+restrictive alternative available.
+(b)
+An individual under 13 years of age shall not be admitted, kept, detained or committed to
+the Cook County Jail or the Juvenile Temporary Detention Center.
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ LEGISLATION AND INTERGOVERNMENTAL RELATIONS COMMITTEE
+MEETING OF SEPTEMBER 12, 2018
+
+18-3674
+ORDINANCE AMENDMENT
+Sponsored by
+THE HONORABLE TONI PRECKWINKLE,
+PRESIDENT OF THE COOK COUNTY BOARD OF COMMISSIONERS
+ALIGNING EMPLOYEE BENEFITS FOR MILITARY SERVICE
+WITH STATE AND FEDERAL LAW
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 44 Human Resources,
+Article III Vacation and Sick Leave, Sections 44-95, 44-97, 44-101, 44-102, and Article IV Pensions,
+Section 44-132 of the Cook County Code are hereby amended as follows:
+Sec. 44-95. - Military lLeave.
+All eligible employees under the jurisdiction of County Officers on an authorized military leave
+shall be afforded employment related protections and benefits, in accordance with State and Federal law,
+provided that any procedural requirements imposed by the applicable employing County officer have been
+met.
+(a)
+Military Service Leave. Any eligible full-time or part-time County employee who has at
+least six months or more of continuous actual is called to perform uniformed services, whether in the
+reserves or on active duty, service and is a member of the Illinois National Guard or any of the Reserve
+Components of the Armed Forces of the United States shall be entitled to leave of absence with full pay for
+limited service in field training, cruises, and kindred recurring obligations employment related protections
+and benefits, in accordance with State and Federal law, provided that any procedural requirements imposed
+by the County have been met. Such leave will normally be limited to 15 days in each year. Subject to certain
+exceptions under the applicable laws, these benefits are generally limited to five (5) years of leave of
+absence.
+(b)
+Family Military Leave. In accordance with the Illinois Family Military Leave Act, 820
+ILCS 151/1, et seq., the County provides eligible employees with up to 30 days of unpaid family military
+leave during the time federal or state deployment orders are in effect, provided that such employee has
+exhausted all accrued vacation leave, personal leave, compensatory leave and any other leave granted to
+the employee, except sick and disability leave. The number of days of leave provided under the Illinois
+Family Military Leave Act will be reduced by the number of days of qualifying exigency leave provided
+under the Family Medical Leave Act
+***
+Sec. 44-97. - Records of personal days, sick, vacation and military leave.
+(a)
+For employees under the jurisdiction of the County Board, records of personal days, sick,
+vacation, and military leave shall be maintained by the Civil Service Commission.
+(b)
+For employees not under the jurisdiction of the County Board, records of personal days,
+sick, vacation and military leave shall be maintained by the department head.
+
+ Records of personal days, sick, vacation, and any other approved leave including but not limited to
+bereavement leave, family and medical leave, military leave, and family military leave shall be maintained
+by each County office or department in the Cook County Time and Attendance System.
+***
+Sec. 44-101. - Employees' annuity and benefit fund contribution for employees in armed forces.
+The County Board shall annually provide in its annual appropriation bill sufficient funds to make
+contributions for such employees based on the same percentage of the salaries of such employees as at the
+time of entering such military or naval service or training service leave for the period of their compulsory
+or voluntary service to the State or Federal government, and that all such employees at the conclusion of
+such military service leave, be restored to their positions as required by State and Federal law.
+Sec. 44-102. - Status of employees in armed forces. Reserved.
+(a)
+All employees under the jurisdiction of the County officers, other than the County Board
+of Commissioners, who serve in the military or naval forces of the United States, either voluntarily or by
+reason of the Conscription Act, have their positions, seniority and status preserved the same as any other
+County employee.
+(b)
+All County employees including Forest Preserve employees under the jurisdiction of
+County officers, other than the Board of Commissioners, who serve in the military or naval forces of the
+United States, either voluntarily or by reason of the Conscription Act, have their positions, seniority and
+status preserved the same as any other County employee.
+***
+Sec. 44-132. - Contribution for employees in armed forces.
+The Board shall annually provide in its annual appropriation bill sufficient funds to make
+contributions for such employees based on the same percentage of the salaries of such employees as at the
+time of entering such military service leave for the period of their compulsory or voluntary service to the
+State or Federal government, and that all such employees at the conclusion of such military service leave,
+be restored to their positions as required by State and Federal law.
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ 18-3239
+ORDINANCE AMENDMENT
+Sponsored by
+THE HONORABLE TONI PRECKWINKLE,
+PRESIDENT OF THE COOK COUNTY BOARD OF COMMISSIONERS
+ALIGNING THE COOK COUNTY SICK LEAVE ORDINANCE
+WITH THE CURRENT EMPLOYEE SICK LEAVE POLICY
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 44 Human Resources,
+Article III Vacation and Sick Leave, Section 44-93 is hereby amended as follows:
+Sec. 44-93. - Sick leave.
+(a)
+Eligible employees may use sick leave for illness, disability incidental to pregnancy or
+nonjob related injury to the employee; appointments with physicians, dentists, or other recognized
+practitioners; or for serious illness, disability, or injury, in the immediate family of the employee. Eligible
+employees on maternity or paternity leave may use sick leave during the first four (4) to eight (6) weeks
+following childbirth, depending on the type of delivery. Use of sick leave during maternity or paternity
+leave may be extended upon the Leave Coordinator’s receipt of a medical statement indicating that the
+employee is unable to return to work due to medical reasons.
+(ab)
+Sick leave is granted by Cook the County because an employee is unable to perform his/her
+assigned duties, or because his/her presence at his place of work would jeopardize the health of co-workers.
+Accordingly, sick leave shall not be used for any purpose other than to cover an absence related illness and
+shall not be used as additional vacation leave.
+(c)
+All eligible employees shall be granted sick leave with pay at the rate of one working day
+for each month of service. A month of service is one in which an employee is in a pay status for at least 15
+working days in a calendar month. All eligible employees on a part-time work schedule shall be granted
+sick leave with pay proportionate to the time worked per pay period. Sick leave may be accumulated to
+equal, but at no time to exceed, one hundred seventy-five (175) working days. Records of sick leave credit
+and use shall be maintained by each office or department in the Cook County Time and Attendance System.
+(b)
+Subsequent to December 3, 1962, sick leave may be accumulated to equal but at no time
+to exceed 120 working days at the rate of 12 working days per year. Records of sick leave credit and use
+shall be maintained by each office, department, or institution. Severance of employment prior to the use of
+any part of such sick leave terminates all rights for compensation hereunder. Amount of leave accumulated
+at the time when any sick leave begins shall be available in full, and additional leave shall continue to
+accrue while an employee is using that already accumulated.
+(c)
+Sick leave may be used for illness, disability, or injury of the employee; appointments with
+physicians, dentists, or other recognized practitioners; or for serious illness, disability, or injury, in the
+immediate family of the employee. After five consecutive sick days, employees shall submit to their
+department head a doctor's certificate as proof of sickness. Maternity leave shall not be considered as sick
+leave.
+
+ (d)
+If, in the opinion of the head of the executive head of the office, or department, or
+institution, the health of an employee warrants prolonged absence from duty, the employee will be permitted
+to combine to his/her sick leave, vacation, and sick leave and personal days, with the approval of from the
+Bureau Chief, Bureau of Human Resources.
+(e)
+The employee may apply for disability under the rules and regulations established by the
+Cook County Annuity and Benefit Fund Retirement Board.
+(f)
+Severance of employment prior to the use of any part of such sick leave terminates all rights
+to such sick leave accrual and compensation for such sick leave, except in the case of a reduction in force
+resulting in employees being laid off and recalled from layoff status. If an employee is recalled from layoff
+status into the same or a new position in the County Agency, and defined in Section Three of the Budget
+Resolution, from which the employee was laid off, the employee shall receive the full benefit of the sick
+leave accrual severed from the employee at the time of layoff.
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ 18-1126
+ORDINANCE AMENDMENT
+Sponsored by
+THE HONORABLE PETER N. SILVESTRI, COUNTY COMMISSIONER
+ESTABLISHING THE COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 38, HEALTH AND
+HUMAN SERVICES, ARTICLE V, COOK COUNTY HEALTH AND HOSPITALS SYSTEM,
+SECTION 38-80 of the Cook County Code is hereby amended as Follows:
+Sec. 38-80. General powers of the System Board.
+Subject to the Mission of the CCHHS and consistent with this article, the System Board shall have the
+following powers and responsibilities:
+(a)
+To appoint the Chief Executive Officer of the CCHHS ("CEO") or interim CEO, if
+necessary, as set forth in Section 38-81 hereinafter, to hire such employees and to contract with such agents,
+and professional and business advisers as may from time to time be necessary in the System Board's
+judgment to accomplish the CCHHS' Mission and the purpose and intent of this article; to fix the
+compensation of such CEO, employees, agents, and advisers; and, to establish the powers and duties of all
+such agents, employees, and other persons contracting with the System Board;
+(b)
+
+To exercise oversight of the CEO;
+
+(c)
+To develop measures to evaluate the CEO's performance and to report to the President and
+the County Board at six-month intervals regarding the CEO's performance;
+(d)
+To authorize the CEO to enter into contracts, execute all instruments, and do all things
+necessary or convenient in the exercise of the System Board's powers and responsibilities;
+(e)
+To determine the scope and distribution of clinical services; provided, however, if the
+System Board determines that it is in the best interest of the CCHHS to close entirely one of the three two
+CCHHS hospitals, such closure will require County Board approval; provided further, however, that if the
+System Board determines it is in the best interest of the CCHHS to purchase additional hospitals, or to add
+or reduce healthcare-licensed, risk-bearing entities in CountyCare, the CCHHS shall, 15 calendar days
+before final approval, provide notice to the President and the Cook County Board of Commissioners,
+informing such persons as to the basic nature of any such transaction and shall offer to meet with such
+persons to brief them in more detail on specifics relating to such a transaction;
+(f)
+To provide for the organization and management of the CCHHS, including, but not limited
+to, the System Board's rights and powers to approve all personnel policies, consistent with existing state
+laws, collective bargaining agreements, and court orders;
+
+ (g)
+To submit budgets for the CCHHS operations and capital planning and development, which
+promote sound financial management and assure the continued operation of the CCHHS, subject to
+approval by the County Board;
+(h)
+To accept any gifts, grants, property, or any other aid in any form from the federal
+government, the state, any state agency, or any other source, or any combination thereof, and to comply
+with the terms and conditions thereof;
+(i)
+To purchase, lease, trade, exchange, or otherwise acquire, maintain, hold, improve, repair,
+sell, and dispose of personal property, whether tangible or intangible, and any interest therein;
+(j)
+In the name of the County, to purchase, lease, trade, exchange, or otherwise acquire, real
+property or any interest therein, and to maintain, hold, improve, repair, mortgage, lease, and otherwise
+transfer such real property, so long as such transactions do not interfere with the Mission of the CCHHS;
+provided, however, that transactions involving real property valued at $100,000.00 or greater shall require
+express approval from the County Board;
+(k)
+To acquire space, equipment, supplies, and services, including, but not limited to, services
+of consultants for rendering professional and technical assistance and advice on matters within the System
+Board's powers;
+(l)
+To make rules and regulations governing the use of property and facilities within the
+CCHHS, subject to agreements with or for the benefit of holders of the County Board's obligations;
+(m)
+To adopt, and from time to time amend or repeal bylaws and rules and regulations
+consistent
+with the provisions of this article;
+(n)
+To encourage the formation of a not-for-profit corporation to raise funds to assist in
+carrying out the Mission of the CCHHS;
+(o)
+To engage in joint ventures, or to participate in alliances, purchasing consortia, or other
+cooperative arrangements, with any public or private entity, consistent with state law;
+(p)
+To have and exercise all rights and powers necessary, convenient, incidental to, or implied
+from the specific powers granted in this article, which specific powers shall not be considered as a limitation
+upon any power necessary or appropriate to carry out the CCHHS' Mission and the purposes and intent of
+this article;
+(q)
+To perform, through the Cook County Department of Public Health, essential services of a
+local public health authority as provided in the Cook County Board of Health Ordinance, Sections 38-26
+through 38-40 of the Cook County Code, other Cook County Ordinances imposing duties upon the Cook
+County Department of Public Health, and the regulations of the Cook County Department of Public Health
+promulgated thereunder; the Department of Public Health Act, 20 ILCS 2305/1 et seq.; the Civil
+Administrative Code of Illinois, 20 ILCS 2310/2310-1 et seq.; and as further detailed in regulations
+promulgated by the Illinois Department of Public Health under the Certified Local Health Department
+Code, 77 Ill. Adm. Code 600.110 et seq.; provided, however, that the County Board shall continue to serve
+as the Board of Health of Cook County; and
+
+ (r)
+CCHHS.
+
+To be the governing body of the licensed hospitals or other licensed entities within the
+
+Effective date: This Ordinance shall be in effect immediately upon adoption.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ ZONING AND BUILDING COMMITTEE
+MEETING OF SEPTEMBER 12, 2018
+
+18-4979
+ORDINANCE
+Sponsored by
+THE HONORABLE TONI PRECKWINKLE,
+PRESIDENT OF THE COOK COUNTY BOARD OF COMMISSIONERS
+AN ORDINANCE GRANTING APPROVAL OF A SPECIAL USE
+AND VARIATION LOCATED IN ORLAND TOWNSHIP
+AS AUTHORIZED BY THE COOK COUNTY ZONING ORDINANCE
+WHEREAS, written application SU 18-01 having been made requesting approval of a Special Use Permit,
+pursuant to Section 13.8.4 of the Cook County Zoning Ordinance, to allow for the development of a single
+family residence dwelling within an environmentally sensitive area as designated by the Cook County
+Comprehensive Land Use and Policies Plan and application V 18-20, pursuant to Section13.6.2 of the Cook
+County Zoning Ordinance, a companion variation to: (1) reduce the left interior side yard setback from the
+minimum required 15 feet to a proposed 9 feet, (2) reduce the right interior side yard setback from the
+minimum required 15 feet to a proposed 9 feet, (3) reduce the lot area from the minimum required 20,000
+square feet to an existing 9,917 square feet, and (4) reduce the lot width from 100 feet to an existing 75
+feet, all on property located at 16629 Orange Avenue, Orland Park, Illinois; and
+WHEREAS, pursuant to notice as required by the Illinois County Code and the Cook County Zoning
+Ordinance, a public hearing was conducted by the Zoning Board of Appeals on June 6, 2018 to consider
+the Special Use Permit and companion variation requests; and the Zoning Board of Appeals having
+recommended that both request be granted and approved.
+NOW, THEREFORE, BE IT ORDAINED, by the Board of Commissioners of Cook County, Illinois,
+pursuant to its home rule powers, as follows:
+Section 1:
+Pursuant to the Findings of Fact made and determined by the Zoning Board of Appeals, a
+Special Use Permit is granted to allow for the development of a single family residence dwelling within an
+environmentally sensitive area as designated by the Cook County Comprehensive Land Use and Policies
+Plan, along with a companion variation to: (1) reduce the left interior side yard setback from the minimum
+required 15 feet to a proposed 9 feet, (2) reduce the right interior side yard setback from the minimum
+required 15 feet to a proposed 9 feet, (3) reduce the lot area from the minimum required 20,000 square feet
+to an existing 9,917 square feet, and (4) reduce the lot width from 100 feet to an existing 75 feet on the
+following described property:
+LOTS 38, 39 & 40, TOGETHER WITH THE WEST ½ OF THE VACATED ALLEY
+ADJOINING SAID LOTS 38, 39, & 40, IN BLOCK 26, (SAID ALLEY BEING VACATED BY
+DOCUMENT NO. 99117276), IN ALPINE HEIGHTS, BEING A SUBDIVISIION OF THE
+SOUTHWEST ¼ OF SECTION 20, TOWNSHIP 36 NORTH, RANGE 12 EAST OF THE THIRD
+PRINCIPAL MERIDIAN, IN COOK COUNTY, ILLINOIS.
+P.I.N. 27-20-320-059-0000
+The common address is 16629 Orange Avenue, Orland Park, Illinois 60467.
+
+ Section 2:
+This Ordinance and every provision thereof shall be considered severable. If any Section,
+paragraph, subdivision, clause, sentence or provision of this Ordinance shall be adjudged by any Court of
+competent jurisdiction to be invalid, such judgment shall not affect, impair, invalidate or nullify the
+remainder thereof, which remainder shall remain and continue in full force and effect.
+Section 3:
+All ordinances or parts of ordinances in conflict herewith are hereby repealed to the extent
+of such conflict.
+Section 4.
+This Ordinance shall become effective from and after its passage, approval and publication
+in the manner prescribed by law.
+Approved and adopted this 12th of September 2018.
+TONI PRECKWINKLE, President
+Cook County Board of Commissioners
+Attest: DAVID ORR, County Clerk
+
+ 
+
+18-5810 WAS REFERRED TO THE FINANCE COMMITTEE AT THE SEPTEMBER 12, 2018
+BOARD MEETING
+18-5810
+Sponsored by: LARRY SUFFREDIN, GREGG GOSLIN, JOHN P. DALEY, JERRY BUTLER,
+DEBORAH SIMS and JEFFREY R. TOBOLSKI, Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+AN AMENDMENT TO THE COOK COUNTY WHEEL TAX
+BE IT ORDAINED, by the Cook County Board of Commissioners, that Chapter 74 Taxation, Article XIV,
+Wheel Tax, Section 74-550 through Section 74-579 of the Cook County Code is hereby amended as
+Follows:
+Sec. 74-550. - Short title.
+Sec. 74-551. - Definitions.
+Through and including May 31, 2019, Secs. 74-552 through 74-579 shall read as follows:
+Sec. 74-552. - License requirement.
+Sec. 74-553. - Application.
+Sec. 74-554. - Exemptions including limitations.
+Sec. 74-555. - Issuance.
+Sec. 74-556. - Fees.
+Sec. 74-557. - Effective dates.
+Sec. 74-558. - Annual license.
+Sec. 74-559. - Motor bicycle plate.
+Sec. 74-560. - Window sticker.
+Sec. 74-561. - Removal upon sale.
+Sec. 74-562. - Unlawful use on another vehicle.
+Sec. 74-563. - Transfer.
+Sec. 74-564. - Dealer license.
+Sec. 74-565. - Business vehicle identification.
+Sec. 74-566. - Right to inspect.
+
+ Sec. 74-567. - Penalty for ordinance violation.
+Sec. 74-568. - Penalty for unlawful removal.
+Effective June 1, 2019, Secs. 74-552 through 74-579 are removed and replaced with the following:
+Sec. 74-552. - License requirement.
+Sec. 74-553. - Application.
+Sec. 74-554. - Senior and no-fee licenses.
+Sec. 74-555. - License fees.
+Sec. 74-556. - Effective dates.
+Sec. 74-557. - Annual license.
+Sec. 74-559. - Business vehicle identification.
+Sec. 74-560. - Enforcement.
+Sec. 74-561. - Fees and penalties.
+Sec. 74-562. - Tax additional.
+Sec. 74-563 - Rules and regulations.
+BE IT FURTHER ORDAINED, by the Cook County Board of Commissioners, that Chapter 32, Fees,
+Section 32-1 of the Cook County Code is hereby amended as Follows:
+Sec. 32-1. - Fee schedule.
+Effective date: This ordinance shall be in effect immediately upon adoption
+Full Text of Ordinance Amendment: <https://tinyurl.com/ya9jn9fm>
+
+ 18-5880 WAS REFERRED TO THE LEGISLATION AND INTERGOVERNMENTAL
+RELATIONS COMMITTEE AT THE SEPTEMBER 12, 2018 BOARD MEETING
+18-5880
+Sponsored by: TIMOTHY O. SCHNEIDER, SEAN M. MORRISON, RICHARD R. BOYKIN, GREGG
+GOSLIN, JOHN A. FRITCHEY and PETER N. SILVESTRI, Cook County Board of Commissioners
+PROPOSED ORDINANCE AMENDMENT
+REQUIRING A TWO THIRDS MAJORITY VOTE OF THE BOARD TO ENACT ANY NEW OR
+ADDITIONAL TAX IN COOK COUNTY
+WHEREAS, multiple cities as well as states have either enacted or considered a supermajority requirement
+for tax increases as it provides residents with another level of protection from unpopular taxes, and
+WHEREAS, taxpayers expect reasonable limits, like a 2/3 majority vote requirement for tax increases in
+order to protect them from controversial votes being used to raise or create new taxes without broad public
+support, and
+WHEREAS, the burden of new and increased taxes that falls on the shoulders of Cook County residents
+should not be left to a simple majority vote, and
+WHEREAS, the process of both increasing taxes and creating new taxes should be agreed upon by a large
+majority of those who will be effected by them, and
+WHEREAS, the board should establish the requirement that all new taxes and new tax increases can only
+be enacted by a two third majority vote from the Board of Commissioners.
+NOW, THEREFORE BE IT ORDAINED, by the Cook County Board of Commissioners that Chapter 2,
+Sec. 105 (f) is hereby amended as follows:
+(f) Majority votes. Except as otherwise provided in these rules, and except for questions for which
+a higher majority is required by law, all questions shall be determined by a majority vote of those
+Commissioners entitled to vote. Any question which enacts a new form of taxation, or increase in taxation,
+shall require a two thirds majority vote of the board in order to pass. A vote of “present shall not be counted
+in determining the number of Commissioners voting on a question
+Effective date: This ordinance shall be in effect immediately upon adoption.
+
+ 

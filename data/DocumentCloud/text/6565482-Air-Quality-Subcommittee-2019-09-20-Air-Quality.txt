@@ -1,0 +1,235 @@
+AIR QUALITY FORECAST ACCURACY
+(THROUGH AUGUST 31)
+Air Quality Subcommittee
+September 20, 2019
+
+5-7
+
+ ACTION REQUESTED
+
+No action requested. This item is for presentation and
+discussion.
+• Air quality forecast accuracy (through August 31)
+
+PREVIOUS ACTION
+
+No Prior Action (Quarterly Update for Subcommittee)
+
+5-7
+
+ BACKGROUND
+NOACA forecasts daily peak eight-hour ground-level
+ozone concentrations and fine particulate matter
+concentrations.
+
+• In 2019, daily forecasts for ozone began March 1 and will
+conclude October 31
+• Daily forecasts for fine particulate matter are year-round
+
+NOACA posts daily air quality forecasts through
+AirNowTech, in affiliation with the United States
+Environmental Protection Agency (U.S. EPA)
+5-7
+
+ BACKGROUND
+NOACA ground-level ozone and fine particulate matter
+forecasts based on a review of several meteorological
+variables and model guidance.
+
+• National Oceanic & Atmospheric Administration (NOAA)
+National Air Quality Forecast Capability (ozone only).
+• Classification and Regression Tree (CART) Model
+• Sonoma Tech Guidance (via Columbus/Central Ohio Forecast
+on AirNow.gov)
+
+5-7
+
+ BACKGROUND
+NOACA Forecast Performance for 2019 (PM2.5):
+PM2.5 GOOD/MODERATE
+THRESHOLD (12 µg/m3)
+
+OBSERVED
+
+CORRECT = 65%
+5-7
+
+NOACA FORECAST
+BELOW
+
+ABOVE
+
+BELOW
+
+35%
+
+22%
+
+ABOVE
+
+13%
+
+30%
+
+ BACKGROUND
+NOACA Forecast Performance for 2019 (PM2.5):
+PM2.5 MODERATE/UNHEALTHY
+THRESHOLD (35 µg/m3)
+
+OBSERVED
+
+CORRECT = 100%
+5-7
+
+NOACA FORECAST
+BELOW
+
+ABOVE
+
+BELOW
+
+100%
+
+0%
+
+ABOVE
+
+0%
+
+0%
+
+ BACKGROUND
+NOACA and NOAA Forecast Performance for 2019 (March
+1-August 31) (O3):
+THRESHOLD
+
+FORECAST
+
+50ppb
+
+70ppb
+
+NOACA
+
+80%
+
+97%
+
+NOAA (6Z/12Z)
+
+(82/82)%
+
+(96/96)%
+
+AGENCY
+5-7
+
+ BACKGROUND
+Exceedance Days for March-August, 2019 (O3):
+FORECAST CATEGORY
+
+5-7
+
+OBSERVED
+
+DATE
+
+NOAA
+
+NOACA
+
+PEAK (ppb)
+
+# STATIONS
+
+JUNE 27
+
+2/3
+
+2
+
+3
+
+2
+
+JUNE 28
+
+2/2
+
+3
+
+3
+
+3
+
+JUNE 29
+
+2/1
+
+2
+
+3
+
+1
+
+JULY 10
+
+2/3
+
+3
+
+3
+
+5
+
+JULY 13
+
+1/2
+
+2
+
+3
+
+3
+
+AUGUST 4
+
+2/2
+
+2
+
+3
+
+1
+
+ BACKGROUND
+NOAA versus NOACA Forecast Performance (O3):
+Exceedance Days
+• “Missed Opportunities” – Three (3) days both NOAA and
+NOACA did not forecast observed categorical Exceedance of
+2015 8-hour ozone standard (70ppb); One (1) day NOACA
+only missed; one (1) day NOAA only missed
+• “False Alarms” – Four (4) days NOAA forecasted categorical
+Exceedance of 2015 8-hour standard (70ppb) when observed
+concentrations did not exceed (NOACA had two (2)).
+5-7
+
+ NEXT STEPS
+• Track forecast performance of NOACA and NOAA for
+ozone; NOACA only for fine particulate matter
+• Collaborate with NOAA personnel to report model
+performance in Northeast Ohio (October 9-10 Air Quality
+Forecasters Workshop)
+• Update Air Quality Subcommittee in December
+
+5-7
+
+ NOACA will STRENGTHEN regional
+cohesion, PRESERVE existing
+infrastructure, and BUILD a
+sustainable multimodal transportation
+system to SUPPORT economic
+development and ENHANCE quality
+of life in Northeast Ohio.
+
+ 

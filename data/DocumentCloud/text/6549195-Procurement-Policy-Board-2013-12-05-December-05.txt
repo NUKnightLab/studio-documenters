@@ -1,0 +1,1511 @@
+ 
+
+Chairman: Jay Stewart
+Members: Ed Bedore, Ricardo Morales, Larry Ivory, Bill Black
+
+Minutes – December 5, 2013 Meeting
+Present in Chicago:
+
+Jay Stewart
+Rick Morales
+
+Present in Springfield:
+
+Ed Bedore
+Larry Ivory
+Bill Black
+
+The Board started the meeting by confirming attendance at 10:05 a.m.
+Chairman Stewart stated that Member Ivory informed the Board that he is running a little bit late, but he will
+be attending shortly.
+Chairman Stewart started by introducing himself. He was informed late yesterday that he was appointed to be
+Chairman of this Board. Chairman Stewart stated that his current role, besides being Chairman, is as the
+Director of the Department of Financial and Professional Regulations with the State of Illinois. Since this is
+his first meeting he did have a chance briefly to talk to a couple of the Board members and Director Carter.
+Chairman Stewart stated that he is looking forward to working with the Board, the PPB staff and the various
+agencies that the Board touches. As you all are aware procurement is one of the core functions of State
+government, which looks at the dollar figures of the annual spending of the State. Procurement runs into
+billions of dollars very quickly and those are the taxpayers’ dollars and we’re all under an obligation to try to
+make sure we’re spending those dollars wisely, effectively, efficiently and ethically and the Board plays a role
+in that process. He views the Board as both a resource for the relevant agencies and also a participant in the
+system. The Board has done great work over the years and he looks forward to that fine tradition that the
+Board has of trying to make our system with procurement better.
+Member Morales commented that he would like to welcome Chairman Stewart and to also thank former
+Chairman Vaught for all the years of service he provided to this Board and to the State. Member Bedore
+stated that he would like to welcome Chairman Stewart to the Board and he thinks we all owe a sense of
+gratitude to former Chairman Vaught for the years that he gave, not only to this Board, but to the State of
+Illinois. He knows that he had a few jobs that were very difficult, particularly OMB, and he speaks for
+himself, but he knows that the entire Board would give a great big thank you to former Chairman Vaught for
+all that he has done for the people and the State of Illinois. Chairman Stewart added that he did speak to
+former Chairman Vaught last night and he was very helpful passing down some insights. In some of his
+previous roles he’s had the opportunity to work with former Chairman Vaught when he was Senior Advisor
+of the Governor, Director of OMB, Director of DCEO and obviously when he was the Chairman of this Board
+for many years. Former Chairman Vaught has a passion for State Government and a passion for effective,
+efficient, productive government. He thinks all of his roles including Chairman of the PPB brought that
+passion and brought that commitment and he thinks that the State of Illinois has been well served by former
+Chairman Vaught’s many years of service in many different roles and also he appreciates his hard work and
+dedication. Perhaps at the next Board meeting we can pass some formal resolution of the Board in to
+recognize former Chairman Vaught’s long and valuable service to the State of Illinois. Member Morales
+agreed.
+
+M:131205
+222 SOUTH COLLEGE STREET, SUITE 231, SPRINGFIELD, IL 62704
+Telephone: (217) 785-3988 Fax: (217) 557-9927 TTY: (888) 642-3450
+ 
+
+ First item on the agenda was the approval of the meeting minutes. A motion was made by Member Morales to
+approve the minutes as presented from the November 5, 2013 Board meeting and was seconded by Member
+Bedore. The motion was unanimously approved.
+At the request of the Illinois Department of Employment Security (IDES) the Board approved moving
+Statewide Emergency Procurement for IDES up from item VIII on the agenda. In attendance was Joe Mueller
+Legal, Counsel for IDES, and Barry Isaacson, Agency Procurement Officer for IDES. Mr. Mueller stated that
+the Department administers three basic programs for the State. We run the Employment Insurance Program,
+which provides temporary income maintenance to individuals who are unemployed through no fault of their
+own. That includes the current Emergency Unemployment Compensation, which is a federal program that is
+in effect right now through the end of the current calendar year. IDES administers a service that matches
+people who are looking for work with available jobs and then they provide a variety of different types of labor
+market information. Going back to State FY11 they have had four sets of emergency procurements and three
+of those were for IT services, which involve contracts with two or more vendors. The first set was to continue
+work on conversion to a new IT system to be able to pay unemployment benefits to individuals and then the
+new IT system to match jobs seekers with employment opportunities. Those procurements were in effect from
+November 2, 2011 through the end of the Calendar year of 2011. The second set was to implement some
+pretty substantial changes that federal legislation made to the Emergency Unemployment Compensation that
+he referenced. Those procurements remain in effect from March 15, 2012 through September 11, 2012. The
+third set implemented some changes that the U.S. Department Labor required the Department of Employment
+Security to make regarding the Emergency Unemployment Comparison Program. Some of those changes
+included a change in how the U.S. Department of Labor had initially told them they could establish the
+Emergency Unemployment Claims and this procurement also included where it met the federal sequestration,
+which applied to Emergency Unemployment Comparison Benefits as a result of the budget legislation that
+was enacted late in 2011 or early 2012 at the federal level. Then the fourth set of procurements were to
+maintain utility and maintenance workers after the vendor for those services unexpectedly went out of
+business. IDES knew the vendor was facing some issues and was in bankruptcy, but was attempting to
+reorganize and the decision to go out of business caught them by surprise. The only set of emergency
+procurements that are still in effect is the third that was mentioned to implement the USD Well changes and
+those will expire and the end of this calendar year. IDES doesn’t anticipant the need to extend that
+procurement, as he mentioned before a lot of these emergencies were for IT. They have been trying to beef up
+their in-house IT staff and have brought on three JAVA experts and we’re looking for four more. They’re
+tough to find, but they’re still working on it because he thinks beefing up the in-house staff is the preferred
+way to go. Mr. Mueller would be happy to answer any Board questions.
+Member Morales asked on the professional of staffing, that Mr. Mueller stated that it is hard to find
+individuals specialized in that area. Mr. Mueller replied yes, for JAVA programmers. They have found that
+we have a hard time competing salary wise with the private sector. Chairman Stewart asked if they are
+bargaining unit positions. Mr. Mueller replied he believes they are.
+Member Bedore stated that as we’re seeing these emergencies over last fiscal year and hitting an all time
+record in the State of Illinois, one of the things this Board has been contemplating is a new statutory definition
+of subclass of emergency procurements to cover so-called emergencies created by process failures or delays.
+Would IDES have any objection to something like that? Mr. Mueller replied he thinks they have been pretty
+successful in avoiding self-imposed emergencies. Since he is the legal counsel he would like to see the
+language, but thinks the concept makes sense to them. Member Bedore stated that’s what he is trying to get at
+and is not trying to get a definition. There is no specific language right now, but were talking about the
+concept. Mr. Mueller replied that they have worked hard to make sure that they don’t ask for emergency
+procurements where the emergency is self-inflictive. Member Bedore replied that he is not accusing them of
+that. Mr. Mueller replied that he understands.
+Chairman Stewart stated that he is just thinking out loud, but he knows on rules there is preemptory rules,
+generally they’re not emergency rules and they’re not a regular rule, they’re some point in between perhaps,
+following up on Member Bedore’s thought, a way to classify the way he put forward perhaps also something
+that came to like a preemptory where the State is reacting to a change in federal law where the Feds don’t ask
+us what they’re going to do, they make the changes, sometimes in our rules that go through JCAR,
+2 
+M:131205
+
+ preemptories are often the result of some change in federal law, which has a cascading effect down to State
+law. As we’re looking at the issue of emergency procurements, now that everything falls under that basket, if
+it’s done a certain way and there are multiple different reasons, some of the type that Member Bedore put
+forward and others where perhaps the Agency is reacting to events beyond its control, bankruptcy of a vendor,
+things of that nature. He is just throwing it out there, perhaps another way to look at classifying emergencies
+procurements.
+Member Bedore stated that he agrees with that, but we have to separate true emergencies. A vendor going
+bankrupt would be a true emergency the same way when a roof collapse, but not getting the contract out on
+time is not an emergency. It’s a failure of our process and he thinks we have to separate the two. Chairman
+Stewart stated that the Board will keep looking at the issue and he would agree that the issue of emergency
+contracts has to continue to be a focus of the Board and how we’re going to approach both of what’s
+happening now and on a forwarding basis because less emergencies benefits everybody including the
+agencies. No other questions or comments were made.
+Next on the agenda was the Rules Review for the Executive Ethics Commission Rules on Exparte
+Communications. Chairman Stewart stated that those rules were adopted. Director Carter stated this is an
+update that the EEC Exparte Communications rules were adopted by JCAR. Before the rules went back to
+JCAR and were adopted the Executive Ethics Commission did accept the latest round of the Board’s
+comments and made those changes. He thinks the only other item was the Board’s concerns that agency
+personnel are still struggling with understanding those rules and applying them in practice when it came to
+actual reporting which is why the Board wanted a representative to be present and to discuss those concerns
+of how we could fix it and move forward and unfortunately we were never able to have anyone here, but by
+way of an update, the rules have been adopted with the Board’s requested changes.
+Member Morales asked if he just hasn’t been able to get anybody. Director Carter replied they asked us to
+send comments in writing as opposed to being present for questions. Member Bedore stated that he thinks it’s
+an insult to this Board and he doesn’t understand why JCAR went ahead with this without the Board’s letter
+of no objection. He doesn’t understand JCAR at all on this. All the communication that was done was through
+David and not through the Board and he doesn’t know how the Board can go on like this if the EEC can do
+that then why can’t WXYZ do it? Member Bedore stated that he doesn’t understand it and doesn’t understand
+why JCAR approved it. Member Bedore also stated that Member Ivory is now present.
+Chairman Stewart stated that he shares Member Bedore’s concerns. The inability to get a meaningful
+conversion going with the EEC and someday we’re going have to work on it and he knows some people over
+there in the EEC so perhaps try to improve the lines of communication because input is helpful, participation
+is helpful. It’s difficult for this Board or any other entity in State government to do its job properly if you
+can’t get at least get the views of the relevant parties, including but not limited to the EEC. Member Bedore
+stated that he appreciates that except the use of the word “improve” communication, he would like to have
+communication. Chairman Stewart stated that he agrees with that and that would certainly be an improvement
+so I share your sentiment. Chairman Stewart asked if there are any other questions or comments from Board.
+No further questions or comments were made.
+Next on the agenda was the Rules Review for Capital Development Board (CDB) on Procurement/Contracts.
+In attendance was Jim Underwood, Director of the Capital Development Board, Fred Hahn, Chief
+Procurement Officer for the Capital Development Board, Lorri Rosenfeldt, Deputy Chief Procurement
+Officer, Tom Klein, General Counsel with CDB, Don Broughton, Contracts Administrator, Mike Wilson,
+Deputy Director of Operations, and Gilbert Villegas, Chief of Staff at CDB. Director Carter stated that from
+the last meeting to this meeting they were very close to an agreement, but there are still a few minor, not
+minor in practice, but minor in quantity issues that are left on the table. He’ll leave that to the CPO and CDB
+to discuss, again we’re pretty close. They had an agreement for a little while and some last minutes changes
+derailed what we had going. The parties are here to discuss for the Board and to let the Board know where we
+are.
+CPO Hahn stated he did send to the Board yesterday a letter to explain his position overall on some of the
+jurisdiction issues and apologizes for the lateness on delivering that. The Thanksgiving holiday kind of
+3 
+M:131205
+
+ prevented something more timely, but I think it reflects what we have been discussing all along, it’s nothing
+new. It’s continuing to be about jurisdiction and authority and it’s his position that the authority does rest with
+the CPO. The Code itself, in the section that pertains to the CPO, indicates that there is a CPO to be
+appointed for procurements for construction and construction related services committed by law to the
+jurisdiction and the responsibility of CDB. That’s essentially what these rules are about, those types of
+procurements. The CPO believes that there is authority for what these rules do. If there are any specific
+questions they would be happy to address them.
+Member Bedore stated that he believes that we had an agreement on this issue and then later in the day the
+EEC legal counsel recommended language that was a major departure. Why was the attorney from the EEC
+brought in? Don’t we have enough attorneys here without bringing in an outside party that was not involved
+in this issue? How did that happen? CPO Hahn replied that the EEC attorney has been reviewing this all along
+to some extent. The EEC attorney was requested to do some review by CDB, by the attorney for CDB, and
+that’s in part how she became involved. Your point about the agreement, “yes we had an agreement, but he
+thinks what happened afterwards was a discussion of whether the rules reflected that agreement and he thinks
+it was a disagreement over that because there was an agreement, that yes that there is authority of the CPO
+over these areas. The final rule that is drafted didn’t show that authority, in fact it took that away. Member
+Bedore stated that all he can say is the Board has had this before them for a couple of months now. CPO Hahn
+replied that this is the 3rd or 4th time. Member Bedore stated that it may be the 4th time and the Board has had
+staff working on it with CDB and we thought we had an agreement and now we don’t. Member Bedore stated
+that he would recommend letting it go before JCAR and fight it out. What more can the Board do except get
+everybody together and work something out. CDB had it worked out and now we’re out back in the cold. So
+let it go to JCAR, since they went ahead and did it with other things at JCAR, let them take this. CPO Hahn
+replied that they appreciate all the Board has done and in fact, Mr. Blount’s efforts were a great help. There
+have been a lot of changes that were made through that. Member Bedore stated yes he put a lot of hours into
+this. CPO Hahn stated that Mr. Blount was very successful in facilitating some dialogue and getting some
+agreements, but we ultimately had some sort of omission here where it reflects no authority for the CPO with
+respect to Qualifications Based Selection. It had been agreed that there was some authority and we’ve worked
+on language to reflect that. It didn’t end up coming out in the last product and that is what the EEC attorney
+offered to do is reflect that authority. Member Bedore stated that he’s washed his hands of this.
+Mr. Villegas stated that CDB thought they had an agreement as well and he actually had some notes here and
+he had to scratch them all out because the letter was just sent yesterday at 4:30. On that work the PPB had
+done with CDB and CPO’s office, we thought we were here to discuss getting agreed upon rules to move
+forward to JCAR. We can go ahead and discuss it there, so we agree with Member Bedore maybe we should
+just go to JCAR and discuss it there. Again, this is the 4th month that we have been dealing with this and we
+have dedicated a lot of resources to try to come to some type agreement and again, just when we thought we
+were there in the twelfth hour something happens. CDB is ready to go to JCAR.
+Member Morales stated that he appreciates that we got the letter at 4:30 p.m. yesterday and not 8:00 a.m. this
+morning. That’s been known to happen sometimes too, but again, he agrees with Member Bedore that this is
+the 4th time now and we had an agreement, changed the agreement and you just expect us to roll over and say
+fine so let’s just let JCAR handle this and hopefully get somebody from the EEC over there to discuss it.
+Chairman Stewart stated that he is much newer to this, but he’s talked to Director Carter and the Board
+members who were present during these earlier discussions and have stated their views. He doesn’t get the
+sense from hearing what the CPO has stated and what CDB has stated that there’s likelihood of agreement if
+there is further discussion. He doesn’t know if kicking this over to another meeting would accomplish much,
+if anything, and even if it did, perhaps there would be yet another last minute development. Chairman Stewart
+stated that he doesn’t think it’s the best use of the Board’s time. He thanked Mr. Blount, the CPO, and CDB
+for trying very diligently to come to an agreement, but that doesn’t appear to be the case or at least there is an
+agreement on everything other than this one issue, is that a fair characterization? Mr. Klein replied that his
+understanding is that there is an agreement on everything other than the issues of QBS selections and DesignBuild selections. One designation he wanted to draw is that no one has said that architect contractor/DesignBuild contracts are exempt from the Procurement Code. The position CDB has been at and the position that
+the PPB staff agrees with is that the selection process, the process by which those vendors are selected is not
+done pursuant to the Procurement Code, it is done pursuant to separate Acts. That process has been done by
+4 
+M:131205
+
+ CDB pursuant to CDB rules. That is the process that CDB believes should continue, which is consistent with
+the law. Once they have a selected vendor they still need to be contracted with and the contract would have to
+comply with the Procurement Code. There would still be disclosure and the vendor will still have to be
+compliant with all of the other requirements to do business with and enter into a contract with the State of
+Illinois. The distinction CDB has drawn is by the way that those vendors are selected and what criteria is used
+when selecting an architect, for example. Which architect is the most qualified to do the project? Those are
+things that are left by the General Assembly to CDB.
+Member Ivory stated that since this happens to be the only issue, but he thinks it’s an important issue,
+especially when you’re talking about the QBS process and since he is familiar with the QBS process and has
+done a very in-depth dive on the process and CDB’s process is different than the Tollway, which is different
+from IDOT also. In terms of the QBS process, why does the CPO believe they need to have….it’s never been
+done that way. He is struggling with how the QBS process works. What value does the CPO offer in terms of
+that process? CPO Hahn replied that he thinks it’s a similar value to other areas, which is to ensure the
+process conforms to the law and to make sure that the process runs fairly and to make sure of transparency.
+We’re not suggesting in these rules that CDB runs the process, that CDB makes selections that establishes
+criteria for who gets picked or that we picked. That is all done by the agency. It’s just they have a part of
+overseeing the process and that part is not in their rules. Member Ivory asked, when you are talking about
+overseeing the process in terms of the QBS process, how do they select a professional services contract and
+who’s on that selection committee and criteria that goes through it. Where do you see a problem from CDB’s
+side where you would have to add value to the process. CPO Hahn replied timeliness. He thinks it could be
+timelier. He thinks there could be a better way to get different firms involved in the mix. There needs to be
+some discussions about how firms get involved in the mix and who ultimately gets the selection. CDB’s
+process right now involves a pre-screening where separate staff looks through all the submittals for particular
+projects, screens them and ranks them. It’s not unusual once it gets into the selection for none of the top two
+or three firms to actually make it to the top two or three that are selected by the committee after that process.
+There are various reasons why that may happen, but there are a lot of questions about how well those reasons
+are speculated and how well those reasons set up in solicitations, and how well it’s all applied. Member Ivory
+stated that there have been numerous conversations on this Board and he’s had some conversations with
+Director Underwood personally and his staff, even with the Universities and everyone else, about the poor
+participation especially for people of color. He thinks there is some real work to be done and as he
+understands it is that CDB has some authority by which to correct that. No one is talking about that, but he is
+aware that is the case and he doesn’t even know why they haven’t fixed that. He understands that the CPO
+really wants to take a look at how to make the process better and how to make it more transparent and to have
+more consistency and that’s where you think the CPO could add some value to the conversation. CPO Hahn
+replied affirmatively. Mr. Villegas stated that when we’re talking about some of the rules at CDB the Board
+is well aware that we took it upon ourselves in May to add some language that talked about the makeup of the
+teams that evaluate the criteria. He is looking at these rules here, if you look at Section 8.3080 – Evaluation
+Process, there’s no mention about the makeup that would be similar to what it is we’re doing to try to
+encourage new firms and try to get more minority firms to participate whether it be as a sub-consultant or as
+prime consultants. Those are some of the things we’re doing at CDB and we’re working in conjunction with
+industry and minority partners to make sure that everyone is in and no one is out. Those are the things we’re
+doing at CDB. As it relates to getting new firms participating with CDB in the QBS process he will have Mr.
+Broughton talk about some of the statistics related to how many types of selections we had and the number of
+new firms we have actually selected as part of that process, being sensitive to making sure we get the
+additional competition for procurement opportunities.
+Mr. Broughton stated that he was the QBS chairman for about 3½ years until July 2012. He doesn’t have all
+those figures in front of him, but he reported to this Board about a year ago when there was a lot of discussion
+about Community Colleges’ selections and the results at CBD. He thinks it was very favorable to everybody
+to show the amount of minority and female participation that they were having as prime A/Es selected, not
+just consultants, but primes and he does recall that the percentage of the number of contracts for some of
+those were very large, one of them being a $44 million budgeted project that was just under 20%. CDB is
+very proud of that accomplishment and how they reached that goal as a result of CDB putting special
+emphasis on making sure that their process was transparent and that their process did involve inclusion. He
+apologizes that he doesn’t have those numbers in front of him, but regarding selecting firms that had not done
+5 
+M:131205
+
+ business with CDB before, he has that information and can get that information to the Board again that was
+presented last fall. CDB definitely increased the amount of firms that were involved so they didn’t have the
+same firms selected over and over. CPO Hahn had made the comment in regards to prescreening and the top
+firms and sometimes firms below that are selected, when you look at the prescreening and the types of
+projects that they do it’s not unusual for the top 10 firms to be all very close in their prescreen scoring, which
+is technical scoring based on experience, their team of personnel and designers. If you look at all 10 of them,
+could all 10 of them do the project, absolutely, but then how do you separate one from another and that’s
+where the criteria comes in whether it’s MB/FB participation, or geographical location of the firm. Say a
+Chicago firm is applying for a Carbondale project that’s very small, it could be the amount of work load that
+they have if they had a lot of projects with CDB they’re certainly not shunned from getting any more work,
+but do they just keep turning around giving the same firms work over and over and he thinks they haven’t
+shown that and can provide information to the Board to show that CDB has worked very hard to get firms
+who haven’t been selected for a while or new firms. He’s not talking about MB/FB, but all across the
+spectrum of involvement and thinks that CDB has done very good on that and is very proud of it. They’re
+always trying to continue to improve on that. In regards to the efficiency he thinks as you keep putting layers
+of review into the process, just the nature of more layers makes the process longer. Mr. Broughton stated that
+he thinks that it is counterproductive to efficiency.
+Member Ivory stated that he doesn’t want the meeting to drag on forever, but his concerns, based on being as
+objective as he possibly can, is that SB51 created a bottleneck for a lot of different things. It seems like this
+particular issue is, again, another process where you could disagree with something and the procurement
+process can be slowed down and if they had another agreement we could be sitting here going back and forth
+about who has authority and he knows in terms of getting the projects done on time and all the things that go
+along with it. His concern is that we have become so territorial to a point where we create less efficiency and
+we don’t make the great State of Illinois better, but it becomes bottlenecked and it seems to be a common
+issue any more with CPOs and agencies. This has to be fixed so we don’t spend too much time trying to
+figure out who has authority on every front and who’s interfering and who gets selected. It’s a waste of our
+time and the State’s time and a waste of the taxpayer’s time. He hopes that they work closer together and
+there’s nothing else to be said about that actually.
+Member Bedore stated that he knows he said that he didn’t want to comment about this anymore, but was just
+thinking about this. There is a CPO for Higher Ed and there is a CPO for the rest of the government and there
+is a CPO at IDOT. Those CPO’s have authority over architects and engineers. You’re shaking your head,
+because we know, for example, the architect for a project at the U of I, and the CPO is the one that brought it
+forward and said they think there’s a conflict of interest here. So doesn’t that CPO have some authority then?
+Mr. Klein replied that no one is disputing that the CPO has authority over the contract with an architect to
+determine conflicts of interest. No other CPO has anything in their rules about the selection, the selection of
+architects or the selection of engineers; the actual entering into a contract with selected engineers is subject to
+the Procurement Code. It is the selection process that is separate. They are not asking for anything different
+than what the other CPOs have in their rules. The IDOT CPO’s rules actually state that selection shall be
+made pursuant to the rules promulgated by the Department of Transportation.
+Ms. Rosenfeldt stated that in regards to the process, when you’re at the point at which you’re going to
+approve an award for a contract you need to be assured, in the role of a State Purchasing Officer or a CPO,
+that that process was done in accordance to State laws. The participation of the CPO’s office in looking at
+good faith effort rejections, for example, and looking at how the selection was conducted, how the
+specifications are written, and how it is that they come to a request to approve a contract is what they feel is in
+the best interest, both in terms of meeting the requirements of the Code as well as an efficient process, so that
+they don’t get to the end of a process where they are looking to award a contract and we find a flaw that
+occurred somewhere 4 or 5 months ago. To Member Ivory’s comments, if we work together as a team
+throughout the process, so that when they get to the end of the process they are approving a contract that is
+complete and in compliance with the law they feel they have the most efficient process. Mr. Villegas stated
+that CDB has worked with PPB and they are committed to coming to some type of agreement, however,
+we’re not going to do that here it appears so CDB would like to just move forward and appeal our case to
+JCAR.
+6 
+M:131205
+
+ Chairman Stewart thanked everyone from CDB who spoke. He thinks it is clear and he would agree that
+we’re not going to reach a consensus on this particular issue at this point in time and he doesn’t think kicking
+it over to another meeting is going to be useful for anybody. He knows the Board does have in their packet a
+proposal for language for the rule and it sounds like the PPB’s view was that was the way to go. That is the
+language the Board is comfortable with and as far as he is concerned, we should state formally that the Board
+is fine with the language as put forth in their packets. The Board does not agree with the language that the
+CPO has put forward and their counsel and it’s going to have to come down to what JCAR wishes to do with
+it. Chairman Stewart stated that he doesn’t believe the Board is comfortable with this recent additional
+language proposed by the CPO so he doesn’t think that the Board can state that they support that language. He
+thinks they can say they support the current existing language in their meeting packet and let the agencies, the
+CPO and CDB, go to JCAR. Chairman Stewart asked Member Bedore if he is comfortable with that. Member
+Bedore replied that, yes he is and he would like to put it in the form of a motion that the Board is formerly
+turning something over to JCAR rather than their just taking things up and approving or disapproving without
+going through this Board. He would recommend that they have a motion, since they could not reach
+consensus regarding the rules for the CDB, they’re recommending that JCAR make a decision. Chairman
+Stewart asked if there was any objection if they stated what their view is – as he understands it, the PPB had
+an agreement, which did not include this recent language the CPO put forward or do you want to leave it as
+kicking it over. Member Bedore replied that it doesn’t matter, you can include that. Member Morales
+seconded Member Bedore’s motion.
+Member Black stated that he has no objection to the motion, but he does have an objection if the Board does
+get another written comment in boiler plate language from the Executive Ethics Commission (EEC). Where
+are they? They still exist don’t they? They still have a Director? No seriously, he has spent a lot of time in the
+General Assembly and knows bologna when he see it, he’s not going to eat bologna every day, you’re going
+to have to serve me some turkey one of these days. He could give an example, but he won’t. This is
+ridiculous; he’s not speaking for anybody but himself. EEC never appears, we get something in writing, they
+reply, we reply. Member Black said that Member Ivory said it best, “we still have a territorial imperative in
+State government”. Turf battles, you can’t come in here, I do this, oh no I do this, you can’t do this, oh
+bologna…we all know why SB51 was passed. Why don’t we put some of that past mischief behind us and
+make the procurement policy the absolute rule if not law of the State of Illinois. He gets tired of seeing the
+same architects, the same builders. There’s an electrical company that does most of the work in 75% of the
+State of Illinois. Is he that good? Not from what some of his competitors tell him. He is tired of this stuff and
+he’ll go along with the motion, but he’s an old man and has got better things to do then sit here and watch
+people fight about territory. Member Black stated that he knows Jeff Schoenberg and served in the General
+Assembly with him and thinks he would be disgusted by the way SB51has been dragged through, dragged
+around. Let’s get over this stuff and let’s get back to the concept and the reason why SB51 was passed and
+we’re a long way from being there. He’ll vote yes for the motion, but he’d sure like to see the EEC. He is sure
+they will come to his memorial service, but he would sure like to see them before then. With a 5-0 vote the
+motion was unanimously approved.
+Chairman Stewart stated that he wanted to follow up on Member Black’s comments that in all aspects of
+State government it is challenging, and these times in particular, it takes time to do our work and sometimes
+there are going to be disagreements and that’s understandable, but he thinks that we all have to be cognizant
+that we are in a resource limited environment yet the public expectation of government service and the careful
+expenditure of their tax dollars is a top priority for all agencies of State government and he agrees that we
+have to communicate if we’re not going to get meaningful communications from the relevant parties. It does
+impede the process as Member Black has put forward, in trying to make sure we have an effective, efficient,
+and ethical system of procurement. Chairman Stewart stated that he shares many of the sentiments he
+expressed that there can be legitimate reasons for dispute, but he thinks we all have to try and rise above what
+sometimes looks specifically like a turf battle and try and figure out what’s the solution and maybe get away
+from who’s the winner and who’s the loser. That’s an ongoing debate and we are done with it for our
+purposes today. He does appreciate, despite the lack of agreement, the time the PPB staff, Director Carter and
+Mr. Blount, have put into this. The Board members being present during these months of negotiation and their
+input and CPO Hahn and CDB. He knows we have not reached a full agreement, but he thinks we should at
+least also recognize that there was substantial agreement on a whole host of other matters and that shouldn’t
+be lost in today’s discussion. With that we’ve concluded this matter.
+7 
+M:131205
+
+ Next on the agenda was the Procurement Policy Board Policy Resolution. Chairman Stewart stated that he
+knows the Board has been working on this and he did have an opportunity to speak with former Chairman
+Vaught last night, who gave him some insight on this. This is a very bold and broad resolution. It covers
+quite a few different areas of procurement and he would like to ask at this time, which he thinks it is still in a
+draft form, and from his understanding, the Board would like to continue the conversation maybe the issue
+was raised in this particular resolution and he would like to continue that discussion. He would like to make a
+proposal working with Director Carter and the PPB staff. This covers a lot of the waterfront in terms of areas
+touching procurement, some of it on a very high level and some of it very narrow in some regards, but what
+he would ask the Board members is if they could try to break out some of the areas in this into common areas
+of interest that are clusters of issues that are similarly related and have some conversations with the relevant
+agencies or stakeholders or other parties that could be impacted by this resolution. To get their input as to
+their thoughts on the resolution – areas where it could be improved or perhaps areas that need refinement or
+essentially get some substantive feedback because he wants to be comfortable if the Board is going to pass a
+resolution ultimately it is something that is achievable for all parties and has as much consensus by and for
+the relevant parties as possible.
+Member Bedore stated that he agrees with that and we could probably break this down into various groupings.
+He knows that he has some particular interests in the emergency procurements and there are 2 or 3 items that
+could be all lumped together with a further explanation and brought back to this Board. There was a concern
+over the leasing, whether some of those leases should come to us or not and that definitely should be high
+on….these are attainable resolutions. Chairman Stewart asked Director Carter to work with the Board
+members and maybe figure out where they are at and, (a) try and break it down into clusters, (b) maybe
+follow up with individual Board members, and (c) where their personal priorities and interests are and
+obviously to the extent that there is something there all the Board members would put relative emphasis on
+that would be the best area to start with. Rather than trying to do everything all at once perhaps pace it out a
+little bit, in a more digestible format. He would also like to recognize Director Carter and Mr. Blount who
+worked very diligently and very hard on this, but the PPB itself doesn’t have an excess of staff or resources.
+Maybe rather than try and digest this all at once, separate it out into component parts and move forward one at
+a time. That’s how he would prefer to move forward with this resolution if there is no objection from the rest
+of the Board members. Member Bedore stated that just going down this list that the Board has seen for a
+couple of months now, there is one item, which is the statutory changes to clarify the Board’s review
+regarding rules. That obviously came up today and the EEC decided to bypass the Board and JCAR went
+along with that. He thinks it should be clarified, do we or don’t we have some review. So there are groupings
+here and he thinks the staff could put together, working with the Board members, come up with something
+that is doable. Member Bedore stated that he and Member Ivory have been talking about the Community
+Colleges and their picking architects and builders that seem like the same ones over and over again. So they
+are in here, these policy resolutions and he thinks there are groups in here that can be attainable without
+reaching for the moon. Chairman Stewart stated that he appreciates that and that’s kind of the direction he
+would like to pursue. Director Carter stated that he understands the instructions and he’ll get with the other
+members and work on segmenting these out into what the members feel are priorities and what the second tier
+grouping is. Member Morales stated that is this something you would target for next meeting? Director
+Carter replied that he will have the drafts at the next meeting.
+Next item on the agenda was the Illinois State Police (ISP) Fuel Card Breakout. Director Carter stated that
+this item was here last month and we missed Member Black. This item was kind of his initiative and he
+believes Will Walker with CMS is here to speak again. This is basically an outline of the Illinois State Police
+vehicles that have gas cards and Member Black had asked for this list, which was provided to the Board
+members in their packet. Mr. Walker stated that he oversees the fleets, which is part of his responsibility. It
+was pointed out that the Board had some questions last month about the fuel issues with ISP so we brought
+two gentlemen with us. Scott Nichols, ISP Fleet Manager and Ken Thomas, ISP Fleet Processing Supervisor.
+Mr. Walker stated that if the Board has any questions at this point they would be happy to answer them or do
+they want to go in a different direction?
+Member Black stated that he thinks something that came up and caught his attention was that there was
+trouble getting an actual number of fuel cards that are out there. It started out to be the Illinois State Police
+8 
+M:131205
+
+ then IDOT because people were plowing the interstates and State highways, sometimes 24/7, in snow
+emergencies they couldn’t run back to a fuel depot so they had gasoline credit cards where they could stop in
+and fill up their salt trucks or plows and it seems like what was a modest beginning all of a sudden, depending
+on who you talk to, all of a sudden there’s 20, 30, 50 some thousand gas cards out there including non-IDOT
+and ISP. He knows in his area it was funny when we got into the financial crisis there would be signs out
+front saying we don’t accept State credit cards, but welcome to Illinois – that’s always a great advertisement.
+How many do you have? Mr. Walker replied he personally only has one, but every car is issued two cards,
+one is from WEX where they can buy fuel commercially and the other card is issued by us internally for the
+State that they can use at State garages and they have 13 of those fueling stations. Additionally, IDOT has
+their own fueling station at their yards for their diesel trucks and that kind of thing, which is primarily diesel.
+Other municipalities, State agencies and local units of Government buy off their contract and do use the WEX
+card. In total there might be 23,000, but that is all inclusive of all different units of local government in the
+State of Illinois that utilize that contract and buy fuel, so that way all those different units don’t have to go out
+and establish their own contract to do it that way. It is a master contract for fuel cards through WEX. Member
+Black asked how does work? Certain stations will and do participate or can you go anywhere under the master
+contract? Mr. Walker replied no, only certain stations participate. So, this third party called Wright Express
+or WEX establishes a network of fueling facilities and gas stations sign up to be on the contract. Obviously
+they want to be on it because it encourages people to use their gas station and pump fuel. Most major gas
+stations are on it. The little local ma and pa operators will not. Now, franchisees who operate fueling stations
+for BP or whatever, they’re supposed to comply with these national accounts, but every so often you get these
+rogue franchisees that own their own gas stations that don’t have the cash so they won’t support it and they
+say no because there’s such a delay in getting the money. Now he knows they don’t see that anymore, because
+the money is flowing more, where they are getting a better payment, where they are getting better terms and
+so on and so forth. Member Black stated that they do propose a contract and he is sure you get a discount. If
+you’re going to sign a contract with a national firm or statewide firm he would assume that we don’t go in
+there and pay $3.13 a gallon. When you could say, look we’re not going to pay that price with the gasoline
+that we buy, we want $.10 or 10% off, whatever it is. Mr. Walker replied the State certainly gets a discount.
+He doesn’t know what it is off the top of his head, but he could pull out the contract and get that information
+for the Board and then the State doesn’t have to pay out taxes either. A lot of those taxes are backed out of
+the bill and so forth, but yes they do have buying power. But there’s not as much buying power in fuel as you
+think there is. The margins are pretty tight and you don’t have a lot of leverage and it’s really the idea is this
+company carries the paper. That’s the big advantage to us and we only have one bill to pay as opposed to
+trying to establish contracts with every gas station out there. This is the way the model is set up. Member
+Black stated that there are very few mom and pops left. They’re either national accounts or statewide accounts
+and they have always told me that their margins are very thin and he is certainly nodding his head when
+they’re selling it for $4.49 a gallon. Oh yes, he understands that and the price of crude goes down to $95 a
+barrel. Our margins are very thin and he’s sure they are and most of these gasoline stations today are
+connected to a convenience store. We all know where they make their profit. Convenience means you’re
+going to pay more and he’s had that argument with his wife and he’s going to make her come before the
+Procurement Board so when she gets in a panic and runs down to a convenience store and pays double for a
+gallon of milk than you could at a supermarket, he’s going to turn her over to Member Bedore. That’s where
+they make their money on sales tax. One of the problems he encountered when he was still in his other life is
+we would often ask the liaisons for the Illinois State Police, how accurately do you track gasoline purchases?
+Generally you still assign cars to troopers don’t you? Mr. Walker replied affirmatively. Member Black stated
+that he knew in his town they would often have the car parked in their driveway or their garage. How
+carefully do you monitor their gasoline purchases? Mr. Walker replied that the way it is traditionally done
+with fuel is to divide and conquer. They don’t have one person that oversees the fuel. What they do at CMS,
+through his end, is they turn over the responsibility to agencies managing their fuel and they leave it up to
+them. They have access to a lot of reports and they look at them constantly. They are here to attest to that and
+he thinks they have more reports than they can possibly ever want. They are supposed to monitor the flow,
+who uses it, who wants to use it, are they using it for the right car, they look for theft or if there are serious
+flags they can set. There are limits they can set and if the Board wants he can let them speak to some of the
+reports that you may look at.
+Mr. Nichols stated that one of the things is the edits in the system in the fleet card is that they can only be
+used X number of times a day for a certain amount. Member Black asked if he said the P-card. Mr. Nichols
+9 
+M:131205
+
+ replied no, it is for the WEX card that they use to purchase gas. Member Black stated that they just had a case
+where a University certainly monitored a P-card and one of the staff members was remodeling his house on
+his P-card. Nobody questioned wall board, lumber, nails, paint, oh, must be for the band. Do you monitor a
+little closer than that? Mr. Nichols replied affirmatively. There are edits in the system where you can only
+receive three charges in a 24-hour period, the amount they can charge in a 24-hour period is limited. ISP gets
+a monthly report per car on what they purchased, the kind of fuel they purchased, and then the bills are
+actually paid by a fleet officer. It is broken into accounts, not just the individual account, for example, all the
+troopers in one zone or district, there is a fleet officer that reviews the gas purchases to see if anything is out
+of line. So there are a number of people reviewing that and then they get an edit report, which is produced
+once a month through our MIS Department and those are reviewed also. Member Black asked if they ever
+reconcile the number of miles traveled. Can you do that? Can you compare number of miles driven to the
+number of gallons of gas purchased and see what your fleet average is? Mr. Nichols replied they’ll look at,
+obviously we have an average of number gallons we purchase a year and the gross number of miles we drive
+and that’s reviewed and if anything is out of line then the individual accounts would be reviewed by the
+officer or the fleet manager. There are edits in the system, for example, there is a fair amount of information
+being typed in by hand, so for example, if someone enters the mileage incorrectly and it goes over a large
+amount let’s say they type in from today to yesterday they type in an extra 10,000 miles instead of 100 miles.
+They would pick that up or if that number is less, for example their mileage for the last time it was entered
+was 100,000 miles and today they typed in 98,000 miles so obviously it doesn’t go backwards so once again
+that kicks out an edit report and those edits are produced in a report and sent out on a monthly basis to the
+fleet officers for review and reconciliation. Member Black stated that he knows when he was in the House he
+did three ride alongs with the State Police and that’s how he became familiar with some people that would
+accept the card, some would not. Also, he became very familiar with your radio system and they must have
+been purchased from Radio Shack in 1939. He thinks they have made some improvements since then. One of
+the cars that he drove in and is why he pushed for a Missouri model, one of the cars he was in had about
+285,000 miles on it and the trooper that night said you don’t have to worry about us getting into a chase
+because he only had 6 of the 8 cylinders that work. ISP has made some great strides in that and he knows we
+can’t announce it, but there were times when the rule went out to park the car and don’t idle. Gasoline is a
+much bigger expense then when he pumped gas at Sam White Super Service Texaco at $0.219, which shows
+how old I am. He was just concerned about who is monitoring these cards. It came up because Member
+Bedore pointed out the P-card at the University of Illinois and wanted to know if anybody looks at this stuff.
+The director of the band is buying lumber, paint, nails and 2 x 4’s. He just wanted to make sure ISP has a
+fairly accurate system of matching miles traveled with gallons purchased. Mr. Nichols replied that like he said
+they get a monthly report from the credit card company and they did have some trouble downloading that into
+our system and are trying to clean that up. Then there is always some human error so there is always going to
+be a few, but they’re more data errors, it is not the credit card is not is running up a bunch of money. It’s
+usually that they have converted money over we’re showing a lot more than what is really there, so we’ve had
+some problems with that, but in a small percentage. Obviously, they’re working on cleaning that up. There is
+a monthly review and they have reports that are produced on a monthly basis, in-house by their MIS tech
+people. Those are reviewed and then they are also reviewed by the fleet officer and when he says the fleet
+officer they have like 60-70 groups’ accounts and then each car in the account has their own credit card and
+there is an officer that reviews those purchases and not only are they reviewing the purchases, but then they’re
+responsible for processing the voucher to pay and then split those down into their account. They will look at
+their 70, 80, 100 cars and then they will look at those purchases so there is someone looking at just that little
+group, and then there is someone looking at the whole group and then once again we have the MIS reports
+through CMS also. Member Black stated that ISP is fairly confident that we get dollar value for the gallons
+that we purchase? Mr. Nichols replied he believes so. If anything we run into some problems with the edits
+being so close and occasionally if someone is driving a lot of miles we actually have to reset their card so they
+can buy more gas. Actually the edits built into the system kind of keeps too much abuse out of the way and
+they run into it a number of times where, not a number but more frequently than a large, where we run into
+someone that says, hey I had a conference down in Southern Illinois and I had to run home and he needed to
+fuel up four times that day. The card had to be reset because the card doesn’t allow that. Member Black stated
+that current policy still allows the troopers some personal usage of that car, correct? The reason why he is
+asking that is he is from a rural area and people will call me and say they just got out of the Savoy 16 Movie
+Theater and there is a State Trooper parked in the lot. What’s he doing? Member Black said he would reply
+that he’s probably there reviewing the movie. What do I know, I don’t know what he’s there for? What they
+10 
+M:131205
+
+ are after is the car being abused? Is he using it to go to the movie theater? Is the trooper using it to go to the
+mall and you will never get rid of public perception, but every time they see a U-plate at a movie theater or at
+a mall or anywhere else they’re not afraid to call us and say here’s the license number what’s it doing there at
+9:00 at night. Mr. Thomas replied that Master Sergeants and above are authorized to use their vehicles after
+hours due to fact that they could be called out to a situation instead of running home to get their squad car at
+home and then driving back to the situation, that’s the reason why we do that, but anybody with a silver star
+or Sergeant are not authorized to use their vehicles after work except for going to work out. That’s part of
+their job and it requires them make sure they’re physically fit, so they can use the car to drive from their home
+to the gym to work out. Member Black stated that he appreciates his indulgence and he was a little curious
+after a couple of discussions on how many cards were out there and what kind of a job they were doing to
+monitor it. He certainly has no issues with the Department. He’s done enough ride alongs to know that it’s not
+what he would want to do. Although, he probably could save the criminal justice system a great deal of
+money because he’s not going to sit out on the edge of a highway and argue with somebody for 10 minutes.
+He would be a very good jury, but unfortunately they won’t let me do that. He does appreciate the job they do
+and he knows we don’t have the data system that we should have statewide, when he came over here many
+agencies were using COBOL language. He is no computer wizard, but that’s the language he was using
+almost 50 years ago in a junior college class, so it’s not state of the art. He just wanted to make sure the Board
+had some figures in case somebody asked.
+Member Morales asked, regarding the fleet, if they have a scheduled rotation for the vehicles. He notices a
+vehicle from 1984 that uses up about $79 dollars worth of gas. Do you tend to keep vehicles depending on
+what their usage is for a longer time. Is it efficient to do that? Not that he wants them to go out and by new
+vehicles, but he was just wondering because it is kind of all over the place in terms of how old these vehicles
+are? Mr. Nichols replied that some of the older vehicles that you see that are not a patrol car that’s not
+running up a lot of miles. A lot times what you’re going to find is that is a specialty vehicle of some sort.
+Especially one from the 90’s, that’s obviously some vehicle that has some… Member Morales interjected
+stating that it is from the 80’s. Mr. Nichols stated that it probably has a very special use. For example, some
+of the large trucks maybe used in a specialty vehicle where it is only used in a tactical situation or it’s a
+vehicle that is used to deliver something or pull a trailer used by a radio tech or maybe a box truck that they
+use at Central Headquarters to disburse stuff from the quartermaster back and forth. This might be a truck that
+is only used on occasion, but we need that size of truck just to run across town a dozen times a month. It
+doesn’t run up a lot of gas mileage a lot of times that’s what you’re going to see especially with those older
+vehicles. They have a specialty use. It’s not going to be a patrol car or an administrative car it’s going to be
+some kind of support vehicle of some sort. Member Morales stated that he wanted to go back to what was
+discussed briefly. He guesses the quickest way to ask is what the number of fraud instances that occur within
+the Department. Is that something that you monitor annually and has that been increasing, decreasing, stayed
+the same? Has there been any? He’s sure there’s been a couple because when you have that many cars it’s
+going to happen. Mr. Nichols replied that they have to report quarterly to CMS, sorry twice, a year and it is
+reviewed and he doesn’t believe that we have had any incidences this last 6 months, but any incidences would
+be reviewed by investigative staff of the State Police.
+Member Ivory stated that we have been dealing with a pension issue and God bless us we’re come to some
+agreement and that has a positive impact upon our bond rating and hopefully that Moody’s and Standard and
+Poor’s would give us a bump on the upside, so our cost of borrowing money will be reduced. Families and
+businesses make decisions all the time about how to cut their budget and what he finds in government as a
+rule of thumb, is that people kind of go along to get along. They don’t make real changes. They don’t take an
+in-depth dive. This is a general comment, which may not apply to you, but it’s what he sees to be happening
+in government. His question becomes the question of how intense are they at taking a look at things of
+inefficiency and trying to come back to the State and say that they found some things they can do better,
+here’s one of the areas they can improve. ISP has an item here on the 6th page, for those who are not here with
+us its #48918 2012 Ford F35TK and it has very unusual balance probably 6 to 7 times of anything else. He is
+sure there is a reason for it, but maybe you can help me understand why one vehicle would have 8 to 9 times
+greater mileage and cost than any other vehicle. Mr. Nichols replied that is right at the top of his review list.
+ISP gets this information through the credit card company and their system is significantly more up to date
+than the one they are downloading this information into. Their tech guy has to convert, manipulate and
+download this data and this is actually an error on their part. They have indentified that as an error. As a
+11 
+M:131205
+
+ matter of fact that vehicle is a 2012, it only has 16,000 miles on it and it only used $2,800 worth of gas so that
+is an error in their data and they have addressed 6 or 7 of these that appear to be vastly out of line with what
+they expect to see and they are reviewing how they convert that data and how they can fix the problem. That
+is an error, that truck did not use that much gas. Member Ivory stated that he is sure that other States have the
+same issues and challenges that we have, are you talking to other States that may have some better tracking
+method or system where they have reduced their cost and created more efficiency. Do we ever look beyond
+that from CMS, from yourself as you’re responsible for the State troopers. Are you looking to see where we
+can create more efficiency? Do you reach out and talk to someone or talk to other States that may have done
+better? Mr. Walker replied yes they do talk to a lot of different States. There are a lot of different models, and
+of course every unit of the State government is structured a little differently, some very centralized, some very
+decentralized, and some believe it or not have worse financial problems then we do when it comes to the fleet,
+but there are some models that are very good, and some models are very poor. We are constantly talking to
+them and we’re always evaluating things. A couple of things you need to know is we’re looking at trying to
+collect data, as you refer to with the systems, and one of the key things with the fleet is trying to get mileage
+data. If you have mileage data that’s solid then you can make a lot of great decisions from there. More
+mileage data you can’t make any decisions. So one of the things we’re looking at installing on every car is not
+really a GPS system, but is more of a mileage monitor where they can capture that mileage electronically so
+that they know exactly. Because right now they have to go to the pump and someone has to type in the data
+and the mileage and the data is only as good as the person typing the stuff in. If someone wants to play with
+the system they can play with it all day long. We have to manage all these errors so if they can capture that
+information electronically and then they can go back and start to manage by exception. That’s one area of the
+fleet we’re looking at. The other things are the idle rules and trying to get people to idle less. They have
+looked at other States and what they’re doing and in the last couple years with these efforts they have reduced
+gas use about ½ million gallons on an annual basis. They have gone from about 10.3 million gallons of usage
+to the neighborhood of about 9.6 or 9.7 million gallons of gas. Now would he like to sit here and take credit
+for all that, well sure, but he thinks you have to manage fuel from a high level and then you have to try and
+change people’s habits is what you need to do and coupled with that you want to get good solid data, so that
+we call out the people that are not really playing by the rules. That’s the path we’re headed for in those types
+of things. Member Ivory stated that for an example if there’s a big debate in terms of how we pay for our
+crumbling infrastructure with the motor fuel tax and obviously it doesn’t do enough in order to continue to do
+what it needs to be done with bridges and highways and everything else. There’s big conversations happening
+in reference to being able to track mileage and having people pay based upon mileage if that technology
+comes out then it will probably help answer some of the problems we have anyway. Mr. Walker replied
+absolutely. One of the things CMS looks at with the fleet is that it was all very decentralized before so a few
+years ago he said they are not going to do that anymore and we’re going to centralize this thing. So, someone
+asked before about vehicle replacement, 3 years ago 60% of the cars on the road had over 150,000 miles or
+were 8 years old and he can tell you today that that number is down to 38%. CMS has a more fuel efficient
+fleet, we have a much safer fleet, less down time, we’re using less fuel and they are getting better cars and
+safer cars on the road for people to use. So we’re making progress. The progress is slow in government, but
+they are making process. Mr. Nichols stated that one of the issues that was commented on was about sitting
+and idling and due to the newer cars and updated technology they actually purchased some options in the
+vehicles that has a second battery backup system so that they can actually run the lights and not run the car.
+So that’s something else in recent years that they have put in the technology of the patrol cars.
+Member Bedore stated that of the 2,282 cars and trucks that are assigned to the State Police, what percent are
+actually assigned to troopers on the highway? Mr. Thomas replied that every trooper should have one car
+issued to them for permanent use and then he may have another vehicle, say, a swat team member may have a
+specialty vehicle that may be assigned to them as a custodially assigned vehicle. Every trooper will have one
+assigned to them and they may have another one assigned on top of that.
+Member Morales asked what the number of sworn officers is? Mr. Thomas replied that he didn’t know that
+number right off hand, but would have to get that number for the Board. Member Bedore stated that what he
+is trying to get at is how many cars are assigned to administrative functions? Mr. Thomas replied that he
+would have to get that information also. Member Bedore stated that because there is somebody sitting in this
+room here today. He was having lunch at the Centrum Café during the summer months and there obviously
+was some meeting of some kind because there were about 15 or 20 State trooper cars and a lot of officers
+12 
+M:131205
+
+ inside and he is just curious how this works. So they can use their car to go to lunch, the movies, anything
+they want. Mr. Thomas replied that if they were at the Centrum Café more than likely they were at the
+academy doing some training and instead of eating the food at the academy they just chose to drive up to
+Toronto Road to have some good food, but as far as going to the movies and a road trooper or a sergeant will
+not have that ability. Member Bedore stated he knows that, he is talking about the officers.
+Member Black stated that it would be good information for the Board to have. He knows we have never really
+recovered from the early retirement incentive several years ago and he doesn’t think our sworn officers ever
+got back to what they used to have. He thinks most of you have been around long enough to remember when
+the State bought some new cars one year, and that is a substantial capital investment depending on how many
+we buy, the taxpayers buy. There was a Senator that didn’t favor that bill and when the cars came in the
+informal communication system around this 2nd Street address is much better than the formal communication
+system. Somebody told him that they’ve gotten a delivery of about 50 new cars and many of the troopers had
+to testify before the committee that they were driving cars that were in the shop more than they were on the
+road and costing us a great deal of money. This particular Senator went over behind when your headquarters
+were in the Armory, and counted and he said there were 49 cars in the lot and 47 were brand new. The
+Senator said that’s not what we brought the cars for to be assigned to flag officers or officers who didn’t
+patrol. For a long time the Senator stopped your Department from buying new cars. Member Black stated
+that he thinks that what Member Bedore just talked about, are the cars being assigned to the road trooper or
+are they being assigned to administrative functions, simply driven to the Armory or your new building now,
+and how’s that working out by the way? That was a real wrestling match for about 2 ½ years, as to who had
+the new cars and why were they assigned to administrative functions rather than enforcement functions out on
+the road? Mr. Nichols replied that when they do their vehicle order and distribution they look at a certain
+amount of vehicles that are strictly for patrol and he can say the vast majority of them are designated for
+patrol and not administrative functions. Member Black stated that would be good information to have
+because he doesn’t even know what their authorized headcount is anymore and he doesn’t know how many
+road troopers they have. He knows when they were across the street there were a lot of lieutenants and
+captains and majors he has no idea what that breakdown is. It’s not that they need to spend a whole lot of time
+on it, but it would be interesting to know because then you could get into this and say wow there’s only this
+many road troopers and we’re spending this much on gasoline. It would be interesting to have that
+comparison. Member Bedore agreed that it would be helpful to have the breakdown.
+Chairman Stewart stated that Director Carter has been taking notes diligently on the Board member’s specific
+requests and he will follow up with ISP and CMS to make sure these requests are answered and will report
+back to the Board. He too shares the concern that the Board members have expressed about making sure
+we’re buying the right type of vehicles, turning them over properly, the fuel expense and he is understanding
+CMS’ and ISP’s improved technology will probably make the monitoring better. Pen and paper monitoring in
+this day and age is not the most efficient way to go so he encourages the electronic monitoring of mileages
+probably will be a very helpful tool on a forward looking basis to answer the question about fuel usage and
+perhaps, obviously, who’s using the fuel and is it appropriately or not. He appreciates CMS and ISP for
+coming forward today and Director Carter will be following up with them on the specific questions the Board
+members have put forward. Member Black says he echoes that and appreciates the job they do. Mr. Walker
+stated again if you see a car, a State car, that is not being used properly or you have questions about it, he
+knows Mr. Blount recently sent me an email he saw a car and he had an issue and we talked about it and kind
+of resolved it, but he thinks it’s our responsibility to call out State waste so if you see an issue, a problem, let
+me know and they will be happy to handle. Member Black stated that he tried for a number of years, and
+CMS will testify they didn’t like his bill, but he wanted every car identified. It’s easy to do now with vinyl. If
+you see a U-plate somewhere weird at 10:30 at night you would like to know what Department that is. You
+could ask somebody to run the plate for you, but every car should have, if it’s a U-plate, Department of
+Corrections, Department of this, that’s not hard to do with vinyl. CMS told me for years to paint that many
+cars would cost a fortune. We don’t paint the cars anymore. He has called CMS because when you come out
+of a movie theater at night and there are two U-plate cars in the movie parking lot. That’s weird, but he
+doesn’t know who the car belongs to or what department the car belongs to. CMS testified strongly against
+my idea so, but he bears no ill will. Mr. Walker replied that CMS likes you too. No further questions or
+comments were made.
+13 
+M:131205
+
+ Next on the agenda was the Veterans Business Program for CMS. Director Carter stated that the next item up
+is the Veteran Business Program at Board request. The last time the Board passed the rules through and they
+passed JCAR and he still thinks there are some lingering concerns that maybe somebody needs some help
+engaging the program more, which he thinks is why the Board Member request to have them present today. In
+attendance was Michelle Jackson, Deputy General Counsel at CMS, Paul Cerpa, Deputy Director of the
+Business Enterprise Program (BEP), and Jaime Martinez, General Counsel for the Department of Veteran
+Affairs (DVA). Chairman Stewart stated that he knows that this issue has been before the Board before and
+it’s an important issue for the State of Illinois on all platforms, not just this particular issue, trying to make
+sure we are properly recognizing the scarifies and efforts members of the armed services have made on behalf
+of our country past, present, and future. It’s safe to say issues pertaining to veterans have been an important
+component of Government Quinn’s agenda. It’s an issue that he goes far back at least to his days as Treasurer,
+if not before, being concerned about the issues impacting veterans and current members, not just veterans, but
+also current members of the armed services and in how can the State, in some small way, help repay those
+members for their service to their country and this one particular tool we’re attempting to utilize to help
+recognize the service of the members of the armed services. Could someone from CMS give a very short
+summary of the goals of the program and then quickly moving over, since the rule has passed, your vision of
+how you intend to engage the veteran community on issues and awareness and perhaps how you’re going to
+work with Veteran Affairs on this issue?
+Mr. Cerpa replied that the legislation establishes an overall 3% goal for all procurements. Granted that CMS
+works in conjunction with DVA with respect to the outreach efforts. CMS is administering the overall
+certification process and the goal monitoring and establishment for those particular procurements. For those
+of you who are familiar with the current Business Enterprise Program (BEP), which incorporates minorities,
+females, and persons with disabilities. It’s our intent to mirror that actual program consistently throughout.
+So, as we move forward those particular procurements will not only have BEP goals, but also VBE goal, if
+you will, where applicable. They do defer to DVA with respect to overall outreach aspects of that. They have
+staff in position to provide not only insight to the program, but also the certification process associated with
+that. They have one planned and he thinks it’s the 19th of this month as well. So they will be working in
+tandem with DVA. Subsequent to the actual passage of both the legislation and the rules they have also been
+in direct dialogue with the CPO’s office with respect to the overall administration of the program to all of
+agencies as well as universities. Although the legislation has been passed quite some time ago there are a
+number of agencies that are sitting on the sidelines waiting, wondering when are they’re going to get moving
+here. So now with the rules being in place, just as of lately, now they are changing all templates of those
+procurement documents as well as the current BEP form that are basically submitted on every particular bid to
+be inclusionary for Veteran Business Enterprises (VBE). There was also a discussion, he thinks, a couple
+months ago, with respect to the number of veterans that certainly CMS is cognizant of that as well as DVA.
+He is happy to say with CMS’ role of fostering the changes in legislation for the minority business program
+we have seen roughly a 30% increase from when this first came before the Board. He believes the number
+that was presented at that time was 53 and to date they have 70 veterans. So the word is getting out and they
+believe that the legislation that now allows minorities and a females to participate in both programs, which
+was prevented originally. That change and has had a dramatic effect. Likewise, veterans who are minorities
+and females can now participate in Business Enterprise Program as well as all of them can participate in the
+Small Business Enterprise Program. So, there are a number of avenues to assist those small firms with respect
+to expanding their overall business opportunities. This is where they are at today and he would be happy to
+answer any questions the Board might have.
+Member Ivory stated that he recalled when the Governor had appointed him to be on the task force to help
+establish the 3% goal that we have currently and when he listened to the opportunities and when you talk
+about procurements and making sure there’s more than one person in ordered to establish a goal or to have a
+goal you have to have, if he is not mistaken, at least 3 people in that particular area of procurement. Is that
+correct or it is two or three? Mr. Cerpa replied that it is a general rule of thumb with respect to at least
+identifying and you’re really identifying those particular areas of both capacity, capability, and ready and
+willing number of firms available. The general rule of the thumb, if you will, if there’s 3 in a particular
+industry group the rule of thumb would be that it would be eligible for a particular goal setting. However,
+when you take a look at procurement, and keeping in mind that it involves the look see of the procurement
+overall, of all of the scopes of work associated with that actual procurement. Certainly building a veterans
+14 
+M:131205
+
+ home on the West Side involves a number of disciplines as opposed to just buying commodities, if you will.
+So, in that particular case, it provides an opportunity to take a look at all those sub-contracting aspects, taking
+a look at those and he thinks from the BEP standpoint their approach would be say 10 areas of subcontracting
+and there may be just one veteran business for one particular area of sub-contracting and then two in another
+and then three in another, they would take that as a whole and from there render a decision as to whether or
+not that contract was eligible for a veteran’s business goal. Also with that, giving the focus of attention on a
+program at least from the standpoint has been at least at a standpoint of legislation has been in place for a
+couple of years now, there are certainly a number of veterans that are waiting to participate in the overall
+procurement process. He thinks that they have to be sensitive of that and to take every opportunity to try to be
+ensuring that this program is one of inclusionary processes. So taking that process of looking in those subcontracting areas he thinks would work well from the standpoint at least establishing goals on those contracts.
+Someone said to him last month after the rules were actually approved, now what? So, they’re thinking is that
+if we build it, and by that he means if we established contract goals with Veteran Business Program, if we
+build it, they will come. So, he thinks that’s the approach they have to abide by and he certainly thinks it will
+prove beneficial along those lines. Member Ivory stated that his comment that he was trying to get to is, this
+is just a suggestion coming from him, is that because of the numbers that’s there, if there is a way to work
+with Veteran Affairs where people can identify what we’re procuring and understand there is a significant
+opportunity in these areas and then identify and then maybe do some proactive outreach in terms of the areas
+where we know there is significant opportunity because there’s no veterans in that area. Could help maybe to
+have a form where you could identify places and opportunities because people really want to go where there
+are opportunities if they can make some money and they know there’s not competition in that area you may
+create an environment where people would take even a greater initiative to get certified to get into the
+business or even to a joint venture where they would have some type of ownership of 51% or something in
+that category. So, this is just a suggestion that maybe identifying where the greatest opportunity where there is
+really little or no participation that it may be good to just reach out to Veterans Affairs and say these are 10,
+12, 13 targeted areas that we think are not capital intensive, but offers great opportunity that no one has
+participated in yet. Mr. Cerpa replied that he would echo that process. In fact, they have also suggested
+increasing the number of pre-bid meetings that allows a basic form for both the prime contractors and
+potential veterans businesses to begin dialogue on the onset there so your point well taken.
+Chairman Stewart stated as the Director of the Department of Financial and Regulation he’s had an
+opportunity to work with DVA on various veterans licensing issues and can speak that DVA has been very
+helpful, very insistent. We worked a lot with Assistant Director Garcia who is a pretty motivated guy, which
+he would say would be a good way to describe Mr. Garcia. He is sure that they’re reaching out and speaking
+to them, but to follow-up with Member Ivory and strong communication with DVA, who probably has the
+best pull to the veteran community in State government and he’s sure they’re doing alright but encourages
+them to continue doing that. Director Borggren is very active herself, they get up every day and that’s what
+they think about every day, so from personal experience they have been helpful to us on awareness issues and
+making opportunities known to the veteran community, which is not our particular strong suit.
+Member Bedore asked that of the 70 how many of those are actually certified today? Mr. Cerpa replied 70.
+Member Bedore asked if there are any pending. Mr. Cerpa replied that there are 6 pending, but that’s not
+accounted for in that number. There are 6 pending and currently there are 70 certified. Member Bedore asked
+what is the breakdown Statewide; northern, Chicagoland, central, southern. Mr. Cerpa replied that the
+breakdown is 3 in northern, 5 southern and the lion’s share, the rest, 62 metro Chicago, which would be the
+surrounding counties and the city. Member Bedore stated again he’s been talking about this now since June
+along with Member Black and Member Ivory. The Board has been talking about this, and again, you have 5
+from I-80 all the way to Carbondale, to you name it, to the river. How are you going to do contracts for a
+specific area when you have 5 companies south of I-80? He went through the list last time; Danville,
+Champaign, Springfield, Decatur, Peoria, Edwardsville, East St. Louis, Carbondale and you can go down the
+whole list and you have 5 companies. How’s that going to work? And what is your outreach to southern
+Illinois? Because at the last meeting and the meeting before and the meeting before the Board heard contrary
+to what the Chairman Stewart said the Board just heard from the DVA saying they have one person working
+on this program and he is really loaded with other jobs. Mr. Bedore you are asking a lot of this employee. He
+has procurement, he has this, he has that. This is a side job for him. Well, he’s sorry, he doesn’t think DVA is
+doing it and you will say contrary, but here we are 2 ½ years later and we have 5 companies from I-80 south,
+15 
+M:131205
+
+ 2 ½ years. That to him is not an outreach, that’s an in reach. Member Bedore hopes they have gone beyond
+and the other excuse was with the federal shutdown they were not able to get their federal grant for an
+outreach program. The Board has also been told for the past two or three meetings that this poor person at
+DVA is just overloaded with work. Can somebody explain what are you going to do? And he doesn’t call it
+southern Illinois; it’s central Illinois, south from I-80 all the way to the State border. How’s this going to
+work?
+Mr. Martinez stated that he wanted to try and clarify that. Member Bedore presented a unique description of
+where they are today and where they were a few years ago when the legislation was passed. Something in
+their analysis of trying to make sure the perception is one individual that is over worked is understanding the
+scope of the available resources that they have. The face of their organization, to be quite frank, are up to 70
+Veteran Service Officers. They’re the ones who are seated throughout the State in different facilities and in
+the rural community, south of I-80 the majority are. We’re taking an inward approach to make sure that
+they’re educated, they understand about the program, they’re providing them all the materials and we’re
+engaged in the veterans at that instance on a daily basis and that is a way in which they can try and get
+through this particular issue that he highlighted. Member Bedore said that it was stated that it was because of
+the lack of employees. Mr. Martinez replied no, he is not saying that. Member Bedore stated then what did
+you just say. Mr. Martinez replied that what he is trying to highlight is that they have, within the agencies
+veteran’s service officers that daily engage the veteran community across the State in different facilities, not
+north of I-80, the majority of them are south of I-80. They work at interim sites or they are actually at hard
+stand sites with their county partners or our partners with the Department of Military Affairs. They are being
+informed, instructed, given materials, reaching out making that part of the dialogue when the veteran comes in
+for a disability compensation claim or an update on a benefit, they’re also being aware of this. Help them to
+identify veteran business in this area then a further outreach in contact. As the Board is aware that they have
+their four veteran homes in Anna, in Quincy, LaSalle, as well as Manteno. Their Business Administrators,
+they have had some change out, but their Business Administrators are more aware and in tune now on trying
+to in their engagements and bidding and their work to ensure that more veteran owned business are indentified
+and outreach continues. That is just in a sense of their core mission of reaching out to veterans on a daily basis
+running those homes may lead you to conclude while you have this large staff where is the focus. Well, the
+focus continues in their core mission and this is part of it and Assistant Director Garcia described and
+provided a letter of all the outreach and the efforts. If it’s been a marginal gain in the Board’s eyes because
+there’s only 5, there is an acknowledgement across the board with all of our programs of whether or not we’re
+able to engage and keep connected to our south of I-80 State responsibilities, but the effort and outreach, the
+numbers of phone calls and the numbers of materials that are sent out in particular to Danville, Assistant
+Director Garcia made sure that he reached out to the leadership of the U.S. DVA Danville and exchanged
+information and helped them to understand how to highlight and identify to veterans that are there for
+treatment to seek opportunities within the business programs. So, that is a way in which they’re trying to
+embrace this challenge that the Board has highlighted and it may not of assuage their concerns, but the Board
+may see him a month from now and the numbers may have ticked up to 70 and we’ve gone from 5 to 6, but it
+doesn’t mean that we’re not making an effort, it doesn’t mean they are not committed, it doesn’t mean they’re
+not advocating for this. They clearly understand what the challenge is and it’s good to be partners with our
+other agencies and CMS leadership under the rules. It can be a very difficult process to go through the
+proposed rule making and JCAR. Since he’s been on the team for less than 14 months and he has had to do
+numerous rules and it’s a learning process, but at the end of the day they’ve gotten everyone’s comments and
+figured out what was best. The Board’s team went ahead and issued a Certificate of No Objection and they
+have been meeting with the CPO and our friends from CMS and with stakeholders. They’ve been working
+together and we’re trying to do this together as a team with the Board’s guidance and with your knowledge.
+Member Ivory stated that south of I-80, even when you take a look at the issue in the African American and
+Hispanic communities, in terms of business capacity, it’s the same problem. There’s something unique about
+south of I-80 that makes it difficult for a business to get started because this is an issue that we have been
+trying to address for quite a number of years and it seems somehow it’s difficult to get business started. He’s
+not quite sure if he understands the dynamics of it, but you’re surely having the same problems that he has
+had in the leadership role in terms of fighting capacity south of I-80. We have capacity up north, but when it
+comes to south of I-80 you don’t have a capacity and then some of those issues have been for the most part
+that when people did apply they didn’t have success and when they don’t have success people just kind of
+16 
+M:131205
+
+ give up on it. He wonders if there is a physiological phenomenon that’s happening that we haven’t addressed
+in terms of the psychology of how people believe there’s an opportunity and not an opportunity. Member
+Ivory stated that he is not sure that there’s any value in what he just said. Mr. Martinez replied no, there
+actually is, because on a daily basis he gets numerous legal referrals. Veterans call them in a legal crisis and
+they are south of I-80 and they are not in the veteran treatment core jurisdiction they are in the criminal
+system. DVA is trying to work with their partners to get them some kind of representation so they can address
+and understand the underlying issues of why they are finding themselves in the criminal system and/or they
+get requests for legal assistance in consumer law, elder law and family law. They can’t seem to shake the tree
+up north to try to see if they have contacts down here, so they are out trying to beat the bush and create a
+network of legal providers for that same thing. So in comparison from what they are trying to do in the legal
+world, he understands that and acknowledges that and it’s simply getting on the ground and doing it and
+getting their VSO more involved and educated who are out there who see the veteran everyday and you excite
+them, you inform them and educate them, that will help and then maybe six months from now when they
+show the Board numbers and instead of five they have 18 and they value those 18 and encourage those 18 and
+get more, but it doesn’t mean they are not trying or it doesn’t mean that they are giving up, it doesn’t mean
+that they are not supporting what the Board is providing your experience and your guidance and what they are
+trying to do as an agency. Member Ivory stated that he’s thinking that maybe there should be some additional
+focus perhaps south of I-80, in terms of some additional workshops maybe have a think tank that gets together
+and really kind of figures out what can be formed and set some real goals and some real targets. Mr. Martinez
+stated that one of the programs that Mr. Cerpa acknowledged was that they were having December 18th in
+DuPage County at Kaskaskia College with an admission of veterans to entrepreneurs those are some of the
+large programs, but he understands what Member Ivory is saying that maybe we reach out to different
+business organizations at the community level and start bringing them together and inform them. Member
+Ivory stated that he’s seen the State events and have seen the dog and pony shows and has seen enough of
+them to last a lifetime. Mr. Martinez replied that he is correct. Member Ivory stated that if you don’t have the
+right people involved and engaged in the process you’re not going to get to the right people. Mr. Martinez
+stated that he will invite Member Ivory to attend the one they’re going to have in DuPage and you will see a
+whole host of people and going ahead and taking these veteran owned small business representatives that are
+there and explain to them the three tiers and the opportunities to go ahead and better their business and be
+more and have more outreach potential and expand. It’s not just the State, it’s not just him presenting a
+PowerPoint. They have AT&T involved, they have other corporations involved federal agencies involved
+that helps populate these venues, and you’re right, after 26 years in the military he’s seen enough dog and
+pony shows and knows what smells. So, in this case these don’t, but they are just an element and it may not
+answer the question that he’s been asked or been commenting about, which is what are we doing in a
+concerted effort and how can the DVA come to the Board after 2 plus years and show an incremental increase
+of five. All he can tell the Board is that within the agency they are committing and in the agency they’re
+trying and within the agency these are the resources that they have. It’s not just one singular person that’s
+overworked it’s everyone that is trying to meet all the mission requirements because this is important.
+Member Ivory stated that he thinks you’re missing what he is trying to say or at least you didn’t bite on it at
+least is that we should put some more emphasis and bring collective parties who are not sitting at the table
+because he often finds that the same people come to the same events and they really don’t have the pull to
+attract the other people. So maybe if the Chamber and others can work together you can bring together more
+people in who are not included in the conversation. He knows CMS and Mr. Cerpa and everyone else
+wouldn’t mind that he just wants to make sure that the people who serve this country, that the ones who died
+to make sure were protected, that we do more than what you’re doing and he knows they’re working hard and
+that’s not a debate here. The question is that we can continue to do the same things…. Mr. Martinez
+interjected stating that it sometimes feels that way. It’s not that we’re debating, but the public comment is that
+they’re not doing enough and that’s not true. Member Ivory stated the numbers reflect that we haven’t gotten
+in a place yet where people believe we should get to. The question he’s offering them instead of talking about
+the problem is how we fix the problem because he thinks there could be a lot of energy people spend on a
+problem. The issue is what the solution is to the problem. Member Ivory is saying the solution to the problem
+can be bringing some more people, get more people involved, having a strategy session and set some goals,
+get more people involved and he’ll do his part to get more people involved down-state because it’s a part of
+the Board’s mission as a organization and we ought to try this thing, again set some goals and bring some
+different people to the table. A prime example of this, transportation is a big issue to anyone, but when he
+goes to transportation meetings there all white males who run construction companies and do what they do,
+17 
+M:131205
+
+ but infrastructure is important to teachers to everyone, but you’re not getting them all involved and when you
+get legislation to pass the capital budget, it’s going to be all those people who believe that infrastructure is
+important to get their kids to school. So what he is saying and what we should try and he would be very
+interested in talking and working with them in tandem or in some fashion to get more people involved ,
+administrators involved, other organizations involved and sitting down and see what we can do down-state,
+south of I-80 to help you further their objective. Mr. Martinez replied affirmatively and he’ll take that in
+consideration and make sure that he briefs Director Borggren and trys reaching out and setting something up.
+Chairman Stewart stated that this is just an observation and he doesn’t know if CMS and DVA have already
+done it. If that’s the case ignore it, but he knows DCEO has the economic zones and they just focus on
+general business development there, but perhaps maybe you’re working with them already, but he knows
+several of the zones are downstate and perhaps they have some contacts not shared by CMS and DVA that
+might be able to cast a little wider net than Member Ivory just spoke to. Mr. Cerpa stated that he appreciates
+that and they have utilized that and they provide a litany of resources through small business as well as loan
+packaging assistance as well. They used them on the BEP program and every one of the outreach efforts for
+the vets program they have been a partner with them. Chairman Stewart asked if there were any further
+comments or questions from members of the Board.
+Member Black stated that he heard him state that they had contacted the Danville Veterans Administration.
+Mr. Martinez replied affirmatively and confirmed again this morning with Director Garcia. Member Black
+stated that he is glad to hear that. Mr. Martinez replied that he made a point of it last time they were here and
+wanted to make sure he followed up. Member Black stated that they’re also responsible for many of the outpatient clinics. There is a very big one in Peoria and he thinks there is one in Decatur and in fact they operate
+several. Mr. Martinez replied that there are vet centers within the U.S. DVA across the State. Member Black
+stated that he knows it isn’t going to be easy following up on what Member Ivory said, but one of the biggest
+problems is when they separate from the service if they do have issues they are getting care. He knows the
+Danville VA does an excellent job, but when they’re ready to be acclimated to civilian life the lack of
+financing really just takes some of these people out of the market and, as Member Ivory stated, then they get
+very frustrated because they don’t have access to capital and can’t buy some of the equipment that they need
+to get started. Member Black stated that he is familiar with one man that started a landscaping business, a
+used pickup truck and he managed to get a couple decent mowers and he’s out trying, but he’s not going to be
+in a position to bid on any big contracts until he can get additional financing for additional equipment. That’s
+very difficult and he hopes everybody here and up in Chicago understands that there has been no attempt by
+this Board to try and embarrass the Governor. On the contrary, he thinks they have made it very clear that the
+Governor is behind this initiative and has not seen any Governor anywhere in the country that has
+demonstrated more clearly his commitment to veterans. Member Black has attended far too many funerals
+with the Governor. No entourage, no big deal, the Governor just showed up for the visitation and funerals of
+our veterans who have made the ultimate sacrifice. He has talked to the Governor on more than one occasion
+and he is committed to helping veterans reintegrate into civilian life. He thinks some of the Board’s concerns
+that were expressed that they didn’t want the Governor to be embarrassed by a program that didn’t work or
+wasn’t working because he knows the Governor wants it to. He’s knows he is committed to it and he thinks
+members of this Board are committed to it and they’re just a little concerned, and thinks Member Ivory said it
+very well, this doesn’t happen overnight. Now, he’s seeing people coming home who have had 16-17 years in
+and because of sequestration they either made the next rank or they were separated from the service
+involuntary, it’s a heck of an adjustment. He doesn’t want to jump on them or anybody else. He knows it is
+going to be difficult, but there are people out there who will help and have access to veterans and to their
+database and the Board wants this to be successful. They don’t want a big announcement and then you know
+how the press can be. One of the best pieces of advice that he ever had and didn’t follow it was you never
+argue with people who buy news print by the ton and ink by the railroad car. You will never win that
+argument and the way they are today if you announce the program they will go out and find somebody who
+said, were you aware of this, were you asked to bid and they say no they didn’t know anything about it. That
+would be embarrassing to the State, to the Governor’s initiative and we don’t want that. The Board wants
+them to be successful, wants to help them reintegrate these people into civilian life and he knows it’s going to
+be tough because there are a lot of the issues that Member Ivory brought up. They have tried before under
+MAFBE. They’re going to try under the veterans program with a lack of access to capital, the lack of any
+proven track record, its tough and he knows this isn’t going to happen overnight, but he thinks that Member
+18 
+M:131205
+
+ Bedore is right. In 2 ½ years if this is all the further we are, then everybody needs to say ok what can we do to
+make this successful because as he said many months ago he knows the Governor well enough to know that
+he darn well wants this to be successful and anything he can do for veterans he has a clear record for doing
+and he stands behind four square on that and if he could help he knows a lot of the people at the Danville VA.
+At his age most of the veterans that he worked with are gone, unfortunately, but he knows that they would
+appreciate the help and most of all they would appreciate the opportunity and when they encounter some of
+the obstacles that makes it even tougher. They just give up and he doesn’t blame them. Mr. Martinez replied
+that one thing that might not provide you so much comfort, but so you understand their model upon an
+engagement with a veteran if they come to them for any debt management support they don’t just say here’s
+your placard, here’s your reference, go away. The DVA looks at it holistically, no wrong door, and look at the
+underlying issue. They treat every issue on the engagement so they can sense with their training and
+experience as veterans that there are some underlying issues such as mental health, financial, family and they
+treat all of them now. There is no wrong door and they don’t just simply look at one antidote for one
+particular ill. They think it is a whole menu of options. They have stood up an initiative with their partner in
+the Department of Military Affairs and Illinois Joining Forces and have established 10 working groups
+Statewide with over 250 stakeholders south of I-80 as well as in the Chicago area that are committed to this
+whole approach. All of the stakeholders in the State, non-for-profits that take care of veterans are connecting
+on this network with a referral system. So in Peoria when a trooper walks in and says they are having troubles
+establishing this business they have a working group that can go ahead and assist them and get with the Small
+Business Association and get some small loans processing going and doing an analysis in investments, etc.
+Then during that process they realize that they have never applied for their Illinois State Veteran Benefits,
+here you go. Are you service connected? I am not. Why are you not service connected? Well I filed, but I
+don’t know where my claim is at. Did you file while you were on active duty? I filed while I was on active
+duty. Well let’s go ahead and be your POA…that is the approach they are taking and have been doing this for
+a year and it is starting to get results. Mr. Martinez stated that he appreciates the Board’s concerns and knows
+that they are all actively concerned about the veteran community. Outside of what the menu here is about in
+talking about these rules he just wants to inform the Board, on behalf of Director Borggren and Assistant
+Garcia, those are the things that they are trying to do to not just come in the door one answer and one question
+and then close. As far as transition there have been efforts made. The last few years the Department of
+Defense and the DVA have increased the Transition Assistance Program – it used to be three days and now it
+is five and should be a month, but nevertheless, now there’s more individual file making for that service
+member who is going back to the State with a connect to the State on what is it they are interested in. Do you
+want to go back to school? Here is what they need to do and here’s your package with schools. Do you want
+to go open a business? Here is the package of what is going to happen and this is how we get you trained and
+get you ready before hand. Do you just want to go back and get employed? This is how we are going to do it.
+So those processes are happening. Now, whether or not the veterans you have been engaged with recently
+who have been affected by sequestration and/or budget cuts or not been able to continue to advance for
+whatever and come back without a full vested 20 years and they are at 16 years they’re in their early 40’s and
+are like, I served, I missed the action and don’t have anything, what do I do and don’t have the opportunity.
+They need to reach out to them and connect with them and make that opportunity for them.
+Member Black stated that his neighbor has a son in the Navy and was told several months ago that he had to
+make the rank of Chief. He had been in 12 years and they said that he has to be able to make his next rank or
+they will separate him from the Navy. His mother was very upset and he did make the rank, but again he
+doesn’t want to belabor the point, but many of them get so frustrated because they have applied for federal
+benefits and don’t hear anything for 12-16 months. It puts a strain on their marriage, a strain on them, and so a
+lot of them sit down in the easy chair and say the heck with it as long as I can afford cable TV, in some cases
+they can’t even do that, they are just going to sit here until they hear from the Feds. Member Black stated that
+he is glad to see that they are taking that whole approach because if we owe any group of people in the State
+anything it is the veterans. Everything he has he owes to his dad’s generation and World War II people and
+the people who are out there today and they are all volunteers. When he was a young man it was the draft that
+would make many a student bear down and study harder so not to lose that deferment. It is tough and when
+you take to some of them and have a cup of coffee with them you can understand their frustration and coming
+from a very structured environment and very clear mission and then all of a sudden they are out here and it is
+tough. He just hopes that in a few months they can come to the Board and say that they have 25 or 30 and
+nothing will breed success like a veteran in his area who’s now in a business or now getting some work say,
+19 
+M:131205
+
+ hey this program is real and not just on a piece of paper to make somebody look good, but it’s real and the
+Governor is committed to it. Mr. Martinez replied affirmatively.
+Member Ivory commented that he now truly understands the value of the Procurement Policy Board because
+he believes that when the Board started the conversation he remembers the numbers 35 and 38 and because of
+his colleagues who are so passionate about the conversation they brought a spotlight to the issue and were
+tenacious and their comments, but he thinks it is that type of tenaciousness that forces us to take a real serious
+look at a very dark problem that needs to be addressed. Member Ivory thinks that the Board doing that helps
+to put tension to make sure because no one wants to come before this Board and talk about veterans and not
+be committed to it and he knows that the DVA is committed. He just wanted to make sure that we all
+understood the value in terms of the comments that his colleagues have made in this subject matter to be
+consistent and unapologetic and in some cases just out-right outraged about the numbers the Board has been
+seeing and can see that everyone is working harder and moving forward, which is a good place for us to be
+because the veterans deserve our best and we should put our best foot forward, but it is that type of energy
+that people bring to the table when they are concerned about an issue. That helps the Board stay focused on
+the target and get to the place where they want to be successfully as a State and a country. Mr. Martinez
+replied affirmatively. Chairman Stewart thanked the Board for their comments, in particular their attention to
+this issue in the past and to echo Member Ivory that they hopefully will continue to see improvement on the
+numbers and he looks forward to hearing some future reports on to where they stand on that. No further
+questions or comments were made.
+Director Carter stated that Nick Kanellopoulos, Deputy Director for Property Management at CMS, is present
+to update the Board on CMS Facilities Statewide as well as talk about the Auditor General’s Audit of the
+State Space Utilization program. He is also going to discuss a few leases before the Board today. Mr.
+Kanellopoulos stated that on behalf of himself and also Acting Director Simone McNeil he would like
+welcome him to his new position. Mr. Kanellopoulos stated that he would just like to echo some of the
+comments by adding that before former Chairman Vaught was the Chairman of the PPB or Director of DCEO
+or Director of OMB or the Governor’s Senior Policy Advisor he was the Deputy Director for Property
+Management at CMS and he thinks he is correctly paraphrasing the translation of a Latin phrase “from small
+beginnings great things come”. Mr. Kanellopoulos asked Chairman Stewart how he wanted to handle this part
+of the agenda. Chairman Stewart stated that he would like for him to give a very brief introduction and then
+open it up for Board questions. Mr. Kanellopoulos stated that the Auditor General, pursuant to a resolution
+that was filed by the House, conducted a performance audit that specifically targeted CMS’ handling of
+surplus property for the State of Illinois. The audit had nine findings and he thinks it is fair to say that they
+target two major areas. The first being how well CMS has handled the statutory obligation to maintain a
+master record of State property in the State of Illinois and the second how well they have disposed of surplus
+property in the State of Illinois. CMS agrees with all the recommendations that the Auditor General has made
+and that they are striving towards either implementing or looking at the feasibility of implementing every
+recommendation. He thinks that many people’s ideas or opinions of the report come from some summaries
+that have appeared about the report and would like to clear that up by saying that, for example, there are
+several findings that have to do with a master record of State property and the report does indicate that
+recommendations are made that CMS should have an electronic database of all State property. They do not
+have that now and that recommendation was made in 2003. Also questioning the accuracy of the date of the
+record that they do have now and he would like to say that one, the Auditor General is accurate in their
+findings and recommendations. However, it is true that CMS does not have an electronic database of State
+owned property, however, they do have an electronic record. Although it is a bunch of spreadsheets submitted
+by the various agencies he believes there are 103 entities that come under, well he is not sure if they come
+under their jurisdiction, but they are the ones that reported their property to CMS last year. The report
+indicates that the master record that the Auditor General reviewed, the DNR portion, did not have any of the
+33 State Parks. Mr. Kanellopoulos stated that he has what was submitted by DNR that they do have
+electronically in spreadsheet form that has almost 3,400 entries including all 33 State Parks. So CMS does
+have the information. What they don’t have is this information compiled into a single database that can be
+utilized by the agency. As the report points out they tried to get that done a number of years ago and there was
+a vendor who was supposed to do that, but that contract was terminated mid-stream and CMS never got the
+database and did not pursue a contract to get a new database. Back of the envelope estimates to get this work
+done started at about $5 million. Up to this point they have not seen the benefit of spending that kind of
+20 
+M:131205
+
+ money to create a database. It seems with the 103 spreadsheets that they get from the various agencies, boards
+and commissions they are collecting hay stacks in case they ever have to look for a needle. It is very rare for
+CMS to go into, at least as his level, to ever have to ask a question that would require someone to go into
+these various spreadsheets to find out a piece of information. Do they own a piece of property in this county,
+who owns it because someone says that the State owns this property? CMS gets three to five requests a year
+like that. CMS is looking at the feasibility of creating the database, but at the end of the day they are going to
+have to evaluate the cost versus how helpful such a database will be versus just the way they have the
+information now. Clearly, they have to update their forms and other details in the Auditor General’s report on
+how they should handle that and will adopt those recommendations for the next set of reports that go out to
+agencies to be submitted to go back to CMS completed. Like he said, he thinks one major area of the report
+has to do with that master record and various recommendations regarding that. The other portion has to do
+with the handling of surplus property and the Auditor General’s report states that CMS has held on to
+property too long and they should be disposing of it quicker and seeking legislative change where that is
+needed to speed up the process. Mr. Kanellopoulos stated that CMS completely agrees. In the time that he has
+been Deputy Director they have had a couple of sales, however, from the day he became Deputy Director the
+State has gone through a horrible recession where back before he became Deputy Director when he was still
+the attorney here they tried to see some properties failed on two occasions to sell a group of them and
+basically put that entire process on hold because of the cost of getting appraisals for every property every time
+and going through the sales process. Honestly, CMS was waiting for the economy to improve. CMS is now
+going through the process and are at the point where they are close to going to public sale with a couple of
+properties and there are five or six of them in the queue. Again, CMS completely agrees with the Auditor
+General’s recommendations and will implement them and hope with the economy improving, although some
+of the information they have back based on historical appraisals and new appraisals for the same property and
+properties may sell, but they will sell at much lower prices than what they were appraised at 6-8 years ago,
+but they are moving forward and will implement all of the recommendations in the report. Mr. Kanellopoulos
+stated that he would be happy to answer any Board questions.
+Member Morales stated that he had a few questions and/or comments. The first problem is that they have a lot
+of information out there floating around and we can’t afford to consolidate it. Mr. Kanellopoulos replied that
+CMS has a folder in their computer system that has every report submitted and every year those get updated.
+Because through the years, for example, this is DNR report and he shrunk it and it has 3,400 entries. They
+don’t do a brand new report every year they go in and update any changes and submit the report. Well, down
+through the years DNR’s report doesn’t actually match up their spreadsheet doesn’t match up with the other
+102 spreadsheets. There are lots of differences and there is no way to take those and create one spreadsheet
+and it would take a lot of time and a lot of money. Member Morales stated that we can’t afford it. Mr.
+Kanellopoulos replied correct, they also can’t afford to go out and make sure what CMS is getting is 100%
+correct. They are relying on agencies to give them the information because they don’t have the ability to go
+out and find out if it’s accurate or if anything is missing. Member Morales stated that the information out
+there has been mismanaged is inefficient and we can’t afford to improve it? Mr. Kanellopoulos replied that he
+would put it in the exact opposite direction, they can’t afford to. He wouldn’t say that it has been
+mismanaged, but he would say they have the information they can’t afford to create an electronic database for
+at this time. Member Morales stated, but again, the information you state you have does not match and is
+non-efficient, not correct, in all cases, is that correct? Mr. Kanellopoulos replied well he can’t tell that it’s
+100% accurate. He’s sure the agency submitting it could, some of them could, and many of them can’t when
+there are 3,400 entries on a spreadsheet. Member Morales stated then all this time this information has been
+thrown in there and nobody has really reconciled. Mr. Kanellopoulos replied that CMS doesn’t have the staff
+to reconcile the information. Member Morales stated that he’s just trying to shorten it up on how you
+summarize it. There is information out there and we’re not sure if it’s accurate, we can’t afford to find out if
+it’s accurate, is that correct? Mr. Kanellopoulos replied affirmatively. Member Morales stated that he is just
+trying to get to the point. It’s nothing against you, he is just trying to get to where we are at and that is where
+we are at right now. Mr. Kanellopoulos stated that between the Universities and agencies, boards and
+commission under the Governor there are probably over a hundred million square feet of property in this State
+and CMS doesn’t have the ability to catalog all of that information.
+Member Bedore asked how many CMS leasing reps do they have? Mr. Kanellopoulos replied five although it
+will be four in one week. Member Bedore stated so CMS has five for the State of Illinois. Mr. Kanellopoulos
+21 
+M:131205
+
+ replied affirmatively. Member Bedore stated that he would like to read from the Auditor General’s report, site
+inspection visits play a key role in indentifying excess space and opportunities for consolidation and the more
+efficient use of State space. CMS policy states that leasing representatives are expected to conduct on site
+investigations and inspections update excess property and to report whether there is any excess and also about
+the space use utilization. They found files that lack evidence of a site visit 6 of 25. They took 25 samples and
+6 of the 25 there was no site inspection. So CMS took whatever using agencies said that they need space for
+this and have 30 employees and nobody form CMS went out and checked. 24% of CMS leases, according to
+the Auditor General, were never inspected. So when you come before the Board and state this is the square
+footage and everything else, 24% of those times there was never a State employee, other than you the using
+agency, that went out and looked at this. Mr. Kanellopoulos replied that he thinks that is inaccurate. What the
+Auditor General is showing is that in the files when they are completed and filed away, what they pointed out
+is a clerical problem that evidence of the site inspection was not in the file. The work was done, but we did
+not accurately put together the final file that was filed away when the lease was completed. He would also
+say they took leases in effect today, the leases that were done from 2009 and forward and those six of the 24
+he thinks were almost all if not all, five of them, were from 2009. So he thinks they have improved their
+process to make sure that their files at the end of the day are better put together in containing information that
+is on a checklist that it is supposed to contain, but in no way does that information indicate that no human
+being from CMS went into that facility prior to the lease being done. That’s not what it’s saying and that it’s
+what happened and when he reports to the Board what had happened with those leases, it is 100% accurate
+and CMS staff, both facilities and leasing have been in those facilities numerous times. Member Bedore
+asked if he could read the last sentence after the paragraph he just read. “We gave CMS the opportunity to
+provide documentation of the site inspections or an explanation why they were missing”. Here is the key part
+of this sentence, “however, CMS did not respond”. What is he to believe? Here you have an Auditor
+General’s report and now you’re disputing it. Member Bedore stated that CMS did not respond. It states here
+that CMS did not respond it’s here in black and white. Mr. Kanellopoulos replied that he is not disputing the
+report. What he is saying is that report says that evidence is a clerical problem and not a substantive issue
+with their staff going to those facilities to do the work. Member Bedore asked why CMS didn’t respond to
+the Auditor’s request for a comment from CMS. Mr. Kanellopoulos replied that he believes he would have to
+go back and check his notes on that specific point. Member Bedore states that it says documentation of these
+site inspections or an explanation of why they were missing, however, CMS did not respond, it’s on page 39.
+Mr. Kanellopoulos replied that he completely agrees that the documentation on those six files does not exist.
+Member Bedore stated that there is also this property management business case they found that 15 of the 20
+were missing…. in every case it says that CMS did not respond. They were asked and had no comments. Well
+now CMS is giving the comments 3 months later. There is also the issue with the CMS contract with Jones
+Lang LaSalle. Did the Board ever get copies of their report? Mr. Kanellopoulos replied that he doesn’t think
+they have provided copies of any of the reports that have been generated by Jones Lang LaSalle. Member
+Bedore stated that the State spent $1.73 million for reports for leasing and real estate and the Board has never
+been given a copy? Mr. Kanellopoulos replied he doesn’t think in the course of business we have done
+between CMS and the Board it’s ever been relevant for CMS to provide any of those reports. Member Bedore
+stated that it wouldn’t be relevant if they made recommendations on leasing or things of that nature, it’s not
+relevant to the Board? Mr. Kanellopoulos replied he thinks that recommendations made in reports are relevant
+to the agency. He doesn’t see that it’s necessary to make those documents public. Again, those are
+recommendations that certain factors are taken, certain other factors are not and we took... first of all, the vast
+majority of the money spent on reports was not done for leasing or leasing recommendations, he believes a lot
+of it was done when they evaluated many of the developmental disability centers and mental health centers
+that either were or were not closed over the last couple of years. He thinks that is the vast amount of the cost
+of actual reports, but he can tell you that we have implemented several of their recommendations. For
+example, he thinks that he’s even pointed out to the Board and is probably in the minutes that in the Chicago
+area, for example, they moved DCFS out of one of their large locations at 3500 W. Division and closed that
+facility. CMS moved out of 32 W. Randolph and it was based on work done by that firm and their
+recommendation that we were able to eliminate that lease. CMS closed a DCFS office in Skokie and moved
+those staff to the ISAC building in Deerfield, at least some of those staff, some of them went elsewhere, and
+that was based on recommendations from the vendor. So the State has seen significant savings already based
+on the work done. Clearly, not all the work they did was going to lead directly to lease consolidation savings,
+but there are millions of dollars of cost reductions that they have realized based on work they did just in the
+Chicago area. Member Bedore stated that he’s not disputing their work all he’s saying is he doesn’t know
+22 
+M:131205
+
+ why it wasn’t shared with this Board since this Board has been involved with leasing since day one 15 years
+ago and the Auditor General, if you read on in his report, gives the Board a nice pat on the back for saving the
+taxpayers millions of dollars attributed directly to this Board. So why won’t the Board want to see a report
+that talks about your leasing. He doesn’t understand, is this is a private thing between you and Jones Lang
+LaSalle or did the taxpayer pay the $1.7 million for this contract? Or did CMS pay the $1.7 million yourself?
+Chairman Stewart stated that his guess is that they’re a contract providing a service to the State and not all
+public records are automatically disclosable to the public and he assumes some of the recommendations Jones
+Lang LaSalle were adopted and acted on by CMS and assumes some were rejected or not followed partially
+or fully. Mr. Kanellopoulos replied to make recommendations public CMS staff gets enough heat when they
+simply walk into a facility. The next day agency directors are calling, legislators are calling, landlords are
+calling. What are they doing? What are you moving out? You can’t close this office. Also, there are Union
+issues about giving the union notice before employees are removed from one location to another. So does
+CMS keep recommendations fairly confidential until they ready to execute consolidation plans, yes, but he
+thinks there are very good reasons to do that. One, not all recommendations are fruitful. Two, all of those
+other issues whether they be union, whether they be discussing issues with legislators about what’s going on
+districts. Those things need to be dealt with rather than a just a document that probably would be
+misunderstood if people looked at it and there is a list of locations that could potentially be closed.
+Member Morales states that we need to focus on what this report is saying which is, and again, not picking on
+an individual or a department, but what he sees in this thing is that CMS needs to do a better job of
+maintaining information and using the information more efficiently. Mr. Kanellopoulos replied affirmatively.
+Member Morales stated that seems to be the bulk of the problem. Mr. Kanellopoulos replied affirmatively.
+Member Morales stated that he would like to know how that is going to be fixed and if CMS didn’t have any
+answer right now he would understand that. Mr. Kanellopoulos replied that they are looking at the feasibility
+of an electronic database that would require and perhaps could be done in-house by their IT group whether it
+can be an off the shelf product that could be purchased at a much lower cost and the spreadsheets they have
+now create a simple database. They are looking at what is feasible and what the cost would be and they are
+implementing the recommendations and have to do with improving the form so they get better information
+back from the agencies, boards and commissions.
+Chairman Stewart stated that he wanted to follow up on a suggestion that Member Bedore pointed out in
+terms of the savings and the reduction of square footage that has been achieved and through the hard work of
+all of the different parties, the Board, CMS, others, but the report, as he glanced at it, some of these issues go
+back many, many years. They have heard concerns about the fiscal constraints that we operate under, but you
+still have a finding. As CMS continues to look for a solution, this is just a suggestion, as he discussed earlier
+on the PPB Policy Resolution, are there other parts from the IT perspective specifically maybe it’s that it can’t
+be done in one fell swoop. Is there perhaps a small cluster of small agencies that don’t have that much
+property that we can at least get a prototype of some system running without going all in on everybody all at
+once with these thousands of different formats to test it out on a small group. Probably run into some
+problems we can’t predict in advance to address the issues there and then roll it out in stages perhaps, which,
+even in unlimited financial times, maybe that’s not achievable, but perhaps that’s more achievable. So in a
+future audit maybe there still won’t be full compliance, but at least partial compliance would probably be a
+step forward. That is just a thought as they are struggling with a solution maybe that a way - if you can’t get
+100% how about we get 20%. If there is 20% of low hanging fruit let’s tag that and then reevaluate as we
+move forward and see what future challenges are going to be. It’s just a thought. Mr. Kanellopoulos replied
+that he understands. Chairman Stewart asked if there any other questions or comments from the Board?
+Member Morales stated that he would like to have some type of follow-up or update as to what is being done
+to resolve this. It doesn’t have to next month, but the Board needs to know what’s going on. He thinks it’s
+important for the Board to have that communication as to what is being done to help with the efficiency of
+this information so we can better utilize it. Mr. Kanellopoulos replied that they will provide the Board
+updates. Member Bedore asked if it is going to be him. Who is going to be the new guru? Mr. Kanellopoulos
+replied he doesn’t know some poor sucker still walking out on the streets not realizing what’s going to befall
+them very soon. Member Bedore asked if this was his last meeting. Mr. Kanellopoulos replied he thought the
+23 
+M:131205
+
+ last one was supposed to be and probably shouldn’t comment at all. Chairman Stewart stated that the Auditor
+General found 1 out 1 of notifications of not being here were inaccurate.
+Member Black wanted to ask a question and asked if he or someone else could bring it back to the Board.
+Two examples, over the years he was approached by several farmers in his area and one developer and thinks
+both of these properties were probably at one time owned, and he imagines still are, by IDOT on two lane
+highways on Route 1 north out of Danville just south of Rossville. There was about a 6 acre rest area and at
+one time it had a pump for water, which shows how old it is and was abandoned years ago and the farmers
+offered to buy it, several farmers offered to buy it. His repeated efforts on their behalf just resulted in, it was a
+very simple answer, probably the simplest he’s ever received in writing, was it isn’t for sale. Then there was
+one he thinks was 119 going west from Route 1 by the village of Potomac and it had about 18 acres and at
+one time somebody told him in the early 50’s it was, for its day, quite a rest area. Some pavilions, picnic
+tables, all kinds of things, but after the interstate highways they were all closed. This one is chained off. You
+can’t even pull off and rest there period, you can’t get on the property and there were several offers from
+farmers 18 acres particularly at $11.00 bushel of beans, corn is down a little bit, but farmers looked at that
+with great anticipation on what they could do with it. And again, the answer again he received was very
+simple, it’s not for sale. Why? The one by Potomac has been chained off, a cable, for at least 30 years. The
+one on Route 1 was abandoned probably around 1980 maybe later than that. All of his attempts to get a hold
+of somebody to talk to interested buyers he assumed since we weren’t using the property we would be an
+interested seller and nothing to this day, it’s still there. He doesn’t know who mows the grass, he is going to
+assume IDOT mows the grass, which is a total waste of money, because on the one site there is about $150
+worth of signs that say State property-no trespassing. On the other the signs were stolen, probably during the
+scrap metal drive. People in the General Assembly would like to know what in the world they have to go
+through to put an interested willing buyer in contact with somebody in the State who should be, in these two
+cases, a willing interested seller. Member Black stated that it was one of the most frustrating things he
+encountered. Dear Representative, the property is not for sale and nobody would tell him why. He looked
+into the homestead laws and was going to buy a house on it and open it in the various use of land then he
+would just claim it as his property after 20 years because nobody would have said anything. Hopefully CMS
+can tell somebody to get back to the Board and tell them how you sell State property, how do you make a
+bonafied offer to buy abandoned State property. You can imagine what those people say there in the coffee
+shop and he is sure they’re very complimentary to the process. If CMS can get him any information on how
+in the world to do that, he’ll go the farmer’s coffee shop and say, guess what, it’s for sale. Of course corn is
+down now they will probably say they’re not interested, but it’s worth a try. He thinks he saved those letters
+because they were priceless. Mr. Kanellopoulos replied that he can provide Director Carter with a summary
+of how the disposal of property works and can take it from there. You will see the process is somewhat
+lengthy and then we can discuss that at a future meeting once everyone has had a chance to review that.
+Member Black stated that he would appreciate that because he always found it fascinating that the
+Department of Public Health could find this rest stop up on Route 1 and tell IDOT they couldn’t have that
+pump there that the water source had not been adequately tested. So IDOT disabled the pump and about 6
+months later the Department of Public Health was kind enough to copy him saying your response to the pump
+water was not adequate. So IDOT very quickly got up there and took the pump out. Somebody knows it’s
+there and he would think any reasonable offer to purchase that property would be the highest and best use of
+that land. He would also be interested in knowing and telling people in his area how they can buy those two
+parcels because the people up there have given up after years of trying to buy it. No further questions or
+comments were made.
+Next on the agenda was DHS lease #5393 at 822 South College Street in Springfield. Director Carter stated
+that the Lessor is MGR Springfield Partners. The overall square footage per employee is 415 with personnel
+space of 320 square foot per person. This is a lease that requires a no objection from the Board and Mr.
+Kanellopoulos can answer any questions the Board might have. Mr. Kanellopoulos stated that also in
+attendance was Matt Grady, Chief Operating Officer for DHS. Since there were several DHS leases on the
+agenda he decided to join in case there were specific programmatic questions on them. Mr. Kanellopoulos
+stated that this is lease #5393 and it is a DHS lease in Springfield and this site houses the DHS payroll office.
+DHS payroll processes payroll for itself and several other State agencies including the Illinois State Police. It
+was the opinion of both the agency and CMS that it would be best to renew this lease due to the fact that the
+space works incredibly well for the work the agency does, it does need to be housed separately because not
+24 
+M:131205
+
+ only does this agency deal with payroll it deals with benefits and not only does it have access to thousands
+and thousands of employees’ personal information, including social security numbers, their office also
+contains the same information including social security numbers of thousands and thousands of dependents of
+these employees. The amount of record keeping for required for this operations he believes there are two high
+density file systems at the location that would be incredibly expensive to move to a new location. Also over
+the last couple of years they have reduced the rent at that location, which at that time was $14.19 down to
+$12.50 and the renewal of the lease will keep that rent at $12.50 flat for five years. Also, if DHS needs with
+this particular operation ever change CMS can terminate lease at any time with 120 days’ notice.
+Member Morales asked if this was five years. Mr. Kanellopoulos replied affirmatively. Member Morales
+asked if there was a renewal for five years. Mr. Kanellopoulos replied affirmatively, there is an option. Based
+on the fact that this office does what it’s supposed to do for the agency and we believe the price is very good,
+we’re respectfully requesting that the Board approve this lease.
+Member Bedore asked if he would agree that the Illinois Commerce building on 527 E. Capitol is a good
+facility. Mr. Kanellopoulos replied that it has been a long time since he personally has been there, but yes.
+Member Bedore said, but you know the building? Mr. Kanellopoulos replied a little bit, yes. Member Bedore
+stated that that building came before the Board a couple of months ago when it was renewed for $10 a square
+foot. CMS renegotiated the lease down to $10 from $10 something or $11 something a square foot. Now you
+come before the Board, and the Illinois State Commerce Commission is a block and a half to two blocks away
+from the State Capital, and so is this building on South College. From the looks of it when he went by it a
+couple of times it looks like a very nice building, but you’re asking us to pay $12.50 compared to $10, but
+when you further examine this the Illinois Commerce Commission doesn’t pay janitorial, doesn’t pay for a lot
+of these items. So he added up all these items we’re paying for in this building and what were not paying for
+under the $10 lease and it comes out, low and behold, $4.68 cents more. So, in other words, we’re paying
+$14.68 and two blocks away there a very nice building where we are paying $10 dollars. How do you justify a
+40% increase over this other building? You say it’s a good rate. Member Bedore doesn’t think it is a good
+rate. CMS renegotiated this other lease to get them to reduce their rate and got them to $10. Why didn’t they
+get this guy down to $10? Why didn’t they get it down $4.68? CMS is paying because the other building
+included janitorial, it included mat service, included garbage, it included everything. This one we’re paying
+for everything and while we’re looking at it you got $2.15 for electricity and yet on our agenda today, you
+have a $1.76 for a place in DeKalb, and Peoria $1.15, and you have Aurora at $1.48 and that goes into effect
+1/20/2014. So were paying $2.15, we’re paying $ 1.96 janitorial, we’re paying for garbage, we’re paying for
+mat service, and we’re not paying for any of that in this other building two blocks away. How can you justify
+$14.68 a square foot when we’re paying $10 a square foot that you just renegotiated a few months ago?
+Member Bedore stated that he would like an answer. Mr. Kanellopoulos replied that CMS works to try to get
+the lowest rate on every lease negotiated. We aren’t going to get the same rate in every contract and he thinks
+to take the lowest cost contract out of a group and then criticize other contracts for not meeting that price is
+absolutely fair. He thinks $12.50 is a …. Member Bedore interjected stating that CMS came to the Board a
+couple months ago patting itself on the back that they renegotiated this lease downward. CMS did it, not him.
+You said CMS did a great job at $10 per square foot. CMS got this renegotiated. Why didn’t they come to the
+Board and say they renegotiated this one. You can’t have it both ways saying this is a great deal and then
+come back 2 months later and then give us something $14.68 per square foot and it’s also personal space of
+320 per square foot. He’s sorry, CMS can’t take credit a couple months ago for renegotiating something
+downward and he uses that as an example and you criticize him. Mr. Kanellopoulos replied that he’s not
+criticizing. What he is saying is not all contracts are comparable and costs aren’t comparable and we’re not
+going to get the same price on every contract, but when you look at this lease he believes the price is fair.
+Member Bedore asked if he thought the $10 without any additional cost is fair. Well, certainly you did. CMS
+comes in here patting itself on the back. Now you come to the Board with $12.50 and then we have to pay for
+janitorial, garbage, mats and everything. And electricity at $2.15 when everybody else is a buck something.
+Member Bedore doesn’t understand this one and is going to object to this. CMS should go back because
+you’re looking at the base rate, but the base rate of this other building included everything, this doesn’t. So
+when you add it all up, which he did, and it’s $14.68. He understands you’re going to get them all within
+pennies, but he wouldn’t object if it was within a dollar or two, but this is $4.68.
+
+25 
+M:131205
+
+ Chairman Stewart stated that he wanted to ask a question on the current lease. Was there a decrease with the
+State to paying off the current one? He sees something about the removal of a tax escalation clause from the
+lease. Mr. Kanellopoulos replied that from the current lease to the new lease the rate stays the same, but
+during the previous lease we decreased the rent, removed the tax escalation, and also got another abatement
+that was spread out over the 4th year of the lease, so he thinks the rent reduction was in the period of the last
+lease. From the current one to the new one the rate stays the same. Chairman Stewart asked if during the
+course of the prior contract we negotiated downwards, and got a downward departure. Mr. Kanellopoulos
+replied affirmatively. Chairman Stewart asked if it would be possible on future contracts if they were
+approved. Mr. Kanellopoulos replied that they try with all contracts to do that. A lot of landlords have come
+to them based on the amount of rebidding and renegotiating they have done, particularly in Springfield, where
+there is obviously a much larger group lease then other areas. Many landlords come to CMS offering a
+discount to try to avoid having leases consolidated and you know we have amended many leases that the
+Board has seen where there was a rent reduction that initially was offered by the landlord in order for CMS to
+remain at the location. Chairman Stewart asked if the State has made a pitch and not waiting for the landlord
+to approach, but going to the landlord saying times have changed, market conditions have changed, we need
+to renegotiate. Mr. Kanellopoulos replied yes, there have been cases particularly when we’re obviously
+looking to consolidate where we have gone to landlords asking about rent reductions, those accrue as well.
+Chairman Stewart asked if there would be the possibility perhaps to generate a better offer out of the bidder
+on this particular lease. Mr. Kanellopoulos replied that this lease starts March 1st. Chairman Stewart asked if
+they have time to try. Mr. Kanellopoulos replied that they have time so if the Board would like to continue
+this to next month’s meeting CMS can try to see what they can do. There is no harm in putting it on next
+month’s agenda. Chairman Stewart stated in general, perhaps it will give CMS one more bite at the apple to
+address the concerns Member Bedore has brought forward on this particular lease. At least at this point, time
+is not of the essence that a decision must be made at this particular meeting. Obviously, the Board will make a
+decision, we’re not going to not make a decision, but he would afford that perhaps table this and kick it over
+to the next Board meeting where Mr. Kanellopoulos or his successor can report back. He thinks Member
+Bedore has made very clear the specific areas he is concerned about on this contract and perhaps CMS can
+come back with a different answer or perhaps the answer will be the same, but at the next meeting we just
+make a decision. So he would propose that we kick this over to the next meeting if other Board members
+approve. Member Morales made a motion to table this to the next meeting. Member Bedore states that the
+Board shouldn’t kick it over we should give some ammunition to CMS that we’re rejecting this. Chairman
+Stewart stated that certainly CMS can communicate some strong concerns the Board has, that’s the motion on
+the table if we vote to disallow then he doesn’t know how the negotiations could go either way, he thinks the
+Board can express our strong concern perhaps tip our hand. Member Bedore seconded the motion. Director
+Carter stated that the motion before the Board to table lease #3593 until next month’s meeting and asks Mr.
+Kanellopoulos to convey to the landlord the Board’s concerns about this lease. The motion was made by
+Member Morales and seconded by Member Bedore. The motion was unanimously approved. Chairman
+Stewart asked if CMS is clear with the landlord concerns that the Board asked at this time. Mr. Kanellopoulos
+replied affirmatively.
+Mr. Kanellopoulos stated that there are two other DHS leases on the agenda and he believes it was former
+Chairman Vaught who asked that they be put on the agenda and believes they’re on the agenda for contract
+review. Director Carter stated that leases #6540 and #6541 were on the agenda at Member request. They
+asked the staff to look at the expansion of these leases. Both leases were due to the expansion requirements
+under the Affordable Care Act and he thinks the request to review was to find out that information and staff
+reviewed it and looked into that and that was the result. Director Carter stated that Mr. Kanellopoulos is here
+just in case and Matt Grady is here from DHS to verify any questions relating to that.
+Chairman Stewart asked if there are any questions, concerns, or comments from Board members. Matt Grady,
+Chief Property Officer for DHS, stated that he would like to welcome and congratulate Chairman Stewart to
+the Board, but next month DHS would like to get on the agenda and do a presentation because we will be
+expanding other sites as a result of the Affordable Care Act and the Smart Act and our expanding is a result of
+the increase of our caseloads. So they would like to do a quick presentation for the Board respecting your time
+getting on the agenda for next time. Chairman Stewart asked if there are any objections from other Board
+members. He doesn’t see a problem with it. He would ask to the extent you can share materials with Director
+26 
+M:131205
+
+ Carter and his staff so it can be shared with Board members so we’re not hearing it for the first time would be
+appreciated.
+Member Bedore stated that he would like an update on, he forgot what the agency name was since it has been
+so long, but the one on Chatham Road that was going to be moved. Mr. Kanellopoulos replied the Inspector
+General? Member Bedore stated they were going to be moved last January and we’re now almost a year.
+Where are they? They’re still there. Mr. Kanellopoulos replied he will provide the Board and update.
+Member Bedore asked why they haven’t moved. Mr. Kanellopoulos replied he doesn’t have the information
+at his fingertips so he will have to get that. Either it can be discussed at the next meeting or he will get it to
+Director Carter before the end of the week. Member Bedore asked if he remembers about a year and half ago
+we discussed this and you agreed they should move, but you said it couldn’t happen until the first of January.
+That was the first of January of 2013 and they’re still there. He guesses he lost a year and a half here. Mr.
+Kanellopoulos replied that they have 2 RFIs pending that encompass the entire agency and staff in the Bloom
+Building and they are evaluating the results of that RFI and if he could he would like to report that
+information to the Board at the next month’s meeting and hopefully he will be at a point where he can report
+substantive information on both of those bids and how they affect that issue. Member Bedore asked if he had
+the right January. Mr. Kanellopoulos replied he thought so. Member Bedore stated that he hopes whoever
+replaces him, and he knows that will be difficult to get somebody to replace him, but he would hope that he
+will bring them up to speed on the Franklin Life Building so we can all move forward and not let that fall off.
+Mr. Kanellopoulos replied he will do that.
+Next on the agenda was Legislation. Director Carter stated that he doesn’t have anything new to report this
+month on legislative matters. In the special session nothing crossed the Board for procurement matters just
+pension issues and the tax breaks and nothing to report there. Chairman Stewart asks if there were any
+questions, comments, or concerns from Board members.
+Member Black asked if Director Carter would be in his office tomorrow? Director Carter replied
+affirmatively. Member Black asked Director Carter since he spends so much time in Chicago if he was on the
+census data up there. Director Carter replied that he doesn’t spend that much time up there and will be there in
+Springfield tomorrow. Member Black stated that he has a question and doesn’t want to take the Board time,
+but there was a recent lease and 45 days after we approved the lease IDES moved the unemployment service
+out of the Danville office, which was somewhat of a shock since they then moved it to Champaign and the
+Danville’s unemployment rate is 2 ½ times higher. Member Black asked Director Carter if he recalls that
+Member Bedore was upset about the square footage per employee in that building. Well now it’s off the chart
+and he does have an interested party who would like to enter into a lease or sublease to use the space that was
+vacated by the employment people and we’re not sure how we proceed. Does he talk to you about that?
+Director Carter stated that he would give him a call on that tomorrow and go through it. Member Black
+replied that he would appreciate that, thank you.
+Chairman Stewart stated that the Board has addressed all the items on the agenda. Is there a motion to
+adjourn? Member Bedore asked about the next meeting date. Director Carter replied that we’re looking at
+January 9, 2014 for the next meeting date pending Board confirmation. Motion to adjourn was made by
+Member Bedore and was seconded by Member Ivory. The motion was unanimously approved.
+
+27 
+M:131205
+
+ 

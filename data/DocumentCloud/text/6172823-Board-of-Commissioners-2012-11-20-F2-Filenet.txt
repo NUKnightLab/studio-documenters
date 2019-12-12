@@ -1,0 +1,134 @@
+ITEM NO. F2
+
+November 14, 2012
+
+AUTHORIZATION TO ENTER INTO A ONE (1) YEAR EXTENSION OF THE AGREEMENT
+WITH IBM FOR FILENET MAINTENANCE AND SUPPORT SERVICES
+To the Honorable Board of Commissioners:
+RECOMMENDATION
+It is recommended that the Board of Commissioners (“Board”) authorizes the Chief Executive Officer or
+his designee to enter into a one (1) year extension of the current agreement with IBM for FileNet
+maintenance and support services for a twelve (12) month period in an amount not-to-exceed $117,551.94
+for the term commencing January 2013 through December 2013.
+The Executive Vice President (EVP) of Finance, the Office of the General Counsel and the Office of
+Procurement have completed all necessary due diligence to support the submission of this initiative and
+recommend the approval of this item accordingly.
+FUNDING: Operating Fund
+SOLICITATION SUMMARY
+Vendor:
+
+IBM
+PO Box 643600
+Pittsburgh, PA 15264-3600
+
+Contract Type:
+Contract No.
+Original Contract Amount:
+Second Year Contract Amount:
+Third & Fourth Year Contract Amount:
+Fifth Year Contract Amount:
+Sixth Year Contract Amount:
+Seventh Year Contract Amount:
+Total Contract Amount:
+
+Fixed Rate/Schedule (Maintenance & Support Renewal)
+172947
+$ 77,881.00
+$ 91,369.30
+$198,995.00
+$ 98,877.00
+$128,703.26
+$117,551.94
+$713,377.50
+
+Original Contract Period:
+Second Contract Period:
+Third & Fourth Contract Period:
+Fifth Contract Period:
+Six Contract Period:
+Seventh Contract Period:
+
+March 1, 2007 through February 28, 2008 (12 months)
+March 1, 2008 through February 28, 2009 (12 months)
+March 1, 2009 through February 28, 2011 (24 months)
+March 1, 2011 through December 31, 2011 (10 months)
+January 1, 2012 through December 31, 2012 (12 months)
+January 1, 2013 through December 31, 2013 (12 months)
+
+M/W/DBE Participation:
+Direct:
+MBE ___%WBE ____%DBE _____%
+Indirect:
+MBE ___%WBE ____%DBE_____%
+Waiver ____(Yes/No)
+60 East Van Buren · Chicago, Illinois 60605 · (312) 742-8500 · www.thecha.org
+
+ Section 3:
+Hiring ____(#) Subcontracting ____($) Other Economic Opportunities _____($)
+GENERAL BACKGROUND
+The Board action recommended in this item complies in all material respects with all applicable Chicago
+Housing Authority board policies and all applicable federal (HUD) procurement laws.
+In 2005, the Chicago Housing Authority (“CHA”) issued a solicitation for the provision of a
+comprehensive electronic document management system under RFS 06-01449. The Chicago Housing
+Authority selected Clarity Partners, LLC to provide an Enterprise Document Management System
+(“EDMS”) using a commercial software system solution, known as FileNet. FileNet is a leading provider
+of business process and content management solutions.
+Clarity Partners configured and implemented the FileNet system at CHA, which consisted of the business
+process management, a central document repository, system documentation and related training.
+Additionally, the implementing vendor provided configuration services for the data capture solution
+Quillix/MuWave and post- production support. In October 2006 IBM Corporation acquired FileNet
+Corporation and integrated the business process management and document management solution into
+IBM’s service offerings.
+The CHA utilizes the EDMS / FileNet application extensively in our daily operations. EDMS supports
+departments such as Housing Choice Voucher, Finance, Development Management and Resident Services
+by providing the ability to store, maintain, retrieve and archive electronic records. To date over 7 million
+documents are stored in the CHA’s EDMS repository.
+Prudent business practices dictate having maintenance agreements in place with the system’s developer in
+order to obtain preventative and remedial maintenance. Maintenance support typically consists of
+software upgrades, bug fixes and remote telephonic and electronic support. Having a maintenance
+agreement in effect decreases the risks of potentially adverse impact from a system outage by reducing
+restoration time and increasing system availability.
+The EVP of Finance concurs with the recommendation to enter into a one (1) year extension of the
+Software Support Agreement with IBM for FileNet maintenance and support services, on a fixed rate
+basis and schedule, for compensation not to exceed, $117,551.94 for the one year term.
+The CEO/President recommends the approval to enter into a one (1) year extension of the Software
+Support Agreement with IBM for FileNet maintenance and support services, on a fixed rate basis and
+schedule, for compensation not to exceed $117,551.94 for the one year term.
+
+60 East Van Buren · Chicago, Illinois 60605 · (312) 742-8500 · www.thecha.org
+
+ RESOLUTION NO. 2012-CHA-100
+
+WHEREAS, the Board of Commissioners has reviewed the Board Letter dated November 14, 2012
+
+entitled,? AUTHORIZATION TO ENTER INTO A ONE (1) YEAR EXTENSION OF
+THE AGREEMENT WITH IBM FOR FILENET MAINTENANCE AND SUPPORT
+
+
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+
+THAT,
+
+the Board of Commissioners authorizes the Chief Executive Of?cer or his designee to
+enter into a one (1) year extension of the Software Support Agreement with IBM for
+FileNet maintenance and support services on a ?xed rate basis and schedule for additional
+compensation not to exceed $117,551.94 for the one year term.
+
+These awards are subject to each Contractor?s compliance with the 
+Section 3 resident hiring, and bonding and insurance requirements.
+
+
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+so East v5? 3am? - Chicago, 60503313,: ?75: 8500 . m?j?cna. arg-
+

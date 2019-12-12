@@ -1,0 +1,10260 @@
+Minutes of the meeting of the Finance Committee of the Board of Directors of the Cook County Health and
+Hospitals System held Friday, November 15, 2013 at the hour of 8:00 A.M., at 1900 W. Polk Street, in the Second
+Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Butler called the meeting to order.
+Present:
+
+Chairman Hon. Jerry Butler and Directors Ada Mary Gugenheim, M. Hill Hammock and Dorene P.
+Wiese, EdD (4)
+Board Chairman David Carvalho (ex-officio) and Mr. Donald Oder (non-Director Member)
+
+Absent:
+
+Director Jorge Ramirez (1)
+
+Additional attendees and/or presenters were:
+Gina Besenhofer – System Director of Supply Chain
+Management
+John Cookinham – System Chief Financial Officer
+Steven Glass – Executive Director of Managed Care
+Bala Hota, MD – System Chief Information Officer
+
+II.
+
+Randolph Johnston –System Associate General Counsel
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+
+Public Speakers
+Chairman Butler asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+George Blakemore
+
+Concerned Citizen
+
+III. Action Items
+A. Minutes of the Finance Committee Meeting, October 11, 2013
+Director Hammock, seconded by Director Wiese, moved to accept the minutes of the
+Finance Committee Meeting of October 11, 2013. THE MOTION CARRIED
+UNANIMOUSLY.
+
+B. Contracts and Procurement Items (Attachment #1)
+Gina Besenhofer, System Director of Supply Chain Management, provided an overview of the requests
+presented for the Committee’s consideration. The Committee reviewed and discussed the requests.
+Steven Glass, Executive Director of Managed Care, provided additional information regarding request
+numbers 4 and 5. He stated that requests will be presented in December for the provision of a transition period
+that will allow for the continuation of the existing vendors’ services for the first three months of calendar year
+2014 while the administration on-boards its new back office third party administrator. He noted that the
+vendors have not yet been identified for the new contracts that will follow the transition period; the
+administration is still negotiating and reviewing the responses to the Requests for Proposals (RFPs).
+Page 1 of 71
+
+ Minutes of the Meeting of the Finance Committee
+Friday, November 15, 2013
+Page 2
+
+III. Action Items
+B. Contracts and Procurement Items (continued)
+The Committee continued to discuss request numbers 4 and 5. Dr. Ram Raju, Chief Executive Officer, noted
+that, as the CountyCare membership increases, the costs will also increase, because the members will utilize
+the benefits under their plan, which is normal and expected. Board Chairman Carvalho indicated that some of
+the confusion surrounding the issue of increased costs for services relating to CountyCare lies in potentially
+conflicting statements that require further explanation and clarification. One statement that has been made is
+that enrolling patients into CountyCare benefits the System, because the System is going to get revenues for
+people it is already serving. Another statement that has been made is that if the System has been serving those
+patients already, then the cost of serving them has been built into its numbers. When costs for CountyCare go
+up, this conflicts with that statement; however, new CountyCare members include patients who are new to the
+System and patients already served by the System – this detail reconciles the two statements. He noted that
+one of the nice things about CountyCare is that the System is bringing in many people who are new to the
+System.
+Chairman Butler inquired regarding the recent enrollment figures that are being communicated by the federal
+authorities relative to the Affordable Care Act (ACA). Mr. Glass stated that, among the many provisions of
+the ACA, the marketplace is the private insurance component of the ACA; the ACA also provided for an
+expansion of the Medicaid Program - CountyCare is the expansion of the Medicaid Program. What is being
+communicated in the media regarding the website and enrollment figures for the marketplace is the component
+relating to the private insurance marketplace.
+During the discussion of request number 8, Dr. Bala Hota, System Chief Information Officer, provided
+additional information. He stated that Information Technology (IT) is basically supported by three main
+contracts with the following vendors: Siemens, which supports revenue cycle and financial back-end systems;
+Cerner, which is the System’s primary vendor for electronic health records; and Xerox, which represents
+staffing, implementation, and specialized expertise services. Cerner is the vendor chosen for the certified
+electronic record system. As the federal government has moved toward regulating and providing guidelines
+for Meaningful Use and integration into one electronic record, which is the roadmap that most organizations
+are following, from a technology perspective, the Cerner contract covers all of the software that needed to meet
+regulatory requirements for the next three years; he noted that there is a detailed roadmap for the System’s
+implementation plan to meet those requirements. The Xerox contract is for the specialized expertise and the
+personnel to do that implementation. This request presented today covers that roadmap plus special projects
+that are anticipated as a result of the ACA; additionally, there are several other strategic objectives for IT,
+including those relating to user experience to make enhancements beyond what the electronic record supports,
+making workflows easier, and regarding regulatory and quality requirements.
+Dr. Raju stated that he has instructed the Supply Chain Department, as well as the various sponsors of
+contractual requests, that every contract henceforth will have periodic performance reviews every three or six
+months regarding goals and the objectives reached; there will be discussions with the vendors regarding
+whether they have achieved the goals or not, which will be taken into consideration if they want to extend the
+contract into the future. Ms. Besenhofer provided additional information on the subject. She stated that
+vendors will be required to actually come in to show the administration what they have achieved. There will
+be evaluation forms that will be completed by the department heads as to the vendor’s performance throughout
+the entire year; at year end or at contract end, those forms will be reviewed to evaluate performance, to
+determine if the vendor is the best business partner or whether the administration needs to look elsewhere.
+
+Page 2 of 71
+
+ Minutes of the Meeting of the Finance Committee
+Friday, November 15, 2013
+Page 3
+
+III. Action Items
+B. Contracts and Procurement Items (continued)
+During the discussion of request number 14, which was a request to execute a contract with McKesson for
+services pertaining to denials by third party payers for those admissions that are not medically necessary,
+Board Chairman Carvalho requested that updates on how the System is doing with medical denials be
+incorporated into the reports provided by John Cookinham, System Chief Financial Officer.
+Director Gugenheim, seconded by Director Hammock, moved the approval of request
+numbers 1 through 15. THE MOTION CARRIED UNANIMOUSLY.
+C. Any items listed under Sections III and IV
+
+IV. Recommendations, Discussion/Information Items
+A. Update on Section 1115 Medicaid Waiver Demonstration Project/CountyCare
+Mr. Glass provided an update on the Section 1115 Medicaid Waiver Demonstration Project/CountyCare. He
+stated that, at the end of October, just over 119,000 applications have been initiated; this represents an increase
+of 11,000 from the month before.
+The majority of applications (66%) continue to be initiated through the call center, the on-campus application
+assistors and other program vendors; 29% have been initiated from the CountyCare network partners; and the
+remaining 6% are initiated from work at Cermak Health Services, within the Cook County Department of
+Corrections.
+Over 87,000 applications have been submitted to the Illinois Department of Human Services (DHS) for
+processing at this time; the approval rating remains around 85%.
+There was a slight decrease in the average number of applications submitted to DHS per work day in October
+to 474; the State processed an average of 525 applications per work day in October. This is the second month
+in a row that the number of applications processed daily by DHS has surpassed the average number of
+applications submitted per day. This reduced the back-log of applications by 484 from the month prior; it is
+estimated that just over 27,000 applications remained unprocessed at month’s end.
+Mr. Glass informed the Committee that this month and over the next several months, there will be several
+requests coming to the Finance Committee and Board of Directors related to CountyCare’s transition from an
+1115 Waiver. These requests will range from ensuring existing agreements meet the current demands of the
+program like those presented at this meeting, to requests for continuation of existing agreements, to
+establishment of new agreements, including a contract with the State in support of CountyCare’s continued
+operations. He noted that, at this month’s full Board meeting, he is scheduled to provide a broad overview of
+the Managed Care Department, which includes CountyCare; he will be discussing the upcoming requests in
+more detail at that time.
+
+V.
+
+Report from System Director of Supply Chain Management
+A. Report of emergency purchases
+There were no emergency purchases to report at this time.
+Page 3 of 71
+
+ Minutes of the Meeting of the Finance Committee
+Friday, November 15, 2013
+Page 4
+
+VI.
+
+Report from Chief Financial Officer (Attachment #2)
+A. Financial Reports – through September 2013 (Attachment #3)
+Mr. Cookinham presented the Financial Reports through September 2013, and provided a presentation
+regarding improving financial reporting. The Committee reviewed and discussed the information.
+In response to an inquiry from Board Chairman Carvalho regarding the self-pay population, Mr. Cookinham
+stated that the self-pay population includes those people who have not applied for CareLink or CountyCare,
+and in some cases have actually paid the System money for services rendered. Board Chairman Carvalho
+inquired whether this population is almost assuredly eligible for CareLink, but do not get processed. Mr.
+Cookinham responded affirmatively; he stated that the administration hopes to come back to the Committee
+with some revisions to the policies to address that issue. Board Chairman Carvalho stated that the Committee
+has discussed in the past the question of when should the System require everybody to go through the charity
+care policy. The administration has made a very good argument that, with all the other balls in the air,
+budgeting, staffing and performing that function is not a priority, if, at the end of the day, the only benefit
+achieved is that it will present the charity care numbers more accurately. At the time, the decision was right to
+not press the issue of processing everybody like every other hospital in the country does. However, when the
+challenges of implementing the ACA pause, that subject will need to be addressed again.
+Director Hammock, seconded by Director Wiese, moved to accept the Financial
+Reports through September 2013. THE MOTION CARRIED UNANIMOUSLY.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Butler declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Finance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXX
+Hon. Jerry Butler, Chairman
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 71
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+November 15, 2013
+
+ATTACHMENT #1
+
+Page 5 of 71
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM III(B) 
+NOVEMBER 15,  2013 FINANCE COMMITTEE MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Fiscal Impact
+
+Begins 
+Affiliate /  on Page 
+System
+#
+
+Amend Grant
+
+1
+
+Public Health Institute of 
+Metropolitan Chicago 
+(PHIMC)
+
+Service ‐ HIV/AIDS prevention services
+direct
+
+Grant funding 
+amount 
+$84,600.00 CCDPH
+
+3
+
+Illinois Department of Public  Service ‐ tanning/tattoo facilities
+Health
+inspections in suburban Cook County
+
+Grant renewal 
+amount: 
+$78,000.00 CCDPH
+
+4
+
+Renew Grant
+
+2
+
+Extend and Increase Contract
+3
+
+J. Maher Enterprises
+
+Service ‐ shuttle bus
+
+$113,167.69 
+
+SHCC
+
+5
+
+Amend and Increase Contracts
+
+6
+
+Automated Health Systems 
+(AHS)
+Service ‐ third party administrator
+Service
+‐
+pharmacy
+benefit
+Catamaran
+management services
+Service ‐ testing of secondary fire
+suppression systems, fire pumps, fire
+extinguishers and sprinklers and
+monitoring of fire alarm systems
+p
+g
+y
+Simplex Grinnell LP
+
+7
+
+AmerisourceBergen 
+Technology Group (ABTG)
+
+4
+5
+
+Service ‐ maintenance for proprietary
+equipment at Cermak Pharmacy
+
+Managed 
+$14,160,326.00  Care
+Managed 
+$11,798,704.00  Care
+
+6
+7
+
+$379,429.50 
+
+PHCC, 
+ACHN, 
+OFHC
+
+8
+
+$242,556.00 
+
+CHSCC
+
+9
+
+$37,499,866.03  System
+
+10
+
+Execute Contracts
+
+9
+
+Xerox Consultant Company, 
+Inc.
+Service ‐ professional services
+Service ‐ maintenance and repair of
+the
+Picture
+Archiving
+&
+Communication Services (PACS) with
+system upgrades
+GE Medical Systems
+
+10
+
+A Safe Haven Foundation
+
+Service ‐ snow removal services
+
+11
+12
+
+Maquet Medical Systems
+Steris Corporation
+AmerisourceBergen 
+Technology Group
+
+Product ‐ intra‐aortic balloon catheters
+Product ‐ sterilization system
+Product ‐ proprietary equipment for
+Cermak Pharmacy
+
+8
+
+13
+
+Page 6 of 71
+
+$4,312,120.09 
+
+SHCC
+CCDPH, 
+ACHN, 
+$813,800.00  SHCC
+
+12
+
+$387,846.00 
+$278,243.59 
+
+SHCC
+SHCC
+
+14
+15
+
+$275,000.00 
+
+CHSCC
+
+16
+
+13
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+ ITEM III(B) 
+NOVEMBER 15,  2013 FINANCE COMMITTEE MEETING 
+ CONTRACTS AND PROCUREMENT ITEMS
+Request 
+#
+
+Vendor
+
+Service or Product
+
+Fiscal Impact
+
+Begins 
+Affiliate /  on Page 
+System
+#
+
+Execute Contracts (continued)
+14
+15
+
+Product ‐ CareEnhance Review
+McKesson Health Solutions Management Software
+University of Illinois Medical  Service ‐ Neuropathologist consulting
+services
+Center
+
+Page 7 of 71
+
+$175,722.05  System
+
+17
+
+$154,785.00 
+
+18
+
+SHCC
+
+  
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+     
+  
+  
+  
+ 
+ 
+
+  
+
+EXVECUTIE ON:
+
+   
+
+  
+
+    
+
+ 
+
+    
+    
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+       
+
+ 
+
+   
+
+SPONSOR:
+Terry Mason, Chief Operating Officer, Cook County
+Department of Public Health
+DATE: PRODUCT I SERVICE:
+1 0122/2013 Service Prevention Services Direct
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Grant Contract Amendment Public Health Institute of Metropolitan Chicaga (PHIMC). Chicago, iI
+ACCOUNT FISCAL IMPACT GRANT FUNDED I RENEWAL AMOUNT:
+$84,600.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+07/01/2013 thru 12/31/2013 10092013
+COMPETITIVE SELECTION METHODOLOGY: 1 RFP 
+
+SELECTION METHODOLOGY: 
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+. The previous grant Contract With the Public Health Institute of Metropolitan Chicago (PHIMC) was for twelve (12)
+months in the amount of $204,000.00 and was approved by the Cook County Health and Hospitals System Board on
+
+September 28, 2012.
+
+ 
+       
+ 
+   
+ 
+
+5 NEW PROPOSAL JUSTIFICATION: 
+This grant contract amendment from the Public Health Institute of Metropolitan Chicago supports mandated
+communicable disease services for outreach and HIV screening in at-risk pepulations by the Cook County
+Department of Public Health. As the certi?ed local health department for suburban Cook County, is
+responsible for the control of communicable diseases including HIV as established by resolution. 
+
+ 
+       
+    
+   
+  
+
+?The deferred liability for this agreement is $82,200.00.
+
+   
+
+TERMS OF REQUEST: 
+1 This is a request to accept Grant Contract Amendment #10092013 in an amount not to exceed $84,600.00 from
+
+07/01/2013 thru 12/31/2013.
+
+ceo: Wm 
+
+Anthony Rajkumar,?Chi?fFusine?? 
+
+     
+
+ 
+
+  
+
+APPROVED
+
+,3 NOV 22201.3
+
+       
+
+Vb
+
+ 
+ 
+ 
+ 
+ 
+  
+
+CFO:
+
+  
+
+ 
+
+    
+
+ 
+  
+  
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+ 
+
+ 
+
+CEO:
+Ram Raju, MD, Chief Executive War
+
+  
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+   
+
+Request 
+1
+
+ 
+ 
+       
+
+0 Ambulatory Community Health Network - Cennak Health Services - Department of Public Health 0
+- John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center
+Provident Hospital - Ruth M. Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+  
+ 
+
+  
+  
+ 
+
+ 
+  
+ 
+
+EXECUTNE SPONSOR:
+Terry Mason, Chief Operating Of?cer, Cook County
+[Epartment of Public Health
+
+DATE: PRODUCT I SERVICE:
+
+10/16/2013 Service ?Tanning?attoo Facilities Inspections in Suburban Cook County
+TYPE OF REQUEST: VENDOR SUPPLIER:
+
+so A
+NIA
+
+ 
+    
+ 
+
+  
+
+ 
+
+    
+    
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+     
+ 
+
+ 
+ 
+ 
+
+ 
+
+    
+     
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+     
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Grant Contract Renewals Illinois Department of Public Health, Spring?eld, Illinois
+ACCOUNT FISCAL IMPACT GRANT FUNDED AMOUNT:
+$78, 000.00
+CONTRACT PERIOD: CONTRACT RENEWAL AMOUNT:
+07/01/2013 thru 06/30/2016 452800133
+452800883
+
+COMPETITIVE SELECTION METHODOLOGY: RFP I 
+
+NIA
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+NIA
+
+ 
+
+ 
+  
+ 
+
+ 
+
+  
+ 
+
+I PRIOR CONTRACT HISTORY:
+
+The previous Tanning Facilities Inspection Grant Contract was for twelve months in the amount of $19,000.00; the
+previous Tattoo Facilities Inspection Grant Contract was for twelve months in the amount They were
+
+approved by the Cook County Health and Hospitals System Board on October 26, 2012.
+
+ 
+ 
+    
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+As a state certi?ed local health department the Cook County Department of Public Health is mandated to inspect
+Tanning and Tattoo Facilities in suburban Cook County. The requested grant funded amount is $78,000.00. 
+
+     
+ 
+
+*The deferred liability for this Grant Agreement is $6,500.00.
+
+TERMS OF REQUEST: 
+i This is a request to renew Grant Contract Number 45280013B in an amount not to exceed $39,000.00 from
+
+5 07/01/2013 thru 06/30/2016 and Grant Contract Number 452800888 in an amount not to exceed $39,000.00 from
+07/01/2013 thru 06/30/2016.
+
+5 4
+Anthony Rajkumar?Clyef Business Wear APP VE 
+
+NOV 222013
+
+inancial Of?cer
+
+        
+     
+     
+        
+
+   
+
+   
+
+CFO.-
+
+John Cookinh ?hie
+
+ 
+  
+
+    
+ 
+  
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+. BY BOARD OF
+CEO: OF THE COOK COUNTY
+
+Ram Raju, MD, Chief Itxecutive/or?cer AND SYSTEM
+
+    
+ 
+
+ 
+
+  
+
+Request 
+2
+
+    
+ 
+
+- Ambulatory Community Health Network Cermak Health Services - Department of Public Health -
+- John Stroger, Jr. Hospital of Cook County Oak Forest Health Center- Provident Hospital Ruth M.
+Rothstoln CORE Center .
+
+We Bn'ng Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+      
+
+   
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOU i?
+Anthony Rajkumar, Chi?e n?g?a?f'n er 
+
+
+
+ 
+
+    
+
+   
+
+ 
+
+         
+ 
+
+ 
+
+    
+ 
+
+ 
+
+   
+
+ 
+
+       
+      
+ 
+
+ 
+
+    
+ 
+
+DATE: PRODUCT I SERVICE: .
+. 09/26/2013 Service Shuttle Bus 
+TYPE OF REQUEST: VENDOR I SUPPLIER: 
+Extend and Increase Contract Maher Enterprises, Chicago, IL
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT AWARD RENEWAL AMOUNT:
+
+897-190 $113,167.69 
+
+CONTRACT PERIOD: ONTRACT NUMBER:
+
+11/01/2013 thru 01/31/2014 
+
+ 
+
+  
+  
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+ 
+
+ 
+
+  
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+   
+
+PRIOR CONTRACT HISTORY:
+
+This contract was executed by the Department of Supply Chain Management on 06/09/2013 as an emergency
+
+- purchase to provide shuttle bus service between the Juvenile Temporary Detention Center Garage and Stroger
+
+Hospital for temporary service. The former company went into bankruptcy and their assets were liquidated in a very
+short amount of time.
+
+     
+   
+      
+ 
+   
+   
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+i This request is to extend and increase the contract for three months to allow for a combined RFP process for the
+
+. Stroger Parking Garage and the Shuttle Bus service. It is our intention to have whoever is awarded the contract for
+the Parking garage to have oversight and responsibility of the shuttle bus service.
+
+ 
+   
+    
+  
+
+TERMS OF REQUEST: I
+This request is to extend and increase contract number H13-25-0066 in an amount not to exceed $113,167.69,
+
+as needed, for three (3) months from 11/01/2013 thru 01/31/2014.
+
+  
+     
+    
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+ATTACHMENTS
+i CONTRACT COMPLIANCE MEMO: Yes APPROVE
+NOV 22m
+
+John Cookinhawyste hief Financial Of?cer
+
+        
+    
+
+ 
+
+   
+
+ 
+
+COUN
+CCH HS CEO: . TY
+Ram Raju, MD, Chief EiecutinOT?cer AND HOSPITALS SYSTEM
+
+  
+  
+
+ 
+
+   
+
+ 
+
+   
+     
+
+Request 
+3 
+
+ 
+
+      
+
+  
+
+Ambulatory 8: Community Heaith Network - Cermak Health Services . Department of Public Health -
+- John H. Stroger, Jr. Hospth of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothsteln CORE Center 
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+  
+  
+
+   
+ 
+
+ 
+  
+ 
+
+ 
+
+ 
+     
+    
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+       
+      
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+    
+ 
+  
+
+ 
+
+SPONSOR: EXECUTIVE SPONSOR.
+
+Steven Glass, Executive Director of Manag?Care
+DATE: PRODUCT I SERVICE:
+
+10l3112013 Service? Third Party Administrator
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Increase Contract Automated Health System Pittsburgh, PA
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT AWARD I RENEWAL AMOUNT:
+896-260 . $14,160,326.00 
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/15/2012 thru 1213112013 
+
+SELECTION METHODOLOGY:
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Cook County Health Hospitals System Board approved contract number on November
+
+29, 2012. Automated Health Systems (AHS) provides administrative and support services as a Third Party
+
+5 Administrator. They assist with Services that include the operation of a call center, contract management,
+claims review and payment.
+
+ 
+   
+       
+ 
+   
+ 
+
+NEW PROPOSAL JUSTIFICATION: 
+This increase is requested to continue to provide third party administrative services as well as
+funding claims payment This will bring the total contract to $48,290,612.00.
+
+ 
+    
+   
+   
+ 
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract in the amount of $14,160,326.00 for
+
+I administrative services and $4,443,144.00 for claims payment) for the remaining term of the contract.
+
+     
+    
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+  
+
+- ATTACHMENTS
+CONTRACT COMPLIANCE MEMO: Yes
+
+   
+
+APPROVED
+canscao: we Zuwv NOV 2 2 2813
+
+Anthony Rajkumar, Chief?quiness Of?oad
+3 BY BOARD OF
+I 6 ?1 a DIRECTORS OF THE COOK COUNTY
+CFO: I HEALTH AND HOSPITALS SYSTEM
+
+3 John CookinhanU Cief Financial 0%
+ceov 
+
+Ram Raju, M. 0., Chief Executive ornc?t/
+
+ 
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+    
+   
+
+ 
+
+  
+
+Request 
+
+  
+
+'0 Ambulatory Community Health Network Cermak Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospitai of Cook County . Oak Forest Health Center . Provident Hospital . Ruth M.
+Rothstein CORE Center 
+
+We Bring Health CARE to Your Community
+Revised 
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+ 
+
+ 
+
+ 
+   
+ 
+
+ 
+    
+
+  
+ 
+
+ 
+
+       
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+        
+    
+
+ 
+
+      
+ 
+
+ 
+
+   
+
+ 
+
+       
+ 
+ 
+
+ 
+
+ 
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Steven Glass, Executive Director of Ma?ggd Care
+PRODUCT SERVICE:
+10/31/2013 Service Pharmacy Bene?t Management Services
+TYPE OF REQUEST: SUPPLIER:
+Increase Contract Catamaran, Schaumburg, IL
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT AWARD I RENEWAL AMOUNT:
+896-260 $11 ,798,704.00 
+CONTRACT PERIOD: CONTRACT NUMBER:
+02/01/2012 12/31/2013 H13-25-017
+SELECTION METHODOLOGY:
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+The Cook County Health Hospitals System Board approved contract number 7 on February 1,
+2013. Catamaran provides pharmacy bene?t administrator services for County Care, including prior authorization of
+
+pharmaceuticals, access to network pharmacies and adjudication ad payment of claims. Contract was increased
+$12,000,000.00 on 5/14/2013 to fund ctaims payment to outside vendors.
+
+ 
+   
+   
+   
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This increase is requested to continue to provide pharmacy bene?t administrative services as well as
+to fund claims payment ($10,972,79500) through the end ofthe?i1 15 Waiver. This will bring. the total contract spend
+to $26,787,954.00.
+
+ 
+ 
+     
+   
+   
+ 
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract H13-25-017 in the amount of $11 ,798,704.00 
+. claims payment and $825,909.00 administrative services) the term of the contract will remain the same.
+
+     
+    
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+  
+
+ATTACHMENTS
+CONTRACT COMPLIANCE MEMO: Yes
+
+m2 APPROVED
+
+Anthony Rajkumar, Chief Bufiness Of?cer (j NOV 2 2 Z?f3
+
+   
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+    
+
+
+
+   
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+CFO: RE TORSBBEOARD or
+John Cookinha jhief Financial Offi FHEAETH AND 
+
+ 
+
+     
+
+CEO:
+Ram Raju, MD, Chief Executive Officer 
+
+   
+
+ 
+
+ 
+ 
+
+Request 
+
+  
+
+- Ambulatory Community Heatth Netwmk - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County . Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center 0
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+   
+
+ 
+
+BOARD APPROVAL REQUEST
+
+    
+
+     
+
+ 
+
+  
+    
+    
+   
+    
+
+ 
+
+  
+      
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+      
+       
+       
+  
+
+ 
+
+  
+ 
+
+ 
+
+  
+  
+
+ 
+
+    
+ 
+
+ 
+
+  
+    
+ 
+
+ 
+
+SPONSOR: EXECUTIVE SPONSO 
+James DeLisa, Director of Plant Operations Anthony Rajkumar, Chie -u iness 3 -. 
+DATE: PRODUCT I SERVICE: 
+08/30/2013 Service - Testing of Secondary Fire Suppression Systems, Fire Pumps,
+1 Fire Extinguishers, Sprinklers, and Monitoring of Fire Alarm Systems 
+TYPE OF REQUEST: VENDOR I SUPPLIER: 
+Amend and Increase Contract Simplex Grinnell LP, Addison, IL I
+ACCOUNT FACILITY FISCAL IMPACT NOT TO EXCEED GRANT FUNDED I RENEWAL AMOUNT:
+I 893-450 ACHN $118,495.00 
+891 -450 Provident $163,447.00
+898-450 Oak Forest 5 97,487.50
+3 Total: 379,429.50 
+CONTRACT PERIOD: CONTRACT NUMBER:
+10/01/2012 thru 09/31f2015 H12-72-007
+COMPETITIVE SELECTION METHODOLOGY:
+RFP
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number H12-72-007 was awarded by the Cook County Health and Hospitals System Board on 0910512012
+in the amount of $196,661 .70. The contract was the result of an RFP for testing of secondary ?re suppression
+systems, ?re pumps, ?re extinguishers, sprinklers, and monitoring of fire alarm systems for Stroger Hospital.
+
+ 
+    
+
+    
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request is to amend and increase the contract with Simplex Grinnell to add more facilities. The services
+provided include testing, monitoring, re?certi?cations of chemical extinguishing systems, valves, pumps and pipes
+and sprinkler systems. In an effort to standardize services into system level contracts, Simplex Grinnell was chosen
+to provide all of these services across 
+
+ 
+ 
+
+      
+   
+  
+
+ 
+ 
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract number H12-72-007 in an amount not to exceed $379,429.50, as
+
+1. needed, for the remainder of the contract period.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIV NAP PROV 
+
+. ATTACHMENTS
+CONTRACT COMPLIANCE MEMO: Yes
+
+
+(3er 
+
+John Cookinitj Chief Financial icer
+
+   
+ 
+      
+    
+
+NOV 2232013
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY 2?
+HEALTH AND HOSPITALS SYSTEM 
+
+   
+
+ 
+ 
+
+ 
+
+   
+
+CEO:
+Ram Raju, MD, Chief Executive Of?c?l"
+
+ 
+
+ 
+     
+
+Request 
+
+ 
+
+  
+
+
+
+ 
+
+- Ambulatory 8: Community Health Network Cormak Health Services - Department of Public Health 0
+John H. Stroger, Jr. Hospital of Cook County Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothstein CORE Center 0
+
+We Bring Heaith CARE to Your Community
+Revised 0310172011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+execon'
+John Jay Shannon, MD. Chief Integration Of?cer]
+Interim Executive Director Clinical Shared Services
+
+      
+
+SPONSOR:
+CaTanya Norwood, Interim Director, Pharmacy
+
+ 
+  
+ 
+
+   
+  
+ 
+ 
+
+   
+    
+ 
+
+ 
+
+  
+   
+  
+
+ 
+
+         
+
+ 
+
+ 
+
+       
+     
+ 
+
+ 
+
+  
+     
+
+DATE: PRODUCT I SERVTCE:
+
+11/04/2013 Service: Maintenance for Proprietary Equipment at Cermak Pharmacy
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Amend and Increase Contract AmerisourceBergen Techno?logy Buffalo Grove, IL
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED IRENEWAL AMOUNT:
+
+240-442 $242,556.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/01/2013 11/30/2017 
+
+ 
+
+   
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+   
+ 
+
+PRIOR CONTRACT HISTORY: 
+Contract was executed by the Board on 1l27/2012 to participate In a rebate program to receive i
+. a Fastpak EXP packaging system for use at the Cermak Pharmacy in the amount of $848,945.00. Payment was
+
+made through the utilization of earned credits to a Volume Rebate Program. Within that agreement, it was agreed to
+that after the warranty period, CCH HS would enter into an agreement with ABTG for post-warranty support services
+5 at no greater than $60,639.00 per year.
+
+ 
+   
+   
+ 
+      
+ 
+   
+ 
+
+. NEW PROPOSAL 
+This contract is necessary for maintenance of the Fastpak EXP equipment located at Cermak Pharmacy which
+packages and dispenses individual labeled patient medications in unit of use packages. This system generates all
+patient medications that are required for each administration time. This automation allows Cermak to be in
+
+.2 compliance with the mandates of the Department of Justice and it also promotes patient safety and medication
+
+I inventory management.
+
+ 
+   
+   
+      
+     
+ 
+
+TERMS OF REQUEST:
+This request is to amend and increase contract number H12-25-022 in an amount not to exceed $242,556.00, as
+
+needed, for a forty-eight (48) month period from 12/01/2013 thru 11l302017.
+
+- CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: 
+
+ATTACHMENTS NOV 2 2 Eats
+
+ 
+ 
+
+ 
+
+      
+       
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+CONTRACT comm MEMO: 
+
+. 49.7., Mme? BYBOARDOF
+- 03.0 . . . DIRECTORS OF THE COOK COUNTY
+Anthony Raikumar. Mummy Of?cy??r HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+ 
+
+I 9&4
+
+I John Cookinhefy Chief Financial Of?cer
+
+ 
+   
+  
+
+  
+
+CEO: Re
+Ram Raju, MD, Chief Executive Of?ce? quest 
+
+ 
+   
+
+Ambulatory 8- Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident Hospital Ruth M.
+Rothsteln CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/011?2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+     
+
+SPONSOR: 7 EXECUTIVE SPONSOR 
+Bala Hota 0-. Chief Medical Information Officer/Chief
+
+     
+     
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+    
+     
+ 
+
+ 
+
+ 
+    
+
+ 
+
+ 
+
+        
+    
+
+ 
+
+      
+ 
+
+Information Of?cer
+DATE: PRODUCT I SERVICE:
+09/25/2013 Service Professional Services
+TYPE OF REQUEST: SUPPLIER:
+Execute Contract Xerox Consultant Company, Inc.. Dearborn, MI
+ACCOUNT: FISCAL IMPACT NO TO EXCEED: GRANT FUNDED RENEWAL AMOUNT:
+890?441 $37,499,866.03 
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2013 thru 1 1/30/2016 H14-25-003
+
+ 
+ 
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+  
+
+ 
+
+ 
+  
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+The Board of Directors of Cook County Health and Hospitals System approved contract number H11-25-014 with
+
+Xerox (formerly ACS Healthcare Solutions) in the amount of $19,392,043.00 on 02/24/2011 for a 36 month period.
+
+3 An amendment to include the Cook County Department of Public Health was approved by the 
+Board on 10/27/2011 in the amount of $400,000.00. A second amendment to increase the contract was approved by
+the Board in 03/29/2012 in the amount of $300,000.00 for A third amendment to increase the
+contract was approved by the Board on 11/29/2012 in the amount of $300,000.00 for All Increases
+for were grant funded. The maximum amounts payable under this contract is $20,392,043.00.
+
+ 
+   
+     
+   
+   
+    
+  
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+I This request is to enter into a new contract with Xerox for IT staffing and support. The critical resources provided
+under this contract are required to implement and support all upcoming IT initiatives. These initiatives include, but
+are not limited to (October 2014 mandatory go live), Meaningful Use Stage 2 (2014 implementation),
+
+Electronic Record Enhancements to support the Patient Centered Medical Home and Affordable Care Act initiatives,
+Mandated Electronic Quality Reporting to CMS, charge capture remediation initiatives, continued Lawson integration
+with the Cerner EHR to support perpetual inventory, business intelligence and reporting needs for the health system;
+and continued support of security and disaster recovery strategies for electronic data . The growth of the use of IT in 
+health care has created a need for additional staf?ng support to ensure uninterrupted delivery on the strategic goals
+for IT The' Increase in the contract is to ensure resources with the necessary, specialized, expertise' In ?nancial and
+
+ 
+   
+     
+   
+   
+   
+   
+    
+         
+ 
+ 
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+TH AND HOSPITALS SYSTEM
+
+for a period of thirty?six (36} months from 12/01/2013 thru 11/30/2016.
+
+  
+
+ 
+
+   
+ 
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSI 
+
+ATTACHMENTS 
+CONTRACT COMPLIANCE MEMO: Yes
+
+ 
+  
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center 0 Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+09/25/2013 Service - Professional Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Xerox Company, Inc., Dearbom, MI
+
+ACCOUNT: FISCAL IMPACT NO TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+890-441 $37,499,86603 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/01/2013 thru 11/30/2016 
+
+coo: W54
+
+. Anthony Rajkumar, Chief businesyOf?c?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+CFO: 3
+John Cookinham ief Financial Officer
+
+CEO:
+Ram Raju, MD, Chief Execve Of?cer
+
+ 
+
+ 
+
+- Ambulatory Community Health Network - Cormak Health Services - Department of Public Health -
+John H. Stroger, r. Hospital of Cook County - Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothstein CORE Center -
+
+We Bn'ng Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+    
+  
+
+  
+  
+ 
+
+   
+  
+  
+ 
+
+EXECUTIVE SPONSOR: I I
+Claudia M. Fegan, M.D. Executive Medical Director]
+Medical Director Stroger Hospital
+
+SPONSOR: 
+Mark Pisaneschi, Chairman, Department of Radiology,
+John H. Stroger, Jr. Hospital
+
+  
+
+ 
+
+      
+   
+    
+
+ 
+
+ 
+ 
+
+ 
+
+   
+
+ 
+
+      
+     
+ 
+
+ 
+
+    
+ 
+
+DATE: PRODUCT I SERVICE:
+
+10/24/2013 Service - Maintenance Repair of the Picture Archiving 8: Communication
+Services (PACS) with System Mades
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract GE Medical Systems, Waukesha. WI
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+
+897- 367 $4,312,120.09 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/01/2013 thru 1 1/30/2016 
+
+ 
+
+ 
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+  
+
+ 
+
+   
+
+IVE SELECTION METHODOLOGY:
+GPO
+
+   
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+. Contract number H10-25-098 was approved by the Cook County Health and Hospitals Systems Board of Directors
+3 on 09/03/2010 in the amount of $3,459,706.99 for the maintenance and repair of the picture archiving and
+communication system. Stroger Hospital is all digital and uses PACS to receive. store and transmit images for
+viewing by all physicians within the hospital. Stroger Hospital no longer has the ability to perform, process or store
+analogue ?lm for x?rays and requires PACS to be serviced, maintained and updated.
+
+ 
+   
+   
+ 
+     
+ 
+   
+ 
+
+1 NEW PROPOSAL JUSTIFICATION:
+This request is to provide for the continued maintenance and repair of the GE system. It will also provide for
+
+system upgrades for the Stroger picture archiving and communication (PACS) system. GE Healthcare Technology
+i contracts solely with healthcare providers for service on the GE PACS because it is a proprietary system. While GE
+Healthcare is not the manufacturer of some technologies used for storage of medical images, the application
+program interface (API) is a proprietary connection by and between GE Healthcare and that manufacturer and can
+
+I only be sourced through GE Healthcare.
+
+ 
+ 
+      
+   
+    
+ 
+
+TERMS OF REQUEST:
+This request is to execute contract number in an amount not to exceed $4,312,120.09, as needed for a
+
+period of 36 months from 12/01/2013 thru 11/30/2016.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: 
+
+ATTACHMENTS
+
+CONTRACT COMPLIANCE MEMO: Ye
+
+030 LW
+Anthony O?ice rd
+
+CFOW
+
+John Cookinhavhief FinancialOf? er
+CEO Request#
+
+A Ram 0., Chief Ex_e_cutive Officer
+
+  
+ 
+
+         
+    
+
+ 
+
+      
+ 
+
+ 
+
+ 
+
+   
+
+- Ambulatory 8: Community Health Network - Cermak Health Services Department of Public Health 0
+. John H. Stroger, Jr. Hospital of Cook County Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center .
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health& Hospitals System
+
+AS AMENDED
+BOARD APPROVAL REQUEST
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+ 
+
+  
+        
+
+ 
+
+    
+     
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+         
+ 
+     
+       
+      
+      
+ 
+
+ 
+
+    
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+      
+
+ 
+
+1 SPONSOR: EXECUTIVE SPONSO . 0 g- 
+1 James DeLisa, System Director of Plant Operations, Anthony Rajkumar, Chi z- ess Icer
+
+DATE: PRODUCT SERVICE:
+11/04/13 Service Snow Removal Services
+TYPE OF REQUEST: SUPPLIER:
+Execute Contract A Safe Haven Foundation, Chica caog, 
+ACCOUNT FACILITY FISCAL IMPACT NOT GRANT FUNDED RENEWAL AMOUNT:
+I TO EXCEED: None
+i 897-235 JHSH $468,000.00
+1 893-235 ACHN $259,300.00
+3951235 $86,500.00
+TOTAL $813,800.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+11/15/2013 thru 11/14/2015 
+COMPETITIVE SELECTION METHODOLOGY:
+RFP
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number 08-844 78 Re-bid was approved by the Cook County Health and Hospitals System Board on.
+11/20/09 in the amount of $93,490.00 for the period covering November 1, 2009 through October 31, 2010 to provide
+. snow removal services for Stroger Hospital of Cook County. On November 19, 2010 contract number 08?84-178 Re? 
+bid received approval from the Cook County Health and Hospitals System Board to extend the contract with no fiscal
+i impact to allow the Department of Buildings and Grounds to utilize the funds that were remaining on the contract for
+the period covering 11/01/10 through 04/30/13 (30 months).
+
+ 
+ 
+ 
+      
+      
+   
+ 
+ 
+
+  
+
+3 NEW PROPOSAL JUSTIFICATION:
+This" Is a request to execute a contract with A Safe Haven Foundation for the provision of snow removal services for
+
+i the Department of Buildings and Grounds. This will include Stroger Hospital of Cook County, the Ambulatory and
+Community Health Network and the Cook County Department of Public Health locations.
+
+ 
+ 
+     
+     
+ 
+
+TERMS OF REQUEST:
+This is a request to execute contract number in an amount not td - .- I.
+month (24) period from 11/15/2013 thru 11/14/2015.
+
+ 
+    
+  
+
+  
+   
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE 0 WV 
+IJ
+
+Grew?L?-
+
+ 
+    
+
+
+
+CONTRACT COMPLIANCE MEMO: Yes av BOARD OF
+DIRECTORS or THE COOK COUNTY
+
+HEALTH AND HOSPITALS SYSTEM
+
+    
+    
+
+ 
+
+  
+  
+  
+
+CFO
+
+John Cookinha ief Fin cial Of?cer
+
+   
+
+ 
+ 
+
+CEO.
+Ram Raju, D., Chief ExeCUIIVJOfficer
+
+ 
+
+ 
+ 
+
+Request .
+10
+
+ 
+   
+
+0 Ambulatory 8: CommunIty Health Network - Cermak Health Services . Department of Public Health 
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothsteln CORE Center -
+
+We 8an Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+  
+  
+
+ 
+  
+
+BOARD APPROVAL REQUEST
+
+SPONSOR:
+Russell Kelly. Chairman, Division of Cardiology,
+
+
+  
+
+EXECUTIVE SPONSOR:
+Claudia M. Fegan D. Executive Medical Director]
+Medical Director Hospital
+
+ 
+  
+
+ 
+
+    
+ 
+
+ 
+
+  
+     
+
+ 
+
+ 
+
+ 
+  
+       
+ 
+
+ 
+
+    
+ 
+
+DATE: PRODUCT I SERVICE:
+
+10/28/2013 Intra-Aortic Balloon Catheters
+
+TYPE OF REQUEST: VENDOR I SUPPLIER: 
+
+Execute Contract Maquet Medical Systems. Wayne, NJ
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+717?897-362 $387,846.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+One-time Purchase 
+
+    
+ 
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY: RFP
+
+ 
+  
+
+ 
+
+   
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+PRIOR CONTRACT HISTORY:
+
+The prior contract was with Datascope who was bought out by Maquet Cardiovascular in 2011.
+
+ 
+
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+    
+  
+
+NEW PROPOSAL JUSTIFICATION:
+This contract will provide replacement for nine lntra-aortic balloon pumps (IABP) determined to be at end-of life. The
+1 IABP catheter is a mechanical device that increases myocardial oxygen perfusion while at the same time increasing
+cardiac output. Increasing cardiac output increases coronary blood flow and therefore myocardial oxygen delivery.
+The Division of Cardiology met with Clinical Engineering and Purchasing and determined that Maquet will provide
+
+superior devices.
+
+ 
+   
+   
+ 
+     
+  
+
+1 TERMS or REQUEST:
+This is a request to execute contract number 01 in an amount not to exceed $387,846.00 as needed for a
+
+one?time purchase.
+
+    
+     
+    
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+
+. BID TABULATIONS:
+
+CONTRACT COMPLI MEMO: 
+ceo: Law APPROVED
+
+:1 Anthony Rajkumar Chl'e?f'lfusiness??f?cer?
+91? ?173
+
+  
+    
+         
+ 
+
+
+
+f? BY BOARD OF
+John Cookin a Ie Ina ial 0 car DIRECTORS OF THE COOK COU
+HEALTH AND HOSPITALS SYSTEM
+CEO:
+Ram Raju. MD, Chief Exe? utive ivy
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+Request 
+ll
+
+   
+ 
+
+Ambulatory 8. Community Health Network Cermak Health Services 0 Department of Public Health 
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03011201 1
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL, REQUEST
+
+Tanda Russell, Interim Executive Director of NUrsing
+
+ 
+    
+
+soNson:
+
+       
+     
+ 
+
+ 
+
+    
+      
+
+ 
+
+  
+     
+
+ 
+
+   
+
+ 
+
+  
+      
+ 
+
+ 
+
+    
+ 
+
+DATE: PRODUCTISERVICE:
+
+11/04/2013 Product - Sterilization System
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Steris Corporation, Mentor, OH
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+717-897-540 $278,243.59 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+One-time Capital Purchase 
+
+ 
+
+ 
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+   
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+   
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+There is no priOr contract history for this product.
+
+  
+    
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+The purchase of the low temperature sterilizer will facilitate Cook County Health and Hospitals System transition from
+Ethylene Oxide sterilization and allow for greater useful life of our most delicate instrumentation such as ?exible
+endoscopes. Low temperature sterilization Offers faster turnaround time as cycle times are much shorter because
+preconditioning and post-exposure aeration phases of the cycle are eliminated. Packaged sterile product can
+be handled immediately after the cycle, allowing it to be returned to inventory quickly.
+
+ 
+   
+   
+ 
+     
+ 
+   
+ 
+
+TERMS OF REQUEST:
+This is a request to execute contract number H13-76-102 in an amount not to exceed $278,243.59, for a one-time
+
+purchase.
+
+ 
+   
+   
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+  
+
+ATTACHMENTS
+CONTRACT COMPLIANCE MEMO:
+
+ 
+    
+  
+ 
+ 
+ 
+  
+
+.- 
+
+ 
+
+080: 
+Anthony Rajkumar, Chief ?usiness/Of?ce?
+
+ 
+
+   
+
+   
+    
+
+
+
+HEALTH AND HOSPITALS $ngth
+
+ 
+
+. . .J .3 4
+1 John Cookinh Chief HMW
+CEO:
+
+Ram Raju, MD, Chief Oftijier
+
+ 
+
+  
+
+Request 
+12
+
+ 
+   
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident Heepital . Ruth M.
+Rothsteln CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 0310112011
+
+ 
+
+ 
+   
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+EXECUTIVE SPONSOR:
+
+John Jay Shannon, MD. Chief Integration Of?cer I
+Interim Executive Director Clinical Shared Services
+DATE: PRODUCT I SERVICE:
+
+11/04/2013 Product - Proprietary Equipment for Cermak Pharmacy
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract AmerisourceBer en Technology Group, Buffalo Grove, IL
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+
+240-505 $275,000.00 NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+One-time purchase 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+  
+ 
+
+ 
+ 
+  
+
+SPONSOR:
+CaTanya Norwood, Interim Director Pharmacy
+
+  
+
+   
+
+ 
+
+  
+    
+
+ 
+
+  
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+     
+    
+   
+  
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+   
+
+ 
+
+  
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+ 
+
+   
+
+PRIOR CONTRACT HISTORY:
+There is no prior contract history for this service at the Cermak Pharmacy.
+
+ 
+   
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+
+. This contract is for the purchase of the Fastpak EXP equipment for the Cermak Pharmacy. FastPak packages and
+dispenses individually labeled patient medications in unit of use packages. The system generates all patient
+medications that are required for each administration time. Automation allows Cermak to be in compliance with the
+mandates of the Department of Justice and it also promotes patient safety and medication inventory management.
+Funds provided by capitai planning will be utilized to purchase the FaskPak system for the new RTU building at
+
+I Cermak.
+
+  
+       
+  
+
+  
+    
+    
+ 
+ 
+
+TERMS OF REQUEST:
+- This is a request to execute contract number in an amount not to exceed $275,000.00, as needed, for a
+
+one-time purchase.
+
+    
+  
+
+. CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+i ATTACHMENTS
+
+i CONTRACT COMPLIANCE MEMO: Yes APPROVED
+080: NOV 22 ZUI3
+
+. Anthony Rajkumar, Cm?fFusinef/E a
+
+  
+   
+
+ 
+
+      
+          
+  
+
+     
+
+comm
+TORS
+AND HOSPITALS SYSTEM
+
+  
+ 
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+   
+
+. CEO:
+Ram Raju, M.D., Chief Exe?e Officer
+
+ 
+
+ 
+
+0 Ambulatory-ax Community Health Network - Cermak Health Services - Department of Public Health -
+0 John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital . Ruth M.
+Rothsteln CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 0310112011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+   
+ 
+
+ 
+
+    
+  
+ 
+
+   
+  
+  
+
+      
+
+ 
+
+ 
+
+      
+ 
+ 
+
+ 
+
+  
+     
+  
+
+ 
+
+ 
+
+ 
+
+  
+       
+ 
+
+ 
+
+  
+      
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+ 
+  
+
+ 
+
+  
+   
+
+SPONSOR: - EXECUTIVE SPONSOR:
+Laura Wahlfeldt, RN, BSN, ACM, System Director, Claudia M. Fegan, MD, Executive Medial Director,
+Case Medical Director Sthospital
+DATE: PRODUCT SERVICE:
+11/05/2013 Product CareEnhance Review Mamement Software
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract McKesson Health Solutions, IL
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED IRENEWAL AMOUNT:
+890-441 $175,722.05 
+CONTRACT PERIOD: . CONTRACT NUMBER:
+12/01/2013 thru 1 1/30/2016 H13-25-084
+COMPETITIVE SELECTION METHODOLOGY:
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+The Cook County Board of Directors approved contract number 0 on 06/25/2010 in the amount of
+
+$93,967.20. The contract was for an lnternet based product deployed system wide to gain control of denials for
+services by third party payers.
+
+ 
+       
+  
+ 
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This request is to enter into a contract with McKesson, Interqual for the provision of software for the clinical staff as
+well as the utilization review staff to reduce the number of service denials for not medically necessary admission.
+
+ 
+ 
+    
+ 
+
+i TERMS OF REQUEST:
+This is a request to execute contract number H13-25-084 in an amount not to exceed $175,722.05, as needed, for
+
+the period from 1 21011201 3 thru 11/30/2016.
+
+    
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+  
+   
+ 
+
+  
+ 
+
+ATTACHMENTS
+CONTRACT COMPLIANCE Yes
+
+APPROVED
+
+Anthony RajkumarTEhi?f BusiWss O?cer
+NOV 2 2 WEB
+
+ 
+
+ 
+
+ 
+       
+  
+
+  
+
+  
+  
+
+ 
+
+meanness?
+00K
+HEALTH AND HOSPITALS 
+
+ 
+
+ 
+
+ 
+
+    
+
+CEO:
+Ram Raju, MD, Chief Executiv?e 
+
+ 
+
+ 
+    
+ 
+
+Request 
+14
+
+ 
+
+0 Ambulatory Community Health Network Cermak Health Services - Department of Public Health 0
+- John H. Stroger, Jr. Hospital of Cook County . Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+   
+ 
+
+  
+   
+  
+
+     
+
+ 
+
+SPONSOR:
+Joanne Dulski, Director Laboratory
+
+EXECUTIVE SPONSOR:
+Peter Daniels, Chief Operating Officer, Hospital Based
+Services
+
+   
+ 
+
+    
+
+ 
+ 
+
+ 
+
+     
+   
+ 
+ 
+
+ 
+
+      
+  
+
+ 
+
+ 
+
+   
+   
+     
+ 
+ 
+
+ 
+
+  
+  
+
+DATE: PRODUCT I SERVICE:
+
+10/28/2013 Service: Ne'uropathologist Consulting Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract University of Illinois Medical Center, IL
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED IRENEWAL AMOUNT:
+897-272 $1 54, 785.00 NIA
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/01/2013 thru 11/30/2014 H1 3-25-081
+
+ 
+
+  
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+   
+
+ 
+
+   
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 1
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+. The Department of Supply Chain Management authorized contract number in the amount of
+
+i $149,760.00 for the period from 12/01/2012 thru 11/30/2013 to provide a Neuropathologist for the Pathology
+Department.
+
+ 
+     
+ 
+    
+ 
+ 
+
+. NEW PROPOSAL JUSTIFICATION:
+This agreement will provide for a prime attending in Neuropathology for the John H. Stroger. Jr. HOSpitai Of Cook
+County Pathology Department and backup coverage. Patients requiring Neuropathology Services will be covered
+under this program. Resident and other educational functions will also be covered by this program. Currently, the
+Department Of Pathology does not have personnel with experience and expertise in Neuropathology.
+
+ 
+   
+    
+    
+ 
+
+TERMS OF REQUEST:
+5 This is a request to execute contract number in an amount not to exceed $154,785.00, as needed, for
+
+the period from 12/01/2013 thru 11/30/2014.
+
+   
+  
+
+ 
+  
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Yes
+
+ATTACHMENTS
+CONTRACT COMPLIA MEMO: APPROVED
+
+CBO: NOV 2 2013
+
+Anthony Rajkumar, CITIE?i?hsines?Of?cy
+
+. . av BOARD OF
+. DIRECTORS OF THE COOK cou
+(TOM 64% I HEALTH AND HOSPITALS 
+
+John Cookinh?0hiefFinan lOf?cer 
+CEO: 
+
+Ram Raju, MD, Chief Ex?utive Wear
+
+    
+   
+   
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+
+ 
+    
+    
+ 
+
+Request 
+15
+
+ 
+
+- Ambulatory Community Health Network . Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospitai of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Revised 03/01/2011
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+November 15, 2013
+
+ATTACHMENT #2
+
+Page 24 of 71
+
+ Cook County Health and 
+Hospitals System
+Hospitals System
+
+Report of the Chief Financial Officer 
+for November 2013
+
+1
+Page 25 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+•
+
+CCHHS is treated as an enterprise fund that is included in the financial 
+reporting of Cook County As an enterprise fund CCHHS prepares its
+reporting of Cook County.  As an enterprise fund, CCHHS prepares its 
+financial statements similar to a private sector business.  The monthly 
+CCHHS financial statements  are prepared in accordance with GAAP and 
+on an accrual basis of accounting.
+
+•
+
+Accrual accounting recognizes revenue when it is earned and expenses 
+when they are incurred.
+
+•
+
+Cook County government uses a modified accrual concept to report its 
+operations.  This is essentially a cash based system of reporting and 
+budgeting.
+
+•
+
+The difference in the different basis of reporting used by the county 
+government and CCHHS often creates reports that seem to be in conflict.
+
+2
+Page 26 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+•
+
+CCHHS currently provides two financial reports each month.  One report is 
+a traditional set of accrual financial statements The second report is a
+a traditional set of accrual financial statements.  The second report is a 
+review of various operational statistics and performance items.
+
+•
+
+The Finance Committee has asked in the past to modify the financial 
+p
+y
+statements to include a comparison to the CCHHS budget.
+
+•
+
+The CCHHS budget is a cash based budget where the revenue is essentially 
+the cash collections received in a fiscal year and a matching appropriation
+the cash collections received in a fiscal year and a matching appropriation 
+of what is expected to be paid in the fiscal year. The CCHHS budget must 
+be balanced.
+
+•
+
+The CCHHS budget does not include depreciation, a full estimate of 
+insurance expense, pension funding, and the cost of services provided by 
+other County departments.
+
+3
+Page 27 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+• CCHHS will begin to produce two new statements 
+monthly to compare actual results to the approved 
+budget for the month and a second statement  that 
+compares the year to date actual activity to the 
+p
+y
+y
+approved budget.
+• Even
+Even though the official accrual based financial 
+though the official accrual based financial
+statements of CCHHS include a measure of 
+depreciation, pension funding, and the full cost of 
+insurance the new comparisons to budget will only
+insurance the new comparisons to budget will only 
+measure CCHHS’s performance against the Cook 
+County approved budget. 
+4
+Page 28 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+• CCHHS will continue to improve the usefulness of its 
+financial reporting.  The new reports will provide a 
+valid comparison to the approved budget.
+• A comparison of the traditional statements to the two 
+new statements will also allow the reader to see the 
+differences in each approach
+differences in each approach.
+• CCHHS will continue to enhance its traditional financial 
+reporting too.  In the remaining months of the fiscal 
+year there will be additional information added to the 
+accrual based financial statements.
+5
+Page 29 of 71
+
+ Cook County Health and Hospitals System
+Income Statement as of September 30, 2013
+REVENUE
+Net patient service revenue
+Grant revenue
+EHR incentive program revenue
+Other Revenue
+Total Revenue
+
+Sept.  Revenue Budget
+$                           71,801,917.00
+$                                                ‐
+$                                 715,197.00
+$                                 166,170.17
+$                           72,683,284.17
+
+Sept. Rev.  Actual
+$                       58,893,000.00
+$                                            ‐
+$                             467,000.00
+$                             985,000.00
+$                       60,345,000.00
+
+Sept. Rev. Difference
+$                       (12,908,917.00)
+$                                              ‐
+$                             (248,197.00)
+$                              818,829.83
+$                       (12,338,284.17)
+
+OPERATING EXPENSES
+Salaries and wages
+Employee benefits (pension funding eliminated)
+S
+Supplies
+li
+Purchased svs, rental, & other
+Insurance expense (funding only)
+Depreciation ( not budgeted)
+Utilities
+Total Operating Expenses
+Total
+Operating xpenses
+
+Sept. Appropriation
+$                           44,194,741.08
+$                              7,707,365.92
+$
+$                             
+9 319 253 08
+9,319,253.08
+$                           17,279,455.83
+$                                 971,909.75
+$                                                ‐
+$                                 832,150.50
+$                           80,304,876.
+$
+80,304,876.17
+7
+
+Sept. Act. Exp.
+$                       43,658,000.00
+$                          6,497,000.00
+$
+$                      
+11 310 000 00
+11,310,000.00
+$                       16,411,000.00
+$                             972,000.00
+$                                            ‐
+$                             555,000.00
+$                       79,403,000.00
+$
+
+Sept.  Exp. Difference
+$                               536,741.08
+$                           1,210,365.92
+$
+$                        
+(1 990 746 92)
+(1,990,746.92)
+$                               868,455.83
+$                                        (90.25)
+$                                              ‐
+$                               277,150.50
+$                              90
+$
+901,876.17
+,876. 7
+
+GAIN OR (LOSS) FROM OPERATIONS
+
+$                            (7,621,592.00) $                      (19,058,000.00) $                       (11,436,408.00)
+
+NONOPERATING REVENUE
+Property taxes
+Sales taxes
+Cigarette taxes
+Other tobacco product taxes
+Fire arms taxes
+Interest income
+Retirement plan contribution ( not budgeted)
+Retirement plan contribution ( not budgeted)
+Total Nonoperating Revenue
+Net Income (loss)
+
+$                           20,962,002.50
+
+$                          6,537,000.00
+$
+$                         
+2,672,000.00
+$                       12,787,000.00
+$                             449,000.00
+$                                30,000.00
+$                                10,000.00
+$
+$                                           
+‐
+$                       27,428,000.00
+
+$                           6,465,997.50
+
+$                           13,340,410.50
+
+$                          8,370,000.00
+
+$                         (4,970,410.50)
+
+6
+Page 30 of 71
+
+ Cook County Health and Hospitals System
+Income Statement as of September 30, 2013
+REVENUE
+Net patient service revenue
+Grant revenue
+EHR incentive program revenue
+Other Revenue
+Total Revenue
+
+Sept. YTD Revenue Budget
+$                       544,432,728.00
+$                                              ‐
+$                            7,247,336.00
+$                           1,661,701.67
+$                       553,341,765.67
+
+Sept. YTD Actual
+$                   467,321,000.00
+$                        1,161,000.00
+$                        7,044,000.00
+$                       5,218,000.00
+$                   480,744,000.00
+
+YTD Rev.  Difference
+$                       (77,111,728.00)
+$                           1,161,000.00
+$                             (203,336.00)
+$                          3,556,298.33
+$                       (72,597,765.67)
+
+OPERATING EXPENSES
+Salaries and wages
+Employee benefits (pension funding eliminated)
+S
+Supplies
+li
+Purchased svs, rental, & other
+Insurance expense (funding only)
+Depreciation ( not budgeted)
+Utilities
+Total Operating Expenses
+Total
+Operating xpenses
+
+Sept. YTD Appropriation
+$                       441,947,410.83
+$                         77,073,659.17
+$
+$                        
+93 192 530 83
+93,192,530.83
+$                       172,794,558.33
+$                            9,719,097.50
+$                                              ‐
+$                            8,321,505.00
+$                       803,048,76
+$
+803,048,761.67
+.67
+
+Sept. YTD Act. Exp.
+$                   423,642,000.00
+$                     66,165,000.00
+$
+$                    
+91 947 000 00
+91,947,000.00
+$                   138,873,000.00
+$                        9,789,000.00
+
+YTD Exp. Difference
+$                        18,305,410.83
+$                        10,908,659.17
+$
+$                          
+1 245 530 83
+1,245,530.83
+$                        33,921,558.33
+$                               (69,902.50)
+$                                             ‐
+$                              827,505.00
+$                        65,
+$
+65,138,761.67
+38,76 .67
+
+GAIN OR (LOSS) FROM OPERATIONS
+
+$                     (249,706,996.00) $                 (257,166,000.00) $                         (7,459,004.00)
+
+$                        7,494,000.00
+$                   737,9
+$
+737,910,000.00
+0,000.00
+
+NONOPERATING REVENUE
+Property taxes
+Sales taxes
+Cigarette taxes
+Other tobacco product taxes
+Fire arms taxes
+Interest income
+Retirement plan contribution ( not budgeted)
+Retirement plan contribution ( not budgeted)
+Total Nonoperating Revenue
+
+$                       209,620,025.00
+
+Net Income (loss)
+
+$                        (40,086,971.00) $                    (44,101,000.00) $                         (4,014,029.00)
+
+$                     66,226,000.00
+$
+$                    
+42,071,000.00
+$                     99,813,000.00
+$                        4,805,000.00
+$                           134,000.00
+$                              16,000.00
+$                   213,065,000.00
+
+$                           3,444,975.00
+
+7
+Page 31 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+The additional information to be included in the CCHHS 
+monthly financial statements will include the following:
+y
+g
+a. An updated model to measure the provision for 
+uncollectible accounts.
+b An accrual for the estimated impact of the Medicare RAC 
+b.
+An accrual for the estimated impact of the Medicare RAC
+audits.
+c. A potential accrual for any unrecorded 340B expenses.
+d An accrual for CountyCare
+d.
+A
+lf C
+t C
+PMPM
+PMPM revenue associated with 
+i t d ith
+the backlog of unprocessed applications.
+e. An accrual for the estimated expense of the incurred, but 
+not reported CountyCare
+t
+t dC
+t C
+f i
+foreign claims at other 
+l i
+t th
+institutions.
+f. A potential accrual for any settlements with the Medicare 
+or Medicaid program.  
+M di id
+8
+Page 32 of 71
+
+ Improving Financial Reporting
+Improving Financial Reporting
+• The additional items that will be included in the 
+e add t o a te s t at
+be c uded t e
+monthly financial reporting will be aimed at 
+improving the accuracy of the financial 
+statements and reducing any potential audit 
+d d
+l d
+adjustments.
+• The two new statements will allow a comparison 
+of System financial performance to the Cook
+of System financial performance to the Cook 
+County approved revenue and appropriation 
+budgets.
+g
+9
+Page 33 of 71
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+November 15, 2013
+
+ATTACHMENT #3
+
+Page 34 of 71
+
+ Cook County Health and Hospitals System
+
+Financial Statements
+
+Year To Date September 30, 2013
+
+As of October 17, 2013
+
+1
+Page 35 of 71
+
+ Index
+
+Page
+
+1. Mission Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+2. Attestation Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4
+
+3. Management Discussion and Analysis . . . . . . . . . . . . . . . . 5 - 10
+4. Combining Balance Sheet – Assets . . . . . . . . . . . . . . . . . . .
+
+11
+
+5. Combining Balance Sheet – Liabilities and Net Assets. . . .
+
+12
+
+6. Combining Income Statement . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+7. Comparative Income Statements:
+Cook County Health Facilities (Consolidated) . . . . .
+Stroger Hospital . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ACHN (Clinics) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1115 Waiver . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Oak Forest Health Center . . . . . . . . . . . . . . . . . . . . .
+Provident Hospital . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bureau of Health . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Department of Public Health . . . . . . . . . . . . . . . . . . .
+Cermak . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+8. Disclosure Checklist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+
+2
+Page 36 of 71
+
+ COOK COUNTY HEALTH & HOSPITALS SYSTEM
+
+MISSION STATEMENT
+
+The Cook County Health and Hospitals System will deliver integrated
+health services with dignity and respect regardless of a patient's ability to
+pay; and,
+Foster partnerships with other health providers and communities to
+enhance the health of the public; and,
+Advocate for policies, which promote and protect the physical, mental
+and social well being of the people of Cook County.
+
+3
+Page 37 of 71
+
+ Board of Directors
+Cook County Health and Hospitals System
+
+The accompanying financial statements of Cook County Health and Hospitals System and the
+related Management's Discussion and Analysis for the month ended September 30, 2013 have
+been prepared by Management who is responsible for their presentation and disclosure. The
+statements have not been compiled, reviewed or audited by independent accountants.
+CCHHS maintains an internal control structure designed to provide reasonable assurance that
+assets are safeguarded and that transactions are properly executed, recorded and summarized to
+produce reliable records and reports,
+To the best of Management's knowledge and belief the statements were prepared in conformity
+with generally accepted accounting principles and governmental accounting standards using the
+accrual basis of accounting and are based on recorded transactions and Management's best
+estimates and judgment.
+
+John Cookinham, Chief Financial Officer
+
+___________________________________
+
+Dorothy M. Loving, Executive Director of Finance
+
+4
+Page 38 of 71
+
+___________________________________
+
+ MANAGEMENT’S DISCUSSION AND ANALYSIS
+INTRODUCTION
+This discussion and analysis provides the readers of the monthly unaudited financial
+statements of the Cook County Health and Hospital System (CCHHS) with an overview
+of the financial activities for the month ended September 30, 2013. This discussion
+focuses on the significant financial issues and major financial activities during the current
+month. It should be read in conjunction with the accompanying financial statements of
+the CCHHS.
+The CCHHS includes the following entities: John H. Stroger Jr. Hospital (JSH), Oak
+Forest Health Center (OFC) Provident Hospital (PHCC), the Department of Public Health
+(DPH), the Ambulatory and Community Health Network (ACHN), the Bureau of Health
+Services (BHS), CORE Center (for reporting purposes part of Stroger Hospital), and
+Cermak Health Services (CHS). Starting this fiscal year 2013, we have added the 1115
+Waiver. Collectively, these entities provide primary, intermediate, acute, and tertiary
+medical care to patients, without regard to their ability to pay. The Bureau of Health
+Services oversees the operational, planning, and policy activities of the CCHHS.
+The CCHHS is included in the reporting entity of the Cook County, Illinois, as an
+enterprise fund. As an enterprise fund, the CCHHS’ financial statements are prepared
+using proprietary fund accounting that focuses on the determination of changes in net
+assets, financial position, and cash flows in a manner similar to private sector businesses.
+The financial statements are prepared on an accrual basis of accounting, which
+recognizes revenue when earned and expenses when incurred.
+In 2008 the Cook County Health and Hospital System Board was created by the Cook
+County Board of Commissioners to provide independent oversight of health care
+operations, and in 2010 the Cook County Board of Commissioners voted to make the
+Cook County Health and Hospital System Board permanent.
+In 2012 the Cook County Health and Hospitals System and Cook County Board Officials
+collaborated to cut Medicaid costs, help county taxpayers, and transform Cook County’s
+hospital system by jump-starting national health care reform in Cook County. In October,
+2012 the federal governmnent approved the 1115 Medicaid Waiver for Cook County,
+allowing CCHHS to enroll more than 115,000 individuals who will be eligible for
+Medicaid in 2014 into a Cook County network with no cost to the state of Illinois.
+An 1115 Waiver allows the Cook County’s Health System to early enroll certain
+uninsured patients into Medicaid. Specifically, these are patients who are not currently
+eligible for Medicaid, but who will be eligible in 2014 under the Accountable Care Act.
+Many of these individuals are patients who already are being treated by our system
+without compensation. The Waiver is funded entirely by the federal government.
+
+5
+Page 39 of 71
+
+ FINANCIAL HIGHLIGHTS (IN THOUSANDS)
+The Cook County Health and Hospitals System finished the ten months with overall
+revenue of $743,238 and overall expenses was $815,630.
+Net Patient revenue for the ten months was $467,321.
+Net Patient revenue consists of all charges including automated contractual allowances
+and bad debt adjustments. Write-off of Bad Debt is a CCHHS Board approved policy.
+EHR incentive program revenue was $7,044.
+Other revenue was $5,218. Other revenue consists primarily of parking revenue.
+
+Patient Accounts Receivable – BEPA System
+General
+As compared to November 30, 2012, Total Patient Accounts Receivable at the end of
+September-2013 reduced by 17 to 105 days. Additionally, there was a 3 day decrease in
+this figure, as compared to the previous month’s figure.
+Days of Revenue Outstanding measures the average number of days charges remain in
+accounts receivable after service has been rendered before collection activities have been
+completed, including charity care and bad debt write-offs. Days of Revenue Outstanding
+is measured in charges, not cash collections.
+Days of Revenue Outstanding is a useful tool to measure collection efforts over time (i.e.,
+whether this number is growing or decreasing). This number will be large due to the
+large number of Self-Pay patients CCHHS services and the processes CCHHS must
+complete before patient accounts are collected or written-off to bad debt. These
+processes include, but are not limited to, the following:
+
+
+
+
+
+
+Making an effort to attain third-party insurance coverage, including 1115 waiver
+and MANG applications;
+Processing charity care applications;
+Sending three (3) monthly statements before accounts are turned over to
+collections;
+Placing accounts bi-monthly with the collection agency; and
+Permitting patients to pay their account balances over time (time payment).
+
+Total billed accounts grew by $26.103M (8.9%) as compared to the November-2012
+balance. As compared to the previous month, this figure decreased by $15.170M (4.5%). The decline in this figure indicates an increasing number of accounts are
+completing the collection process, which includes charity care and bad debt write-offs.
+6
+Page 40 of 71
+
+ The change in this figure does not translate dollar-for-dollar into actual cash receipts, as
+Medicaid pays CCHHS’ claims on a per-diem and Medicare pays CCHHS’ claims based
+upon the diagnosis, regardless of charges on the patient accounts. Additionally, charity
+care and bad debt write-offs are part of the collection process and will not result in actual
+cash collections. Finally, the reimbursement for 1115 Waiver patients is made through a
+per-member-per-month payment, not a claim-by-claim basis.
+Inpatient Accounts Receivable – BEPA System
+Discharged Not Final Billed
+Inpatient discharged but not final billed accounts at the end of September-2013 increased
+by $2.011M (22.8%), as compared the November 30, 2012 balance and decreased by
+$0.585M (-5.1%), as compared to the previous month’s balance. This indicates that more
+inpatient accounts are moving to a “Billed” status, as compared to the previous month.
+The change in this figure does not translate dollar-for-dollar into actual cash receipts, as
+Medicaid pays CCHHS’ claims on a per-diem and Medicare pays CCHHS’ claims based
+upon the diagnosis, regardless of charges on the patient accounts. Additionally, charity
+care and bad debt write-offs are part of the collection process and will not result in actual
+cash collections. Finally, the reimbursement for 1115 Waiver patients is made through a
+per-member-per-month payment, not a claim-by-claim basis.
+Billed Inpatient Accounts
+Billed inpatient accounts at the end of September-2013 increased by $14.821M (9.5%) as
+compared to the November 30, 2012 balance. This figure fell by $11.552M (-6.3%)
+compared to the previous month’s total.
+The decrease in this number indicates more accounts had the collection process
+completed than in the previous month and that a greater number of accounts are being
+removed from active accounts receivable. CCHHS’ collection process includes charity
+care and bad debt write-offs.
+The change in this figure does not translate dollar-for-dollar into actual cash receipts, as
+Medicaid pays CCHHS’ claims on a per-diem and Medicare pays CCHHS’ claims based
+up on the diagnosis, regardless of charges on the patient accounts. Additionally, charity
+care and bad debt write-offs are part of the collection process and will not result in actual
+cash collections. Finally, the reimbursement for 1115 Waiver patients is made through a
+per-member-per-month payment, not a claim-by-claim basis.
+Outpatient Accounts Receivable – BEPA System
+Unbilled Outpatient Accounts
+The balance of unbilled outpatient accounts decreased by $2.677M (-15.4%) by the end
+of September-2013, as compared to the level of unbilled accounts as of November 30,
+2012. This balance, as of the end of this month, was $1.133M (8.4%) larger than the
+previous month’s balance. This indicates that fewer outpatient accounts are moving to a
+“Billed” status, as compared to the previous month.
+7
+Page 41 of 71
+
+ The change in this figure does not translate dollar-for-dollar into actual cash receipts due
+to Medicaid’s and Medicare’s reimbursement configuration.
+
+Billed Outpatient Accounts
+The billed outpatient accounts receivable at the end of September-2013 grew by
+$11.281M (8.1%), as compared to the balance as of November 30, 2012. This figure is
+$3.617M (-2.4%) less than last month’s figure.
+The decline in this figure indicates that more Out-Patient accounts had their collection
+and write-off related activities completed, as compared to the prior month.
+The reduction of internal bill-holds from 20 days to 6 days will tend to cause a growth in
+the billed accounts receivable.
+The change in this figure does not translate dollar-for-dollar into actual cash receipts due
+to Medicaid and Medicare’s reimbursement configuration and to charity care and bad
+debt write-offs.
+Carelink Program Activities (Charity Care)
+The volume and dollar amounts written-off to charity care are as follows:
+
+In-Patient
+Out-Patient
+Totals
+
+Number of Accounts for
+September-2013
+872
+24,914
+25,786
+
+Value of Accounts for
+Septembert-2013
+$ 4.045M
+$ 10.708M
+$ 14.753M
+
+Cumulative Number
+of Accounts Through
+September-2013
+6,236
+297,197
+303,433
+
+Cumulative Value of
+Accounts Through
+September-2013
+$ 74.955M
+$ 135.956M
+$ 210.911M
+
+The above data does not include bad-debt write-offs; it includes only the amounts
+written-off directly to charity care.
+
+Operating Expenses at the end of ten months was $815.630M broken down as follows:
+Salaries and Wages - $423.642M
+Benefits - $115.593M
+Supplies - $91.947M
+Purchased Services, Rental, and Other - $138.873M
+Insurance - $9.789M
+Depreciation - $28.293M
+Utilities - $7.494M
+8
+Page 42 of 71
+
+ Nonoperating Revenue was $262.493M. The largest portions of this are attributed to
+cigarette tax in the amount of $99.813M and property tax in the amount of $66.226M.
+Sales tax revenues are recognized by CCHHS when earned; this occurs when the
+underlying sales transactions occur. The amount recorded as Due from State of Illinois Sales Tax represents the amounts earned by CCHHS, however, the cash is not yet
+received from the state. There is a 3 months lag from the time of the underlying sales
+transaction to the receipt of funds.
+Taxes collected for the Health to date have been fully credited to the Health Fund except
+as mentioned in the previous paragraph.
+
+OVERVIEW OF THE FINANCIAL STATEMENTS
+This discussion and analysis are intended to serve as an introduction to the CCHHS
+financial statements. CCHHS basic monthly unaudited financial statements are comprised
+of fund financial statements.
+A fund is a grouping of related accounts that is used to maintain control over resources
+that have been segregated for specific activities or objectives. The CCHHS, like other
+state and local governments, uses fund accounting to ensure and demonstrate compliance
+with finance-related legal requirements.
+
+9
+Page 43 of 71
+
+ Accounts Receivable Comparison
+Cook County Health and Hospitals System
+Fiscal Year 2013
+
+December-2012
+BEPA
+
+January-2013
+BEPA
+
+February-2013
+BEPA
+
+March-2013
+BEPA
+
+April-2013
+BEPA
+
+May-2013
+BEPA
+
+June-2013
+BEPA
+
+July-2013
+BEPA
+
+August-2013
+BEPA
+
+September-2013
+BEPA
+
+Inpatient
+In-House
+
+$
+
+10,694,624.53
+
+$
+
+14,197,840.36
+
+$
+
+17,083,585.46
+
+$
+
+16,412,265.48
+
+$
+
+11,795,112.59
+
+$
+
+9,859,969.43
+
+$
+
+13,475,435.09
+
+$
+
+13,387,877.68
+
+$
+
+11,543,712.49
+
+$
+
+13,747,987.60
+
+Discharged Not Final Billed
+
+$
+
+8,483,063.30
+
+$
+
+9,622,149.26
+
+$
+
+11,043,885.00
+
+$
+
+9,058,452.64
+
+$
+
+11,661,562.81
+
+$
+
+11,966,835.57
+
+$
+
+11,486,667.51
+
+$
+
+8,862,674.36
+
+$
+
+11,421,748.50
+
+$
+
+10,836,288.90
+
+Billed
+
+$
+
+153,028,241.07
+
+$
+
+154,871,251.62
+
+$
+
+160,358,506.05
+
+$
+
+166,885,757.25
+
+$
+
+176,838,728.63
+
+$
+
+156,324,233.75
+
+$
+
+161,918,349.18
+
+$
+
+171,797,882.43
+
+$
+
+182,618,954.54
+
+$
+
+171,066,593.74
+
+$
+
+172,205,928.90
+
+$
+
+178,691,241.24
+
+$
+
+188,485,976.51
+
+$
+
+192,356,475.37
+
+$
+
+200,295,404.03
+
+$
+
+178,151,038.75
+
+$
+
+186,880,451.78
+
+$
+
+194,048,434.47
+
+$
+
+205,584,415.53
+
+$
+
+195,650,870.24
+
+Unbilled
+
+$
+
+18,351,510.68
+
+$
+
+19,430,163.88
+
+$
+
+17,924,674.17
+
+$
+
+19,189,961.92
+
+$
+
+21,075,425.14
+
+$
+
+15,169,287.02
+
+$
+
+12,046,059.44
+
+$
+
+12,873,691.45
+
+$
+
+13,521,300.20
+
+$
+
+14,654,651.77
+
+Billed
+
+$
+
+134,201,903.14
+
+$
+
+123,927,492.43
+
+$
+
+124,359,198.61
+
+$
+
+126,829,842.41
+
+$
+
+126,820,237.35
+
+$
+
+129,446,089.76
+
+$
+
+138,860,934.18
+
+$
+
+143,557,425.49
+
+$
+
+153,527,578.16
+
+$
+
+149,910,416.22
+
+$
+
+152,553,413.82
+
+$
+
+143,357,656.31
+
+$
+
+142,283,872.78
+
+$
+
+146,019,804.33
+
+$
+
+147,895,662.49
+
+$
+
+144,615,376.78
+
+$
+
+150,906,993.62
+
+$
+
+156,431,116.94
+
+$
+
+167,048,878.36
+
+$
+
+164,565,067.99
+
+Unbilled
+
+$
+
+37,529,198.51
+
+$
+
+43,250,153.50
+
+$
+
+46,052,144.63
+
+$
+
+44,660,680.04
+
+$
+
+44,532,100.54
+
+$
+
+36,996,092.02
+
+$
+
+37,008,162.04
+
+$
+
+35,124,243.49
+
+$
+
+36,486,761.19
+
+$
+
+39,238,928.27
+
+Billed
+
+$
+
+287,230,144.21
+
+$
+
+278,798,744.05
+
+$
+
+284,717,704.66
+
+$
+
+293,715,599.66
+
+$
+
+303,658,965.98
+
+$
+
+285,770,323.51
+
+$
+
+300,779,283.36
+
+$
+
+315,355,307.92
+
+$
+
+336,146,532.70
+
+$
+
+320,977,009.96
+
+Total IP and OP Accounts Receivable
+
+$
+
+324,759,342.72
+
+$
+
+322,048,897.55
+
+$
+
+330,769,849.29
+
+$
+
+338,376,279.70
+
+$
+
+348,191,066.52
+
+$
+
+322,766,415.53
+
+$
+
+337,787,445.40
+
+$
+
+350,479,551.41
+
+$
+
+372,633,293.89
+
+$
+
+360,215,938.23
+
+Average Daily Revenue
+
+$
+
+2,797,555.00
+
+$
+
+2,957,056.00
+
+$
+
+3,222,942.00
+
+$
+
+3,416,191.00
+
+$
+
+3,482,248.00
+
+$
+
+3,491,792.00
+
+$
+
+3,471,627.00
+
+$
+
+3,410,158.00
+
+$
+
+3,452,015.00
+
+$
+
+3,427,077.00
+
+Total Inpatient Asccounts Receivable
+
+Outpatient
+
+Total Outpatient Accounts Receivable
+
+Combined Inpatient and Outpatient A/R
+
+Days of Revenue Outstanding
+
+116
+
+109
+
+103
+
+99
+
+Page 44 of 71
+10
+
+100
+
+92
+
+97
+
+103
+
+108
+
+105
+
+ Cook County Health Facilities
+Combining Balance Sheet of General Funds (Unaudited)
+(In Thousands)
+September 30, 2013
+Stroger
+Hospital
+
+ACHN
+(Clinics)
+
+1115
+Waiver
+
+Stroger. ACHN
+O F C
+& 1115 Waiver (Oak Forest)
+
+Provident
+Hospital
+
+Bureau of
+Health
+
+Hospitals
+Total
+
+Dept of
+Public Health
+
+Cermak
+
+Intra-Activity
+Eliminations
+
+Grand Total
+
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents:
+Cash in banks
+
+2,171
+
+0
+
+Cash held by Cook Co Treas
+
+673,906
+
+21,147
+
+Due from working cash fund
+
+60,540
+
+34,607
+
+Total cash & cash equivalent
+
+736,617
+
+34,608
+
+23,375
+
+27,551
+
+2,172
+
+23
+
+208
+
+2,403
+
+695,053
+
+88,978
+
+139,538
+
+923,569
+
+95,147
+21,147
+
+2,403
+130,351
+
+(1,053,920)
+
+95,147
+
+792,371
+
+89,001
+
+139,747
+
+50,926
+
+3,052
+
+4,169
+
+(5,319)
+
+89,828
+
+(1,059,239)
+
+92,231
+
+1,021,119
+
+130,351
+
+60,506
+
+6,723
+
+67,229
+
+Property taxes receivable:
+Tax levy - current year
+Tax levy - prior year
+Total property taxes rec
+
+2,360
+
+3,612
+
+4,285
+
+7,897
+
+680
+
+632
+
+373
+
+9,581
+
+954
+
+10,535
+
+26,987
+
+31,836
+
+58,822
+
+3,732
+
+4,801
+
+2,732
+
+70,087
+
+7,677
+
+77,764
+
+42,790
+
+42,790
+
+578
+
+8,418
+
+51,787
+
+51,787
+
+4,386
+
+4,386
+
+18
+
+997
+
+5,401
+
+5,401
+
+Receivables:
+Patient AR-net of allowances
+Third-party settlements
+Other receivables
+Due from State - sales taxes
+Total receivables
+Inventories
+TOTAL CURRENT ASSETS
+
+463
+
+11
+
+475
+
+0
+
+12
+
+0
+
+487
+
+4,089
+
+4,505
+
+8,594
+
+1,212
+
+1,973
+
+392
+
+12,170
+
+51,729
+
+4,516
+
+56,245
+
+1,808
+
+11,400
+
+392
+
+69,845
+
+2,410
+
+121
+
+1,243
+
+909,848
+
+94,662
+
+157,191
+
+3,124
+
+1,164,825
+
+139,685
+
+3,708
+
+358,951
+
+23,268
+
+20,543
+
+17,014
+
+419,777
+
+1,932
+
+713
+
+1,268,800
+
+117,931
+
+177,734
+
+20,138
+
+1,584,602
+
+141,617
+
+4,421
+
+2,410
+817,742
+
+70,959
+
+353,181
+
+5,770
+
+1,170,924
+
+76,729
+
+21,147
+
+1
+
+488
+
+1,657
+
+3,393
+
+17,220
+
+1,657
+
+3,394
+
+74,896
+
+313
+
+4,088
+
+3,774
+
+(1,059,239)
+
+248,979
+
+CAPITAL ASSETS:
+Depreciable assets - net
+TOTAL ASSETS
+
+21,147
+
+Page 11
+45 of 71
+
+422,422
+(1,059,239)
+
+671,401
+
+ Cook County Health Facilities
+Combining Balance Sheet of General Funds (Unaudited)
+(In Thousands)
+September 30, 2013
+Stroger
+Hospital
+
+ACHN
+(Clinics)
+
+1115
+Waiver
+
+Stroger. ACHN
+O F C
+& 1115 Waiver (Oak Forest)
+
+Provident
+Hospital
+
+Bureau of
+Health
+
+Hospitals
+Total
+
+Dept of
+Public Health
+
+Cermak
+
+Intra-Activity
+Eliminations
+
+Grand Total
+
+LIABILITIES & NET POSITION
+CURRENT LIABILITIES:
+Due to Cook County Treasurer
+Accounts payable
+
+87,046
+
+87,046
+
+891,683
+
+978,729
+
+80,510
+
+(1,059,239)
+
+15,074
+
+439
+
+6
+
+15,519
+
+129
+
+2,300
+
+20,777
+
+38,725
+
+559
+
+108
+
+39,393
+
+& other liabilities
+
+7,867
+
+983
+
+167
+
+9,016
+
+179
+
+808
+
+1,199
+
+11,202
+
+1
+
+1,030
+
+12,233
+
+Compensated absences
+
+4,186
+
+550
+
+4,737
+
+76
+
+488
+
+567
+
+5,868
+
+227
+
+397
+
+6,493
+
+Accrued salaries, wages,
+
+Deferred revenue
+Due from other co govt funds
+Due to others
+
+76,980
+
+76,980
+
+21
+
+21
+
+609
+
+13,168
+
+90,148
+
+5
+
+36
+
+10
+
+90,148
+7
+
+43
+
+609
+
+19
+
+Interacct (payable)receivabl
+
+62,061
+
+79,773
+
+778
+
+142,611
+
+863
+
+40,417
+
+(191,228)
+
+(7,336)
+
+628
+2
+
+7,334
+
+628
+
+TOTAL CURRENT LIABILITIES
+
+166,799
+
+168,791
+
+950
+
+336,540
+
+1,276
+
+57,187
+
+722,998
+
+1,118,000
+
+797
+
+89,380
+
+23,722
+
+3,118
+
+26,840
+
+432
+
+2,768
+
+3,213
+
+33,253
+
+946
+
+2,251
+
+5,115
+
+3,054
+
+8,170
+
+1,222
+
+1,571
+
+296
+
+11,259
+
+1,300
+
+195,636
+
+174,964
+
+371,549
+
+2,929
+
+61,526
+
+726,508
+
+1,162,512
+
+3,043
+
+91,631
+
+Investment in capital assets
+
+353,181
+
+5,770
+
+358,951
+
+23,268
+
+20,543
+
+17,014
+
+419,777
+
+1,932
+
+713
+
+422,422
+
+Beginning balance
+
+663,868 (246,778)
+
+416,701
+
+90,594
+
+103,310
+
+(587,952)
+
+22,653
+
+126,907 (54,429)
+
+95,131
+
+19,847
+
+2,128
+
+1,616
+
+4,344
+
+27,936
+
+(1,059,239)
+
+148,938
+
+LONG-TERM LIABILITIES:
+Compensated absences longterm
+Reserve-tax objection suits
+TOTAL LIABILITIES
+
+950
+
+36,450
+12,559
+(1,059,239)
+
+197,947
+
+NET POSITION:
+
+Bond depreciation
+
+(389)
+
+19,139
+
+708
+
+Excess revenue (expenses)
+
+(60,900)
+
+142,065
+
+20,586
+
+101,750
+
+(989)
+
+(9,261)
+
+(139,776)
+
+Ending balance
+
+975,288
+
+(98,235)
+
+20,197
+
+897,250
+
+115,001
+
+116,208
+
+1,170,924
+
+76,729
+
+21,147
+
+1,268,800
+
+117,931
+
+177,734
+
+181
+
+176
+
+28,293
+
+(48,276)
+
+9,554 (33,670)
+
+(72,392)
+
+(706,370)
+
+422,090
+
+138,574 (87,210)
+
+473,454
+
+20,138
+
+1,584,602
+
+TOTAL LIABILITIES &
+NET POSITION
+
+Page 12
+46 of 71
+
+141,617
+
+4,421
+
+(1,059,239)
+
+671,401
+
+ Cook County Health Facilities
+Combining Income Statement of General Funds (Unaudited)
+(In Thousands)
+September 30, 2013
+Stroger
+Hospital
+
+REVENUE:
+Net patient service revenue
+Grant revenue
+EHR incentive program revenue
+Other revenue
+Total Revenue:
+OPERATING EXPENSES:
+Salaries and wages
+Employee benefits
+Supplies
+Purchased svs, rental & other
+Insurance expense
+Depreciation
+Utilities
+TOTAL OPERATING EXPENSES
+GAIN (LOSS) FROM OPERATIONS
+
+ACHN
+1115
+(Clinics) Waiver
+
+Stroger. ACHN
+O F C
+& 1115 Waiver (Oak Forest)
+
+268,210 124,863 54,832
+
+447,905
+
+5,946
+3,768
+540
+277,924 125,402 54,832
+
+268,266
+71,058
+25,464
+45,458
+5,570
+19,139
+4,554
+439,508
+(161,584)
+
+Provident Bureau of
+Hospital
+Health
+
+Hospitals
+Dept of
+Total
+Public Health
+
+Cermak
+
+Grand Total
+
+4
+
+19,412
+
+467,321
+
+5,946
+4,308
+458,158
+
+296
+300
+
+1,098
+279
+20,789
+
+34
+34
+
+7,044
+4,917
+479,282
+
+296
+1,457
+
+5
+5
+
+467,321
+1,161
+7,044
+5,218
+480,745
+
+35,697 3,039
+10,452
+636
+12,872 11,680
+4,927 19,166
+1,427
+708
+100
+66,184 34,520
+
+307,001
+82,146
+50,015
+69,551
+6,997
+19,847
+4,654
+540,212
+
+6,021
+3,483
+764
+1,479
+432
+2,128
+924
+15,232
+
+28,050
+8,068
+3,317
+7,494
+666
+1,616
+736
+49,947
+
+39,623
+10,386
+36,383
+58,194
+762
+4,344
+1,158
+150,850
+
+380,695
+104,084
+90,479
+136,718
+8,857
+27,936
+7,472
+756,241
+
+8,835
+3,062
+128
+929
+221
+181
+19
+13,375
+
+34,111
+8,447
+1,340
+1,226
+710
+176
+3
+46,013
+
+423,642
+115,593
+91,947
+138,873
+9,789
+28,293
+7,494
+815,630
+
+59,219 20,312
+
+(82,053)
+
+(14,931)
+
+(11,918) (46,008)
+
+(334,885)
+
+27,167
+11,406
+37,530
+1,844
+
+2,992
+3,068
+6,804
+331
+
+4,095
+4,996
+6,989
+338
+
+2,327
+992
+3,256
+160
+
+0
+747
+13,942
+
+0
+3,479
+19,897
+
+0
+4,306
+11,040
+
+59,639
+30,816
+89,398
+4,371
+134
+16
+44,309
+228,683
+
+(989)
+
+(9,261) (139,776)
+
+(48,276)
+
+1,161
+
+NONOPERATING REVENUE:
+Property taxes
+Sales taxes
+Cigarette taxes
+Other Tobacco Product taxes
+Fire Arms taxes
+Interest income
+Retirement plan contribution
+TOTAL NONOPERATING REVENUE
+
+23,059
+10,354
+34,819
+1,698
+134
+15
+30,605
+100,684
+
+274
+274
+
+50,225
+21,761
+72,349
+3,542
+134
+15
+35,778
+183,804
+
+NET INCOME (LOSS)
+
+(60,900) 142,065 20,586
+
+101,750
+
+0
+4,899
+82,846
+
+Page 13
+47 of 71
+
+(29,158) (150,816) (276,959)
+
+6,587
+2,663
+10,415
+434
+
+0
+3,746
+12,338
+
+66,226
+42,071
+99,813
+4,805
+134
+16
+49,428
+262,493
+
+9,554 (33,670)
+
+(72,392)
+
+0
+1,373
+21,473
+
+8,592
+
+ Cook County Health Facilities
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+408,428
+
+58,892
+
+467,321
+
+Grant revenue
+
+1,161
+
+1,161
+
+EHR incentive program revenue
+
+6,577
+
+468
+
+7,044
+
+Other revenue
+
+4,233
+
+985
+
+5,218
+
+Total Revenue
+
+420,400
+
+60,345
+
+480,745
+
+Salaries and wages
+
+379,984
+
+43,658
+
+423,642
+
+Employee benefits
+
+104,153
+
+11,440
+
+115,593
+
+80,637
+
+11,310
+
+91,947
+
+122,462
+
+16,411
+
+138,873
+
+8,817
+
+972
+
+9,789
+
+25,464
+
+2,829
+
+28,293
+
+6,939
+
+555
+
+7,494
+
+728,455
+
+87,175
+
+815,630
+
+(308,055)
+
+(26,830)
+
+(334,885)
+
+Property taxes
+
+59,689
+
+6,538
+
+66,226
+
+Sales taxes
+
+39,399
+
+2,672
+
+42,071
+
+Cigarette taxes
+
+87,026
+
+12,786
+
+99,813
+
+4,356
+
+450
+
+4,805
+
+Fire Arms taxes
+
+104
+
+30
+
+134
+
+Interest income
+
+6
+
+10
+
+16
+
+44,485
+
+4,943
+
+49,428
+
+TOTAL NONOPERATING REVENUE
+
+235,066
+
+27,428
+
+262,493
+
+NET INCOME (LOSS)
+
+(72,989)
+
+OPERATING EXPENSES:
+
+Supplies
+Purchased svs, rental & other
+Insurance expense
+Depreciation
+Utilities
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+NONOPERATING REVENUE:
+
+Other tobacco product taxes
+
+Retirement plan contribution
+
+14
+Page 48 of 71
+
+597
+
+(72,392)
+
+ Stroger Hospital
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+242,566
+
+25,644
+
+268,210
+
+EHR incentive program revenue
+
+5,479
+
+468
+
+5,946
+
+Other revenue
+
+2,980
+
+788
+
+3,768
+
+Total Revenue
+
+251,025
+
+26,899
+
+277,924
+
+Salaries and wages
+
+242,309
+
+25,957
+
+268,266
+
+Employee benefits
+
+64,058
+
+7,000
+
+71,058
+
+Supplies
+
+23,477
+
+1,986
+
+25,464
+
+Purchased svs, rental & other
+
+40,272
+
+5,186
+
+45,458
+
+5,013
+
+557
+
+5,570
+
+17,225
+
+1,914
+
+19,139
+
+4,137
+
+417
+
+4,554
+
+396,491
+
+43,017
+
+439,508
+
+(145,467)
+
+(16,117)
+
+(161,584)
+
+20,779
+
+2,279
+
+23,059
+
+9,720
+
+634
+
+10,354
+
+30,458
+
+4,360
+
+34,819
+
+1,545
+
+153
+
+1,698
+
+Fire Arms taxes
+
+104
+
+30
+
+134
+
+Interest income
+
+5
+
+10
+
+15
+
+Retirement plan contribution
+
+27,544
+
+3,060
+
+30,605
+
+TOTAL NONOPERATING REVENUE
+
+90,156
+
+10,528
+
+100,684
+
+(55,311)
+
+(5,590)
+
+(60,900)
+
+OPERATING EXPENSES:
+
+Insurance expense
+Depreciation
+Utilities
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+NONOPERATING REVENUE:
+Property taxes
+Sales taxes
+Cigarette taxes
+Other tobacco product taxes
+
+NET INCOME (LOSS)
+15
+
+Page 49 of 71
+
+ ACHN (Clinics)
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+112,249
+
+12,613
+
+124,863
+
+Other revenue
+
+458
+
+82
+
+540
+
+Total Revenue
+
+112,707
+
+12,695
+
+125,402
+
+Salaries and wages
+
+32,566
+
+3,130
+
+35,697
+
+Employee benefits
+
+9,421
+
+1,031
+
+10,452
+
+11,138
+
+1,734
+
+12,872
+
+Purchased svs, rental & other
+
+4,469
+
+458
+
+4,927
+
+Insurance expense
+
+1,285
+
+142
+
+1,427
+
+637
+
+71
+
+708
+
+88
+
+12
+
+100
+
+TOTAL OPERATING EXPENSES
+
+59,605
+
+6,579
+
+66,184
+
+GAIN (LOSS) FROM OPERATIONS
+
+53,102
+
+6,117
+
+59,219
+
+Property taxes
+
+24,481
+
+2,685
+
+27,167
+
+Sales taxes
+
+10,708
+
+699
+
+11,406
+
+Cigarette taxes
+
+32,389
+
+5,141
+
+37,530
+
+1,663
+
+181
+
+1,844
+
+0
+
+0
+
+0
+
+4,409
+
+490
+
+4,899
+
+73,650
+
+9,196
+
+82,846
+
+126,752
+
+15,313
+
+142,065
+
+OPERATING EXPENSES:
+
+Supplies
+
+Depreciation
+Utilities
+
+NONOPERATING REVENUE:
+
+Other tobacco product taxes
+Interest income
+Retirement plan contribution
+TOTAL NONOPERATING REVENUE
+
+NET INCOME (LOSS)
+
+16
+Page 50 of 71
+
+ 1115 Waiver
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+36,857
+
+17,975
+
+54,832
+
+Total Revenue
+
+36,857
+
+17,975
+
+54,832
+
+2,485
+
+554
+
+3,039
+
+573
+
+63
+
+636
+
+OPERATING EXPENSES:
+Salaries and wages
+Employee benefits
+Supplies
+
+11,680
+
+Purchased svs, rental & other
+
+16,748
+
+2,417
+
+19,166
+
+TOTAL OPERATING EXPENSES
+
+31,485
+
+3,035
+
+34,520
+
+5,372
+
+14,940
+
+20,312
+
+Retirement plan contribution
+
+247
+
+27
+
+274
+
+TOTAL NONOPERATING REVENUE
+
+247
+
+27
+
+274
+
+5,618
+
+14,968
+
+20,586
+
+GAIN (LOSS) FROM OPERATIONS
+
+11,680
+
+NONOPERATING REVENUE:
+
+NET INCOME (LOSS)
+
+17
+Page 51 of 71
+
+ Oak Forest Health Center
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+4
+
+0
+
+4
+
+Other revenue
+
+272
+
+24
+
+296
+
+Total Revenue
+
+276
+
+24
+
+300
+
+Salaries and wages
+
+5,503
+
+518
+
+6,021
+
+Employee benefits
+
+3,135
+
+348
+
+3,483
+
+716
+
+48
+
+764
+
+1,289
+
+190
+
+1,479
+
+395
+
+37
+
+432
+
+1,916
+
+213
+
+2,128
+
+800
+
+124
+
+924
+
+13,753
+
+1,479
+
+15,232
+
+(13,477)
+
+(1,455)
+
+(14,931)
+
+OPERATING EXPENSES:
+
+Supplies
+Purchased svs, rental & other
+Insurance expense
+Depreciation
+Utilities
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+NONOPERATING REVENUE:
+Property taxes
+
+2,698
+
+294
+
+2,992
+
+Sales taxes
+
+2,880
+
+188
+
+3,068
+
+Cigarette taxes
+
+5,992
+
+812
+
+6,804
+
+302
+
+29
+
+331
+
+0
+
+0
+
+0
+
+672
+
+75
+
+747
+
+12,544
+
+1,398
+
+13,942
+
+Other tobacco product taxes
+Interest income
+Retirement plan contribution
+TOTAL NONOPERATING REVENUE
+
+NET INCOME (LOSS)
+
+(933)
+
+(57)
+
+Notes:
+Patient revenue for Oak Forest are recorded in Stroger Hospital and/or Ambulatory Clincs.
+18
+Page 52 of 71
+
+(989)
+
+ Provident Hospital
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Net patient service revenue
+
+16,753
+
+EHR incentive program revenue
+
+2,659
+
+1,098
+
+19,412
+1,098
+
+Other revenue
+
+191
+
+88
+
+279
+
+Total Revenue
+
+18,042
+
+2,747
+
+20,789
+
+Salaries and wages
+
+22,577
+
+5,473
+
+28,050
+
+Employee benefits
+
+7,227
+
+840
+
+8,068
+
+Supplies
+
+3,166
+
+150
+
+3,317
+
+Purchased svs, rental & other
+
+6,818
+
+676
+
+7,494
+
+600
+
+67
+
+666
+
+1,455
+
+162
+
+1,616
+
+735
+
+2
+
+736
+
+42,578
+
+7,369
+
+49,947
+
+(24,536)
+
+(4,622)
+
+(29,158)
+
+OPERATING EXPENSES:
+
+Insurance expense
+Depreciation
+Utilities
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+NONOPERATING REVENUE:
+Property taxes
+
+3,688
+
+407
+
+4,095
+
+Sales taxes
+
+4,690
+
+306
+
+4,996
+
+Cigarette taxes
+
+6,212
+
+778
+
+6,989
+
+311
+
+27
+
+338
+
+0
+
+0
+
+0
+
+3,131
+
+348
+
+3,479
+
+TOTAL NONOPERATING REVENUE
+
+18,031
+
+1,866
+
+19,897
+
+NET INCOME (LOSS)
+
+(6,505)
+
+(2,757)
+
+(9,261)
+
+Other tobacco product taxes
+Interest income
+Retirement plan contribution
+
+19
+Page 53 of 71
+
+ Bureau of Health
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Other revenue
+
+34
+
+34
+
+Total Revenue
+
+34
+
+34
+
+OPERATING EXPENSES:
+Salaries and wages
+
+35,659
+
+3,964
+
+39,623
+
+Employee benefits
+
+9,365
+
+1,022
+
+10,386
+
+Supplies
+
+29,077
+
+7,306
+
+36,383
+
+Purchased svs, rental & other
+
+50,986
+
+7,207
+
+58,194
+
+686
+
+76
+
+762
+
+Depreciation
+
+3,910
+
+434
+
+4,344
+
+Utilities
+
+1,158
+
+Insurance expense
+
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+1,158
+
+130,840
+
+20,010
+
+150,850
+
+(130,806)
+
+(20,010)
+
+(150,816)
+
+NONOPERATING REVENUE:
+Property taxes
+Sales taxes
+Cigarette taxes
+Other tobacco product taxes
+
+2,097
+
+230
+
+2,327
+
+931
+
+61
+
+992
+
+2,815
+
+440
+
+3,256
+
+144
+
+15
+
+160
+
+Interest income
+
+0
+
+0
+
+Retirement plan contribution
+
+3,875
+
+431
+
+4,306
+
+TOTAL NONOPERATING REVENUE
+
+9,863
+
+1,177
+
+11,040
+
+(18,833)
+
+(139,776)
+
+NET INCOME (LOSS)
+
+(120,943)
+
+20
+Page 54 of 71
+
+ Dept of Public Health
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Grant revenue
+
+1,161
+
+1,161
+
+Other revenue
+
+292
+
+3
+
+296
+
+Total Revenue
+
+1,454
+
+3
+
+1,457
+
+Salaries and wages
+
+8,013
+
+822
+
+8,835
+
+Employee benefits
+
+2,757
+
+305
+
+3,062
+
+87
+
+41
+
+128
+
+Purchased svs, rental & other
+
+790
+
+139
+
+929
+
+Insurance expense
+
+199
+
+22
+
+221
+
+Depreciation
+
+163
+
+18
+
+181
+
+19
+
+0
+
+19
+
+12,028
+
+1,348
+
+13,375
+
+(10,574)
+
+(1,344)
+
+(11,918)
+
+OPERATING EXPENSES:
+
+Supplies
+
+Utilities
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+NONOPERATING REVENUE:
+Property taxes
+
+5,945
+
+642
+
+6,587
+
+Sales taxes
+
+2,406
+
+257
+
+2,663
+
+Cigarette taxes
+
+9,160
+
+1,255
+
+10,415
+
+390
+
+44
+
+434
+
+0
+
+0
+
+0
+
+1,236
+
+137
+
+1,373
+
+19,138
+
+2,335
+
+21,473
+
+8,564
+
+990
+
+9,554
+
+Other tobacco product taxes
+Interest income
+Retirement plan contribution
+TOTAL NONOPERATING REVENUE
+
+NET INCOME (LOSS)
+
+21
+Page 55 of 71
+
+ Cermak
+Comparative Income Statement of General Funds (Unaudited)
+(In Thousands)
+Year to Date September 30, 2013
+August 31, 2013
+
+September 30, 2013
+
+Inc (Dec)
+
+REVENUE:
+Other revenue
+
+5
+
+0
+
+5
+
+Total Revenue
+
+5
+
+0
+
+5
+
+Salaries and wages
+
+30,872
+
+3,239
+
+34,111
+
+Employee benefits
+
+7,616
+
+831
+
+8,447
+
+Supplies
+
+1,296
+
+44
+
+1,340
+
+Purchased svs, rental & other
+
+1,089
+
+137
+
+1,226
+
+Insurance expense
+
+639
+
+71
+
+710
+
+Depreciation
+
+158
+
+18
+
+176
+
+OPERATING EXPENSES:
+
+Utilities
+
+3
+
+TOTAL OPERATING EXPENSES
+
+GAIN (LOSS) FROM OPERATIONS
+
+3
+
+41,674
+
+4,339
+
+46,013
+
+(41,669)
+
+(4,339)
+
+(46,008)
+
+NONOPERATING REVENUE:
+Sales taxes
+
+8,065
+
+526
+
+8,592
+
+0
+
+0
+
+0
+
+3,371
+
+375
+
+3,746
+
+11,437
+
+901
+
+12,338
+
+Interest income
+Retirement plan contribution
+TOTAL NONOPERATING REVENUE
+
+NET INCOME (LOSS)
+
+(30,232)
+
+22
+Page 56 of 71
+
+(3,438)
+
+(33,670)
+
+ COOK COUNTY HEALTH AND HOSPITALS SYSTEM
+
+FINANCIAL STATEMENT DISCLOSURE CHECKLIST
+OBJECTIVE:
+
+Fiscal Year 2013
+
+The object of this checklist is to help determine if the form and contents of the financial statements
+are in conformity with the accounting standards applicable to financial statement basis of accounting.
+DISCLOSURE PRINCIPLES:
+Note: Management can comply with a disclosure principle by making disclosure in body of financial statements
+or in the notes accompanying the financial statements. In a compilation engagement, management's election to
+omit substantially all disclosures applies to all disclosure principles in GAAP financial statements.
+
+Yes, N/A, No?
+
+If no, state reason
+(immaterial, estimated, etc.)
+
+FINANCIAL STATEMENT REFERENCES:
+1. Do the financial statements reference footnotes (MD&A) or
+selected information?
+Yes
+
+GENERAL DISCLOSURES:
+A. Estimates:
+1. General disclosure about use of estimates (MD&A)?
+2. Disclosure of possible changes in estimates?
+
+Yes
+Yes
+
+B. Vulnerabilities do to concentrations in following areas
+disclosed?:
+1. Customers?
+2. Suppliers?
+3. Lenders?
+4. Products?
+5. Supply of materials, labor or supplies?
+6. Location of assets in geographic area?
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+C. Related parties (FASB 57):
+1. Known common control and economic dependency
+disclosure?
+2. Known transactions with related parties disclosed?
+
+Yes
+Yes
+
+OTHER DISCLOSURE AREAS TO BE CONSIDERED:
+1. Method of consolidations?
+2. Accounting changes including changes in GAAP and in
+estimates?
+3. Business combinations?
+4. Discontinues operations?
+5. Going concern?
+
+Yes
+Yes
+Yes
+Yes
+Yes
+
+COMMENTS:
+
+Completed by ______________________________________
+
+Date _____________________
+
+Reviewed by ______________________________________
+
+Date _____________________
+
+23
+
+Page 57 of 71
+
+ Cook County Health and Hospitals System
+
+Financial Operations and Statistical Reports
+(Non GAAP)
+
+For the Month Ended September 30, 2013
+
+1
+Page 58 of 71
+
+ Index
+
+Page
+
+1. Actual vs. Budget – Cash Receipts . . . . . . . . . . . . . . . . . 3 - 5
+2. Actual vs. Budget – Expenses per Adjusted Patient Days . 6
+3. Payer Mix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 - 9
+4. Utilization Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 -13
+5. Case Mix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+2
+Page 59 of 71
+
+ Cash Report as of:
+
+9/30/2013
+
+For the Month September-2013
+Actual
+Budget
+SHCC
+Medicare
+Medicaid
+Other
+Physician Billing
+
+$
+
+Medicaid Retroactive Payment
+
+UPL Medicaid Payment
+
+4,090,593
+11,851,367
+2,031,364
+674,841
+-
+
+$
+
+4,106,514
+9,861,380
+1,606,263
+925,653
+-
+
+Cumulative Cash Report as of:
+9/30/2013
+***Final Cash Report ***
+Cumulative Cash Summary Through September-2013
+Variance
+Actual
+Budget
+Variance
+SHCC
+$
+(15,921) Medicare
+$ 49,892,372 $
+41,612,683 $ 8,279,689
+1,989,987
+Medicaid
+92,195,454
+106,009,835
+(13,814,381)
+425,101
+Other
+20,401,232
+16,276,791
+4,124,441
+(250,812) Physician Billing
+7,122,220
+9,520,106
+(2,397,886)
+Medicaid Retroactive Payment
+UPL Medicaid Payment
+3,045,362
+3,045,362
+
+Vendor Payments From Revenue
+
+Vendor Payments From Revenue
+
+Pharmacy Billing
+Collection Agency
+
+(393,800)
+467,500
+
+Revenue Enhancement
+Physician Billing Refunds
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+16,824,645
+CountyCare / 1115
+Waiver Administrative Fees
+Physician Contract
+Payments & Revenues
+5,226
+Totals
+$ 35,551,736
+
+$
+
+Medicaid Retroactive Payment
+
+UPL Medicaid Payment
+
+(393,800)
+(158,117)
+
+28,778,570
+
+(11,953,925)
+
+-
+
+$
+
+Actual
+PHCC
+Medicare
+Medicaid
+Other
+Physician Billing
+
+625,617
+
+78,610
+45,982,607
+
+(73,384)
+$ (10,430,871)
+
+Budget
+
+177,839
+1,100,047
+120,241
+56,151
+-
+
+$
+
+-
+
+Revenue Enhancement
+Physician Billing Refunds
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+CountyCare / 1115
+Waiver Administrative Fees
+Physician Contract
+Payments & Revenues
+Totals
+$
+
+1,150,403
+
+$
+
+(34,781)
+684,000
+19,744
+14,032
+-
+
+$
+
+Medicaid Retroactive Payment
+
+UPL Medicaid Payment
+
+89,580
+
+(89,580)
+
+1,967,766
+
+(817,363)
+
+2,604,681
+
+-
+
+$
+
+Actual
+
+2,828,629
+
+-
+
+$
+
+Budget
+
+22,579
+616,287
+24,915
+32,202
+-
+
+$
+
+(223,948)
+
+Pharmacy Billing
+Collection Agency
+
+-
+
+Physician Billing Refunds
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+CountyCare / 1115
+Waiver Administrative Fees
+Physician Contract
+Payments & Revenues
+Totals
+$
+
+$
+
+(2,672)
+490,756
+(13,618)
+20,448
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+695,983
+
+$
+
+Actual
+$
+
+4,291,011
+13,567,701
+2,176,520
+763,194
+-
+
+201,069
+
+$
+
+Budget
+$
+
+494,914
+
+Revenue Enhancement
+Physician Billing Refunds
+
+Physician Contract
+Payments & Revenues
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+CountyCare / 1115
+Waiver Administrative Fees
+DSH
+Retro-Active DSH
+BIPA
+
+Medicaid Retroactive Payment
+
+UPL Medicaid Payment
+
+Pharmacy Billing
+Collection Agency
+Revenue Enhancement
+Physician Billing Refunds
+
+$
+
+(53,374)
+3,164,743
+431,227
+(216,332)
+-
+
+$
+
+$
+
+Medicaid Retroactive Payment
+
+UPL Medicaid Payment
+
+Pharmacy Billing
+Collection Agency
+Revenue Enhancement
+Physician Billing Refunds
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+CountyCare / 1115
+Waiver Administrative Fees
+Physician Contract
+Payments & Revenues
+Totals
+$
+
+116,975,051
+
+(65,652,260)
+
+1,527,610
+
+Variance
+
+2,154,554
+4,472,506
+1,018,377
+433,177
+-
+
+$
+
+(28,468)
+(18,426)
+892,206
+
+7,998,294
+
+(4,489,042)
+
+16,984,658
+
+-
+
+$
+
+Budget
+
+64,217 $
+2,662,947
+383,185
+305,068
+925,566
+(5,875)
+-
+
+(1,342,432)
+1,631,200
+5,793
+197,975
+1,032,208
+
+907,750
+
+-
+
+$
+
+(2,118,986)
+
+Variance
+
+255,872
+1,349,459
+390,465
+120,889
+-
+
+$
+
+(191,655)
+1,313,488
+(7,280)
+184,179
+925,566
+
+-
+
+(5,875)
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4,335,108
+
+Actual
+SYSTEM
+Medicare
+Medicaid
+Other
+Physician Billing
+
+$ 50,768,711
+100,962,107
+21,808,587
+8,058,440
+Medicaid Retroactive Payment
+UPL Medicaid Payment
+5,003,136
+
+2,116,685
+
+$
+
+$
+
+Budget
+$
+
+-
+
+(434,295)
+$ (67,053,668)
+
+Budget
+
+Actual
+OFHC
+Medicare
+Medicaid
+Other
+Physician Billing
+
+(373,687)
+(1,853,197)
+(27,066)
+522,002
+
+796,579
+297,530,631
+
+812,122 $
+6,103,706
+1,024,170
+631,152
+1,032,208
+(28,468)
+(18,426)
+1,799,956
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+3,509,252
+CountyCare / 1115
+Waiver Administrative Fees
+Physician Contract
+Payments & Revenues
+Totals
+$ 14,865,672
+
+Variance
+
+4,344,385
+10,402,958
+1,745,293
+979,526
+-
+
+Vendor Payments From Revenue
+
+Pharmacy Billing
+Collection Agency
+
+$
+
+6,339,586
+
+-
+
+Actual
+PHCC
+Medicare
+Medicaid
+Other
+Physician Billing
+
+Vendor Payments From Revenue
+
+Revenue Enhancement
+
+UPL Medicaid Payment
+
+Physician Billing Refunds
+
+Variance
+
+25,251
+125,531
+38,533
+11,754
+-
+
+Vendor Payments From Revenue
+
+Medicaid Retroactive Payment
+
+Revenue Enhancement
+
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+51,322,791
+CountyCare / 1115
+Waiver Administrative Fees
+1,527,610
+Physician Contract
+Payments & Revenues
+362,284
+Totals
+$ 230,476,963
+
+Vendor Payments From Revenue
+
+Pharmacy Billing
+Collection Agency
+
+SYSTEM
+Medicare
+Medicaid
+Other
+Physician Billing
+
+(373,687)
+(1,853,197)
+(27,066)
+6,861,588
+
+Variance
+
+212,620
+416,047
+100,497
+42,119
+-
+
+Vendor Payments From Revenue
+
+OFHC
+Medicare
+Medicaid
+Other
+Physician Billing
+
+Pharmacy Billing
+Collection Agency
+
+2,218,423
+
+Variance
+
+44,023,109
+111,831,800
+17,685,633
+10,074,172
+-
+
+$
+
+6,745,602
+(10,869,693)
+4,122,954
+(2,015,732)
+5,003,136
+
+Vendor Payments From Revenue
+
+(393,800)
+-
+
+-
+
+(393,800)
+-
+
+5,226
+467,500
+
+78,610
+715,197
+
+(73,384)
+(247,697)
+
+17,975,048
+
+30,746,336
+
+(12,771,288)
+
+13,528,186
+Medicaid Malpractice Retro
+Totals
+$ 52,380,586
+
+12,567,309
+61,579,614
+
+960,877
+(9,199,028)
+
+$
+
+$
+
+Pharmacy Billing
+Collection Agency
+Revenue Enhancement
+Physician Billing Refunds
+
+Physician Contract
+Payments & Revenues
+Meaningful Use
+CountyCare / 1115
+Waiver - Capitation
+CountyCare / 1115
+Waiver Administrative Fees
+DSH
+Retro-Active DSH
+BIPA
+
+(28,468)
+(397,988)
+(1,853,197)
+(27,066)
+
+-
+
+(28,468)
+(397,988)
+(1,853,197)
+(27,066)
+
+362,284
+8,661,544
+
+796,579
+7,247,336
+
+(434,295)
+1,414,208
+
+54,832,043
+
+124,973,345
+
+(70,141,302)
+
+1,527,610
+133,360,106
+10,374,628
+93,900,000
+Medicaid Malpractice Retro
+Totals
+$ 487,312,477
+
+125,673,090
+93,751,000
+536,056,064
+
+1,527,610
+7,687,016
+10,374,628
+149,000
+(48,743,587)
+
+$
+
+Included in SHCC's cumulative Medicare revenue for FY 2013 are cost report settlements totaling $4,889,764.
+PHCC has returned $980,957 in Medicare cost reports settlements this fiscal year.
+PHCC has received $240,117 in Medicare cost reports settlements this fiscal year.
+OFHC has returned $61,169 in Medicare cost reports settlements this fiscal year.
+The Medicaid fee-for-service revenue through the IGT covers the period beginning week ended 08/14/13 - 09/11/13 .
+Vendor Payments From Revenue are payments out of revenue posted by the County Comptroller. Pharmacy Billing and Revenue Enhancement
+payments are reductions to Medicaid revenue. Collection Agency payments are reductions to Self-Pay (Other) revenue. Physician Billing payments
+include refunds processed by CCHHS. Included in the "Revenue Enhancement" totals are payments to the state for supplemental workers
+hired to help clear the Medicaid backlog.
+The Meaningful Use budget is spread over 12 months, as it is not known in which month this payment will be received. Meaningful Use includes
+both the Medicare and Medicaid portions.
+
+Page 60 of 71
+3
+
+Cash Sum-2013-0930 Final
+
+ CCHHS Cumulative Net Patient Fee Cash Receipts
+Through September-2013
+Medicaid
+$99,080,442
+58%
+
+Medicare
+$50,768,711
+30%
+
+Page 61 of 71
+- The receipts on this graph are net of any payments out of revenue.
+
+Commercial
+Self-Pay $16,322,187
+$5,088,412 9%
+3%
+4
+
+ CCHHS Cumulative Total Net Cash Receipts Through September-2013
+UPL Medicaid Payment
+$5,003,136
+1%
+
+BIPA
+$93,900,000
+19%
+CountyCare / 1115 Waiver
+$56,359,653
+12%
+
+DSH
+$133,360,106
+27%
+
+Medicare
+$50,768,711
+11%
+
+Commercial
+$16,322,187
+3%
+
+Medicaid
+$99,080,442
+20%
+
+Physician Contracts
+$362,284
+0%
+Meaninful Use
+$8,661,544
+2%
+Physician Billing
+$8,031,374
+2%
+
+Retro-Active DSH
+$10,374,628
+2%
+Self-Pay
+$5,088,412
+1%
+Page 62 of 71
+
+- The receipts on this graph are net of any payments out of revenue.
+
+5
+
+ Cook County Health Facilities
+System Expenses per Adjusted Patient Days
+Budget and Actual (Non-GAAP Budget Basis)
+As of September 30, 2013
+Institution
+
+Actual
+
+Budget
+
+Variance
+
+Stroger
+
+$
+
+4,191
+
+$
+
+4,073
+
+-2.92%
+
+Provident
+
+$
+
+4,246
+
+$
+
+3,889
+
+-9.16%
+
+6
+Page 63 of 71
+
+ 0.1%
+0.3%
+
+0.5%
+
+0.3%
+
+2.3%
+
+0.0%
+
+0.1%
+
+14.7%
+
+10.5%
+
+0.2%
+
+0.1%
+
+0.3%
+
+1.5%
+0.6%
+
+19.0%
+23.3%
+
+34.7%
+
+2.7%
+1.1%
+
+29.9%
+
+30.5%
+
+10.6%
+
+22.5%
+
+1.9%
+
+21.9%
+13.7%
+
+22.0%
+13.4%
+
+10.7%
+
+10.6%
+
+CCHHS IP, OP, And Combined Payer Mix For Sept-2013 (Based Upon Charges)
+Assumes 30% Of Accounts Accepted By Vendor Successfully Converted To Medicaid
+
+Medicare
+
+Medicaid
+(Incl. MANG)
+
+1115 Waiver
+
+Commercial
+
+Self-Pay
+
+Page 64 of 71
+- The data in this graph is based upon charges.
+In-Patient
+Out-Patient
+- Other includes Grants, Risk Management, and Workman's Compensation.
+
+Charity
+
+Combined
+
+Cermak
+
+Public Health
+
+Institutional
+
+Other
+
+7
+
+ 1115 Waiver
+
+Commercial
+
+Self-Pay
+
+Page 65 of 71
+- The data in this graph is based upon charges.
+In-Patient
+Out-Patient
+- Other includes Grants, Risk Management, and Workman's Compensation.
+
+Charity
+
+Combined
+
+Cermak
+
+0.2%
+0.1%
+0.2%
+
+Public Health
+
+0.0%
+
+0.0%
+Medicaid
+(Incl. MANG)
+
+0.3%
+
+0.5%
+1.2%
+15.4%
+
+31.5%
+
+2.9%
+
+10.9%
+
+26.2%
+
+11.7%
+Medicare
+
+0.2%
+
+0.3%
+
+1.0%
+0.7%
+
+21.6%
+27.7%
+
+32.8%
+34.6%
+
+2.6%
+2.3%
+
+8.3%
+5.7%
+
+22.2%
+18.2%
+
+9.9%
+
+10.8%
+
+Cumlative CCHHS IP, OP, And Combined Payer Mix Through Sept-2013 (Based Upon Charges)
+Assumes 30% Of Accounts Accepted By Eligibility Vendor Successfully Converted To Medicaid
+
+Institutional
+
+Other
+
+8
+
+ IP And OP Cumulative Combined Payer Mix Comparison (Based Upon Charges)
+Cook County Health And Hospitals System
+Prior 13 Months Ending Sept-2013
+Assumes 30% of Accounts Accepted By Eligibility Vendor Successfully Converted To Medicaid
+100%
+90%
+
+57.5%
+
+2.4%
+
+2.5%
+
+2.6%
+
+2.7%
+
+56.1%
+
+57.2%
+
+56.3%
+
+2.5%
+
+58.3%
+
+57.3%
+
+2.6%
+
+2.3%
+
+2.8%
+
+58.7%
+
+57.4%
+
+2.6%
+
+58.4%
+
+2.6%
+
+27.3%
+
+57.2%
+
+2.8%
+
+60.2%
+
+56.9%
+
+70%
+
+57.3%
+
+80%
+
+60%
+50%
+
+23.4%
+
+22.2%
+
+10.8%
+
+10.8%
+
+10.8%
+
+26.8%
+
+2.0%
+
+10.8%
+
+10.9%
+
+22.2%
+
+23.3%
+
+27.6%
+
+10.8%
+
+8.3%
+
+23.4%
+
+6.8%
+
+4.6%
+
+10.9%
+
+6.0%
+
+26.9%
+
+5.1%
+
+3.6%
+
+2.6%
+
+10.4%
+
+27.3%
+
+30.2%
+
+30.4%
+
+30%
+
+2.3%
+
+30.1%
+
+40%
+
+2.6%
+
+20%
+
+10.3%
+
+10.2%
+
+10.0%
+
+10.1%
+
+1.2%
+
+9.8%
+
+10%
+0%
+
+Medicare
+
+1115 Waiver
+
+Medicaid
+Page 66(Incl.
+of 71 MANG)
+9
+
+Commercial
+
+Self-Pay
+
+ CCHHS Utilization Factors
+Assumes 30% of Accounts Accepted by Eligibility Vendor Successfully Converted to Medicaid
+September-2013
+Admissions
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+
+Total Admissions
+
+Actual
+230
+324
+26
+172
+52
+815
+220
+28
+2
+2
+1,871
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+219
+11
+20
+18
+2
+557
+(233)
+9
+21
+(12)
+26
+172
+15
+15
+26
+26
+5
+1
+4
+1,169
+(354)
+43
+83
+(40)
+220
+12
+12
+28
+2
+2
+1,971
+(100)
+104
+123
+(19)
+
+System Total
+Actual
+250
+333
+26
+187
+57
+858
+232
+28
+2
+2
+1,975
+
+Budget Variance
+237
+13
+578
+(245)
+26
+187
+27
+30
+1,252
+(394)
+232
+28
+2
+2
+2,094
+(119)
+
+Patient Days
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+
+Total Patient Days
+
+Actual
+1,035
+1,855
+94
+815
+249
+3,916
+869
+156
+8
+24
+9,021
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+999
+36
+96
+73
+23
+3,269
+(1,414)
+33
+88
+(55)
+94
+815
+66
+66
+342
+(93)
+10
+11
+(1)
+4,701
+(785)
+212
+328
+(116)
+869
+28
+28
+156
+8
+24
+9,311
+(290)
+445
+500
+(55)
+
+System Total
+Actual
+1,131
+1,888
+94
+881
+259
+4,128
+897
+156
+8
+24
+9,466
+
+Budget Variance
+1,072
+59
+3,357
+(1,469)
+94
+881
+353
+(94)
+5,029
+(901)
+897
+156
+8
+24
+9,811
+(345)
+
+Adjusted Patient Days
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+Total Adjusted Patient Days
+
+Actual
+2,013
+3,640
+183
+1,585
+484
+7,617
+1,690
+303
+16
+47
+17,578
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+2,288
+(275)
+359
+326
+33
+7,487
+(3,847)
+112
+393
+(281)
+183
+1,585
+247
+247
+783
+(299)
+37
+49
+(12)
+10,768
+(3,151)
+792
+377
+415
+1,690
+105
+105
+303
+16
+47
+21,326
+(3,748)
+1,652
+1,145
+507
+
+System Total
+Actual
+2,372
+3,752
+183
+1,832
+521
+8,409
+1,795
+303
+16
+47
+19,230
+
+Budget Variance
+2,614
+(242)
+7,880
+(4,128)
+183
+1,832
+832
+(311)
+11,145
+(2,736)
+1,795
+303
+16
+47
+22,471
+(3,241)
+
+Average Length of Stay
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Grants
+Cermak
+Institutional
+Public Health
+Workmens' Compensation
+
+Overall Average LOS
+
+Actual
+3.9
+5.9
+2.5
+5.1
+4.3
+4.6
+3.7
+5.8
+4.0
+10.0
+4.7
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+4.8
+(0.9)
+4.9
+3.7
+1.2
+4.8
+1.1
+3.7
+3.7
+4.8
+(2.3)
+4.8
+0.3
+4.5
+3.7
+0.8
+4.8
+(0.5)
+2.0
+3.7
+(1.7)
+4.8
+(0.2)
+4.1
+3.7
+0.4
+4.8
+(1.1)
+2.3
+3.7
+(1.4)
+4.8
+1.0
+4.8
+(0.8)
+4.8
+5.2
+4.8
+(0.1)
+3.9
+3.7
+0.2
+
+-The primary insurance has been used to determine "Payer Type".
+Page 67 of 71
+-The "Payer Type" represents the financial class in which the patient presented to CCHHS; not necessarily the final financial class for the patient.
+
+10
+
+ CCHHS Utilization Factors
+Assumes 30% of Accounts Accepted by Eligibility Vendor Successfully Converted to Medicaid
+Cumulative For Fiscal Year 2013 Through September-2013
+Admissions
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+
+Total Admissions
+
+Actual
+2,427
+4,961
+40
+654
+439
+8,279
+2,478
+285
+2
+2
+8
+12
+19,587
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+2,068
+359
+168
+189
+(21)
+6,119
+(1,158)
+206
+236
+(30)
+40
+654
+58
+58
+566
+(127)
+29
+28
+1
+10,957
+(2,678)
+552
+930
+(378)
+2,478
+181
+181
+285
+1
+1
+2
+2
+8
+1
+1
+12
+19,710
+(123)
+1,196
+1,383
+(187)
+
+System Total
+Actual
+2,595
+5,167
+40
+712
+468
+8,831
+2,659
+286
+2
+2
+9
+12
+20,783
+
+Budget Variance
+2,257
+338
+6,355
+(1,188)
+40
+712
+594
+(126)
+11,887
+(3,056)
+2,659
+286
+2
+2
+9
+12
+21,093
+(310)
+
+Patient Days
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+
+Total Patient Days
+
+Actual
+10,740
+24,760
+136
+3,201
+2,514
+39,321
+10,037
+1,166
+33
+29
+35
+124
+92,096
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+10,122
+618
+734
+743
+(9)
+33,127
+(8,367)
+853
+890
+(37)
+136
+6
+6
+3,201
+241
+241
+3,464
+(950)
+87
+111
+(24)
+47,640
+(8,319)
+2,206
+3,321
+(1,115)
+10,037
+631
+631
+1,166
+1
+1
+33
+29
+35
+2
+2
+124
+94,353
+(2,257)
+4,761
+5,065
+(304)
+
+System Total
+Actual
+11,474
+25,613
+142
+3,442
+2,601
+41,527
+10,668
+1,167
+33
+29
+37
+124
+96,857
+
+Budget Variance
+10,865
+609
+34,017
+(8,404)
+142
+3,442
+3,575
+(974)
+50,961
+(9,434)
+10,668
+1,167
+33
+29
+37
+124
+99,418
+(2,561)
+
+Adjusted Patient Days
+Stroger Hospital
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants
+Institutional
+Public Health
+Workmens' Compensation
+Total Adjusted Patient Days
+
+Actual
+20,798
+47,759
+266
+6,224
+4,874
+76,149
+19,436
+2,259
+65
+57
+69
+242
+178,198
+
+Provident Hospital
+
+Budget
+Variance Actual Budget Variance
+22,616
+(1,818)
+2,529
+3,126
+(597)
+73,941 (26,182)
+2,861
+3,756
+(895)
+266
+20
+20
+6,224
+856
+856
+7,745
+(2,871)
+300
+469
+(169)
+106,480 (30,331)
+7,492
+7,673
+(181)
+19,436
+2,118
+2,118
+2,259
+3
+3
+65
+57
+69
+7
+7
+242
+210,782 (32,584) 16,186 15,024
+1,162
+
+System Total
+Actual
+23,327
+50,620
+286
+7,080
+5,174
+83,641
+21,554
+2,262
+65
+57
+76
+242
+194,384
+
+Budget Variance
+25,742
+(2,415)
+77,697 (27,077)
+286
+7,080
+8,214
+(3,040)
+114,153 (30,512)
+21,554
+2,262
+65
+57
+76
+242
+225,806 (31,422)
+
+-The primary insurance has been used to determine "Payer Type".
+Page 68 of 71
+-The "Payer Type" represents the financial class in which the patient presented to CCHHS; not necessarily the final financial class for the patient.
+
+11
+
+ CCHHS Utilization Factors
+Assumes 30% of Accounts Accepted by Eligibility Vendor Successfully Converted to Medicaid
+Emergency Room And Immediate Care Visits For September-2013
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+Stroger Hospital
+ER Patients
+Total Visits
+Treated And Admissions
+Before
+Total Visits
+Released
+Elopes
+ER Elopes & Elopes
+From ER
+456
+186
+642
+78
+720
+1,126
+205
+1,331
+155
+1,486
+50
+17
+67
+1
+68
+641
+126
+767
+79
+846
+237
+38
+275
+14
+289
+5,225
+604
+5,829
+727
+6,556
+764
+140
+904
+80
+984
+57
+28
+85
+2
+87
+1
+1
+1
+11
+2
+13
+3
+16
+7
+7
+1
+8
+4
+1
+5
+5
+8,579
+1,347
+9,926
+1,140
+11,066
+Budget
+Variance
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+10,277
+(351)
+
+Budget
+Variance
+
+Oak Forest Health Center
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+Budget
+Variance
+
+Immediate
+Care Visits
+47
+57
+129
+19
+858
+180
+1,290
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+1,608
+(318)
+
+Percent Of Admissions From Emergency Room For Month Of September-2013
+SHCC
+PHCC
+CCHHS
+ER Admissions
+1,347
+93
+1,440
+Total Admisisons
+1,871
+104
+1,975
+% of ER Admissions
+72%
+89%
+73%
+
+Provident Hospital
+Treated
+Visits
+And
+Admissions Before
+Released
+Elopes
+From ER
+189
+20
+209
+389
+8
+397
+1
+1
+258
+13
+271
+70
+5
+75
+1,468
+41
+1,509
+177
+6
+183
+6
+6
+2,558
+93
+2,651
+
+ER Elopes
+7
+56
+18
+5
+171
+15
+1
+273
+
+Total Visits
+& Elopes
+216
+453
+1
+289
+80
+1,680
+198
+6
+1
+2,924
+
+2,704
+(53)
+
+ER and Immediate Care Total
+ER Patients
+Total ER and
+Total Visits
+Treated
+Immediate
+Admissions Immediate
+Before
+And
+Care Visits
+From ER Care Visits
+Elopes
+ER Elopes with Elopes
+Released
+645
+206
+47
+898
+85
+983
+1,515
+213
+57
+1,785
+211
+1,996
+51
+17
+68
+1
+69
+899
+139
+129
+1,167
+97
+1,264
+307
+43
+19
+369
+19
+388
+6,693
+645
+858
+8,196
+898
+9,094
+941
+146
+180
+1,267
+95
+1,362
+57
+28
+85
+2
+87
+1
+1
+1
+11
+2
+13
+3
+16
+13
+13
+1
+14
+4
+1
+5
+1
+6
+11,137
+1,440
+1,290
+13,867
+1,413
+15,280
+ER and Immediate Care Budget
+Variance
+
+14,589
+(722)
+
+Emergency Room Elope Percentage For Month Of September-2013
+SHCC
+PHCC
+CCHHS
+ER Elopes
+1,140
+273
+1,413
+Total Visits with Elopes
+11,066
+2,924
+13,990
+% of ER Elopes
+10%
+9%
+10%
+(This data does not include Immediate Care Visits. It includes ER data only.)
+
+Notes:
+- ER Elopes are patients who leave without being seen by a physician.
+- "Medicaid-Pending" assumes 30% of the Self-Pay accounts accepted by the eligibility vendor will be successfully converted to Medicaid accounts.
+- The "Payer Type" represents the financial class in which the patient presented to CCHHS; it is not necessarily the final financial class for the patient, especially for Self-Pay patients.
+
+Page 69
+12 of 71
+
+ CCHHS Utilization Factors
+Assumes 30% of Accounts Accepted by Eligibility Vendor Successfully Converted to Medicaid
+Cumulative Emergency Room And Immediate Care Visits Through September-2013
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+Stroger Hospital
+ER Patients
+Total Visits
+Treated And Admissions
+Before
+Total Visits
+Released
+Elopes
+ER Elopes & Elopes
+From ER
+4,652
+1,969
+6,621
+586
+7,207
+19,995
+3,364
+23,359
+2,421
+25,780
+67
+24
+91
+6
+97
+2,299
+452
+2,751
+278
+3,029
+2,232
+304
+2,536
+167
+2,703
+48,258
+6,294
+54,552
+6,906
+61,458
+8,480
+1,641
+10,121
+861
+10,982
+497
+260
+757
+19
+776
+11
+2
+13
+3
+16
+116
+6
+122
+47
+169
+135
+2
+137
+9
+146
+34
+9
+43
+4
+47
+86,776
+14,327
+101,103
+11,307
+112,410
+Budget
+Variance
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+104,132
+(3,029)
+
+Budget
+Variance
+
+Oak Forest Health Center
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+Budget
+Variance
+
+Immediate
+Care Visits
+540
+894
+465
+227
+8,239
+2,515
+24
+4
+4
+12,912
+
+Payer Type
+Medicare
+Medicaid
+Medicaid-Pending
+1115 Waiver
+Commercial
+Self-Pay
+Charity
+Cermak
+Grants & Research
+Public Health
+Institutional
+Workmens' Compensation
+
+Totals
+
+16,293
+(3,381)
+
+14,327
+19,587
+73%
+
+1,085
+1,196
+91%
+
+15,412
+20,783
+74%
+
+ER Elopes
+140
+648
+69
+63
+1,840
+248
+1
+6
+1
+1
+3,017
+
+Total Visits
+& Elopes
+1,960
+5,670
+4
+971
+812
+16,729
+3,259
+10
+2
+36
+29
+2
+29,484
+
+27,402
+(935)
+
+ER and Immediate Care Total
+ER Patients
+Total ER and
+Total Visits
+Treated
+Immediate
+Admissions Immediate
+Before
+And
+Care Visits
+From ER Care Visits
+Elopes
+ER Elopes with Elopes
+Released
+6,316
+2,125
+540
+8,981
+726
+9,707
+24,819
+3,562
+894
+29,275
+3,069
+32,344
+71
+24
+95
+6
+101
+3,151
+502
+465
+4,118
+347
+4,465
+2,953
+332
+227
+3,512
+230
+3,742
+62,633
+6,808
+8,239
+77,680
+8,746
+86,426
+11,354
+1,778
+2,515
+15,647
+1,109
+16,756
+505
+261
+766
+20
+786
+13
+2
+15
+3
+18
+145
+7
+24
+176
+53
+229
+163
+2
+4
+169
+10
+179
+35
+9
+4
+48
+5
+53
+112,158
+15,412
+12,912
+140,482
+14,324
+154,806
+ER and Immediate Care Budget
+Variance
+
+Cumulative Percent Of Admissions From Emergency Room Through September-2013
+SHCC
+PHCC
+CCHHS
+
+ER Admissions
+Total Admisisons
+% of ER Admissions
+
+Provident Hospital
+Treated
+Visits
+And
+Admissions Before
+Released
+Elopes
+From ER
+1,664
+156
+1,820
+4,824
+198
+5,022
+4
+4
+852
+50
+902
+721
+28
+749
+14,375
+514
+14,889
+2,874
+137
+3,011
+8
+1
+9
+2
+2
+29
+1
+30
+28
+28
+1
+1
+25,382
+1,085
+26,467
+
+147,827
+(7,345)
+
+Cumulative Emergency Room Elope Percentage Through September-2013
+SHCC
+PHCC
+CCHHS
+ER Elopes
+11,307
+3,017
+14,324
+Total Visits with Elopes
+112,410
+29,484
+141,894
+% of ER Elopes
+10%
+10%
+10%
+(This data does not include Immediate Care Visits. It includes ER data only.)
+
+Notes:
+- ER Elopes are patients who leave without being seen by a physician.
+- "Medicaid-Pending" assumes 30% of the Self-Pay accounts accepted by the eligibility vendor will be successfully converted to Medicaid accounts.
+- The "Payer Type" represents the financial class in which the patient presented to CCHHS; it is not necessarily the final financial class for the patient, especially for Self-Pay patients.
+
+CCHHS Utilization Factors
+ACHN Clinic Visits - September-2013
+ACHN Clinic Visits - September-2013
+Actual
+Budget
+31,980
+32,664
+FANTUS / STROGER SCC CAMPUS
+5,448
+6,080
+WEST CLUSTER
+5,967
+5,874
+SOUTH CLUSTER
+5,285
+5,528
+SOUTH SUBURBAN CLUSTER
+48,680
+50,146
+Total ACHN Visits
+
+Variance
+(684)
+(632)
+93
+(243)
+(1,466)
+
+Cumulative ACHN Clinic Visits Through September-2013
+Actual
+Budget
+Variance
+322,691
+331,013
+(8,322)
+FANTUS / STROGER SCC CAMPUS
+54,802
+61,618
+(6,816)
+WEST CLUSTER
+59,222
+59,523
+(301)
+SOUTH CLUSTER
+56,687
+56,026
+661
+SOUTH SUBURBAN CLUSTER
+493,402
+508,180
+(14,778)
+Total ACHN Visits
+
+Page 70
+13 of 71
+
+ Cook County Health and Hospitals System
+Top Ten DRG's - September-2013
+John H. Stroger, Jr. Hospital of Cook County
+Total
+Patients
+
+DRG and Description
+
+Rank
+
+Total
+Days
+
+MEDICARE
+Geometric
+Avg LOS Case Mix
+Avg LOS
+
+1
+
+392 ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC
+
+55
+
+145
+
+2.6
+
+0.7375
+
+2.7
+
+2
+
+313 CHEST PAIN
+
+46
+
+105
+
+2.3
+
+0.5617
+
+1.7
+
+3
+
+603 CELLULITIS W/O MCC
+
+33
+
+98
+
+3.0
+
+0.8392
+
+3.7
+
+4
+
+794 NEONATE W OTHER SIGNIFICANT PROBLEMS
+
+29
+
+117
+
+4.0
+
+1.2311
+
+3.4
+
+5
+
+690 KIDNEY & URINARY TRACT INFECTIONS W/O MCC
+
+27
+
+70
+
+2.6
+
+0.7810
+
+3.3
+
+6
+
+292 HEART FAILURE & SHOCK W CC
+
+26
+
+120
+
+4.6
+
+1.0034
+
+3.9
+
+7
+
+743 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC
+
+26
+
+54
+
+2.1
+
+0.9653
+
+1.8
+
+8
+
+775 VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES
+
+25
+
+72
+
+2.9
+
+0.5755
+
+2.1
+
+9
+
+812 RED BLOOD CELL DISORDERS W/O MCC
+
+24
+
+84
+
+3.5
+
+0.7872
+
+2.7
+
+10
+
+203 BRONCHITIS & ASTHMA W/O CC/MCC
+
+23
+
+49
+
+2.1
+
+0.6228
+
+2.6
+
+Provident Hospital of Cook County
+
+Rank
+
+Total
+Patients
+
+DRG and Description
+
+1
+
+313 CHEST PAIN
+
+2
+
+Total
+Days
+
+MEDICARE
+Geometric
+Avg LOS
+Avg LOS Case Mix
+
+22
+
+57
+
+2.6
+
+0.5617
+
+1.7
+
+292 HEART FAILURE & SHOCK W CC
+
+9
+
+61
+
+6.8
+
+1.0034
+
+3.9
+
+3
+
+743 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC
+
+5
+
+11
+
+2.2
+
+0.9653
+
+1.8
+
+4
+
+392 ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC
+
+5
+
+16
+
+3.2
+
+0.7375
+
+2.7
+
+5
+
+192 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC
+
+5
+
+18
+
+3.6
+
+0.7072
+
+3.0
+
+6
+
+603 CELLULITIS W/O MCC
+
+4
+
+26
+
+6.5
+
+0.8392
+
+3.7
+
+7
+
+690 KIDNEY & URINARY TRACT INFECTIONS W/O MCC
+
+4
+
+12
+
+3.0
+
+0.7810
+
+3.3
+
+8
+
+203 BRONCHITIS & ASTHMA W/O CC/MCC
+
+4
+
+16
+
+4.0
+
+0.6228
+
+2.6
+
+9
+
+293 HEART FAILURE & SHOCK W/O CC/MCC
+
+3
+
+11
+
+3.7
+
+0.6751
+
+2.7
+
+10
+
+639 DIABETES W/O CC/MCC
+
+3
+
+10
+
+3.3
+
+0.5558
+
+2.2
+
+Page 71 of 71
+14
+
+ 

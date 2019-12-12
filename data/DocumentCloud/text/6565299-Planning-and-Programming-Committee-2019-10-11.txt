@@ -1,0 +1,3258 @@
+ELECTRIC VEHICLE CHARGING STATION PLAN UPDATE
+
+Planning and Programming Committee
+October 11, 2019
+
+6-1
+
+ ACTION REQUESTED
+No action is being requested. This item is being presented
+for information and discussion.
+
+PREVIOUS ACTION
+
+No previous actions
+
+6-1
+
+ STUDY PROCESS
+Review Research
+Articles
+NREL, EEI, IEI,
+USEIA, etc.
+
+Estimate Annual
+Required Budget
+
+6-1
+
+Propose
+Charging Ports
+Garages
+
+Utilize NOACA Travel
+Forecasting Model
+
+Develop
+Distribution Models
+
+ BACKGROUND
+
+National Renewable Energy Laboratory (NREL)
+Charging Station Types
+Charging Level Private Location
+
+Publicly
+Available
+
+AC Level 1
+
+Home
+
+No
+
+AC Level 2
+
+Workplace / Public
+Parking Garages
+
+No / Yes
+
+DC Fast Charging
+(DCFC)
+
+Public Parking
+Garages & Lots
+
+Yes
+
+6-1
+
+  ROU 
+
+Prices of Electric, Conventional and Plug-In Hybrid Vehicles
+
+ 
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PEV Model 2018 Base Coventional 2018 Base Plug-In Hybrid 2018 Base
+Price* Vehicle Model Price Vehicle Model Price
+
+Nissan Leaf $22,490 Honda Civic $18,840 Chevrolet Volt $25,720
+
+Chevrolet Bolt $25,995 Toyota RAV4 $24,510 Kia Niro $23,357
+Mercedes Benz BMW 740e Xdrive
+
+Tesla Model $67,000 CLS Class $75,150 iPerformance $86,032
+Porsche Porsche Cayenne
+
+Tesla Model $72,000 Cayenne $65,700 E-Hybri $74,564
+
+*Prices after $7,500 federal tax credit for electric vehicles-
+NOACAM
+
+ 
+     
+
+ 
+
+Geauga
+Guyahoga
+Fur
+MELHEU ELIEENE
+
+ 
+
+ 
+
+BACKGROUND
+
+Electric Vehicle Purchasing Decisions
+Early Adopters are generally:
+• Wealthier
+• More Educated
+• More Comfortable with technology, and
+• Have a stronger environmental attitude
+………………………………………………… than the rest of society
+Source : The US Department of Energy’s Vehicle Technologies Office, 2018
+
+6-1
+
+  
+
+Charging Level
+
+  
+
+BACKGROUND
+
+Loca?on
+
+Charging
+Time
+
+Vehicle Range Power Rate
+
+Added (Mile)
+
+Supply Power
+
+'1 2 OVACIZ 0A
+
+ 
+
+ 
+
+AC Level 1 ReSIdentIal One Hour 6 1-9 (12-16A continuous)
+10 3.4
+Workplace Public 
+AC Level 2 Parking Garages One Hour 20 6'6 continuous)
+60 19.2
+24 24 2401480VAC
+DC Fast Charging Public Parking . 3-phase
+(DCFC) Garages Lots 20 Mlnutes 50 50 (input current proportional to
+90 90 output power; AC)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOACAM
+
+Geauga
+Guyahoga
+EHPlanningr Fur
+lrl 
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+BACKGROUND
+
+Electric Vehicle Forecast
+
+Independent forecasts:
+• Bloomberg New Energy Finance (BNEF): Electric Vehicle Outlook 2018
+(May 2018)
+• Boston Consulting Group (BCG): The Electric Car Tipping Point (Nov. 2017)
+• Energy Innovation: Energy Policy Simulator 1.4.1 (July 2018)
+• US Energy Information Administration (EIA) : Annual Energy Outlook 2018
+Reference Case( Feb. 2018)
+• Wood Mackenzie: The Electric Vehicle Outlook Data (Aug. 2018)
+• Edison Electric Institute (EEI) & Institute for Electric Innovation (IEI)
+• (Nov. 2018)
+6-1
+
+ ANNUAL EV SALES FORECAST
+
+ 
+
+EV SalesIMilIinns]
+
+ 
+
+ 
+
+Annual EU Sales Forecast [2018-2030]
+
+ 
+
+ 
+
+2013 2019 2020 2021 2022 2023 202d 2025 2026 202?
+
+2013 Energy Innovatidn 
+BNEF {estimated} Weed Mackenzie
+
+Boston Consulting Group {estimated} Fare-cast
+
+2023
+
+2029
+
+2030
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Buyahnga
+
+
+ 
+     
+
+Geauga
+
+anning Fur
+
+
+EAAID
+
+ 
+
+ 
+
+BACKGROUND
+Existing & Projected number of EVs on U.S. roads:
+• At the end of 2018 : Slightly over 1 million EVs
+• In 2030: 18.7 million EVs: 7 percent of the 259 million
+vehicles (cars & light trucks)
+• Annual sales of EVs in 2030: will Exceed 3.5 million
+(more than 20 percent of annual vehicle sales)
+• About 9.6 million charge port will be required to support
+18.7 million EVs in 2030.
+6-1
+
+ 6-1
+
+EV CHARGING INFRASTRUCTURE BY LOCATION
+
+CN 
+
+ 
+
+EU Charging Infrastructure by Lacatian12030)
+
+ 
+
+ 
+
+ 
+
+m. 
+PublicDC Fast Charging 
+1WIICU Part5
+9.6 Million
+Charge Parts
+13% 2
+Home LauEIZCharging by 030
+1500000 Parts
+
+ 
+
+8%
+Public Level ECharging
+800,000 Parts
+
+ 
+
+13%
+Workplace Level 2 Charging
+Parts
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6-1
+
+PLUG-IN ELECTRIC VEHICLE (PEV)
+
+ 
+
+ 
+
+ 
+
+PEV Registrations per 1,000 People, 2017
+
+ 
+
+per 1,000 people
+
+2: 083 - Over 5.00
+
+- 2.00 to 5.00
+
+
+as - 1.00 to 1.90
+
+?if 512 0.50-0.99
+
+Less than 0.50
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Geauga
+Cuyahnga
+EHPlanning Fur
+LEHEALAENT
+
+ 
+     
+
+ 
+
+ 
+
+NOACA REGION PEV INFORMATION
+Plug-in Electric Vehicle (PEV)
+Estimated Existing PEVs in the NOACA region: 1,600
+Estimated PEVs in Cleveland: 1,400 (as of the end 2016)
+Households paid an average of 10 - 13.4 cents per kWh of
+electricity in 2017.
+• For 15,000 VMT in a year, charging a PEV costs $540
+(4,500 kWh and 3.6 cents per mile).
+• Conventional Vehicle fuels costs 11.3 cents per mile.
+•
+•
+•
+•
+
+•
+
+6-1
+
+(22.9 MPG & $2.6 per Gallon)
+
+ Number of PEVs
+
+ANNUAL FORECAST
+
+Estimated Number of PEVs in NOACA Region
+
+      
+   
+
+30000
+
+
+
+
+
+
+5,000 
+
+2019 2020 2021 2022 2023 2024 2025 2026 202? 2028 2029 2030
+Year
+
+ 
+
+
+
+Glauga
+EHPlanning Fur
+LHEEATEH
+
+EEAND
+
+      
+
+ 
+
+ 
+
+SENSITIVITY ANALYSIS
+NOACA Region
+Estimation Number of PEVs by
+Level
+2030
+
+6-1
+
+CAGR
+
+Forecast Multiplier
+(2018 - 2030)
+
+Low
+
+16,000
+
+21.15%
+
+10
+
+Moderate
+
+28,800
+
+27.23%
+
+18
+
+High
+
+48,000
+
+32.77%
+
+30
+
+ Number of PEVs
+
+50,000
+
+45,000
+
+40,000
+
+35,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+SENSITIVITY ANALYSIS
+
+Estimated Number of PEVs by 2030 in NOACA Region
+
+Forecast Multiplier
+
+Planning For
+ME EATER
+ELEVELAND
+
+      
+ 
+
+ 
+
+ 
+
+ESTIMATED REQUIRED CHARGING PORTS
+Required Ports
+Charging Level
+
+6-1
+
+EEI / IEI
+
+U.S. Department of Energy Energy Efficiency & Renewable
+Energy
+
+Proposed
+
+Home Level 2
+
+11,532
+
+Public Level 2
+
+1,182
+
+453
+
+800
+
+Workplace Level 2
+
+1,922
+
+675
+
+1,300
+
+Public DCFC
+
+148
+
+86
+
+120
+
+12,000
+
+ SENSITIVITY ANALYSIS
+NOACA Region
+Required EV Charging Ports
+
+6-1
+
+Estimation
+Level
+
+Home Level 2
+
+Public Level 2
+
+Workplace Level 2
+
+Public DCFC
+
+Low
+
+4,992
+
+512
+
+832
+
+64
+
+Moderate
+
+12,000
+
+800
+
+1,300
+
+120
+
+High
+
+22,464
+
+2,304
+
+3,744
+
+288
+
+ 5ENSITIVITY ANALYSIS
+
+Required PEV Charging L2 Ports by 2030 in NOACA Region
+
+4
+
+
+in'
+
+
+Number of Charging L2 Ports for each PEV 0.4
+Number of Charging L2 Ports for each PEV 0.45
+Number of Charging L2 Ports for each PEV 0.5
+
+ 
+
+?Num ber of Charging L2 Ports for each PEV 0.t1:
+
+NUACAF
+
+Geauga
+Cuvahnga
+EHPlanning Fur
+
+
+ 
+     
+
+?Num ber of Charging L2 Ports for each PEV 0.6
+
+30,000 35,000 40,000
+Estimated Number of PEVs by 2030 in NOACA Region
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXISTING EV CHARGING STATIONS
+
+Current EV Charging Stations
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+0 Current EV Station
+Highway
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOACAF
+
+Buyahnga
+EHPlanning Fur
+
+HEE EH
+EEHND
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUTLETS
+
+F?PROPOSE
+
+.-
+-.
+
+  
+ 
+ 
+ 
+ 
+
+ 
+   
+
+   
+ 
+
+
+. ill. 
+
+7" 1&1
+
+   
+ 
+ 
+ 
+ 
+
+   
+
+     
+
+ 
+
+
+
+Geauga
+Guyahoga
+EHPlanning Fur
+
+ 
+ 
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+6-1
+
+MEDIAN HOUSEHOLD INCOME (2018)
+
+Median Household Income (2018)
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WORK TRIP DESTINATIONS
+
+?1 Highway All Household Work Trips by Destination
+
+Work Trips Sq Mi
+C3 0-200
+
+200.1 -500
+(2) 500.1 -1,000
+C3 
+C3 2,000.1 -3,000
+C3 3,000.1 -4,000 0
+4,000.1 -5,000
+
+5,000.1 .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+Geauga
+Guyahnga
+EPlanning Fur
+HEEALAENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+SENSITIVITY ANALYSIS
+
+ 
+
+ 
+
+ 
+
+Highway
+
+Work Trips 1' Sq Mi
+a 50
+
+
+Ci} 1001-150
+1501-2-30
+200.1 300
+3001-500
+sum-F50
+150.1 
+
+ 
+
+TDK HH Work Trips
+
+ 
+
+ 
+
+ 
+
+ 
+
+70K Household Work Trips by Destination]
+
+4?
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100K Household Work Trips by Destination
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6-1
+
+ 
+
+ 
+
+ 
+
+Household Work Trips by Destination
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+
+
+Planning 
+
+ 
+
+
+EHEATEH
+CLEVELAND
+
+ 
+
+PROPOSEI EMPLOYMENT AREAS FOR L2 CHARGING PORTS
+
+ 
+
+Lnlu: fun:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+  
+  
+
+ 
+
+   
+ 
+ 
+     
+ 
+ 
+
+ 
+ 
+
+   
+
+  
+ 
+
+  
+
+   
+   
+
+     
+  
+
+ 
+
+  
+  
+
+   
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+       
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+     
+    
+
+"?i?uld 
+
+Lem 
+
+r.
+
+Inf
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+   
+ 
+     
+  
+  
+  
+  
+   
+ 
+    
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+        
+    
+
+
+I tC 
+
+7
+Hanna
+Tm
+3?IGlamDowntown - Midtow I 271 n-ymnu 
+gCorridor .4,
+EWestIake-_ Westlake- Lakewood wag-?Crocker Columbia swinlirvn; 6 
+.. 5 5
+MetroHealth.f a g" . Burton 
+?Jams Cha rln': n. 7m;nnr 
+. 
+Kammsf Highlands 3 
+II . .smn 7, 4? 3 Pumas I Wm 
+'5 a Hm. a, Hts! 55Bedford 
+"puma? R?n 2
+MR Jun-1n 
+- - 
+if 54,. If Bain?bridgc a. mnnuvki'i MP 
+.JL-L u" Dlmnod mp M'ddl IndependencealleyVIew F: 
+Berea ,5 . inn
+.1- srn9Uem 4?3 
+L5H 1, 3- 
+V?s. Sycamore 1
+71 a 44 IE
+3 TwIIMhum . 1:333 3 5 Hill
+. ..
+WV: :1an pm 
+berlln i
+A 1, .
+.. 
+1 
+warm I ?Mr. an .. mm NI: 5 
+E12, M'zmmShun?une?im
+mem' EZanmlz -. "m 
+Lannie TWP 2. Thin ?madamvullnuon ., main. a 7 ?c
+umnneld 3 1 3m, 1-) :9 chaII-Ivmun
+IodirullurwMedina non-cuylhoga 
+4- Falls w-mnua 
+A 1 
+.n 9mm er lama {If} ?anlemadae 
+- ?Np mnq- ?2 - i .2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NUACA
+
+?Geauga
+Planning Fur
+Mn A 
+
+ELEVELAND
+
+ 
+      
+
+ 
+
+ 
+
+ 
+
+CHARGING PORT DISTRIBUTION SCENARIOS
+• TRIP DESTINATIONS
+• EMPLOYMENT CENTER PRIORITIZATION (ECP)
+• HYBRID
+• INPUTS: Employment, Population, Work Trip
+Destinations, Road Network Capacities, Transit Service
+Capacities and Parking Facilities
+
+6-1
+
+ CHARGING PORT DISTRIBUTION SCENARIOS
+TRIP
+DESTINATION
+
+EMPLOYMENT
+CENTER
+PRIORITIZATION
+
+HYBRID
+
+AVERAGE
+
+Airport
+
+101
+
+126
+
+48
+
+92
+
+Brecksville
+
+55
+
+48
+
+54
+
+52
+
+Brooklyn/Parma
+
+103
+
+82
+
+70
+
+85
+
+Chagrin Highlands
+
+101
+
+78
+
+150
+
+110
+
+Chardon
+
+24
+
+20
+
+43
+
+29
+
+Downtown
+
+343
+
+498
+
+231
+
+357
+
+Elyria
+
+62
+
+45
+
+76
+
+61
+
+I-271 Corridor
+
+186
+
+93
+
+109
+
+129
+
+Independence/Valley View
+
+160
+
+111
+
+82
+
+118
+
+Kamms/Puritas
+
+46
+
+70
+
+98
+
+71
+
+Lakewood
+
+57
+
+73
+
+84
+
+71
+
+Medina
+
+72
+
+41
+
+56
+
+56
+
+MetroHealth/Steelyard
+
+58
+
+121
+
+111
+
+97
+
+Middleburg Hts/Berea
+
+76
+
+52
+
+92
+
+74
+
+North Olmsted
+
+49
+
+55
+
+70
+
+58
+
+Solon
+
+135
+
+58
+
+80
+
+91
+
+Strongsville-Foltz
+
+27
+
+18
+
+53
+
+33
+
+Strongsville-Southpark
+
+36
+
+37
+
+60
+
+45
+
+UC/Midtown
+
+180
+
+208
+
+258
+
+215
+
+Warrensville Hts/Bedford Hts
+
+82
+
+118
+
+63
+
+88
+
+Westlake-Columbia
+
+41
+
+46
+
+84
+
+57
+
+Westlake-Crocker
+
+39
+
+37
+
+77
+
+51
+
+Willoughby
+
+66
+
+65
+
+52
+
+61
+
+EMPLOYMENT AREA
+
+6-1
+
+ PROPOSED L2 CHARGING PORT DISTRIBUTION
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+      
+ 
+ 
+ 
+    
+ 
+
+ 
+
+ 
+
+    
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+ 
+ 
+
+ 
+
+ 
+
+           
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lac; 1
+3 
+.5 
+I: Conwd .,
+'4
+E-nka "an.
+Lake Erie - 
+
+
+Humur-rnlm {?19 ond
+.m a 1W
+. Clurdon
+a slumClank)? '1 
+5 .9 sum- Euclid cnmar hp 
+.n
+. . n? cI-vd-Id
+Cleve! 215 129
+p.44. Hd . 0?
+mm: Ra-? ?3:53? Fanmouand 1?
+Sho?ldd v} u" sratuuwd ?Md 3 '5 
+. - .9 Sink?r i :3 3 Bunon 
+v: 3? . m, .: 
+Loraln '57 a :u Uulm Av! a cums 0 KM Kmin 
+hum-1 ML ~91 '1 g- 
+Rr?lvdl?myJoinsv Elwin 
+. . Lubhy Height! 0' - A - .Jllno"m7, .3
+?0 mm Hdults I: 
+mug-rm. I Bavnmv.? 71 Auburn my 9 
+Olmsted 1w -- {1
+anyev'm-?Kw fatidd lelr
+Count: up 45 Mull I or mm" Auror- 5
+. . 
+- new" Run 5 
+. a a
+bnrlIn 5 3,-ijth luauverage Gr.?g" 1? Liv-wool 5: 0 
+Lagrange 1MHmcH?y ughug: .Hley idlln?on 0"
+uehnold a, 3 3 
+?tun-numarmm Ru :1
+and lungcuymogl
+. a
+. It 
+a M. a 150 -199
+5 
+41200-357 -
+i 'l 3 Lam-mo Shawn owls-,9 a ?2 3 T?Im'w' 
+cum 7! Np Wodqo an: 9 CopBuyahnga
+
+   
+
+Planning For
+
+EHEATEH
+ELEVELAND
+
+ 
+
+ 
+
+NUMBER AC LEVEL 2 STATIONS BY EAR
+
+Number of AC Level 2 Stations
+
+62020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Year
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+ 
+
+ 
+
+ 
+
+
+
+Geauga
+Guyahoga_
+EHPlanning rFur
+
+MEIHEEV VFIIAENE
+
+ 
+     
+
+ 
+
+ 
+
+NUMBER OF AC LEVEL 2 STATIONS BY YEAR BY EMPLOYMENT
+AREA
+EMPLOYMENT AREA
+
+5-5
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+TOTAL
+
+Airport
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+11
+
+12
+
+13
+
+14
+
+92
+
+Brecksville
+
+1
+
+2
+
+3
+
+4
+
+4
+
+5
+
+5
+
+6
+
+7
+
+7
+
+8
+
+52
+
+Brooklyn/Parma
+
+2
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+85
+
+Chagrin Highlands
+
+3
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+13
+
+14
+
+15
+
+17
+
+110
+
+Chardon
+
+1
+
+1
+
+2
+
+2
+
+2
+
+3
+
+3
+
+3
+
+4
+
+4
+
+4
+
+29
+
+Downtown
+
+10
+
+15
+
+20
+
+24
+
+28
+
+32
+
+37
+
+41
+
+45
+
+50
+
+55
+
+357
+
+Elyria
+
+2
+
+3
+
+3
+
+4
+
+5
+
+6
+
+6
+
+7
+
+8
+
+8
+
+9
+
+61
+
+I-271 Corridor
+
+4
+
+6
+
+7
+
+9
+
+10
+
+12
+
+13
+
+15
+
+16
+
+18
+
+20
+
+129
+
+Independence/ValleyView
+
+3
+
+5
+
+6
+
+8
+
+9
+
+11
+
+12
+
+14
+
+15
+
+16
+
+18
+
+118
+
+Kamms/Puritas
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+71
+
+Lakewood
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+71
+
+Medina
+
+2
+
+2
+
+3
+
+4
+
+4
+
+5
+
+6
+
+6
+
+7
+
+8
+
+9
+
+56
+
+MetroHealth/Steelyard
+
+3
+
+4
+
+5
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+15
+
+97
+
+Middleburg Hts/Berea
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+8
+
+9
+
+10
+
+11
+
+74
+
+North Olmsted
+
+2
+
+2
+
+3
+
+4
+
+5
+
+5
+
+6
+
+7
+
+7
+
+8
+
+9
+
+58
+
+Solon
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+13
+
+14
+
+91
+
+Strongsville-Foltz
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+3
+
+4
+
+4
+
+5
+
+5
+
+33
+
+Strongsville-Southpark
+
+1
+
+2
+
+2
+
+3
+
+4
+
+4
+
+5
+
+5
+
+6
+
+6
+
+7
+
+45
+
+UC/Midtown
+
+6
+
+9
+
+12
+
+15
+
+17
+
+19
+
+22
+
+25
+
+27
+
+30
+
+33
+
+215
+
+Warrensville Hts/Bedford Hts
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+14
+
+88
+
+Westlake-Columbia
+
+2
+
+2
+
+3
+
+4
+
+4
+
+5
+
+6
+
+7
+
+7
+
+8
+
+9
+
+57
+
+Westlake-Crocker
+
+1
+
+2
+
+3
+
+3
+
+4
+
+5
+
+5
+
+6
+
+6
+
+7
+
+8
+
+51
+
+Willoughby
+
+2
+
+3
+
+3
+
+4
+
+5
+
+6
+
+6
+
+7
+
+8
+
+8
+
+9
+
+61
+
+TOTAL
+
+60
+
+90
+
+115
+
+142
+
+165
+
+190
+
+215
+
+241
+
+265
+
+292
+
+325
+
+2100
+
+ CHARGING PORT LOCATION – TAZ GROUPING
+Port Allocation
+to A TAZ Group
+is Proportion to
+Number of
+Home Base
+Work trip ends
+
+0.5 Mile of walking
+Distance (0.785 Sq. mile)
+
+Parking Garage/Lot Selection:
+- Garages
+- Government Garages
+- Close to employment activities
+- Close to Center
+- 20 or less ports per lot
+
+6-1
+
+ CHARGING PORT LOCATION - TAZ GROUPING
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+    
+
+        
+
+  
+  
+     
+ 
+ 
+ 
+   
+
+  
+ 
+     
+
+ 
+        
+
+ 
+
+ 
+
+cm
+I e. UIIV CY 1" 
+Yanner Ave Ave 3?
+?mum? supe?m? 
+mversn Irc I own rea z:
+Ave 3 ?co
+sum? mu <25 ?a
+1? u; 
+693" Bonna Ave; 9. Lotkyear Ave Church?I), 41.!
+PresOrvnle Ave Knllon Ave0/0 4?04
+.4 r0 StaItasca Ave :4 01,4.
+06 
+"a 
+. Decker Ave Moms ?0 6
+Ashbury Ave 
+POI ls Redeu Ave i no
+Luna 5 5 '9 
+13 Wade Park Ave
+5 Bitchdalc Ave
+\c??Ave 2
+63? - u. Blaine Ave
+0' 
+Melrose Ave 
+A Kenmov
+0' ve .
+?n Merldlir?
+5 54 Lawnvuew Ave 9' ,9
+2 Hark"
+.u 9.:Ihulqocd
+{5 human r?
+5 5 an .- 
+u? Rmmatm .Hannah Ave 
+
+.4 Hough Ave 
+Ave - - .. .Home Cl u, 
+
+q.
+0
+I460
+we 
+aspen Langlellow Thackeray Ave If?Gasww a" oi5=?
+Hawmome Av: Golden Ave DamonDr 
+Central Ave Luma Ave .. A 
+a a a ?2 m.
+Amos Ave Quebec Ave - 
+(J, 43 u? .u Fauna: - :v 
+9
+a Quincy Ave 5 Oumcy Ave Park Quincy Ave -
+?Key Emma .-
+I- - Beckman Ave if 5 PI 
+f. ?3 ?2 ?rm-mm on 4' s?c 3
+Capltol Ave Oh (-44 
+A r/ v- (n 
+0 0125 025 Buyahnga
+
+   
+
+Planning For
+
+EHEATEH
+ELEVELAND
+
+ 
+
+ 
+
+ESTIMATED EV CHARGING PORT COSTS
+Electric Vehicle Supply Equipment (EVSE) Costs
+
+6-1
+
+Charging Level
+
+Unit Cost Range
+(2015$)
+
+Installation Cost Range Per Unit
+(2015$)
+
+AC Level 1
+
+$300 - $1,500
+
+$0 - $3,000
+
+AC Level 2
+
+$400 - $6,500
+
+$600 - $12,700
+
+DC Fast Charging
+(DCFC)
+
+$10000 - $40,000
+
+$4000 - $51,000
+
+ Required Annual Budget
+
+$5,000,000
+
+$4,500,000
+
+$4,000,000
+
+$3,500,000
+
+$3,000,000
+
+$2,500,000
+
+$2,000,000
+
+$1,500,000
+
+$1,000,000
+
+$500,000
+
+$0
+
+Annual Required Budget for L2 Charging Ports in NOACA Region
+
+Charging Stations
+
+ 
+
+ 
+
+ 
+
+Planning Fur
+
+Helm
+
+ 
+
+ 
+
+L2 REQUIRED BUDGET
+NOACA Region
+PEV and AC Level 2 Projections by 2030
+
+6-1
+
+Number of PEVs
+
+Number of Required AC Level 2
+Stations at Workplace and
+Public
+
+Accumulated Total Cost
+(Period of 2020 - 2030)
+
+28,800
+
+2,100
+
+$27.8 million
+
+ 6-1
+
+DC FAST CHARGING (DGFG) STATION
+LOCATIONS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALL TRIP DESTINATIONS
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+
+ 
+
+ 
+
+Highway All Household Vehicle Trips by Destination
+All Trips I Sq Mi 4 0
+
+C3 0-3,000 0
+
+3,0001-4,000 . 
+
+C13 4,000.1 45,000
+
+0,0001 - 0,000
+0,000.1 10,000
+10,0001 - 14,000
+
+14,0001 10,000
+
+13,0001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NUACAF
+
+Guyahnga
+EPlanning Fur
+
+
+ 
+
+ 
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6-1
+
+TRAFFIC VOLUME MAP
+
+ 
+
+ 
+
+ 
+
+ 
+
+DailyF Bi-Directinnal Volume 2018
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+ 
+
+Dally Unlume 2MB
+
+-5.DDU
+
+
+141001 - 20.000
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NUACAF
+
+Cuvahnga
+HP
+
+ 
+  
+
+lanning Fur
+
+
+
+   
+
+ 
+
+ 
+
+NUMBER OF DC FAST CHARGING PORTS BY PHASE
+Interchange
+I-71 / Medina Rd (SR-18)
+
+Phase 1 (2020 - 2025) Phase 2 (2025 - 2030) Total Number of
+Number of DCFC
+Number of DCFC
+DCFC by 2030
+
+Medina Public Parking Garage
+
+4
+
+5
+
+9
+
+Westlake Porter Library
+
+4
+
+6
+
+10
+
+Strongsville Cuy. Co Library
+
+1
+
+2
+
+3
+
+900 Prospect Garage / Gateway East Garage
+
+3
+
+4
+
+7
+
+Mayfield Village Park & Rec. / Civic Center
+
+2
+
+3
+
+5
+
+Solon City Hall
+
+2
+
+3
+
+5
+
+I-271 / Chagrin Rd (SR-87)
+
+Social Security Administration
+
+2
+
+3
+
+5
+
+I-77 / Miller Rd
+
+Brecksville Community Center
+
+3
+
+4
+
+7
+
+U S Postal Service
+
+1
+
+1
+
+2
+
+I-271 / Cedar Rd
+
+Beachwood Community Center
+
+2
+
+3
+
+5
+
+US-422 / Chillicothe Rd (SR-306)
+
+Bainbridge Town Hall Complex
+
+5
+
+7
+
+12
+
+Brunswick Library & Community Ctr
+
+2
+
+3
+
+5
+
+GCRTA Westlake Park-N-Ride
+
+2
+
+4
+
+6
+
+US-422 / Harper Rd
+
+Solon Fire Department
+
+3
+
+4
+
+7
+
+I-77 / Rockside Rd
+
+Independence Library & Civic Ctr
+
+3
+
+4
+
+7
+
+Don Umerley Civic Center
+
+7
+
+9
+
+16
+
+LakeTran Offices/ Lake County Adm. Building
+
+1
+
+1
+
+2
+
+Social Security Administration
+
+1
+
+1
+
+2
+
+GCRTA North Olmsted Park-N-Ride
+
+1
+
+2
+
+3
+
+Wadsworth Public Library
+
+1
+
+1
+
+2
+
+50
+
+70
+
+120
+
+I-90 / Crocker Rd
+I-71 / Royalton Rd (SR-82)
+I-90 / I-77 / Ontario St / E 9th St /
+E 14th St / E 22nd St
+I-271 / Wilson Mills Rd
+US-422 / SOM Center Rd (SR-91)
+
+I-90 / Center Rd (SR-83)
+
+I-71 / Center Rd (SR-303)
+I-90 / Columbia Rd (SR-252)
+
+I-90 / Detroit Rd (SR-254)
+I-90 / SR-44
+I-271 / Miles Rd
+I-480 / Great Northern Blvd
+I-76 / High St (SR-94)
+
+6-1
+
+Government Parking Garage/Lot
+
+Total
+
+ DCFC REQUIRED BUDGET
+NOACA Region
+
+6-1
+
+Phase
+No
+
+Implementation
+Starting Year
+
+Number of Required
+DCFC Stations
+
+Total Cost
+
+1
+
+2020
+
+50
+
+$2.94 million (2020$)
+
+2
+
+2025
+
+70
+
+$4.66 million (2025$)
+
+ L2 DOFO PROPOSED LOCATIONS
+
+Proposed Workplace (L2) and DC Fast Charging (DCFC) Locations 
+
+ 
+
+ 
+
+ 
+
+  
+    
+
+ 
+
+ 
+
+0 DC Fast Charging at Gov't GarageILot
+Workplace Charging Location
+Highway
+
+ 
+
+ 
+
+ 
+
+ 
+
+i NOACAF
+
+Buyahnga
+EHPlanning Fur
+
+HEE EH
+EEHND
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NEXT STEPS
+Staff will continue to update committee regarding the
+Electric Vehicle Charging Station Plan and determine the
+potential policy implications.
+
+6-1
+
+ NOACA will STRENGTHEN regional
+cohesion, PRESERVE existing
+infrastructure, and BUILD a
+sustainable multimodal transportation
+system to SUPPORT economic
+development and ENHANCE quality
+of life in Northeast Ohio.
+
+ 

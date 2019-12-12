@@ -1,0 +1,625 @@
+ITS ARCHITECTURE UPDATE AND
+STRATEGIC PLAN
+
+NOACA Safety Operations Council
+May 17, 2019
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ACTION REQUESTED
+No action requested. This item is for information and
+presentation only.
+
+PREVIOUS ACTION
+None.
+5-7
+
+ BACKGROUND
+
+ITS Stakeholder Workshop #Independence, Brunswick,
+Mentor
+
+   
+     
+ 
+
+ 
+
+ 
+
+     
+
+ELEVEL 
+
+ 
+
+ 
+
+BACKGROUND
+ITS Strategic Plan:
+• Draft shared April 29, can be found
+on project website
+• Identifies ITS projects reflecting
+stakeholder needs
+• Comments through May 17
+
+5-7
+
+ BACKGROUND
+
+5-7
+
+Information
+Management
+
+• Enhance communications and info sharing
+
+Traffic
+Management
+
+•
+•
+•
+•
+•
+
+Improve congestion mitigation
+Provide early warning of poor visibility
+Improve signal interconnects and coordination
+Expand traffic signal preemption for EVs
+Better info on incidents on major routes
+
+Public
+Transportation
+
+•
+•
+•
+•
+
+On-time performance
+Efficiency of demand responsive service
+Transit connections
+Event, incident, and emergency coordination
+
+ BACKGROUND
+Traveler
+Information
+
+5-7
+
+•
+•
+•
+•
+
+Travel times to public
+Incident info to public
+Highway closures to public
+Arterials closures to public
+
+CVO and
+Freight
+Management
+
+• Improve hazardous cargo tracking and routing
+• Improve intermodal freight management
+• Provide real-time truck parking availability
+
+Maintenance
+and
+Construction
+
+• Work zone safety
+• Advanced and up-to-date work zone info
+• Roadway surface conditions data
+
+ BACKGROUND
+Incident and
+Emergency
+Management
+
+Transportation
+Security
+
+5-7
+
+•
+•
+•
+•
+•
+
+Identify alternate routes
+Improve alternate route traffic management
+Improved incident detection
+Improved incident management and coordination
+Emergency notification / dispatch and response
+times
+
+• Security and safety monitoring of public spaces
+• Improved evacuation plan implementation
+
+ BACKGROUND
+
+Projects By ITS Area:
+
+Commercial Vehicle
+
+Operations
+Vehicle Safety 2% Malntenance and
+0 Weather Construction
+24, 0
+25\ ata Manageme 7%
+
+     
+ 
+  
+
+Parking Management
+
+Traveler Information/
+3%
+
+7%
+
+ 
+   
+
+Public Safety
+9%
+
+ll}
+
+Sustainable Travel
+2%
+
+Public Transportation
+9%
+
+Support
+Traffic Management 4%
+
+51%
+
+ 
+
+ 
+
+NUACAF
+
+Buyahnga
+EHPlanning Fur
+
+
+
+ 
+     
+
+
+
+ 
+
+ 
+
+PROJECT TIMEFRAMES
+In short term, focus on
+
+• Low cost projects like local signal
+enhancements
+• Expansion of current solutions
+• Support ITS in transit
+
+Medium term
+
+• Potential for regional TMC
+• Integrating maturing TSMO projects
+
+Long term
+
+• Projects relying heavily on new technology
+
+5-7
+
+ PRIORITIZATION CRITERIA
+Identified projects of greatest regional importance/urgency
+Criteria included:
+•
+•
+•
+•
+
+5-7
+
+Relationship between projects
+Project relevance to regional needs
+Potential project costs
+Project maturity
+
+ BACKGROUND
+2019 ITS Architecture Update
+• Inventory of existing and planned
+or potential ITS elements
+• Stakeholders and roles based on
+transportation services
+• Service packages for ITS
+functionality and data exchange
+
+5-7
+
+ SERVICE PACKAGE DIAGRAM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+traffic information for media
+Media D. Traffic Dperations Other ?5 Roadway
+E-l (EC) traffic images I Personnel EquF'ment
+
+traffic traffic
+operator operator roadway equipment coordination
+In ut
+data 1!
+Traf?c Management: roadway dynamic Signage data ITS Roadway flit] . .
+Emergency '3 Center roadway adyiaory radio data Equipment I: ?3'3 [5'5 a Basic ?abide
+Management Center:
+road network condition 5I Eli roadway dynamic Signage status +l
+I roadway adyisory radio Status
+traffic imagea .
+Roadway Traffic
+lnformatiun driyar Information Driver
+(EC) road network conditions . . .
+Transit ManagementE'l 
+Center E-I traffic I
+[it] road network conditions 
+traffic control information
+tralfic Imij?t?B Vehicle Trauma Field Center Support
+Transportation TMC Traffic i
+Information Center Information 5 
+Di55emination
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Functional Obiects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+macl nr?iwnrk condition a TMC Traffic Traffic
+Maint and COnE-tl' D. Information Information 
+management traffl-l: lmagE'S Disseminahgn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Buyahnga
+
+     
+
+Lorain Planning For
+
+MEHEATEH
+ElElEthD
+
+ 
+
+ 
+
+ 
+
+USING THE WEBSITE
+Click on “Stakeholders”
+to view:
+
+• Stakeholder description
+
+Click on “By
+Stakeholder” to view:
+
+• ITS elements assigned
+to each stakeholder
+
+Scroll down to find
+stakeholders listed
+(alphabetical order)
+5-7
+
+ BACKGROUND
+
+ 
+
+    
+
+NOACA Intelligent Transportation System (ITS) Architecture Comprehensive Update
+
+Task
+
+Project ManagementiAdministration
+
+Project Schedule (Updated 1l16l2019)
+
+ 
+
+CommunicationlStakeholder Engagement Plan
+
+ 
+
+   
+
+Identification of Partners
+
+ 
+
+Regional Needs AnalysislGap Assessment
+
+ 
+
+ 
+
+ 
+
+Mapping of Current and Proposed System
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Documentation
+
+ 
+
+Service Packages
+
+ 
+
+Website
+
+ 
+
+133 (11 -FL In! --1
+
+Develop a ITS Strategic Plan
+
+ 
+
+
+
+
+Interagencvr Agreements
+
+ 
+
+i:
+
+
+ 
+
+Maintenance Plan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Kicko? Meeting
+
+Stakeholder Workshops
+
+   
+
+Planning 
+
+
+EH A HIENT
+
+ 
+
+ 
+
+NEXT STEPS
+Staff and the consultant team will work with stakeholders
+to incorporate their feedback on the draft ITS Strategic
+Plan and updated ITS Architecture into the final versions
+of both documents to be completed later this summer.
+
+5-7
+
+ NOACA will STRENGTHEN regional
+cohesion, PRESERVE existing
+infrastructure, and BUILD a
+sustainable multimodal transportation
+system to SUPPORT economic
+development and ENHANCE quality
+of life in Northeast Ohio.
+
+ 

@@ -1,0 +1,3676 @@
+American College of Surgeons National Surgical
+Quality Improvement Program (ACS NSQIP)
+Year 5 Update
+Mark A. Wille, MD, FACS
+August 23, 2019
+
+ NSQIP Background
+• ACS NSQIP is a nationally validated, risk-adjusted, outcomes-based program designed to measure
+and improve the quality of surgical care
+• Built by surgeons for surgeons, ACS NSQIP provides participating hospitals with tools, analyses,
+and reports to make informed decisions about improving quality of care
+• Peer-reviewed studies have demonstrated that ACS NSQIP is effective in improving the quality of
+surgical care while also reducing complications and costs
+• See appendix for further details previously presented to QPS Committee
+
+2
+
+ Cook County Health and ACS NSQIP
+• John H. Stroger, Jr. Hospital (JSH) of Cook County joined ACS NSQIP in September 2014 as part
+of partnership with Blue Cross Blue Shield of Illinois and the Illinois Surgical Quality Improvement
+Collaborative (ISQIC).
+
+• Team at this institution consists of:
+•
+
+Surgeon Champion: Mark A Wille, MD, FACS
+
+•
+
+Surgical Clinical Reviewer: Blessy Varghese, MSN, RN
+
+• Per NSQIP protocol, systematic sampling of 30 cases over 8 days
+• Receive semiannual report every 6 months from NSQIP
+•
+
+Contain 12 months data
+
+•
+
+Benchmarked against other NSQIP hospitals
+
+•
+
+Risk-adjusted
+3
+
+ Institutional Projects
+• Prolonged nil-per-os/nasogastric tube use
+(NPO/NGT) in Colectomy
+•
+•
+•
+
+•
+
+Prolonged NPO/NGT in Colectomy
+40.00%
+35.00%
+
+Initial reports revealed occurrence near 35%
+(near 2x rate of average NSQIP hospital)
+
+30.00%
+
+Assembled team and came up with treatment
+bundle (see appendix slide 37).
+
+20.00%
+
+Staged implementation began approximately
+8/2016
+
+1/2018-12/2018 semiannual report
+demonstrates rate under 23%
+
+25.00%
+
+15.00%
+10.00%
+5.00%
+0.00%
+
+4
+
+ Institutional Projects
+• Surgical Site Infections
+•
+•
+•
+•
+
+Initial reports revealed occurrence between 3.54.5% (near 1.5x rate of average NSQIP hospital)
+Assembled team and came up with treatment
+bundle (see appendix slide 39).
+Staged implementation began approximately
+12/2016
+1/2018-12/2018 semiannual report
+demonstrates rate of 1.91%
+
+Surgical Site Infection (All Cases)
+5.00%
+4.50%
+4.00%
+3.50%
+3.00%
+2.50%
+2.00%
+1.50%
+1.00%
+0.50%
+0.00%
+
+5
+
+ Cook County Health and ACS NSQIP
+Return on Investment
+• ISQIC provides return on investment calculations for certain variables
+• April 2019 report analyzed data from 7/2014-6/2015 compared to 1/2017-12/2017
+• Time periods are before and after implementation of our institutional projects
+• Relative change in rates calculated between two time groups
+• Cost per complication calculated (estimated from 4 hospitals in a large metro health system
+adjusting for patient characteristics, procedure groupings, and site of care)
+
+• Financial savings calculated
+
+6
+
+ Cook County Health and ACS NSQIP
+Cost of NSQIP Participation
+• Surgical Clinical Reviewer: $100,000
+• ACS NSQIP Annual Fee: $25,000
+• Total Cost of NSQIP Participation: $125,000
+
+7
+
+ Cook County Health and ACS NSQIP
+Return on Investment – Prolonged NPO/NGT after Colectomy
+• Baseline rate: 33.66%
+• 2017 rate: 23.42%
+• Relative change in rates: 30%
+• Estimated number of events avoided: 35
+• Estimated cost per complication: $10,205
+• Estimated financial savings (annually): $353,993
+
+8
+
+ Cook County Health and ACS NSQIP
+Return on Investment – Surgical Site Infections (Superficial)
+• Baseline rate: 2.84%
+• 2017 rate: 1.12%
+• Relative change in rates: 61%
+• Estimated number of events avoided: 96
+• Estimated cost per complication: $2,473
+• Estimated financial savings (annually): $237,210
+
+9
+
+ Institutional Projects (New)
+• Unplanned Intubation
+•
+
+Defined as placement of endotracheal tube or
+similar breathing tube and ventilator support
+which is not intended or planned
+
+•
+
+Serious adverse respiratory event
+
+•
+
+Increases risk of cardiac and pulmonary
+complications
+
+•
+
+Associated with higher healthcare costs
+
+•
+
+Associated with higher mortality
+
+Unplanned Intubation (All Cases)
+2.00%
+1.80%
+1.60%
+
+1.40%
+1.20%
+1.00%
+0.80%
+0.60%
+0.40%
+0.20%
+0.00%
+
+•
+
+= statistical outlier
+
+10
+
+ Institutional Projects (New)
+• Ventilator >48 hours
+•
+•
+
+Defined as total cumulative time of ventilatorassisted respirations exceeding 48 hours
+Similar complications to and costs associated
+with unplanned intubation
+
+Ventilator > 48 hours (All Cases)
+2.00%
+1.80%
+1.60%
+1.40%
+1.20%
+1.00%
+
+0.80%
+0.60%
+0.40%
+0.20%
+0.00%
+
+•
+
+= statistical outlier
+
+11
+
+ Cook County Health and ACS NSQIP
+Unplanned Intubation / Ventilator > 48 hours
+• Many patients who met unplanned intubation occurrence also met ventilator > 48 hours
+occurrence
+• Many are emergency cases, consisting of very ill patients
+
+• Have previously met with Chair of Anesthesia, Chair of Surgical Intensive Care Unit
+• Chart reviews performed
+• No overarching theme was identified
+
+• Currently planning multidisciplinary workgroup to address this problem
+
+12
+
+ Cook County Health and ACS NSQIP
+• Utilize clinically rigorous data abstraction methods
+• Have identified several opportunities for improvement
+• Ongoing projects, proven results
+• Improving patient care
+• Decrease institutional health care costs
+• Worthwhile return on investment
+
+13
+
+ 
+Appendix- 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+NSQIP History
+• Originated in the Veterans Health Administration (1991)
+• ACS received funding to implement NSQIP pilot program in private sector hospitals (2001)
+• ACS expanded program to additional private sector hospitals (2004)
+• ACS launched different NSQIP participation options tailored to hospital needs (2011)
+• John H. Stroger, Jr. Hospital of Cook County joined (2014)
+
+15
+
+ NSQIP Benefits
+• Satisfies the requirement for surgeons to be compliant with Maintenance of Certification (MOC),
+Part IV.
+• The Joint Commission awards ACS NSQIP hospitals a Merit Badge on their Quality Check public
+website.
+• CMS and ACS NSQIP are partnering to publicly report surgical outcomes on the Hospital Compare
+website.
+• Participation meets new CMS surgical measure for 2014: Participation in a Systematic Clinical
+Database Registry for General Surgery.
+
+16
+
+ Participating Hospitals
+
+Numbel' 018009: by sum. Region. and Country Indudedln the January2019 SAR (71 5)
+A68 NW AM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+17
+
+Program Overview
+• Includes general, vascular, and subspecialty surgery cases
+• Includes target cases
+• Program uses clinical data (not administrative data)
+• Outcomes assessed at 30 days after index surgery (inpatient or outpatient)
+• Highly standardized and validated data definitions
+• Data collected by a trained abstractor
+• Advanced data analytics and hospital audits ensure data quality
+• Provides data-driven tools for clinical decision making
+
+18
+
+ NSQIP Case Selection
+Systematic Sampling Process
+• Cases are selected based on the NSQIP inclusion/exclusion criteria
+•
+
+Inclusion based on CPT® codes of major cases
+
+•
+
+General exclusion criteria
+• Pediatrics
+• Trauma and Transplant
+• ASA class 6
+
+• An 8 day cycle yields on average 250 surgical procedures
+• Once exclusion criteria are applied to about 30% of the cases, there are enough cases remaining
+to fulfill the 30 cases per cycle NSQIP requirement
+
+19
+
+ NSQIP Data Collection
+Data analysis using standard methods
+Custom reports from NSQIP
+View data over time
+
+Benchmarking (SAR or semi-annual report)
+• Contain 1 year of data
+• New SAR released every 6 months
+• 6 month delay in receiving data (NSQIP takes time to perform statistical analysis and benchmarking)
+Real-time Reports
+• Not risk adjusted
+
+20
+
+ Semi-annual Report (SAR) Content
+Surgical Specialties
+
+Type of Complication
+
+General surgery
+
+Cardiac
+
+Vascular
+
+Pneumonia
+
+Colon Rectal
+
+Respiratory failure
+
+Cardiac
+
+Venous thromboembolism
+
+Gynecology
+
+Renal failure
+
+Neurosurgery
+
+Urinary tract infection
+
+Orthopedics
+
+Surgical site infection
+
+Otolaryngology
+
+Sepsis
+
+Plastics
+
+Return to operating room
+
+Thoracic
+
+Readmission
+
+Urologic
+
+Length of stay
+21
+
+ Targeted Cases
+Every case of the following is abstracted:
+•
+
+Colectomy
+
+•
+
+ventral hernia repair
+
+•
+
+bariatric surgery
+
+•
+
+Hysterectomy/myomectomy
+
+•
+
+spine surgery
+
+•
+
+brain tumor
+
+•
+
+transurethral resection of prostate
+
+•
+
+bladder suspension
+
+•
+
+Prostatectomy
+
+•
+
+Nephrectomy
+
+•
+
+Cystectomy
+
+•
+
+total knee and total hip arthroplasty
+
+•
+
+hip fracture
+
+•
+
+plastic flap
+
+•
+
+breast reconstruction
+
+•
+
+lung resection
+
+22
+
+ Data Collection
+• Preoperative data
+• Demographics
+• Clinical laboratory variables
+• Surgical profile
+• Clinical variables and complications
+• Postoperative data
+• 30-day outcomes (inpatient and outpatient)
+• Custom fields allows sites to track their own variables of interest
+
+23
+
+ Data Available to Hospitals
+Workstation Reports
+•
+
+Permits immediate evaluation on non-risk adjusted data and comparisons to similar types of hospitals
+
+•
+
+Hospitals can download case details for selected cases
+
+•
+
+Custom reports are available upon request
+
+On-demand Benchmarking
+•
+
+Risk-adjusted and smoothed rates and comparison to the average ACS NSQIP hospital
+
+•
+
+Monitor performance changes over time
+
+•
+
+Quality estimates for unique groups of patients
+
+Semiannual Reports (SARs)
+•
+
+Risk-adjusted and smoothed odds ratios and comparison to the average ACS NSQIP - modeled for a single data year using gold-standard
+methodology
+
+Participant Use Files (PUFs)
+
+•
+
+De-identified Research file contains all cases reported from 2005 to date
+24
+
+ Interpretation of Results
+“Exemplary” is assigned if the hospital is a low statistical outlier or is in the 1st quartile of adjusted OR
+percentiles.
+“Needs Improvement” is assigned if the hospital is a high statistical outlier or is in the 4th quartile of
+adjusted OR percentiles.
+“As Expected” is assigned if the hospital is neither a statistical outlier nor in the 1st or 4th OR quartile.
+Complete explanations of statistical methods and how results should be interpreted are in the SAR
+and available on the Resource Portal.
+
+25
+
+ Semiannual Reports
+Data listed subsequently are for first eight semiannual reports
+• Semiannual reports contain one year of data, released every six months (rolling basis) except 1st
+semiannual report – September 2014 – December 2014 (joined program in September 2014)
+
+Odds Ratio listed
+• Red+H indicates high statistical outlier (needs improvement)
+• Green+L indicates low statistical outlier (exemplary)
+• The Odds Ratio (OR) represents the odds that an outcome will occur given a particular exposure,
+compared to the odds of the outcome occurring in the absence of that exposure.
+
+26
+
+ Abbreviations Definitions
+GV = General and Vascular Surgery Cases
+
+URO = Urology
+
+VTE = Venous Thromboembolism
+
+THOR = Thoracic Surgery
+
+UTI = Urinary Tract Infection
+
+AAA = Aortic Abdominal Aneurysm
+
+SSI = Surgical Site Infection
+
+NPO/NGT = Nil-per-os/Nasogastric Tube
+
+ROR = Return to Operating Room
+
+VHR = Ventral Hernia Repair
+
+GEN= General Surgery Cases
+
+TURP = Transurethral Resection of Prostate
+
+COLORECT = Colorectal Surgery Cases
+
+TKA = Total Knee Arthroplasty
+
+VASC = Vascular Surgery Cases
+
+THA = Total Hip Arthroplasty
+
+SS = Subspecialty
+
+PLAST = Plastic Surgery
+
+NSG = Neurosurgery
+27
+
+ ACS NSQIP Semiannual Report Site Summary over Time
+
+COOK COUNTY
+
+HEALTH
+
+ 
+
+All Casues"r
+
+owls?own
+ALLCASES Modality
+ALLCASES Morbidity
+ALLCASES Carma:
+ALLCASES Pneumonla
+ALLCASES Unplanned Intubatnon
+ALLCASES Uenhlatm 2:45 Home
+ALLCASES UTE
+ALLCASES Renal Falhl??
+ALLCASES UTI
+ALLCASES SSI
+ALLCASES Bagels
+ALLCASES Calms
+ROR
+ALLCASES 
+
+Gen eraWascular*
+ems?mu
+
+GU Mmtalrty
+
+GU 
+
+GU Carma:
+
+GU Pneumoma
+
+GU Unplanned lntubatlen
+
+GU Uentiatnr 45 Hours
+
+GU UTE
+
+GU Renal Fahls
+
+GU UTI
+
+GU SSI
+
+GU Seesls
+
+GU C.dl" Calm
+
+GU RGR
+
+GU 
+
+Gen eral*
+owls?owl;
+
+GEN Mortahry
+
+GEN 
+
+GEN Carma:
+
+GEN Pneumema
+
+GEN Unplanned lntubatuen
+
+GEN Uentiator 45- Hours
+
+GEN UTE
+
+GEN Renal Fallure
+
+GEN UTI
+
+GEN SSI
+
+GEN Seuss
+
+GEN cam Come
+
+GEN ROR
+
+GEN 
+
+?TflS??hllb 
+
+1.3?
+1.45 
+1.20
+1.35
+1.03
+1.?0
+1.30
+1.35
+0.55
+1.42
+0.59
+
+1.2?
+1.24
+
+0 lJ'l-ly-l L'l-l
+1.05
+1.33
+0.95
+0.99
+0.92
+1.15
+1.03
+1.21
+0.92
+1.42
+1.12
+
+
+1.12
+1.43
+1.00
+1.04
+0.55
+1.22
+1.05
+1.25
+0.92
+1.51
+1.1?
+
+1.25
+1.12
+
+1.45
+1.33H
+1.51
+1.05
+1.14
+1.51
+1.05
+0.99
+0.?1
+1.50H
+1.01
+
+1.25
+1.22
+
+
+1.11
+1.24
+1.10
+0.?9
+1.05
+1.12
+0.90
+0.95
+0.?5
+
+1.24
+
+1.15
+1.10
+
+
+1.11
+1.31
+1.21
+0.54
+1.03
+1.20
+0.93
+1.03
+0.50
+1.49H
+1.31
+
+1.30
+1.15
+
+1.15
+1.15
+1.?1 
+0.54
+1.54
+1.8-BH
+0.93
+0.53
+0.53
+1.2?
+1.19
+
+1.15
+
+{IllI lS-lli 
+1.12
+1.11
+1.29
+0.59
+1.54
+1.50
+0.55
+0.51
+0.59
+1.25
+1.22
+
+1.15
+1.00
+
+0U 
+1.02
+1.10
+1.33
+0.95
+
+1.?4 
+1.53
+0.59
+0.53
+0.?2
+1.20
+1.20
+
+1.1?
+1.05
+
+0.93
+1.29 
+1.55
+0.90
+1.51
+2.13 
+1.05
+1.03
+0.95
+1.32
+1.05
+1.09
+1.11
+1.1?
+
+[5-051 [5
+1.05
+1.22
+1.51
+
+1.31
+1.05
+1.15
+1.05
+1.02
+
+
+1.05
+1.15
+1.4?
+1.10
+1.59H
+1.90H
+1.01
+1.04
+0.55
+1.22
+1.05
+1.22
+1.04
+1.04
+
+1.32
+1.50H
+1.55H
+
+0.5?
+
+1.50
+2.53H
+
+1.54
+
+0.91
+
+1.4?
+
+
+1.11
+
+0.54
+
+1.09
+
+1.05
+
+1.25
+1.11
+1.35
+0.90
+1.52
+1.50H
+1.53
+0.55
+1.05
+1.09
+0.51
+0.55
+1.01
+1.01
+
+?lJlb?lbl? 
+
+1.05
+1.29
+1.39
+1.03
+1.35
+1.51
+
+1.34
+1.05
+1.04
+1.34
+1.15
+0.50
+0.91
+
+0.95
+
+1.01
+
+0.95
+0.5?
+1.13
+1.34
+1.22
+1.45
+0.99
+0.91
+0.94
+0.55
+0.94
+
+0.94
+
+?lJlb?lla'lb Ilium?05'?
+
+1.12
+1.25
+1.55
+0.99
+1.50
+1.53
+1.40
+1.05
+0.95
+1.35
+1.1?
+0.53
+0.95
+0.9?
+
+1.00
+1.00
+0.9?
+1.23
+1.45
+1.29
+1.55
+1.05
+0.53
+1.00
+0.55
+0.52
+0.51
+0.95
+
+0.95
+1.02
+0.9?
+0.95
+1.5-BH
+1.34
+0.95
+0.95
+0.?5
+
+0.70
+1.34
+0.99
+1.15
+
+BUIT- UJIT
+0.5?
+0.55
+
+1.11
+1.43
+1.23
+1.03
+0.95
+0.?2
+0.95
+0.?5
+1.25
+0.53
+1.03
+
+BUIT- llJl?
+0.55
+0.91
+0.54
+1.05
+1.32
+1.10
+1.0?
+1.02
+0.?4
+1.02
+0.50
+0.99
+0.55
+1.05
+
+1.04
+1.04
+1.31
+1.05
+
+1.51
+0.?5
+0.95
+
+
+0.51
+1.39
+1.05
+1.0?
+
+
+0.90
+0.93
+1.03
+1.13
+1.39
+1.15
+0.5?
+0.92
+
+1.03
+0.95
+1.39
+0.91
+1.05
+
+
+0.55
+0.92
+1.11
+1.02
+1.25
+1.05
+0.59
+0.95
+0.?9
+1.05
+1.00
+1.25
+0.94
+
+1.02
+0.91
+1 . 14
+1.25
+1.?5 
+2.05 
+0.90
+0.5?
+0.95
+0.?9
+0.52
+0.95
+1.05
+1.04
+
+
+0.92
+0.50
+1.03
+1.25
+1.0?
+1.05
+0.9?
+0.92
+0.55
+0.?9
+0.?1
+1.12
+0.91
+1.12
+
+
+0.94
+0.52
+1.0?
+1.29
+1.10
+1.09
+0.99
+0.94
+0.55
+0.?5
+0.?2
+
+0.95
+1.15
+
+28
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Colorectal*
+
+
+my
+
+OOLORECT my
+
+COLORECT mum of 51w
+
+
+
+OOLORECT Pram
+
+COLORECT Mon
+
+COLORECT Vln?ltnr>40 Hour:
+
+COLORECT VTE
+
+COLORECT Raoul Flinn
+
+COLORECT UTI
+
+OOLORECT SSI
+
+COLORECT Sign
+
+
+
+COLORECT ROR
+
+COLORECT Mum
+
+Vascular*
+ems-nun
+
+vase: Madam
+
+VASC Morbidity
+
+VASC Clrdim:
+
+VASC Pm:
+
+VASE: mm
+
+VASC Vm?ltor>40 Hour!
+
+VASC VTE
+
+VASC Ram! Flibrl
+
+VASC. 
+
+VASC SSI
+
+VASC SIpl'l
+
+VASC Cd" Collin
+
+VASC ROR
+
+VASC Mum
+
+Measure*
+OMB-061M
+MEASURE DSM
+MEASURE Emmi DSM
+MEASURE Coion DSM
+MEASURE SSI
+MEASURE Dumas SSI
+MEASURE UTI
+MEASURE LEB DSM
+
+Subspecialties*
+Milli-WM
+
+Motility
+
+55-33mm: Mommy
+
+Canine
+
+SSCIrdilc Pom-marlin
+
+SSCIHIIC 
+
+maximum-18H?:
+
+SSdei-c VTE
+
+RInannlun
+
+UTI
+
+SSI
+
+OTJIWJIS ems-om 
+
+1 .05
+1 .40
+2.00 
+
+1 .02
+0.00
+1 .20
+1 .01
+1 .20
+0.02
+1 .043
+1 .02
+
+1.33
+1.07
+
+0 
+0.00
+0.05
+0.05
+0.05
+1 .05
+0.07
+0.06
+0.07
+0.00
+0.01
+0.03
+
+0.05
+0.00
+
+
+1.27
+1.01
+
+1.76
+
+0.05
+0.03
+
+
+1.24
+1.32
+
+1.20
+
+0.04
+
+0.05
+1.30
+2.04 
+
+0.00
+0.02
+1.23
+1.00
+1.07
+0.00
+1.04 
+1.1 3
+
+1.42
+1.00
+
+
+1.01
+0.01
+0.00
+0.07
+1.02
+0.01
+0.03
+
+0.06
+1.12
+0.06
+
+0.06
+0.04
+
+
+1.13
+0.00
+1.06
+1.04H
+1.10
+0.00
+0.00
+
+OTIIWIS
+1.12
+1.33
+
+1.12
+
+0.05
+
+0.05
+1.11
+
+
+0.61
+1.00
+1.15
+1.00
+0.06
+0.00
+1.05
+1.20
+
+0.07
+1 .04
+
+
+1.07
+1.06
+1.02
+0.07
+0.04
+1.05
+0.05
+0.06
+0.01
+1.30
+1.06
+
+1 .01
+0.04
+
+ems-mt!
+1.02
+1.04
+0.04
+1.33
+1.05
+0.61
+0.00
+
+
+1.00
+1.20
+
+0.61
+
+0.00
+1 .00
+2.06 
+
+0.03
+1.10
+1.10
+1.04
+0.07
+0.02
+1.00
+1.12
+1.15
+0.03
+1.02
+
+
+0.07
+1.21
+1.14
+1.04
+0.00
+1.00
+0.00
+1.03
+0.04
+1.26
+1.05
+0.07
+1.03
+0.00
+
+{?lls-061M
+1.06
+1.26
+0.07
+1.21
+1.00
+0.00
+0.05
+
+?lls-06!?
+0.07
+1.30
+
+1.04
+
+0.07
+La
+2125 
+1.71
+0.00
+1.06
+1.05
+1.27
+0.00
+0.06
+1.23
+0.06
+1.113
+1.07
+0.04
+
+
+0.06
+1.14
+0.07
+1.05
+0.00
+0.03
+0.03
+1.01
+1.06
+1.04-
+ma
+
+0.07
+0.06
+
+
+1.16
+1.23
+0.04
+1.26
+1.26
+1.70?
+0.00
+
+
+1.00
+1.70
+1.32
+0.03
+1.00
+1.01
+0.00
+0.06
+1.10
+1.14
+
+0.06
+0.00
+1.17
+1.15
+0.04
+0.03
+0.05
+1.14
+0.06
+0.02
+0.06
+0.00
+0.72
+0.06
+0.05
+
+
+0.00
+
+0.07
+0.00
+0.00
+0.00
+0.01
+0.07
+1.12
+0.04
+ma
+1.15
+0.00
+0.04
+
+?Nb-061'"
+1.07
+0.06
+0.76
+0.01
+1.31
+1.17
+0.00
+
+0106-06!?
+
+1.14
+1.41
+0.66
+0.06
+1.16
+
+0.02
+
+1.05
+
+0.00
+0.01
+0.73
+0.00
+0.01
+1.00
+1.03
+0.01
+1.02
+0.76
+1.16
+0.00
+0.07
+0.06
+1.05
+
+
+0.07
+0.00
+0.00
+1.04
+1.17
+1.23
+0.00
+0.04
+0.06
+0.03
+0.00
+1.05
+0.07
+0.05
+
+
+1.03
+0.02
+0.03
+1.27
+1.42
+0.00
+0.04
+
+
+1.00
+1.17
+1.10
+
+1.30
+1.12
+0.06
+0.70
+0.02
+1.10
+
+0.00
+1.00
+0.06
+0.00
+0.67
+1.21
+1.15
+0.04
+
+0.06
+1.22
+1.16
+1.35
+1.04
+1.12
+
+
+0.00
+1.00
+0.00
+1.14
+1.13
+1.06
+0.01
+0.03
+0.06
+0.03
+0.03
+1.20
+0.00
+0.05
+
+07.! II
+1.03
+0.00
+1.00
+1.30
+1.13
+
+0.05
+
+
+1.06
+1.55
+1.14
+0.05
+
+2.50
+
+1.03
+1.26
+
+0.05
+0.02
+0.03
+0.05
+0.00
+1.01
+0.04
+0.05
+0.00
+1.01
+0.02
+0.05
+1.00
+0.06
+1.17
+
+
+0.00
+
+0.04
+0.04
+0.07
+0.06
+0.07
+0.06
+0.07
+1.00
+0.01
+
+0.00
+0.04
+
+
+0.07
+0.00
+0.70
+0.04
+0.60
+0.07
+0.06
+
+
+1.13
+1.17
+1.06
+1.15
+1.16
+1.50
+0.03
+
+1.16
+1.11
+
+29
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Subspecialties - continued*
+
+Mill-00M BUM-INN MJIMIIS ?lls-063M Min-06H! 
+
+SSHaath Morbidity 1.15
+5515134th PW
+SS Plastic Unplanned mutation
+
+SS Plastic 
+
+55 Plastic 
+
+SS Plastic SSI 0.94
+SS Plastic Sepsis
+
+SS Plastic com Coltia
+
+SS Mastic ROR 1.10
+SS Plastic Ream-vision
+
+SS Thoracic Mortaity 095
+SS Thoracic Morbidity 1.11
+Thoracic Cameo
+
+SS Thoracic Pnunonia 1.21
+Thoracic Unoiameo Mutation 0.90
+SS Thoracic I?ventilator :48 Hours 0.92
+55 Thoracic WE 0.93
+SS Thoracic Renal Failure
+
+SS Thoracic UTI
+
+SS Thoracic SSI
+
+SS Thoracic 5004i:
+
+SS Thoracic com Colitis
+
+SS Thoracic ROR 0.92
+
+SSTho-rw'c Remission
+SS Urology Mtg-?airy
+
+SS Urology Mommy 1.1?
+SS Urology Cardiac
+SS Urology Manda 098
+
+SS Urology Umlannecl Intubation
+SS Urology Ventilator :48 Hours
+
+55 Urology WE
+
+SS Urology Renal Faiune 099
+SS Urology U?l'l 0.8?
+SS Urology SSI 2.00
+55 Urology Sepsis
+
+SS Urology 0.0m Coma
+
+SS Urology non 1.0?
+
+SS Urology Reearnluion
+
+Emergency*
+
+BTIIMHM 
+Emergency TEEN Mortalty 1.03
+Emergency TEEN Morbidity 1.03
+Emergency TCOLDN Modality 1.0?
+Length of Stay?
+
+mill-MIN MIN-WM
+GEN Panaeatecnomy Length of Stay
+GEN Distal Panaeatectomy Leng?'l of Stay
+GEN Minole Pmeatectonry Length of Stay
+
+GEN Leng?-I of Stay 2.14 
+GEN Proctecnomy Let-911101 Stay 0.94
+GEN Hepatectorny Length of Stay 0.90
+GEN Esoohagectomy Length of Stay
+
+MSG Brain?l'mtorLeng?'IofStay 1.16
+URO Nepllectomy Length at Stay 1.04
+
+1.05
+
+0.93
+
+1.1 1
+1.04
+1.42
+0.99
+
+1.20
+1.02
+1.13
+0.90
+
+0.88
+1.23
+
+1.03
+
+0.95
+
+0.89
+0.?8
+1.?0
+
+0.90
+0.99
+
+
+1.01
+1.25
+1.11
+
+Mllmils
+1.43
+
+2.09 
+0.9?
+0.89
+
+1.32
+1.04
+
+0.92
+
+0.95
+
+0.90
+1.08
+1.15
+
+0.93
+
+1.02
+1.01
+1.09
+0.9?
+
+0.8?
+1.01
+
+0.84
+
+0.92
+
+0&3
+0.91
+1.04
+
+0.98
+0.98
+
+
+0.90
+1.23
+1.03
+
+
+2.14
+
+1.99H
+
+0.?5
+1.70
+1.88
+
+0.92
+
+0.95
+
+0.9?
+1.12
+0.90
+0.85
+
+0.80
+0.95
+0.93
+0.98
+
+0.80
+1.05
+
+0.98
+
+0.8?
+
+0.90
+1.01
+1.08
+
+1.01
+0.95
+
+01'! I 5-06! I6
+0.92
+1 .09
+0.9?
+
+MJIWIIE
+1.82
+
+2.07 
+1.34
+0.90
+1.25
+1.38
+2.18
+
+0.93
+
+1.00
+0.99
+0.90
+1.00
+
+0.90
+0.9?
+
+1.14
+1.09
+1.10
+1.0?
+1.88
+1.05
+
+1.12
+0.90
+1.28
+0.99
+1.05
+
+0.99
+1.19
+0.9?
+
+0.99
+
+1.13
+0.90
+0.79
+1.55
+1.02
+0.9?
+1.13
+0.89
+
+on I6
+0.98
+1.04
+0.90
+
+
+
+2.04H
+1.32
+0.88
+1.?3
+1.3?
+2.09
+
+0.95
+
+0.98
+0.90
+1 .00
+0.99
+
+0.9?
+1.12
+1.20
+1.0?
+1.11
+1.34
+2.32
+
+1.18
+0.91
+1.45
+0.99
+1.16
+1.08
+
+1 .05
+0.90
+
+0.98
+
+1 .03
+0.9?
+0.8?
+1 .03
+0.09
+
+1.14
+1.00
+
+Mi 
+0.94
+1.08
+0.89
+
+MAIN 
+2.40
+
+1 .22
+0.91
+
+1.81
+1.41
+
+0.91
+
+0.94
+0.90
+
+1.21
+1.12
+0.9?
+1.09
+1.08
+
+1 .29
+0.93
+1 .04
+0.9?
+
+1.18
+1.10
+
+0.91
+1 .1 5
+0.95
+1 .08
+0.90
+1 .00
+0.93
+0.?5
+1 .29
+0.91
+
+1.05
+1.03
+
+
+0.97
+1.24
+1.02
+
+?HT-ll??
+2.40
+
+0.?4
+0.90
+
+0.?9
+1.22
+1.00
+
+0.88
+0.99
+
+0.99
+
+0.89
+0.98
+
+0.94
+0.90
+
+1.14
+1.18
+1.13
+1.20
+1.24
+1.10
+1.13
+
+1.02
+0.95
+
+1.53
+1.00
+1.09
+0.84
+
+0.88
+1.25
+
+1.02
+0.9?
+0.02
+1.18
+0.8?
+
+1.0?
+1.00
+
+If?) WW II
+0.91
+1.2?
+1.11
+
+If?! 11.1w II
+
+1.?8
+0.84
+1.17
+
+0.81
+0.94
+0.82
+
+1 .21
+0.99
+1 .00
+0.99
+0.99
+1 .20
+0.99
+
+0.9?
+0.9?
+0.99
+1 .04
+0.93
+1 .02
+1 
+1 .50
+0.93
+0.90
+
+[842"!
+0.91
+1.00
+0.9?
+
+
+
+1.50
+2.03
+0.94
+1.10
+
+1 .05
+0.08
+
+30
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Length of Stay - continued"
+MID-WM
+LED (3me Stay
+THOR Lung Resection M131 91 Stay
+use Stay
+VASCA-ortnillc tap-n: mast-y
+use Extrumity (marl: Lnng?mc? Stay
+
+Targeted - General*
+
+
+TGENCdIcw-nym?y
+
+TEENCobcmy Morbidity
+
+
+
+TGENCIHIEW PW
+
+TEENCm-cwny 
+
+
+
+TGENCEIIEWVTE
+
+TGENMWM Fin."
+
+TGENCOIIEW UTI
+
+TGENCd-ctorm 
+
+TGENCMIEW Sinai:
+
+TEEN Col-cm cum Caltil
+
+TGENCMW ROB
+
+TGENCMIEW Minion
+
+TGENCobctomyIAnuiorm?ti-cm
+
+TGENCHICW Prolonged NPOINGT Us.
+
+TEEN Predictamy Humidity
+
+TEEN 
+
+TEEN Prometamy Pnumrin
+
+TEEN Proctoctamym mun
+
+TEEN Prometnmy UTI
+
+TEEN Prometomy SSI
+
+TEEN Promemy Sips}
+
+TEEN Proctoctamy can Coltiu
+
+TGEN ROE
+
+TEEN Minion
+
+TGENVHR Mort-ml
+
+TGENVHR wry
+
+
+
+TGENVHR Mimi-
+
+TGENVHR 
+
+TGENVHH 
+
+TGENVHR VTE
+
+
+
+TGENVHRUTI
+
+TGENVHR 
+
+TGENVHH Semi.
+
+
+
+TGENVHH ROB
+
+TGENVHH Winn
+
+TGEN Blil?lric m1?
+
+TGEN Bari-m: anonin
+
+TEEN Blril?lric Vintillior>48 
+
+TGEN Barimri: VTE
+
+TEEN Bari-inc 
+
+TGEN Barimri: UTI
+
+TGEN Barium: SSI
+
+TEEN Barium: Sepsis
+
+
+
+0.85
+
+1 .04
+1 .49
+
+0 IIM-I 1H4
+HR
+1.28
+0.90
+1.07
+0.92
+1.11
+
+1.17
+0.94
+1.52
+1.08
+
+1.25
+1.03
+1.15
+1.99H
+
+0.97
+0.96
+1.18
+1.11
+1.113
+0.99
+0.99
+
+0.99
+0.90
+0.94
+
+0.95
+0.95
+
+OTJIWIS
+
+0.50
+0.97
+0.96
+1 .07
+
+
+0.94
+1.25
+1.19
+0.82
+0.96
+1.14
+0.97
+1.14
+0.94
+
+1.62 
+0.96
+
+1.39
+1.07
+1.15
+1.96H
+
+0.99
+0.97
+1.03
+1.08
+
+0.96
+0.9 3
+
+0.9 3
+0.91
+0.90
+
+0.92
+1.02
+
+OIJIS-IIJIS
+
+0.72
+0.93
+1.24
+1.53
+
+
+0.89
+1.03
+1.33
+0.60
+1.02
+1.14
+0.97
+
+0.95
+1.18
+1.04
+
+0.95
+1 .03
+0.93
+2.18 
+
+0.95
+1.03
+0.92
+1.01
+1.16
+1.26
+0.93
+1.17
+
+1.11
+1.04
+
+1.11
+1.12
+
+Milo-I1!? 
+
+0.71
+
+2.10
+1.81
+
+?lls-06!?
+0.88
+1.12
+1.60
+0.86
+1.16
+1.20
+1.03
+0.91
+0.85
+1.08
+1.16
+1.11
+0.86
+1.113
+0.85
+2.12 
+0.91
+0.98
+0.97
+0.99
+0.99
+0.92
+0.98
+0.98
+0.98
+1.00
+
+1.03
+
+1.04
+1.02
+1.12
+1.11
+1.19
+1.05
+1.24
+1.07
+1.32
+1.08
+1.16
+1.113
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+
+0.71
+
+1.38
+1.62
+
+
+0.97
+1.30
+1.79
+0.93
+1.05
+1.06
+1.15
+0.91
+0.95
+1.17
+1.07
+1.05
+1.10
+0.95
+1.11
+2.02H
+
+0.98
+1.03
+
+0.84
+0.91
+
+1.02
+0.95
+1.09
+1.38
+0.90
+
+0.89
+1.10
+0.98
+1.00
+
+1.00
+0.99
+1.00
+
+0.87
+1.17
+
+0.92
+2.19
+
+
+0.97
+0.96
+1.18
+0.91
+0.94
+0.99
+1.04
+0.97
+0.92
+0.97
+0.85
+0.79
+1.01
+0.97
+1.15
+
+1.61 
+
+0.85
+1.02
+
+1.24
+0.98
+0.75
+
+1.M
+1.04
+1.18
+0.78
+0.96
+0.70
+1.10
+0.98
+0.99
+
+0.99
+
+0.99
+
+0.98
+1.00
+
+0.80
+1.02
+
+0.82
+1.40
+
+
+0.91
+0.97
+0.98
+0.87
+1.13
+0.97
+0.96
+1.02
+0.76
+1.3
+0.98
+0.97
+1.00
+1.04
+1.01
+
+1.56 
+
+1.06
+0.90
+1.27
+
+0.80
+
+
+1.11
+1.11
+0.96
+0.87
+0.70
+1.07
+0.96
+0.99
+
+0.99
+
+0.99
+
+0.98
+0.99
+
+0.92
+0.60
+
+2.18
+
+OTIIT-OGIIB
+0.87
+1.07
+1.01
+0.72
+1.18
+1.06
+0.82
+
+0.98
+1.22
+1.17
+1.19
+1.08
+1.09
+1.10
+1.84H
+
+1.01
+0.99
+0.92
+
+0.95
+
+0.95
+1.M
+1.18
+0.96
+0.90
+0.98
+0.99
+1.00
+
+1.00
+1.00
+1.00
+
+0.41
+
+1.55
+
+
+0.95
+0.87
+0.86
+0.99
+1.01
+0.91
+0.85
+0.99
+1.01
+0.89
+0.89
+1.05
+0.99
+1.14
+0.99
+1.67
+
+0.92
+0.99
+0.98
+1.113
+0.99
+
+0.99
+0.99
+0.93
+0.98
+0.99
+0.98
+1.01
+0.96
+
+0.99
+0.98
+0.99
+
+31
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Targeted - General - continued*
+[3416! [4 illi'l-l-lli'l-l mild?06!? Ill! lS-li?J 
+
+TEEN Bariatric Cd? Cditis
+
+TEEN Bariatric HER
+
+TEEN Bariatric Remission
+
+TEEN Thyroid-Barony Mm?bitily
+
+TEEN Thyro?octomy Urplamod Immation
+
+TEEN Thyroidsctomy SSI
+
+TEEN Thyroidsctomy NEH
+
+TEEN Thyroidsctonw Heaviss'ion
+
+TEEN Esaphagemomy Mmbidiw
+
+TEEN Esophagoctomy anmia
+
+TEEN Esophagoctomy Urplannod Immatian
+
+EEN Esophagoctomy VTE
+
+TEEN Esophagsctomy SSI
+
+TEEN Esomagsctomy Sepsis
+
+TEEN Esophagoctomy HER
+
+TEEN Esomagoctomy HWIM
+
+TEEN Moi-rainy
+
+TEEN Morbidity
+
+TEEN Cardac
+
+TEEN Pmumonia
+
+TEEN 
+
+TEEN Appendoctomy Rona] Faiura
+
+TEEN UTI
+
+TEEN SEI
+
+TEEN 5995's
+
+TEEN Ed'iff Caitis
+
+TEEN moi-mommy HER
+
+TEEN moi-mommy Beau-Mayan
+
+Targeted Gynecology"
+mill-061'? 0Ul5-l2i'l5
+
+TEYN HystIMyom Mortality
+
+TEYN HystIMyom Morbidly
+
+TEYN Carder:
+
+TEYN Pneumonia
+
+TEYN Vm?ator} 43 Hours
+
+TEYN VTE
+
+TEYN HystIMyom Rena] Fahrs
+
+TEYN HystIMyoi-n UTI
+
+TEYN SSI
+
+TEYN 5395's
+
+TEYN cam Cams
+
+TEYN ROR
+
+TEYN HystiMyom Raad'nission
+
+TEYN 
+
+TEYN Leak.
+
+Targeted - 
+0U l4-l1l' l4 Milli-OHM ems-[ms
+TNEE Spine mum
+TNEE Spine Humidity
+TNSE SpineCardac
+TNSE Spine Prml'mnia
+TNSE Spine Urplannod Immation
+TNSE Spins Ventilator :43 Hours
+TNEE SpineVTE
+
+01'H5-061'l6 UNIT-WIS 
+1.00 1.00
+1.00 1.00 0.99 0.9? 0.99 0.93
+0.99 0.93 0.9? 0.92 2.56 2.35
+0.92
+0.96
+0.9?
+0.91
+0.93
+0.3?
+0.?3
+0.99
+1.00
+0.39
+0.93
+1.15
+0.94
+1.00
+1.04
+0.99
+0.95
+0.93
+0.99
+0.99
+1.16
+0.96
+0.93
+1.09
+0.91
+
+mils-062m nuts-[ms
+
+0.96
+1.23 1.00 0.35
+0.94 1.11 1.20
+0.99 0.90
+0.95
+0.96 0.90 0.90
+0.9? 0.93
+1.00 0.91 
+1.34 1.02 0. ?4
+0.96 0.92 0.31
+0.99 0.9? 0.93
+1.23 1.20 0.95
+1.15 1.09
+0.36 0.33 1.34
+2.30
+
+OlJlT-lli'l'i" win-owls 
+
+0.99 0.99 0.99 0 .93 0.99 1.00
+1.16 1.25 1.06 033 0.96 1.02
+0.96 0.93 0.9? 1 .00 0.99 0.9?
+0.92 0.95 0.94 0 .94 0.95 0.93
+0.9? 0.9? 0.93 0 .99 0.93 1.00
+0.39 0.96 0.9? 0 0.93 0.99
+0.91 1.10 1.14 0.92 0.96 0.99
+
+32
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Targeted - NSG - con?rmed?
+
+TNSG Spin-Renal Falum
+
+TNSG SpinoUTl
+
+was 391mm
+
+TNSG SoinoSepeb
+
+TNSG Soino?d??ol'm?s
+
+TNSG SoinoROR
+
+TNSG SoinoReadniaaic-n
+
+was 0!me Monany
+
+TNSG 8!me my
+
+TNSG BIahTmIorCam'ac
+
+TNSG 0!me Pruner-ia-
+
+TNSG Blah?l'umof mph-rm Intuba?on
+TNSG BlahTumor Hows
+TNSG 5!me WE
+
+TNSG 
+
+TNSG 0!me SSI
+
+was Sepals
+
+TNSG BIa'lITumol ROR
+
+TNSG 5!me Roman-n
+
+mamas IDIHS-IZHS
+
+Targeted - Urology"
+mill-MIN OHM-WM MJIWIS mus-1:315
+
+TURP my
+
+TURP wry
+
+URO TURF Cudac
+
+URO TURF Renal Fa-i in
+
+URO TURP UTI
+
+URO TURP Sends
+
+URO TURF ROR
+
+URO TURF Re?nish-n
+
+URO abduct Suspended Modality
+
+URO Bladder Suspension UTI
+
+URD Bladder 545000600 RDR
+
+TURO abode! Suspmu'on Roaminon
+
+URO Prostatoctomy my
+
+URO Proautactonw Cardiac
+
+URO Pmutocw WE
+
+URO Pro-6131mm Raul Fa' Lu
+
+URO Pro-cutaway UTI
+
+'r uno Prostatoctomy 351
+
+URO Pmutocw Sepsis
+
+Pmutocw ROR
+
+URO Pro-statoctomy nourish-n
+
+URO Mortality
+
+URO 1%me 
+
+URO Noohrocwny Cardiac
+
+URO Pm
+
+URO Urplannoa umba?on
+
+URO Vm?aw: 48 Hours
+
+URO me VTE
+
+TURO Macro-m Renal Fan-re
+
+URO UTI
+
+URO SSI
+
+URO ~81:th Sands
+
+URO 0.0m Cams
+
+1' uno ROR
+
+MUM-WU 
+
+0.9?
+1.5?
+0.88
+0.9?
+0.9?
+1.1?
+1.15
+0.9?
+1.15
+
+0.98
+1.85
+
+0.90
+0.93
+0.94
+1.0?
+1.00
+
+
+1.00
+0.91
+
+1.00
+0.94
+0.98
+0.9?
+0.9?
+0.99
+
+0.93
+
+0.93
+0.98
+1.00
+
+0.90
+1.92
+
+1.10
+1.23
+1.05
+0.98
+0.98
+0.98
+1.00
+1.00
+
+IIHII 
+
+0.94
+
+0.94
+1.00
+0.98
+0.99
+0.98
+0.98
+1.00
+
+0.91
+2.54
+
+1.05
+1.12
+1.00
+0.93
+0.99
+0.98
+0.98
+
+1.00
+1.18
+0.89
+0.95
+0.99
+1.34
+1.08
+
+1.02
+
+0.99
+1.14
+0.93
+1.15
+0.99
+0.93
+0.98
+0.98
+1.00
+
+
+1.00
+1.08
+
+1.10
+0.9?
+
+1.11
+099
+1.00
+1.00
+
+1.42
+1.00
+1.05
+
+0.37
+2.24
+0.9?
+1.13
+1.08
+0.99
+0.92
+0.98
+0.98
+
+0.99
+0.94
+
+0.9?
+
+0.95
+0.84
+0.94
+0.90
+1.09
+1.00
+0.99
+1.03
+
+0.90
+
+0.98
+0.90
+0.9?
+1.20
+0.95
+1.02
+1.05
+
+
+
+0.98
+
+1.09
+1.04
+0.90
+0.90
+
+0.91
+
+0.99
+0.9?
+0.99
+1.00
+0.90
+0.99
+
+0.90
+
+0.99
+
+Min-06H!
+099
+1.17
+0.90
+0.90
+1.00
+0.91
+1.01
+0.98
+1.11
+0.99
+1.35
+
+GTIIZHINII
+
+0.9?
+
+0.94
+
+0.90
+
+0.91
+0.95
+
+0.90
+0.85
+
+0.79
+1.03
+
+084
+1.00
+
+098
+
+0.90
+
+0.99
+
+0.99
+
+100
+
+0.9?
+0.99
+
+0.90
+
+
+
+II-IZJII
+1.00
+0.9?
+0.99
+0.9?
+1.00
+0.99
+
+0.90
+
+0.99
+
+0.99
+
+0.95
+
+0.99
+0.95
+
+33
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Targeted - Urology - continued"
+Ill 
+
+uno Minion
+
+uno Cy mummy Mortality
+
+UHO Cy Morbit?y
+
+uno Cy mtamy Cardin:
+
+URO Cy mummy Pm:
+
+UHO Umimnld mm
+
+TUHO Cyltoctamy Vln?Ii-Drnv-IB 
+
+URO Cy metamy VTE
+
+uno Cy mm Fahrltoctamy SSI
+
+UHO Cy Itoctarm Sign
+
+URO Cy mtarny Cd" Gol?-
+
+uno Cy Itoctamy non
+
+uno Cy Minion
+
+Targeted - Orthopedic" r
+
+
+TOHTHO TKA Motility
+
+Tor-1M TKA Morbidity
+
+TORTHO TKACmdiac
+
+TOHTHO TKA mm:
+
+TORTHO TKA um mmum
+
+TORTHO TKA thilltorn-? Hour:
+
+TORTHO TKA 
+
+TORTHO TKA ?nal Fall."
+
+TOHTHO TKA UTI
+
+TORTHO TKA SSI
+
+TORTHO TKA Sup"
+
+TOHTHO TKA C.diffComiu
+
+TORTHO TKA ROB
+
+TORTHO TKA Winn
+
+TORTHO THA Mortality
+
+?roam ?rm Morbidty
+
+TORTHO THACnrdiaC
+
+TORTHO THA Pmnmia
+
+TORTHO THA mgr-
+
+
+
+TORTHO THAVTE
+
+TORTHO THA Han-l Faun
+
+TORM THA UTI
+
+TORTHO THA SSI
+
+?roam ?rm Sap-i.
+
+TORM THACJH Colu-
+
+TORTHO THA HOP.
+
+TORHTO THA Muir-ion
+
+Ha Frictun Mommy
+
+TORM Ha Frictun Mommy
+
+TORTHO Hp Fractun Cardin:
+
+TORTHO Hp chtun Pneum-
+
+TOHTHO Hp me mum
+
+TORTHO Ha Fricm thlmor>48 Hour:
+
+TORTHO Hp chtun VTE
+
+TORTHO Hp Fructun Final Film
+
+TOHTHO Ha Frictun UTI
+
+TOHTHO Ha Frictun 55!
+
+GTIIT-OOIIB 
+
+0% 0.00 0.00
+
+0.00
+
+1.00
+
+1.00
+1.00
+0.00
+0.06
+0.00
+1.00
+0.00
+0.00
+
+earns-own 
+1.00
+0.00 0.0? 0.00 0.08 0.06
+1.00 1.00 1.00 1.00
+1.00 0.00 1.00 1.00 0.00
+1.00 1.00
+1.00
+0.00 0.06 0.0? 0.08 0.05
+1.00 1.00 0.00
+1.00 0.00 0.00 1.00 0.00
+0.00 0.0? 0.08 0.06
+1.00 0.00 1.00 1.00
+1.00 0.0? 0.06 0.00 0.00
+0.00 1.08 1.00 0.00 0.00
+1.00 1.00
+1.13 0.00 0.00
+0.0? 1.00 1.00
+0.05 1.00 1.00
+1.4-2 1.00 1.00
+1.00 1.00
+0.00 0.00 0.00
+0.0? 1.00 1.00
+1.35 1.00 1.00
+1.20 0.00 0.00
+1.26 1.00 0.00
+0.00 1.00
+1.12 1.15 1.15
+1.00 1.06 1.06
+1.00
+0.00
+0.00
+1.00
+0.00
+1.00
+1.00
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.0?
+0.06
+0.05
+0.00
+0.00
+0.00
+
+OIJIT- 
+1.00
+0.0?
+1.00
+
+1 .00
+0.00
+0.04
+1 .00
+1 .00
+0.06
+1 .00
+
+0.00
+0.00
+1 .00
+0.00
+1 .00
+0.00
+
+0.00
+0.00
+0.00
+0.06
+0.00
+
+0.06
+0.00
+0.00
+1 
+
+0.00
+1 .00
+1 .00
+0.00
+1 .00
+1 .30
+0.00
+
+0.08
+1.113
+0.00
+1.00
+1.113
+1.00
+
+1.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+0.00
+1.113
+1.00
+
+1.00
+0.00
+1.00
+1.00
+0.00
+1.00
+
+0.00
+0.00
+
+0.00
+1.00
+
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.0?
+0.00
+0.02
+1.02
+1194
+0.00
+
+0.00
+0.06
+0.00
+1.22
+0.00
+
+0.06
+
+Mill-I11?
+1.00
+1.00
+1.00
+1..00
+0.00
+1 .00
+
+1.113
+
+1 .1 5
+1 .m
+0.00
+0.00
+1 .00
+
+0.00
+0.00
+1 .00
+1 .02
+0.06
+0.05
+
+1 
+1 .30
+1 .00
+0.06
+0.05
+
+34
+
+ 
+
+COOK COUNTY
+
+HEALTH
+
+Targeted - Orthopedic - con?rmed?
+Wilmi?ls 
+TORTHO Hp Fracture Sepa's
+TOHTHO Hp Fracture Goifis
+TOHTHO Hp Fracture FIJR
+TOHTHO Hp Fracture Head'niss'on
+TORTHO Hp Pest-op Pressure Score
+TOHTHO Hp Post-op Deliium
+
+Targeted - Plastic"
+MJIWIS 
+
+TPLAST Flap Morbidw
+
+Flap Pneumonia
+
+TPLAST Hm Ventilator >43 l-burs
+
+Flap VTE
+
+TPLAST Flap SSI
+
+TPLAST Flap Sepsis
+
+TPLAST Flap ROR
+
+TPLAST Flap Heme-Ion
+
+PLAST Bream Reconstruciion Morbiclty
+
+Bream Reconstrumion VTE
+
+PLAST Bream Reconstruction SSI
+
+PLAST Bream ROB
+
+PLAST Bream Reconstruction Head'm'e man
+
+Targeted - Thoracic Lung Resection*
+Mill-061'? lJl4-l2i'l4 ill! l5
+
+TTHOR Lung Resection Momsny
+
+TTHOR Lung Reseaion Morbidty
+
+TTHOR Lung Resection Cardiac
+
+TTHOR Lung Reseaion Pnemwnia
+
+TTHOR Lung Resection Urplanned IntLbaLion
+
+THOR Lung Reseaion Ventilator 43 Hours
+
+TTHOR Lung Reseaion VTE
+
+TTHOR Lung Resem'on 
+
+TTHOR Lung Resedion SSI
+
+TTHOR Lung Resem'on Sepsis
+
+TTHOR Lung Reseaion HOB.
+
+TTHOR Lung Resection Read'rl'smon
+
+Illi'l'f-lli'l? min-061B 
+
+0.99 1 .11] 0.93 1 .00
+1 .00 0.99 0.93 0.93
+0.99 1 .00 0.99
+0.99 1 .03 1 .00 1.0?
+0.91
+
+1 0. 90 0. ?9
+
+{lli?lLlZi'lB
+
+1.13 1.11 0.96 0.33 0.92
+
+0.99 0.93
+
+0.93
+
+0.99
+
+0.99 0.93 0.91 0.3? 0.9?
+
+1.00 0.99 0.99 0.93 0.93
+
+0.99 0.9? 0.91 0.92 0.39
+
+0.93 0.95 0.99
+
+0.99 0.99 0.99 0.93 0.95 0.9?
+1.113 1 .11!
+
+1.00 1.00 0.99 0.93 0.9? 0.9?
+
+0.99 0.93 0.99 0.93 0.9? 0.99
+
+0.93 0.99 0.99 0.93 0.9? 0.99
+
+MllS-Dfu'l? IllJl'f-lzi'l? 0Ul&l2i'l8
+
+0.99 0.93 0.96
+0.93 0.39 0.94 0.95 1.03 0.9?
+0.93 0.93 0.99 1.39 1.24 0.99
+0.9? 0.92 0.9? 0% 1.04 1.03
+0.9? 0.93 0.92 1 . 10
+0.95 0.95 0.93 1.23 1.21 0.91
+1 . 10 0.96
+0.92 0.96 0.99
+0.9? 0.93 0.95 033 0.91 0.9?
+0.99 0.99 0.96 0.99
+0.94 0.94 1.09 1.09 1.50 1.13
+0.96 1 .02 1 .11! 0. 94 0.99
+
+35
+
+Prolonged NPO/NGT in Colectomy
+• Prolonged NPO/NGT use is one of many potential occurrences in patients undergoing colectomy
+• Occurrence indicates that bowel function has not returned after operation
+• Prolonged NPO/NGT use leads to:
+• Increased length of stay
+• Reoperations
+• Decline in functional status
+
+• Increased discomfort and pain
+• Increased risk of pulmonary complications
+• Increased healthcare costs
+
+36
+
+ Prolonged NPO/NGT in Colectomy Bundle
+Intervention Bundle
+• Preoperative Teaching
+• Mechanical Bowel Preparation prior to surgery
+• Preoperative oral antibiotic taken
+• Clearfast or Carbohydrate drink
+• Opioid-sparing medications/Intravenous Tylenol given preoperatively
+• Epidural placed
+• Opioid-sparing drips intraoperatively
+• Goal-directed fluid management intraoperatively
+• Limit post-operative fluids (bolus)
+• Ambulation within 24 hours
+
+• Feeding within 24 hour
+37
+
+ Using NSQIP data to improve care: Surgical Site Infections
+Second most common type of healthcare-associated infection (HAI) in U.S. Hospitals (290,000 per
+year)
+Estimated cost: $3.5-10 billion per year
+
+Patient with SSI is:
+• 5 times more likely to be admitted after discharge
+• 2 times more likely to spend time in intensive care
+
+• 2 times more likely to die after surgery
+
+Kirkland KB, Briggs JP, Trivette SL, et al. The impact of surgical-site infections in the
+1990s: attributable mortality, excess length of hospitalization, and extra costs. Infection
+Control and Hospital Epidemiology. 1999;20:725-30.
+38
+
+ Surgical Site Infection (SSI) Bundle
+Intervention Bundle
+• Chlorhexidine Bath Written Instructions
+• Chlorhexidine Bath Video
+
+• Laparotomy Discharge Instructions
+• Neomycin and metronidazole oral antibiotic preoperatively for colectomy
+• Proper re-dosing of antibiotics
+• Separate closing tray
+• Normothermia at surgery completion
+• Gown/Glove/Drape change during wound closure for gastrointestinal surgery
+• Glove change during wound closure for gynecologic surgery
+
+39
+
+ 

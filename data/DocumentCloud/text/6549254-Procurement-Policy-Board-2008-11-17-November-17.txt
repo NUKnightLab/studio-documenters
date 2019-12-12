@@ -1,0 +1,204 @@
+PPB
+
+STATE OF ILLINOIS
+
+PROCUREMENT POLICY BOARD
+Terrence Healy, Chairman
+Members: Michael Bass, Ed Bedore, Ricardo Morales, Carmen Triche-Colvin
+
+Minutes – November 17, 2008 Meeting
+Room 9-040 at the James R. Thompson Center in Chicago
+Connected via video to
+Room 115 at State Capital Building in Springfield
+12:00 p.m.
+Present in Chicago:
+
+Terry Healy
+Rick Morales
+
+Present in Springfield:
+
+Ed Bedore
+Mike Bass
+
+Absent:
+
+Carmen Triche-Colvin
+
+The Board started the meeting by confirming attendance at 12:00 p.m.
+The minutes of the October 23, 2008 meeting were approved by Member Morales and seconded by
+Member Bedore. The minutes were unanimously approved.
+First on the agenda was CMS Document Management presentation by Doug Kasamis Deputy
+Director of CMS Bureau of Communications and Computer Services. Mr. Kasamis began with what
+a document management system (DMS) is, which is a computer application used to create, edit,
+manage and publish content in a consistently organized fashion. DMS has several capabilities, which
+consist of metadata, storage, security, publishing/distribution, capture, indexing, versioning,
+integration workflow and collaboration. They can be divided into three difference types. One is
+document repository, which capabilities are simple metadata, storage security and publishing with an
+estimated cost of about $100k - $1M per application. Another is intelligent retrieval, which
+capabilities are capture, indexing, versioning and integration with an estimated cost of about $1M $3M per application. Third is enabled business processes, which capabilities are workflow and
+collaboration with an estimated cost of about $3 - $15M per application. Member Bass wanted to
+know on the matrix if the capabilities were discrete or does the intelligent retrieval examples of
+Documentum or Symantec include document repository. Mr. Kasamis replied that they build from
+each other and they are not discrete capabilities. Member Bedore wanted to know where CMS’s role
+is in all of this and what is being done so that all of these things can be looked at for other agencies.
+Mr. Kasamis replied that from a technology perspective it is his job to work with those agencies and
+establish the appropriate standards to ensure that everyone is using the same underlying technology
+as CMS builds out their document management solution. Mr. Kasamis sees it as his job within CMS
+to create the standard for the architecture because they can save the State a lot of money so that each
+agency is not creating their own underlying application and infrastructure to deploy these kinds of
+solutions. Once this is done and residing on the same storage and server clustering technologies, it
+will enable greater sharing across the different agencies.
+Member Bass wanted to know if he would handle the data that came from DHS or HFS (i.e.
+Medicaid data, patient data). Mr. Kasamis replied that they handle it from a system software and a
+m:081117
+511 WEST CAPITOL, SUITE 102, SPRINGFIELD, IL 62704
+Telephone: (217) 785-3988 Fax: (217) 557-9927 TTY (888) 642-3450
+
+ storage perspective. No one at BCCS is authorized to look at that data, but they are responsible for
+the servers, the mainframe, the storage and the network it runs on. Mr. Kasamis stated that CMS is
+looking at what other States are doing and found New Mexico’s enterprise solution, which is a
+Statewide enterprise content management solution providing Statewide access to documents,
+centralized electronic archives with an integrated approach for the capture, maintenance, storage,
+access disposition and preservation of electronics records and a framework that can be used by each
+agency. Member Bedore asked Chairman Healy if Mr. Kasamis could come back in April with an
+update. No further questions were asked.
+Next on the agenda CMS Property Management – In attendance was Nick Kanellopoulos, Legal
+Counsel for CMS and Marcia Armstrong, Deputy Director of Property Management. Mr.
+Kanellopoulos stated that CMS is withdrawing lease# 5486 for Board consideration today and will be
+reposted after some details on terms can be revised. First lease was ICC lease #1561 at 527 E.
+Capitol Ave in Springfield. Mr. Kanellopoulos stated that Jane Fields from ICC was in attendance for
+any questions regarding this lease. This lease is 90,196 sq. ft. and houses 243 employees. Base rent
+is at $10.44 for office space and $3.11 for storage space. ICC has been at this location since the early
+1970’s. This office includes two large hearing rooms, several smaller conference rooms, video
+conference rooms all of which are used regularly. Chairman Healy asked about the parking. Ms.
+Field replied that there is no parking for that facility. Member Bedore wanted to know if anyone from
+IDOT was in attendance. Mr. Kanellopoulos replied that they did not have any leases on the agenda
+and were not asked to attend. Member Bedore just wanted IDOT to know that there is prime space
+available around the State Capital at $10.44 per sq. ft. and wonder what they will be paying in
+Harrisburg. A motion was made to approve this lease by Member Morales and was seconded by
+Member Bedore. The motion was unanimously approved.
+Next was DHS lease# 3995 at 831 W. 119th St. in Chicago. Mr. Kanellopoulos stated that Henry
+Johnson the Statewide Leasing Manager for DHS is present for any questions. This lease is 27,507
+sq. ft. This office is a human capital development office which also houses nine DES employees. The
+base rent is $9.02 and storage is $3.06. Member Bedore stated that this lease is just a couple of miles
+away from Harvey. Member Bedore wanted to record to show that this lease will be approved for
+$9.02 sq. ft and is just a few miles away from a proposed location in Harvey. A motion to approve
+lease #3995 was made by Member Bass and was seconded by Member Bedore. The motion was
+unanimously approved.
+Next was DCFS lease #4643 at 508 S. Race St. in Urbana. Mr. Kanellopoulos stated that Bill Schnidt
+with DCFS is in attendance to answer any questions. This lease is 10,800 with 36 employees at this
+location, which comes to about 300 sq. ft. per employee and the agency has been in this location
+since 1989. The base rent is $14.59 sq. ft. Member Bedore wanted to know when the last time a
+major clean-up of this facility was done since no maintenance will be done for another four years.
+Mr. Kanellopoulos replied that in 1999 painting was done and during the site evaluation it showed
+that no improvements were needed at this time. Member Bedore advised caution on such terms in
+client service centers that might have high levels of wear and tear. Member Morales asked if it
+would ever be necessary to supply the Board with a site evaluation form. Mr. Kanellopoulos
+responded that operationally it would probably not be necessary since required improvements
+become a part of the lease terms.
+Member Bedore made a motion to accept lease #4643 and was seconded by Member Morales. The
+motion was unanimously approved.
+Next was DCFS lease #5175 at 2245 W. Ogden Ave. in Chicago. Mr. Kanellopoulos stated that Chris
+Towers from DCFS was in attendance to answer any questions. This lease is 17,415 sq. ft. and
+houses 57 employees, which comes out to about 305 sq. ft. per employee. Base rent is $17.78 sq. ft.
+m:081117
+
+2
+
+ which includes everything. Chairman Healy asked if there was parking at this facility. Mr.
+Kanellopoulos replied that there was no parking included. Mr. Towers stated that there is no free
+parking, but there is a parking garage across the street from the building which has a very low rate
+per day. A motion was made to approve lease #5175 by Member Morales and was seconded by
+Member Bedore. The motion was unanimously approved.
+Next was DCFS lease #5326 at 4 West Old State Capitol Plaza in Springfield. This lease is 34,007
+sq. ft. and houses 58 employees. This is a five year lease. This lease includes touch-up paint in high
+traffic areas and replacement of floor in elevators, replace carpet and tile in large file room and carpet
+in second floor reception area. There are also 17 parking spaces at a cost of $45 a month. These
+spaces are assigned to people who travel throughout the work day to and from the facility for work
+purposes. Member Bedore stated that in 2001 as he read from the minutes that he questioned the
+inclusion of paid parking spaces for this then. Member Bedore cannot find anything to justify paying
+for parking. Member Bass wanted to know if they could get a copy of the job descriptions of the
+employees who have these spaces. Mr. Kanellopoulos replied that they can provide a list of job titles
+to the Board. Member Bedore stated that in 2001 CMS replied that the parking was provided for
+senior staff. Mr. Schnidt stated that every person that carries a pass to park is either a PSA or SPSA
+no one below that level carries a pass. Member Bedore said that the downtown area is full of
+municipal or state owned or leased space at other facilities within blocks. He stated that capitol
+complex employees pay the secretary of state for parking privileges. Member Bedore said that he did
+not see good rationale for this. Member Morales asked even with job descriptions this dynamic shifts
+over time by priority and attrition. Mr. Kanellopoulos replied that they will also provide a position
+list for the Board as well. Mr. Kanellopoulos suggested that removal of the parking pass through
+from this lease was an option to prevent objection to the lease. Member Bedore made a motion to
+approve the lease with the exclusion of the parking spaces and was seconded by Member Bass. It
+passed unanimously.
+Next was DES lease #4979 at 757 W. Pershing Rd. in Decatur. This lease is 12,860 sq. ft. and houses
+15 employees. This is a five year lease. The base rent starts at $11.31 sq. ft. Member Bedore wanted
+to know how many clients they handle in a day. Mr. Kanellopoulos replied that there is 5,507 claims
+in 2007 2,338 continued claims from the year before and there is 5,700 adjudication cases. There are
+23,656 clients served out of that facility. On average it is about 50-100 per day. A motion to approve
+lease #4979 was made by Member Bass and was seconded by Member Bedore. The motion was
+unanimously approved.
+Mr. Kanellopoulos stated that Director Sledge extends his apologies that he was called out during the
+Board meeting prior to formally introducing himself and invited the Board Members to his office
+either in Springfield or Chicago. Director Matt Brown stated that he met with Director Sledge before
+the Board meeting and gave him some perspective on the Procurement Policy Board’s history and
+stated the director was very open to communication moving forward.
+Next on the agenda was legislation. Director Brown stated that at this point there was only one piece
+of legislation that is still being considered for veto session and it is his understanding that SB2887
+will not be on the calendar. There has been quite a bit of work occurring on consensus legislation that
+might help Higher Education with some issues conflicting with long term financing that were
+concerns of the General Assembly during session and expect to be able to work through those issues.
+Chairman Healy asked if someone from Higher Education was in attendance. Mr. Bob Baker, Chief
+Executive Officer, IPHEC was present and offered his thoughts. Mr. Baker stated that there were two
+provisions in this Bill that addressed the duration of contracts. Under section 20-60 to make it clear
+that all contracts other than real property must be under the ten years and he does not have a
+comment at this time regarding that modification. Also there is a modification of section 40-20 with
+regard to real property to limit all real property leases to no more than 10 years inclusive of renewal
+m:081117
+
+3
+
+ options and he would like to address section 40-20 and make a recommendation for an alternative
+consideration by the Board. Mr. Bakers recommendation would be that the language for section 4020 be so structured to allow for options to extend the real property leases beyond the initial 10 year
+period, but the language be included that the exercise of those options must be subject to the review
+and a finding of no objection by the Board. He believes that this type of alteration in 40-20 will result
+in a win, win, win situation. Member Bedore inquired that if they did this with the Universities what
+does that do to the Board regarding other State agencies. Mr. Baker replied that the language would
+be the same regardless whether it was a State agency or State University. Chairman Healy wanted
+Mr. Baker to submit a written copy to the Board member so they could continue to review the
+subject. Mr. Baker said he would follow up in writing.
+Member Bedore wanted to know why the late award notice #22015973 for IDOT was awarded in
+November and the contract started in July. The contract started July 1 and it did not come to the
+Board until November. DOT sent a letter to the PPB stating that it is a CMS issue. Chairman Healy
+asked that CMS do some research and give an update to the Board at the next Board meeting. CMS
+responded that they would.
+Next on the agenda was FY07/FY08 audit for the Board. Director Brown stated that he was happy to
+report that in the FY05/FY06 there were 8 findings which have now been reduced to a single finding
+and two immaterial findings. The one compliance issue dealt with inventory in the office. The
+situation resulted in the office having multiple databases, an inherited CMS transfer of property and
+an internal system. Those two forms were not able to reconcile and the total dollar amount reported
+to the Comptroller’s Office on a quarterly basis did not match, a finding was issued. As a result and
+in conjunction with the Auditor General; the end of Q1 FY09 we have eliminated the CMS central
+system and have one system internally which account for all property items and is reconciled to the
+dollar with the Comptroller’s Office. The two immaterial findings dealt with an issue of timeliness of
+voucher processing where the Board did have three separate transactions that were not within
+boundaries of the process. There were also three other groups of transactions were there was a
+miscalculation on when the cutoff date was. This was based on what is called a batch processing date
+in the AIS System instead of the release date and staff now knows the difference and knows that the
+release date is the date to be used for the cutoff. The last was the internal control issue and the Board
+still had three reports that are filed on an annual basis that the Board did not comply with and have
+since have enhanced their compliance process and annual reporting to the various agencies.
+The future Board meeting date has been set for December 12.
+As no other items of business were to be considered, a motion was made to start executive session on
+personnel at 1:36 p.m. by Member Morales and was seconded by Member Bass. The motion was
+unanimously approved.
+Member Morales motioned to adjourn the executive session seconded by Member Bedore at 1:45pm.
+The motion was unanimously approved.
+Member Bedore moved to adjourn. It was seconded by Member Morales and unanimously approved
+at 1:46 pm.
+
+m:081117
+
+4
+
+ 

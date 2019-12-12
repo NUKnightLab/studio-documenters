@@ -1,0 +1,139 @@
+ITEM NO. C2
+
+August 11, 2010
+
+AUTHORIZATION TO EXECUTE AMENDMENT NO. 02 TO CONTRACT
+NO. 8080 WITH PIOCON TECHNOLOGIES, INC. (A SUBSIDIARY OF ROLTA TUSC)
+FOR ADDITIONAL PROFESSIONAL MANAGEMENT SERVICES FOR DATA
+WAREHOUSE PHASE II
+To the Honorable Board of Commissioners:
+RECOMMENDATION
+It is recommended that the Board of Commissioners authorize the Chief Executive Officer or his
+designee to execute Amendment No. 02 to Contract No. 8080 with Piocon Technologies, Inc. for
+additional professional management services for Data Warehouse Phase II in an amount of
+$185,200.00. The new total contract amount for Contract No. 8080 will be $2,970,926.00.
+FUNDING
+General Fund
+Contract No.:
+Contractor:
+
+8080
+Contract Date:
+Piocon Technologies, Inc.
+Completion Date:
+A Subsidiary of Rolta TUSC
+333 E. Butterfield Rd. Suite 900
+Lombard, IL 60148
+Contract Type:
+Professional Services
+Contract Amount:
+$ 2,785,726.00
+Firm-Fixed Fee
+Amendment No. 01: $
+0.00
+Amendment No. 02: $ 185,200.00
+New Contract Amt: $ 2,970,926.00
+
+December 30, 2008
+December 31, 2010
+
+M/W/DBE Participation:
+Direct
+MBE _20_% WBE ____% DBE ____%
+Indirect MBE ____% WBE ____% DBE ____%
+Waiver
+____Yes/No
+Section 3:
+__1 (#) Hiring ____ ($) Subcontracting ____ ($) Other Economic Opportunities
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ GENERAL BACKGROUND
+To support the Plan for Transformation, Contract No. 8080 was executed between the Chicago
+Housing Authority (CHA) and Piocon Technologies, Inc., to establish a Data warehouse with
+associated components to serve the Authority as a repository for important data for the purpose
+of analysis and reporting. Following a recent corporate reorganization, Piocon Technologies
+became a subsidiary of Rolta TUSC (Rolta), and has continued to proved services under the
+Rolta banner. The Information Technology Services Department (ITS) is seeking approval of
+Amendment No. 02 to Contract No. 8080 to have Piocon provide additional professional
+management services for Data Warehouse Phase II.
+The CHA entered into contract No. 8080 with Piocon Technologies in December 2008 to
+implement a Data Warehouse Business Intelligence tool for the CHA. The original timeline for
+the CHARTS project was a fourteen-month (14) month engagement (seven (7) month Base
+phase with a six (6) month Option base) that included two phases, Phase I Regulatory and
+Resident Data Marts and Phase II Asset Management and Financial Reporting Data Marts.
+On May 21, 2009 Scope Change Request #1, CHARTS Source System- CCS was created and
+later approved on June 19, 2009. The purpose of Scope Change Request #1 was for the
+CHARTS project team to extract data from CCS for Resident Services and Grants
+Administration into the CHARTS Data Warehouse. At the time of the advertisement of RFP
+#01592 and development of the original scope of this project, business data from CCS was not
+considered, therefore it was not documented as a source system. The CHARTS Source SystemCCS Change Request #1 did not impact the project timeline or cost of the project because CCS
+took the place of originally identified source system, CHAidoc.
+Also on May 21, 2009 Scope Change Request #2, Yardi 6.0, was created and later approved on
+June 11, 2009 in the amount of $23,200.00. The purpose of the Scope Change Request #2 was
+for the CHARTS project to change the ETL Technical Design and documentation to
+accommodate the Yardi upgrade from version 5.0 to version 6.0. At the time the Scope Change
+Request was submitted and approved, the CHARTS project team had already completed the ETL
+Technical Design and documentation for several Resident Services Subject Areas that were
+pointing to Yardi 5.0 tables and data and needed to change the Design/ETLs to point to the
+newly deployed Yardi 6.0 tables and data.
+In January of 2010, upon completion of the Business Intelligence Discovery sessions, Piocon
+Technologies presented CHA with a scope of work for Phase II Asset Management and Financial
+Reporting Data Marts. The CHA requested that the scope of work for Phase II be revised to
+include the Work Compliance Tracking system, which was created by CHA’s ITS department as
+a separate system, and which was not included in the original scope of the CHARTS project.
+The CHA also requested Piocon Technologies to build eleven (11) subject areas for Asset
+Management instead of the three (3) subject areas proposed in the Business Intelligence
+Discovery Scope document. In order for Asset Management and Resident Services to fully
+utilize the Data Warehouse Business Intelligence tool for reporting, analysis, work forecasting
+and as a ‘one-stop’ delivery system for key performance data with user-specific views, the
+project would require the creation of eight (8) additional subject areas. During the original scope
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ development of the CHARTS project, it was estimated that Phase II Asset Management and
+Financial Reporting Data Marts would require less reporting needs and system
+development/design. However, upon completion of the Discovery and Business Requirements
+sessions this effort proved to require extensive design and development efforts.
+On May 13, 2010 the CHA and Piocon Technologies created a CHARTS Phase II Scope
+Resolution Summary document that included all eleven (11) subject areas as requested, resulting
+in Piocon’s proposal to perform and deliver the scope of the requested services for the amount of
+$162, 000.00, including the following work components:
+• $90,000 to include the Work Compliance Tracking System data
+• $72,000 to ensure that the data for all of the eleven (11) Asset management
+subject areas are included
+On May 14, 2010 Amendment No. 1 to Contract Number 8080 was executed to provide for
+additional time in order to complete the proposed Phase II scope, but with no additional
+compensation. Pursuant to Amendment No. 1 the services have been extended from March 11,
+2010 through September 10, 2010 under the same terms and conditions as set forth in the
+Contract.
+The Information Technology Department is requesting approval to enter into an amendment to
+Contract No. 8080 to effect and implement Scope Change Request #3, CHARTS Phase II Scope
+Resolution, which will include an increased project cost of $185,200.00 and a time extension of
+three months, extending time for completion of the project to December 31, 2010.
+Based on the foregoing, it is recommended that the Board of Commissioners authorize the Chief
+Executive Officer or his designee to execute Amendment No. 02 to Contract No. 8080 with
+Piocon for additional professional management services for Data Warehouse Phase II in the
+amount of $185,200.00. The new total contract amount for Contract No. 8080 will be
+$2,970,926.00.
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ RESOLUTION NO. 2010-CHA-99
+WHEREAS, the Board of Commissioners has reviewed Board Letter dated August 11, 2010
+entitled “AUTHORIZATION TO EXECUTE AMENDMENT NO. 02 TO
+CONTRACT NO. 8080 WITH PIOCON TECHNOLOGIES, INC. (A
+SUBSISIDARY OF ROLTA TUSC) FOR ADDITIONAL PROFESSIONAL
+MANAGEMENT SERVICES FOR DATA WAREHOUSE PHASE II”;
+THEREFORE, BE IT RESOLVED BY THE CHICAGO HOUSING AUTHORITY
+THAT
+
+the Board of Commissioners authorizes the Chief Executive Officer or his
+designee to execute Amendment No. 02 to Contract No. 8080 with Piocon
+Technologies for additional professional management services for Data
+Warehouse Phase II in the amount of $185,200.00. The new total contract amount
+for Contract No. 8080 will be $2,970,926.00.
+
+60 East Van Buren Street, 12th Floor Chicago, Illinois 60605 · (312) 913-7282· www.thecha.org
+
+ 

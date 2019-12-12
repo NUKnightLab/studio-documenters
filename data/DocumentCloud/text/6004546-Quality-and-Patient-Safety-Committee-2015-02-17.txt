@@ -1,0 +1,1721 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, February 17, 2015 at the hour of 10:30 A.M. at 1900 W.
+Polk Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Gugenheim called the meeting to order.
+Present:
+
+Chairman Ada Mary Gugenheim and Director Emilie N. Junge (substitute Member) (2)
+Mr. Patrick T. Driscoll, Jr. and Patricia Merryweather (non-Director Members)
+
+Present
+Telephonically:
+
+Board Chairman M. Hill Hammock and Director Wayne M. Lerner, DPH, LFACHE
+
+Absent:
+
+Director Erica E. Marsh, MD, MSCI (1)
+
+Director Junge, seconded by Chairman Gugenheim, moved to allow Board Chairman
+Hammock and Director Lerner to participate in the meeting telephonically. THE
+MOTION CARRIED UNANIMOUSLY.
+
+Additional attendees and/or presenters were:
+Krishna Das, MD – System Chief Quality Officer
+Aaron Hamb, MD – Provident Hospital of Cook County
+Randolph Johnston – System Associate General
+Counsel
+
+II.
+
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD –Chief Executive Officer
+
+Public Speakers
+Chairman Gugenheim asked the Secretary to call upon the registered public speakers.
+The Secretary called upon the following registered public speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Report from System Chief Quality Officer
+A. Regulatory and Accreditation Updates
+Dr. Krishna Das, Chief Quality Officer, provided a brief update on regulatory and accreditation matters. She stated
+that there are no new items of note; she mentioned that, as noted on the slide regarding the accreditation timetable
+in her presentation, Stroger Hospital is up for its next full accreditation survey by The Joint Commission anytime
+between now and November.
+Additionally, Dr. Das noted that there was an unannounced survey at Stroger Hospital by representatives from
+the Illinois Department of Public Health approximately one month ago. The survey was based on a patient
+complaint. Following their investigation, they found the hospital in full compliance, and meeting all of the
+Conditions of Participation required by the Centers for Medicare and Medicaid Services. She added that the
+surveyors found some process issues that should be addressed, but none of those violated the Conditions of
+Participation.
+Page 1 of 22
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, February 17, 2015
+Page 2
+
+III.
+
+Report from System Chief Quality Officer (continued)
+B. Metrics (Attachment #1)
+Dr. Das provided an overview of the presentation, which contained information on the timetable for
+accreditations, proposed future Committee and Board presentation topics and metrics. The Committee reviewed
+and discussed the information.
+With regard to the information on proposed future presentations on slide 3, Mr. Driscoll suggested that there
+could be a monthly focus at the Committee on the various institutions within the System, such as Cermak Health
+Services and the Cook County Department of Public Health (CCDPH).
+Ms. Merryweather noted the relationships between some of the topics, such as that between Value-Based
+Purchasing (VBP) and Readmissions. She expressed concern that those related topics are staggered, with so
+much time in between the presentations; by the time the presentation on Readmissions is presented in
+November, because it is historical data, it seems like there is no movement ahead.
+Board Chairman Hammock provided an overview of the plan for in-depth, quarterly presentations to the Board
+(as listed in the left column of slide 3). The plan is to give 20-30 minutes in the Board Meeting for those topics
+on a quarterly basis; he noted that the Committee need not put off until August dealing with VBP or
+Readmissions in November, but he did not think that the Board will have the time to spend an extensive period
+of time every month on various quality issues. At every Board Meeting, he has asked Chairman Gugenheim to
+make a report on what the Committee covered that month, regarding both metrics and the topics listed in the
+column on the right, which should just be summary in nature; with regard to the topics on the left, the Board is
+going to get more of an education with more in-depth information.
+Director Lerner suggested that there is a way of grouping this that makes a little more sense and tries to
+streamline the presentation to a great extent. VBP and Readmissions are both quality initiatives, as well as cost
+management initiatives, so one could look at the relationship between those two and see if there is a way of
+collapsing that. Additionally, Capacity Management and Operating Room (OR) Initiatives could also be looked
+at as cost management initiatives; each one of these has a relationship to quality, so one can link cost to quality
+or revenue to quality. He believes that Meaningful Use is a very difficult subject to present in conjunction with
+something else; it is an information technology-driven issue that has an impact to cost for the whole System this may be something that should remain as a standalone topic. With regard to the topic of Magnet and
+Baldrige designations, he thinks these could be potential game-changers for the whole System, and is something
+that deserves a standalone conversation of 10 minutes or so.
+Chairman Gugenheim clarified Director Lerner’s recommendations: he is in agreement with February and
+May’s topics; he is suggesting to collapse the August and November topics into one presentation and use the
+November slot for another subject. Director Lerner responded affirmatively.
+Director Lerner stated that there is a lot to be done; the overarching question that the Board presentations should
+address is: what are the things that are going to help to accelerate the change process at the System? The
+listings on the left do that, and there is a way of logically grouping them so the Board has a broader
+understanding of, for example, OR management and the overall cost structure, and the impact that might have
+on VBP as a potential high-cost provider in a system.
+Dr. John Jay Shannon, Chief Executive Officer, provided additional comments. He stated that, as the
+organization improves its ability to collect and share the information on an ongoing basis, one other way some
+organizations have chosen to share information with their Board is to supply ongoing reports in an informational
+sense, but not to highlight them. That way, if a Board or Committee member says they would like to know what
+Page 2 of 22
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, February 17, 2015
+Page 3
+
+III.
+
+Report from System Chief Quality Officer
+B. Metrics (continued)
+the patient satisfaction score was last quarter, even though that is not on the calendar to talk about again until
+some time in the future, they have the comfort of receiving that information without having to send a direct
+email or ask a focused kind of question. This is something that he and Dr. Das could talk about, regarding
+whether something like this can be practically developed.
+Dr. Shannon noted that there is going to be a dynamic that will suggest that there may be a need to change
+something up in the schedule from time to time; for example, CCDPH may be in the queue for August, but if
+something comes up topically, it may make sense to pull it forward for June.
+Dr. Shannon stated that there is a difference in his mind in the presentation of quality overall in these different
+areas and the complicated nature of quality, financial performance and operational performance; many would
+roll that all up and say that is the quality of the System, whether one is referring to Cermak Health Services or
+cancer services, but there may be opportunities in some of these to use them as more of a general education to
+the Board. If any of the Board or Committee members have feedback or concerns that attention is not being
+paid to a particular subject or feel that something needs to be pulled forward, he recommended that they share
+those concerns and feedback. At the conclusion of the discussion on the subject, Dr. Das noted that a large
+number of the annual presentations to the Committee are regulatory requirements.
+Dr. Das provided an overview of the information contained in the presentation regarding metrics.
+Committee reviewed and discussed the information.
+
+The
+
+Director Lerner stated that the only change he would suggest is to slide 10; with regard to the listing of
+measures on the left, he recommended that those measures that are required by regulatory or other bodies to be
+presented be highlighted with an asterisk, as opposed to those measures that the staff or Board have chosen to
+monitor. That way the Board will know that there is a baseline of measures that always have to be monitored,
+and there is some flexibility to change some of the other measures going forward.
+Board Chairman Hammock indicated that, because the proposed metrics for the Board contain a monthly
+composite of data for the measures, it would be helpful if the Committee presentation slides contain a cell at the
+bottom that reflects what will be shown to the Board. Additionally, he suggested that the data be rounded to
+whole numbers, which will make it easier to read.
+IV.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, January 20, 2015
+Director Junge, seconded by Chairman Gugenheim, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of January 20, 2015. THE MOTION
+CARRIED UNANIMOUSLY.
+B. **Medical Staff Appointments/Re-appointments/Changes (Attachment #2)
+Director Lerner, seconded by Director Junge, moved to approve the Medical Staff
+Appointments/Reappointments/Changes. THE MOTION CARRIED UNANIMOUSLY.
+C. Any items listed under Sections IV, V and VI
+
+Page 3 of 22
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, February 17, 2015
+Page 4
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Aaron Hamb, of Provident Hospital of Cook County, indicated that Dr. Anwer Hussain, President of the
+Executive Medical Staff (EMS) of Provident Hospital of Cook County, was not in attendance, but did not
+have a report to present at this time. A communication was received from Dr. Ozuru Ukoha, President of
+the EMS of John H. Stroger, Jr. Hospital of Cook County, indicating that he did not have a report to present
+at this time.
+
+VI.
+
+Closed Meeting Items
+A. Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+The Committee did not recess the open meeting and convene in a closed meeting.
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Gugenheim declared the meeting
+ADJOURNED.
+
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Ada Mary Gugenheim, Chairman
+Attest:
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 22
+
+ Cook County Health and Hospitals System
+Minutes of the Quality and Patient Safety Committee Meeting
+February 17, 2015
+
+ATTACHMENT #1
+
+Page 5 of 22
+
+ Page 6 of 22
+
+Presented by: Krishna Das, MD, Chief Quality Officer
+
+Meeting 2/17/2015
+
+CCHHS Board of Directors
+
+Quality and Patient Safety
+Committee
+
+1
+
+ Page 7 of 22
+
+College of
+American Path
+
+College of
+American Path
+
+American Coll.
+Of Surgeons
+
+FDA
+
+Provident
+
+Stroger
+
+Stroger
+
+Radiology ACR
+
+System
+
+(Training)
+
+Stroger
+
+GME
+
+Burn Services
+
+Stroger
+
+(Mammo)
+
+PeriNatal
+Network
+
+Stroger
+
+(Blood Bank)
+
+(Cancer)
+
+(Lab)
+
+(Lab)
+
+Stroger
+
+Accredited
+10/2012
+
+CLER survey
+
+Accredited
+4/2013
+
+Survey
+2/2013
+
+Survey
+
+Accredited
+8/2013
+/
+
+Prev Med
+Fellowship
+
+Accredited
+12/2014
+
+Accredited
+
+Accredited
+
+Accredited
+11/2014
+
+Certified
+6/2014
+
+Certified
+6/2012
+
+Joint
+Commission
+
+Stroger
+
+(Stroke)
+
+Accredited
+11/2014
+
+Joint
+Commission
+
+Provident
+
+Accredited
+3/2014
+
+2014
+
+Joint
+Commission
+
+2013
+
+ACHN
+
+Accredited
+11/2012
+
+2012
+
+Joint
+Commission
+
+Agency
+
+Stroger
+
+Location
+
+Medicine
+5/2015
+
+Survey due 1
+5/ 2015
+
+Survey due
+8 10 / 2015
+
+PCMH Survey
+due 3/2015
+
+Survey due by
+11/2015
+
+2015
+
+Survey due by
+4/2016
+
+Survey due by
+6/2016
+
+Survey due 9
+11 / 2016
+
+Survey due by
+6/2016
+
+2016
+
+Accreditation Timetable
+
+ColoRectal
+3/2017 2
+
+Survey due
+by 12/2017
+
+Survey due
+11/2017
+
+Survey due
+1 5/2015
+
+Survey due
+by 11/2017
+
+Survey due
+by 3/2017
+
+2017
+
+ Page 8 of 22
+
+•
+•
+•
+•
+•
+
+Readmissions (11/2015)
+Capacity Management
+OR Initiatives
+Meaningful Use
+Magnet and Baldrige
+
+(8/2015)
+
+• Patient Experience (5/2015)
+• Value Based Purchasing
+
+(2/2015)
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+• Joint Commission survey &
+PCMH survey preparation
+
+GME
+Public Health
+Cermak
+CORE Center
+Stroke Program
+Burn and Trauma
+Infection Control
+Provident Quality Plan
+g Quality
+Q
+y Plant
+Stroger
+ACHN Quality Plan
+Safety Plan
+Nursing
+
+Annual to QPS Committee
+
+Quarterly to Board
+
+PROPOS
+PROPOSED
+
+Future Presentations
+
+3
+
+ Page 9 of 22
+
+QPS Dashboard Overview
+
+QPS ommittee Dashboard Board Metrics - Quality
+Data as at 52i15i2515 CY2314
+MEASURES 2014 I512 2014 [13 2014 C14 2014 CT 2014
+
+TARGET VARIAN TAHG VARIAN
+
+Jan Feb Mar: April May July Aug Jan Feb April May June Jul1.r Aug Sept Oct Nov Dec
+
+Stro
+Composite
+32.2 34.3 31.3 34.3 ?3.4 T33 35.5 31.2 32.2 34.3 3?.3 3?.3 33.3 34.2 3334 -14.m7.
+Stroke 35.3 33.3
+Immunizationsl??l 4? 55
+Efficiency Operating Room 3:
+Dn?Time Start :94Room Turn Around Time lminutes]
+
+Safety Total i of Events
+HAC: Pressure Ulcer Stages El. 
+
+5 5
+
+HAC: Fallswith Injury
+I 13 TBA TBA TBA TBA
+
+HAI: SIR
+
+31W: 57an
+
+HAI: CAUTI SIR
+
+
+
+Patient Experience
+
+1.33
+
+Dreraii Rating of Haspita'i {95 top box) 54.3 32.3 33.2 54.3 32.3 33.2 33.? 33.2 33 35.2 33.1 ?3 31.3 T5
+Communication with Doctors [55 top box] 15.3 33.5 32.2
+Communication with Nurses [55 top box] 52.5 54.5 55.2
+
+Cleanliness :95 top box] 45.2 45.4 54.1
+Provident
+
+
+
+Venous Thromboembolism :54] 32.5 52.3 ?5.5
+
+Immunizationsl?i?l 54.1 52.4 52.5
+
+ACHN
+
+Diabetes Control '54 with All: i 9'55
+
+Immunizations: Up to date in children at 24 months [95]
+
+Patient Experience: Site Rating
+
+Patient Experience: Moving Through 1I.?isit
+
+Patient Experience: Telephone Access
+
+ 
+
+Page 10 of 22
+
+Core Measures/ Efficiency
+
+0P5 Committee Dashboard
+
+Dataasof 02f10f2015 CY2014
+
+ 
+
+MEASURES [11 2014 [12 2014 [10 2014 [14 2014
+
+ 
+
+TARGET VARIANCE
+Jan Feb Marth April May June July Aug Sept Oct Hm: 0e:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stringer
+
+ 
+
+Care Measures
+
+ 
+
+5 Th rum hCI-emh-CI-Iism [955] 01.0 04.0 ?0.4 ?0.0 00.0 01.2 02. 2 04. 0 0?.0 0?.0 00.0 04. 2 00
+0t rake ?1.4 02.0 ?0.0 ?4.0 04.2 00.2 00. 0 00. 0 00.? 0?.1 00.0 01. 4 100
+Immunizati?ns :94] 04.0 04.0 01?4.0 0?.0 0 00
+Ef?ciency Operating Room
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elm?Time Start ?uum Tu rn Amund Time lminut esSIZI
+
+ 
+
+00. 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 11 of 22
+
+Safety
+STROGER HOSPITAL
+
+0P5 Committee Dashboard
+
+Data as. of 3331333313 CY2014
+PERFORMANCE MEASURES [11 2014 [12 2014 [13 2014 [14 2014
+
+ 
+
+ 
+
+El" UARIAH CE
+
+Jan Feb March April May July Aug Sept 0 :t Hm: 03:
+
+ 
+
+Safety
+HAC: Press
+
+ 
+
+3.33 3.33 3.33 3.33 3.33 1.33 3.33 3.33 1.3? 3.33 4.44 4.44
+
+ 
+
+13.3 -. . .3.- 5' 33l- lil-
+HAE: Falls with Injunr
+
+4434?: WEE-7435233-
+
+HAI: CLARE-I EIR
+
+
+HAI: CAUTI SIR
+
+
+
+ 
+
+0.34 0.33 0.33 0.00 0.41 0.33 0.33 1.00 0.23 0.13 0.30 0.00
+
+ 
+
+0.000 0.313 0.320 1.203 0.210 0.000 0.442 T315. T315. T315. T315.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.00 1.23 1.33 1.2? 0.33 0.33 1.04 0.33 T345. T315. T345. T315.
+
+ 
+
+Page 12 of 22
+
+Patient Experience
+STROGER HOSPITAL
+
+Data as of 0310:2015
+
+
+
+Committee Dashboard
+
+CY 2314
+
+ 
+
+MEASURES
+
+C11 2314
+
+C12 2314
+
+C13 2314
+
+[14 2314
+
+ 
+
+
+
+Jan
+
+Feb
+
+March
+
+April
+
+May
+
+June
+
+July Aug Sept
+
+3 :t
+
+No1:
+
+De:
+
+ 
+
+Patient Experience
+
+TA H13 El"
+
+UARIAH CE
+
+ 
+
+?raroH Rating of Hospitoi ['56 top box}
+
+34.3
+
+32.3
+
+33.2
+
+33.?
+
+33. 2
+
+33.3 33.2 33.1
+
+7'3. 3
+
+31. 3
+
+7?33
+
+33?.
+
+ 
+
+Communication 1with [Ito-st ors l?t: top box]
+
+i"3.3
+
+33.3
+
+32.2
+
+2?.2
+
+T3. 3
+
+32.? 33.3 31.3
+
+32. 3
+
+T3. 3
+
+32.3
+
+33?:
+
+ 
+
+Communication 1with Nurses lit": top box]
+
+32.3
+
+34.3
+
+33.2
+
+33.3
+
+33. i"
+
+33.2 i"1.T" 33.1
+
+7'3. 4
+
+33. 3
+
+i"1.3
+
+33:2:
+
+ 
+
+Cleanliness l?atop box]
+
+ 
+
+43.2
+
+ 
+
+ 
+
+43.4
+
+ 
+
+34.1
+
+ 
+
+43.?
+
+ 
+
+ 
+
+33. 3
+
+ 
+
+31.3 33.3 
+
+ 
+
+ 
+
+ 
+
+33. i"
+
+33.1
+
+ 
+
+ 
+
+ 
+
+31.3
+
+ 
+
+
+
+ 
+
+ 
+
+Page 13 of 22
+
+Provident Core Measures
+
+Committee Dashboard
+
+Data as. of 32f13f2315 CY2014
+PERFORMANCE MEASURES [11 2014 [12 2014
+
+ 
+
+[13 2014 E14 2014
+
+ 
+
+VARIANCE
+Jan Feb March April May June July- Aug Sept Utt Hm: De:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prnvident
+
+ 
+
+Care Mrs-:15 urea
+
+ 
+
+:35] 33.3 32.3 32.3 1'33 33.3 34.2 33.3 33.3 33.3 1'33 34.1 33.3
+
+ 
+
+ 
+
+Immunizati?nsl'??i] 33.4 34.1 32.4 32.3 33 32.4 33.3 32.1 33.1 33.1 33
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 14 of 22
+
+ACHN
+
+Committee Dashboard
+
+Data as of DEHWEME C?f2014
+MEASURES {11 2014 {12 2014 {13 2014 {14 2014
+
+ 
+
+ 
+
+VARIANCE
+Jan Feb March April May June July Aug Sept Oct Nov Dec
+
+ 
+
+ACHN
+Diabetes Control 95': 1with th All: 1: 99:; 7'34 Trill "Fri? 7'3
+
+ 
+
+ 
+
+Immunizations: Upto datein children at 24 EB EH3
+
+ 
+
+Potient Experience: Site Rating 7'5 7'5 7'5 7'5
+
+ 
+
+Patient Experience: Moving Through 1I.Fisit '35 53 '33 7'5
+
+ 
+
+Patient Experience: Telephone Access 53 EU 53 52 7'5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 15 of 22
+
+Board Metrics - Quality
+
+MEASURES 2014
+
+ 
+
+ 
+
+
+Jan Feb March April May June July Aug Sept Oct Nov Dec
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Core Measures Composite
+
+ 
+
+31.3 34.3 1'34 1'33 33.3 31.2 32.2 34.3 3?.3 3?.3 33.3 34.2 33?.
+Stroke [is]
+
+Immunizationsl??l
+
+ 
+
+ 
+
+ 
+
+ 
+
+Efficiency Upemting Room :2
+Start ?oom Turn Around Time lminutes]
+
+Safety Total I of Events
+
+ 
+
+ 
+
+ 
+
+
+
+HAI: CLABSI SIR
+
+HAI: CAUTI ElTBA TBA TBA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patient Experience
+?ueroii?oting of?ospitoif?? top-box] 34.3 32.3 33.2 33.? 33.2 33 33.2 33.1 7'3 31.3 1?3 33?.
+
+Communication with Doctors :33 top box]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Communication with Nurses I33 top box]
+
+ 
+
+Cleanliness l?i?top box]
+
+ 
+
+ 
+
+Core Measures
+1sienousThromboembolism 
+
+ 
+
+ 
+
+ 
+
+Immunizationsl?ial
+
+ 
+
+ 
+
+ 
+
+Diabetes Control 33 with A13 9% 1'33 1'34 1'71? 
+
+ 
+
+Immunizations: Up to clate in children at 24 months 
+
+ 
+
+ 
+
+Patient Experience: Site Rating
+
+ 
+
+Patient Experience: Moving Through 1I.iisit '35 EB 53 57" 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patient Experience: Telephone Access 33 33 33 32 
+
+ 
+
+Cook County Health and Hospitals System
+Minutes of the Quality and Patient Safety Committee Meeting
+February 17, 2015
+
+ATTACHMENT #2
+
+Page 16 of 22
+
+      
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+Toni Preckwinkle Cook County Health Hospitals System
+mam Board Members
+Cook County Board of Commissioners CC. I M. Hill Hammock . Chni mu
+John Jay Shannon, MD Commissioner Jerry Butler - Vice Chairman
+Chief Executive Of?cer Lewis Collens
+Cook County Health Hospitals System Ric Estrada
+Ada Mary Gugenheim
+Emilie N. lunge
+0 um 0' Uk MD Wayne M. Lerner. DPH, FACHE
+1 Pt 'd ta? Erica Marsh. MD MSCI
+. e51 en Carnien Velasquez
+Executive Medical Staff Dorene P. Wiese, MD
+John H. Stroger, Jr.
+Hospital of Cook County
+
+Date: February 13, 2015
+
+Dear members of the Quality and Patient Safety Committee of the Board:
+Please be advised that the Executive Medical Staff Committee of John H. Stroger, Jr.
+
+Hospital of Cook County, at its February 10, 2015 meeting, approved the attached list of
+medical staff action items for your consideration.
+
+Respectfully,
+
+Ozuru O. Ukoha, MD
+President, EMS
+
+ 
+
+0 Ambulatory In Community Hooltlo Notworlt 0 CormoWltp-(igvlus 0 Cook County Dopartmont ol Mlle Hon? 0
+0 John ll. ?rogor, Jr. Hospltal - Oak Forost ?with Co rovldont Hoopltul 0 Ruth M. Iotlntoln COII Contor 0
+
+Page 17 of 22
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff and Non-Medical Staff Action Items Subject to Approval by the Quality and
+Patient Safety Committee
+
+APPOINTMENT APPLICATIONS
+
+Chinweze, Ebelechukwu Ebe, MD Correctional Health Active Physician
+Appointment Effective: February 17, 2015 thru February 16, 2017
+
+Kim, Kubinne, MD Medicine/Dermatology Active Physician
+Appointment Effective: February 17, 2015 thru February 16, 2017
+
+Mahdavina, Mahbooheh, MD Pediatrics/Allergy Immunology Voluntary Physician
+Appointment Effective: February 17, 2015 thru February 16, 2017
+
+APPOINTMENT NON-PHYSICIAN APPLICATIONS
+
+Clarke, Alexis, Correctional Health 
+Juvenile Detention Center
+
+Appointment Effective: February 17, 2015 thru February 16, 2017
+
+Miller, Nicole A., PA-C SurgeryNascular Surgery Physician Assistant
+
+With Keen, Richard R, MD
+Alternate Farlow, Erin., MD
+
+Effective: February 17, 2015 thru February 16, 2017
+Sillitti, Romita, Correctional Health 
+Appointment Effective: February 17, 2015 thru February 16, 2017
+
+BEAPPOINTMENT APPLICATIONS
+Department of Anesthesiology
+
+Tymouch, Jaroslav, MD Anesthesiology Active Physician
+Reappointment Effective March 18, 2015 thru March 17, 2017
+
+Department of Correctional Health Services
+
+Doyle, David, DPM Podiatry Active Podiatrist
+Reappointment Effective: March 15, 2015 thru March 14, 2017
+Ramic, Alma., MD Active Physician
+Reappointment Effective: March 13, 2015 thru March 12, 2017
+
+Department of Family Practice:
+
+Lipkin, Julie, MD Family Medicine Voluntary Physician
+Reappointment Effective: March 14, 2015 thru March 13, 2017
+
+Sweder, Thomas, MD Family Medicine Active Physician
+Reappointment Effective: March 17, 2015 thru March 16, 2017
+
+Department of Medicine
+
+  
+  
+
+ 
+
+
+Datta, Swati, 8., DO General Medicine Physician 9"
+Reappointment Effective: March 18, 2015 thru W?ih?ti?lhw AND PATIENT SAFETY COMMIJ
+Item February 17, 2015 ON FEBRUARY 17 2015
+
+Quality and Patient Safety Committee
+Page 2 of 6
+
+Page 18 of 22
+
+John H. Stroger, Jr. Hospital of Cook County
+
+Reappointment Applications
+
+Department of Medicine (continued)
+
+Dworkin, Mark S., MD
+Reappointment Effective:
+
+Hota, Bala N., MD
+Reappointment Effective:
+
+Kelly, Russell P, MD
+Reappointment Effective:
+
+Krantz, Anne J., MD
+Reappointment Effective:
+
+Liu, Elaine, MD
+Reappointment Effective:
+
+Manikka, Ajayda MD
+Reappointment Effective:
+
+Ngu, Lawrence M, MD
+Appointment Effective:
+
+Riles, William L., MD
+Appointment Effective:
+
+Siwy, Grazyna J., MD
+Appointment Effective:
+
+Tulaimat, Aiman, MD
+Appointment Effective:
+
+Department of Oral Health
+
+Alexander, Jorelle, DMD
+Reappointment Effective:
+
+manment of Pec?atrics
+
+Davis, Vanessa, MD
+Reappointment Effective:
+
+Genesan, Rani, MD
+Reappointment Effective:
+
+Department of 
+
+Moreno, Michael, MD
+Reappointment Effective:
+
+Qgpartment of Radiology
+
+Feng, Chun, MD -
+Reappointment Effective:
+
+Item February 17, 2015
+Quality and Patient Safety Committee
+
+Infectious Diseases
+February 25, 2015 thru February 24, 2017
+
+Infectious Diseases
+February 17, 2015 thru February 16, 2017
+
+Adult Cardiology
+February 24, 2015 thru February 23, 2017
+
+General Medicine
+March 18, 2015 thru March 17,2017
+
+General Medicine
+March 18, 2015 thru March 17,2017
+
+Hospital Medicine
+March 13, 2015 thru March 12,2017
+
+ACHN/General Medicine
+January 20, 2015 thru January 19, 2017
+
+Gastroenterology
+March 19, 2015 thru March 18, 2017
+
+ACHN/General Medicine
+March 18, 2015 thru March 17,2017
+
+Pulmonary/Critical Care
+March 18, 2015 thru March 17, 2017
+
+ACHN
+March 13, 2015 thru March 12, 2017
+
+Endocrinology
+March 14, 2015 thru March 13,2017
+
+Critical Care
+March 14, 2015 thru March 13, 2017
+
+
+March 13, 2015 thru March 12, 2017
+
+APPROVED .
+
+
+
+Consulting Physician
+Voluntary Physician
+Active Physician
+Active Physician
+Active Physician
+
+Active Physician
+Active Physician
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Dentist
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician, 
+
+  
+
+BY THE QUALITY AND PATIENT SAFETY COMM EE
+
+Radiology
+February 24, 2015 thru February 23, 2017
+
+Page 3 of 6
+Page 19 of 22
+
+on FEBRUARY 17, 20th Physician
+
+John H. StrogerI Jr. Hospital of Cook County
+Rea ointment A lications continued
+
+Degartment of Surgery
+
+Babiuk, James J., DDS
+Reappointment Effective:
+
+Chaudhry, Vivek, MD
+Reappointment Effective:
+
+Smego, Douglas R., MD
+Reappointment Effective:
+
+Oral Maxillofacial Active Dentist
+January 23, 2015 thru January 22, 2017
+
+Colon/Rectal Active Physician
+February 19, 2015 thru February 18, 2017
+
+Cardiothoracic Active Physician
+February 25, 2015 thru February 24, 2017
+
+Medical Staff Additional Clinical Privileges:
+
+Patel, Sanjay, MD
+
+Item February 17, 2015
+Quality and Patient Safety Committee
+
+Internal Medicine at Correctional Health Services
+
+
+APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY Co
+on FEBRUARY 17, 2015
+
+Page 4 of 6
+Page 20 of 22
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+Toni Preckwinkle 0 OK COUNTY HEALTH Cook County Health Hospitals System
+a. HOSPITALS SYSTEM Board Members
+Cook County Board of Commissioners :c M. Hill Hammock . Chairman
+John Jay Shannon, MD Commissioner Jerry Butler - Vice Chairman
+Chief Executive Of?cer Lewis Collens
+Cook County Health Hospitals System Ric Estrada
+Ada Mary Gugenheim
+Emilie N. lunge
+Wayne M. Lerner, DPH, FACHE
+Erica E. Marsh, MD MSCI
+Carmen Velasquez
+Dorene P. Wiese, 
+Anwer Hussein, DO, FAAEM
+President,
+Medical Executive Committee
+Provident Hospital
+Of Cook County
+
+February 9, 2015
+Dear Members of the Quality and Patient Safety Committee:
+Please be advised that at the Credentials Meeting held on February 3, 2015 the Medical Executive
+
+Committee of Provident Hospital of Cook County recommended the actions on the enclosed list. It is
+being presented to you for your consideration.
+
+Respectfully,
+
+ 
+
+Anwer Hu sain, DO
+President, MEC
+
+ 
+
+Ambulatory 8: Community Network . Conn ecg?gorvleos 0 Cook County Dopurhnonl of Public 
+0 John H. Shogor, In Hospital 0 Oak Forosl Health Conhr Provident Hospital 0 Ruth M. Ilolhsl?oln CORE Confer 0
+Page 21 of 22
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff Action Items Subject to Approval by the Quality and Patient Safety Committee
+
+Gandhi, Seema, MD
+Appointment Effective:
+
+INITIAL APPLICATION
+
+Gastroenterology
+February 17, 2015 thru October 28, 2016
+
+REAPPOINTMENT APPLICATIONS
+
+Emergency Medicine
+
+Plamoottil, Issac, DO
+Reappointment Effective:
+
+Roskam, Stephen, DO
+Reappointment Effective:
+
+Wakim, Pierre, DO
+Reappointment Effective:
+
+Internal Medicine
+
+Attar, Bashar, MD
+Reappointment Effective:
+
+Edosomwan, Magnus, MD
+Reappointment Effective:
+
+Non-Medical Staff Privileges:
+Wyatt, Laura D., PA-C
+
+With Moswin, Arthur H., MD
+Alternate Charles, Lesley A., MD
+Effective:
+
+Agreement Items
+Eneogwe, Joy C.P., CNP
+
+With Hamb, Aaron, MD
+Effective:
+
+Prescriptive Authorig Only
+Walsh, Robert J., PA-C
+
+With Bradley, Juliet L., MD
+Alternate Rodriguez, Vimarie, MD
+Effective:
+
+Telemedicine Privilege Reguests
+Jain, Shelly, MD
+
+Effective:
+
+Mahmood, Omar A., MD
+Effective:
+
+Montella, Marc, MD
+Effective:
+
+Item February 17, 2015
+Quality and Patient Safety Committee
+
+Emergency Medicine
+April 15, 2015 thru April 14, 2017
+
+Emergency Medicine
+April 14, 2015 thru April 13,2017
+
+Emergency Medicine
+April 13, 2015 thru April 12,2017
+
+Gastroenterology
+February 17, 2015 thru February 16, 2017
+
+Internal Medicine
+March 15, 2015 thru March 14, 2017
+
+Internal Medicine /Int. Med.
+
+February 28, 2015 thru February 27, 2017
+
+Internal Medicine
+
+February 17, 2015 thru December 11, 2015
+
+Family Medicine
+
+February 17, 2015 thru May 18, 2016
+
+Radiology /Virtual Radiologic
+February 17, 2015 thru February 16, 2017
+
+Radiology /Virtual Radiologic
+February 17, 2015 thru February 16, 2017
+
+Radiology Virtual Radiologic
+
+February 15, 2015 thru February 14, 
+
+APPROVED
+page ?(gins QUALITY AND PATIENT SAFETY COMM
+ON FEBRUARY 17, 2015
+
+Page 22 of 22
+
+Af?liate Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Affiliate Physician
+
+Active Physician
+
+Physician Assistant
+
+Nurse Practitioner
+
+Physician Assistant
+
+Teleradiologist
+
+Teleradiologist
+
+Teleradiologist
+
+  
+

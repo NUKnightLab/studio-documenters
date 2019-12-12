@@ -1,0 +1,652 @@
+MINUTES
+NORTHEAST OHIO REGIONAL SEWER DISTRICT
+BOARD OF TRUSTEES MEETING
+August 15, 2019
+
+A Regular Meeting of the Board of Trustees of the Northeast Ohio Regional Sewer District was
+called to order at 12:33 pm. by Darnell Brown.
+
+I. Roll Call
+
+PRESENT: D. Brown
+R. Stefanik
+T. DeGeeter
+J. Ciaccia
+J. Bacci
+S. Dumas
+ABSENT: R. Sulik
+
+The Secretary informed the President that a quorum was in attendance.
+11. Approval ofMinutes
+
+MOTION Mayor Bacci moved and Mr. Ciaccia seconded to approve the Minutes ofthe August
+1, 2019, Board Meeting. Without objection, the motion carried unanimously.
+
+111. Public Session
+There were no items.
+IV. Chief Executive Officer?s Report
+
+CEO Dreyfuss-Wells began her report by advising that the District held Quarterly Employee
+Recognition Awards last week. She presented a slide with all the names of District employees that
+were recognized for work in helping customers, helping one another, saving the District money
+and solving problems proactively. There were several teams recognized this quarter, including the
+group that assisted the City of Dayton in recovery after the tornado as well as those employees
+involved in the District press event and weekend activities surrounding the 50lh anniversary of the
+last Cuyahoga River ?re.
+
+The graduates of the 5m cohort of the Good Neighbor Ambassadors were also recognized.
+Ms. Dreyfuss-Wells displayed a photograph of the graduates with the Honorable Michael J. Ryan
+who is a Juvenile Court Judge and the District?s keynote speaker at the graduation event. Judge
+Ryan previously spoke to the Good Neighbor Ambassadors about his story and he came back to
+share that with District employees and with the families of the ambassadors who attended the
+event. In addition, some of the graduates completed the National Green Infrastructure Certification
+program with training from District Watershed Programs staff.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 2 of 13
+
+Concluding the report, Ms. Dreyfuss?Wells stated the District continues to meet with member
+communities as a general check-in. Ms. Dreyfuss-Wells, Frank Greenland, Director of Watershed
+Programs, and the Watershed Team Leaders recently met with the communities of Brook Park,
+Columbia Township, Olmsted Falls and Glenwillow to discuss the District?s Regional Stormwater
+Management Program, Community Cost-Share Program, local sewer system evaluation studies,
+stormwater fees, sanitary fees and any concerns by the mayors or trustees.
+
+V. Action Items
+Authorization to Advertise
+
+Resolution No. 2] 1-19 Authorization to publish notice calling for bids, in accordance
+with Ohio Revised Code Chapter 6] 19, for a two-year
+requirement contract for up to 18,100,000 wet pounds of liquid
+sodium hypochlorite solution at all Wastewater Treatment
+Plants with an anticipated expenditure of 1 ,200,000.00.
+
+Resolution No. 212-19 Authorization to publish notice calling for bids, in accordance
+with Ohio Revised Code Chapter 6119, for a three?year
+requirement contract to supply industrial gases for use at all
+District facilities with an anticipated expenditure of
+$170,000.00.
+
+MOTION Mr. Ciaccia moved and Mayor Bacci seconded to adopt Resolution Nos. 21 1-19 and
+212-19. After the following discussion, without objection, the motion carried unanimously.
+
+Mr. Brown asked for explanation on Resolution 21 1-19. Frank Foley, Director of Operation and
+Maintenance, stated that the chemical contemplated is used for disinfecting ef?uents from May
+through October each year with a small amount used for disinfecting non-potable water within the
+plant during the remaining months. This year, for the ?rst three (3) months of the recreation season,
+from May through July, the amount of this chemical was increased by 32 percent over what was
+used in the previous year. This increase can be attributed to a more accurate and more sensitive
+analytical method being used when testing for bacteria during wet weather so more chemical is
+being used to disinfect ef?uents; and the District is capturing more ?ow as a result ofthe CSO
+improvements. In addition, there is always a potential for additional wet weather. Since this is a
+requirement contract, only the amount needed will be purchased.
+
+Authorization to Issue Request For Proposals (RFP)
+
+Resolution Authorization to issue an RFP, in accordance with Ohio
+Revised Code Chapter 6119, for Overhead Crane Operator,
+Mobile Crane Operator and Safety
+Training for District employees.
+
+BOARD OF TRUSTEES
+Regular Meeting
+August 15,2019
+
+Page 3 of 13
+Resolution No.2l4-19 Authorization to issue an RFP, in accordance with Ohio
+Revised Code Chapter 6119, for hardware, software and
+professional services for wireless temperature monitoring at the
+District?s Analytical Services laboratory, under the Analytical
+Services Wireless Temperature Monitoring project.
+Resolution No.215-19 Authorization to issue an RFP, in accordance with Ohio
+
+Revised Code Chapter 6119, for software and professional
+services under the Customer Relationship Manager (CRM)
+Implementation project.
+
+MOTION Mayor Stefanik moved and Mr. Ciaccia seconded to adopt Resolution Nos. 213-19
+through 215-19. After the following discussion, without objection, the motion carried
+unanimously.
+
+Mr. Ciaccia asked for more information regarding Resolution No. 214-19. He asked to what extent
+the District analyzes up front solutions it is considering or, is it left up to the consultant to provide
+the District with that information. Mohan Kurup, Director of Information Technology, stated that
+the Analytical Services laboratory at EMSC has approximately 60 measurement locations
+including ovens and incubators, and these must be measured at least twice per day and that is being
+done manually. Solutions for monitoring automatically through a wireless temperature monitor
+and a back-end server are turn-key. The device will talk to the server, log it and allow the District
+to have more accurate measurements and no missed measurements. It will also allow for the
+District to react quickly if something is out of spec. The RFP does not specify a solution; there are
+
+many solutions that are built just for this application, but a recommendation will come from the
+RFP.
+
+Mr. Ciaccia asked if the RF will be awarded to a consulting firm who would then select solutions
+for the District?s approval and then that would be incorporated into the contract.
+
+Mr. Kurup responded that the nature ofthe RFP is that companies that implement these kinds of
+solutions would be proposing on implementing that solution.
+
+CEO Dreyfuss-Wells added that there is not a lot of discretion in the type of work which is
+measuring temperatures on the devices in the lab. This work does not require design or planning,
+like the APM for example, which has a lot of question marks.
+
+Mr. Kurup agreed and stated that it does not need to be customized.
+
+Ms. Dreyfuss-Wells asked Scott Broski, Superintendent of Environmental Services, if he had
+anything to add to the response to the question.
+
+Mr. Broski stated that two (2) vendors have been identified specific to this type of system and the
+RFP will be sent to them directly. He also said that Contract Compliance was consulted to make
+sure all potential vendors were notified and they also identi?ed some consulting ?rms that may
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 20l9
+
+Page 4 of l3
+
+want to take on a project like this so the RFP will be sent to those vendors and posted through the
+normal purchasing procedures. Mr. Broski said he is aware how much a system like this would
+cost and what the hardware and software looks like so based on homework done up to this point,
+he has a pretty good idea of who will come in on something like this but there are other options
+and that is why it is going through the RFP process.
+
+Mr. Ciaccia asked if the two solutions looked at are well-established solutions as opposed to any
+innovative ones that might be out there.
+
+Mr. Broski responded that they are well-established and focus on pharmaceutical-type applications
+where temperature sensitivity is important but under the National Environmental Laboratory
+Accreditation Counsel (NELAC) accreditation, the District is required to maintain temperature on
+over 60 different devices. Also, calibrated thermometers must be read manually 2 times per day.
+He said that if temperatures are off on the walk-in coolers that hold the samples on a Saturday or
+Sunday, when no one is in the lab, the entire inventory of samples could be lost. This project will
+allow alarms and a better chance to respond to something that may be deviating from a temperature
+requirement.
+
+Mr. Ciaccia said he has the same question on Resolution No. 215-19. Mr. Kurup responded that
+this RFP is more wide open because the Inquiry Tracking Log (ITL) was an in-house written app
+in 2009 initially meant to be a temporary solution. The responsibilities became more widespread
+and it had to interact with more systems. Currently. a CMMS replacement is being considered and
+the replacement for this system will have to interact with that as well as the GIS and a number of
+other tools, so it has lived its useful life and it is time to look at replacements.
+
+Mr. Ciaccia stated that he has just become aware of how many solutions are out there on the
+different technologies being considered and he wants to understand the District?s practice in
+narrowing down the ?eld before sending out for an RF P.
+
+Mr. Kurup said the way it is narrowed down is to be speci?c in the requirements in the RF and
+that helps narrow the field.
+
+Authorization to Enter into Agreement
+
+Resolution No. 216-19 Authorization to enter into a loan agreement with the Ohio EPA
+and the Ohio Water Development Authority to accept 
+funding for construction costs related to the Easterly Bar Screen
+Conveyor Belt Rehabilitation project for a total amount up to
+$3,306,974.00.
+
+Resolution No. 217-19 Authorization to enter into a three-year agreement with ESRJ,
+Inc. for the renewal of software licensing and support for 018
+Application Software in an amount not-to-exceed $720,000.00.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 5 of 13
+
+Resolution No. 218-19
+
+Authorization to enter into a professional services agreement with
+Cambridge Computer Services, Inc. for storage area network
+(SAN) upgrades and to purchase SAN hardware and services
+under the State of Ohio Cooperative Purchasing Program, in a
+total amount not-to-exceed $90,333.79.
+
+MOTION Ms. Dumas moved and Mayor Stefanik seconded to adopt Resolution Nos. 216-19
+through 218-19. Without objection, the motion carried unanimously.
+
+Authorization to Enter into Contract
+
+Resolution No. 219-19
+
+Authorization to enter into a two-year contract with The AJ.
+Gates Company for lift equipment preventative maintenance
+and repairs at all District facilities in an amount not?to?exceed
+$73,372.60.
+
+MOTION Mayor Stefanik moved and Ms. Dumas seconded to adopt Resolution No. 219-19.
+Without objection, the motion carried unanimously.
+
+Authorization of Contract Modi?cation
+
+Resolution No. 220-19
+
+Authorization to modify the existing 24-month contract with
+Zinkan Enterprises, Inc. for Boiler Feedwater Treatment and
+Cooling Tower Services to extend the contract through
+September 30, 2020 with no change in the contract amount.
+
+MOTION Mr. Ciaccia moved and Mayor Bacci seconded to adopt Resolution No. 220-19.
+Without objection, the motion carried unanimously.
+
+Sewer Use Code Matters
+
+Resolution No. 221-19
+
+Resolution No. 222-19
+
+WITHDRAWN
+
+Adopting the ?ndings of the Hearing Of?cer with regard to
+sewer charges on the account of Chandler Park, Sewer District
+Hearing No. 19-018, that the customer?s request be denied.
+
+MOTION Mayor Stefanik moved and Ms. Dumas seconded to adopt Resolution No. 222-19.
+Without objection, the motion carried unanimously.
+
+Authorization to Reiect Bids
+
+Resolution No. 223-19
+
+Authorization to reject all bids received for the West 3rd
+QuigleyIWesterly Miscellaneous CSO Control project.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 6 of 13
+
+MOTION Mayor Stefanik moved and Mr. Ciaccia seconded to adopt Resolution No. 223-19.
+After the following discussion, without objection, the motion carried unanimously.
+
+Mr. Ciaccia requested more information on Resolution No. 223-19 since this is the second time
+bids were rejected. The ?rst time the low bidder was $12.3 million and now the low bidder is $12.9
+million, but that bidder did not bid on everything. Mr. Ciaccia said there was a discrepancy on the
+prior resolution request that he did not catch the last time. He said the rejection of the bid last time
+was based on the bid being more than 10 percent over the engineer's estimate.
+
+Devona Marshall, Director of Engineering and Construction, stated that the bid was rejected the
+?rst time because the one bid received was not within 10 percent ofthe engineer?s estimate so by
+Ohio law the District was not allowed to award.
+
+Mr. Ciaccia stated that his recollection of the resolution request was the engineer?s estimate was
+$10 million but at the top of the page it had a different ?gure so there is a discrepancy there.
+
+Ms. Marshall said that the prior document may be wrong. The ?rst time the District did receive a
+bid, it was not awardable. Feedback was provided by the contractors that they perceive there to be
+a lot ofrisk in thejob, so they were a little bit scared to bid on thejob. Plus, a lot ofthe contractors
+are busy during this time of the year. Additional feedback was received from contractors this time
+around that said if it was January, they may bid the job, but right now is not good for contractors
+due to the amount of work they already have. This time, the low bidder was actually an awardable
+bid. The problem is that although the bidder did bid on all aspects ofthe job, the bidder submitted
+an incomplete bid package as it relates to qualifications; therefore, even though the contractor met
+requirements of Ohio law, due to the incomplete bid package, the District determined not to award.
+The other two bidders were above the 10 percent estimate. Furthermore, because there has not
+been a good bid on the job besides the one, the District has to do its due diligence, relook at the
+risks on this job and maybe even come up with a better solution so more competitive bids are
+received.
+
+Property Related Transaction
+
+Resolution No.224-19 Authorizing the District to deposit additional monies in the
+amount of $176,800.00 with the Cuyahoga County Probate Court
+for a total settlement amount of $220,000.00 to settle the
+District?s appropriation action and acquire one permanent
+subterranean easement on a portion of PPNS 120-30?116 and
+120-31-003, located at 11730 Euclid Avenue in the City of
+Cleveland, owned by Joseph Londrico, et al., necessary for the
+construction and maintenance of the Doan Valley Tunnel.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 7 of 13
+
+Resolution No.225-19 Authorizing the District to acquire one parcel in fee simple
+known as Summit County PPN 33-0121 1, located at 9176 North
+Bedford Road in the City of Macedonia, owned by Nancy A.
+Klatt, necessary for the construction and maintenance of the
+Indian Creek SWMP Project Area 2 Bedford Ledge Flooding
+project, and to enter into a lease agreement with Ms. Klatt, with
+total consideration of $160,000.00 plus closing costs.
+
+Resolution No. 226-19 Authorizing the District to acquire one parcel in fee simple
+known as PPN 871-32-032, located at 2852 Lander Road in the
+City of Pepper Pike, owned by Laura Piper Taylor, Trustee of
+the Laura Piper Trust dated January 31, 2017, necessary for the
+construction and maintenance of the Pepper Luce Creek
+Stabilization Near Lander Road project, to enter into a lease
+agreement with Ms. Taylor, and to allow for the entirety of the
+payment to be disbursed to Title Services with total
+consideration plus closing costs.
+
+Resolution No. 227-19 Authorizing the District to enter into an environmental covenant
+with the Ohio Environmental Protection Agency over multiple
+District-owned parcels, located south of Beaver Avenue and east
+of Kinsman Road in the City of Cleveland, necessary for the
+District?s Woodland Central Green Infrastructure project.
+
+Resolution No. 228-19 Authorizing the District to acquire one parcel in Fee simple
+known as PPN 761-16-081, located at 19912 Longbrook Road in
+the City of Warrensville Heights, owned by the Cuyahoga
+County Land Reutilization Corp, necessary for the construction
+and maintenance of the Mill Creek Bank Stabilization Project
+with total consideration of $1.00.
+
+MOTION Mayor Stefanik moved and Mr. Ciaccia seconded to adopt Resolution Nos. 224-19
+through 228-19. After the following discussion, without objection, the motion carried
+unanimously.
+
+Referencing Resolution No. 226-19, Mr. Brown asked for a briefexplanation, due to the signi?cant
+price and the fact that it requests approval to enter into a lease and to allow the lessees time to
+relocate.
+
+Frank Greenland, Director of Watershed Programs, stated that all of these are stormwater related
+property acquisitions necessary for design and construction projects. These acquisitions follow a
+
+fair market value process with appraisals.
+
+Mr. Greenland asked Matt Scharver, Deputy Director of Watershed Programs, to provide further
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 20l9
+
+Page 8 of 13
+
+details. Mr. Scharver discussed the Pepper Luce stabilization project. He displayed a slide showing
+failing gabions. By acquiring this parcel, the District can provide a more holistic approach to the
+stream restoration and capture needed ?oodplain on the Pepper Luce system, as opposed to doing
+armoring on multiple parcels. From a cost-bene?t analysis of implementation of the program, this
+extends the District?s ability to provide better services.
+
+Mr. Brown asked if in addition to the gabions needing repair is there also going to be some
+spreading out ofthe ?oodplain area so that it collects or captures more ?ow. Mr. Scharver said the
+District will be able to capture additional floodplain, reduce risk oferosion and stabilize the banks,
+and remove the house so that the channel can be realigned correctly.
+
+Mr. Ciaccia asked how signi?cantly the economics of each solution are captured. Mr. Scharver
+said there may be multiple solutions. Property acquisition becomes an option when the cost-
+bene?t analysis is done of the stabilization, whether that be armoring or moving structures.
+Mr. Ciaccia agreed that the acquisition is the right thing to do, but there should be documentation
+ofthe economics of each solution and include life cycle costing because ifthe District is called to
+question on one of these types of purchases which are appropriate and sound in terms of
+engineering, there should be documentation ofthe economics to back up the solutions.
+
+Mr. Greenland said economies are documented through alternatives and the bene?ts. Sometimes
+a little more cost provides a lot more bene?t and that is how alternatives are weighed any time the
+District gets into property or, for that matter, any alternative evaluation for a solution.
+
+Ms. Dreyfuss-Wells added that Mr. Ciaccia raised a good point because these are permanent
+solutions. The District will not have to go back and fix failing gabion baskets or have homeowners
+that are ?ooded in the ?oodplain. These are permanent solutions that build resiliency back into
+this system, which is a tributary to the Chagrin, which is a tributary to Lake Erie. This is
+permanency as opposed to 20-year gabions that perpetuate problems across the region.
+
+Mr. Ciaccia stated he agreed he just wants to make sure the District has the economics clearly
+documented.
+
+Mr. Brown added that the District is working with the state to ensure that the ?oodplain maps are
+updated so that there is some responsibility for enforcement so that people are not building in the
+floodplains in the future.
+
+Mr. Greenland said during the master planning process, the District is evaluating alternatives trying
+to obtain a 100-year level of protection. The District is not going to get there everywhere but is
+documenting the solutions. He said more discussions are taking place internally and the District
+will engage assistance externally for inundation mapping, the revised lOO-year ?oodplain maps.
+This will be a big discussion with the local communities and their ?oodplain managers on the
+revision ofthe old, outdated maps.
+
+BOA RD OF TRUSTEES
+Regular Meeting
+August 15, 2019
+
+Page 9 of 13
+VI. Information Items
+1. Program Management Status Report and Update July 2019
+
+Ms. Marshall provided an update on the Capital Improvement Program for 2019. She stated that
+cash flow is steady at 85%. Actual dollars paid out was approximately $22 million and year-to-
+date was at $1 15 million.
+
+Moving to planning level key performance indicators (KPIs), in July staff delivered two ofthe six
+consent decree reporting milestones. Construction was completed on the Union/Buckeye Green
+Infrastructure project, meeting that milestone. Also, the semiannual report no. 15 was submitted
+to the EPA, the and OAG giving them an update on work completed in the past six months
+and work anticipated in the upcoming six months.
+
+On construction level KPIs, construction was closed on the Southerly First Stage Aeration Tank
+project which was a $13 million construction contract. The District closed that contract within 95
+percent ofthe original contract amount, meeting the KPI, but fell short on Business Opportunity
+Program (BOP) goals on this project. The goal was set at 12 percent. The projected
+actual is at 13.46 percent so that portion of the goal was met but the SBE goal of 8 percent was not
+met as the projected actual was .29 percent. Total work orders on this project came in at only .43
+percent, for a total dollar amount of approximately $56,000.00. Most of the work orders were
+owner requested changes.
+
+Also, in the month of July, construction closed on the Superior Stones Canal CSO Improvements
+project. This was a $17.5 million construction contract, but it was not closed within 95 percent of
+the original contract amount so the KPI was not met. Howeverrelates to the
+BOP goals. The overall goal was 18 percent and the actual was over 20 percent. Total work orders
+came in at almost 8 percent, total dollar amount $1.4 million. Most of the work orders were owner
+requested changes. Of note was a need for bypass pumping on the Superior Pump Station shortly
+a?er construction started due to the pump station failing.
+
+The highlighted project this month is the Woodland Central Green Infrastructure Project that is an
+estimated $11.4 million construction project and one (1) of the nine (9) green infrastructure
+projects being implemented as part of the CS0 long term control plan. The project includes two
+(2) large GI basins for the purposes of stormwater management and ultimately CSO reduction and
+it includes approximately 5,000 linear feet of new storm sewers through open cut construction.
+The basins and storm sewer construction are completed and activation is anticipated for next week.
+There is some remaining work to be done on the sites including seedings and plantings that will
+take place in the fall. The walking trail and concrete entrance construction is in progress.
+Substantial completion is scheduled for September of this year.
+
+The environmental and community bene?ts associated with this project include, most importantly,
+stormwater management for purposes of CSO reduction. In total, 30 million gallons of stortnwater
+will be captured and treated, resulting in 4.2 million gallons of annual CSO reduction. The co-
+bene?ts include environmental clean-up in the area of construction, and street restoration of the
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 10 of 13
+
+local streets and sidewalks in the area. In total, the clean-up includes about 4,000 linear feet of
+street restoration and 3,000 feet of sidewalk. As with all the District?s green infrastructure projects,
+there are park-like settings and amenities that come with the projects.
+
+Next, Ms. Marshall shared some pre- and post-construction photographs of the site. She stated that
+there were 2 main areas of construction on this project. The ?rst was the west basin, located along
+Kinsman, just north of the railroad tracks, across the street from Green City Growers. The east
+basin is located on East 75?" and Dell. There was signi?cant amount of waste both on the surface
+as well as buried. During construction waste was found as far down as eight feet. A signi?cant
+number of tires were removed from the site and biphenyl (PCB) contamination
+was found both within the soil as well as in the standing water in the ravine. Over 10,000 cubic
+yards of waste and over 6,000 tires were removed from the site. The contaminated soil was capped
+in place. In addition, the contaminated water was removed and treated. Groundwater monitors
+were installed that will allow the District to monitor to make sure that there is not leakage of the
+PCBs into the groundwater. Also constructed in the ravine was an enhanced wetland. Overall the
+site is 10 acres and the basin itself is about .9 acres so a lot of additional green space and some
+walking trails at the site.
+
+Next, Ms. Marshall provided photographs of the pre- and post-construction of the east basin
+project. This basin is about .8 acres in size and the overall site is about 5 acres which encompasses
+a lot of green space including walking trails.
+
+Mr. Brown asked ifthis is detention as opposed to retention. Ms. Marshall said correct, the water
+is of?oading from the combined system. Mr. Brown asked whether the water is standing
+permanently. Ms. Marshall said it is only there during the rain event and then it will be emptied
+out after the rain event.
+
+Mr. Ciaccia said this is an unbelievable project that years ago was called the ?forgotten triangle?
+that no one wanted to touch.
+
+Next, Doug Lopata, Program Manager Engineering and Construction, provided an update on the
+Lakeshore Boulevard/Euclid Creek Tunnel project. He stated the District is almost done with the
+Control Measure 6 System. l-Ie displayed various slides showing an overview of the Euclid Creek
+Tunnel (ECT). ECT 1 is the mining site where the machine was put in and also where the tunnel
+dewatering pump station sits and eventually the future home of the Dugway Storage Tunnel. ECT
+2 is another site right in front ofthe Easterly Treatment Plant. Next, ECT 3 is up by East 156'h
+Street and ECT 4 is the Lakeshore Boulevard Relief Sewer. Finally, ECT 5, by St. Clair and
+Nottingham, is where the machine was pulled out. The Lakeshore Boulevard area is very critical
+from a residential neighborhood perspective. The District is trying to get the ?ow to the Euclid
+Creek Tunnel. There is also the Euclid Creek Pump Station which is a small pump station mainly
+for sanitary flow, not to be confused with the big pump station for the Euclid Creek Tunnel.
+Basically, the pump station gets dry weather sanitary flow from the north side of Euclid Creek to
+the southside into the sewer system.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15,20l9
+
+Page II of 13
+
+There are 2 distinct sections or areas: the Lakeshore interceptor area and the Marcella and East
+185lh Street area. The latter section is the section the Water Pollution Control team is addressing
+on a similar project, but that ?ow will also go into the Euclid Creek Tunnel. From a stormwater
+or wet weather perspective, the District built the Lakeshore Boulevard Relief Sewer which
+basically parallel?s the 24-inch Lakeshore Interceptor. The Lakeshore Boulevard Relief is a 66-
+inch pipe. When the 24?inch interceptor fills up it then spills and draps down into the 66-inch pipe
+providing enhanced capacity to this neighborhood.
+
+From a wet weather perspective there are separate storm outfalls. Mr. Lopata indicated the areas
+on the presentation. He said there are 72-inch pipes, and on the lake, a 60-inch pipe, 42 and 24-
+inch pipes. Those are separate storm systems. There are 3 in the area: CSO 208, CSO 239
+which is right next to the Euclid Creek Pump Station and then CSO 209 is on the south side of the
+creek.
+
+Mr. Lopata stated Water Pollution Control is building the other arm of this project called the
+Marcella and 185?h Street Reliel?Sewer, which is currently under construction.
+
+The previous Lakeshore Interceptor? the small 24-inch sewer? goes to Euclid Creek Pump Station
+and it had a 36-inch outfall to the C80 239. However, this sewer is greatly impacted by the Euclid
+Creek water levels so the District had to address that issue. There is a lot of maintenance put into
+the pump station as well as a back?ow preventer that was leaking back?ow in through CSO 239.
+The ineffectiveness of the Lakeshore Interceptor sewer actually leads to overflows at C80 208.
+All those things led to high potential for residential basement flooding.
+
+Mr. Lopata showed a slide of the Lakeshore Interceptor and indicated how as the sewer ?ows
+down the path toward the creek and the creek level rises, the creek actually puts up a big roadblock
+to the flow and it causes the hydraulic grade line to back up in all ofthe manholes which potentially
+can lead to sewer or basement ?ooding.
+
+The key to the project is the Lakeshore Boulevard Relief Sewer. This had to basically drop the
+flow and go underneath the Euclid Creek to get the flow to the Euclid Creek Tunnel. The sanitary
+?ow still tries to get to the pump station. When it spills into the Lakeshore Boulevard relief sewer,
+it then drops about 60 feet, goes underneath the Euclid Creek and then drops another 140 feet into
+the Euclid Creek Tunnel. This gave the neighborhood about a ten-year level of service which is
+the highest the District has in the service area.
+
+Other improvements are the outfall for CSO 208, which is down to zero overflows up to the 25-
+year event from a C80 standpoint. The outfall experienced trouble due to the high lake levels in
+the last couple of years as well as big storms causing erosion along the lakeshore. The District put
+large break wall boulders both in front of the outfall and to the sides to keep the debris out of the
+way ofthe outfall which improved the level of service.
+
+The Euclid Creek Tunnel goes all the way back to the beginning of the Consent Decree. The
+District built the Lakeshore Boulevard Relief Sewer in about 2 years but could not activate until
+the tunnel dewatering pump station came online in July 2018. Plow could then be released into
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 12 of 13
+
+the Euclid Creek Tunnel which was active up until about March 2019. At that point the District
+had to remove the rock plug. The District had to close the gates at ECT 2, 3 and 5 because those
+do not affect neighborhoods they are more about environmental bene?t form the flow getting in
+the tunnel. The District wanted to leave the ECT 4 connection because it is such an
+environmentally and neighborhood sensitive sewer system. The District excavated the rock plug
+at ECT which is a 45-foot piece of rock that was left in place when the District did the Euclid
+Creek Tunnel and the Dugway Storage Tunnel. As the District removed the rock plug, Lakeshore
+Boulevard was left online. A temporary dam was built in ECT 1. The dam allowed flows to be
+stored and pumped by the ETDPS from the Lakeshore neighborhood. The rock plug was excavated
+in the middle and then the District will line the last section, about 200 feet or so, of the 24-foot
+diameter tunnel.
+
+Next, Mr. Lopata displayed a slide of the massive dam that was placed in the tunnel. The tunnel
+could get about 14 feet of water on one side of it. It had to be constructed with steel beams and
+road plates to keep the flow on the ECT side. He then showed a slide ofthe excavated rock plug
+that also showed Euclid Creek Tunnel in the background of the excavator. Next, he discussed the
+lining operation which is done with a gigantic form that is 24 feet in diameter and pours sections
+of about 20-foot Once the last piece ofdeep tunnel is finished, the District can move into
+full activation mode at the Dugway Storage Tunnel as well as open the gates back up at the Euclid
+Creek Tunnel.
+
+Mr. Lopata added that the projects that have been talked about for years will be fully activated
+with this project including Dugway West, Dugway East, East 140??, Dugway South, and then a
+regulator at Superior Avenue.
+
+The Operations and Maintenance Department is also working closely on the interaction of
+these projects once they go online and what they will have to do to maintain the gates and pump
+down the tunnel.
+
+As far as performance of the system, Mr. Lopata stated that the District looked at the performance
+of the system and the rainfall over two years - one year prior to activation and one year since
+activation. There were some big intense storms that caused flooding prior to activation. After the
+tunnel activation, there have not been any big intensity storms, but there have seen some pretty big
+volumes. A storm in late 2018 put about 28 feet of water into the Euclid Creek Tunnel totaling
+about 46 million gallons. It was very productive to capture that ?ow that used to go out to the
+environment.
+
+He added that this year may have seemed very rainy from looking at different rain gauges.
+including Parma, Beachwood and other places. However, along the Easterly Wastewater
+Treatment Plant, those big storms just did not fall there.
+
+Mr. Brown added that he appreciated Mr. Lopata?s presentation and that this is a great
+accomplishment for the District and for the community.
+
+BOARD OF TRUSTEES
+Regular Meeting
+
+August 15, 2019
+
+Page 13 of l3
+
+VII. Open Session
+There were no items.
+Public Session (any subject matter)
+There were no items.
+IX. Executive Session
+Mayor Bacci moved pursuant to Ohio Revised Code Section to enter into Executive
+Session to consult with the District?s legal counsel concerning disputes involving the District that
+are the subject of pending or imminent court action. Roll call vote: all yes, entered into executive
+session at 1:30 pm.
+X. Approval of Items from Executive Session (if necessary)
+
+X1. Adjournment
+
+MOTION Mayor Stefanik moved and Mayor Bacci seconded the motion to adjourn at 2:20 pm.
+Without objection, the motion carried unanimously.
+
+ 
+
+mothy J. eter, Secretary
+Board of Tr
+Northeast Ohio Regional Sewer District
+
+
+
+Darnell 
+Board of Trustees
+Northeast Ohio Regional Sewer District
+

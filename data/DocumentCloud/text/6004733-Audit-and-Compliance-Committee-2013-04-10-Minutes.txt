@@ -1,0 +1,1690 @@
+Minutes of the meeting of the Audit and Compliance Committee of the Board of Directors of the Cook County
+Health and Hospitals System held Wednesday, April 10, 2013 at the hour of 10:00 A.M., at 1900 West Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Muñoz called the meeting to order. In the absence of a quorum at that time, he appointed Director
+Michael as a substitute Member of the Committee for quorum purposes; therefore, a quorum of members was
+present.
+Present:
+
+Chairman Luis Muñoz, MD, MPH and Director Edward L. Michael (substitute Committee
+Member) (2)
+Director Hon. Jerry Butler and Gerald Bauman (non-Director Member)
+
+Absent:
+
+Directors Reverend Calvin S. Morris, PhD and Dorene P. Wiese, EdD (2)
+
+Additional attendees and/or presenters were:
+Cathy Bodnar – System Chief Compliance and
+Privacy Officer
+John Cookinham – System Chief Financial Officer
+Marie Franklin – McKesson Revenue Management
+Solutions
+Tim Heinrich – McGladrey LLP
+Randolph Johnston – System Associate General
+Counsel
+Pat Kitchen – McGladrey LLP
+
+II.
+
+Natasha Lafayette-Jones – Director of Health
+Information Management
+Ram Raju, MD, MBA, FACS, FACHE – Chief
+Executive Officer
+Elizabeth Reidy – System General Counsel
+Deborah Santana – Secretary to the Board
+Thomas Schroeder – System Director of Internal
+Audit
+John Jay Shannon, MD – Chief of Clinical
+Integration
+
+Public Speakers
+Chairman Muñoz asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+**Report from System Corporate Compliance Officer (Attachment #1)
+A. Activity Report
+B. Update - quarterly coding statistics
+C. Kickoff – Accounting of Disclosures Survey
+Cathy Bodnar, System Corporate Compliance and Privacy Officer, presented her report containing the
+following: quarterly statistics on reactive compliance issues; annual sanction report for employees and
+vendors; and CY12 breach statistics. Information was also provided regarding the following: Board
+education on the final HITECH Omnibus Rule; quarterly monitoring statistics for facility/technical coding
+and professional fee coding; and kick-off of the Accounting of Disclosures Survey. The Committee
+reviewed and discussed the information.
+Page 1 of 33
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, April 10, 2013
+Page 2
+
+III.
+
+**Report from System Corporate Compliance Officer (continued)
+During the discussion of the information regarding coding, Director Michael referenced page 15 of the
+report; he inquired further regarding the action under which a coder is removed from production. Marie
+Franklin, Coding Manager for McKesson Revenue Management Solutions, responded that when a coder
+scores in the red zone, the coder is removed from production, and the errors are reviewed by Compliance and
+Education. The coder is given thirty additional charts to review; if the coder passes at 90%, the coder is put
+back into production, and under a quality assurance process, 25% of their charts have to be reviewed. If a
+coder fails the remedial batch, the coder is still out of production; another batch is given. Depending on the
+errors, if it is the same error, then management would move toward corrective action. If it is a different
+error, management would provide the education and request additional charts to review. Director Michael
+inquired as to the approximate percentage of coders that are out of production and being retrained in a given
+quarter. Ms. Franklin responded that, overall, perhaps less than 10% are removed from production.
+Natasha Lafayette-Jones, Director of Health Information Management (HIM), provided additional
+information regarding the update on coding. She reviewed some of the internal processes for coding; she
+noted that previously some results were submitted that were their first external audit results. She indicated
+that, with regard to inpatient results, coding accuracy is at 94.1%; the System’s benchmark for coding
+standard is 95%. Management takes the external results and works with the coders to educate; the entire
+group gets the education on what happened, how it happened and how to avoid it. She stated that audit
+results on coding for the Emergency Rooms (ERs) are expected in May and will be brought to this
+Committee and to the Board1.
+For the ER audit, she stated that they will segregate out the internal staff and results and the external
+vendors’ results; in the case of ER, facility and professional coding will be reviewed from an external
+perspective.
+Director Velasquez inquired as to the total number of coders on staff at the System, and whether they are all
+certified. Ms. Lafayette-Jones responded that twenty-three coding positions are budgeted for the System;
+twelve positions are filled and eleven are vacant. There are ongoing efforts to recruit and ensure that the
+System reaches the proper staffing model. With regard to junior coders, which are non-certified coders, Ms.
+Lafayette-Jones stated that there are two budgeted positions, both of which are filled. She referenced a
+previous letter of agreement, under which the System had offered education to ramp-up the coders; she
+stated that the junior coders are the two coders that were not able to achieve the level prescribed. Under the
+agreement, the junior coders perform certain types of coding that are not as impactful as more complicated or
+higher-acuity cases.
+Ms. Lafayette-Jones stated that there are efforts to centralize coding. In conjunction with the ICD-10
+project manager, she stated that there is a need to centralize coding to ensure that the System can properly
+educate its coders.
+The current staffing model addresses mainly the acute care coding, which includes inpatient, ERs, same-day
+surgery and observation accounts. This staffing model does not accommodate outpatient, which is
+predominately what McKesson does from a professional fee perspective. Chairman Muñoz clarified that the
+additional work load that exists that is not addressed by the current staffing levels is addressed by the System
+bringing on external coding vendors to bring the System to the levels that are needed. Ms. Lafayette-Jones
+responded affirmatively. Chairman Muñoz inquired further regarding acute care coding and coding for
+services that fall outside that category. Ms. Lafayette-Jones stated that, with regard to ambulatory services
+and clinics, staff from HIM and Medical Records will also code some of the minor procedure areas, where
+doctors are doing invasive and not basic procedures.
+
+Page 2 of 33
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, April 10, 2013
+Page 3
+
+III.
+
+**Report from System Corporate Compliance Officer (continued)
+The Committee held an extensive discussion regarding coding for Trauma services. John Cookinham,
+System Chief Financial Officer, stated that an issue arose in which the System received notice from the State
+that the System had virtually no Trauma activity, which is not the case. This issue appears to be tied to
+revenue codes, rather than to medical coding; it was determined that the Charge Description Master (CDM)
+and the revenue code setup for the services in that area were not set up properly.
+Following the discussion of the matter, Chairman Muñoz stated that a report on the issue would be useful, to
+review and get a sense of how the issue evolved and the magnitude – in order to understand whether it was
+an issue involving, for example, information flow, process, or information technology. Mr. Cookinham
+responded affirmatively; he stated that an assessment of the issue will be brought back to the Committee2.
+During the review of the information on the Accounting of Disclosures Survey, Ms. Bodnar noted that
+efforts are currently underway to include language in the Conflict of Interest Policy relating to the
+ramifications for not completing the survey within the designated parameters; this language is anticipated to
+be added in time for the roll-out to the entire population by May 2nd.
+
+IV.
+
+Recommendations, Discussion/Information Item
+A. Update from McGladrey LLP on FY2012 Audit
+The following representatives from McGladrey LLP, provided an update on activities relating to the
+FY2012 Audit activities: Pat Kitchen, Partner; and Tim Heinrichs, Director. The Committee reviewed
+and discussed the information.
+Mr. Kitchen stated that he is pleased to report very good progress on the audit activities; representatives
+from McGladrey continue to receive strong cooperation from System management. In terms of the
+System audit, there are elements of the financial statements that are audited by the Health System audit
+team, and elements that are audited by the County audit team. With respect to the items for which he and
+his colleagues have primary responsibility as the Health System audit team, those areas are substantially
+complete – including cash, inventory, capital assets, accrued vacation and third-party settlements; he
+stated that there are no significant issues to report.
+With respect to the testing of patients accounts receivable, Mr. Kitchen stated that the testing is ongoing;
+they are hoping to conclude this soon, but to date, they have not encountered any issues or red flags/areas
+of concern with that testing.
+The areas being audited by the County audit team include additional cash and investments, self-insurance
+liabilities, debt, pension liabilities, payroll, and various tax revenue. To date, there have been no
+communications from the County audit team with respect to any issues that would have a trickle-down
+effect, in terms of the Health System financial statements.
+Mr. Kitchen stated that the County audit is progressing ahead of schedule; there is a fair amount of work
+yet to be done to complete the audit, in time for the County to file its Comprehensive Annual Financial
+Report (CAFR) by the May 31 deadline. With regard to the completion of the Health System financial
+statements, it was indicated that this should be completed sometime in May.
+
+Page 3 of 33
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, April 10, 2013
+Page 4
+
+V.
+
+Action Items
+A. Minutes of the Audit and Compliance Committee Meeting, January 23, 2013
+Director Michael, seconded by Chairman Muñoz, moved to accept the minutes of the
+Audit and Compliance Committee Meeting of January 23, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+B. Any items listed under Sections IV, V and VI
+
+VI.
+
+Closed Session Items
+A. **Report from System Corporate Compliance Officer
+B. Report from System Director of Internal Audit
+C. Discussion of Personnel Matters
+Director Michael, seconded by Chairman Muñoz , moved to recess the regular session
+and convene into closed session, pursuant to the following exceptions to the Illinois Open
+Meetings Act:
+5 ILCS 120/2(c)(1), regarding “the appointment, employment,
+compensation, discipline, performance, or dismissal of specific employees of the public
+body or legal counsel for the public body, including hearing testimony on a complaint
+lodged against an employee of the public body or against legal counsel for the public
+body to determine its validity,” and 5 ILCS 120/2(c)(28), regarding “meetings between
+internal or external auditors and governmental audit committees, finance committees, and
+their equivalents, when the discussion involves internal control weaknesses, identification
+of potential fraud risk areas, known or suspected frauds, and fraud interviews conducted
+in accordance with generally accepted auditing standards of the United States of
+America.” THE MOTION CARRIED UNANIMOUSLY.
+Chairman Muñoz declared that the closed session was adjourned.
+reconvened into regular session.
+
+The Committee
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Muñoz declared the meeting ADJOURNED.
+Respectfully submitted,
+Audit and Compliance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Luis Muñoz, MD, MPH, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+Page 4 of 33
+
+ Minutes of the Meeting of the
+Audit and Compliance Committee
+Wednesday, April 10, 2013
+Page 5
+1
+
+Follow-up: ER coding audit (expected to be completed in May) to be presented at next Audit and Compliance
+Committee Meeting (next regularly scheduled meeting is July 10, 2013). Page 2.
+
+2
+
+Follow-up: assessment of the issue involving coding for Trauma Services to be provided. Page 3.
+
+Page 5 of 33
+
+ Cook County Health and Hospitals System
+Audit and Compliance Committee Meeting Minutes
+April 10, 2013
+
+ATTACHMENT #1
+
+Page 6 of 33
+
+ Corporate Compliance
+Report
+
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance Privacy Officer
+
+
+
+ 
+
+  
+
+COOK COUNTY HEALTH
+.1?058: HOSPITALS SYSTEM
+. 
+
+ 
+
+Page 7 of 33
+
+Meeting Objectives
+ To file
+- Quarterly statistics on reactive compliance issues;
+- Annual sanction report for employees and vendors;
+- CY12 breach
+b
+h statistics.
+t ti ti
+ To provide Board education on the final HITECH Omnibus Rule.
+ To report quarterly monitoring statistics for facility/technical coding
+and professional fee coding.
+ To kick-off the Accounting of Disclosures Survey.
+
+2
+Page 8 of 33
+
+ 1st Quarter FY 2013 Activity
+78 Reactive Corporate Compliance Issues Opened
+Conflict of Interest
+5%
+Accurate Books
+5%
+
+False Claims
+5%
+HIPAA
+48%
+
+Political
+1%
+
+Policy/Regulatory
+18%
+
+HR
+7%
+
+Other
+13%
+%
+
+Actual Counts
+Privacyy ((HIPAA))
+
+New Category
+3
+
+37 Conflict of Interest 4
+
+Theft
+
+1
+
+Policy/Regulatory 14 False Claims
+
+4
+
+Political Activity 1
+
+Human Resources
+
+2
+
+Other
+
+5
+
+Accurate Books
+
+Page 9 of 33
+
+10
+
+ Annual Sanction Screening Checks
+The checks are specialized searches to identify
+individuals or entities that have been sanctioned or
+debarred from participation in federally funded
+healthcare programs.
+
+March 12, 2013
+Cathy Bodnar, MS, RN, CHC
+Chief Compliance Officer
+Cook County Health & Hospitals System
+1900 West Polk, Suite 123 Rm 118
+Chicago, IL 60612
+Dear Cathy:
+This is a summary report for our review of Cook County Health & Hospitals
+System employees and vendors which was conducted by our office on February
+28 - March 4, 2013. Based on data we received on February 26, 2013, we
+reviewed 5,970 employees and 1,028 vendors (after removing exact duplicates)
+for possible sanctions which could affect federal or state healthcare funding.
+These individuals and vendors were reviewed by checking for name matches
+against the OIG List of Excluded Individuals/Entities and the System for Award
+Management (SAM) Exclusions list (formerly known as the GSA Excluded Party
+List System) which also includes the U.S. Department of the Treasury Specially
+Designated Nationals (SDN) List. They also were matched against the State of
+Illinois Provider Sanctions list.
+When no match occurs, we assess that individual to be not excluded from federal
+or state healthcare programs. When a possible match does occur, our analysts
+then review each possible match and perform any additional research as
+necessary to resolve each of these matches. After further review, we determined
+that none of these matches were positive.
+These employees and vendors will continue to be screened for any new
+exclusions through our ContinueCheck® monthly rechecking service for the next
+11 months as specified in our contract. Cook County Health & Hospitals System
+also may send us a list of newly-hired employees and newly-engaged vendors
+each month to be included in this monthly rechecking.
+Sincerely,
+
+Brady
+B
+d Ballman
+B ll
+Vice President
+
+4
+Page 10 of 33
+
+Sanction screeningg checks are a requirement for
+recipients of governmental funds.
+CCHHS is prohibited from employing, engaging,
+contracting or agreeing with any individual or entity
+who
+h is
+i sanctioned
+ti d or excluded
+l d d from
+f
+participation
+ti i ti in
+i
+a federal program.
+
+No Exclusions Identified for
+Employees or Vendors
+
+ Breach Reporting 2012
+Total Number of Individuals Affected by
+B
+Breaches
+h off U
+Unsecuredd P
+Protected
+t t dH
+Health
+lth Information
+I f
+ti – 348
+“Unsecured”
+ Protected Health Information (PHI) has been rendered unusable
+unusable, unreadable
+unreadable,
+or indecipherable to unauthorized individuals.
+- Electronic – must be encrypted following the requirements set forth within
+the HIPAA Security Rule.
+- Paper, film, or other hard copy media has been shredded or destroyed such
+that the PHI cannot be read or otherwise reconstructed.
+
+5
+Page 11 of 33
+
+ Questions?
+
+Page 12 of 33
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+HIPAA Omnibus Rule
+ Published on January 25, 2013; effective on March 26, 2013.
+ Compliance
+C
+li
+is
+i mandated
+d t d bby S
+September
+t b 23
+23, 2013
+2013.
+ New restrictions and obligations include:
+o Modifications to, and redistribution of, the Notice of Privacy Practices;
+o Expands the definition of a Business Associate – BAs now become directly
+liable for compliance with HIPAA;
+o Increases an individuals’ rights
+g to receive electronic copies
+p of their health
+information;
+o Restricts disclosures to health plans concerning treatment for which the
+individual has paid out of pocket in full; and
+o Prohibits the sale of protected health information without individual
+authorization.
+
+7
+Page 13 of 33
+
+ Putting Things in Perspective
+March 12, 2013 roundtable with DHHS OCR Director Leon Rodriguez,
+ Compliance
+C
+li
+iis mandatory.
+d t
+ Breaches will continue to happen…and OCR knows it.
+ The key to avoiding costly fines and penalties is
+o to have the ability to show OCR what was in place to prevent the breach in
+the first place,
+o to investigate and mitigate the effects of the breach when it occurred, and
+o to review the HIPAA compliance program generally as a result of the breach
+to prevent it from recurring.
+
+8
+Page 14 of 33
+
+ What’s
+What
+s the Key to Compliance?
+Document Everything – Documentation establishes intent.
+ “Everything”
+“E
+thi ” iincludes
+l d the
+th policies
+li i andd procedures
+d
+th
+thatt were iin place
+l
+att th
+the titime
+of the breach that were designed to prevent the breach from occurring in the
+first place. Documentation includes,
+o Verification that workforce members received training on the policies and
+procedures;
+o Evidence of the report and subsequent investigation of the breach;
+o Action
+A ti taken
+t k tto mitigate
+iti t th
+the bbreachh andd notifications
+tifi ti
+made
+d tto th
+the iindividuals
+di id l
+affected by the breach; and, if applicable,
+o Re-evaluation and modification to policies and procedures made as a result
+off the
+th breach
+b
+h andd itits iinvestigation.
+ti ti
+
+9
+Page 15 of 33
+
+ 10
+
+Questions?
+
+Page 16 of 33
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+Professional Coding Reviews
+Externally Performed by McKesson
+ Retrospective
+R t
+ti reviews
+i
+are performed
+f
+d quarterly.
+t l
+ All staff performing CCHHS coding are reviewed.
+ Thirty
+y (30)
+( ) patient records are selected.
+ The records reviewed reflect a range of services.
+ Performance is scored utilizing the following table:
+Accuracy Levels
+Minimum Standard
+
+Scoring
+CPT/Modifiers ICD-9-CM
+95%
+
+95%
+
+Green
+Yellow
+Orange
+
+95 - 100%
+90 - 94.99%
+85 - 89.99%
+
+95 - 100%
+90 - 94.99%
+85 - 89.99%
+
+Red
+
+Below 85%
+
+Below 85%
+
+Remediation
+
+Feedback on errors
+Feedback; if no improvement in 3 quarters - corrective action plan.
+Corrective action plan with customized training to address
+weaknesses. Corrective actions become more focused with
+increasing levels of monitoring until improvement.
+Monitoring
+o to g aall cod
+coding.
+g Co
+Corrective
+ect e act
+action
+o plan
+p a with
+t customized
+custo ed ttraining
+a g
+to address weaknesses. If no improvement, removed from production.
+
+11
+Page 17 of 33
+
+ Professional Coding Statistics
+Coder
+
+CPT/Modifiers
+
+1
+2
+3
+4
+5
+6
+9
+12
+14
+15
+16
+19
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+100.0%
+90.0%
+90.0%
+86.7%
+60.0%
+90.0%
+96.4%
+80.0%
+43.3%
+86 7%
+86.7%
+77.4%
+82.8%
+96.8%
+96.7%
+95.5%
+86.7%
+90 0%
+90.0%
+86.7%
+84.1%
+95.6%
+95.1%
+90.3%
+86.7%
+91 4%
+91.4%
+96.6%
+93.8%
+94.9%
+100.0%
+73.0%
+70.0%
+90 9%
+90.9%
+66.0%
+
+Quarter 4 - October - December 2012
+ICD-9-CM
+Action
+95.8%
+100.0%
+100.0%
+96.7%
+95.0%
+96.0%
+98.2%
+89.0%
+50.8%
+99 2%
+99.2%
+90.3%
+96.9%
+98.4%
+100.0%
+100.0%
+88.3%
+92 5%
+92.5%
+85.0%
+100.0%
+99.3%
+95.1%
+88.7%
+85.8%
+92 2%
+92.2%
+100.0%
+92.2%
+95.5%
+100.0%
+90.0%
+82.8%
+98 3%
+98.3%
+93.0%
+
+12
+Page 18 of 33
+
+NA
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Monitor with corrective action plan.
+Remediation; 100% monitoring until compliant.
+Feedback; ongoing monitoring
+NA
+Remediation; 100% monitoring until compliant.
+Coder removed from production
+Monitor with corrective action plan
+plan.
+Remediation; 100% monitoring until compliant.
+Remediation; 100% monitoring until compliant.
+NA
+NA
+NA
+Monitor with corrective action plan.
+Feedback; ongoing monitoring
+Monitor with corrective action plan.
+Remediation; 100% monitoring until compliant.
+NA
+NA
+Monitor with corrective action plan.
+Monitor with corrective action plan.
+Feedback; ongoing monitoring
+NA
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+NA
+Remediation; 100% monitoring until compliant.
+Remediation; 100% monitoring until compliant.
+Feedback; ongoing monitoring
+Remediation; 100% monitoring until compliant.
+
+ 13
+
+Questions?
+
+Page 19 of 33
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+CCHHS Coding Reviews
+Externally Performed Review of CCHHS Coding Staff
+ A random sample of 1,203 inpatient records.
+ The sample assessed 5% of John H. Stroger, Jr. Hospital
+discharge records from FY 2012
+2012.
+ CCHHS overall accuracy rate was 94.1%.
+ Industry benchmark for coding accuracy is 95%.
+Quality Improvement Activity
+ E
+External
+t
+l review
+i
+results
+lt used
+d tto educate
+d
+t coders
+d
+tto iimprove
+coding accuracy.
+
+14
+Page 20 of 33
+
+ Current State
+The mission of the Health Information Management Coding Office is
+to centralize and standardize coding throughout CCHHS.
+Position
+Sr. Coder (Credentialed)
+Jr. Coder
+Total
+
+Budgeted
+23
+2
+25
+
+* External
+
+Filled
+12
+2
+14
+
+Vacant
+11
+0
+11*
+11
+
+coding vendors supplement current
+activity with real-time flexible staffing.
+
+15
+Page 21 of 33
+
+ Productivity Standards
+CCHHS Coding Standard
+R
+Record
+d Type
+T
+R
+Record
+d Per
+P Hour
+H
+Inpatient
+3
+Observation
+4
+Same Day Surgery
+7
+ED Records
+8
+Outpatient Clinic/ Diagnostics
+25
+
+Action Plan for Coders Not Achieving Standards
+ < 85% case-by-case review
+ 30 – 60 – 90 day counseling corrective action plan
+ Over 90 days without improvement, progressive disciplinary
+action plan.
+16
+Page 22 of 33
+
+ Future State
+Goals
+ Comply with ICD-10-CM
+ICD 10 CM and ICD
+ICD-10-PCS
+10 PCS by October 1
+1, 2014 by
+by,
+o Engaging an external project manager;
+o Initiating system-wide education to providers (documentation)
+and
+d coders
+d
+((anatomy
+t
+& physiology);
+h i l
+) and
+d
+o Procure necessary software.
+ Centralize coders to one location.
+System
+Director Health
+Information
+Management
+
+17
+
+System
+Records
+Manager
+
+System
+Coding
+Manager
+
+Inpatient
+Coding
+Manager
+
+Outpatient
+Coding
+Manager
+
+Quality
+Coordinator
+Manager
+Page 23 of 33
+
+ 18
+
+Questions?
+
+Page 24 of 33
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+Accounting of Disclosures Survey
+Kick off Schedule
+Kick-off
+
+Executive
+Leadership
+
+Audit & Compliance
+Committee of the
+Board of Directors
+
+Board of Directors
+
+April 9, 2013
+
+Today!
+April 10,
+10 2013
+
+April 26, 2013
+
+May 2, 2013
+
+R
+Required
+i d Fil
+Filers
+
+19
+Page 25 of 33
+
+ FY 13 Work Plan
+Deploy system-wide conflict of interest data collection tool for annual
+attestation and reporting changes throughout the year.
+
+20
+Page 26 of 33
+
+ Accoun?ng of Disclosures - Workforce
+
+ 
+
+Welcome
+
+Transparency is a critical corona-rue; .: :o our oission as a poolic,
+heath provider. We are oedieazed :o sem?e :3er
+moonlit}; :his includes osr aruo' The
+
+
+
+poroose o: this disclose re process is to identi?e aetix'i?es :ha: Fa}; create
+
+.- aonaa? Isa?"Elias or have :3 .e appearance o" con?icts and iooleo'en'.
+I xx safeguards. goai is :o prozee: :he aoo' asse:s of
+i at Cool?: Come; ? eal:h ?Ios_oi:als Syster?, :he people 0 seek heath
+services go on System the [away a? Corsair-e :asoayers o: Coos
+
+
+
+Cowley, and she raL'oiiI: a: large.
+
+
+Login
+FileriD
+. . . . -
+Password
+
+is: 3313 - Coal Hearth Ce Hospitals 
+
+ 
+
+ 
+
+ 
+
+Page 27 of 33
+
+Conflict of Interest Policy
+
+Adding language to address the
+ramifications of not completing the survey
+within the designated parameters.
+
+22
+Page 28 of 33
+
+ 23
+
+Questions?
+
+Page 29 of 33
+
+  
+    
+
+ 
+
+8: HOSPITALS SYSTEM
+
+
+2
+.4
+
+?r
+
+ 
+
+24
+
+Closed Session Discussion
+
+ 
+
+  
+
+COOK COUNTY HEALTH
+.1?058: HOSPITALS SYSTEM
+. 
+
+ 
+
+Page 30 of 33
+
+COOK COUNTY HEALTH HOSPITALS SYSTEM
+CORPORATE COMPLIANCE
+2012 BREACHES OF UNSECURED PROTECTED HEALTH INFORMATION
+Total number of patients impacted:
+Total number of breaches, as defined by HIPAA: 
+Date
+
+Activity Description
+
+Notification of a breach of PHI (to a Department
+of Corrections officer) during examination of a
+1/24/2012 detainee at Stroger.
+
+Activity Resolution
+Investigated and determined a breach occurred.
+Corrective actions included education and followup with involved parties and a breach notification
+letter was sent to the patient.
+
+Notification that a laptop containing unsecured
+A breach occurred with the theft of an unsecured
+(not encrypted) protected health information was laptop containing PHI. Patient notifications were
+stolen.
+sent. Hektoen corrective actions included re2/23/2012
+education and notice to adhere to CCHHS laptop
+security standards. Transitioned to Information
+Security Officer.
+Allegation of HIPAA violation when a patient was
+registered in the Emergency Department under
+her twins name in error. Patient was given her
+twin sister's Medication Profile upon discharge
+1/31/2012 from the ED. In addition, her twin received a
+portion of the ED bill and the medical records
+were merged together.
+
+Provided guidance to operational areas. Worked
+closely with Health Information Management,
+Health Information Systems, and ED Registration
+to resolve HIPAA Breach and merged medical
+records. Notification letters were sent.
+
+Notification of two cameras stolen from Clinic H.
+The cameras were noticed missing on 2/6/12.
+20 40
+Each camera contained approximately 20-40
+digital images of patient's breasts without any
+other identifiers. One image included a picture of
+a mammogram with patients name and medical
+record number.
+
+Reviewed, investigated, provided HIPAA training,
+and met with employee about safeguarding
+information including photographs
+patient information,
+photographs.
+Breach notification sent to one patient.
+
+2/9/2012
+
+Allegation of a PHI breach when a patient's
+mother received a Discharge Information Sheet
+4/17/2012 for another patient that was seen in the
+Emergency Department the same date.
+
+7/5/2012
+
+7/9/2012
+
+Determined breach did occur. Breach notification
+sent to patient that received another patient's
+discharge information sheet. Re-education.
+
+Notification of a patient calling to advise the
+pharmacy that the prescription bag given to him
+contained medication for another patient.
+
+A breach of patient information was confirmed.
+Patient notification was completed. Action items
+to prevent recurrence were identified by
+Pharmacy.
+
+Allegation of PHI breach when a physician emailed the American Medical Association,
+Patient Safety Consortium, screen shots
+containing protected health information on two
+patients. E-mail was sent from an AOL account
+to an AMA e-mail address, both addresses are
+outside CCHHS firewall.
+
+Security breach validated. Patients notified.
+Employee remediation pursuant to the
+recommendations of the Hearing Officer.
+
+Compiled 1 Quarter 2013
+
+Page 31 of 33
+
+348
+15
+Individuals
+Affected
+
+Area
+Involved
+
+1
+
+Stroger
+
+257
+
+Hektoen
+
+2
+
+Stroger Emergency
+Department
+
+1
+
+Imaging Services
+
+1
+
+Provident
+Emergency
+Department
+
+1
+
+Pharmacy
+
+2
+
+Medical Staff
+
+Page 1
+
+ COOK COUNTY HEALTH HOSPITALS SYSTEM
+CORPORATE COMPLIANCE
+2012 BREACHES OF UNSECURED PROTECTED HEALTH INFORMATION
+Date
+
+Activity Description
+
+Activity Resolution
+
+Notification of a story on a local television station Re-education to operational area. Patient breach
+about the Stroger Hospital's Trauma Unit.
+notification letters were sent. Policy,
+7/16/2012
+authorization, and guidance will be routed
+through approval process.
+Notification that a vendor, Discovery Copy
+Services, faxed a medical record to the wrong
+fax number/recipient.
+
+The erroneous fax was destroyed and the correct
+recipient was sent the materials. A breach
+notification letter was sent to the patient. The
+supervisor discussed the incident with the
+employee and a written record was put in their
+personnel file.
+
+8/7/2012
+
+Notification of a patient complaint where the
+patient requested copies of their medical record
+and received, in addition to their own, medical
+8/30/2012
+records, records of another patient.
+
+11/19/2012
+
+The medical records that did not belong to the
+patient requesting their own record were returned
+to CCHHS. An internal investigation determined it
+to be a clerical error. A letter was sent notifying
+the patient of the breach.
+
+Allegation of a pharmacy prescription given to
+the wrong patient.
+
+Breach of patient information was confirmed. A
+breach notification letter was sent to the patient.
+Corrective action plan put in place with Pharmacy.
+
+Notification of PGY1 inadvertently giving PHI
+without permission.
+
+A (verbal) breach of PHI did occur. A breach
+notification letter was sent to the patient. The
+involved staff was assigned and completed
+additional computer-based training courses on
+pprivacyy and confidentiality.
+y
+
+11/7/2012
+
+Notified of an article in the Chicago Tribune that
+contained an image (photograph) of patients.
+11/29/2012
+
+Notification of use of "HIV POSITIVE" sticker on
+a patient chart.
+12/17/2012
+
+Notification that two patients (same last name)
+received each other medications during the
+10/29/2012 discharge process. One of the medications was
+a controlled substance.
+
+Confirmed that authorization was not obtained
+and a breach occurred. A breach notification
+letter was sent to all patients that were seen in
+the ED during the time the reporter was there.
+Updated policy, procedures and forms authorization for patient and confidentiality for
+members of the media.
+Investigation validated that a breach occurred
+related to HIV diagnosis. A breach notification
+letter was sent to the patient. Corrective actions,
+including retraining in process.
+Breach of patient information was confirmed. A
+breach notification letter was sent to the patient.
+Corrective action plan put in place with Pharmacy.
+
+Total number of patients impacted:
+Total number of breaches, as defined by HIPAA: 
+Compiled 1 Quarter 2013
+
+Page 32 of 33
+
+Individuals
+Affected
+
+Area
+Involved
+
+3
+
+Public Relations
+
+1
+
+Discover Copy
+Service
+
+1
+
+HIM
+
+1
+
+Pharmacy
+
+1
+
+Medical Staff
+
+74
+
+Public Relations
+
+1
+
+Nursing
+
+1
+
+Nursing / Pharmacy
+
+348
+15
+Page 2
+
+ Professional Coding Statistics
+Quarter 3 and 4 2012
+Quarter 3 - July - October 2012
+Coder CPT/Modifiers ICD-9-CM Action
+1
+97.70%
+93.10% Feedback; ongoing monitoring
+2
+83.30%
+99.20% Remediation; 100% monitoring until compliant.
+95.00% Feedback; ongoing monitoring
+3
+93.00%
+96.00% Feedback; ongoing monitoring
+4
+93.00%
+99.20% Feedback; ongoing monitoring
+5
+93.50%
+93.30% Feedback; ongoing monitoring
+6
+90.00%
+7
+8
+9
+
+90.40%
+100.00%
+93.00%
+
+97.30%
+98.00%
+99.60%
+
+10
+11
+12
+
+100.00%
+93.30%
+86.70%
+
+100.00% NA
+99.20% Feedback; ongoing monitoring
+86.70% Feedback; monitor during 4th quarter
+
+13
+14
+15
+16
+17
+
+43.30%
+93.30%
+90.00%
+90.00%
+73.00%
+
+88.30%
+100.00%
+95.00%
+100.00%
+85.00%
+
+18
+19
+
+86.70%
+93.30%
+
+96.70% Feedback; monitor during 4th quarter
+100.00% Feedback; ongoing monitoring
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+
+96.70%
+100.00%
+50.00%
+64.00%
+50 00%
+50.00%
+60.00%
+96.80%
+96.70%
+95.50%
+
+96.70%
+96.00%
+78.70%
+91.00%
+90 00%
+90.00%
+86.00%
+98.40%
+100.00%
+100.00%
+
+Quarter 4 - October - December 2012
+CPT/Modifiers ICD-9-CM Action
+100.0%
+95.8%
+NA
+90.0%
+100.0% Feedback; ongoing monitoring
+90.0%
+100.0% Feedback; ongoing monitoring
+96.7%
+Monitor with corrective action plan.
+86.7%
+60.0%
+95.0%
+Remediation; 100% monitoring until compliant.
+90.0%
+96.0%
+Feedback; ongoing monitoring
+
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+
+80.0%
+
+89.0%
+
+Did Not Code
+Did Not Code
+Remediation; 100% monitoring until compliant.
+
+43.3%
+86.7%
+77.4%
+
+50.8%
+99.2%
+
+96.4%
+
+Coder removed from production
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Remediation; 100% monitoring until compliant.
+
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Coder removed from production
+Coder removed from production
+Coder removed from production
+Coder removed from production
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+
+98.2%
+
+Did Not Code
+Did Not Code
+NA
+
+96.9%
+
+Did Not Code
+Remediation; 100% monitoring until compliant.
+
+Did Not Code
+82.8%
+
+96.8%
+96.7%
+95.5%
+
+98.4%
+100.0%
+100.0%
+
+86.7%
+90.0%
+
+88.3%
+92.5%
+
+86.7%
+84.1%
+95.6%
+95.1%
+90.3%
+
+85.0%
+100.0%
+99.3%
+95.1%
+
+86.7%
+91.4%
+96.6%
+93.8%
+94.9%
+100.0%
+73.0%
+70.0%
+90.9%
+66.0%
+100.0%
+
+Page 33 of 33
+
+90.3%
+
+Did Not Code
+Coder removed from production
+Monitor with corrective action plan.
+Remediation; 100% monitoring until compliant.
+
+91.4%
+93.6%
+75.0%
+58.1%
+90.0%
+68.8%
+73.3%
+73.0%
+
+88.7%
+85.8%
+92.2%
+100.0%
+92.2%
+95.5%
+100.0%
+90.0%
+82.8%
+98.3%
+93.0%
+96.0%
+92.9%
+97.9%
+90.0%
+98.4%
+96.7%
+79.7%
+85.8%
+90.0%
+
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+Did Not Code
+NA
+NA
+NA
+Monitor with corrective action plan.
+Feedback; ongoing monitoring
+Monitor with corrective action plan.
+Remediation; 100% monitoring until compliant.
+NA
+NA
+Monitor with corrective action plan.
+Monitor with corrective action plan.
+Feedback; ongoing monitoring
+NA
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+NA
+Remediation; 100% monitoring until compliant.
+Remediation; 100% monitoring until compliant.
+Feedback; ongoing monitoring
+Remediation; 100% monitoring until compliant.
+NA
+Feedback; ongoing monitoring
+Feedback; ongoing monitoring
+Remediation; 100% monitoring until compliant.
+Remediation; 100% monitoring until compliant.
+Feedback; ongoing monitoring
+Coder removed from production
+Coder removed from production
+Remediation; 100% monitoring until compliant.
+
+ 

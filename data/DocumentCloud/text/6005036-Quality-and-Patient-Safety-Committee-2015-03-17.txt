@@ -1,0 +1,2159 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Tuesday, March 17, 2015 at the hour of 10:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Gugenheim called the meeting to order.
+Present:
+
+Chairman Ada Mary Gugenheim and Director Erica E. Marsh, MD, MSCI (2)
+Board Chairman M. Hill Hammock (ex-officio), Mr. Patrick T. Driscoll, Jr. (non-Director
+Member) and Patricia Merryweather (non-Director Member)
+Director Emilie N. Junge
+
+Present
+Telephonically:
+
+Director Wayne M. Lerner, DPH, LFACHE (1)
+
+Absent:
+
+None (0)
+Director Marsh, seconded by Chairman Gugenheim, moved to allow Director Lerner to
+participate in the meeting telephonically. THE MOTION CARRIED UNANIMOUSLY.
+
+Additional attendees and/or presenters were:
+Peter Daniels – Chief Operating Officer, Hospital-Based
+Services
+Krishna Das, MD – System Chief Quality Officer
+Aaron Hamb, MD – Provident Hospital of Cook County
+Randolph Johnston – System Associate General Counsel
+
+II.
+
+John O’Brien, MD – Director of Professional Education
+Deborah Santana – Secretary to the Board
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+
+Public Speakers
+Chairman Gugenheim asked the Secretary to call upon the registered public speakers.
+The Secretary responded that there were none present.
+
+III.
+
+Report from Chief Quality Officer
+A. Regulatory and Accreditation Updates
+Dr. Krishna Das, Chief Quality Officer, provided a brief update on regulatory and accreditation matters. She
+reminded the Committee that Prieto Clinic is in the window for The Joint Commission’s (TJC) single site visit to
+accredit it as a Primary Care Medical Home. Stroger Hospital is also in the window for its next full accreditation
+survey by TJC that should occur anytime between now and November.
+B. Metrics (Attachment #1)
+Dr. Das noted that staff have recently experienced a lot of technical issues with data collection; she had hoped to
+have the January data for this meeting, but was unable to include it due to those issues. She believes the issues
+are temporary. Data abstractions are both manual and computer-assisted, and come through the Cerner System.
+Cerner produces upgrades, as any electronic medical record (EMR) system does. Staff believes that the
+Lighthouse application is perhaps not as stable as it could be, because with each upgrade, a temporary setback
+sometimes occurs; it takes a few weeks to realign the version of one application to the other. Under normal
+circumstances, Dr. Das stated that there should be a lag of approximately six (6) weeks between when the data
+is received and when it is presented to the Committee.
+Page 1 of 46
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, March 17, 2015
+Page 2
+
+III.
+
+Report from Chief Quality Officer
+B. Metrics (continued)
+With regard to slide 5, Board Chairman Hammock noted that it is hard to ascertain progress, as no targets are set
+for these measures. Dr. Das stated that the way people usually set these indicators is by a percentage reduction
+over the baseline; following discussion, it was determined that Dr. Das would work on the best way to set
+targets for the measures.
+During the discussion of the information on slide 5 regarding pressure ulcers, Dr. Das noted that, later in the
+year, a more in-depth presentation is planned regarding ulcers and falls, which are both nursing-sensitive
+indicators; that presentation is expected to provide unit-specific data.
+It was noted that slide 6 contained an error; the variance under the Board Metrics section for Overall Rating of
+Hospital should be 24%, not 10%.
+With regard to slide 7, Board Chairman Hammock stated that it would be helpful if the slide header would
+include the word “Ambulatory” with the description of ACHN. Additionally, it would be helpful in the targets
+if it was footnoted somehow where there are national targets or percentiles.
+Director Marsh stated that it would also be helpful to have an overall average for the previous six or twelve
+months, perhaps placed right before the target, particularly for the core measures and efficiencies.
+The Committee discussed the data on the measures relating to efficiency in the Operating Rooms (OR) at
+Stroger Hospital on slide 2. Director Marsh noted that, based on the data, it appears that the OR is not doing as
+many cases as it should be doing. Dr. Marsh requested that the Committee receive an update on this subject
+within the next few months as to what the drivers are, and the number of cases that were not able to be done in a
+given day. Dr. Das responded affirmatively.
+Director Lerner inquired whether there is there a process improvement team involved in the OR turnaround time
+issue. Dr. Das responded affirmatively. Mr. Daniels stated that a project team for that purpose is assembled and
+in place; it is composed of a subset of individuals from the OR Committee. Director Lerner suggested that the
+Committee have a drill-down at one of its upcoming meetings so the members can try to identify the obstacles
+to achieving the targets. Dr. Das noted that a drill-down on the subject is planned in the schedule for later this
+year1.
+
+C. Assessment of Language and Literacy (Attachment #2)
+Dr. Das provided an overview of the presentation on the Assessment of Language and Literacy. The following
+individuals provided additional information on the subject: Debra Carey, Chief Operating Officer of
+Ambulatory Services; Dr. John O’Brien, Director of Professional Education; and Jack Daley, Director of
+Support Services. The Committee reviewed and discussed the information.
+During the discussion of the subject of staffing clinics with bilingual staff and assessments of primary patient
+populations that will be served, Board Chairman Hammock stated that, in the System’s challenge to retain its
+CountyCare patients and patients in general, at a later date it would be helpful to see how the staffing lines up
+against the patients served. Ms. Carey responded that this information can be provided.
+
+Page 2 of 46
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, March 17, 2015
+Page 3
+
+III.
+
+Report from Chief Quality Officer
+C. Assessment of Language and Literacy (continued)
+During the discussion of the use of telephone interpreters, Dr. O’Brien stated that the cost of using telephone
+interpreters is $.85 per minute. If a provider needs a Spanish or Polish interpreter, which are services provided
+by in-house interpreters, they are asked to press one of the buttons and that takes them to the in-house
+interpreters; if nobody answers the call, it is then forwarded to the telephone interpreters. A request was made
+for information on the total cost for telephonic interpreters for outpatient services2; Mr. Daniels responded that
+he will provide that information.
+Director Lerner inquired whether this data is inclusive of CountyCare patients. Dr. Das responded that the data
+is by site of care; she believes that she can assemble it by insurance status. Director Lerner stated that it might
+be helpful to reflect the crossover between quality and patient safety and managed care3; he asked Dr. Das to
+connect with Steven Glass, Executive Director of Managed Care, to further discuss the matter. He stated that,
+clearly, one of the ways to keep people in a managed care environment is to make sure the organization is
+communicating with them, so it would be helpful to have that information.
+
+IV.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, February 17, 2015
+Director Lerner, seconded by Director Marsh, moved to accept the Minutes of the Quality
+and Patient Safety Committee Meeting of February 17, 2015. THE MOTION CARRIED
+UNANIMOUSLY.
+
+B. **Medical Staff Appointments/Re-appointments/Changes (Attachment #3)
+Director Lerner, seconded by Director Marsh, moved to approve the Medical Staff
+Appointments/Reappointments/Changes. THE MOTION CARRIED UNANIMOUSLY.
+C. Any items listed under Sections IV, V and VI
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+Dr. Aaron Hamb, of Provident Hospital of Cook County, indicated that Dr. Anwer Hussain, President of the
+Executive Medical Staff (EMS) of Provident Hospital of Cook County, was not in attendance, and did not
+have a report to present at this time.
+Dr. Ozuru Ukoha, President of the EMS of John H. Stroger, Jr. Hospital of Cook County, presented his
+report. Their monthly meeting was held last week. At the meeting, Dr. Claudia Fegan, Executive Medical
+Director brought two items to their attention that she would like to be taken more seriously. One relates to
+patient identification - she requested the medical staff to require two identifiers for every patient encounter;
+preferably these would be the patient’s name and date of birth. The other item relates to procedures; there
+needs to be a proper way of documenting clinicians’ certifications that leads to privileges.
+Page 3 of 46
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, March 17, 2015
+Page 4
+
+VI.
+
+Closed Meeting Items
+A. Medical Staff Appointments/Re-appointments/Changes
+B. Litigation Matter(s)
+C. Update on Cermak Health Services
+Director Marsh, seconded by Chairman Gugenheim, moved to recess the open
+meeting and convene into a closed meeting, pursuant to the following exceptions to
+the Illinois Open Meetings Act: 5 ILCS 120/2(c)(1), regarding “the appointment,
+employment, compensation, discipline, performance, or dismissal of specific
+employees of the public body or legal counsel for the public body, including hearing
+testimony on a complaint lodged against an employee of the public body or against
+legal counsel for the public body to determine its validity,” 5 ILCS 120/2(c)(11),
+regarding “litigation, when an action against, affecting or on behalf of the particular
+body has been filed and is pending before a court or administrative tribunal, or when
+the public body finds that an action is probable or imminent, in which case the basis
+for the finding shall be recorded and entered into the minutes of the closed meeting,”
+and 5 ILCS 120/2(c)(17), regarding “the recruitment, credentialing, discipline or
+formal peer review of physicians or other health care professionals for a hospital, or
+other institution providing medical care, that is operated by the public body.” THE
+MOTION CARRIED UNANIMOUSLY.
+Chairman Gugenheim declared that the closed meeting was adjourned.
+Committee reconvened into the open meeting.
+
+The
+
+VII. Adjourn
+As the agenda was exhausted, Chairman Gugenheim declared the meeting
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Ada Mary Gugenheim, Chairman
+
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 46
+
+ Minutes of the Meeting of the Quality and Patient Safety Committee
+Tuesday, March 17, 2015
+Page 5
+
+1
+
+Follow-up: Regarding measures relating to efficiency in the OR - request was made for a drill-down at an
+upcoming meeting (already scheduled), and request made for update within next few months
+regarding what the drivers are, along with the number of cases not able to be done in a given day.
+Page 2.
+
+2
+
+Follow-up: Request was made for information on total cost of telephonic interpreters for outpatient services.
+Page 3.
+
+3
+
+Follow-up: Request was made to see language and literacy data by insurance status, to reflect the crossover
+between quality and patient safety and managed care. Page 3.
+
+Page 5 of 46
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 17, 2015
+
+ATTACHMENT #1
+
+Page 6 of 46
+
+ CCHHS Board of Directors
+Quality and Patient Safety Committee
+Dashboard Overview
+17 March 2015
+Krishna Das, MD, Chief Quality Officer
+
+1
+Page 7 of 46
+
+ Dashboard Overview
+• Quality
+Quality measures 
+measures – process, outcome and 
+process outcome and
+efficiency
+• Safety measures
+Safety measures
+• Patient satisfaction
+• Hospitals and ambulatory are included
+
+2
+Page 8 of 46
+
+  
+Dataasof?3 111 21115
+PERFORMANCE MEASURES
+
+1ii'enous Thromboembolism
+
+Immunizations
+
+[in-Time Start
+Room Turn Around Time {minutes}
+
+Room
+
+El I3
+
+.1
+
+
+
+Quality Stroger
+
+
+
+Committee Dashboard
+
+{11 2014
+
+Jan Feb
+
+April
+
+CY 2014
+{12 2014 {13 2014 {14 2014
+VARIANCE 5:
+
+May June July Aug Sept Nov Dec
+
+Page A?r?
+
+Board Metrics - Quality.t
+or 2014
+
+Feb Mart April May June July Aug Sept Oct Nov
+
+Composite
+
+TAHEET 
+
+ 
+
+Quality Provident
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A'u' A'w' AX A?r' BA BB
+
+1 QPE- Committee Dashboard Board Metrics - I?Llualit?r
+
+2 oataamma f111f21115 CY 2014
+
+3 PERFORMANCE MEASURES {11 2014 {12 2014 {13 2014 2014 CV 2014
+
+4 TAFIEET VARIANEEZ TAFIEET VARIANCE
+Jan Feb Marol April May June July Aug Sept Oct Nov Dec Jan Feb March April May June July Aug Sept Oct Mon:
+
+5
+
+24 Provident
+
+25 Core-Measures
+
+25 33 33 92 2E Ell) 31-i- SI) Ell) Elf-i- 251 63 52 62 31-1- 54 6:11- 34 53-1- 64 31-1- 99.0%
+
+2? Immunizations??Page 10 of 46
+
+ 
+
+ 
+
+
+Safety Stroger
+
+  
+ 
+
+A?r' AZ BA BB
+Committee Dashboard Board Metrics - Quality
+
+     
+
+  
+
+
+
+       
+
+Dataaso?f?lB 11} 21115
+MEASURES
+
+CY 2014
+
+   
+ 
+
+       
+
+    
+  
+
+   
+
+   
+
+    
+
+[11 21114 0.2 21114 [13 2014 [14 2014 CV 2014
+
+  
+
+
+
+     
+   
+  
+
+VARIANCE TAFIEET VARIANCE
+
+    
+
+    
+
+June Jan Feb Mar: April May- June July Aug Sept Clitt Nou- De:
+
+   
+
+April May July Aug Sept
+
+U1
+
+ 
+    
+  
+   
+ 
+
+Total I of Events
+
+ 
+
+Hell: Pressure Ulcer Stages B: 
+
+I 1 I: 
+
+   
+ 
+
+HAE: Falls with Injury:r
+
+sur units and CCUS:
+HAI: ELABSI SIR
+
+I'bl'e units I'n cl'u o'e units with 
+HAI: CAUTI units I'n cl'u o'e units wl'tcon?rmeo'
+even t.
+
+t?o?
+
+ 
+ 
+  
+ 
+
+   
+ 
+  
+
+                      
+
+15?]210910?65
+
+con ?rmed even t.
+
+Page 11 of 46
+
+
+
+5
+
+
+
+13 Patient
+
+2U
+21
+22
+23
+
+   
+      
+
+   
+
+ 
+
+Patient Experience Stroger
+
+   
+ 
+
+AIZI A?r' AZ BA BB
+
+Committee Dashboard Beard Metrics - Qualityr
+
+        
+
+
+
+       
+
+Dataasn?f?i 10 2015
+MEASURES
+
+CY 2014
+
+       
+
+        
+
+   
+    
+
+{11 2014 {12 2014 C13 2014 C14 2014
+
+   
+
+CY 2014
+
+ 
+
+ 
+
+VARIANCE TAFIEET VARIANCE
+
+         
+
+ 
+
+    
+  
+    
+
+April May June
+
+      
+
+July Aug Sept Jan Feb Mar: April May June July Aug Sept Oct New De:
+
+             
+ 
+
+       
+
+         
+
+      
+ 
+   
+     
+
+?vereii Has a! has
+CmnmuniL?uliun Dm?lms E?l
+Communication with Nurses 
+Cleanliness Page 12 of 46
+
+ACHN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A'u' A'w' AX A?r' AZ BA BB
+
+1 QPE- Committee Dashboard Beard Metrics - 
+
+2 Dataasuf?ifl?f2?15 Dr 2014
+
+3 mm Q1 2014 Q2 2014 [13 2'014 Q4 2'014 C?i? 2'014
+
+4 TAHEET VARIANEEZ TAHEET 
+Jan Feb are! April May June July ALE Sept On Mar Dec Jan Feb Mar: April May June July ALE Sept On New Dec
+
+5
+
+28 ACHN
+
+23 Diabetes Central 96 with All: A 9% ?6 3"3 ?6 3"3 6'36
+
+an Immunizations: Up 120 datein children Patient Experience: Moving Th rough Visit 66 6B 6B 6? T5
+
+32 Patient Experience: Telephone Access 63 63 62 ?5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Page 13 of 46
+
+Board Quality Dashboard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QPE Board Metrics - Quality
+2 Dataaso?f-Dafl-D??l?
+3 MEASURES CY 2014
+4 TAFIEET 
+Jan Feb March April May June July Aug Sept Nov Dec
+6
+.3 Stroger
+7' EDIE Composite
+Stroke [9131
+1a Immunizations??l
+11 E??iciency Operating Room Room Turn ?round Time {minutes}
+14 Safe-[y Total I of Events
+Hr?iE: Pressure Ulcer Stages S: 
+15 Aduit discharges 3' 13'] with LEE 3' :i dousoer discharges
+
+16 mea?fsurg units and I'C'L'stCL's:per t?a'oys
+units I'I'Icl'uo'e units with laboratory con I?I'rrneu'euen t.
+Hm: MUTI units I'ncl'u a'e units 
+13 event.
+13 Patient Experience
+an ?ueraii?etinoofHospiteil?H? topboxi 66%
+
+ 
+
+ 
+
+Communication with Doctors [913 top box!
+
+ 
+
+Communication with Nurses [913 top box!
+
+ 
+
+Cleanliness [Estop box:
+
+ 
+
+Provident
+
+ 
+
+Core Meas ures
+
+ 
+
+1lienousThromboembolism [96]
+
+ 
+
+ 
+
+Immunizations[%]
+
+ 
+
+ACH 
+
+ 
+
+Diabetes Control 913 with 161C r: 9913
+
+ 
+
+Immunizations: Up to date in children at 24
+
+ 
+
+Patient Experience: Moving Through 1I11'isit
+
+ 
+
+ 
+
+Patient Experience: Telephone ?ccess
+
+Page 14 of 46
+
+ 
+
+ 
+
+ 
+
+EDIDKSL 
+
+CCH HS
+
+ 
+
+CID-DPT. Tl?!
+
+
+CCH HS
+
+Page 15 of 46
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 17, 2015
+
+ATTACHMENT #2
+
+Page 16 of 46
+
+ CCHHS Board of Directors
+Quality and Patient Safety Committee
+Linguistically Appropriate Care
+17 March 2015
+Krishna Das, MD, Chief Quality Officer
+
+1
+Page 17 of 46
+
+ ASSESSMENT OF LANGUAGE AND
+LITERACY
+
+Learning & Language Assessment*
+
+*Screen embedded within Cerner, for nursing intake
+Page 19 of 46
+
+3
+
+ Display – Language, Literacy and Learning*
+
+*Screen embedded within Cerner, clinician view
+Page 20 of 46
+
+4
+
+ Preferred Languages CCHHS 2014
+Top 10 Primary Languages; Number of Patients
+200000
+180000
+
+176983
+
+160000
+140000
+120000
+100000
+UniquePatients
+80000
+60000
+40000
+
+28389
+
+20000
+1860
+
+521
+
+452
+
+396
+
+336
+
+276
+
+267
+
+Polish
+
+Chinese
+
+Arabic
+
+Tagalog
+g g
+
+Urdu
+
+Hindi
+
+Cantonese 
+(Chinese)
+
+0
+English
+g
+
+Spanish
+p
+
+5
+Page 21 of 46
+
+ Language Distribution by Facility 2014
+100
+90
+
+% o
+of Patientss
+
+80
+70
+60
+English
+Spanish
+
+50
+
+Polish
+40
+
+Other
+
+30
+20
+10
+0
+Stroger
+g
+
+Provident
+
+Facility
+Page 22 of 46
+
+ACHN
+
+6
+
+ Language
+and Literacy – Clinics
+Language and Literacy 
+Clinics 
+ACHN December 
+ACHN D
+b
+2014
+Patient's Preferred 
+Language
+g g
+
+ACHN December 2014
+Patient's Preferred Learning 
+Style
+(Top
+(Top  5 selections)
+5 selections)
+
+ACHN December 2014
+SILS Health Literacy 
+Rating
+
+Read
+English
+
+Spanish
+
+Polish
+
+2% 4%
+
+Other
+
+3% 3% 2%
+
+Talk
+35%
+
+28%
+
+23%
+71%
+
+Do or Practice
+
+64%
+
+Adequate
+
+65%
+
+Assistance
+Requiredd
+
+Media (kiosk, 
+videos, 
+interactive)
+
+7
+Page 23 of 46
+
+ Preferred Language – Clinics 
+Fantus GMC Preferred Language
+,
+g
+,
+Dec 1, 2014 through Dec 31, 2014
+Preferred Language 
+English 
+Spanish
+Polish
+Other
+
+% 
+72%
+17%
+4%
+7%
+
+# Selections
+2879
+688
+173
+285
+
+Prieto Health Center Preferred Language
+Dec 1, 2014 through Dec 31, 2014
+Preferred Language 
+% 
+# Selections
+English 
+19%
+326
+Spanish
+80%
+1344
+P li h
+Polish
+1%
+5
+Other
+1%
+5
+
+# Screens
+4025
+4025
+4025
+4025
+
+# Screens
+1680
+1680
+1680
+1680
+
+Sengstacke Health Center Preferred Language
+,
+g
+,
+Dec 1, 2014 through Dec 31, 2014
+Preferred Language 
+English 
+Spanish
+Polish
+Other
+
+Oak Forest Preferred Language
+k
+f
+d
+Dec 1, 2014 through Dec 31, 2014
+Preferred Language 
+English 
+Spanish
+Polish
+Other
+
+%  # Selections # Screens
+96%
+1796 1865
+2%
+46 1865
+0%
+3 1865
+1%
+20 1865
+
+%  # Selections # Screens
+89%
+1883 2106
+6%
+125 2106
+1%
+14 2106
+4%
+84 2106
+
+8
+Page 24 of 46
+
+ Health Literacy Screening – Clinics 
+Fantus GMC Health Center Compliance
+Dec 1 2014 through Dec 31 2014
+Dec 1, 2014 through Dec 31, 2014
+Health Literacy Rating from SILS
+% 
+Adequate 
+Needs Assistance
+
+56%
+44%
+
+Sengstacke Health Center Compliance
+Dec 1, 2014 through Dec 31, 2014
+Dec 1, 2014 through Dec 31, 2014
+
+Prieto Health Center Literacy Rating
+Dec 1, 2014 through Dec 31, 2014
+Health Literacy Rating from SILS
+Adequate 
+Needs Assistance
+Needs
+Assistance
+
+Health Literacy Rating from SILS
+
+# Selections # Screens
+2272
+4025
+1753
+4025
+
+%  # Selections
+42%
+709
+58%
+971
+
+# Screens
+1680
+1680
+
+Adequate 
+Needs Assistance
+
+% 
+77%
+23%
+
+# Selections # Screens
+1434 1865
+430 1865
+
+Oak Forest Primary Specialty Health Literacy Rate  Compliance
+Dec 1, 2014 through Dec 31, 2014
+Health Literacy Rating from SILS
+%  # Selections # Screens
+Adequate 
+75%
+1576 2106
+Needs Assistance
+Needs Assistance
+25%
+528 2106
+
+9
+Page 25 of 46
+
+ Preferred Learning Method – Clinics 
+Fantus GMC Preferred Learning Style
+Dec 1 2014 through Dec 31 2014
+Dec 1, 2014 through Dec 31, 2014
+Preferred Learning Style
+% 
+Read
+27%
+Talk
+60%
+Do or Practice
+6%
+Media (Kiosk, videos interactive)
+(
+)
+5%
+Small Group
+3%
+
+# Selections # Screens
+569
+2143
+1284
+2143
+126
+2143
+105
+2143
+59
+2143
+
+Sengstacke Preferred Learning Style
+Dec 1 2014 through Dec 31 2014
+Dec 1, 2014 through Dec 31, 2014
+Preferred Learning Style
+Read
+Talk
+Do or Practice
+Media (Kiosk, videos interactive
+(
+,
+Small Group
+
+%  # Selections # Screens
+42%
+360
+848
+41%
+349
+848
+10%
+84
+848
+5%
+41
+848
+2%
+14
+848
+
+Prieto Health Center Preferred Learning Style
+Dec 1, 2014 through Dec 31, 2014
+Preferred Learning Style
+%  # Selections # Screens
+Read
+64%
+1071
+1680
+Talk
+72%
+1209
+1680
+Do or Practice
+16%
+266
+1680
+Media (Kiosk, videos interactive
+6%
+109
+1680
+Small Group
+11%
+178
+1680
+
+Oak Forest Preferred Learning Style
+Dec 1, 2014 through Dec 31, 2014
+Preferred Learning Style
+Read
+Talk
+Do or Practice
+Media (Kiosk, videos interactive
+Small Group
+
+% 
+50%
+24%
+10%
+11%
+5%
+
+# Selections # Screens
+619
+1230
+293
+1230
+127
+1230
+132
+1230
+59
+1230
+
+10
+Page 26 of 46
+
+  
+
+INTERVENTIONS
+
+Interventions
+• Language 
+Language – interpreter services, bilingual staff
+interpreter services bilingual staff
+• Literacy
+– Awareness and respect
+A
+d
+t
+– Offering options to patients
+– Education, teach back, involve family
+– Further evaluate patient preferences in low 
+lit
+literacy material
+t i l
+
+• Learning – gear education to patient 
+preferences
+12
+Page 28 of 46
+
+ Interpreter Services Mission
+
+• To provide a broad range of interpretation 
+and written translation services for non‐
+English speaking and Deaf and hard‐of 
+gp
+hearing patients.
+
+13
+Page 29 of 46
+
+ CLAS* Standards – Language Services
+• Offer language assistance services, including bilingual staff and 
+interpreter services to each patient with limited English
+interpreter services, to each patient with limited English 
+proficiency at all points of contact and at all hours of operation.
+• Provide both verbal offers and written notices informing patients 
+of their right to receive language assistance services.
+• Assure the competence of interpreters and bilingual staff who 
+provide assistance to limited English proficient patients Family
+provide assistance to limited English proficient patients.  Family 
+and friends should not be used to provide interpretation services 
+(except on request by the patient).
+• Post signage in the languages of the commonly encountered 
+groups  and make patient education material easily available in 
+the commonly represented languages.
+the commonly represented languages.
+*Culturally and Linguistically Appropriate Services, Office of Minority Health, HHS
+14
+Page 30 of 46
+
+ CLAS Access – Provision of Care
+• 21 interpreters Systemwide – 18 at Stroger 
+Hospital
+–
+–
+–
+–
+
+17 Spanish
+4 Polish
+3 more to be hired
+Services are available during clinic hours and 
+24/7/365 at Stroger Provident and Cermak
+24/7/365 at Stroger, Provident and Cermak 
+hospitals, selected clinics
+
+• Bilingual providers – 100% of providers at 
+selected clinics
+• Prioritize bilingual candidates in recruitment
+15
+Page 31 of 46
+
+ Data on Interpreter Services
+Total # of requests by language for 
+2014
+Attended
+
+Spanish
+
+Polish
+
+Chinese
+
+50565
+
+18921
+
+1826
+
+Cancelled by Provider
+
+5660
+
+1151
+
+261
+
+Unattended/ No Show
+Unattended/ No Show
+
+714
+
+157
+
+29
+
+Requested on the Unit
+
+11394
+
+168
+
+2
+
+Grand Total by language for 2014
+
+68333
+
+20397
+
+2118
+
+16
+Page 32 of 46
+
+ Other Support Services
+• OPI
+OPI (over the phone) interpreters available to 
+(over the phone) interpreters available to
+provide language support for patients
+– In 2014, CCHHS used 132 languages provided by OPI 
+vendor
+
+• VRI (video remote interpreter) services available  
+for deaf and hard‐of‐hearing patients
+for deaf and hard‐of‐hearing patients
+• Services available 24/7
+• Both services have helped significantly decrease 
+Both services have helped significantly decrease
+provider and patient wait times for interpreter 
+services
+17
+Page 33 of 46
+
+ Over the phone interpretation
+
+ 
+
+18
+
+Page 34 of 46
+
+Video remote interpretation
+
+ 
+
+Page 35 of 46
+
+Call Volume – Over Phone Interpretation
+Number of Calls 2014
+60,000
+
+50,000
+
+40,000
+
+30,000
+Calls
+20,000
+,
+
+10,000
+
+0
+
+Total Calls: 79,600 (218 per day on the average)
+Total Languages: 116
+Additional Calls: 96 Languages, 2086 Calls
+Page 36 of 46
+
+20
+
+ COOK COUNTY HEALTH
+-r 
+
+68:44 HS
+
+Over Phone lnterpreter? by Language
+
+ 
+
+ 
+
+6525';
+
+ 
+
+ 
+
+- Spanish - 55.2% - - - Hindi - 
+- Palisn - 12.2% - Arabic - 2-1% - Kara-an - ELI-W:
+All Others - 15% - Russian - 2-1% Bulgarian - {15%
+Mandarin - 4.4% Ukrainian - 1-1%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21
+
+Page 37 of 46
+
+Assuring Language Competence
+Interpreters
+• New interpreters complete 45 classroom hours of 
+instruction and pass the Language Assessment 
+Exam and oral proficiency exam.
+• CCHHS requires 40‐60 hours of internship training
+Bilingual staff
+• Written test to assess language proficiency
+tte test to assess a guage p o c e cy
+• Oral exercises using medical scenarios to assess 
+both oral proficiency as well as medical
+both oral proficiency as well as medical 
+terminology
+22
+Page 38 of 46
+
+  
+
+ 
+
+Tl?!
+
+
+CCH HS
+
+Page 39 of 46
+
+23
+
+Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+March 17, 2015
+
+ATTACHMENT #3
+
+Page 40 of 46
+
+  
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+Toni l?rei?k Winkle (?mk County Health 8: Hospitals System
+
+COOK COUNTY EALTH
+
+ 
+
+President a HOSPITALS SYSTEM Biurd Members
+Cook County Board of Commissioners CC I I M. Hill Hammock - Chairman
+John 23' Shannon. MD ('mimissinner Jerry Butler - Vice Chairman
+Chief [Executive Of?cer Lewis Collens
+(kink County Health Hospitals System Ric Estrada
+
+Ada Mary (iugenhcim
+Emilie N. Jungc
+Wayne M. DPl-l, 
+
+Ozuru 0. Ukoha, MD Erica E. Marsh. MD MSCI
+
+PreSident? Carmen Velasquez
+Executive Medical Staff Dorcnc P. Wicsc, MD
+John H. Stroger, Ir.
+Hospital of Cook County
+
+Date: March 10, 2015
+
+Dear members of the Quality and Patient Safety Committee of the Board:
+
+Please be advised that the Executive Medical Staff Committee of John H. Stroger, Jr.
+Hospital of Cook County, at its March 10, 2015 meeting, approved the attached list of
+medical staff action items for your consideration.
+
+Respectfully,
+
+Ozuru O. Ukoha, MD
+President, EMS
+
+Page 1 of 6
+
+. Ambululery it. Community Network 0 Cermult Health Services 0 Cook County Department el Public 0
+0 him II. Singer, In Hospital Oak Forest Heullh Settlesr 1? ?rzgidenl Hospital - llulh M. Relhlleln CORE Center 0
+age 0
+
+John H. Stroger, Jr. Hospital of Cook County
+
+ 
+
+Medical Staff and Non-Medical Staff Action Items Subject to Approval by the Quality and
+
+Patient Safety Committee
+
+Alimi-Ukoha, Adetowun, DDS
+Appointment Effective:
+
+Bianey, Rodney, DMD
+Appointment Effective:
+
+Bloch, Orin, MD
+Appointment Effective:
+
+Loafman, Mark, MD
+Appointment Effective:
+
+Parsa, Andrew T., MD
+Appointment Effective:
+
+Tate, Matthew C., MD
+Appointment Effective:
+
+Vandiver, Claudia, MD
+Appointment Effective:
+
+INITIAL APPOINTMENT APPLICATION
+
+Betanzos, Mateo, CNP
+
+With Vergara-Rodriguez, Pamela T, MD
+
+Effective:
+
+Department of Fgmilv Practice
+
+DeBiase, Norbert G., MD
+Reappointment Effective:
+
+Gibson, Sandy, DO
+Reappointment Effective:
+
+Department of Medicine
+Andabio, Araceli, MD
+
+Reappointment Effective:
+
+Black, Stephanie, MD
+Reappointment Effective:
+
+,..Brecklin, Carolyn, MD
+Reappointment Effective:
+
+Item March 17, 2015
+Quality and Patient Safety Committee
+
+APPOINTMENT APPLICATIONS
+
+Oral Health
+March 17, 2015 thru March 16, 2017
+
+Oral Health
+March 17, 2015 thru March 16, 2017
+
+Surgery/Neurosurgery
+March 17, 2015 thru March 16, 2017
+
+Family Medicine
+March 17, 2015 thru March 16, 2017
+
+Surgery/Neurosurgery
+March 17, 2015 thru March 16, 2017
+
+Surgery/Neurosurgery
+March 17, 2015 thru March 16, 2017
+
+Family Medicine/ACHN
+March 17, 2015 thru March 16,2017
+
+Medicine/Core Center
+
+March 17, 2015 thru March 16, 2017
+
+REAPPOINTMENT APPLICATIONS
+
+Family Medicine/ACHN
+April 10, 2015 thru April 9, 2017
+
+Family Medicine
+April 12, 2015 thru April 11,2017
+
+General Medicine
+April 9, 2015 thru April 8, 2017
+
+Infectious Diseases
+Aprii16,2015thru April 15, 2017
+
+Nephrology
+April 27, 2015 thru April 26, 2017
+
+Page 2 of 6
+
+Page 42 of 46
+
+Active Dentist
+
+Active Dentist
+
+Voluntary Physician
+
+Active Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Nurse Practitioner
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+APPROVED
+
+BY THE QUALITY AND PATIENT 
+ON MARCH 17, 2015
+
+  
+   
+ 
+
+ITTEE
+
+John H. Stroger, Jr. Hospital of Cook County
+
+Reappointment Applications
+
+Department of Medicine (continued)
+
+Das, Krishna, MD
+Reappointment Effective:
+
+Hadley, lndira, MD
+Reappointment Effective:
+
+Kee, Romina, MD
+Reappointment Effective:
+
+McGillen, John, MD
+Reappointment Effective:
+
+Piette, Warren, MD
+Reappointment Effective:
+
+Ruthberg, Andrew, MD
+Reappointment Effective:
+
+Trick, William, MD
+Reappointment Effective:
+
+Wong, Alton, MD
+Reappointment Effective:
+
+General Medicine
+March 17, 2015 thru March 16, 2017
+
+Rheumatology
+March 17, 2015 thru March 16, 2017
+
+Collaborative Research
+April 27, 2015 thru April 26, 2017
+
+General Medicine/ACHN
+April 12, 2015 thru April 11,2017
+
+Dermatology
+April 28, 2015 thru April 27, 2017
+
+Rheumatology
+April 28, 2015 thru April 27, 2017
+
+General Medicine/Collaborative Research
+April 17, 2015 thru April 16,2017
+
+Hematology/Oncology
+April 15, 2015 thru April 14, 2017
+
+Department of Obstetrics and Gynecology
+
+Patel, Ashlesha, MD
+Reappointment Effective:
+
+Department of Pediatrics
+Aronson, Andrew, MD
+
+Reappointment Effective:
+
+Joseph, Tessy, MD
+Reappointment Effective:
+
+Department of 
+Kieinman, Amand S., MD
+
+Reappointment Effective:
+
+Kulik, Andrew Segovia, MD
+Reappointment Effective:
+
+Department of Radiology
+Thakrar, Jagdish, MD
+
+Reappointment Effective:
+
+Department of Surgem
+Adenwalla, Mohamed K., MD
+
+Reappointment Effective:
+
+Arensman, Robert M., MD
+Reappointment Effective:
+
+Item March 17, 2015
+Quality and Patient Safety Committee
+
+Ob/Gyne
+April 17, 2015 thru April 16,2017
+
+Nephrology
+April 10, 2015 thru April 9, 2017
+
+Pediatrics
+April 12, 2015 thru Aprii 11 2017
+
+
+April 13, 2015 thru April 12, 2017
+
+Adult 
+April 28, 2015 thru April 27, 2017
+
+Radiation Oncology
+April 28, 2015 thru April 27, 2017
+
+Ophthalmology
+March 17, 2015 thru March 16,2017
+
+Pediatric Surgery
+
+March 18, 2015 thru March 17, 2017 
+APPROVED
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Consulting Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Consulting Physician
+
+Consulting Physician
+
+Active Physi ian
+
+?9an AND PATIENT SAFETY Conn EE
+on MARCH 17, 2015
+
+Page 43 of 46
+
+John H. Stroger. Jr. Hospital of Cook County
+
+Reappointment Applications
+
+Department of Stggerv (continued)
+
+Grevious, Mark A., MD
+Reappointment Effective:
+
+Lazzaro, Gianluca MD
+Reappointment Effective:
+
+Sidle, Douglas M., MD
+Reappointment Effective:
+
+Plastic Surgery
+April 27, 2015 thru April 26, 2017
+
+Surgical Oncology
+April 27, 2015 thru April 26, 2017
+
+Otolaryngology
+March 18, 2015 thru March 17, 2017
+
+Renewgl of Privileggs for Non-Medical Staff:
+
+Argueta, Alejandra, PA-C
+
+With Bowman, Steven H., MD
+Alternate Feldman, Robert J., MD
+Effective:
+
+Cristofano, Michael V., PA-C
+With Schwartz, David M, MD
+Alternate Rezai, Katayoun., MD
+Effective:
+
+Powell, Tracy E., CCP
+Effective:
+
+Sheehan, Megan F., CRNA
+Effective:
+
+Sims, Kevin E., PA-C
+
+With Baker, Terrance P., MD
+Alternate Yu, Yan K., MD
+Effective:
+
+Stanford, Suzanne M., CNP
+With Manadan, Augustine M., MD
+Effective:
+
+Wolfinger, Richard C., PA-C
+
+With Lewis, Trevor, MD
+
+Alternate Kysia, Rashid Fuad, MD
+Effective:
+
+Renewal of Agreement Items:
+
+George, Reena, CNP
+With Norberg Lopez, Josie L., MD
+Effective:
+
+Reyes, Margaret E., CNP
+With Norberg Lopez, Josie L., MD
+Effective:
+
+Item March 17, 2015
+Quality and Patient Safety Committee
+
+Emergency Medicine
+
+March 17, 2015 thru March 16, 2017
+
+Medicine/Infectious Diseases
+
+March 17, 2015 thru March 16, 2017
+
+Surgery/Cardiothoracic
+March 17, 2015 thru March 16,2017
+
+Anesthesiology
+March 17, 2015 thru March 16,2017
+
+Correctional Health Services
+
+March 17, 2015 thru March 16, 2017
+Medicine/Rheumatology
+March 17, 2015 thru March 16,2017
+
+Emergency Medicine
+
+March 17, 2015 thru March 16,2017
+
+Family Medicine/ACHN
+
+March 17, 2015 thru August 25, 2016
+
+Family Medicine/ACHN
+
+March 17, 2015 thru March 19, 2016
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Physician Assistant
+
+Physician Assistant
+
+Perfusionist
+
+Nurse Anesthetist
+
+Physician Assistant
+
+Nurse Practitioner
+
+Physician Assistant
+
+Nurse Practitioner
+
+Nurse Practitioner
+
+APPROVED
+
+BY THE QUALITY AN PATIENT SAFETY COMMITTEE
+
+Page 4 of 6
+
+Page 44 of 46
+
+on MARCH 17, 2015
+
+COOK COUNTY HEALTH 8: HOSPITALS SYSTEM
+
+ 
+
+ 
+
+Toni Preckwinkle Cook County Health 8: Hospitals st
+em
+President E%%l?g?T?hhiTs va?rLI-srn Board Members
+County Board Of Commissioners NI. m" Hammock . Chairman
+John Jay Shannon, Ml) Commissioner Jerry Butler - Vice Chairman
+Chief Executive Officer Lewis Collens
+Cook County Health Hospitals System Ric Estrada
+Ada Mary Gugenhcim
+Emilie N. Jung:
+Wayne M. Lerner, DPH. FACHE
+Erica E. Marsh, MD MSCI
+Carmen Velasquez
+Dorene P. Wiese, 
+Anwer Hussain, DO, FAAEM
+President,
+Medical Executive Committee
+Provident Hospital
+Of Cook County
+March 6, 2015
+
+Dear Members of the Quality and Patient Safety Committee:
+Please be advised that at the Credentials Meeting held on March 3, 2015 the Medical Executive
+
+Committee of Provident Hospital of Cook County recommended the actions on the enclosed list. It is
+being presented to you for your consideration.
+
+Respectfully,
+
+ 
+
+AnwerH 55 
+President, 
+
+Page 5 of 6
+
+0 Ambuluhry Community ?will: Natural-k - dermal: Hocllh Services 0 Cook Counly Department of Public Hull: 0
+
+0 John H. ill-cg", Jr. Hospital 0 Oak Boron! Health Connor 0 Provision! Hosp?ul 0 M. 30!!?th CORE Cash! 0
+Page 45 of 46
+
+ 
+
+Provident Hospital of Cook County
+
+ 
+
+Medical Staff Action Items Subject to Approval by the Quality and Patient Safety Committee
+REAPPOINTMENT APPLICATIONS
+
+Internal Medicine
+Wong, Alton, MD Hematology/Oncology Consulting Physician
+Reappointment Effective: April 14, 2015 thru April 13 2017
+
+Obstetrics and Gynecology
+
+Patel, Ashlesha, MD Obstetrics/Gynecology Affiliate Physician
+Reappointment Effective: April 18, 2015 thru April 17, 2017
+
+Surgery
+
+Grevious, Mark A., MD Plastic Surgery Affiliate Physician
+Reappointment Effective: April 27, 2015 thru April 26, 2017
+
+Telemedicine Privilege Reguests
+
+Aikawa, Taro, MD Radiology [Virtual Radiologic Teleradiologist
+Effective: April 12, 2015 thru April 11, 2017
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY men
+
+on MARCH 17, 2015
+
+Item March 17, 2015 Page 6 of 6
+Quality and Patient Safety Committee
+
+Page 46 of 46
+

@@ -1,0 +1,341 @@
+Confidential
+Approximately $27.5 million
+
+Non-Recourse
+Tax-Exempt Financing Request
+
+To Finance
+Energy Efficient Projects
+For
+The City of Chicago Department of Fleet and Facilities
+Management
+
+Pursuant to design, procurement, implementation, monitoring and verification
+provided by
+
+Noresco, LLC
+Ameresco, Inc.
+Schneider Electric Buildings Americas, Inc.
+
+ Proposed Term Sheet – 2FM Project
+Chicago Infrastructure Trust
+Project Background:
+
+In July, 2011 the Public Building Commission of Chicago (PBC)
+issued a Request for Qualifications and Proposals to identify
+energy services companies (ESCOs) to provide comprehensive
+energy management and energy-related capital improvement
+services for various types of public facilities. In December, 2011
+seven (7) ESCOs submitted preliminary feasibility reports based on
+the energy analyses of 10 representative public buildings. The
+energy audits included: (i) a survey and review of available utility
+data and facility mechanical equipment, operating parameters,
+and systems; (ii) an estimate of potential energy savings over a
+specified term for the various facilities; (iii) recommended energy
+conservation measures (ECMs) for each facility; (iv) estimated
+maximum cost of energy performance contracting services for the
+facilities; (v) a description of grants or incentive programs and an
+estimate of the potential grant or incentive funds available; and
+(vi) estimated annual measurement and verification costs;.
+In March 2012, based on the recommendations of an evaluation
+committee composed of City of Chicago user agencies and subject
+matter experts who reviewed the reports and interviewed each
+ESCO team, the PBC Board recommended 3 ESCOS be chosen as
+preferred vendors: Noresco, LLC, Ameresco, Inc. and Schneider
+Electric Buildings Americas, Inc.. In July 2012 the three (3)
+preferred ESCOs were assigned the task of analyzing 148 buildings
+to determine which ones were suitable candidates for inclusion in
+the Retrofit Chicago Program. In October 2012, Investment Grade
+Audit Services Agreements were executed between the PBC and
+each of the three (3) ESCOs. Collectively the ESCOs performed
+Investment Grade Audits on 112 facilities. After a thorough
+iterative review of the results, the Department of Fleet and
+Facilities Management (2FM), with PBC assistance, accepted the
+ESCO recommendations for 75 of those facilities. The final draft
+Investment Grade Audit Reports were completed in May 2013.
+
+Financing Opportunity:
+
+Each energy services company will guarantee an annual amount
+of savings based on the facilities that they evaluated and included
+in their Final Investment Grade Audit Reports. Savings will be
+aggregated into one financing (See Exhibit B of the Guaranteed
+Energy Performance Contract (GEPC)).
+
+ The amount of the transaction is approximately $27.5 million,
+with financial closing anticipated to occur around December 15,
+2013.
+ESCO/Contractors:
+
+Noresco, LLC
+Ameresco, Inc.
+Schneider Electric Buildings Americas, Inc.
+
+Owner:
+
+Chicago Infrastructure Trust (CIT). The CIT was created in April
+2012 by a resolution of the City of Chicago (City). The CIT was
+mandated to serve the following purposes: to provide funding and
+credit support to qualifying infrastructure projects; play an
+important role in coordinating and facilitating private investment
+for infrastructure projects; have grant-making capabilities for
+select infrastructure projects; and facilitate funding of
+infrastructure projects affecting one or more co-ordinate units of
+local government that will enable the sharing of labor, resources
+and expertise between and among such units of local
+government.
+The CIT will enter into an Energy Services
+Agreement (ESA) with the City of Chicago (See Energy Services
+Agreement (ESA)).
+
+Issuer:
+
+The CIT will be a permitted issuer of tax-exempt obligations “on
+behalf of” the City pursuant to authorities under section 103 of
+the Internal revenue Code of 1986 (Revenue Ruling 57-187 and
+60-248) (See Whereas Clauses in the Loan and Security
+Agreement).
+
+End User:
+
+The City of Chicago.
+
+Below is a diagram of the proposed deal structure:
+
+ Project Documents:
+
+Energy Savings Agreement (ESA) between the End User (City of
+Chicago) and the Owner (CIT). Under the ESA, the End User will
+agree to pay the Owner an amount equal to agreed upon savings
+as long as the agreed upon savings amounts are achieved. (See
+Article XIII, Section 8.1 of the ESA) If agreed upon savings are not
+achieved in any year, the ESCO/Contractor will make up the
+difference between actual savings and agreed upon savings. (See
+Exhibit B, Section 1 of the GEPC)
+Guaranteed Energy Performance Contract (GEPC) between
+ESCO/Contractor and the CIT for the benefit of the City. Pursuant
+to the GEPC, the CIT will enter into a program management
+agreement with the Public Building Commission of Chicago. The
+GEPC defines the scope of work, installation cost and timeline,
+and savings guaranty associated with the Project. Each
+ESCO/Contractor has a defined project associated with the
+building group(s) they were assigned based on occupancy type. In
+general, Noresco had responsibility for the installation of ECMs
+within City Hall, Chicago fire stations and several warehouses
+maintenance shops (See Exhibit A of the ESA). Ameresco had
+responsibility for the installation of ECMs within a number of
+Chicago libraries, and administrative buildings throughout the City
+(See Exhibit A of the ESA). Schneider Electric had responsibility
+for the installation of ECMs within various police stations, health
+clinics and community service centers (See Exhibit A of the ESA).
+The GEPCs are virtually identical in form with differences focused
+on the various ECMs proposed for each facility. In general, savings
+
+ are not guaranteed per individual ECM project or per building but
+for the aggregate energy savings per ESCO group of ECMs.
+Financing Agreement between the lender and the CIT (See Loan
+and Security Agreement). The form of the financing agreement
+will most likely be a Loan and Security Agreement. The CIT intends
+to finance 100% of the cost of the Project, capitalized interest and
+costs of issuance. There may be a small equity contribution to CIT
+from the End User. The Financing Agreement will provide the
+Lender with a security interest in the Project (See Section 7.01 of
+the Loan and Security Agreement).
+It is the intent of the CIT that the interest component of payments
+received by the lender be excluded from gross income for
+purposes of federal income taxation and should not be a
+preference item for purposes of the federal alternative minimum
+tax (See Section 2.02 of the Loan and Security Agreement).
+Project Description:
+
+Each ESCO/Contractor is scheduled to design and install similar
+types of ECM projects; In general, these subprojects include:
+installation of energy efficient light fixtures and lighting controls;
+weatherization of building envelopes to reduce the infiltration of
+unconditioned outside air; retro-commissioning of existing
+mechanical systems bringing them into optimal operating
+parameters; new Direct Digital Control (DDC) systems to better
+control HVAC equipment; refurbishment or replacement of aging
+HVAC components such as steam traps, radiator controls, air
+handler seals, etc.; insulation of un-insulated piping and duct
+work; and the installation of efficient motors and pumps in
+conjunction with variable frequency drives. In addition, the ESCOs
+will perform several “deeper retrofit” projects that involve the
+replacement of antiquated equipment such as installation of
+natural gas fired infrared heating in lieu of steam unit heaters;
+conversion of constant volume air handlers to Variable Volume
+and Temperature (VVT); demand control ventilation systems that
+regulate outside make-up air; and the replacement of boilers and
+chillers. (See Investment Grade Audit from each ESCO/Contractor
+for a more complete description of ECMs).
+
+Summary of Project Costs and Savings:
+ESCO/Contractor
+Noresco
+Ameresco
+
+Project Cost
+$3,609,549
+$9,936,120
+
+Annual Savings
+$311,328
+$766,926
+
+ Schneider Electric
+Total
+
+$12,038,502
+$25,584,171
+
+$903,006
+$1,981,260
+
+Loan term:
+
+Up to 22 years; one year of construction and 19 to 21 years of
+amortization (See Exhibit A of the Loan and Security Agreement)
+and will depend on final interest rate.
+
+Repayment:
+
+Semi-annual payments of principal and interest, based on a
+30/360 accrual basis. Annual payments will be approximately
+level. Some interest will be capitalized during construction.
+
+Prepayment:
+
+The loan will be structured with a ___-year no call period and
+prepayment thereafter with no penalty upon 30 days written
+notice to the Lender and/or a “make-whole” call (See Article V of
+the Loan and Security Agreement).
+
+Financial Review:
+
+In addition to such other reasonably available items, the following
+will be available:
+o Investment Grade Audit Services Agreement
+o Investment Grade Audits
+o 3 years audited financial statements of the City of Chicago
+o Most recent rating reports of the City of Chicago
+o Draft Guaranteed Energy Performance Contract and
+program management agreement
+o Energy Savings Agreement
+
+Governing Law:
+
+State of Illinois (See Section 12.06 of the Loan and Security
+Agreement and Section 17.13 of the ESA).
+
+Funding Date:
+
+Mid-December 2013
+
+Anticipated Completion:
+
+December 2014
+
+End of Term:
+
+At the expiration of the ESA term, the End User will have the
+option to purchase the ECMs from the CIT for fair market value,
+
+ extend the ESA, or request that the ECMs be removed by the
+ESCO/Contractor (see Section 2.3 of the ESA).
+Security Interest:
+
+Lender will file UCC financing statements against the CIT covering
+savings payments, the Projects and project Contracts. Lender will
+have customary cure and step-in rights under the ESA and GEPC in
+the event of default by the CIT (See Section 7.01 of the Loan and
+Security Agreement).
+
+Title:
+
+Title to the project shall transfer to the CIT upon substantial
+completion and full payment of installation progress payments
+due to the ESCO/Contractor under the GEPC (See Section 7.01 of
+the ESA).
+
+Insurance:
+
+ESCO/Contractor shall maintain liability insurance and builder’s
+risk insurance coverage on the Project during the construction
+period. In addition, the ESCO/Contractor will provide performance
+bonds (See Section 9 of the GEPC). Following completion the End
+User shall procure insurance for the Project throughout the term
+of the ESA on behalf of the CIT (See Article VI of the ESA).
+
+Proposed Amortization:
+
+Project: Chicago Infrastructure Trust, Retrofit Chicago-2FM
+Average Life: 11.85 years
+Total Par:
+$27.485 million
+
+1/1/2014
+1/1/2015
+1/1/2016
+1/1/2017
+1/1/2018
+1/1/2019
+1/1/2020
+1/1/2021
+1/1/2022
+1/1/2023
+1/1/2024
+1/1/2025
+1/1/2026
+1/1/2027
+1/1/2028
+1/1/2029
+1/1/2030
+1/1/2031
+
+880,000
+960,000
+1,000,000
+1,040,000
+1,080,000
+1,125,000
+1,170,000
+1,215,000
+1,265,000
+1,315,000
+1,370,000
+1,425,000
+1,480,000
+1,540,000
+1,600,000
+1,665,000
+1,730,000
+
+ 1/1/2032
+1/1/2033
+1/1/2034
+Total
+
+Contact information:
+
+1,800,000
+1,875,000
+1,950,000
+27,485,000
+
+Steve Beitler
+CEO
+Chicago Infrastructure Trust
+222 Merchandise Mart Plaza
+Suite 1212 – “1871”
+Chicago, IL 60654
+847-847-4414
+ssb@shapechicago.org
+John Coan
+Managing Director
+Piper Jaffray
+1747 Pennsylvania Avenue, Suite 210
+Washington, DC 20006
+202-463-1966
+John.b.coan@pjc.com
+
+ 

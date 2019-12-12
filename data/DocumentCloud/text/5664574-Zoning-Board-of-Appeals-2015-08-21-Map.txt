@@ -1,0 +1,629 @@
+AS H L AN D A V
+16 0 0 W
+
+D AM E N AV
+20 0 0 W
+
+WE ST ER N A V
+24 0 0 W
+
+C AL IFO R N IA A V
+28 0 0 W
+
+KE D ZIE AV
+32 0 0 W
+
+C EN TR A L P AR K AV
+36 0 0 W
+
+PU L A SK I R D
+40 0 0 W
+
+KO STN E R A V
+44 0 0 W
+
+C IC E R O A V
+48 0 0 W
+
+LA R A MIE A V
+52 0 0 W
+
+C EN TR A L A V
+56 0 0 W
+
+AU S TIN A V
+60 0 0 W
+
+N AG LE A V
+64 3 2 W
+
+H AR L E M A V
+72 0 0 W
+
+OR IOL E AV
+76 0 0 W
+TOU H Y AV
+72 0 0 N
+PR A TT A V
+68 0 0 N
+
+D EV ON A V
+64 0 0 N
+
+3
+&
+
+PE TE R SO N AV
+60 0 0 N
+
+BR Y N M AW R AV
+56 0 0 N
+FOS TE R AV
+52 0 0 N
+
+THW ES
+
+T
+
+KENNEDY
+
+65 01 N Wes te rn Av e
+
+3
+&
+
+ANDRE W J MO ONE Y
+COMM IS S IO NE R
+Copyr ight, 20 15
+
+LA W R EN C E A V
+48 0 0 N
+MO N TR OS E AV
+44 0 0 N
+
+41 53 N Wes te rn Av e
+
+24 70 W Be rt ea u Av e
+31 24 W Irv ing Pa rk R d
+
+IR V IN G P A R K R D
+40 0 0 N
+AD D IS ON S T
+36 0 0 N
+
+3&
+3
+3 &
+&
+
+35 28 N Ja nss e n Ave
+
+33 55 N Lin coln Av e
+
+27 40 N As hlan d Av e
+
+1119 W Drum m ond P l
+
+3 3
+&
+&
+3
+&
+3&
+3&
+&
+3&
+&
+3
+3
+
+22 22 N Rac ine Ave
+
+27 36 N As hlan d Av e
+
+FU L L ER TO N AV
+24 0 0 N
+
+46 14 W G ra nd Ave
+
+19 22 N Dam e n Av e
+
+SS
+
+D IV IS ION S T
+12 0 0 N
+
+18 47 W Chica go Ave
+
+MA D IS ON A V
+0 N /S
+
+32 11 W Ca rroll Ave
+
+VE N
+STE
+
+N
+SO
+
+43 33 S Ke dzie Av e
+
+3
+&
+
+47 TH S T
+47 0 0 S
+
+43 12 -2 4 S As hland Ave
+
+3
+&
+3
+&
+
+DAN RYAN EXPRESS
+
+ST
+
+3
+&
+
+N
+SO
+EN
+EV
+
+27 52 -5 8 W 4 7t h St
+
+51 S T S T
+51 0 0 S
+55 TH S T
+55 0 0 S
+C H IC AG O
+MID W AY
+AIR P OR T
+
+33 35 W 63 rd St
+
+3
+&
+3
+&
+
+71 S T S T
+71 0 0 S
+
+12 5- 27 W 75 th S t
+
+75 TH S T
+75 0 0 S
+
+66 20 -3 0 S D r M art in Lut her King J r D r
+C
+
+H
+
+IC
+
+A
+
+G
+O
+
+3
+&
+DAN RYAN
+
+C EN TR A L A V
+56 0 0 W
+
+16 39 E 5 5th S t
+
+3
+&
+
+67 TH S T
+67 0 0 S
+
+AU S TIN A V
+60 0 0 W
+
+N AR R A GA N S ETT AV
+64 0 0 W
+
+63 R D S T
+63 0 0 S
+
+O RE
+E SH
+
+35 TH S T
+35 0 0 S
+
+59 TH S T
+59 0 0 S
+
+LA K
+
+STEVE NSON
+
+112 5 W 3 1s t S t
+
+31 S T S T
+31 0 0 S
+
+43 R D S T
+43 0 0 S
+
+15 0 E H uron Av e
+
+10 01 W Ce rm a k R d
+
+3&
+&
+3
+
+26 S T S T
+26 0 0 S
+
+PE R SH IN G R D
+39 0 0 S
+
+75 5 N We lls St
+
+3
+&
+
+DAN RYAN
+
+13 00 -1 6 W Ce rm ak Rd
+
+C ER M A K R D
+22 0 0 S
+
+Zoning Board of
+Appeals (ZBA)
+August, 2015
+
+14 09 -11 N W ells S t
+
+70 1- 05 S Clark St
+
+R OOS E VE L T R D
+12 0 0 S
+
+OA K P AR K A V
+68 0 0 W
+
+3
+&
+
+EISENHOWER
+
+16 TH S T
+16 0 0 S
+
+18 38 N Clev ela nd Av e
+
+14 04 W Chica go Ave
+
+3
+&
+
+H AR R IS ON S T
+60 0 S
+
+H AR L E M A V
+72 0 0 W
+
+19 45 N Burling S t
+
+3&
+&
+3
+
+Y
+
+KIN ZIE S T
+40 0 N
+
+3
+3 &
+&
+
+ED
+
+3
+&
+
+NN
+KE
+
+90 1 N Kilpat ric k Ave
+
+C H IC AG O A V
+80 0 N
+
+17 32 N Wolcot t Av e
+
+RE
+XP
+YE
+
+3
+&
+
+N OR TH A V
+16 0 0 N
+
+19 09 N Biss ell St
+
+ED
+
+AR M ITA GE AV
+20 0 0 N
+
+OR IOL E AV
+76 0 0 W
+
+3
+&
+
+DAN RYAN
+
+PA C IFIC A V
+80 0 0 W
+
+C U MB E R L AN D A V
+84 0 0 W
+
+27 40 N As hlan d Av e
+
+D IV E R SE Y AV
+28 0 0 N
+
+72 2 W M elrose S t
+
+3
+&&
+3
+NN
+KE
+
+EA ST R IVE R R D
+88 0 0 W
+
+BE L MO N T A V
+32 0 0 N
+
+DAN RYAN
+
+Y
+
+60 25 -2 7 N Linc oln Ave
+
+EDENS
+
+ED
+
+DEP ARTME NT OF P LANNING
+AND DEV ELO P MEN T
+
+3
+&
+
+NS
+
+NN
+KE
+
+IB NO R
+
+64 28 -3 0 N Milw auk e e Av e
+
+EDE
+79 TH S T
+79 0 0 S
+83 R D S T
+83 0 0 S
+
+82 20 S Ma ryla nd Av e
+
+87 TH S T
+87 0 0 S
+91 S T S T
+91 0 0 S
+
+S
+
+K
+
+YW
+
+&
+3
+3
+&
+
+AY
+
+3
+&
+
+15 50 E 7 9th S t
+C
+
+H
+
+IC
+
+A
+
+G
+O
+
+S
+
+K
+
+1111 E 8 7t h St
+
+YW
+
+AY
+
+95 TH S T
+95 0 0 S
+
+I57 E
+X PY
+
+I57 I57
+
+99 TH S T
+99 0 0 S
+10 3 R D S T
+10 3 0 0 S
+
+STA TE L IN E R D
+41 0 0 E
+
+EW IN G A V
+36 3 4 E
+
+BR A N D ON A V
+32 0 0 E
+
+MU S K EG AN A V
+28 3 8 E
+
+YA TE S A V
+24 0 0 E
+
+JE FFE R Y A V
+20 0 0 E
+
+STO N Y IS L AN D A V
+16 0 0 E
+
+D AM E N AV
+20 0 0 W
+
+WE ST ER N A V
+24 0 0 W
+
+C AL IFO R N IA A V
+28 0 0 W
+
+KE D ZIE AV
+32 0 0 W
+
+C EN TR A L P AR K AV
+36 0 0 W
+
+PU L A SK I R D
+40 0 0 W
+
+C IC E R O A V
+48 0 0 W
+
+BIS
+HO
+WOO D L AW N A V
+12 0 0 E
+
+C OTTA GE GR OV E A V
+80 0 E
+
+D R M A R TIN L U TH E R
+KIN G J R D R 4 0 0E
+
+AS H L AN D A V
+16 0 0 W
+
+H AL S TE D ST
+80 0 W
+
+13 8 TH S T
+13 8 0 0 S
+
+STA TE S T
+0 E /W
+
+Variations
+
+13 5 TH S T
+13 5 0 0 S
+
+STE W AR T A V
+40 0 W
+
+Special Uses
+
+RD
+FO
+
+Continuances
+
+12 7 TH S T
+12 7 0 0 S
+
+P
+
+&
+3
+3
+&
+3
+&
+
+12 3 R D S T
+12 3 0 0 S
+
+O
+SH
+BI
+
+Legend
+
+KO STN E R A V
+44 0 0 W
+
+11 5 TH S T
+11 5 0 0 S
+
+11 9 TH S T
+11 9 0 0 S
+
+112 13 S Vinc enn es Av e
+
+3 &
+&
+3
+
+R AC IN E AV
+12 0 0 W
+
+11 1 TH S T
+11 1 0 0 S
+
+PF
+OR
+D
+
+23 32 W 111t h St
+
+10 7 TH S T
+10 7 0 0 S
+
+LA R A MIE A V
+52 0 0 W
+
+O N AL
+
+H OW AR D S T
+76 0 0 N
+
+CITY OF C HICAGO
+
+ 

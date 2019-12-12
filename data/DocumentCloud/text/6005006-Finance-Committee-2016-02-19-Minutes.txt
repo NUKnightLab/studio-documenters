@@ -1,0 +1,4109 @@
+Minutes of the meeting of the Finance Committee of the Board of Directors of the Cook County Health and
+Hospitals System held Friday, February 19, 2016 at the hour of 10:30 A.M., at 1900 W. Polk Street, in the Second
+Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Collens called the meeting to order.
+Present:
+
+Chairman Lewis M. Collens and Directors Hon. Jerry Butler, Ric Estrada, Mary B. RichardsonLowry and Dorene P. Wiese (5)
+Board Chairman M. Hill Hammock (ex-officio) and Directors Ada Mary Gugenheim, Emilie N.
+Junge and Carmen Velasquez
+
+Absent:
+
+None (0)
+
+Additional attendees and/or presenters were:
+Deanna Durica – Cook County Department of Public
+Health
+Douglas Elwell – Deputy CEO of Finance and Strategy
+Jeff McCutchan – Interim General Counsel
+Jessica Pipersburgh – Associate General Counsel
+
+II.
+
+Latrice Porter-Thomas – Cook County Department of
+Public Health
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief Executive Officer
+
+Public Speakers
+Chairman Collens asked the Secretary to call upon the registered public speakers.
+The Secretary called upon the following registered public speakers:
+1.
+2.
+
+Erica Kimble
+George Blakemore
+
+Representative, SEIU Local 1 (written testimony included as Attachment #1)
+Concerned Citizen
+
+Following the presentation of public testimony by Ms. Kimble, in which she alleged that contract requirements
+were not being met by a vendor, Digby’s Detective & Security Agency, Chairman Collens requested that Douglas
+Elwell, Deputy Chief Executive Officer of Finance and Strategy, investigate the matter and provide a report back to
+the Committee. Additionally, he requested that a report be provided on the general subject of monitoring vendor
+performance.
+
+III. Action Items
+A. Minutes of the Finance Committee Meeting, January 22, 2016
+Director Richardson-Lowry, seconded by Director Estrada, moved to accept the
+minutes of the Finance Committee Meeting of January 22, 2016. THE MOTION
+CARRIED UNANIMOUSLY.
+
+Page 1 of 49
+
+ III. Action Items (continued)
+B. Contracts and Procurement Items (Attachment #2)
+Mr. Elwell provided an overview of the requests presented for the Committee’s consideration.
+During the discussion of request numbers 4, 5 and 6, Mr. Elwell stated that the administration thought this
+would be a good opportunity to talk about what is done locally with regard to lead poisoning prevention
+efforts. He introduced the following individuals from the Cook County Department of Public Health
+(CCDPH), who provided information on the subject: Deanna Durica, Director of the Lead Poisoning
+Prevention and Healthy Homes Program and Interim Policy Director, and Latrice Porter-Thomas, from the
+Environmental Health Services Division, who oversees the enforcement of the Illinois Lead Poisoning
+Prevention Act in Cook County.
+Director Richardson-Lowry stated that, in light of the national discussion and in light of what is happening in
+other cities with older infrastructure, it would be helpful to have on the record what is done when someone
+presents with respect to lead, and what rigors are in place within the system, so the Board knows that there is a
+proper response. Ms. Durica stated that the Illinois Department of Public Health is the surveillance entity for
+the State. All reports of lead levels are sent to them, and they send those reports to delegate agencies.
+CCDPH is the delegate agency for suburban Cook County. When CCDPH receives a report of an elevated
+blood lead level, there is a cross-disciplinary approach to serving those families and children. All families
+receive a nursing case management visit and are followed until their blood lead level drops to acceptable
+standards, according to the Academy of Pediatrics and the State thresholds. Additionally, a lead risk assessor
+goes out to the home to identify home-based lead hazards that may be present. Ms. Porter-Thomas provided
+additional information. She stated that, once the lead risk assessor has identified those hazards, CCDPH will
+make contact with the property owner to make them aware that those lead hazards in the home have been
+identified and need to be remediated. There are two ways that remediation can be done. The lead risk assessor
+will provide the homeowner with an application to CCDPH’s lead poisoning prevention grant to go through
+that process, which Ms. Durica oversees, or the homeowner can do the work themselves. If the homeowner
+chooses to do the work themselves, the lead risk assessor will work with them to make sure the work is done
+properly. In addition to remediating the hazards, there is also a cleaning requirement, as well. After the work
+is satisfactorily done, the lead risk assessor will go out to conduct a clearance investigation – this entails them
+doing a dust-wipe sample to make sure the dust levels are not such that the child can be re-exposed to lead.
+The samples are sent to the State’s laboratory for analysis. As long as those samples come back within State
+standards, CCDPH will issue a certificate of compliance, which closes the case; if the sample does not come
+back within State standards, CCDPH will continue to work with the homeowner on the cleaning requirements
+until the standards are met.
+Ms. Durica provided information regarding the circumstances that lead to testing for lead poisoning in
+children. The State identifies high-risk areas by zip codes; all zip codes within the entire City of Chicago are
+included as high-risk, and there are 13 or 16 zip codes in suburban Cook County that are high-risk areas. If a
+child lives in one of those zip codes, by law, they should be tested at ages 12 months and 24 months. That
+testing does not always happen. She noted that CCDPH has policy and education activities within its units, as
+well, where staff go out and talk to providers about the need to do testing. There is also a paper-based
+screening tool with a set of questions regarding the age of housing, if any renovations have been done, and
+whether there are any kind of pica tendencies where kids are eating non-food items that could expose them to
+lead; if a child or family answers yes to any of those questions, then the provider is supposed to do a venous
+blood test to assess for lead exposure.
+Page 2 of 49
+
+ III. Action Items
+B. Contracts and Procurement Items (continued)
+Dr. John Jay Shannon, Chief Executive Officer, noted that the State’s threshold for blood lead levels is higher
+than the threshold set by the Centers for Disease Control and Prevention. From a clinical standpoint, the
+expectation is that there is no safe lead level. The Committee has heard about the home and lead abatement for
+continuing exposure; he asked for further information on what is clinically done with the children if they are
+found to have a high lead level beyond the abatement work. Ms. Durica stated that, when the affected child is
+referred to CCDPH and the lead risk assessor goes out to their home, essentially their “client” is the home until
+the lead hazard is remediated. When CCDPH’s nursing case managers go out to the home, for them, the child
+is the client. They do behavioral assessment and the ages and stages questionnaire, in order to assess for
+developmental delay or problems. They also perform nutritional assessments and case management with the
+primary care provider to ensure that repeat testing is being done and that the child is monitored.
+Director Richardson-Lowry noted that the entirety of the City of Chicago is within the framework of those
+needing to be tested; she inquired further regarding the rigor around testing, and asked that a report be
+provided in response to the following questions - are we testing, and how do we know we are testing?
+Director Gugenheim noted that she has followed this issue over the past 25 years; the problem is that there is
+never enough money to do the remediation that is required. She inquired as to what point in the year CCDPH
+runs out of money for this activity, and what happens after that. Ms. Durica stated that the grant money is
+allocated each year, but that does not represent the amount CCDPH spends within suburban Cook County for
+this. The Chicago, Evanston and Oak Park dollars indicated on the transmittals are their funding for this year;
+funding is determined through negotiation with those grantees after they responded to a Request for Proposals
+(RFP) making the case for the burden of lead poisoning in their jurisdiction and their capacity to do
+remediation for this year. She concurred with Director Gugenheim that there is not enough money to get all of
+the work done. Chairman Collens stated for the record that the budget for that is not determined by this Board.
+Ms. Durica stated that it does speak to the fact that across the nation there is not enough money to do
+remediation in homes, especially in low-income homes.
+Director Junge inquired whether the testing for lead includes testing of water pipes. Ms. Porter-Thomas
+responded in the negative; she stated that testing of water is done by each municipality. Ms. Durica stated that
+each municipality submits a report on any contaminants in the water twice a year; they also work with the U.S.
+Environmental Protection Agency to monitor those levels. CCDPH has not had any indications from extreme
+numbers of children with lead poisoning where no other source of lead exposure can be found, but if that were
+the case, then they have the ability to talk to the State about testing the water, if needed. Chairman Collens
+stated that it is his understanding that the Metropolitan Water Reclamation District adds a chemical to the
+water that should seal the lead pipes and prevent lead from leaching into the water.
+Director Butler inquired regarding how many agencies are doing this work of remediation and services to
+children in the area. Ms. Durica stated that the State-certified health departments have jurisdiction for doing
+lead investigations, remediation and case management in their jurisdictions, so CCDPH does not repeat any of
+the work being done in the City of Chicago; CCDPH’s jurisdiction covers children in suburban Cook County.
+There is collaborative work that is done; she noted that a regional summit was convened a couple of years ago
+to talk about policy and education activities to prevent lead poisoning. She added that there are some
+community-based organizations that do some housing rehabilitation work; CCDPH is working more and more
+with them to reduce the disproportionate burden of lead poisoning that falls on low-income communities and
+communities of color.
+Page 3 of 49
+
+ III. Action Items
+B. Contracts and Procurement Items (continued)
+With regard to request number 16, Mr. Elwell provided additional information. He stated that this request is to
+execute a sole source contract with Community Counseling Centers of Chicago (C4) relating to the pilot
+project to create a behavioral health triage center. A location for this purpose has been identified on the south
+side of Chicago. At this time the administration is trying to bring up the rest of its behavioral health services there are significant numbers of openings for social workers and other types of positions, and it is not believed
+that this pilot project can be staffed up with CCHHS staff at this time. Additionally, CCHHS staff does not
+possess all of the training that C4 staff have; C4 staff performs Assertive Community Treatment and do a lot of
+other interventions and services that CCHHS staff have not done and will need to learn. CCHHS gets referrals
+from this process, and does not expect all the work to be done here. There will be triage services performed at
+that location; following triage, they will move the patient on to the provider who is closest geographically and
+who has the evidence-based practice for the treatment needed. C4 is also working with the consortium of six
+(6) other organizations that works with the CountyCare Health Plan and CCHHS’ Department of Psychiatry.
+There will be a single phone number that can be called and answered, and no patient will be turned away.
+Regardless of the patient’s condition or payment source, this group has agreed that they will answer that
+phone. They will also answer calls from providers in the network, so if a primary care provider needs a little
+help understanding their patient’s condition, this organization will provide information and counseling to that
+primary care provider. As this is a pilot project, the administration does not want to bring on permanent fulltime people for these services at this time; leadership believes that this is the right thing to do and that it will be
+successful, but there is no guarantee. If the pilot project is successful, in 18 months time, Mr. Elwell stated
+that he will be talking to this Committee about operating five (5) locations, not one (1); when that happens,
+questions will be deliberated regarding whether an RFP should be developed for the provision of services
+externally or whether to provide these services by in-house staff.
+Mr. Elwell provided information on the location selected for the pilot project. Staff looked at the correlation of
+people that leave the detainee situation and go to live in the community; this area selected has the highest
+concentration of that population, so it made sense that this would be the first location. He noted that the
+administration has also notified a hospital located in that community about these plans, and have talked about
+the potential of working collaboratively with them.
+In response to a question raised regarding provision of services to the homeless population, Mr. Elwell stated
+that, while those individuals may not have an address, they usually have a place where they are mainly located.
+C4 is very accustomed to going where the patient is located, so their services historically are not limited to
+physical buildings - staff go out into the streets. They would work with that individual patient to determine
+where that patient is most comfortable receiving services, and if that does not work, there will be people who
+will outreach for them. The idea is to try to get patients into care, and that the care is rendered in some place
+other than the jail.
+Director Gugenheim inquired regarding training of the police force. Mr. Elwell stated that another reason for
+selecting C4 is because they have been heavily involved in the Crisis Intervention Team (CIT) training that
+some of the police officers have received. He noted that not all police officers have been trained for this, but
+C4 has a good relationship with the leadership in the Chicago Police Department who are responsible for CIT
+training.
+
+Page 4 of 49
+
+ III. Action Items
+B. Contracts and Procurement Items (continued)
+Director Junge requested additional information regarding the consortium. Mr. Elwell stated that it consists of
+a group of substance abuse and mental health providers primarily located on the south and west sides of
+Chicago. Their membership in this consortium is due to their openness to work in this type of situation and
+ability to be collaborative, and because many of them have suffered because the capacity grants were cut off by
+the State as a result of budget issues. It is expected that this consortium will grow, based on needs identified.
+Director Richardson-Lowry noted that the contract requires that specific outcomes are measured; she inquired
+regarding examples of specific outcomes, and asked who will measure them from a staffing standpoint. Mr.
+Elwell stated that C4 is going to provide the staff that is going to be under CCHHS direction. CCHHS
+psychiatrists are going to be providing the psychiatric backup, so that will have them overseeing many things,
+but most of the care for this population will be rendered by social workers and other types of counselors. With
+regard to measurement of specific outcomes, Mr. Elwell provided examples of potential metrics that are being
+considered. They will likely tie into justice system involvement – for example, this person had six (6)
+encounters with the justice system prior to receiving treatment – how many encounters did that person have
+after they started receiving treatment? They are interested in determining whether this treatment project
+prevented that person from ending up in jail, or helped them to have consistent housing or a job. The literature
+on this subject indicates that these are signs of success and signs of lower cost over time, and they will be
+measured.
+With regard to request number 17, Mr. Elwell stated that this is a sole source contract for the provision of
+Operating Room (OR) registered nurses and certified OR technicians. The administration has not been able to
+hire for those positions in sufficient numbers to staff the OR, nor have the staffing agencies that CCHHS
+currently engage been able to supply what is needed. This vendor recruits nurses and technicians from around
+the country, brings them in and houses them for the contract period. The aim is to continue recruiting activities
+to fill all of these positions with CCHHS employees. Director Richardson-Lowry noted that this contract has a
+high spend rate; she inquired whether this is a national issue, and asked whether a pipeline process can be
+developed for this category. Mr. Elwell responded that there are not enough nurses going into that area of
+specialty. He noted that it takes CCHHS six (6) months to train an OR nurse. The administration is focused
+on two (2) things – training its own nurses when possible, and using certified OR technicians more than has
+been historically done.
+With regard to request number 23, Mr. Elwell indicated that this company is the sole manufacturer, distributor
+and supplier of these products.
+Director Wiese, seconded by Director Richardson-Lowry, moved the approval of
+request numbers 1 through 24, subject to completion of review by Contract
+Compliance, where appropriate. THE MOTION CARRIED UNANIMOUSLY.
+
+C. Any items listed under Section III
+
+Page 5 of 49
+
+ IV. Report from the Deputy Chief Executive Officer of Finance and Strategy (Attachment #3)
+A. Metrics
+B. Financial Statements through December 2015
+C. Report of emergency purchases
+D. CountyCare Update
+Mr. Elwell reviewed the presentation that included information on Metrics, Preliminary Financial Statements
+through December 2015 and an update on CountyCare. The Committee discussed the information.
+During the discussion of the Financial Statements, Mr. Elwell stated that CCHHS did not have a good month in
+December; this is related primarily to the expectation of capturing $25 million worth of CountyCare activity – only
+$15 million was captured. Some of that revenue was made up by the increase of capture rate from other Managed
+Care Organizations (MCOs); inpatient activity with the other MCOs went up by approximately $3 million in this
+time period. Chairman Collens inquired whether there has been improvement in the capture rate for January. Mr.
+Elwell responded in the negative; however, he stated that several programs or initiatives are expected to positively
+impact this, including the behavioral health program, which is expected to have a fair capture rate, the MRI which
+will soon be going on-line at the Oak Forest Health Center, and the big increase expected in mammography
+services. The administration is continually looking at this; they look at what CCHHS’ own referral pattern is, and
+that pattern reflects that those referrals are not quite at the level desired.
+Mr. Elwell stated that an 8% drop was seen in pharmacy expenses; that reduction is due to a change in practice. If
+CCHHS did not have a contract with a patient’s managed care plan for pharmacy services, historically CCHHS has
+provided those pharmaceuticals to the patient for free and was not reimbursed by the patient’s managed care plan;
+however, now CCHHS is working with those patients to find a pharmacy near their home that has a contract with
+the managed care company for pharmacy services.
+Director Richardson-Lowry referenced the income statement differential; she stated that this is significant - it
+should keep the Directors up at night, and if this continues, there will have to be a different discussion that takes
+place. This could be a potentially devastating blow to the System; she asked that, as Mr. Elwell comes back and
+updates the Committee, he does so with the understanding that this an area that the Committee has to look at very
+closely. Mr. Elwell concurred; he noted that he will keep the Board updated, and in the future, with Chief Financial
+Officer Ekerete Akpan’s help, he will provide much more detailed explanations and review of what is driving the
+issues.
+With regard to the information provided on the number of days in accounts receivable, Mr. Elwell noted that they
+continue to experience challenges relating to coding. ICD-10 is a contributor to the issue, but there are other
+contributors; an update on that subject will be provided at the next Finance Committee meeting.
+With regard to the information provided on the number of days of cash on hand, Mr. Elwell stated that this number
+is expected to drop a little more in January. CCHHS is owed more than $100 million by the State; the
+administration is negotiating with them to get some of that money freed up.
+
+Page 6 of 49
+
+ IV. Report from the Deputy Chief Executive Officer of Finance and Strategy (continued)
+Director Wiese inquired whether Mr. Elwell was aware of any information relating to Blue Cross Blue Shield
+possibly making a movement to cut services to the Family Health Plan (FHP) population. Mr. Elwell responded
+that he has not heard anything specific, but there might be a couple of things going on, not just for them, but for a
+few plans. Many plans have been paid through December, but he was unsure if all of them have been paid. The
+plans contain a provision in their contracts that gives them the ability after 60 days of not being paid by the State to
+stop paying providers. Additionally, the new capitation rates being seen from the State reflect significant
+reductions. These are very significant; a big part of this is related to the fact that there was an assumption made by
+the State of the use of UIC and Stroger Hospital facilities by those plans’ members and what would be paid for that
+usage. He believes that many of the plans were able to balance their activity on the back of those extra payments
+they received but did not pass on, so now that is going away. That means that the administration is going to have to
+fight hard for its rates, and market opportunity is right around the corner – those affected plans will have to choose
+between cutting back or leaving the marketplace.
+There were no emergency purchases to report at this time.
+
+V.
+
+Adjourn
+As the agenda was exhausted, Chairman Collens declared the meeting ADJOURNED.
+
+Respectfully submitted,
+Finance Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXX
+Lewis M. Collens, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 7 of 49
+
+ Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+February 19, 2016
+
+ATTACHMENT #1
+(Exhibits attached electronically)
+
+Page 8 of 49
+
+  
+
+COOK COUNTY HHS FINANCE COMMITTEE:
+
+We are the security of?cers who protect and make sure Cook County?s health centers are
+safe. We are the ?rst line of defense for patients, staff, and anyone coming through the doors of
+the clinics in some of the county's most aggressive and dangerous areas. We are being cheated of
+
+the wages and bene?ts we are owed by our employers, Digby Detective Services and their
+subcontractor.
+
+As of?cers working in county health centers, we are due a minimum living wage of $11.66
+per hour with health insurance, or $14.57 per hour without health insurance. This is in
+accordance with the Cook County Living Wage ordinance referenced in the contract for service
+that Digby Detective Services signed with Cook County (Document No. Per Digby?s
+contract, we are due wages and bene?ts up to the BOMA standards: that includes any raises,
+holiday pay, paid time off, 100% employer-paid health insurance for of?cers working more than
+
+120 hours per month, and pension contributions for of?cers scheduled more than 30 hours per
+week.
+
+We have received none of this.
+
+Instead, our employers, ignoring both the Cook County Living Wage Ordinance, and the
+county?s own contract for services with our employers, have been paying of?cers at county health
+centers only $10.50 per hour, and even as low as $10.25 per hour. The health insurance, when it is
+even offered at all, is too expensive and too narrow for us to afford 0n the low wages our
+employers choose to pay us. These wages are so low, in fact, that some of us even qualify for 
+County Care. We receive no holiday pay, no pension, and little to no paid time off. 
+
+The work we do is critical for Cook County, and cheating the of?cers doing this work is
+irresponsible and completely unacceptable. If Digby Detective Services agreed to provide jobs in
+Cook County that were up to BOMA standards, yet the of?cers have not receivedthe due wages or
+bene?ts, where have our Cook County tax dollars gone? It is the responsibility 'of this committee
+to investigate and see to it that the recipients of county dollars abide by the contract fer services.
+Therefore, we demand the following:
+
+0 Immediate raise of our wages to the levels agreed upon in the Cook County Living Wage
+Ordinance and the contract for services
+
+0 Immediate access to the 100% employer-paid health insurance agreed upon in the
+
+contract for services
+
+Immediate contribution to the pension agreed upon in the contract for services
+
+Immediate payment of holiday pay rates agreed upon in the contract for services
+
+Immediate access to the paid time off agreed upon in the contract for services
+
+Immediate payment of the full back-pay owed as outlined by the Cook County Living
+
+Wage Ordinance
+
+Respectfully,
+
+a/ MA. 
+may: 
+
+
+ 
+
+ 
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+February 19, 2016
+
+ATTACHMENT #2
+
+Page 10 of 49
+
+ Request
+#
+
+Vendor/Entity
+
+Fiscal impact not
+to exceed:
+
+Service or Product
+
+Method of
+acquisition
+
+Total # of
+bidders/ RFP
+responses /
+GPO
+companies Affiliate /
+available
+System
+
+Begins
+on Page
+#
+
+Accept Grant Renewals
+Grant renewal
+amount:
+$801,946.00
+
+n/a
+
+n/a
+
+CCDPH
+
+4
+
+2
+
+Public Health Institute
+of Metropolitan
+Chicago
+
+Grant renewal
+amount: $89,000.00
+
+n/a
+
+n/a
+
+CCDPH
+
+5
+
+3
+
+Service
+American
+Great Lakes Hemophilia Thrombosis and Hemostasis
+Grant renewal
+Foundation
+Network at Stroger Hospital amount: $12,860.29
+
+n/a
+
+n/a
+
+System
+
+6
+
+Service - lead abatement
+services
+
+$500,000.00
+(funded from Lead
+Poisoning
+Prevention Fund)
+
+n/a
+
+n/a
+
+CCDPH
+
+7
+
+Oak Park Health
+Department
+
+Service - lead abatement
+services
+
+$160,000.00
+(funded from Lead
+Poisoning
+Prevention Fund)
+
+n/a
+
+n/a
+
+CCDPH
+
+8
+
+City of Evanston
+Health Department
+
+$79,200.00 (funded
+Service - lead abatement from Lead Poisoning
+Prevention Fund)
+services
+
+n/a
+
+n/a
+
+CCDPH
+
+9
+
+$820,000.00 Sole Source
+
+n/a
+
+SHCC
+
+10
+
+$400,000.00 Sole Source
+
+n/a
+
+SHCC
+
+11
+
+4
+
+SHCC
+
+12
+
+1
+
+Illinois Department of
+Public Health
+
+Service - Illinois Tobacco-Free
+Communities Program
+Service Prevention
+
+HIV
+
+/
+
+AIDS
+
+Renew Grant Awards from CCDPH and Extend Contracts
+
+4
+
+5
+
+6
+
+City of Chicago
+Department of Public
+Health
+
+Increase Contracts
+7
+
+Ortho Clinical
+Diagnostics Inc.
+
+8
+
+Abbott Laboratories
+
+Product - HIV and Hepatitis
+testing
+Product - cartridges and
+reagents for point-of-care
+testing
+
+MedSpeed LLC
+
+Service - direct delivery
+services, courier, patient
+samples
+
+9
+
+$400,000.00
+
+Page 11 of 49
+
+RFP
+
+ Request
+#
+
+Vendor/Entity
+
+Fiscal impact not
+to exceed:
+
+Service or Product
+
+Method of
+acquisition
+
+Total # of
+bidders/ RFP
+responses /
+GPO
+companies Affiliate /
+available
+System
+
+Begins
+on Page
+#
+
+Amend and Increase Contract
+
+10
+
+Global Healthcare
+Exchange, LLC
+
+Service - GHX Business
+Solutions, Contract Price
+Optimization
+and
+GHX
+Procurement
+Suite
+Integration Mapping
+
+$127,450.00
+
+GPO
+
+$350,000.00
+
+GPO
+
+$250,000.00
+
+GPO
+
+1
+
+System
+
+13
+
+SHCC
+
+14
+
+2
+
+SHCC
+
+15
+
+n/a
+
+SHCC
+
+16
+
+SHCC
+
+17
+
+Extend and Increase Contracts
+11
+
+Olympus America Inc.
+
+12
+
+DePuy-Synthes
+
+13
+
+KLS Martin Inc.
+
+14
+
+Stryker Instruments
+
+15
+
+Beckman Coulter
+
+Product - endoscopy surgical
+supplies
+Product - ortho surgical
+supplies and implants
+Product - ortho surgical
+supplies and implants
+Product - surgical supplies
+and disposables
+Product and Service equipment,
+calibrators,
+controls and reagents for
+urinalysis testing
+
+$200,000.00 Sole Source
+$200,000.00
+
+GPO
+
+$192,000.00 Sole Source
+
+n/a
+
+SHCC
+
+18
+
+$1,312,049.39 Sole Source
+
+n/a
+
+ACHN
+
+19
+
+$1,028,760.00 Sole Source
+
+n/a
+
+SHCC
+
+20
+
+Execute Contracts
+16
+
+17
+
+18
+
+19
+
+20
+
+Community Counseling Service - behavioral health
+Centers of Chicago (C4) services
+Service - Operating Room
+Favorite Healthcare
+(OR) registered nurses and
+Staffing Inc.
+certified OR technicians
+Product - centrifugal pumps
+and heart lung perfusion
+Sorin Group USA, Inc. systems
+Product
+orthopedic
+implants and surgical supplies
+for
+Endoscopy
+and
+Stryker Endoscopy
+Orthopedics
+Product - StealthStation
+System and Fusion ENT
+Medtronic
+Navigation System
+
+$655,892.00
+
+GPO
+
+3
+
+SHCC
+
+21
+
+$500,000.00
+
+GPO
+
+4
+
+SHCC
+
+22
+
+$425,000.00
+
+RFP
+
+3
+
+SHCC
+
+23
+
+Page 12 of 49
+
+ Request
+#
+
+Vendor/Entity
+
+Fiscal impact not
+to exceed:
+
+Service or Product
+
+Method of
+acquisition
+
+Total # of
+bidders/ RFP
+responses /
+GPO
+companies Affiliate /
+available
+System
+
+Begins
+on Page
+#
+
+Execute Contracts (continued)
+21
+
+W.L. Gore
+
+22
+
+GE Healthcare
+
+Product - intravascular grafts
+and supplies
+Service - Centricity DMS
+software and maintenance
+
+Helena Laboratories
+Becton Dickinson
+Diagnostic Systems
+
+Product - rental reagent
+agreement for instruments
+used for immunology testing
+Product
+equipment,
+reagents and controls
+
+23
+24
+
+$400,000.00
+
+GPO
+
+3
+
+SHCC
+
+24
+
+$395,463.20
+
+GPO
+
+1
+
+SHCC
+
+25
+
+n/a
+
+SHCC
+
+26
+
+2
+
+SHCC
+
+27
+
+$252,932.60 Sole Source
+$240,000.00
+
+Page 13 of 49
+
+GPO
+
+ Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+Terry Mason, Chief Operating Officer. Cook County
+Department of Public Health
+
+DATE: PRODUCT I SERVICE:
+
+01/29/2016 Service - Illinois Tobacco-Free Communities Program
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Grant Contract Renewal Illinois Department of Public Health, Springfield, Illinois
+
+FISCAL IMPACT: GRANT FUNDED AMOUNT:
+
+$801,946.00
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+07/01/2015 thru 06/30/2016 63281017D
+
+COMPETITIVE SELECTION METHODOLOGY: I RFP I GPO I 
+
+
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The previous Grant Agreement with the Illinois Department of Public Health (IDPH) was for twelve (12) months from
+07/01/2014 thru 06/30/2015 in the amount of $938,732.00. The IDPH Illinois Tobacco-Free Communities Grant was
+approved by the Cook County Health and Hospitals System Board on October 31, 2014.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This grant provides for a tobacco use reduction program among youth and adults. Cook County Department of
+Public Health will continue to enforce the Smoke?Free Illinois Act through local law enforcement, promoting
+the Illinois Tobacco Quitline, and conducting a media campaign targeting high-risk populations in suburban Cook
+County. This program is not mandated.
+
+*The cost of the early termination of this grant is $289,362.00.
+
+TERMS OF REQUEST:
+This is a request to renew grant contract number 632810170 in an amount not to exceed $801,946.00. as needed,
+for a period of twelve (12) months from 07/01/2015 thru 06/30/2016.
+
+DeputyCEO: APPROVED
+
+Douglas L. Elwell, Deputy Chief cutive Officer, Finance Strategy
+FEB 2 6 2015
+
+BY some or
+050- DIRECTORS 01: THE COOK comm-w
+
+John Jay Shannon, M.D., Wf??dtive' Officer HEALTH mo HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+
+ 
+
+Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 14 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+ 
+
+ 
+
+SPONSOR: EXECUTIVE SPONSOR:
+
+NIA Terry Mason, MD, Chief Operating Officer, Cook County
+Department of Public Health 
+
+DATE: PRODUCT I SERVICE:
+
+01/29/2016 Service Prevention
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Grant Contract Renewal Public Health Institute of Metropolitan Chicago, Chicago, IL
+
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED AMOUNT:
+
+$89,000.00
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+07/01/2015 thru 06/30/2016 11182015
+
+COMPETITIVE SELECTION METHODOLOGY: I RFP I GPO I 
+
+NIA
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The original grant contract with the Public Health Institute of Metropolitan Chicago (PHIMC) was for twelve (12)
+months in the amount of $122,000.00 and was approved by the Cook County Health and Hospitals System 
+Board on April 25, 2014. The first amendment increased the contract funding by $15,050.00 to a total of
+$137,050.00, and was approved by the Board on October 3, 2014. The second amendment increased the
+contract funding by $61,800 to a total of $198,850.00; it was approved by the Board on April 24, 2015.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This program supports mandated communicable disease services for to include Risk Reduction,
+Counseling Testing, Linkage to Care, and Partner Services. These services will be delivered to target populations
+in accordance with program descriptions and requirements.
+
+*The cost of the early termination of this grant is $0.00
+
+TERMS OF REQUEST:
+This is a request to renew the Grant Contract Number 11182015 in an amount not need
+for a period of twelve (12) months from 07/01/2015 thru 06/30/2016.
+
+FEB 2 5 2015
+Deputy CEO: 
+
+Douglas Elwell, Deputy Chief Exe Ive Officer, Finance Strategy 0" COUNTY
+
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CEO:
+John Jay Shannon, MD, Chief i eOfficer
+
+ 
+
+Request 
+2 .
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothstein CORE Center 0
+
+We Bring Health CARE to Your Community
+Page 15 of 49 Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: SPONSOR. 
+Debra Carey, Chief Operating Officer, Amb
+Community Health Network (ACHN)
+
+ 
+
+DATE: PRODUCT I SERVICE:
+02/01/2016 Service American Thrombosis and Hemostasis Network at Stroger
+Hospital
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Grant Contract Renewal Great Lakes Hemophilia Foundation, Milwaukee, WI
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT: GRANT FUNDED AMOUNT:
+$12,860.29
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+09/30/2015 thru 09/29/2016 1 NU27DD001155-01-00
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY: I RFP I GPO I 
+
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+The previous contract with the Great Lakes Hemophilia Foundation was for 12 months in the amount of $15,031.28.
+it was approved by the Cook County Health and Hospitals System Board on 03/27/2015.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This grant contract renewal provides funding to collect public health surveillance data for patients at John H. Stroger
+Jr. Hospital, Fantus Clinic, and the Core Center who have congenital bleeding disorders such as hemophilia or Von
+Willebrans's Disease. The goal is to collaborate to determine the best practices for the treatment of bleeding
+disorders, to promote optimal clinical outcomes, and disseminate findings. This program is not mandated.
+
+*There is no deferred liability for this grant agreement.
+
+TERMS OF REQUEST:
+This is a request to renew grant contract number 1 NU27DDOOI155-01-00 in an amount not to exceed $12,860.29,
+as needed, for a period of twelve (12) months from 09/30/2015 thru 09/29/2016.
+
+APPROVED
+Deputy CEO: jade/? 
+
+Douglas L. Elwell, Deputy Chief EXecutive Officer, Finance Strategy FEB 2 6 201,5
+
+ 
+
+i m: soARn OF
+CEO: DIRECTORS on THE cook COUNTY
+
+John Jay Shannon, M. D. CO?thive Officer HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Request 
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 16 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+   
+
+SPONSOR:
+Terry Mason, Chief Operating Officer, Cook County
+Department of Public Health
+DATE: PRODUCT I SERVICE:
+02/08/2016 Service Lead Abatement Services
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Renew grant awards from City of Chicago Dept. of Public Health, Chicago, IL
+and Execute Contracts
+FISCAL FUNDING AMOUNT GRANTED FROM 
+5440101 *Funded from Lead Poisoning Prevention Fund
+City of Chicago $500,000.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2015 thru 11/30/2017 
+COMPETITIVE SELECTION METHODOLOGY:
+- grant application process used
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Lead Poisoning Prevention Fund was adopted by the Cook County Board of Commissioners on November 21,
+2000, Resolution The agencies were selected through grant application proposals and met the criteria
+and eligibility requirements established by the LEAD Prevention Advisory Council (LPAC) and the Lead Poisoning
+Prevention Unit.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request is for authorization to enter into a two year contract with the City of Chicago to provide abatement and
+mitigation services to low income Cook County single family residential property owners and tenants residing in multi-
+unit properties in their region. The awards have been approved by the Lead Prevention Advisory Council (LPAC)
+based on the performance of these certified vendors to safely and expeditiously remove this deadly health hazard
+away from Cook County Children who have been previously exposed to high levels of lead.
+
+ 
+
+TERMS OF REQUEST:
+This is a request to renew the grant award and execute contract nu ber af?mpt not
+exceed $500,000.00 as needed, for a period of twenty-four (24) months fro 12/0 1 thru [BOARD OF
+
+CORPORATE COMPLIANCE HAD FOUND THIS CONTRACT E: 
+
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+DeputyCEO: 
+
+Douglas L. Elwell, Deputy Chief va?ecutive Officer Finance Strategy
+
+CEO: w; Request 
+John Jay Shannon, M.D., Chie(E)? ti fficer 4
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 17 Of 49 Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+ 
+
+SPONSOR: EXECUTIVE SPONSOR:
+Terry Mason, Chief Operating Officer, Cook County
+Department of Public Health
+DATE: PRODUCT I SERVICE:
+02/08/2016 Service - Lead Abatement Services
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Renew Grant Award from Oak Park Health Department, Oak Park IL
+and Execute Contract
+FISCAL IMPACT: ACCOUNT FUNDING AMOUNT GRANTED FROM 
+5440101 *Funded from Lead Poisoning Prevention Fund
+City of Oak Park $160,000.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2015 thru 11/30/2017 H16-25-041
+COMPETITIVE SELECTION METHODOLOGY:
+- rant li tion rocess 
+app ca se
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Lead Poisoning Prevention Fund was adopted by the Cook County Board of Commissioners on November 21,
+2000, Resolution The agencies were selected through grant application proposals and met the criteria
+and eligibility requirements established by the LEAD Prevention Advisory Council (LPAC) and the Lead Poisoning
+Prevention Unit.
+
+NEW PROPOSAL JUSTIFICATION:
+
+Requesting authorization to enter into a two year contract with Oak Park Health Department to provide abatement
+and mitigation services to low income Cook County single family residential property owners and tenants residing in
+multi-unit properties in their region. The awards have been approved by the Lead Prevention Advisory Council
+(LPAC) based on the performance of these certified vendors to safely and expeditiously remove this deadly health
+hazard away from Cook County Children who have been previously exposed to high levels of lead.
+
+TERMS OF REQUEST:
+This is a request to renew the grant award and execute contract mber H1 nt no
+exceed $160,000.00 as needed, for a period of twenty-four (24) months from 12/ 
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVEE: FEB 2 5 2015
+
+BY BOARD OF
+THE COOK COUNTY
+Deputy CEO: 25mg SYSTEM
+
+ 
+
+HEALTH A
+
+ 
+
+ 
+
+Douglas L. Elwell, Deputy Chief?xecutive Officer Finance Strategy
+
+CEO:
+
+John Jay Shannon, MD, Chief WWic??r Request 
+5
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services Department of Public Health .
+. John H. Stroger, Jr. Hospital of Cook County - Oak Forest Heaith Center 0 Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 18 Of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+ 
+
+       
+  
+ 
+
+ 
+
+EXECUTIVE SPONSOR:
+Terry Mason, Chief Operating Officer, Cook County
+Department of Public Health
+
+DATE: PRODUCT I SERVICE:
+
+02/08/2016 Service Lead Abatement Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Renew grant award from City of Evanston Health Dept, Evanston, IL
+
+and Execute Contract
+
+ 
+  
+
+ 
+  
+  
+
+
+
+   
+ 
+
+ 
+
+ 
+ 
+      
+ 
+
+ 
+
+  
+      
+ 
+
+ 
+
+ 
+
+   
+     
+
+ 
+
+  
+ 
+ 
+
+FISCAL IMPACT: ACCOUNT FUNDING AMOUNT GRANTED FROM 
+5440101 *Funded from Lead Poisoning Prevention Fund
+City of Evanston $79,200.00
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2015 thru 11/30/2017 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+?g@t application process used
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+   
+
+
+
+ 
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+PRIOR CONTRACT HISTORY:
+
+The Lead Poisoning Prevention Fund was adopted by the Cook County Board of Commissioners on November 21,
+2000, Resolution The agencies were selected through grant application proposals and met the criteria
+and eligibility requirements established by the LEAD Prevention Advisory Council (LPAC) and the Lead Poisoning
+Prevention Unit.
+
+     
+      
+  
+     
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This request is for authorization to enter into a two year contract with Evanston Health Department to provide
+abatement and mitigation services to low income Cook County single family residential property owners and tenants
+residing in multi?unit properties in their region. The awards have been approved by the Lead Prevention Advisory
+Council (LPAC) based on the performance of these certified vendors to safely and expeditiously remove this deadly
+health hazard away from Cook County Children who have been previously exposed to high levels of lead.
+
+ 
+     
+    
+     
+ 
+
+  
+  
+     
+ 
+
+TERMS OF REQUEST:
+This is a request to renew the grant award and execute contract num er 1 In an amount not in
+exceed $79,200.00 as needed, for a period of twenty-four (24) months from 1: RWED
+
+ 
+
+     
+  
+
+CONTRACT COMPLIANCE HAS FOUND THID CONTRACT RESPONSIVE: 
+
+Deputy CEO: 3 
+
+Douglas L. Elwell, Deputy Chief cutive Officer Finance Strategy
+
+ 
+        
+    
+
+FEB 25 2015
+
+BY BOARD OF
+COOK COUNTY
+HEALTH AND - 1 LS SYSTEM
+
+   
+     
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+ 
+  
+
+I CEO: 3
+John Jay Shannon, MD, Chief @?cuWicer Request 
+
+   
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Heaith -
+- John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 19 Of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+SPONSOR:
+Joanne Marcichow?Dulski, Laboratory Director Karen 8. Duncan, MB. In erim Chief Operating Officer,
+Hospital Based Services a)
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/04/2016 Product - HIV and Hepatitis Testing
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Increase Contract Ortho Clinical Diagnostics Inc., Raritan, NJ
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-365 $820,000.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+05/06/2013 thru 04/30/2016 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Cook County Health and Hospitals System Board of Directors approved contract number H12-73-071
+on 12/14/2012 in the amount of $1,848,731 .82 for the period from 01/01/2013 thru 12/31/2014. An Amendment was
+approved by the Board on 04/24/2015 that extended the term of the contract through 04/30l2016 and increased the
+maximum amount payable by $900,000.00 to a total of $2,748,731.82. This contract allows Ortho Diagnostic
+Systems to provide equipment, controls, reagents and consumables for HIV and Hepatitis tests performed at Stroger 
+Hospital Chemistry Laboratory.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request is to increase the contract to allow Ortho Diagnostic System to continue to provide reagents, and
+controls to the Stroger Hospital Chemistry Laboratory for HIV and Hepatitis testing. This increase will enable the
+laboratory to continue performing these tests through the end of the contract period. The department has
+experienced a 6% increase in HIV testing and a 36% increase in Hepatitis testing. A new contract for 4th generation
+HIV testing will be presented for approval in the coming months.
+
+TERMS OF REQUEST:
+This is a request to increase contract number H12-73-071 in an amount not to exceed $820,000.00, as needed, for
+
+the remainder of the contract period.
+APPROVED
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE Pending
+
+2 6 2015
+Deputy CEO: a 01.91% Z. FEB
+
+- - - BOARD OF
+Douglas L. Elwell, Deputy Chief Ex utive Officer Finance Strategy DIRECTORS OF THE COOK COUNTY
+
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+ 
+
+CEO: 1
+John Jay Shannon, M.D., Wef Wtive Officer
+
+ 
+
+Request 
+
+ 
+
+Ambulatory Community Heaith Network - Cermak Health Services 0 Department of Public Health -
+John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Heatth CARE to Your Community
+page 20 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+EXECUTIVE spun 
+Karen S. Duncan, M.D., Interim Chief Operating Officer,
+
+Hospital Based Services
+
+        
+
+   
+  
+  
+
+ 
+
+SPON OR:
+Joanne Maroichow-Dulski Laboratory Director
+
+ 
+  
+ 
+
+   
+
+ 
+
+    
+     
+
+ 
+
+     
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+   
+    
+ 
+ 
+
+ 
+
+ 
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/05/2016 Product - Cartridges and Reggents for Point of Care Testi_ng
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Increase Contract Abbott Laboratories, Abbott Park, IL
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-365 $400,000.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+01/01/2014 thru 12/31/2016 
+
+ 
+
+  
+  
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+  
+  
+
+ 
+
+ 
+  
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+PRIOR CONTRACT HISTORY:
+The Cook County Health and Hospitals System Board of Directors approved contract number H14-25-005
+on 12/13/2013 in an amount not to exceed $861,026.10 for the period from 01/01/2014 through 12/31/2016. The
+contract provides cartridges and reagents needed for chemistry and coagulation tests performed at point of care
+system-wide.
+
+ 
+    
+   
+
+   
+ 
+
+    
+   
+ 
+ 
+ 
+   
+
+ 
+
+I
+I NEW PROPOSAL JUSTIFICATION:
+This increase is needed to continue to provide cartridges and reagents needed for chemistry and coagulation tests
+. performed at point of care at Stroger, Provident, ACHN Clinics, JTDC and Cermak under the oversight of the
+
+I Department of Pathology at Stroger Hospital. Abbott Laboratories is the sole source of these cartridges and
+
+I reagents, a closed proprietary system.
+
+ 
+     
+
+     
+    
+ 
+
+TERMS OF REQUEST:
+This is a request to increase contract number in an amount not to exceed $400,000.00, as needed, for
+the remainder of the contract period.
+
+ 
+ 
+
+   
+     
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: ending
+
+APPROVED
+Deputy CEO: jaw/z 
+
+Douglas L. EIweIl, Deputy Chief 9(ecutive Officer Finance Strategy FEB 2 6 201g
+
+     
+
+ 
+
+     
+ 
+
+9' mam or:
+DIRECTORS 01% THE cock COUNTY
+CEO: HEALTH AND HOSPITALS SYSTEM
+
+John Jay Shannon, M.D., 
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+ 
+ 
+
+Request 
+
+ 
+ 
+
+Ambuiatory 8: Community Health Network - Cermak Health Services - Department of Public Health 0
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center .
+
+We Bring Health CARE to Your Community
+Page 21 of 49 Revised 03/01/2011
+
+ 
+
+Cook County Health 8: Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Joanne Marcichow?Dulski Laboratory Director Karen S. Duncan, M.D., Interim Chief Operating Officer,
+
+Hospital Based Services -
+43 0
+
+ 
+
+DATE: PRODUCT I SERVICE:
+02/05/2016 Service Direct Delivery Services, Courier, Patient Samples
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Increase Contract MedSpeed LLC, Elmhurst, IL
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT To EXCEED: GRANT RENEWAL AMOUNT:
+897-365 $400,000.00 
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+12/01/2014 through 11/30/2016 H15-25-010
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+RFP
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+The Cook County Health and Hospitals System Board of Directors approved contract number H15-25-010
+in the amount of $452,400.00 on 12/12/2014 for twenty-four (24) months from 12/01/2014 through 11/30/2016. The
+contract provides courier services to pick up patient samples and reports from Provident Hospital, the Juvenile
+Temporary Detention Center (JTDC), Cermak Laboratory and the Ambulatory Community Health Network (ACHN)
+clinics. In addition, the vendor delivers laboratory supplies to the ACHN clinics from Stroger Laboratory.
+
+NEW PROPOSAL JUSTIFICATION:
+This request to increase contract is needed to continue providing courier services to pick up patient samples, reports
+and deliveries of laboratory supplies across the Health Hospitals system.
+
+TERMS OF REQUEST:
+. This is a request to increase contract number in an amount not to exceed $400,000.00, as needed, for
+the remainder of the contract period.
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE. 
+
+Deputy CEO: jm? Z. FEB 262016
+
+Douglas L. Elwell, Deputy Chief Off/id?r Finance Strategy
+
+BY BOARD OF
+
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+CEO: 
+
+John Jay Shannon, M.D.. Wef tive Officer
+
+ 
+
+ 
+
+ 
+
+Request 
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+page 22 of 49 ReVIsed 03/01/2011
+
+Cook County Health 8. Hospitals System
+
+BOARD APPROVAL REQUEST
+SPONSOR:
+Charles A. Jones, Director, Strategic Sourcing Douglas L. Elwell, Deputy Chief Executive Officer
+Contract Management Finance Strategy 52L
+DATE: PRODUCT I SERVICE:
+01/12/2016 Service GHX Business Solutions, Contract Price Optimization and GHX
+Procurement Suite Integration Mapping
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Amend and Increase Contract Global Healthcare Exchange, LLC, Louisville CO.
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED AMOUNT:
+890-579 $127,450.00 
+CONTRACT PERIOD: CONTRACT NUMBER:
+07/01/2012 thru 06/28/2016 
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+I The Cook County Health and Hospitals System Board approved contract number H12-25-048 in the amount
+of $3,151,500.00 on 05/31/2012 for GHX to provide equipment, materials and supplies for a supply chain business
+solution including spend analytics, item master and contract database. An amendment was approved by 
+Board on 09/28/2012 to increase the amount of the contract by $665,824.84 to fund added services and application
+
+modules. The contract will also now encompass a more complete AP module necessary for invoice matching and
+
+payment. Another amendment was approved by Board on 09/27/2013 to increase the amount of the contract .
+
+i by $508,215.00 to extend contract subscription through 06/28/2016. An amendment was approved by SCM on 
+02/28/2015 to increase the amount of the contract by $58,900.00 for Procurement Suite Implementation Integration
+and Exchange Re?Integration. A fourth amendment was approved by on 10/01/2015 to increase the amount
+of the contract by $15,000 to permit to access GHX's VendorMate. a vendor credentialing system.
+
+NEW PROPOSAL JUSTIFICATION:
+This request will allow GHX to proceed with the Business Solutions?Contract pricing Optimization Program and GHX
+Procurement Suite Integration Training for current and new employees. Vendor will provide contract
+
+maximization through the conversion of paper contracts into an electronic format. This will allow for the utilization of all
+the suite of products to assure contract pricing when orders are placed for products.
+
+TERMS OF REQUEST:
+This is a request to amend and increase contract number H12-25-048 in an arr ount for a
+
+one time purchase.
+FEB 2 6 2018
+
+BY BOARD OF
+DIRECTORS Cit: THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+ 
+
+ 
+
+ 
+
+CEO: .v
+John Jay Shannon, MD, Chief Wm
+
+ 
+
+Request 
+10
+
+ 
+
+- Ambulatory 8. Community Health Network - Cermak Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center .
+
+We Bring Health CARE to Your Community
+Page 23 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+    
+
+ 
+     
+    
+ 
+
+ 
+
+EXECUTIVE SPONSOR:
+Claudia M. Fegan, M.D., Executive Medical Director
+
+i SPONSOR:
+Richard Keen, M.D., Chairman Department Of Surgery
+
+   
+
+ 
+
+  
+   
+ 
+
+ 
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+       
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+       
+  
+
+DATE: PRODUCT I SERVICE:
+02/08/2016 Product Endoscopy Surgical Supplies
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Extend and Increase Contract Olympus America Inc., Center Valley, PA
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-362 $350,000.00 
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2015 thru 12/31/2015 01/01/2016 thru 12/31/2017 H15-25-120
+SELECTION METHODOLOGY:
+GP
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number was approved by the Cook County Health and Hospitals System Board of
+Directors on 08/28/2015 for a twelve (12) month period from 01/01/2015 through 12/31/2015 in the amount of
+
+$280,272.17.
+
+      
+ 
+     
+ 
+
+. NEW PROPOSAL JUSTIFICATION:
+This request to extend and increase the contract will supply with a variety of endoscopy surgical and
+
+supplies for the department of Surgery and other divisions. They will also provide supplies for Endo, ENT, general
+surgery, gynecology and pulmonary.
+
+ 
+     
+ 
+    
+  
+
+TERMS OF REQUEST:
+This is a request to extend and increase contract number in an amount not to exceed $350,000.00, as
+needed for a period of twenty-four (24) months from 01/01/2016 thru 12/31/2017.
+
+ 
+   
+ 
+  
+
+   
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy CEO: ?ung APPROVED
+
+Douglas L. Elwell, Deputy Chiefyecutive Officer Finance Strategy 
+FEB 2 a 2018
+
+BY BOARD OF
+NTY
+John Jay Shannon, M.D., grief tive Officer HEALTH AND I-IOSPITA
+
+ 
+
+     
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+     
+   
+ 
+
+Request 
+
+Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident HOSpitaI - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 24 Of 49 Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST 
+
+SPONSOR:
+Richard Keen, M.D., Chairman Department of Surgery
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/08/2016 Product Ortho Surgical Supplies and Implants
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Extend and Increase Contract Westchester PA
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+
+897-362 $250,000.00 
+
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+
+06/01/2011 thru 12/31/2015 01/01/2016 thru 04/30/2016 
+COMPETITIVE SELECTION METHODOLOGY:
+
+GPO (2)
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+Contract number H10-25-163 was approved by the Cook County Health and Hospitals System Board of
+
+Directors on 05/26/2011 for the period from 06/01/2011 through 07/31/2012 in the amount of $2,400,000.00 for
+
+ortho?surgical supplies and implants. An Amendment to the contract was approved by the Board on
+
+07/12/2012 to increase the contract by $240,000.00 and extend it to 04/30/2013. On 04/12/2013 the Board
+1 approved a request to extend the contract through 07/31/2013. The Board of Directors approved an
+
+amendment on 08/28/2015 to extend the contract through 12/31/2015 and increase it in the amount $900,460.55.
+
+NEW PROPOSAL JUSTIFICATION:
+The implants and supplies will be utilized to replace or provide fixation of bone or to replace articulating surface of
+joints. There is one (1) other GPO vendor that offers this product.
+
+TERMS OF REQUEST:
+. This is a request to extend and increase contract number in an amount not to exceed $250,000.00, as
+needed, for a period of four (4) months from 01/01/2016 thru 04/30/2016.
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT 
+
+FEB 2 6 2015
+Deputy CEO: 8010. Z. Z. BY BOARD 
+
+Douglas L. Elwell, Deputy Chiefyiecutive Officer Finance Strategy 
+HEAL -
+
+ 
+
+ 
+
+ 
+
+CEO: . ?~31
+John Jay Shannon, M.D., ChifYEerOf?cer
+
+Request 
+
+ 
+
+0 Ambulatory Community Health Network - Cermak Health Services - Department of Public Health .
+. John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center - Provident HospitaI - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 25 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+I SPONSOR: - I I EXECUTIVE smusomw
+Richard Keen, M.D., Chairman Department of Surgery Claudia M. Fegan, M.D., xecutive Medical Director
+
+ 
+
+DATE: PRODUCT I SERVICE:
+02/08/2016 Product Ortho Surgical Supplies and Implants
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Extend and Increase Contract KLS Martin Jacksonville FL
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-362 $200,000.00 
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2016 thru 05/31/2016 
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number H10-25-140 was approved by the Cook County Health and Hospitals System Board of
+Directors on 02/24/2011 in the amount of $500,000.00. The contract was amended and approved by the Office of
+Supply Chain Management on 03/01/2013 to extend the contract through 08/31/2013 and increase it by
+$150,000.00. Another amendment to the contract was approved by the Board on 08/28/2015 to extend the
+contract term to 12/31/2015 and increase the dollar amount by $405,577.82.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This contract will allow the vendor to continue to supply needed orthopedicsurgical supplies for spine surgery, 
+distraction devices, power systems, surgical instruments and implants for patients. A RFP will be posted for
+this product in the first quarter of 2016.
+
+TERMS OF REQUEST:
+This is request to extend and increase contract number in an amount not to exceed $200,000.00, as
+needed, for five (5) months from 01/01/2016 thru 05/31/2016.
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSME: PWQEDRQVED
+
+Deputy CEO: 5M1 Z, FEB 2 6 2016
+
+Douglas L. Deputy Chief Executive Officer Finance Strategy By BOARD OF
+DIRECTORS or: THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+CEO: aw)
+John Jay Shannon, M.D., Chi?x 'O??icer
+
+Request 
+13
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 26 of 49 Revised (33/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTEIV SPONSOR:
+Richard Keen, M.D., Chairman Department of Surgery Claudia M. Fegan, M.D, Executive Medical Director
+
+ 
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/08/2016 Product Surgical Supplies and Disposables
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Extend and Increase Contract Instruments, Kalamazoo MI
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-362 $200,000.00 
+
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+
+12/1/2010 thru 12/31/2015 01/01/2016 thru 05/31/2016 H10-25-044
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+. Contract number H10-25-044 was approved by the Cook County Health and Hospital System Board of
+Directors on 12/17/2010 in the amount of $400,000.00. An amendment was approved by the Board on
+8/28/2015 in the amount of $426,437.99 to extend the contract through 12/31/2015.
+
+NEW PROPOSAL JUSTIFICATION:
+This contract will continue to provide surgical supplies and disposable accessories needed for the Neptune System a
+multi-modular craniomaxillofacial and distraction osteogenesis implant plating system.
+
+TERMS OF REQUEST:
+This is a request to extend and increase contract number H10-25-044 in an amount not to exceed $200,000.00, as
+needed, for a five (5) month period from 01/01/2016 thru 05/31/2016.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy APPROVED
+
+Do Ias L. El ut ChiefE cutive Officer Finance&Strate 
+?9 9" ?5 9y FEB 26201:
+
+DIRECTOR BY BOARD OF
+8 OF THE COOK CO
+CEO: HEALTH AND HOSPITALS SYSTEM-Y
+
+John Jay Shannon, M.D., Chg/Em fficer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+l4
+
+- Ambulatory 8. Community Health Network - Cermak Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 27 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR: 
+
+Joanne Marcichow-Dulski, Laboratory Director Karen S. Duncan, M.D., In erim Chief Operating Officer
+Hospital Based Services
+
+DATE: PRODUCT I SERVICE:
+
+01/05/2016 Product/Service; Equipment, Calibrators, Controls, and Reagents for
+
+Urinalysis Testing
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Extend and Increase Contract Beckman Coulter, Brea, CA
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+
+897-365 $192,000.00 
+
+ORIGINAL CONTRACT PERIOD: REVISED CONTRACT PERIOD: CONTRACT NUMBER:
+
+02/01/2013 thru 01/31/2016 02/01/2016 thru 01/31/2017 
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+Contract number H12-28-084 was approved by the Cook County Hospital Systems Board on 12/14/2012 to allow
+Beckman Coulter (formerly IRIS International) to provide equipment and reagents for automated urinalysis testing
+performed at John H. Stroger Jr. Hospital Chemistry Laboratory for thirty?six (36) months from 02/01/2013 thru
+01/31/2016 in the amount of $869,385.84.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This is a request to increase the contract and extend it for one additional year. This will allow us to continue to utilize
+equipment, equipment maintenance, calibrators, controls, and reagents provided to Stroger, and Provident Hospitals.
+This contract provides automated urinalysis testing using the IRIS Proprietary Urinalysis Systems.
+
+TERMS OF REQUEST:
+This is a request to extend and increase contract number H12-28-084 in an amount not to exceed $192,000, as
+needed, for twelve (12) months through 01/31/2017.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+DeputyCEO: 5001K 
+
+Douglas L. Elwell, Deputy Chief Eerutive OfficerFinance Strategy
+
+CEO: 
+John Jay Shannon, M.D., Chi?xe t' fficer
+
+Request 
+
+- Ambulatory Community Health Network - Cermak Health Services 0 Department of Public Health 0
+- John H. Stroger, Jr. Hospitai of Cook County - Oak Forest Health Center - Provident Hospital Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 28 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Debra Carey, Chief Operating Officer, A?w
+Community Health Network (ACHN)
+
+DATE: PRODUCT I SERVICE:
+
+02/04/2016 Service - Behavioral Health Services
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Community Counseling Centers of Chicago (C4), Chicago, iL
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+890-298 $1 ,312,049.39 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+03/01/2016 thru 08/31/2017 H16-25-015
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+Sole Source
+
+PRIOR CONTRACT HISTORY:
+
+No prior contract history.
+
+ 
+
+ 
+
+ 
+
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+Community Counseling Centers of Chicago (C4) was selected to staff 24/7 service at the community triage center.
+C4 is a contracted provider within the community care network. The contract will require that specific outcomes are
+measured in order to determine if the model is effective and if it could be replicated in other locations across the
+County. The Cook County Health and Hospitals System would anticipate analyzing the effectiveness of
+the service to determine if a RF is warranted or of the possibility of transitioning to in house services.
+As a critical provider of behavioral health services within Cook County, C4 provides a number of complex services
+beyond current capacity. These include:
+. Assertive Community Treatment (ACT)
+Community Integrated Living Arrangements (CILA)
+Mental Health Juvenile Justice Pre?Admission Screenings (PAS)
+Community Support Team (CST) and Social Rehabilitation (PSR)
+Crisis Services and 24 hour Crisis Intervention and SASS (Screening, Assessment and Support Services) for
+children and youth and their families
+0 Counseling and Therapy
+. Services including medication monitoring and evaluations.
+
+is recommending a contract with C4 to pilot a Community Triage Center model. The range of services and
+skills required to staff the CTC 24- 7 are not currently available within 
+
+health professionals, C4 Is better positioned to staff this pilot project. Utilizing extgm?gm
+also allows maximum flexibility as the model evolves. As continues to expa
+
+line, careful analysis will occur around bringing these services in-house.
+TERMS or EB 2 6 2015
+
+This is a request to execute contract number in an amount not to exceed, Fgas needed, or
+
+a period of eighteen (18) months from 03/01/2016 thru 08/31/2017. DRE-mas OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+CONTRACT COMPLIANCE FOUND THIS CONTRACT RESPONSIVE: Pending
+
+
+
+ 
+
+Deputy CEO:
+
+Douglas L. Elwell, Deputy Chief Exeislutive Officer FWIance Strategy
+
+Request 
+CEO: . 4 . 16
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health .
+John H. Stroger, Jr. Hospital of Cook County 0 Oak Forest Health Center Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+page 29 Of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Jayne Mitton, Interim Service Line Director, Karen Duncan, M. D. Int rim Chief Operating Officer
+Perioperative Services Hospital Based Services
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/08/2016 Service Registered Nurses and Certified OR Technicians
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract Favorite Healthcare Staffing Inc., Overland Park KS
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-275 $1,028,760.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+02/15/2016 thru 08/15/2016 H16-25-043
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+i Contract number with Cross Country Healthcare, Inc., was approved on 07/31/2015 by the Cook County
+Health and Hospitals System Board of Directors for a term of six (6) months from 08/01/2015 thru
+
+01/30/2016 in the amount Of $635,000.00. The contract was for the provision of specialty staffing.
+
+Office Of Supply Chain Management on 03/17/2014 for a term of two (2) months from 03/01/2014 thru 04/30/2014 in
+the amount of $149, 729. 00. The contract was for the provision of professional services for the neo- -nata  intensive .
+care unit (NICU). An amendment was approved by the Office Of Supply Chain Management on 05/21/2014 to extend
+
+the term Of the contract to 11/30/2014.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request is to fulfill an immediate need to secure operating staff in order to continue to provide care to our
+
+surgical patients. Because of unexpected retirements and other leaves in addition to inability to recruit and hire 
+experienced staff, it is necessary for Stroger Hospital to use travel professionals to adequately staff the departments. 1
+
+TERMS OF REQUEST:
+. This is a request to execute contract number H16-25-043 in an amount not to exceed $1,028,760.00, as needed, for
+
+a six (6) months period from 02/15/2016 thru 08/15/2016.
+APPROVED
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy CEO: $01144 Z, FEB 2 6 2018
+
+Douglas L. Elweli, Deputy Chief Ei?cutive Officer Finance Strategy BY BOARD OF
+
+DIRECTORS OF THE COOK COUNTY
+CEO: 44 ma
+
+HEALTH AND HOSPITALS SYSTEM
+John Jay Shannon, M.D., Wf Eer Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+17
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department Of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 30 Of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR:
+Richard Keen, M.D., Chairman Department of Surgery
+
+EXECUTIVE sponson:
+Claudia M. Fegan, M.D., Executive Medical Director
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/05/2016 Product - Centrifugal Pumps and Heart Lung Perfusion systems
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+ 
+
+Execute Contract Sorin Group USA, Inc., Arvada, CO
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED:
+717?897? 540 $655,892.00
+
+GRANT FUNDED AMOUNT:
+
+
+ 
+
+CONTRACT PERIOD:
+One-time Capital Purchase
+
+ 
+
+CONTRACT NUMBER:
+
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY: 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+No prior contract history.
+
+NEW PROPOSAL JUSTIFICATION:
+
+. This request is for a heart-lung machine used to support the essential life function of oxygen delivery. The
+
+machinery used to provide this service is calied Extra-Corporeal
+
+Membrane Oxygenation, or ECMO. This request
+
+will provide two (2) new ECMO machines to provide this new service for ICU patients who require temporary
+
+cardiopulmonary support. During open heart surgery, a second
+
+type of heart lung machine called Cardio-
+
+Pulmonary Bypass, or CPB, is used to provide blood and oxygen delivery to the heart or great vessels. The
+
+purchase of two (2) new CPB machines will replace our existing
+approaching the end of useful life.
+
+TERMS OF REQUEST:
+
+Cardio-pulmonary Bypass machines which are
+
+This is a request to execute contract number H16-76-024 in an amount not to exceed $655,892.00, as needed, for a
+
+one-time Capital purchase.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+?mz 
+
+ 
+
+APPROVED
+
+ 
+
+Douglas L. Elwell, Deputy Q?ief Executive Officer Finance Strategy
+
+CEO:
+
+FEB 2 6 2833
+
+BY BOARD OF
+
+ 
+
+John Jay Shannon, M.D., Chie(E/Iec t' Officer
+
+DIRECTORS OF THE COOK COUNTY
+HEALTH AND HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+Request 
+18
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health .
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 31 of 49 Revised 03/01/2011
+
+ 
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR: 
+Richard Keen, M.D., Chairman Department of Surgery Claudia M. Fegan, M.D., cutive Medical Director
+
+ 
+
+DATE: PRODUCT I SERVICE:
+02/08/2016 Product Orthopedic Implants and Surgical Supplies for Endoscopy and
+Orthopedics
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract Endoscopy. San Jose, CA
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-362 $500,000.00 
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+01/01/2016 thru 12/31/2017 H16-25-047
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO (4)
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+NO prior contract history.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request will provide the Cook County Health and Hospitals System with a variety of endoscopy and
+sports medicine implants and supplies. Physicians will be able to utilize products for cases dealing with
+orthobioiogics bio surgeries involving the upper and lower extremities, arthroscopy, laparoscopy and urology.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H16-25-047 in an amount not to exceed $500,000.00, as needed, for a
+twenty-four (24) month period from 01/01/2016 thru 12/31/2017.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy CEO: APPR.VED
+
+Douglas L. Elweli, DeputyChief Ex?sutive Officer?Fi'nance Strategy
+
+ 
+
+FEB 26 2015
+
+CEO BY some OF
+Wm 0 CW We 
+
+ 
+
+ 
+
+ 
+
+Request 
+
+ 
+
+Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center .
+
+We Bring Health CARE to Your Community
+Page 32 of 49 Revised 03/01/2011
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+   
+
+SPONSOR: 7 EXECUTIVE SPONSOR: 
+Richard Keen, M.D., Chairman, Department of Surgery Claudia M. Fegan, M.D., Executive Medical Director
+
+ 
+
+DATE: PRODUCT I SERVICE:
+1/26/2016 Product System and Fusion ENT Navigation System
+
+ 
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract Medtronic, Louisville, CO
+
+ 
+
+ 
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+717-897?540 $425,000.00 
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+One-time Capital purchase H16-76-038
+
+ 
+
+ 
+
+COMPETITIVE SELECTION METHODOLOGY:
+RFP (3)
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+There is no prior contract history for this product.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request is for the purchase of two (2) navigation systems. The for Neurosurgery and the Fusion
+ENT Navigation System for Otorhinolaryngology. These navigation system technologies integrate the images
+obtained on preoperative CT and MRI with images obtained during surgery by the navigation system. The
+neurosurgery intraoperative navigation system replaces an existing neurosurgery navigation system that is obsolete.
+The otorhinolaryngology head and neck intraoperative navigation system will permit improved localization and
+navigation in complex head and neck surgical cases.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H16-76-038 in an amount not to exceed $425,000.00, as needed, for a
+
+one-time Capital purchase.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+Deputy CEO: APPROVED
+
+Douglas L. Elwell, Deputy Chief E/ecutive Officer, Finance Strategy 3
+FEB 2 6 2010?
+
+ 
+
+ 
+
+av BOARD OF COUNTY
+ECTORS or THE coo
+BAZALTH AND HOSPITALS SYSTEM
+
+CEO:
+John Jay Shannon, M.D., (Eyef utive Officer
+
+ 
+
+ 
+
+ 
+
+Request 
+20
+
+ 
+
+- Ambulatory Community Health Network Cermak Health Services . Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Heaith CARE to Your Community
+Page 33 of 49 Revised 
+
+ 
+
+Cook County Health Hospitals System
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR:
+Richard Keen, M.D., Chairman Department of Surgery Claudia M. Fegan, M.D., Ex cutive Medical Director
+
+ 
+
+DATE: PRODUCT I SERVICE:
+
+02/08/2016 Product Intravascular Grafts and Supplies
+
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+
+Execute Contract W.L. Gore, Tempe AZ
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-362 $400,000.00 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+
+02/01/2016 through 01/31/2018 H16-25-049
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO (3)
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+Contract number H13-72-085 was approved by the Cook County Health and Hospitals System Board of
+Directors on 10/28/2013 in the amount Of $400,000.00 for a period of twenty-four (24) months. This contract
+provided intravascular grafts and supplies for surgeries performed at Johns H. Stroger Hospital.
+
+NEW PROPOSAL JUSTIFICATION:
+
+This request will allow the vendor to continue to supply with a variety Of polyester intravascular grafts, hernia
+patches and accessories for use by the Cardiothoracic and Vascular Surgeons during Open heart and trauma cases.
+The grafts are required to repair blood vessels.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H16-25-049 in an amount not to exceed $400,000.00 as needed, for a
+period twenty-four (24) month period from 02/01/2016 through 01/31/2018.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: 
+
+Z. QZ APPROVED
+Deputy CEO: 1
+Douglas L. Elwell, Deputy Chief Vecutive Officer Finance Strategy
+
+FEB 2 6 2018
+
+ 
+
+BY BOARD OF
+. DIRECTORS OF THE COOK COUNTY
+CEO. HEALTH AND HOSPITALS SYSTEM
+
+John Jay Shannon, M.D., Chieffj?c iv icer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+21
+
+ 
+
+- Ambulatory Community Health Network - Cermak Health Services Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital 0 Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 34 Of 49 Revised 03/01/2011
+
+ 
+
+BOARD APPROVAL REQUEST
+
+       
+  
+   
+
+   
+  
+
+ 
+ 
+
+  
+    
+        
+      
+ 
+      
+     
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXECUTIVE SPONSOR:
+
+Rami Doukky, M.D., Chairman Department of Claudia M. Fegan, M.D., ecutive Medical Director
+Cardiology
+DATE: PRODUCT I SERVICE:
+02/015/2016 Service Centricity DMS Software and Maintenance
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract GE Healthcare, Wauwatosa, WI
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897-441 $395,463.20 
+CONTRACT PERIOD: CONTRACT NUMBER:
+03/01/2016 thru 02/28/2019 
+
+COMPETITIVE SELECTION METHODOLOGY:
+GPO
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+   
+ 
+    
+ 
+ 
+
+PRIOR CONTRACT HISTORY:
+Contract number was approved by the Cook County Health and Hospitals System Board of
+Directors on 02/28/2013 in the amount of $280,428.00 for a period from 03/01/2013 through 02/28/2016 for the
+
+Centricity DMS software licenses and support.
+
+ 
+ 
+ 
+     
+    
+ 
+ 
+
+NEW PROPOSAL JUSTIFICATION:
+This contract will continue to provide software license maintenance and support for the DMS Centricity, and also
+expand the services provided to include the invasive hemodynamic equipment. This equipment is used by
+the Cardiology department for monitoring solutions, diagnostic cardiology products, anesthesia patient monitoring,
+and interventional cardiology recording.
+
+       
+   
+      
+     
+       
+
+TERMS OF REQUEST:
+This is a request to execute contract number H16-73-017 in an amount not to exceed $395,463.20, as needed, for a
+period of thirty-six (36) months from 03/01/2016 through 02/28/2019.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+APPROVED
+Deputy CEO:
+
+Douglas L. Elwell, Deputy Chief cutive Officer Finance Strategy FEB 2 6 2015?
+
+BY some OF
+DIRECTORS OF ?i'l-IE COOK COUNTY
+.4) HEALTH Arm SYSTEM
+. 
+John Jay Shannon, M.D., Ely! Ive/Officer
+
+  
+
+ 
+
+  
+
+ 
+    
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Request 
+22
+
+- Ambulatory Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+SPONSOR: EXECUTIVE SPONSOR: I.
+Joanne Marcichow?Dulski, Laboratory Director Karen 3. Duncan, M.D., Int rim Chief Operating Officer
+Hospital Based Services
+DATE: PRODUCT I SERVICE:
+02/05/2016 Product Rental reagent agreement for Instruments used for immunology
+testing
+TYPE OF REQUEST: VENDOR I SUPPLIER:
+Execute Contract Helena Laboratories, Beaumont, TX
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT FUNDED I RENEWAL AMOUNT:
+897?365 $252,932.60 
+CONTRACT PERIOD: CONTRACT NUMBER:
+05/01/2016 thru 04/30/2019 H16-25-035
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+Sole Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOR CONTRACT HISTORY:
+
+Contract number H13-25-013 was approved by the Board on 06/27/2013 in an amount not to exceed $206,561.25 for
+the term 05/01/2013 through 04/30/2016. The contract is for supplies and reagent kits used for immunology testing,
+and the usage of the SPIFE Touch and Quick Scan Touch instrument systems.
+
+NEW PROPOSAL JUSTIFICATION:
+
+Helena Laboratories will supply all technical assistance, software upgrades and support for both the SPIFE 3000 and
+the QuickScan 2000 (two each of SPIFE 3000 and two each of QuickScan 2000). Helena Laboratories is the sole
+manufacturer, distributor and supplier of these products designed for electrophoresis utilized in both hematology and
+immunology.
+
+TERMS OF REQUEST:
+This is a request to execute contract H16-25-035 in an amount not to exceed $252,932.60, as needed, for a period of
+thirty-six (36) months from 05/01/2016 through 04/30/2019. 
+
+ 
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: 
+
+jam/I Z- FEB 262016
+
+Douglas L. Elwell, Deputy Chief/Executive Officer Finance Strategy
+
+ 
+
+BY BOARD OF
+DIRECTORS OF THE COOK COUNTY
+HEALTH Ah HOSPITALS SYSTEM
+
+ 
+
+ 
+
+ 
+
+CEO:
+
+John Jay Shannon, M. D. Chief youtWIcer
+
+ 
+
+Request 
+23
+
+ 
+
+0 Ambulatory 8. Community Health Network - Cermak Health Services - Department of Public Health -
+- John H. Stroger, Jr. Hospital of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+
+SPONSOR:
+
+Cook County Health Hospitals System
+
+ 
+
+BOARD APPROVAL REQUEST
+
+XEUIVE SPONSOR: _7
+
+Joanne Marcichow-Dulski, Laboratory Director Karen S. Duncan, M. D., erim Chief Operating Officer,
+
+Hospital Based Services
+
+ 
+
+DATE:
+02/05/2016
+
+PRODUCT I SERVICE:
+Product Equipment, Reagents and Controls
+
+ 
+
+TYPE OF REQUEST:
+Execute Contract
+
+VENDOR I SUPPLIER:
+Becton Dickinson Diagnostic Systems, Sparks, MD
+
+ 
+
+ 
+
+897-365
+
+ACCOUNT: FISCAL IMPACT NOT TO EXCEED: GRANT RENEWAL AMOUNT:
+
+$240,000.00 NIA
+
+ 
+
+CONTRACT PERIOD: CONTRACT NUMBER:
+03/01/2016 thru 02/28/2017 
+
+ 
+
+ 
+
+GPO (2)
+
+COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+ 
+
+ 
+
+NON-COMPETITIVE SELECTION METHODOLOGY:
+
+ 
+
+. PRIOR CONTRACT HISTORY:
+
+The Cook County Health and Hospitals System Board Of Directors approved contract number H12-73-072
+on 10/26/2012 in the amount Of $256,369.26 for the period from 11/01/2012 thru 10/31/2015. The contract was
+extended through 02/28/2016.
+
+NEW PROPOSAL JUSTIFICATION:
+The contract will allow Becton Dickinson to continue providing equipment, equipment maintenance and reagents to
+test culture performed by Stroger Hospital Microbiology/Virology Department.
+
+TERMS OF REQUEST:
+This is a request to execute contract number H16-73-044 in an amount not to exceed $240,000.00, as needed, for a
+period of twelve (12) months from 03/01/2016 through 02/28/2017.
+
+CONTRACT COMPLIANCE HAS FOUND THIS CONTRACT RESPONSIVE: Pending
+
+3M1 
+
+Deputy CEO:
+
+Douglas L. Elwell, Deputy Chief E?cutive Officer Finance Strategy
+
+CEO:
+
+John Jay Shannon, M.D.. ChkeyExe??/? Officer HEALTH A: . 7 SYSTEM
+
+0 Ambulatory
+
+ 
+
+ 
+
+FEB 262015
+
+is 3.750315"? OF
+?3 eiREcTcm OF HE COOK COUNTY
+
+ 
+
+ 
+
+ 
+
+Request 
+24
+
+ 
+
+Community Health Network - Cermak Health Services - Department of Public Health 0
+
+0 John H. Stroger, Jr. Hospitai Of Cook County - Oak Forest Health Center - Provident Hospital - Ruth M.
+
+Rothstein CORE Center -
+
+We Bring Health CARE to Your Community
+Page 37 of 49 Revised 03101/2011
+
+ 
+
+Cook County Health and Hospitals System
+Finance Committee Meeting Minutes
+February 19, 2016
+
+ATTACHMENT #3
+
+Page 38 of 49
+
+ Cook County Health & Hospitals
+System
+Finance Committee : December 2015 Financials
+
+Page 39 of 49
+
+Finance Committee Meeting: February 2016
+
+1
+
+ Income Statement : Dec-15 vs. Dec-14 (in thousands)
+Operating Revenue
+
+Acute Care
+Dec-15
+Dec-14
+63,843
+78,595
+
+CountyCare
+Dec-15
+Dec-14
+72,198
+52,582
+
+Cermak
+Public Health
+Eliminations
+Dec-15 Dec-14 Dec-15 Dec-14 Dec-15 Dec-14
+(13,628) (18,268)
+
+Total
+Dec-15
+Dec-14
+122,413 112,909
+
+Operating Expenses
+Salaries & Benefits
+Supplies
+Purchased Services,
+Rental / Other
+Insurance Expense
+Depreciation
+Utilities
+Total Operating
+Expenses
+
+48,006
+9,864
+
+44,271
+13,935
+
+167
+
+7,731
+1,771
+2,223
+129
+
+13,828
+1,456
+2,777
+
+78,186
+
+69,725
+
+76,267
+
+Operating Margin
+Operating Margin %
+
+(5,882)
+-9%
+
+2,328
+3%
+
+5,911
+
+12,109
+
+29
+
+14,437
+
+Non Operating
+Net Income/(Loss)
+
+276
+6,293
+
+4,950
+734
+
+4,274
+77
+
+738
+11
+
+939
+29
+
+47,992
+368
+-
+
+586
+185
+16
+-
+
+105
+140
+20
+
+46
+32
+1
+
+63
+35
+2
+
+78,353
+
+54,929
+
+6,471
+
+4,616
+
+828
+
+1,068
+
+(6,155)
+-9%
+
+(2,347)
+-4%
+
+-
+
+(6,155)
+
+53,861
+10,609
+
+49,760
+19,666
+
+(13,628) (17,599)
+
+72,921
+1,988
+2,240
+129
+
+44,388
+1,998
+2,799
+-
+
+(13,628) (18,268)
+
+141,749
+
+118,611
+
+(19,336)
+-16%
+
+(5,702)
+-5%
+
+10,461
+
+18,403
+
+(8,875)
+
+12,701
+
+(668)
+
+-
+
+(6,471) (4,616)
+0%
+0%
+
+(828) (1,068)
+0%
+0%
+
+-
+
+23
+
+4,399
+
+5,894
+
+151
+
+377
+
+-
+
+(2,324)
+
+(2,072)
+
+1,278
+
+(677)
+
+(691)
+
+-
+
+Page 40 of 49
+
+Finance Committee Meeting: February 2016
+
+(0)
+
+(0)
+
+2
+
+ Category
+Total cash & cash equivalent
+Total property taxes rec
+Total receivables
+Inventories
+TOTAL CURRENT ASSETS
+Depreciable assets - net
+TOTAL ASSETS
+
+Dec-15
+358,521
+165,511
+132,120
+5,206
+661,358
+386,937
+1,048,295
+
+Page 41 of 49
+
+Finance Committee Meeting: February 2016
+
+3
+
+ Category
+
+Dec-15
+
+Accounts payable
+Third-party settlements
+Claims Payable
+Other Liabilities
+TOTAL CURRENT LIABILITIES
+LONG-TERM LIABILITIES:
+TOTAL LIABILITIES
+
+154,741
+112,000
+92,714
+126,354
+485,809
+47,030
+532,839
+
+TOTAL NET POSITION
+TOTAL LIAB & NET POSITION
+Page 42 of 49
+
+Finance Committee Meeting: February 2016
+
+515,455
+1,048,295
+4
+
+ NET DAYS IN ACCOUNTS RECIEVABLE
+
+
+
+45
+33
+
+Sap?15 Oct?15 Nov-15 
+
+- Patient - 
+
+Finance February 2016
+
+DAYS OF CASH 0N HAND
+
+19?.5?1915?1915?1915
+
+IDS-E
+32 ED
+5?
+Sap-15 ?at-15 Haw-15 DEE-15
+- Days [If Cash an Hand - 
+
+Finance Commit?gg?d?gi?gz February 2016
+
+DAYS EXPENSE IN PAYABLE
+
+ 
+
+
+55
+
+Sap-15 ?at-15 Nay-15 DEE-15
+
+- Days Eapanaa in Payable - ?Eaal
+
+Finance February 2016
+
+OPS MARGIN AS A OF TOTAL
+OPERATING REVENUE
+
+Sela?15 {Jet?15 Nev?15 Dee-15
+
+
+- 5.3%
+
+?Dee Margin as Eifatege ef Tetel Dee rating Revenue
+
+Fi itFt?SE?ME??tfi?E: 
+
+OVERTIME AS A PERCENTAGE OF GROSS SALARY
+
+.196
+
+
+
+
+Sap-15 Oct?15 Nov-15 Dec-15
+
+- 35 a Wage {af?rms Salaw - 
+
+Finance February 2016
+
+Metrics Summary: Membership
+• (--) 164,221 members; -0.1% from month prior, 8.0% below
+budget
+Population
+
+Membership
+
+Change from
+Month Prior
+
+Comp to
+Budget
+
+ACA
+
+73,152
+
+(--) 0.1%
+
+() -13.9%
+
+FHP
+
+87,192
+
+(--) -0.2%
+
+() -3.7%
+
+ICP
+
+3,877
+
+() 9.6%
+
+() 31.4%
+
+– FYTD total membership below budget in similar proportions to
+monthly
+
+• ( ) 89.8% of Medicaid cancellations at DHS Hoyne St. Office
+due to lack of timely redetermination
+– Up from 26.0% last month
+
+• CountyCare is 2nd largest health plan serving Cook County
+beneficiaries; BCBS took 1st post-ACE acquisitions
+Page 48 of 49
+10
+
+ Financial Highlights
+• () Dec’15 Financials
+– Net Income = $1.4 million; ($3.6 million) after IGT
+for FHP & ICP PMPM
+– CCHHS-generated revenue = $15.4 million
+– 40% under budget of $25.8 million
+
+• PMPM payments current for ACA only
+– No FHP or ICP payments since October’15
+
+• CY’16 rates setting meeting 2/19
+Page 49 of 49
+11
+
+Finance Cte   Feb 19, 2016
+
+ 

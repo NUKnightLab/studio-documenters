@@ -1,0 +1,1477 @@
+Minutes of the meeting of the Quality and Patient Safety Committee of the Board of Directors of the Cook
+County Health and Hospitals System held Wednesday, June 12, 2013 at the hour of 8:30 A.M. at 1900 W. Polk
+Street, in the Second Floor Conference Room, Chicago, Illinois.
+I.
+
+Attendance/Call to Order
+Chairman Michael called the meeting to order.
+Present:
+
+Chairman Edward L. Michael and Director Luis Muñoz, MD, MPH (2)
+
+Absent:
+
+Director Carmen Velasquez (1)
+
+Additional attendees and/or presenters were:
+Krishna Das, MD – System Director of Quality,
+Patient Safety, Regulatory and Accreditation
+Claudia Fegan, MD – Executive Medical
+Director/Medical Director Stroger Hospital
+Deborah Fortier – Office of the System General
+Counsel
+
+II.
+
+Deborah Santana – Secretary to the Board
+John Jay Shannon, MD – Chief of Clinical
+Integration
+Ozuru Ukoha, MD – John H. Stroger, Jr. Hospital of
+Cook County
+
+Public Speakers
+Chairman Michael asked the Secretary to call upon the registered speakers.
+The Secretary called upon the following registered speaker:
+1.
+
+III.
+
+George Blakemore
+
+Concerned Citizen
+
+Report from System Director of Quality, Patient Safety, Regulatory and Accreditation
+A. Committee Education – Approach to Adverse Events: CCHHS 2013 (Attachment #1)
+Dr. Krishna Das, System Director of Quality, Patient Safety, Regulatory and Accreditation, provided a
+presentation regarding Approach to Adverse Events: CCHHS 2013. The Committee reviewed and discussed the
+information.
+Chairman Michael stated that, overall, the good news is that at the System, Sentinel Events or the very serious
+kinds of adverse events are rare - but it raises the question, for those very serious and rare events, because they
+occur so infrequently, does the System really have the ability to do checks of effectiveness to know that the
+implementation of a corrective or preventive action really worked? Dr. Das responded that it is really important
+to look at the corrective action and understand that there is not one action implemented per event; rather, it is a
+whole series of actions that are implemented. Usually a variety of checks and balances are implemented, and a
+variety of processes are changed. With regard to whether or how these are being monitored, she stated that staff
+tries to do so; she noted that it is very labor intensive to do this. The System has reported a couple of events to
+The Joint Commission; when this occurs, they require the System to monitor the corrective action. In these
+cases, for each corrective action that has been outlined, data is collected and tracked; if the data does not meet a
+certain standard, the administration goes back to the departments involved and either a re-education or training
+is performed, and feedback from the department staff is received about whether the process modification is
+working – if it is not working, sometimes the process has to be revised.
+Page 1 of 23
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, June 12, 2013
+Page 2
+
+III.
+
+Report from System Director of Quality, Patient Safety, Regulatory and Accreditation (continued)
+Dr. John Jay Shannon, Chief of Clinical Integration, stated that the studies that have looked at these kinds of
+errors in health systems systematically use very labor-intensive and rigorous review; this is not the kind of
+information one can get from either simple reporting systems or from claims databases. When studies have
+been done trying to quantify the frequency of these errors, they have also done analyses to see whether the
+health system was aware of those errors. On average, in this country the health system’s awareness of those
+serious adverse events is quite low - the number is usually around 7%.
+Chairman Michael inquired regarding plans to help the System have a much better handle on really knowing
+and being aware of all of the significant adverse events that are occurring in the System. Dr. Das responded that
+there are several initiatives that have been considered and planned, which require staffing. She provided
+examples of areas of interest for potential initiatives, and indicated that she has discussed the subject with Dr.
+Bala Hota, System Chief Information Officer; she added that trigger tools are useful, but as Dr. Shannon alluded
+to, it is very personnel-intensive to look through them.
+Dr. Shannon stated that the System is in a good position as an organization to be able to make progress on this,
+because of investments that have been already made in the electronic record; while the whole country is moving
+to an electronic records system, the System is lucky in that it has the ability to probe these things in a much
+better fashion than others. Secondly, Dr. Das is constructing a team of individuals that will be the Safety
+Committee for the organization; this will include naming a patient safety officer - staff is currently in the
+process of creating a job description and recruiting for that position. Thirdly, while the System is trying to
+strive to receive more accurate reflections of the frequency of these events within the organization, one of the
+ways that staff can understand how well the System does its adverse event reporting is to measure what the
+culture of the organization is regarding reporting – is this a system that hides errors or is this a system that is
+free to come forward to show those errors?
+Chairman Michael inquired regarding any other enhancements to the systems that could be put in place to help
+prevent some of those errors by catching things automatically, such as decision support tools to assist the
+medical and nursing staff. Dr. Das stated that there are some very standard interventions that are recommended;
+many are currently in place. There is a little bit of discussion of how much should be implemented in a blanket
+way, because there is a suggestion that each individual site performs differently; there are process issues that are
+site-specific or institution-specific. Sometimes it makes sense in complex systems that a starting point is
+developed and then tweaked, based on the individual requirements; in those cases, pre-specification cannot be
+determined too far in advance.
+Dr. Shannon noted that this is a good opportunity to let the Committee know that today is National Time-Out
+Day; this memorializes an important safety step that happened in operating rooms, where the time-out became
+the standard communication tool at the beginning of a procedure. Literally every member of the team
+introduces themselves and goes through a checklist to make sure that they are all very aware of what they are
+doing before proceeding with a procedure on a patient; that simple act has substantially reduced the errors that
+happen around procedures and operating room areas.
+
+Page 2 of 23
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, June 12, 2013
+Page 3
+
+IV.
+
+Action Items
+A. Minutes of the Quality and Patient Safety Committee Meeting, May 22, 2013
+Note: this item was taken out of order.
+Director Muñoz, seconded by Chairman Michael, moved to accept the Minutes of the
+Quality and Patient Safety Committee Meeting of May 22, 2013. THE MOTION
+CARRIED UNANIMOUSLY.
+
+B. Any items listed under Sections IV, V and VI
+
+V.
+
+Recommendations, Discussion/Information Items
+A. Reports from the Medical Staff Executive Committees
+i. Provident Hospital of Cook County
+ii. John H. Stroger, Jr. Hospital of Cook County
+The report from Dr. Pierre Wakim, President of the Executive Medical Staff (EMS) of Provident Hospital of
+Cook County, was deferred to the Committee’s meeting in July.
+Dr. Ozuru Ukoha, President of the EMS of Stroger Hospital of Cook County, presented his report. He stated
+that the EMS met yesterday. There were no major reports presented from committees or departments; most
+of the matters discussed were housekeeping matters. He stated that the EMS held its usual standing
+committee meetings. With regard to credentialing, there is an issue that will be brought forward to the Joint
+Conference Committee later on today and again next month.
+Dr. Ukoha stated that interpreter services are an indispensable part of the communication tools for a diverse
+organization like the System. He expressed his appreciation that the Office of Multicultural Affairs is doing
+everything they possibly can to maximize the utility of these services. He stated that he recently provided an
+update to EMS members about all of the interpreter options that are now available. One of the services that
+has been recently added is the over-the-phone interpreter services with a new vendor who provides
+interpreter services for many more languages. Additionally, video interpreter services have been recently
+made available. Therefore, the interpreter options available at this time are the services of those interpreters
+physically located in the building, over-the-phone interpreter services and video interpreter services.
+In response to Chairman Michael’s question regarding whether there is pretty good coverage for those
+services when they are needed, Dr. Ukoha stated that they will have to have to get further into it to see if it
+solves the simpler problems; for example, patients that are in the holding area who need an interpreter before
+being taken to the operating room may need some physical presence of an interpreter. There are strategic
+areas where an interpreter is needed to physically be present.
+
+Page 3 of 23
+
+ Minutes of the Meeting of the
+Quality and Patient Safety Committee
+Wednesday, June 12, 2013
+Page 4
+
+VI.
+
+Closed Session Item
+A. Medical Staff Appointments/Re-appointments/Changes (Attachment #2)
+Note: this item was taken out of order, and the Committee did not recess the regular session and convene into
+closed session.
+Director Muñoz, seconded by Chairman Michael, moved to approve the Medical Staff
+Appointments/Re-appointments/Changes.
+THE
+MOTION
+CARRIED
+UNANIMOUSLY.
+
+VII. Adjourn
+Dr. Shannon stated that this is the last meeting of the Quality and Patient Safety Committee that Chairman
+Michael will chair; he is moving on to a new and different role where he will continue to work helping to
+address the needs of poor and uninsured and underinsured individuals in the County. Dr. Shannon thanked
+Chairman Michael for his service; he stated that Chairman Michael has brought great accountability to the
+quality and patient safety culture.
+Chairman Michael stated that it has been a pleasure to be part of this organization for the last year. He noted
+that it is very important in his new role that he continues to work with the System and its senior staff and
+continue to focus on the improvements that are being made in the quality and patient satisfaction.
+
+As the agenda was exhausted, Chairman Michael declared that the meeting was
+ADJOURNED.
+Respectfully submitted,
+Quality and Patient Safety Committee of the
+Board of Directors of the
+Cook County Health and Hospitals System
+
+XXXXXXXXXXXXXXXXXXXXXX
+Edward L. Michael, Chairman
+Attest:
+
+XXXXXXXXXXXXXXXXXXXXXX
+Deborah Santana, Secretary
+
+Page 4 of 23
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 12, 2013
+
+ATTACHMENT #1
+
+Page 5 of 23
+
+  
+
+Approach to Adverse
+Events: 2013
+
+Krishna Das, MD
+
+ 
+
+  
+ 
+
+ 
+ 
+
+  
+
+The modern patient s?
+movement 
+
+370 THE NEW OF MEDICINE Feb. [99]
+
+afetv
+
+SPECIAL ARTICLES
+
+INCIDENCE OF ADVERSE EVENTS AND NEGUGENCE IN HOSPITALIZED PATIENTS
+Results of the Harvard Medical Practice Study I
+
+TROYEN A. BRENNAN, M.P.H., LUGIAN L. LEAPE, M.D., NAN M. LAmn, Pull,
+Lugs! Haanm, A. RUSSELL M.P.H.1 ANN G. 80.0.,
+JOSEPH P. NEWHOUSE, PHIL, PAUL C. WEJLER, LL.M., AND HOWARD H. 
+
+Vol. No. 6 ADVERSE EVENTS IN HOSPITALIZED PATIENTS LEAPE ET AL. 31'?
+
+THE NATURE OF EVENTS IN HOSPITALIZED PATIENTS
+Results of the Medical Pumice Study 11
+
+LUCIAN L. LEAPE, MIL. TRDYEN A. BRENNAN, M.P.H.. NAN LAIRD, PEEL,
+ANN G. SC.D., A. RUSSELL Lomuo, M.P.H., BENJAMIN A. BARNES, M.D..
+Hanan, P. NEWHDUSE, PN.D., PAUL C. WEILER, LL.M., AND HOWARD Hum. 
+
+  
+    
+ 
+
+ 
+
+ 
+
+Page 6 of 23
+
+6/11/2013
+
+6/11/2013
+
+IOM Report 1999
+Public Release, Public Impact
+ Summarized available 
+
+data
+ 44,000‐98,000 deaths 
+due to medical care 
+ About ½ are preventable
+p
+ Defined the future state 
+of patient safety
+
+3
+
+Current Regulatory Environment
+ NQF Safe Practices – favors disclosure
+ Joint Commission – favors reporting of sentinel events
+ State of Illinois – law requiring reporting, not 
+
+currently enforced
+ Leapfrog Group – recommends reporting and 
+
+disclosure
+ CMS reports data publicly on Hospital Compare
+4
+
+Page 7 of 23
+
+2
+
+  
+
+Pulicly Reported Data
+
+   
+
+ 
+
+ 
+
+JOHN STROGER JR HOSPITAL
+
+ 
+
+Hospital-Acquired Conditions
+Measure
+
+Objects accidentally left in the body after
+surgery
+
+Air bubble in the bloodstream
+
+Mismatched blood types
+
+Seyere pressure sores [bed sores]
+
+Falls and injuries
+
+Blood infection From a catheter in a large
+yein
+
+Infection From a urinary catheter
+
+Signs of uncontrolled blood sugar
+
+\l'ieliriiI the U.S. National Rate for these measures
+
+0. 000
+per 1,000 patient discharges
+
+0. DUB
+per 1,000 patient discharges
+
+0.000
+per 1,000 patient discharges
+
+0. 211
+per 1,000 patient discharges
+
+0. 423
+per 1,000 patient discharges
+
+1.269
+per 1,000 patient discharges
+
+0. 211
+per 1,000 patient discharges
+
+U. 423
+per 1,000 patient discharges
+
+ 
+
+ 
+
+ 
+
+Page 8 of 23
+
+6/11/2013
+
+6/11/2013
+
+Adverse Events: A Definition
+Injury, or harm, due to
+medical care unrelated to
+the underlying disease or
+condition of the patient
+
+7
+
+Adverse Events: All Causes
+Adverse Event or 
+Harm
+
+Medical error
+
+No error
+
+Violation
+
+Slip or lapse
+
+Mistake 
+
+Criminal activity 
+or wanton 
+disregard for rules
+
+Simple error –
+overlooked, forgot
+
+Lack of 
+knowledge or 
+wrong plan
+
+Underlying illness 
+severity or known 
+complications of 
+treatment
+
+8
+
+Page 9 of 23
+
+4
+
+ 6/11/2013
+
+Cognitive Psychology of Errors
+Behavior Type
+
+Features
+
+Type of Error
+
+Practical
+Causes
+
+Intentional
+
+Intention to 
+harm, or very 
+poor judgment or 
+disregard
+
+Criminal activity, 
+Violations –
+harm intended or  drugs or 
+substance abuse 
+predictably 
+caused by 
+actions
+
+Habitual
+
+Automated,
+repetitive  
+repetitive, 
+monotonous
+
+Slips – lapses in  Stress, fatigue, 
+automaticity
+automaticity,
+distraction  poor 
+distraction, poor 
+unconscious 
+system design
+
+Cognitive
+
+Requires analysis, 
+planning, 
+oversight, mental 
+effort
+
+Mistakes –
+wrong rules 
+applied, failure 
+of heuristics
+
+Inadequate
+knowledge or 
+experience
+9
+
+How Errors Occur: The ‘Person’ Approach
+Errors arise from defective human processing
+such as poor motivation,
+motivation carelessness
+carelessness,
+recklessness
+Countermeasures to prevent them: punish the offender
+Careless people simply need reminders and re-education
+Hypothesis: Error is a moral issue; in a ‘just world’
+bad outcomes result from bad intent
+
+10
+
+Reason, J. 2000 BMJ
+
+Page 10 of 23
+
+5
+
+ 6/11/2013
+
+How Errors Occur: The ‘Systems’ View
+Hypothesis: humans are fallible and errors are
+expected
+Organizations contain ‘error traps’
+Countermeasures: you cannot change the human
+condition thus you must change the conditions under
+which humans work
+Use system defenses, build in checks and
+redundancies
+11
+
+Reason, J. 2000 BMJ
+
+Errors: Role of Serial Defenses
+
+12
+
+Reason, J. 2000 BMJ
+
+Page 11 of 23
+
+6
+
+ 6/11/2013
+
+Concept of Latent Errors
+The ‘tip
+tip
+of the
+iceberg’
+
+10%
+
+90%
+Latent
+Errors
+13
+
+Errors versus Adverse Events
+Preventable
+
+ Adverse event –
+Ad
+ 
+t  occurs  
+
+when serial defenses fail
+ One in ten errors result 
+in adverse events 
+ About one‐half of all 
+adverse events are 
+preventable
+
+Errors
+
+Adverse 
+Events
+
+14
+
+Page 12 of 23
+
+7
+
+ 6/11/2013
+
+Common Types of Medical Errors
+ Adverse drug reactions:
+ Wrong drug
+ Wrong dose
+ Allergic to drug
+ Procedural complications:
+ Anesthetic complications
+ Technical complications
+ Hospital acquired infections:
+i l 
+i d i f i
+ Line sepsis, CAUTI, VAP, surgical infection
+ Other acquired conditions:
+ Falls with injury, pressure ulcers
+ Diagnostic errors
+15
+
+What are Sentinel Events?
+A Sentinel Event is an unexpected occurrence involving
+death or serious physical or psychological injury or the risk
+thereof. Serious injury specifically includes loss of limb or
+function. [They] signal the need for immediate investigation
+and response…
+
+The Joint Commission
+
+16
+
+Page 13 of 23
+
+8
+
+ 6/11/2013
+
+Sentinel Events
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Suicide of a patient
+Death of a full term infant
+Abduction of any patient
+Rape
+Discharge of an infant to the wrong family
+Hemolytic transfusion reaction 
+Surgery on the wrong patient or wrong site
+Retained foreign object in surgery
+Neonatal h perbilirubinemia > 30
+Neonatal hyperbilirubinemia
+ 30
+Prolonged fluoroscopy
+
+• And any unanticipated death or major loss of function 
+
+not related to the patient’s underlying illness
+17
+
+Hospital Acquired Conditions
+(subset of Never Events‐NQF)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Air embolism
+Ai   b li
+Blood incompatibility
+Catheter associated UTI
+DVT or PE associated with hip or knee surgery
+Epidermis – pressure ulcers st III, IV
+Forgotten object – left in surgery
+Glycemic control poor – DKA or HONK
+Harm in hospital – fall, burn, shock
+Indwelling line infection
+Infection after surgery – CABG, ortho, bariatric
+18
+
+Page 14 of 23
+
+9
+
+ 6/11/2013
+
+19
+
+Identification of Adverse Events
+ Reporting – phone call or directly contact by the 
+
+clinician or observer
+ Electronic reporting systems (MERS)
+ Audit or case review:
+ Internal – case conference, morning report
+ External – quality reviews by payers
+
+ Litigation/ malpractice claims
+ Surveillance:
+ Review of all deaths, arrests, ICU transfers, reoperations
+ ‘Trigger tools’ – algorithms which identify adverse events 
+with a high degree of accuracy
+20
+
+Page 15 of 23
+
+10
+
+ 6/11/2013
+
+REPORTER - Login
+Reporter’s Login Page
+• You can enter events in
+MERS as an EMPLOYEE
+(authenticated/logged
+in) or VISITOR
+(anonymously)
+Icon on all computer
+screens
+Easy to enter information
+• You can return within 12
+hours to complete an
+event.
+
+Confidential
+
+21
+
+MERS Patient Safety Event Reporting
+NEW web-based program collects,
+
+7
+
+16 EVENT
+Categories
+Falls
+
+reports, and analyzes patient event
+Medication
+
+& near miss data
+
+Radiology
+
+1-CAPTURE
+
+Blood
+
+Easy web-based program to
+record an EVENT in 3-4 minutes
+
+Behavior
+
+Laboratory
+
+Infection
+
+2-REVIEW
+
+Accident
+
+Automatically routes EVENT to
+the appropriate manager(s)
+
+Skin
+
+Anesthesia
+
+Page 16 of 23
+
+11
+
+ Cook County Health and Hospitals System
+Quality and Patient Safety Committee Meeting Minutes
+June 12, 2013
+
+ATTACHMENT #2
+
+Page 17 of 23
+
+ John H. Stroger, Jr. Hospital Of Cook County
+
+ 
+
+Medical Staff Appointmentiseappointments and Non-Medical Staff Action Items Subject to
+
+Approval by the Quality and Patient Safety Committee
+
+Attar, Samer, MD
+
+Appointment Effective:
+
+Ghode, Reena, MD
+
+Appointment Effective:
+
+Gupta, Shweta, MD
+
+Appointment Effective:
+
+Kimball, Deborah, MD
+
+Appointment Effective:
+
+Lamattima, Kara, MD
+
+Appointment Effective:
+
+Lim, Christopher, MD
+
+Appointment Effective:
+
+Phelps, Paul MD
+
+Appointment Effective:
+
+INITIAL APPOINTMENT APPLICATIONS
+
+Surgery/Orthopaedic Surgery
+June 12, 2013 thru June 11, 2015
+
+Medicine/Neurology
+June 12, 2013 thru June 11, 2015
+
+Medicine/Hema-Oncology
+June 12, 2013 thru June 11,2015
+
+Emergency Medicine
+June 12, 2013 thru June 11, 2015
+
+Surgery/Ophthalmology
+June 12, 2013 thru June 11,2015
+
+Emergency Medicine/Toxicology
+June 12, 2013 thru June 11, 2015
+
+Surgery/Ophthalmology 
+June 12, 2013 thru June 11, 2015
+
+Consulting Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Service Physician
+
+Service Physician
+
+Service Physician
+
+Initial Non-Physician Appointment Applications
+
+Jameyfield, Mary G., CNP
+With Sattar, Payman, MD
+With Hart, Peter, MD Medicine/Nephr/Hypertension
+
+Effective: June 12, 2013 thru June 11,2015
+
+Medicine/Adult Cardiology Nurse Practitioner
+
+IBEAPPOINTMENT APPLICATIONS
+Department of Anesthesioloqv
+
+Davis-Fourte, Felicia, MD
+Reappointment Effective:
+
+Pediatric Anesthesia Active Physician
+June 30,2013 thru June 29,2015
+
+Tyler, Serge, MD Orthopaedic/GU
+Reappointment Effective: July 9, 2013 thru July 8, 2015
+
+Active Physician
+
+Voronov, Gennadiy, MD
+Reappointment Effective:
+
+Pediatric Anesthesiology
+June 30, 2013 thru June 29,2015
+
+Active Physician
+
+Department of Correctional Health Services
+
+Gunaratnam, Martina, MD 
+Reappointment Effective: July 19, 2013 thru July 18, 2015
+
+Service Physician
+
+  
+
+Mekhael, Fayez, MD Family Medicine Active Physician ,1
+Reappointment Effective: July 28, 2013 thru July 27, 2015 
+
+Item ?-June 12, 2013
+
+Quality and Patient Safety Committee Meeting Page I Of 6 APPROVED
+
+BY THE QUALITY AND PATIENT SAFETY
+
+on JUNE 12, 2013
+Page 18 of 23
+
+John H. Stroqer, Jr. Hospital of Cook County
+Reappointment Applications
+
+Department of Correctional Health Services (continued)
+
+Mennella, Cencetta, MD
+Reappointment Effective:
+
+Richardson, Lendell, MD
+Reappointment Effective:
+
+Richard, Stamatia, MD
+Reappointment Effective:
+
+Internal Medicine
+
+June 17, 2013 thru June 16, 2015
+
+Internal Medicine
+June 30, 2013 thru June 29,2015
+
+Family Medicine
+June 30, 2013 thru June 29,2015
+
+Department of Emergency Medicine
+
+Bailitz, John, MD
+Reappointment Effective:
+
+Couture, Eileen, DO
+Reappointment Effective:
+
+Kysia, Rashid Fuad, MD
+Reappointment Effective:
+
+Lank, Patrick, MD
+Reappointment Effective:
+
+Mankowski, Joan, MD
+Reappointment Effective:
+
+Emergency Medicine
+July 9, 2013 thru June 8,2015
+
+Emergency Medicine
+July 11, 2013 thru July 10,2015
+
+Emergency Medicine
+July 11, 2013 thru July 10,2015
+
+Adult Emergency Medicine
+June 21, 2013 thru June 20,2015
+
+Emergency Medicine
+July 28, 2013 thru July 27,2015
+
+Department of Family Medicine
+
+Crawford, Tais V., MD
+Reappointment Effective:
+
+Department of Medicine
+
+Ahmed, Azazuddin A., MD
+
+Reappointment Effective:
+
+Davidovich, Michael J., MD
+
+Reappointment Effective:
+
+Ezeokoli, Chukwudozie, MD
+
+Reappointment Effective:
+
+Kraus, Mark A., MD
+Reappointment Effective:
+
+Lee, Kuenok, MD
+Reappointment Effective:
+
+Item - June 12, 2013
+
+Family Medicine/ACHN
+June 12,2013 thru June 11,2015
+
+Medicine/ACHN
+June 21, 2013 thru June 20,2015
+
+General Medicine
+July 1, 2013 thru June 30,2015
+
+Medicine/ACHN
+July 28, 2013 thru July 27,2015
+
+Nephrology/Hypertension
+July 11, 2013 thru July 10, 2015
+
+General Medicine
+July 11, 2013 thru July 10,2015
+
+Quality and Patient Safety Committee Meeting Page 2 Of 6
+
+Page 19 of 23
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY Co
+on JUNE 12, 2013
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Voluntary Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+
+
+  
+
+John H. Stroqer, Jr. Hospital of Cook County
+Reagpointment Agglications
+
+Degartment of Medicine (continued)
+
+Lubelchek, Ronald J., MD
+Reappointment Effective:
+
+Muzaffar, Shirin, MD
+Reappointment Effective:
+
+Nagubadi, Swamy M, MD
+Reappointment Effective:
+
+Infectious Disease
+
+September 7, 2013 thru September 6, 2015
+
+Pulmonary/Critical Care
+August 26, 2013 thru August 25, 2015
+
+Pulmonary/Critical Care
+August 26, 2013 thru August 25, 2015
+
+Department of Obstetrics and Gvnecoloqv
+
+Malapati, Radha, MD
+Reappointment Effective:
+
+Milad, Magdy, MD
+Reappointment Effective:
+
+Department of Pathology
+
+Alagiozian-Angelova, Victoria, MD
+Reappointment Effective:
+
+Senseng, Carmencita, MD
+Reappointment Effective:
+
+Department of Pediatrics
+
+Cortez, Edmundo, MD
+Reappointment Effective:
+
+Gafoor, Sabiha, MD
+Reappointment Effective:
+
+Jacobs, Norman M., MD
+Reappointment Effective:
+
+Mariyappa, Parabhavathi, MD
+Reappointment Effective:
+
+Rastogi, Alok, MD
+Reappointment Effective:
+
+Severin, Paul N., MD
+Reappointment Effective:
+
+Soyemi, Kenneth L., MD
+Reappointment Effective:
+
+Yu, Byung?Ho, MD
+Reappointment Effective:
+Item June 12, 20l 3
+
+Quality and Patient Safety Committee Meeting
+
+Obstetrics and Gynecology
+July 28, 2013 thru July 27,2015
+
+Obstetrics and Gynecology
+July 28,2013 thru July 27,2015
+
+Anatomic Pathology
+July 30, 2013 thru July 29,2015
+
+Pathology
+July 28, 2013 thru July 27,2015
+
+Peds Critical Care 
+June 12, 2013 thru June 11, 2015
+
+Peds Emergency
+July 1, 2013 thru June 30,2015
+
+Pediatric Medicine
+June 30, 2013 thru June 29,2015
+
+Peds Emergency
+June 30, 2013 thru June 29,2015
+
+Peds Critical Care
+July 9, 2013 thru July 8,2015
+
+Peds Critical Care
+July 9, 2013 thru July 8,2015
+
+Peds Emergency
+June 21, 2013 thru June 20,2015
+
+Peds/Allergy/lmmunology
+June 30, 2013 thru June 29,2015
+
+Page 3 of 6
+
+BY THE QUALITY AND PATIENT SAFETY
+
+Page 20 of 23
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician.
+
+Active Physician
+
+Active Physician 
+
+
+
+APPROVED
+MITTEE
+
+ON JUNE 12, 2013
+
+John H. Stroger, Jr. Hospital of Cook County
+Reappointment Applications (continued)
+
+Department of Radioloqy
+
+Dunne, Patrick, MD
+Reappointment Effective:
+
+Larson, John, DO
+Reappointment Effective:
+
+Seshagirirao, Donthamsetti, MD
+Reappointment Effective:
+
+Department of Surqery
+
+Harrison, Jacqueline, MD
+Reappointment Effective:
+
+Houston, John T.B., MD
+Reappointment Effective:
+
+Komar, Thomas, MD
+Reappointment Effective:
+
+Special Procedures
+June 18, 2013 thru June 17,2015
+
+General Radiology
+July 9, 2013 thru July 8, 2015
+
+Radiation Oncology
+June 30, 2013 thru June 29,2015
+
+General Surgery
+July 10, 2013 thru July 9,2013
+
+Urology
+June 21, 2013 thru June 20, 2015
+
+General Surgery
+July 9, 2013 thru July 8,2015
+
+Renewal of Privileqes for Non-Medical Staff
+
+Allen, Sharon L., 
+With Kowalski, John A., MD
+Effective:
+
+Ellis, Pamela J., CRNA
+Effective:
+
+Fowler, Edward W., PA-C
+
+With Mennella, Concetta C., MD
+Alternate Yu, Yan K., DO
+Effective:
+
+Latif, Rohiya H., PA-C
+
+With Fish, Karen Elizabeth, MD
+Alternate Patel, Ashlesha, MD
+Effective:
+
+Rescober, Teresita M., CNS
+With Nguyen, Tuan M., MD
+Effective:
+
+Sanchez, Luis M., PA-C
+With Richardson, Stamatia Z., MD
+
+Alternate Marasigan, Ligaya V., MD
+
+With Bradley, Juliet L., MD
+Alternate Barnes, Laverne M., DO
+Effective:
+
+ltem June 12, 2013
+
+Quality and Patient Safety Committee Meeting
+
+Medicine Infectious Disease
+
+July 19, 2013 thru July 18, 2015
+
+Anesthesiology
+June 12, 2013 thru June 11, 2015
+
+Correctional Health Services
+
+June 21, 2013 thru June 20,2015
+Gynecology
+
+July 19, 2013 thru July 18, 2015
+Gynecology
+
+June 12, 2013 thru June 11,2015
+
+Correctional Health Services
+
+ACHN Family Practice
+
+June 19, 2013 thru June 18,2015
+
+Page 4 of 6
+
+Page 21 of 23
+
+APPROVED
+BY THE QUALITY AND PATIENT SAFETY Co
+ON JUNE 12, 2013
+
+Active Physician
+
+Active Physician
+
+Voluntary Physician
+
+Active Physician
+
+Active Physician
+
+Active Physician
+
+Nurse Practitioner
+
+Nurse Anesthetist
+
+Physician Assistant
+
+Physician Assistant
+
+Clinical Nurse Specialist
+
+Physician Assistant
+
+
+
+  
+
+ 
+
+John H. StrogerI Jr. Hosgital of Cook County
+
+Renewal of Privileqes for Non-Medical Staff (continued)
+
+Sarazine, Julia T., CNP Medicine General Medicine Nurse Practitioner
+With Deamant, Catherine D., MD
+
+Effective: July 19, 2013 thru July 18, 2015
+
+Sedeno, Angela, Center Clinical 
+Reappointment Effective: July 19, 2013 thru July 18, 2015
+
+Shephard, Rebekah S., CNP Medicine Core Center Nurse Practitioner
+With Vergara?Rodriguez, Pamela T., MD
+
+Effective: June 21, 2013 thru June 20,2015
+
+Songkum, Jantanee, CNP Pediatrics Neonatology Nurse Practitioner
+With Kamat, Medha V., MD .
+
+Effective: July 19, 2013 thru July 18,2015
+
+Szpur, Mary V., Medicine Infectious Disease Physician Assistant
+
+With Herrera, Patricia, MD
+Alternate Schwartz, David M, MD
+
+Effective: June 21, 2013 thru June 20, 2015
+
+Uzomba, Adaku N., CNS Medicine Neurology Clinical Nurse Specialist
+With Kelly, Michael A., MD
+
+Effective: July 19, 2013 thru July 18,2015
+
+Zien, Joel W., PA-C Surgery Neurosurgery Physician Assistant
+
+With Gandhi, Yogesh, MD
+Alternate Sierens, Diane K., MD
+Effective: June 21, 2013 thru June 20, 2015
+
+Non-Medical Staff Change in Privileges
+
+Tiffany Delane, PA-C Correctional Health Physician Assistant
+With Ledvora, Ronald P, MD
+
+Alternate Mekhael, Fayez M., MD
+
+Effective: June 12, 2013 thru March 13, 2015
+
+Medical Staff Status Change with no Change in Privileges
+
+Kim, Ronald Eric, MD From: Active Physician To: Consulting Physician
+Patel, Sanjay, MD From: Voluntary Physician To: Active Physician
+Pierko, MD From: Voluntary Physician To: Active Physician
+Siddiqi, Alvia, MD From: Active Physician To: Voluntary Physician
+
+Medical Staff Additional Clinical Privileqes
+
+Dawalibi, Salim, MD Family Medicine Privileges: Correctional Health
+Napoles, MD Trauma Privileges: Surgical Critical Care
+Rivas, Oscar, MD Medicine Privileges: Gastroenterology and
+
+Category from Voluntary to Active
+
+
+
+Item June 12, 2013
+Page 5 0,6 APPROVED
+
+Quality and Patient Safety Committee Meeting
+BY THE QUALITY AND PATIENT SAFETY COM
+ON JUNE 12, 2013
+
+  
+
+Page 22 of 23
+
+Provident Hospital of Cook County
+
+ 
+
+ 
+
+Medical Staff Appointmentiseappointments and Action Items Subject to Approval by the 
+
+Quality and Patient Safety Committee
+
+INITIAL 
+
+Crane, Jason E., MD
+Appointment Effective:
+
+Clinical Lab/Pathology
+June 12, 2013 thru May 22, 2015
+
+Affiliate Physician
+
+EAPPOINTMEAT 
+
+Department of Clinical Labs/Pathology
+
+Shi, Feinan, MD
+Reappointment Effective:
+
+Department of Internal Medicine
+
+Clarke, Clifton B., MD
+Reappointment Effective:
+
+Ezeokoli, Chukwudozie, MD
+Reappointment Effective:
+
+Muzaffar, Shirin, MD
+Reappointment Effective:
+
+Weinstein, Robert A., MD
+Reappointment Effective:
+
+Department of Surqery
+
+Sauper, Alexander, MD
+Reappointment Effective:
+
+Harrison, Jacqueline, MD
+Reappointment Effective:
+
+ltem June 12, 2013
+Quality and Patient Safety Committee Meeting
+
+Pathology
+July 19, 2013 thru July 18,2015
+
+Active Physician
+
+Pulmonary Medicine
+August 1, 2013 thru July 31,2015
+
+Active Physician
+
+Internal Medicine Affiliate Physician
+July 28, 2013 thru July 27,2015
+
+Pulmonary Medicine
+
+August 26, 2013 thru August 25, 2015
+
+Affiliate Physician
+
+Infectious Disease
+August 26, 2013 thru August 25, 2015
+
+Affiliate Physician
+
+General Surgery
+July 20, 2013 thru July 19, 2015
+
+Affiliate Physician
+
+General Surgery
+July 10, 2013 thru July 09,2015
+
+Active Physician
+
+ 
+   
+
+
+
+APPROVED 
+
+BY THE QUALITY AND PATIENT SAFETY COM
+Page 23 of 23 ON JUNE 12, 2013
+
+Page 6 of 6
+

@@ -1,0 +1,75 @@
+APRIL 8, 2009
+NOTICE
+
+There will be a meeting of the Information Technology and Automation Committee of the
+Board of Commissioners of Cook County on Monday, April 13, 2009 at the hour of 10:00 A.M.
+in the Board Room, Room 569, County Building, 118 North Clark Street, Chicago, Illinois to
+consider the following:
+299712
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated February 23, 2009:
+requesting authorization for the Purchasing Agent to enter into a contract with
+ORACLE USA, INC., Reston, Virginia, for annual software maintenance
+services.
+Reason:
+
+Due to the transfer of licensing from Ciber, Inc., Contract No. 06-43575, the BEA Aqualogic Interaction and Studio software for the
+County Internet Portal project, and the subsequent acquisition of BEA
+by Oracle USA, Inc. $37,640.79 for annual software maintenance
+services and support for the Integration and Studio software
+components of the Portal is requested.
+Oracle USA, Inc. is the only vendor that can provide the maintenance
+service for this proprietary software. This software is used for the
+creation, maintenance and operation of the County web portal
+applications.
+
+Estimated Fiscal Impact: $37,640.79. Contract period: September 20, 2008
+through December 31, 2009. (009-441 Account). Requisition No. 90090006.
+Approval of this item would commit Fiscal Year 2009 funds.
+*Referred to the Information Technology and Automation Committee on
+April 1, 2009.
+
+ INFORMATION TECHNOLOGY AND AUTOMATION COMMITTEE NOTICE
+APRIL 8, 2009
+PAGE 2
+299722
+
+BUREAU OF TECHNOLOGY, by Antonio Hylton, Chief Information Officer,
+transmitting a Communication, dated March 23, 2009:
+requesting authorization for the Purchasing Agent to amend, increase by
+$820,675.72 and renew extend for one (1) year¸ Contract No. 06-45-207 with
+ORACLE USA, INC., Reston, Virginia, for annual software maintenance services
+for the Financial Management Information System FMIS.
+Board approved amount 11-06-07:
+Increase requested:
+Adjusted amount:
+Reason:
+
+$ 796,772.54
+820,675.72
+$1,617,448.26
+
+This software is used for the County’s accounts payable, accounts
+receivable, General Ledger, Fixed Assets, Purchasing and Inventory
+processing.
+
+Estimated Fiscal Impact: $820,675.72. Contract period extension: January 1,
+2009 through December 31, 2009. (490-441 Account). Requisition No.
+90120003.
+Approval of this item would commit Fiscal Year 2009 funds.
+*Referred to the Information Technology and Automation Committee on
+April 1, 2009.
+
+____________________________
+Matthew B. DeLeon, Secretary
+
+Chairman:
+Vice-Chairman:
+Members:
+
+Beavers
+Gorman
+Butler, Daley, Goslin, Moreno, Peraica, Schneider, Steele
+
+ 
