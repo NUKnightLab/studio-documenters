@@ -42,9 +42,9 @@ How can text analysis/machine learning be used to augment capacity in smaller ne
 
  * City Bureau [Documenters Field Guide](https://fieldguide.documenters.org/)
  * Nieman Lab [Local public meetings are a scrape and a tap away, on City Bureau’s Documenters tool](https://www.niemanlab.org/2019/01/local-public-meetings-are-a-scrape-and-a-tap-away-on-city-bureaus-documenters-app/)
- * [How Quartz used AI to help reporters search the Mauritius Leaks](https://qz.com/1670632/how-quartz-used-ai-to-help-reporters-search-the-mauritius-leaks/)
- * [Quartz AI Studio: Helping Journalists use Machine Learning](https://qz.ai/)
- * [the documents collected by City Bureau’s scrapers](https://www.documentcloud.org/public/search/Account:21089-documenters-app)
+ * Quartz [How Quartz used AI to help reporters search the Mauritius Leaks](https://qz.com/1670632/how-quartz-used-ai-to-help-reporters-search-the-mauritius-leaks/)
+ * Quartz AI Studio [Helping Journalists use Machine Learning](https://qz.ai/)
+ * DocumentCloud [documents collected by City Bureau’s scrapers](https://www.documentcloud.org/public/search/Account:21089-documenters-app)
 
 
 ### Outcome
