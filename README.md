@@ -1,2 +1,2 @@
 # Documenters.org
-Explorations and for the Documenters.org project
+Explorations for the Documenters.org project
