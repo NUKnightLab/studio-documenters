@@ -29,7 +29,7 @@ But again, this is a pretty big file, so you won't do much with this.
 
 Here are a couple of queries to get you started.
 
-What are the sources of the docs. Note: we need to do this []| pipe thing because of the list format of the data. See the [jq docs](https://stedolan.github.io/jq/) for more info.
+What are the sources of the docs. Note: we need to do this `[]|` pipe thing because of the list format of the data. See the [jq docs](https://stedolan.github.io/jq/) for more info.
 
 ```
 jq '.[]|.source' documents.json
