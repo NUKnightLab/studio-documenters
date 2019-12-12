@@ -33,18 +33,18 @@ How can text analysis/machine learning be used to augment capacity in smaller ne
 
 ### Milestones
 
- * Weeks 1-2: Meet with City Bureau, learn about meetings and documents; work with journalists and activists to begin developing questions about what’s in the documents; initial experiments with writing programs to analyze documents.
- * Weeks 3-5: Go deeper on software-based document analysis; generalize interviews with specialists into one or more personas who need a way to make use of information discovered by the software. Generate ideas for an effective interface for those people to make use of information.
- * Weeks 6-8: Further iteration on analysis software; further iteration on user interface for analysis
- * Weeks 9-10: Write up the project; work with City Bureau to transfer knowledge for ongoing development.
+ * [Weeks 1-2](https://github.com/NUKnightLab/Documenters.org/milestone/1): Meet with City Bureau, learn about meetings and documents; work with journalists and activists to begin developing questions about what’s in the documents; initial experiments with writing programs to analyze documents.
+ * [Weeks 3-5](https://github.com/NUKnightLab/Documenters.org/milestone/2): Go deeper on software-based document analysis; generalize interviews with specialists into one or more personas who need a way to make use of information discovered by the software. Generate ideas for an effective interface for those people to make use of information.
+ * [Weeks 6-8](https://github.com/NUKnightLab/Documenters.org/milestone/3): Further iteration on analysis software; further iteration on user interface for analysis
+ * [Weeks 9-10](https://github.com/NUKnightLab/Documenters.org/milestone/4): Write up the project; work with City Bureau to transfer knowledge for ongoing development.
 
 ### Links, Readings
 
-Documenters Field Guide (City Bureau)
-Nieman Lab:  Local public meetings are a scrape and a tap away, on City Bureau’s Documenters tool
-How Quartz used AI to help reporters search the Mauritius Leaks
-Quartz AI Studio: Helping Journalists use Machine Learning
-the documents collected by City Bureau’s scrapers
+ * City Bureau [Documenters Field Guide](https://fieldguide.documenters.org/)
+ * Nieman Lab [Local public meetings are a scrape and a tap away, on City Bureau’s Documenters tool](https://www.niemanlab.org/2019/01/local-public-meetings-are-a-scrape-and-a-tap-away-on-city-bureaus-documenters-app/)
+ * Quartz [How Quartz used AI to help reporters search the Mauritius Leaks](https://qz.com/1670632/how-quartz-used-ai-to-help-reporters-search-the-mauritius-leaks/)
+ * Quartz AI Studio [Helping Journalists use Machine Learning](https://qz.ai/)
+ * DocumentCloud [documents collected by City Bureau’s scrapers](https://www.documentcloud.org/public/search/Account:21089-documenters-app)
 
 
 ### Outcome
