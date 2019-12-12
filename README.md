@@ -50,7 +50,7 @@ How can text analysis/machine learning be used to augment capacity in smaller ne
  * Quartz [How Quartz used AI to help reporters search the Mauritius Leaks](https://qz.com/1670632/how-quartz-used-ai-to-help-reporters-search-the-mauritius-leaks/)
  * Quartz AI Studio [Helping Journalists use Machine Learning](https://qz.ai/)
  * DocumentCloud [documents collected by City Bureau’s scrapers](https://www.documentcloud.org/public/search/Account:21089-documenters-app)
-
+ * City Bureau's github [city-scrapers](https://github.com/city-bureau/city-scrapers)
 
 ### Outcome
 
