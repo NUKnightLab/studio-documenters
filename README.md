@@ -20,7 +20,7 @@ Fetch OCR docs from DocumentCloud
 
 See [Getting started with the data](https://github.com/NUKnightLab/Documenters.org/blob/master/EXPLORATIONS.md#getting-started-with-the-data) in the Explorations doc.
 
-## From the project one-sheet
+## From the [project one-sheet](https://docs.google.com/document/d/1JXfXJ9TPhkUZ6f3gySFPUIMTfm31S_iln7bCOOkq5bw/edit#)
 
 ### Description
 
