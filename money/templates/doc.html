@@ -1,0 +1,16 @@
+<html>
+<body>
+
+<div id="nav">
+  <a href="{{ url_for('index') }}">Home</a>
+</div>
+<hr/>
+
+<div>
+  {% for p in text %}
+    <p>{{ p }}</p>
+  {% endfor %}
+</div>
+
+</body>
+</html>
