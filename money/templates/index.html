@@ -1,0 +1,34 @@
+<html>
+<body>
+<p>{{ docs.docs|length }} documents with money references.</p>
+
+
+{% if request.args.get('money') %}
+  <h3>Docs with {{ request.args.money }} </h3>
+  <ul>
+  {%- for fn, doc in docs.docs.items() %}
+    {% if request.args['money'] in doc.moneys %}
+        <li><a href='/doc?doc={{ fn }}'>{{ fn }}</a>
+            <p>{{ doc.summary }}</p>
+        </li>
+    {% endif %}
+  {%- endfor %}
+  </ul>
+{% endif %}
+
+<h3>Moneys</h3>
+<ul>
+  {%- for m in docs.moneys %}
+  <li><a href='/?money={{ m }}'>{{ m }}</a></li>
+  {%- endfor %}
+</ul>
+
+<h3>Keywords</h3>
+<ul>
+  {%- for k in docs.keywords %}
+  <li>{{ k }}</li>
+  {%- endfor %}
+</ul>
+
+</body>
+</html>
