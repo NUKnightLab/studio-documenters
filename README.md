@@ -1,5 +1,9 @@
 # Documenters.org
-Explorations for the Documenters.org project
+In the Winter 2020 Knight Lab Studio, we undertook a project we called ["Speed Reading Robots"](https://studio.knightlab.com/projects/documenters/), with a goal of exploring whether computational methods could help find meaning in or direct attention to documents gathered as part of the [Documenters.org](https://www.documenters.org/) web scraping process.
+
+We explored a number of methods, including extracting structured data, topic modeling, and entity analysis.  
+
+This repository includes a variety of code scraps to that end.
 
 
 ## Tools
