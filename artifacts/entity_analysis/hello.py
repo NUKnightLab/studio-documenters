@@ -8,7 +8,8 @@ app = Flask(__name__)
 def hello_world():
 
 	# Retrieve list of other documents using formattedsearch
-	article_name, names, orgs, ppl_articles_dict, org_articles_dict = search_json()
+	article_name, names, orgs, ppl_articles_dict, org_articles_dict, url = search_json()
+	print(url)
 
 	# Setting up javascript to expand and collapse list
 	html = '''<script> 
@@ -23,12 +24,14 @@ def hello_world():
 				    btn.innerHTML = "Show Related Documents";
 				  }
 				}
-			</script>'''
+			</script><body>'''
 
 	# Page Title
 	html += "<h1> Entity Analysis for Article: " + article_name + "</h1>"
 
 	# Goes through list of people
+	html += "<div style='display:flex;'>"
+	html += "<div>"
 	counter = 0
 	html += "<h2> Most Relevant People and Associated Documents </h2>"
 	for ent in ppl_articles_dict.keys():
@@ -65,6 +68,11 @@ def hello_world():
 				continue
 			html += "<li><a target=_blank href="+i[1]+">"+i[0]+"</a></li>"
 		html += "</ol>"
+
+	html += "</div>"
+	html += "<div style='border-style:solid;border-width:medium;margin:50px;margin-top:0px;padding:20px;padding-top:0px;height:70%'> <h2> Document: </h2>"
+	html += '<iframe width="420" height="600" src="' + url + '"></iframe>'
+	html += "</div></div>"
 
 	html += "</body>"
 
